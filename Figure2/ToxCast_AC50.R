@@ -10,4 +10,9 @@ tcs_scaled<-as.matrix(scale(TCS))
 
 tcs_scaled <-tcs_scaled[rowSums(!is.na(tcs_scaled))!=0, colSums(!is.na(tcs_scaled))!=0]
 
-#hmap<-heatmap(tcs_scaled, Colv=F, scale='none')
+png(file="ToxCast_Summary_columnsort_false.png", width=2400, height=6800, units="px")
+
+heatmap(tcs_scaled, Colv=F, scale='none')
+
+##
+dev.off()

@@ -4,7 +4,7 @@ library(ChemmineR)
 ####################
 #files <- list.files(recursive=TRUE, pattern = "_coord.rda")
 #files <- list.files(recursive=TRUE, pattern = "_sdfset.rda")
-files <- list.files(recursive=TRUE, pattern = ".sdf")
+files <- list.files(recursive=FALSE, pattern = ".sdf")
 ####################
 #par(mfrow=c(3,3))
 ####################
