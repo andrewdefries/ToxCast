@@ -18,26 +18,26 @@ tcs_scaled <-tcs_scaled[rowSums(!is.na(tcs_scaled))!=0, colSums(!is.na(tcs_scale
 
 #test output cladogram
 
-png(file="ToxCast_Summary_columnsort_false.png", width=9600, height=9600, units="px")
+png(file="ToxCast_Summary_columnsort_true.png", width=9600, height=9600, units="px")
 
-heatmap(tcs_scaled, Colv=F, scale='none')
+heatmap(tcs_scaled, Colv=T, scale='none')
 
 ##
 dev.off()
 
 
 #cluster rows
-png(file="ToxCast_Summary_clusterrows_true.png", width=9600, height=9600, units="px")
+#png(file="ToxCast_Summary_clusterrows_true.png", width=9600, height=9600, units="px")
 
-hc.rows<-hclust(dist(tcs_scaled))
-plot(hc.rows)
+#hc.rows<-hclust(dist(tcs_scaled))
+#plot(hc.rows)
 
 dev.off()
 
 #transpose matrix and cluster columns
-png(file="ToxCast_Summary_clustercols_true.png", width=9600, height=9600, units="px")
+#png(file="ToxCast_Summary_clustercols_true.png", width=9600, height=9600, units="px")
 
-hc.col<-hclust(dist(t(tcs_scaled)))
-plot(hc.col)
+#hc.col<-hclust(dist(t(tcs_scaled)))
+#plot(hc.col)
 
 dev.off()
