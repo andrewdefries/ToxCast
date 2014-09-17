@@ -1,0 +1,93 @@
+79-92-5
+ChemmineR-0915142007XD
+
+ 10 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.9144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5520   -1.9159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5222   -1.2340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1731   -2.3259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2786    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7277   -1.9403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2812   -2.8860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9089   -2.3096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7521   -0.6982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6831   -4.0591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <ID>
+4694
+
+> <Formula>
+C10H16
+
+> <FW>
+136.234
+
+> <DSSTox_CID>
+6488
+
+> <DSSTox_RID>
+78121
+
+> <DSSTox_GSID>
+26488
+
+> <DSSTox_FileID_Sort>
+2804
+
+> <TS_ChemName>
+2,2-Dimethyl-3-methylenebicyclo[2.2.1]heptane
+
+> <TS_ChemName_Synonyms>
+Camphene
+
+> <TS_CASRN>
+79-92-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+racemic mixture of d- [5794-03-6] and l- [5794-04-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16
+
+> <STRUCTURE_MW>
+136.234
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2-dimethyl-3-methylidenebicyclo[2.2.1]heptane
+
+> <STRUCTURE_SMILES>
+CC2(C)C(=C)C1CCC2C1
+
+> <STRUCTURE_SMILES_Desalt>
+CC2(C)C(=C)C1CCC2C1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

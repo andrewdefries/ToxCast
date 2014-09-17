@@ -1,0 +1,93 @@
+29385-43-1
+ChemmineR-0915142007XD
+
+ 10 11  0  0  0  0  0  0  0  0  1 V2000
+    3.5523   -2.3914    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3479   -1.3348    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5523   -0.2565    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2957   -0.6348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2957   -2.0131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1174   -2.6522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1174    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1174   -3.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+4576
+
+> <Formula>
+C7H7N3
+
+> <FW>
+133.1506
+
+> <DSSTox_CID>
+6171
+
+> <DSSTox_RID>
+78044
+
+> <DSSTox_GSID>
+26171
+
+> <DSSTox_FileID_Sort>
+2727
+
+> <TS_ChemName>
+Tolyltriazole
+
+> <TS_ChemName_Synonyms>
+Tolytriazole (1H-Benzotriazole, 4(or 5)-methyl-)
+
+> <TS_CASRN>
+29385-43-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 4-methyl-1H-1,2,3-benzotriazole [29878-31-7] and 5-methyl-1H-1,2,3-benzotriazole [136-85-6]; structure shown 4-methyl-1H-1,2,3-benzotriazole
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C7H7N3
+
+> <STRUCTURE_MW>
+133.1506
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methyl-1H-benzotriazole
+
+> <STRUCTURE_SMILES>
+Cc1cccc2nnnc12
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cccc2nnnc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

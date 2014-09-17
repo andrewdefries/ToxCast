@@ -1,0 +1,103 @@
+56776-01-3
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    3.9902   -5.3203    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6601    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -1.9991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4837   -0.8464    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8137   -3.1438    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -1.3301    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4582   -1.9991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6028   -1.3301    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6028    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7556   -1.9991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9083   -1.3301    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0610   -1.9991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0610   -3.3292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9083   -3.9902    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7556   -3.3292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6028   -3.9902    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+11211
+
+> <Formula>
+C12H19Cl2NO
+
+> <FW>
+264.1914 (36.4609+227.7304)
+
+> <DSSTox_CID>
+25805
+
+> <DSSTox_RID>
+81143
+
+> <DSSTox_GSID>
+45805
+
+> <DSSTox_FileID_Sort>
+5824
+
+> <TS_ChemName>
+Tulobuterol hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+56776-01-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [41570-61-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H19Cl2NO
+
+> <STRUCTURE_MW>
+264.1914
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-(tert-butylamino)-1-(2-chlorophenyl)ethanol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.OC(CNC(C)(C)C)c1ccccc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+OC(CNC(C)(C)C)c1ccccc1Cl
+
+> <Substance_modify_yyyymmdd>
+20110909
+
+$$$$

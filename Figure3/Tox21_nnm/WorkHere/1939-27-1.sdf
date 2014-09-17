@@ -1,0 +1,104 @@
+1939-27-1
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    6.6490   -5.9400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3147   -4.7900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6462   -4.7900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6490   -3.6401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3147   -2.4815    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3174   -3.6401    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6517   -2.4815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3174   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6517   -0.1816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3288   -0.1816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6630   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3288   -2.4815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -2.6630    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3315    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+M  END
+> <ID>
+16076
+
+> <Formula>
+C11H12F3NO
+
+> <FW>
+231.2143
+
+> <DSSTox_CID>
+31463
+
+> <DSSTox_RID>
+97349
+
+> <DSSTox_GSID>
+57674
+
+> <DSSTox_FileID_Sort>
+8416
+
+> <TS_ChemName>
+3-Trifluoromethylisobutyranilide
+
+> <TS_ChemName_Synonyms>
+2-Methyl-n-(a,a,a-trifluoro-m-tolyl)propionamide
+
+> <TS_CASRN>
+1939-27-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H12F3NO
+
+> <STRUCTURE_MW>
+231.2143
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-N-[3-(trifluoromethyl)phenyl]propanamide
+
+> <STRUCTURE_SMILES>
+O=C(Nc1cc(ccc1)C(F)(F)F)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Nc1cc(ccc1)C(F)(F)F)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

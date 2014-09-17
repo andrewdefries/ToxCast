@@ -1,0 +1,100 @@
+92146-82-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.6375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3053   -2.9673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4878   -3.4551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8069   -3.4551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1391   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1391   -4.6107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1473   -3.4551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8093   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8093   -4.6107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1473   -1.1498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1498   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1473   -5.7604    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8093    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8176   -1.1498    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <ID>
+14237
+
+> <Formula>
+C11H15NO2
+
+> <FW>
+193.2423
+
+> <DSSTox_CID>
+29332
+
+> <DSSTox_RID>
+83448
+
+> <DSSTox_GSID>
+49373
+
+> <DSSTox_FileID_Sort>
+8123
+
+> <TS_ChemName>
+tert-Butyl-3-aminobenzoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+92146-82-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H15NO2
+
+> <STRUCTURE_MW>
+193.2423
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tert-butyl 3-aminobenzoate
+
+> <STRUCTURE_SMILES>
+Nc1cc(ccc1)C(=O)OC(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1cc(ccc1)C(=O)OC(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

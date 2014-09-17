@@ -1,0 +1,103 @@
+2756-56-1
+ChemmineR-0915142007XD
+
+ 15 16  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -3.9474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5659   -2.9260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5527   -2.2221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1870   -3.3332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1732   -0.9592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7742   -2.9398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3187   -3.9129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9806    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2622   -0.0897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1870   -4.6030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5816   -3.7335    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3546   -4.7410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6036   -4.5547    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8853   -5.9142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6582   -6.9010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  1  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 11  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+8994
+
+> <Formula>
+C13H22O2
+
+> <FW>
+210.3126
+
+> <DSSTox_CID>
+22062
+
+> <DSSTox_RID>
+79912
+
+> <DSSTox_GSID>
+42062
+
+> <DSSTox_FileID_Sort>
+4594
+
+> <TS_ChemName>
+Isobornyl propanoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2756-56-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H22O2
+
+> <STRUCTURE_MW>
+210.3126
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1R,2R,4R)-1,7,7-trimethylbicyclo[2.2.1]hept-2-yl propanoate
+
+> <STRUCTURE_SMILES>
+CCC(=O)O[C@@H]1C[C@H]2CC[C@]1(C)C2(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(=O)O[C@@H]1C[C@H]2CC[C@]1(C)C2(C)C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

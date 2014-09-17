@@ -1,0 +1,95 @@
+50-70-4
+ChemmineR-0915142007XD
+
+ 12 11  0  0  1  0  0  0  0  0  1 V2000
+    3.4982   -1.3361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5994   -2.0406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7898   -1.4252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8384   -0.0972    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9072   -2.1378    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0976   -1.5223    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5508   -3.3686    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3078   -1.9434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2592   -3.2714    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1903   -1.2389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8462    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5467    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 12  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  1  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  8  9  1  6  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+3208
+
+> <Formula>
+C6H14O6
+
+> <FW>
+182.1718
+
+> <DSSTox_CID>
+3588
+
+> <DSSTox_RID>
+77095
+
+> <DSSTox_GSID>
+23588
+
+> <DSSTox_FileID_Sort>
+1778
+
+> <TS_ChemName>
+D-Glucitol
+
+> <TS_ChemName_Synonyms>
+d-Sorbitol
+
+> <TS_CASRN>
+50-70-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+absolute stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O6
+
+> <STRUCTURE_MW>
+182.1718
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+D-glucitol
+
+> <STRUCTURE_SMILES>
+O[C@H]([C@H](O)CO)[C@H](O)[C@@H](O)CO
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@H]([C@H](O)CO)[C@H](O)[C@@H](O)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

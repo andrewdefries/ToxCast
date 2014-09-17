@@ -1,0 +1,79 @@
+7783-00-8
+ChemmineR-0915142007XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    1.1518    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9950    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -1.9950    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.3269    0.0000 Se   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+3609
+
+> <Formula>
+H2O3Se
+
+> <FW>
+128.9741
+
+> <DSSTox_CID>
+4300
+
+> <DSSTox_RID>
+77360
+
+> <DSSTox_GSID>
+24300
+
+> <DSSTox_FileID_Sort>
+2043
+
+> <TS_ChemName>
+Selenious acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7783-00-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+H2O3Se
+
+> <STRUCTURE_MW>
+128.9741
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+selenous acid
+
+> <STRUCTURE_SMILES>
+O=[Se](O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[Se](O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,105 @@
+85-19-8
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    4.6206   -1.3305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6206    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063   -3.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531   -3.3223    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531   -1.9918    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063   -1.3305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4594   -1.9918    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4594   -3.3223    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3305    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6206   -3.9916    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0638   -1.9918    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0638   -3.3223    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9268   -3.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7737   -3.3223    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7737   -1.9918    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9268   -1.3305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1 15  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+12969
+
+> <Formula>
+C13H9ClO2
+
+> <FW>
+232.6624
+
+> <DSSTox_CID>
+27870
+
+> <DSSTox_RID>
+82623
+
+> <DSSTox_GSID>
+47894
+
+> <DSSTox_FileID_Sort>
+7300
+
+> <TS_ChemName>
+(5-Chloro-2-hydroxyphenyl)phenylmethanone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+85-19-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H9ClO2
+
+> <STRUCTURE_MW>
+232.6624
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5-chloro-2-hydroxyphenyl)(phenyl)methanone
+
+> <STRUCTURE_SMILES>
+Oc2ccc(Cl)cc2C(=O)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccc(Cl)cc2C(=O)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+
+
+$$$$

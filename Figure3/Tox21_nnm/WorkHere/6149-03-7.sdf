@@ -1,0 +1,109 @@
+6149-03-7
+ChemmineR-0915142007XD
+
+ 19 18  0  0  0  0  0  0  0  0  2 V2000
+   13.3257   -5.4187    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+   11.5148   -2.0044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5148   -0.6773    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3537    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2063   -0.6773    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2063   -2.0044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3537   -2.6541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6622   -2.6541    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+   13.3257   -1.5067    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   12.0125   -3.8152    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+   13.8233   -3.3314    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0728    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9117   -0.6773    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7505    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6170   -0.6773    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4697    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3085   -0.6497    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1612    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6497    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+12716
+
+> <Formula>
+C14H21NaO3S
+
+> <FW>
+292.3695 (22.9892+269.3803)
+
+> <DSSTox_CID>
+27594
+
+> <DSSTox_RID>
+82441
+
+> <DSSTox_GSID>
+47594
+
+> <DSSTox_FileID_Sort>
+7122
+
+> <TS_ChemName>
+Sodium 4-octylbenzenesulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6149-03-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H21NaO3S
+
+> <STRUCTURE_MW>
+292.3695
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 4-octylbenzenesulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].O=S([O-])(=O)c1ccc(CCCCCCCC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+OS(=O)(=O)c1ccc(CCCCCCCC)cc1
+
+> <Substance_modify_yyyymmdd>
+20101001
+
+$$$$

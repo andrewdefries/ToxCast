@@ -1,0 +1,105 @@
+2353-33-5
+ChemmineR-0915142007XD
+
+ 16 17  0  0  1  0  0  0  0  0  1 V2000
+    4.2857   -5.8164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2857   -3.8830    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2385   -5.0027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8668   -7.0248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1579   -3.2224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3652   -3.2224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1590   -5.7842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5376   -6.9925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1579   -1.9737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0301   -3.8830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3652   -1.9737    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9506   -5.3330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7965   -8.0559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2857   -1.3131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.2111    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2857    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  1  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 11  2  0  0  0  0
+  7 12  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8 13  1  6  0  0  0
+  9 14  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <ID>
+6272
+
+> <Formula>
+C8H12N4O4
+
+> <FW>
+228.2053
+
+> <DSSTox_CID>
+10432
+
+> <DSSTox_RID>
+78849
+
+> <DSSTox_GSID>
+30432
+
+> <DSSTox_FileID_Sort>
+3531
+
+> <TS_ChemName>
+Decitabine
+
+> <TS_ChemName_Synonyms>
+Decitabine (5-aza-2'-deoxycytidine) (5A2dc)
+
+> <TS_CASRN>
+2353-33-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12N4O4
+
+> <STRUCTURE_MW>
+228.2053
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-1-(2-deoxy-beta-D-erythro-pentofuranosyl)-1,3,5-triazin-2(1H)-one
+
+> <STRUCTURE_SMILES>
+NC1=NC(=O)N(C=N1)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+> <STRUCTURE_SMILES_Desalt>
+NC1=NC(=O)N(C=N1)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

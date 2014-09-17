@@ -1,0 +1,109 @@
+23049-93-6
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    1.9956   -8.0601    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6608   -6.9111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -6.9111    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -5.7621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6608   -4.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -4.6045    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6477   -3.4556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9781   -3.4556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6433   -2.3066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9737   -2.3066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6389   -1.1576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9737    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6433    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9781   -1.1576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -3.4556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6652   -3.4556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6652   -5.7621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 18  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+16095
+
+> <Formula>
+C15H15NO2
+
+> <FW>
+241.2851
+
+> <DSSTox_CID>
+31482
+
+> <DSSTox_RID>
+97367
+
+> <DSSTox_GSID>
+57693
+
+> <DSSTox_FileID_Sort>
+8434
+
+> <TS_ChemName>
+Enfenamic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+23049-93-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H15NO2
+
+> <STRUCTURE_MW>
+241.2851
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[(2-phenylethyl)amino]benzoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)c2ccccc2NCCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)c2ccccc2NCCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

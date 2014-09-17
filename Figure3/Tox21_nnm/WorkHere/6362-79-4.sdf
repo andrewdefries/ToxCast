@@ -1,0 +1,105 @@
+6362-79-4
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  2 V2000
+    3.4627   -1.9993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5983   -2.6550    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5983   -3.9825    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4627   -4.6623    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3112   -3.9825    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3112   -2.6550    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4627   -0.6718    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5983    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3112    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -4.6623    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9825    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -5.9898    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7499   -4.6623    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0941   -5.8139    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4297   -3.5027    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9095   -5.3181    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    7.9971   -4.2624    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+M  END
+> <ID>
+5916
+
+> <Formula>
+C8H5NaO7S
+
+> <FW>
+268.1759 (245.1866+22.9892)
+
+> <DSSTox_CID>
+9279
+
+> <DSSTox_RID>
+78744
+
+> <DSSTox_GSID>
+29279
+
+> <DSSTox_FileID_Sort>
+3426
+
+> <TS_ChemName>
+Sodium 5-sulfoisophthalate
+
+> <TS_ChemName_Synonyms>
+Sodium 5-sulfoisophthalate (1,3-Benzenedicarboxylic acid, 5-sulfo-, monosodium salt)
+
+> <TS_CASRN>
+6362-79-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [22326-31-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H5NaO7S
+
+> <STRUCTURE_MW>
+268.1759
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 3,5-dicarboxybenzenesulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].O=S([O-])(=O)c1cc(cc(c1)C(=O)O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OS(=O)(=O)c1cc(cc(c1)C(=O)O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

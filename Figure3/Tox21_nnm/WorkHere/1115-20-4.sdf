@@ -1,0 +1,99 @@
+1115-20-4
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    5.7742   -1.3344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9307   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0872   -2.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7742    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6178   -1.9894    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0872   -3.9951    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5858   -0.8492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2595   -3.1459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4694   -1.3344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3129   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1565   -2.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9842   -3.1459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -0.8492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+5109
+
+> <Formula>
+C10H20O4
+
+> <FW>
+204.2634
+
+> <DSSTox_CID>
+7361
+
+> <DSSTox_RID>
+78424
+
+> <DSSTox_GSID>
+27361
+
+> <DSSTox_FileID_Sort>
+3107
+
+> <TS_ChemName>
+3-Hydroxy-2,2-dimethylpropyl 3-hydroxy-2,2-dimethylpropanoate
+
+> <TS_ChemName_Synonyms>
+3-Hydroxy-2,2-dimethylpropyl 3-hydroxy-2,2-dimethylpropanoate (Neopental glycol monohydroxypivalate) (Propanoic acid, 3-hydroxy-2,2-dimethyl-, 3-hydroxy-2,2-dimethylpropyl ester)
+
+> <TS_CASRN>
+1115-20-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20O4
+
+> <STRUCTURE_MW>
+204.2634
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-hydroxy-2,2-dimethylpropyl 3-hydroxy-2,2-dimethylpropanoate
+
+> <STRUCTURE_SMILES>
+CC(C)(CO)COC(=O)C(C)(C)CO
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(CO)COC(=O)C(C)(C)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

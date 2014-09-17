@@ -1,0 +1,92 @@
+63133-82-4
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.4568   -1.9943    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4568   -3.3239    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028   -1.3296    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028   -3.9887    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1487   -1.9943    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1487   -3.3239    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6056   -1.3296    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028   -5.3182    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3296    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+M  END
+> <ID>
+7910
+
+> <Formula>
+C8H10ClN
+
+> <FW>
+155.6247
+
+> <DSSTox_CID>
+20714
+
+> <DSSTox_RID>
+79562
+
+> <DSSTox_GSID>
+40714
+
+> <DSSTox_FileID_Sort>
+4244
+
+> <TS_ChemName>
+2-Chloro-4,6-dimethylaniline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+63133-82-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10ClN
+
+> <STRUCTURE_MW>
+155.6247
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-4,6-dimethylaniline
+
+> <STRUCTURE_SMILES>
+Cc1cc(C)cc(Cl)c1N
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(C)cc(Cl)c1N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

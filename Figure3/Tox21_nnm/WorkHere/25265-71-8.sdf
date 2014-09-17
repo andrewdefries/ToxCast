@@ -1,0 +1,89 @@
+25265-71-8
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    2.2617   -1.3377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1033   -2.0066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2617    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5786   -1.3377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7371   -2.0066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8955   -1.3377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5786    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4202   -2.0066    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+4067
+
+> <Formula>
+C6H14O3
+
+> <FW>
+134.1736
+
+> <DSSTox_CID>
+5186
+
+> <DSSTox_RID>
+78591
+
+> <DSSTox_GSID>
+27856
+
+> <DSSTox_FileID_Sort>
+3274
+
+> <TS_ChemName>
+Dipropylene glycol
+
+> <TS_ChemName_Synonyms>
+Dipropylene glycol (Propanol, oxybis-)
+
+> <TS_CASRN>
+25265-71-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 1,1'-; 2,2'- and  3,3'-oxydipropan-1-ol; structure shown 1,1'-
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C6H14O3
+
+> <STRUCTURE_MW>
+134.1736
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1'-oxydipropan-1-ol
+
+> <STRUCTURE_SMILES>
+CCC(O)OC(O)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(O)OC(O)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

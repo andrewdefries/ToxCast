@@ -1,0 +1,119 @@
+119168-77-3
+ChemmineR-0915142007XD
+
+ 23 24  0  0  0  0  0  0  0  0  1 V2000
+   11.3124   -3.4390    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   10.4300   -4.4345    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3554   -2.5792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2083   -3.8915    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6563   -2.2851    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0544   -4.5589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0544   -5.8938    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9006   -3.8915    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3599   -1.6742    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7580   -4.5589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6042   -3.8915    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4503   -4.5589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6042   -2.5566    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3077   -3.8915    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4503   -1.9005    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3077   -2.5566    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -1.9005    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4751   -3.0544    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8100   -0.7466    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2331    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.1880   -1.0860    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.4187    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.7015   -5.7354    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5 21  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <ID>
+6686
+
+> <Formula>
+C18H24ClN3O
+
+> <FW>
+333.8557
+
+> <DSSTox_CID>
+14223
+
+> <DSSTox_RID>
+79126
+
+> <DSSTox_GSID>
+34223
+
+> <DSSTox_FileID_Sort>
+3808
+
+> <TS_ChemName>
+Tebufenpyrad
+
+> <TS_ChemName_Synonyms>
+Tebufenpyrad (1H-Pyrazole-5-carboxamide, 4-chloro-N-((4-(1,1-dimethylethyl)phenyl)methyl)-3-ethyl-1-methyl-)
+
+> <TS_CASRN>
+119168-77-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H24ClN3O
+
+> <STRUCTURE_MW>
+333.8557
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(4-tert-butylbenzyl)-4-chloro-3-ethyl-1-methyl-1H-pyrazole-5-carboxamide
+
+> <STRUCTURE_SMILES>
+Clc2c(C(=O)NCc1ccc(cc1)C(C)(C)C)n(C)nc2CC
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2c(C(=O)NCc1ccc(cc1)C(C)(C)C)n(C)nc2CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

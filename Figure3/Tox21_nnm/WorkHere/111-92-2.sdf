@@ -1,0 +1,89 @@
+111-92-2
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    4.6099   -0.6638    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7624    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9149   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0674    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2199   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+3933
+
+> <Formula>
+C8H19N
+
+> <FW>
+129.2432
+
+> <DSSTox_CID>
+4952
+
+> <DSSTox_RID>
+77595
+
+> <DSSTox_GSID>
+24952
+
+> <DSSTox_FileID_Sort>
+2278
+
+> <TS_ChemName>
+N-Butyl-1-butanamine
+
+> <TS_ChemName_Synonyms>
+N-Butyl-1-butanamine (Di-n-butylamine) (Dibutylamine)
+
+> <TS_CASRN>
+111-92-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H19N
+
+> <STRUCTURE_MW>
+129.2432
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-butylbutan-1-amine
+
+> <STRUCTURE_SMILES>
+CCCCNCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCNCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

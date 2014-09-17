@@ -1,0 +1,90 @@
+98-88-4
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    4.6727    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9998   -1.1401    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6727   -2.2943    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6634   -1.1401    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0093   -2.2943    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0093    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6729   -2.2943    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6729    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1401    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4746
+
+> <Formula>
+C7H5ClO
+
+> <FW>
+140.567
+
+> <DSSTox_CID>
+6631
+
+> <DSSTox_RID>
+78168
+
+> <DSSTox_GSID>
+26631
+
+> <DSSTox_FileID_Sort>
+2851
+
+> <TS_ChemName>
+Benzoyl chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+98-88-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H5ClO
+
+> <STRUCTURE_MW>
+140.567
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzoyl chloride
+
+> <STRUCTURE_SMILES>
+ClC(=O)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(=O)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

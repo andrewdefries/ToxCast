@@ -1,0 +1,101 @@
+831-82-3
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    5.7555   -0.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9082    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0609   -0.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0609   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9082   -2.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6028   -2.6601    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4581   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -2.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -0.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4581   -0.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+1968
+
+> <Formula>
+C12H10O2
+
+> <FW>
+186.2066
+
+> <DSSTox_CID>
+2127
+
+> <DSSTox_RID>
+76498
+
+> <DSSTox_GSID>
+22127
+
+> <DSSTox_FileID_Sort>
+1182
+
+> <TS_ChemName>
+4-Phenoxyphenol
+
+> <TS_ChemName_Synonyms>
+p-phenoxyphenol
+
+> <TS_CASRN>
+831-82-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10O2
+
+> <STRUCTURE_MW>
+186.2066
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-phenoxyphenol
+
+> <STRUCTURE_SMILES>
+Oc2ccc(Oc1ccccc1)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccc(Oc1ccccc1)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

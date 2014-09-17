@@ -1,0 +1,96 @@
+100-22-1
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    0.6654   -1.1511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6616    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9924    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6578   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9885   -1.1511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6539    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6539   -2.3023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9924   -2.3023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6616   -2.3023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+4556
+
+> <Formula>
+C10H16N2
+
+> <FW>
+164.2474
+
+> <DSSTox_CID>
+6124
+
+> <DSSTox_RID>
+78027
+
+> <DSSTox_GSID>
+26124
+
+> <DSSTox_FileID_Sort>
+2710
+
+> <TS_ChemName>
+N,N,N',N'-Tetramethyl-p-phenylenediamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+100-22-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16N2
+
+> <STRUCTURE_MW>
+164.2474
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N,N',N'-tetramethylbenzene-1,4-diamine
+
+> <STRUCTURE_SMILES>
+CN(C)c1ccc(cc1)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)c1ccc(cc1)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

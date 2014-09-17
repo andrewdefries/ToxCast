@@ -1,0 +1,100 @@
+140-49-8
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.4581    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3329   -3.4581    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9947   -2.3023    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3329   -1.1558    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3276   -2.3023    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9987   -1.1558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3223   -1.1558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9934   -2.3023    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3263   -2.3023    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9881   -1.1558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3263    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3210   -1.1558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9987   -3.4581    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3223   -3.4581    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+285
+
+> <Formula>
+C10H10ClNO2
+
+> <FW>
+211.6449
+
+> <DSSTox_CID>
+294
+
+> <DSSTox_RID>
+75494
+
+> <DSSTox_GSID>
+20294
+
+> <DSSTox_FileID_Sort>
+178
+
+> <TS_ChemName>
+4'-(Chloroacetyl)acetanilide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+140-49-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H10ClNO2
+
+> <STRUCTURE_MW>
+211.6449
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-[4-(chloroacetyl)phenyl]acetamide
+
+> <STRUCTURE_SMILES>
+O=C(C)Nc1ccc(cc1)C(=O)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)Nc1ccc(cc1)C(=O)CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

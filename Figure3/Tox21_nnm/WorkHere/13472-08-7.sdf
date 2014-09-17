@@ -1,0 +1,99 @@
+13472-08-7
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    5.4377   -1.5030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7855   -2.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9340   -3.3108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0896   -2.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1112   -0.3545    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1119   -3.8071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6735   -3.1336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3257   -1.9851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1772   -1.3257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1772    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.2892    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9993   -0.8295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4813   -2.6586    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6299   -1.9851    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  3  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  3  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+5363
+
+> <Formula>
+C10H16N4
+
+> <FW>
+192.2608
+
+> <DSSTox_CID>
+7747
+
+> <DSSTox_RID>
+78554
+
+> <DSSTox_GSID>
+27747
+
+> <DSSTox_FileID_Sort>
+3237
+
+> <TS_ChemName>
+2,2'-Azobis(2-methylbutanenitrile)
+
+> <TS_ChemName_Synonyms>
+Butanenitrile, 2,2'-azobis[2-methyl-
+
+> <TS_CASRN>
+13472-08-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16N4
+
+> <STRUCTURE_MW>
+192.2608
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-(E)-diazene-1,2-diylbis(2-methylbutanenitrile)
+
+> <STRUCTURE_SMILES>
+CC(CC)(/N=N/C(C)(CC)C#N)C#N
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CC)(/N=N/C(C)(CC)C#N)C#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

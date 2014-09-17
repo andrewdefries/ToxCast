@@ -1,0 +1,101 @@
+17689-77-9
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    2.3408   -2.6968    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1704   -2.0118    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4950   -3.3602    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0042   -1.5264    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6558   -3.8672    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5663   -3.8510    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1704   -0.6688    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3408    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4950   -4.7085    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3408   -5.3935    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6600   -5.3935    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3526   -1.5264    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0375   -0.3560    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0375   -2.6968    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+5399
+
+> <Formula>
+C8H14O6Si
+
+> <FW>
+234.2787
+
+> <DSSTox_CID>
+7792
+
+> <DSSTox_RID>
+78567
+
+> <DSSTox_GSID>
+27792
+
+> <DSSTox_FileID_Sort>
+3250
+
+> <TS_ChemName>
+Ethyltriacetoxysilane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+17689-77-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14O6Si
+
+> <STRUCTURE_MW>
+234.2787
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+ethylsilanetriyl triacetate
+
+> <STRUCTURE_SMILES>
+O=C(C)O[Si](OC(C)=O)(OC(=O)C)CC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)O[Si](OC(C)=O)(OC(=O)C)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

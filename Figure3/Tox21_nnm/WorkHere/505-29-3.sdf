@@ -1,0 +1,84 @@
+505-29-3
+ChemmineR-0915142007XD
+
+  6  6  0  0  0  0  0  0  0  0  1 V2000
+    0.6619    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6583   -1.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -2.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6619   -2.3021    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+3493
+
+> <Formula>
+C4H8S2
+
+> <FW>
+120.2363
+
+> <DSSTox_CID>
+4077
+
+> <DSSTox_RID>
+77280
+
+> <DSSTox_GSID>
+24077
+
+> <DSSTox_FileID_Sort>
+1963
+
+> <TS_ChemName>
+1,4-Dithiane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+505-29-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8S2
+
+> <STRUCTURE_MW>
+120.2363
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-dithiane
+
+> <STRUCTURE_SMILES>
+C1CSCCS1
+
+> <STRUCTURE_SMILES_Desalt>
+C1CSCCS1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

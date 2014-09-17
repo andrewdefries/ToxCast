@@ -1,0 +1,108 @@
+77-51-0
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    0.3524   -3.4690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5134   -4.1324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4926   -5.4454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6536   -3.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239   -4.6092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6438   -4.6092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210   -3.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210   -5.7702    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6576   -6.9104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6547   -5.7702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8076   -2.7987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9686   -2.1353    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9902   -2.3012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6536   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9764    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6565    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6565   -2.3150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  3  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+16228
+
+> <Formula>
+C16H24N2
+
+> <FW>
+244.3752
+
+> <DSSTox_CID>
+31619
+
+> <DSSTox_RID>
+97503
+
+> <DSSTox_GSID>
+57830
+
+> <DSSTox_FileID_Sort>
+8570
+
+> <TS_ChemName>
+Isoaminile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+77-51-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H24N2
+
+> <STRUCTURE_MW>
+244.3752
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(dimethylamino)-2-isopropyl-2-phenylpentanenitrile
+
+> <STRUCTURE_SMILES>
+CC(C)C(C#N)(CC(C)N(C)C)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)C(C#N)(CC(C)N(C)C)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

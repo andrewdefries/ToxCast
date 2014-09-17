@@ -1,0 +1,93 @@
+55589-62-3
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  2 V2000
+    3.4800   -1.1526    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4800   -2.4613    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+    2.3349   -3.1008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3349   -0.4610    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1749   -2.4613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1749   -1.1526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1344    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8110   -1.1526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3349   -4.4392    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4359   -2.2159    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1  8  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  9  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 10  1  0  0  0  0
+M  END
+> <ID>
+6278
+
+> <Formula>
+C4H4KNO4S
+
+> <FW>
+201.2422 (162.1444+39.0978)
+
+> <DSSTox_CID>
+10606
+
+> <DSSTox_RID>
+78852
+
+> <DSSTox_GSID>
+30606
+
+> <DSSTox_FileID_Sort>
+3534
+
+> <TS_ChemName>
+Acesulfame potassium
+
+> <TS_ChemName_Synonyms>
+6-Methyl-1,2,3-oxathiazin-4(3h)-one 2,2-dioxide potassium salt
+
+> <TS_CASRN>
+55589-62-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [33665-90-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H4KNO4S
+
+> <STRUCTURE_MW>
+201.2422
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+potassium 6-methyl-4-oxo-4H-1,2,3-oxathiazin-3-ide 2,2-dioxide
+
+> <STRUCTURE_SMILES>
+[K+].CC1=CC(=O)[N-]S(=O)(=O)O1
+
+> <STRUCTURE_SMILES_Desalt>
+CC1=CC(=O)NS(=O)(=O)O1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

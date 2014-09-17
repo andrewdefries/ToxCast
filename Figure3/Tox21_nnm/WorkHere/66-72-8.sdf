@@ -1,0 +1,96 @@
+66-72-8
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    3.4639   -2.6486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6032   -1.9777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3189   -1.9777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6032   -0.6708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3189   -0.6535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639   -3.9786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6032   -4.6321    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7655   -2.6659    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1508   -2.6832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0298    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7829    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 12  1  0  0  0  0
+  7  8  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+11362
+
+> <Formula>
+C8H9NO3
+
+> <FW>
+167.162
+
+> <DSSTox_CID>
+26020
+
+> <DSSTox_RID>
+81294
+
+> <DSSTox_GSID>
+46020
+
+> <DSSTox_FileID_Sort>
+5975
+
+> <TS_ChemName>
+Pyridoxal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+66-72-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9NO3
+
+> <STRUCTURE_MW>
+167.162
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-hydroxy-5-(hydroxymethyl)-2-methylpyridine-4-carbaldehyde
+
+> <STRUCTURE_SMILES>
+Oc1c(C=O)c(cnc1C)CO
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1c(C=O)c(cnc1C)CO
+
+> <Substance_modify_yyyymmdd>
+20110824
+
+$$$$

@@ -1,0 +1,92 @@
+14371-10-9
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    6.9112   -1.9973    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7570   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6098   -1.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4556   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3014   -1.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3014   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+3874
+
+> <Formula>
+C9H8O
+
+> <FW>
+132.1592
+
+> <DSSTox_CID>
+4834
+
+> <DSSTox_RID>
+77548
+
+> <DSSTox_GSID>
+24834
+
+> <DSSTox_FileID_Sort>
+2231
+
+> <TS_ChemName>
+(2E)-3-Phenylprop-2-enal
+
+> <TS_ChemName_Synonyms>
+trans-Cinnamaldehyde
+
+> <TS_CASRN>
+14371-10-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H8O
+
+> <STRUCTURE_MW>
+132.1592
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-3-phenylprop-2-enal
+
+> <STRUCTURE_SMILES>
+O=C\C=C\c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C\C=C\c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

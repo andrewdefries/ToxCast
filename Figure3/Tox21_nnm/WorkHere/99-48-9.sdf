@@ -1,0 +1,94 @@
+99-48-9
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    4.6552    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6552   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910   -3.4525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6567   -3.4525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6642   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9835   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6567   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+3834
+
+> <Formula>
+C10H16O
+
+> <FW>
+152.2334
+
+> <DSSTox_CID>
+4736
+
+> <DSSTox_RID>
+77515
+
+> <DSSTox_GSID>
+24736
+
+> <DSSTox_FileID_Sort>
+2198
+
+> <TS_ChemName>
+Carveol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+99-48-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16O
+
+> <STRUCTURE_MW>
+152.2334
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-5-(prop-1-en-2-yl)cyclohex-2-en-1-ol
+
+> <STRUCTURE_SMILES>
+CC(=C)C1CC=C(C)C(O)C1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=C)C1CC=C(C)C(O)C1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

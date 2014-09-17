@@ -1,0 +1,107 @@
+58-14-0
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    4.6046    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4595   -0.6613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4595   -1.9918    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063   -2.6611    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -1.9918    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -0.6613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063   -3.9917    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -4.6530    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6046   -2.6611    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7578   -1.9918    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9109   -2.6611    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9109   -3.9917    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7578   -4.6530    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6046   -3.9917    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0641   -4.6530    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+1171
+
+> <Formula>
+C12H13ClN4
+
+> <FW>
+248.7114
+
+> <DSSTox_CID>
+1217
+
+> <DSSTox_RID>
+76016
+
+> <DSSTox_GSID>
+21217
+
+> <DSSTox_FileID_Sort>
+700
+
+> <TS_ChemName>
+Pyrimethamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+58-14-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H13ClN4
+
+> <STRUCTURE_MW>
+248.7114
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-(4-chlorophenyl)-6-ethylpyrimidine-2,4-diamine
+
+> <STRUCTURE_SMILES>
+CCc1nc(N)nc(N)c1c2ccc(Cl)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+CCc1nc(N)nc(N)c1c2ccc(Cl)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

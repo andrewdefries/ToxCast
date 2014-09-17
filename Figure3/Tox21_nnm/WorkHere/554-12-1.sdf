@@ -1,0 +1,83 @@
+554-12-1
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    2.3105   -1.3355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4658   -1.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6211   -1.3355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3105    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553   -1.9917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+4991
+
+> <Formula>
+C4H8O2
+
+> <FW>
+88.1051
+
+> <DSSTox_CID>
+7201
+
+> <DSSTox_RID>
+78347
+
+> <DSSTox_GSID>
+27201
+
+> <DSSTox_FileID_Sort>
+3030
+
+> <TS_ChemName>
+Methyl propanoate
+
+> <TS_ChemName_Synonyms>
+Propanoic acid, methyl ester
+
+> <TS_CASRN>
+554-12-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8O2
+
+> <STRUCTURE_MW>
+88.1051
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl propanoate
+
+> <STRUCTURE_SMILES>
+CCC(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

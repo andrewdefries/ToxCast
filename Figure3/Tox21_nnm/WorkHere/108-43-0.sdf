@@ -1,0 +1,88 @@
+108-43-0
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6588    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -2.6588    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -2.6588    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <ID>
+3860
+
+> <Formula>
+C6H5ClO
+
+> <FW>
+128.5563
+
+> <DSSTox_CID>
+4800
+
+> <DSSTox_RID>
+77538
+
+> <DSSTox_GSID>
+24800
+
+> <DSSTox_FileID_Sort>
+2221
+
+> <TS_ChemName>
+3-Chlorophenol
+
+> <TS_ChemName_Synonyms>
+3-Chlorophenol (m-Chlorophenol)
+
+> <TS_CASRN>
+108-43-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H5ClO
+
+> <STRUCTURE_MW>
+128.5563
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-chlorophenol
+
+> <STRUCTURE_SMILES>
+Oc1cc(Cl)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1cc(Cl)ccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

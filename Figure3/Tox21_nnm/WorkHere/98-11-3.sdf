@@ -1,0 +1,92 @@
+98-11-3
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.9873    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9873   -1.3291    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9873   -2.6582    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3164   -1.3291    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582   -1.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9936   -2.4827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6645   -2.4827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6645   -0.1754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9936   -0.1754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+3744
+
+> <Formula>
+C6H6O3S
+
+> <FW>
+158.175
+
+> <DSSTox_CID>
+4568
+
+> <DSSTox_RID>
+77453
+
+> <DSSTox_GSID>
+24568
+
+> <DSSTox_FileID_Sort>
+2136
+
+> <TS_ChemName>
+Benzenesulfonic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+98-11-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6O3S
+
+> <STRUCTURE_MW>
+158.175
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzenesulfonic acid
+
+> <STRUCTURE_SMILES>
+O=S(O)(=O)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(O)(=O)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

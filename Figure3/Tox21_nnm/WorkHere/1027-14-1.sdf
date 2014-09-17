@@ -1,0 +1,109 @@
+1027-14-1
+ChemmineR-0915142007XD
+
+ 19 18  0  0  0  0  0  0  0  0  1 V2000
+   10.3818   -1.9933    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2398   -2.6473    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0770   -1.9933    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0770   -0.6541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2398    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9246   -2.6473    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7826   -1.9933    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7826   -0.6541    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6199   -2.6473    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4571   -1.9933    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4571   -0.6541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6199    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3047    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1628   -0.6541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1628   -1.9933    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3047   -2.6473    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3047   -3.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8071   -3.9554    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+11143
+
+> <Formula>
+C15H25ClN2O
+
+> <FW>
+284.8248 (248.3639+36.4609)
+
+> <DSSTox_CID>
+25702
+
+> <DSSTox_RID>
+81074
+
+> <DSSTox_GSID>
+45702
+
+> <DSSTox_FileID_Sort>
+5755
+
+> <TS_ChemName>
+Trimecaine monohydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1027-14-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H25ClN2O
+
+> <STRUCTURE_MW>
+284.8248
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N~2~,N~2~-diethyl-N-(2,4,6-trimethylphenyl)glycinamide hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C(Nc1c(C)cc(C)cc1C)CN(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Nc1c(C)cc(C)cc1C)CN(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20110819
+
+$$$$

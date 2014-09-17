@@ -1,0 +1,99 @@
+127-68-4
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  2 V2000
+    3.4599   -2.7036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6109   -3.3595    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6109   -4.6912    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4599   -5.3604    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3088   -4.6912    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3088   -3.3595    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4599   -1.3786    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7849   -1.3786    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4599   -0.0468    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.1281   -1.3786    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -5.3604    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    1.1511   -6.6922    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6912    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7820    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <ID>
+4904
+
+> <Formula>
+C6H4NNaO5S
+
+> <FW>
+225.1544 (202.1652+22.9892)
+
+> <DSSTox_CID>
+7048
+
+> <DSSTox_RID>
+78292
+
+> <DSSTox_GSID>
+27048
+
+> <DSSTox_FileID_Sort>
+2975
+
+> <TS_ChemName>
+Sodium 3-nitrobenzenesulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+127-68-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [98-47-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4NNaO5S
+
+> <STRUCTURE_MW>
+225.1544
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 3-nitrobenzenesulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].O=S([O-])(=O)c1cc(ccc1)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+OS(=O)(=O)c1cc(ccc1)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

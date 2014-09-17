@@ -1,0 +1,83 @@
+628-36-4
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6630    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3060   -0.6630    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4590    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6119   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7649    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+452
+
+> <Formula>
+C2H4N2O2
+
+> <FW>
+88.0654
+
+> <DSSTox_CID>
+468
+
+> <DSSTox_RID>
+75610
+
+> <DSSTox_GSID>
+20468
+
+> <DSSTox_FileID_Sort>
+294
+
+> <TS_ChemName>
+1,2-Diformylhydrazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+628-36-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H4N2O2
+
+> <STRUCTURE_MW>
+88.0654
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N'-formylformic hydrazide
+
+> <STRUCTURE_SMILES>
+O=CNNC=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=CNNC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

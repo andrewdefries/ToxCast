@@ -1,0 +1,85 @@
+80-62-6
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3052    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3306   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9941   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3247   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3306    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9941   -3.4560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3247   -3.4560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+810
+
+> <Formula>
+C5H8O2
+
+> <FW>
+100.1158
+
+> <DSSTox_CID>
+844
+
+> <DSSTox_RID>
+75823
+
+> <DSSTox_GSID>
+20844
+
+> <DSSTox_FileID_Sort>
+507
+
+> <TS_ChemName>
+Methyl methacrylate
+
+> <TS_ChemName_Synonyms>
+Methyl methacrylate (2-Propenoic acid, 2-methyl-, methyl ester)
+
+> <TS_CASRN>
+80-62-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8O2
+
+> <STRUCTURE_MW>
+100.1158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+C=C(C)C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+C=C(C)C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

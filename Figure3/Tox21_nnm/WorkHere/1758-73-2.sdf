@@ -1,0 +1,83 @@
+1758-73-2
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.9857   -1.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6725   -1.1510    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3046    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582   -2.3046    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+M  END
+> <ID>
+5868
+
+> <Formula>
+CH4N2O2S
+
+> <FW>
+108.1197
+
+> <DSSTox_CID>
+9224
+
+> <DSSTox_RID>
+78718
+
+> <DSSTox_GSID>
+29224
+
+> <DSSTox_FileID_Sort>
+3400
+
+> <TS_ChemName>
+Amino(imino)methanesulfinic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1758-73-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH4N2O2S
+
+> <STRUCTURE_MW>
+108.1197
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+amino(imino)methanesulfinic acid
+
+> <STRUCTURE_SMILES>
+N=C(N)S(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+N=C(N)S(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

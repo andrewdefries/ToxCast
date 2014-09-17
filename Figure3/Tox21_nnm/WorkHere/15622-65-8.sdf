@@ -1,0 +1,115 @@
+15622-65-8
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  1 V2000
+    6.9179   -1.9868    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9179   -0.6588    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1841   -0.2574    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1841   -2.3883    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7752   -2.6560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9665   -1.3280    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6222   -1.9868    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3060   -1.9868    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4692   -2.6560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7752    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7752   -3.9840    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6222   -0.6588    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6588    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5959   -3.6648    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.2945   -1.3177    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3060   -0.6588    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530   -2.6560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9868    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9136   -3.9531    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3163   -3.8398    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 14  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <ID>
+10934
+
+> <Formula>
+C16H25ClN2O2
+
+> <FW>
+312.8349 (276.3740+36.4609)
+
+> <DSSTox_CID>
+25417
+
+> <DSSTox_RID>
+80866
+
+> <DSSTox_GSID>
+45417
+
+> <DSSTox_FileID_Sort>
+5547
+
+> <TS_ChemName>
+Molindone hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+15622-65-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [7416-34-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H25ClN2O2
+
+> <STRUCTURE_MW>
+312.8349
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+3-ethyl-2-methyl-5-(morpholin-4-ylmethyl)-1,5,6,7-tetrahydro-4H-indol-4-one hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C1C(CCc2nc(C)c(CC)c12)CN3CCOCC3
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C(CCc2nc(C)c(CC)c12)CN3CCOCC3
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

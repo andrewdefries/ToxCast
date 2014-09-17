@@ -1,0 +1,79 @@
+107-30-2
+ChemmineR-0915142007XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    3.4575    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061   -0.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+298
+
+> <Formula>
+C2H5ClO
+
+> <FW>
+80.5135
+
+> <DSSTox_CID>
+307
+
+> <DSSTox_RID>
+75502
+
+> <DSSTox_GSID>
+20307
+
+> <DSSTox_FileID_Sort>
+186
+
+> <TS_ChemName>
+Chloromethyl methyl ether
+
+> <TS_ChemName_Synonyms>
+Chloromethyl methyl ether  (CMME) (Methane, chloromethoxy-)
+
+> <TS_CASRN>
+107-30-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H5ClO
+
+> <STRUCTURE_MW>
+80.5135
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+chloro(methoxy)methane
+
+> <STRUCTURE_SMILES>
+COCCl
+
+> <STRUCTURE_SMILES_Desalt>
+COCCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

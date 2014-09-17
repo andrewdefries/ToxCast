@@ -1,0 +1,115 @@
+77-89-4
+ChemmineR-0915142007XD
+
+ 22 21  0  0  0  0  0  0  0  0  1 V2000
+    5.3301   -1.9935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6626   -1.9935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3301   -0.6609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9976   -1.9935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3301   -3.3260    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4707    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1788    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0168   -0.6609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8655    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3301   -4.6585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4707   -5.3088    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1788   -5.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3236   -3.1661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6626   -4.3067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6561   -3.1661    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3277   -4.3067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6602   -4.3067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3260   -3.1661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9976   -4.3067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9935   -3.1661    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3325   -4.3067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.3067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <ID>
+10230
+
+> <Formula>
+C14H22O8
+
+> <FW>
+318.3197
+
+> <DSSTox_CID>
+24576
+
+> <DSSTox_RID>
+80325
+
+> <DSSTox_GSID>
+44576
+
+> <DSSTox_FileID_Sort>
+5007
+
+> <TS_ChemName>
+Acetyltriethyl citrate
+
+> <TS_ChemName_Synonyms>
+Acetyltriethyl citrate (1,2,3-Propanetricarboxylic acid, 2-(acetyloxy)-, triethyl ester)
+
+> <TS_CASRN>
+77-89-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H22O8
+
+> <STRUCTURE_MW>
+318.3197
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+triethyl 2-(acetyloxy)propane-1,2,3-tricarboxylate
+
+> <STRUCTURE_SMILES>
+O=C(C)OC(CC(=O)OCC)(CC(=O)OCC)C(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)OC(CC(=O)OCC)(CC(=O)OCC)C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

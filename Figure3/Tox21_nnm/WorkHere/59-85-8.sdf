@@ -1,0 +1,94 @@
+59-85-8
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    4.6143   -1.3242    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6143    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4752   -1.9891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7824   -1.9891    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -1.3242    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4752   -3.3133    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1680   -1.9891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -3.9783    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1680   -3.3133    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9783    0.0000 Hg   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3025    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+7921
+
+> <Formula>
+C7H5ClHgO2
+
+> <FW>
+357.1564
+
+> <DSSTox_CID>
+20725
+
+> <DSSTox_RID>
+79572
+
+> <DSSTox_GSID>
+40725
+
+> <DSSTox_FileID_Sort>
+4254
+
+> <TS_ChemName>
+4-Chloromercuribenzoic acid
+
+> <TS_ChemName_Synonyms>
+4-Chloromercuribenzoic acid (p-Chloromercuribenzoic acid)
+
+> <TS_CASRN>
+59-85-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H5ClHgO2
+
+> <STRUCTURE_MW>
+357.1564
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+(4-carboxyphenyl)(chloro)mercury
+
+> <STRUCTURE_SMILES>
+OC(=O)c1ccc([Hg]Cl)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1ccc([Hg]Cl)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

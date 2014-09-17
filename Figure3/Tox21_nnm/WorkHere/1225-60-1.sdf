@@ -1,0 +1,115 @@
+1225-60-1
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  1 V2000
+    3.4671   -2.6627    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3021   -1.9762    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4671    0.0000    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6320   -1.9970    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4671   -4.0010    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3021   -0.6865    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6320   -0.6657    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -2.6419    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6320   -4.6875    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6320   -5.9980    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7831   -2.6627    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -0.0208    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7831    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9624    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4671   -6.6776    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7831   -6.6637    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7831   -3.9871    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.7003    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9342   -1.9762    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9342   -0.6865    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4423   -4.1674    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 19  2  0  0  0  0
+ 12 18  2  0  0  0  0
+ 13 20  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+12018
+
+> <Formula>
+C16H20ClN3S
+
+> <FW>
+321.8681 (285.4072+36.4609)
+
+> <DSSTox_CID>
+26845
+
+> <DSSTox_RID>
+81955
+
+> <DSSTox_GSID>
+46845
+
+> <DSSTox_FileID_Sort>
+6636
+
+> <TS_ChemName>
+Isothipendyl hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1225-60-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [ 482-15-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H20ClN3S
+
+> <STRUCTURE_MW>
+321.8681
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N,N-dimethyl-1-(10H-pyrido[3,2-b][1,4]benzothiazin-10-yl)propan-2-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CN(C)C(C)CN1c3ccccc3Sc2cccnc12
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)C(C)CN1c3ccccc3Sc2cccnc12
+
+> <Substance_modify_yyyymmdd>
+20110729
+
+$$$$

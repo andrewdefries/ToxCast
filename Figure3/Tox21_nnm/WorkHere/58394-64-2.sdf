@@ -1,0 +1,122 @@
+58394-64-2
+ChemmineR-0915142007XD
+
+ 25 25  0  0  0  0  0  0  0  0  1 V2000
+    1.1526   -2.6764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3052   -1.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4383   -2.6764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5909   -1.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7436   -2.6764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0488   -2.6764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7923   -2.0122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0488   -4.0049    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7923   -0.6838    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8962   -1.9927    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9450   -2.6764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6397   -2.6764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1819   -2.0122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3540   -2.6764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4871   -2.0122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2502   -4.0049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3833   -4.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2502   -2.6764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5359   -4.0049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3833   -2.0122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5359   -2.6764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0976   -2.0122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5909   -0.6642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4383    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5 11  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+ 12 23  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 24 25  1  0  0  0  0
+M  END
+> <ID>
+12653
+
+> <Formula>
+C21H32O4
+
+> <FW>
+348.4764
+
+> <DSSTox_CID>
+27528
+
+> <DSSTox_RID>
+82398
+
+> <DSSTox_GSID>
+47528
+
+> <DSSTox_FileID_Sort>
+7079
+
+> <TS_ChemName>
+Benzyloctyl adipate
+
+> <TS_ChemName_Synonyms>
+Benzyloctyl adipate (BOA) (Adimoll BO)
+
+> <TS_CASRN>
+58394-64-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of adipic acid esters of 2-ethyl hexanol and benzyl alcohol, predominantly consisting of benzyloctyl adipate
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C21H32O4
+
+> <STRUCTURE_MW>
+348.4764
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzyl 2-ethylhexyl hexanedioate
+
+> <STRUCTURE_SMILES>
+CCC(CCCC)COC(=O)CCCCC(=O)OCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(CCCC)COC(=O)CCCCC(=O)OCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20100901
+
+$$$$

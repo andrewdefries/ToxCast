@@ -1,0 +1,93 @@
+127-91-3
+ChemmineR-0915142007XD
+
+ 10 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.9219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5033   -1.2671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8657   -0.9219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7377   -2.2435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2980   -1.7667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8720   -2.0301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7513   -3.2336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5416   -1.7530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5478    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4496   -2.9702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  2  0  0  0  0
+M  END
+> <ID>
+4905
+
+> <Formula>
+C10H16
+
+> <FW>
+136.234
+
+> <DSSTox_CID>
+7049
+
+> <DSSTox_RID>
+78293
+
+> <DSSTox_GSID>
+27049
+
+> <DSSTox_FileID_Sort>
+2976
+
+> <TS_ChemName>
+beta-Pinene
+
+> <TS_ChemName_Synonyms>
+beta-Pinene (Bicyclo[3.1.1]heptane, 6,6-dimethyl-2-methylene-)
+
+> <TS_CASRN>
+127-91-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16
+
+> <STRUCTURE_MW>
+136.234
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane
+
+> <STRUCTURE_SMILES>
+CC2(C)C1CCC(=C)C2C1
+
+> <STRUCTURE_SMILES_Desalt>
+CC2(C)C1CCC(=C)C2C1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

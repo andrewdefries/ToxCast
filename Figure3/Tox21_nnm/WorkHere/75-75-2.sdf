@@ -1,0 +1,81 @@
+75-75-2
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    2.5988   -1.4368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2844   -1.4368    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2844    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4368    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2844   -2.7212    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+M  END
+> <ID>
+4676
+
+> <Formula>
+CH4O3S
+
+> <FW>
+96.1057
+
+> <DSSTox_CID>
+6422
+
+> <DSSTox_RID>
+78109
+
+> <DSSTox_GSID>
+26422
+
+> <DSSTox_FileID_Sort>
+2792
+
+> <TS_ChemName>
+Methanesulfonic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+75-75-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH4O3S
+
+> <STRUCTURE_MW>
+96.1057
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methanesulfonic acid
+
+> <STRUCTURE_SMILES>
+CS(=O)(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CS(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

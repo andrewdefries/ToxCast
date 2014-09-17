@@ -1,0 +1,98 @@
+4376-18-5
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    2.3031   -1.9980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -3.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547   -1.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547   -3.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547   -5.3203    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -1.9980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -3.3280    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -1.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -3.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7579   -1.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+7566
+
+> <Formula>
+C9H8O4
+
+> <FW>
+180.1574
+
+> <DSSTox_CID>
+20001
+
+> <DSSTox_RID>
+79437
+
+> <DSSTox_GSID>
+40001
+
+> <DSSTox_FileID_Sort>
+4119
+
+> <TS_ChemName>
+Monomethyl phthalate
+
+> <TS_ChemName_Synonyms>
+Monomethyl phthalate (MMP) (Methyl hydrogen phthalate)
+
+> <TS_CASRN>
+4376-18-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H8O4
+
+> <STRUCTURE_MW>
+180.1574
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(methoxycarbonyl)benzoic acid
+
+> <STRUCTURE_SMILES>
+COC(=O)c1ccccc1C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+COC(=O)c1ccccc1C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

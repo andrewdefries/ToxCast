@@ -1,0 +1,103 @@
+1715-40-8
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    2.1232   -4.0390    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6845   -3.0201    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6729   -2.3246    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3069   -3.4289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3069   -1.0189    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8871   -3.0384    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4295   -4.0085    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3069   -4.6918    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6735   -1.5619    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1012   -2.6723    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8444   -5.1921    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0390    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3368   -0.2318    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2141   -4.9054    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.5576    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+8636
+
+> <Formula>
+C8H5BrCl6
+
+> <FW>
+393.7473
+
+> <DSSTox_CID>
+21680
+
+> <DSSTox_RID>
+79814
+
+> <DSSTox_GSID>
+41680
+
+> <DSSTox_FileID_Sort>
+4496
+
+> <TS_ChemName>
+Bromociclen
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1715-40-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H5BrCl6
+
+> <STRUCTURE_MW>
+393.7473
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-(bromomethyl)-1,2,3,4,7,7-hexachlorobicyclo[2.2.1]hept-2-ene
+
+> <STRUCTURE_SMILES>
+ClC2(Cl)C1(Cl)CC(CBr)C2(Cl)C(Cl)=C1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+ClC2(Cl)C1(Cl)CC(CBr)C2(Cl)C(Cl)=C1Cl
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

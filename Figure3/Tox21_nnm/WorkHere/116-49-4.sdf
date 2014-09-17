@@ -1,0 +1,106 @@
+116-49-4
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    3.4791   -1.1405    0.0000 As   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -0.4608    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1405   -1.1174    0.0000 Bi   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6196   -1.8317    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2161   -3.1680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7879   -2.2925    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0641   -3.8247    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4493    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1472    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2161   -1.8317    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7600   -1.1750    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6196   -3.1680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9236   -3.1680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7600   -3.8132    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9236   -1.8317    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3566   -3.8247    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5201   -3.1680    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4 11  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5 16  1  0  0  0  0
+  7 13  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+13745
+
+> <Formula>
+C8H9AsBiNO6
+
+> <FW>
+499.0622
+
+> <DSSTox_CID>
+28680
+
+> <DSSTox_RID>
+82950
+
+> <DSSTox_GSID>
+48754
+
+> <DSSTox_FileID_Sort>
+7627
+
+> <TS_ChemName>
+Amoebicon
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+116-49-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9AsBiNO6
+
+> <STRUCTURE_MW>
+499.0622
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+2-hydroxy-N-(4-{hydroxy[(oxobismuthanyl)oxy]arsoryl}phenyl)acetamide
+
+> <STRUCTURE_SMILES>
+O=C(Nc1ccc(cc1)[As](O)(=O)O[Bi]=O)CO
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Nc1ccc(cc1)[As](O)(=O)O[Bi]=O)CO
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

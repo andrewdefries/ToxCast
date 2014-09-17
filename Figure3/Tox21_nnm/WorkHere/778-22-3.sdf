@@ -1,0 +1,103 @@
+778-22-3
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    2.2460    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1646   -0.9437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1083   -1.8748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3917   -1.5854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2914   -2.5480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9076   -3.8378    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6368   -4.1397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7056   -3.1772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2460   -1.8748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5669   -3.1583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6358   -4.1083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3523   -3.7686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9500   -1.5225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1083    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+12967
+
+> <Formula>
+C15H16
+
+> <FW>
+196.2875
+
+> <DSSTox_CID>
+27868
+
+> <DSSTox_RID>
+82621
+
+> <DSSTox_GSID>
+47892
+
+> <DSSTox_FileID_Sort>
+7298
+
+> <TS_ChemName>
+2,2-Diphenylpropane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+778-22-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H16
+
+> <STRUCTURE_MW>
+196.2875
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1'-propane-2,2-diyldibenzene
+
+> <STRUCTURE_SMILES>
+CC(C)(c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20110419
+
+$$$$

@@ -1,0 +1,107 @@
+532-59-2
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    1.1721   -2.2791    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3298   -1.6207    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4554   -1.1432    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4512   -2.2936    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0145   -1.6207    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1721   -3.5959    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1386   -1.1432    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1138   -2.3153    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1283    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6234   -2.9665    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7784   -3.4368    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3081   -4.2688    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.2544    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6234   -4.2833    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3081   -5.6001    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.6001    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1721   -6.2585    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2353   -4.0445    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  6 12  2  0  0  0  0
+  6 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+10869
+
+> <Formula>
+C14H22ClNO2
+
+> <FW>
+271.7830 (235.3220+36.4609)
+
+> <DSSTox_CID>
+25320
+
+> <DSSTox_RID>
+80799
+
+> <DSSTox_GSID>
+45320
+
+> <DSSTox_FileID_Sort>
+5480
+
+> <TS_ChemName>
+Amylocaine hydrochloride
+
+> <TS_ChemName_Synonyms>
+Amylocaine hydrochloride (Amyleine hydrochloride)
+
+> <TS_CASRN>
+532-59-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [644-26-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H22ClNO2
+
+> <STRUCTURE_MW>
+271.783
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-(dimethylamino)-2-methylbutan-2-yl benzoate hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CN(C)CC(C)(OC(=O)c1ccccc1)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CC(C)(OC(=O)c1ccccc1)CC
+
+> <Substance_modify_yyyymmdd>
+20110605
+
+$$$$

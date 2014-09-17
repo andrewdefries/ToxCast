@@ -1,0 +1,97 @@
+300-76-5
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    1.3389   -2.6712    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4913   -4.6562    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4847   -3.3373    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3389   -1.3389    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1657   -4.6629    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1865   -3.3240    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6645   -1.3323    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3389    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3389    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8169   -4.6562    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4913   -5.9951    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3389   -6.6613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4897   -5.8086    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+3562
+
+> <Formula>
+C4H7Br2Cl2O4P
+
+> <FW>
+380.7837
+
+> <DSSTox_CID>
+4209
+
+> <DSSTox_RID>
+77328
+
+> <DSSTox_GSID>
+24209
+
+> <DSSTox_FileID_Sort>
+2011
+
+> <TS_ChemName>
+Naled
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+300-76-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H7Br2Cl2O4P
+
+> <STRUCTURE_MW>
+380.7837
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-dibromo-2,2-dichloroethyl dimethyl phosphate
+
+> <STRUCTURE_SMILES>
+COP(=O)(OC)OC(Br)C(Cl)(Br)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+COP(=O)(OC)OC(Br)C(Cl)(Br)Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

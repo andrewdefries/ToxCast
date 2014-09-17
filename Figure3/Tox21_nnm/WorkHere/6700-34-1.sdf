@@ -1,0 +1,117 @@
+6700-34-1
+ChemmineR-0915142007XD
+
+ 22 23  0  0  1  0  0  0  0  0  1 V2000
+    0.3685   -4.7986    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0884   -4.2619    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2751   -5.3754    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2751   -4.0376    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5743   -5.3594    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4367   -6.0243    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2152   -5.9762    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4367   -3.3406    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5743   -3.9895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -6.6732    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8467   -6.6732    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1616   -3.3566    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4367   -2.0348    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1616   -2.0348    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1616   -6.0243    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -1.3859    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4569   -5.9762    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4367   -7.3301    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3378    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1616   -7.3621    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -8.0110    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  1  1  0  0  0
+  3 15  1  0  0  0  0
+  4  8  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5  7  1  1  0  0  0
+  6 18  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 16  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <ID>
+11034
+
+> <Formula>
+C18H28BrNO2
+
+> <FW>
+370.3244 (18.0153+80.9119+271.3972)
+
+> <DSSTox_CID>
+25569
+
+> <DSSTox_RID>
+80966
+
+> <DSSTox_GSID>
+45569
+
+> <DSSTox_FileID_Sort>
+5647
+
+> <TS_ChemName>
+Dextromethorphan hydrobromide monohydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6700-34-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [125-71-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H28BrNO2
+
+> <STRUCTURE_MW>
+370.3244
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+3-methoxy-17-methylmorphinan hydrobromide hydrate
+
+> <STRUCTURE_SMILES>
+Br.O.COc2ccc3C[C@@H]1C4CCCC[C@]4(CCN1C)c3c2
+
+> <STRUCTURE_SMILES_Desalt>
+COc2ccc3C[C@@H]1C4CCCC[C@]4(CCN1C)c3c2
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

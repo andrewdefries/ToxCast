@@ -1,0 +1,95 @@
+127-85-5
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  2 V2000
+    3.3261   -3.9913    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    3.9913   -1.3304    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261   -2.4813    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -2.4813    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.3304    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -0.1796    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261   -0.1796    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3304    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217   -1.3304    0.0000 As   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6521   -1.3304    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    5.3217   -2.6609    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <ID>
+4503
+
+> <Formula>
+C6H7AsNNaO3
+
+> <FW>
+239.0360 (22.9892+216.0468)
+
+> <DSSTox_CID>
+6022
+
+> <DSSTox_RID>
+77986
+
+> <DSSTox_GSID>
+26022
+
+> <DSSTox_FileID_Sort>
+2669
+
+> <TS_ChemName>
+Sodium arsanilate
+
+> <TS_ChemName_Synonyms>
+Sodium arsenilate
+
+> <TS_CASRN>
+127-85-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H7AsNNaO3
+
+> <STRUCTURE_MW>
+239.036
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+sodium hydrogen (4-aminophenyl)arsonate
+
+> <STRUCTURE_SMILES>
+[Na+].O=[As]([O-])(O)c1ccc(N)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=[As](O)(O)c1ccc(N)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

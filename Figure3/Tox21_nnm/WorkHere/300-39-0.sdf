@@ -1,0 +1,102 @@
+300-39-0
+ChemmineR-0915142007XD
+
+ 15 15  0  0  1  0  0  0  0  0  1 V2000
+    6.9004   -1.3494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7611   -2.0200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0801   -1.9877    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6137   -1.3655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4502   -2.0523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7934   -3.3371    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9004    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1635   -3.3694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4502   -3.3694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3190   -1.3655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3190   -4.0400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1635   -2.0685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3190   -5.3571    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3978    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  1  0  0  0
+  4  5  1  0  0  0  0
+  5  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+M  END
+> <ID>
+13674
+
+> <Formula>
+C9H9I2NO3
+
+> <FW>
+432.9816
+
+> <DSSTox_CID>
+28606
+
+> <DSSTox_RID>
+82876
+
+> <DSSTox_GSID>
+48680
+
+> <DSSTox_FileID_Sort>
+7553
+
+> <TS_ChemName>
+3,5-Diiodo-L-tyrosine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+300-39-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+absolute stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H9I2NO3
+
+> <STRUCTURE_MW>
+432.9816
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5-diiodo-L-tyrosine
+
+> <STRUCTURE_SMILES>
+Ic1cc(C[C@H](N)C(=O)O)cc(I)c1O
+
+> <STRUCTURE_SMILES_Desalt>
+Ic1cc(C[C@H](N)C(=O)O)cc(I)c1O
+
+> <Substance_modify_yyyymmdd>
+20111210
+
+$$$$

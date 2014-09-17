@@ -1,0 +1,87 @@
+105-57-7
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    3.4668   -0.7003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3089    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5970   -0.0277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4668   -2.0177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1787   -0.6518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7896   -0.7003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9337   -0.0485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+6279
+
+> <Formula>
+C6H14O2
+
+> <FW>
+118.1742
+
+> <DSSTox_CID>
+10607
+
+> <DSSTox_RID>
+78853
+
+> <DSSTox_GSID>
+30607
+
+> <DSSTox_FileID_Sort>
+3535
+
+> <TS_ChemName>
+Acetal
+
+> <TS_ChemName_Synonyms>
+Acetal (Acetaldehyde diethyl acetal)
+
+> <TS_CASRN>
+105-57-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O2
+
+> <STRUCTURE_MW>
+118.1742
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1-diethoxyethane
+
+> <STRUCTURE_SMILES>
+CC(OCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(OCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

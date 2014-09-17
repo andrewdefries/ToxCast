@@ -1,0 +1,77 @@
+64-17-5
+ChemmineR-0915142007XD
+
+  3  2  0  0  0  0  0  0  0  0  1 V2000
+    2.3030   -0.6656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6656    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+> <ID>
+559
+
+> <Formula>
+C2H6O
+
+> <FW>
+46.0684
+
+> <DSSTox_CID>
+584
+
+> <DSSTox_RID>
+75674
+
+> <DSSTox_GSID>
+20584
+
+> <DSSTox_FileID_Sort>
+358
+
+> <TS_ChemName>
+Ethanol
+
+> <TS_ChemName_Synonyms>
+Ethanol (Ethyl alcohol) (EtOH)
+
+> <TS_CASRN>
+64-17-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H6O
+
+> <STRUCTURE_MW>
+46.0684
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethanol
+
+> <STRUCTURE_SMILES>
+CCO
+
+> <STRUCTURE_SMILES_Desalt>
+CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,97 @@
+112-57-2
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    6.9149   -0.6638    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7670    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6053   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3096   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1479    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6638    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0628    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2245   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3724    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5202   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6819    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8298   -0.6638    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+4547
+
+> <Formula>
+C8H23N5
+
+> <FW>
+189.3017
+
+> <DSSTox_CID>
+6108
+
+> <DSSTox_RID>
+78020
+
+> <DSSTox_GSID>
+26108
+
+> <DSSTox_FileID_Sort>
+2703
+
+> <TS_ChemName>
+Tetraethylenepentamine
+
+> <TS_ChemName_Synonyms>
+Tetraethylenepentamine (1,2-Ethanediamine, N-(2-aminoethyl)-N'-[2-[(2-aminoethyl)amino]ethyl]-)
+
+> <TS_CASRN>
+112-57-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H23N5
+
+> <STRUCTURE_MW>
+189.3017
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(2-aminoethyl)-N'-{2-[(2-aminoethyl)amino]ethyl}ethane-1,2-diamine
+
+> <STRUCTURE_SMILES>
+NCCNCCNCCNCCN
+
+> <STRUCTURE_SMILES_Desalt>
+NCCNCCNCCNCCN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

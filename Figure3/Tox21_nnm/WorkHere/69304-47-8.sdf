@@ -1,0 +1,111 @@
+69304-47-8
+ChemmineR-0915142007XD
+
+ 19 20  0  0  1  0  0  0  0  0  1 V2000
+    4.6166   -5.3386    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5565   -4.5628    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4811   -5.3386    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8805   -6.6061    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2018   -6.6061    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6089    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6089   -1.3289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -1.9972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -3.3338    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6089   -4.0020    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7457   -3.3338    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7457   -1.9972    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9056   -4.0020    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3121   -1.3289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1522   -1.9972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3289    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2137   -4.9238    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2228   -5.8225    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0970   -7.6815    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  1  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 17  1  1  0  0  0
+  4  5  1  0  0  0  0
+  4 19  1  6  0  0  0
+  6  7  2  0  0  0  0
+  7 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+11166
+
+> <Formula>
+C11H13BrN2O5
+
+> <FW>
+333.1353
+
+> <DSSTox_CID>
+25755
+
+> <DSSTox_RID>
+81098
+
+> <DSSTox_GSID>
+45755
+
+> <DSSTox_FileID_Sort>
+5779
+
+> <TS_ChemName>
+Brivudine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+69304-47-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H13BrN2O5
+
+> <STRUCTURE_MW>
+333.1353
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-[(E)-2-bromoethenyl]-2'-deoxyuridine
+
+> <STRUCTURE_SMILES>
+Br\C=C\C1=CN(C(=O)NC1=O)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+> <STRUCTURE_SMILES_Desalt>
+Br\C=C\C1=CN(C(=O)NC1=O)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+> <Substance_modify_yyyymmdd>
+20110826
+
+$$$$

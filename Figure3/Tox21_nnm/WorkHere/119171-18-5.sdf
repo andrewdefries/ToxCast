@@ -1,0 +1,91 @@
+119171-18-5
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  2 V2000
+    3.3920   -1.7265    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4435   -1.0900    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.6581   -2.1462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3920   -0.3995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6581    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7705   -1.0900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3020   -2.4983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0900   -1.9567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2424   -2.5931    0.0000 I   0  5  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+14070
+
+> <Formula>
+C7H13IN2
+
+> <FW>
+252.0960 (125.1910+126.9050)
+
+> <DSSTox_CID>
+29063
+
+> <DSSTox_RID>
+83282
+
+> <DSSTox_GSID>
+49207
+
+> <DSSTox_FileID_Sort>
+7957
+
+> <TS_ChemName>
+1-Methyl-3-propylimidazolium iodide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+119171-18-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H13IN2
+
+> <STRUCTURE_MW>
+252.096
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+3-methyl-1-propyl-1H-imidazol-3-ium iodide
+
+> <STRUCTURE_SMILES>
+[I-].C[n+]1ccn(CCC)c1
+
+> <STRUCTURE_SMILES_Desalt>
+C[n+]1ccn(CCC)c1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

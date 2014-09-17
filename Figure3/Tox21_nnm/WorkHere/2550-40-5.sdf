@@ -1,0 +1,101 @@
+2550-40-5
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    3.4595   -1.9838    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6046   -2.6531    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063   -2.6531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063   -3.9837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -4.6369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -1.9838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7578   -1.9838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7578   -0.6532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9110    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0641   -0.6532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0641   -1.9838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9110   -2.6531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+12749
+
+> <Formula>
+C12H22S2
+
+> <FW>
+230.4331
+
+> <DSSTox_CID>
+27628
+
+> <DSSTox_RID>
+82460
+
+> <DSSTox_GSID>
+47628
+
+> <DSSTox_FileID_Sort>
+7141
+
+> <TS_ChemName>
+Dicyclohexyl disulfide
+
+> <TS_ChemName_Synonyms>
+Dicyclohexyl disulfide (1,1'-disulfanediyldicyclohexane)
+
+> <TS_CASRN>
+2550-40-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H22S2
+
+> <STRUCTURE_MW>
+230.4331
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dicyclohexyl disulfide
+
+> <STRUCTURE_SMILES>
+S(SC1CCCCC1)C2CCCCC2
+
+> <STRUCTURE_SMILES_Desalt>
+S(SC1CCCCC1)C2CCCCC2
+
+> <Substance_modify_yyyymmdd>
+20101211
+
+$$$$

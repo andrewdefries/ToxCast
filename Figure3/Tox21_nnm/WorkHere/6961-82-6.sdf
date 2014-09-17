@@ -1,0 +1,94 @@
+6961-82-6
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.3375   -2.6537    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1758   -3.3305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1758   -4.6680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3375   -5.3287    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4779   -4.6520    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4779   -3.3145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3375   -1.3375    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6537   -1.3215    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3375    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3375    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6235   -2.6537    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7  9  2  0  0  0  0
+M  END
+> <ID>
+10626
+
+> <Formula>
+C6H6ClNO2S
+
+> <FW>
+191.6353
+
+> <DSSTox_CID>
+24979
+
+> <DSSTox_RID>
+80628
+
+> <DSSTox_GSID>
+44979
+
+> <DSSTox_FileID_Sort>
+5310
+
+> <TS_ChemName>
+2-Chlorobenzenesulfonamide
+
+> <TS_ChemName_Synonyms>
+2-Chlorobenzenesulfonamide (Benzenesulfonamide, 2-chloro-)
+
+> <TS_CASRN>
+6961-82-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6ClNO2S
+
+> <STRUCTURE_MW>
+191.6353
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chlorobenzenesulfonamide
+
+> <STRUCTURE_SMILES>
+O=S(N)(=O)c1ccccc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(N)(=O)c1ccccc1Cl
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

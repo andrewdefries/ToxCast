@@ -1,0 +1,106 @@
+84-12-8
+ChemmineR-0915142007XD
+
+ 16 18  0  0  0  0  0  0  0  0  1 V2000
+    3.4528    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4528   -1.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6077   -1.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7566   -1.3285    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6077   -3.3271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4528   -3.9913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4528   -5.3198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6077   -5.9840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7566   -5.3198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7566   -3.9913    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3038   -3.3271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1489   -3.9913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1489   -1.3285    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3038   -1.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+11416
+
+> <Formula>
+C12H6N2O2
+
+> <FW>
+210.1882
+
+> <DSSTox_CID>
+26112
+
+> <DSSTox_RID>
+81348
+
+> <DSSTox_GSID>
+46112
+
+> <DSSTox_FileID_Sort>
+6029
+
+> <TS_ChemName>
+Phanquinone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+84-12-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H6N2O2
+
+> <STRUCTURE_MW>
+210.1882
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,7-phenanthroline-5,6-dione
+
+> <STRUCTURE_SMILES>
+O=C2c1ncccc1c3cccnc3C2=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2c1ncccc1c3cccnc3C2=O
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

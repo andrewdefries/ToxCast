@@ -1,0 +1,88 @@
+10101-97-0
+ChemmineR-0915142007XD
+
+ 12  4  0  0  0  0  0  0  0  0  2 V2000
+    2.6600   -2.6663    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -1.3395    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -0.0063    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3332   -1.3395    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.9932   -1.3395    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3395    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6663    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0063    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3484   -1.2506    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2215   -2.3045    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0183    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7933   -4.1455    0.0000 Ni   0  2  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <ID>
+893
+
+> <Formula>
+H12NiO10S
+
+> <FW>
+262.8477 (96.0637+18.0153+18.0153+18.0153+18.0153+18.0153+18.0153+58.6923)
+
+> <DSSTox_CID>
+928
+
+> <DSSTox_RID>
+75872
+
+> <DSSTox_GSID>
+20928
+
+> <DSSTox_FileID_Sort>
+556
+
+> <TS_ChemName>
+Nickel(II) sulfate hexahydrate
+
+> <TS_ChemName_Synonyms>
+Nickel(II) sulfate hexahydrate (Nickel sulfate hexahydrate)
+
+> <TS_CASRN>
+10101-97-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+H12NiO10S
+
+> <STRUCTURE_MW>
+262.8477
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+nickel(2+) sulfate hydrate (1:1:6)
+
+> <STRUCTURE_SMILES>
+O.O.O.O.[Ni+2].O.O.[O-]S([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

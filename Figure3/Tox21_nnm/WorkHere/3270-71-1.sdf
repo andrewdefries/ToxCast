@@ -1,0 +1,104 @@
+3270-71-1
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  2 V2000
+    2.2538   -2.0479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9953   -1.6360    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    9.1982   -1.7161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3292   -1.2699    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4681   -1.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6771   -3.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4046   -2.0479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9330   -1.2356    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0042   -3.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7208   -0.3318    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    8.2029   -0.8237    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.5284    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6745   -1.6360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9236   -3.0089    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4406   -2.1966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7312    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3 11  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5 15  2  0  0  0  0
+  5 16  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 13  2  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+11646
+
+> <Formula>
+C7H6N4O5
+
+> <FW>
+226.1463
+
+> <DSSTox_CID>
+26399
+
+> <DSSTox_RID>
+81579
+
+> <DSSTox_GSID>
+46399
+
+> <DSSTox_FileID_Sort>
+6260
+
+> <TS_ChemName>
+Nifuraldezone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3270-71-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6N4O5
+
+> <STRUCTURE_MW>
+226.1463
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-{2-[(5-nitrofuran-2-yl)methylidene]hydrazinyl}-2-oxoacetamide
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccc(/C=N/NC(=O)C(N)=O)o1
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccc(/C=N/NC(=O)C(N)=O)o1
+
+> <Substance_modify_yyyymmdd>
+20110813
+
+$$$$

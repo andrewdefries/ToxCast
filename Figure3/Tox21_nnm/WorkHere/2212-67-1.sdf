@@ -1,0 +1,96 @@
+2212-67-1
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.8846   -1.9466    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8846   -3.2893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8823   -4.1245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6039   -3.8739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6039   -1.4198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8823   -1.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1245   -1.3684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1245   -0.0385    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2744   -2.0108    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4244   -1.3427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4244    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+3560
+
+> <Formula>
+C9H17NOS
+
+> <FW>
+187.3024
+
+> <DSSTox_CID>
+4206
+
+> <DSSTox_RID>
+77327
+
+> <DSSTox_GSID>
+24206
+
+> <DSSTox_FileID_Sort>
+2010
+
+> <TS_ChemName>
+Molinate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2212-67-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H17NOS
+
+> <STRUCTURE_MW>
+187.3024
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+S-ethyl azepane-1-carbothioate
+
+> <STRUCTURE_SMILES>
+O=C(SCC)N1CCCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(SCC)N1CCCCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

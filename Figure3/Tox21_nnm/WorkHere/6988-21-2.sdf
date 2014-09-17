@@ -1,0 +1,105 @@
+6988-21-2
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    4.6109   -2.0324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6248   -0.7051    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4426   -2.6891    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7447   -2.7099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9129   -2.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3020   -2.0186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1337   -2.6615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3227   -0.6775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1821    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0138   -0.6567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0346   -4.7561    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1199   -4.0026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1914   -4.7699    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7628   -6.0350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4286   -6.0212    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+8832
+
+> <Formula>
+C11H13NO4
+
+> <FW>
+223.2252
+
+> <DSSTox_CID>
+21886
+
+> <DSSTox_RID>
+79866
+
+> <DSSTox_GSID>
+41886
+
+> <DSSTox_FileID_Sort>
+4548
+
+> <TS_ChemName>
+Dioxacarb
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6988-21-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H13NO4
+
+> <STRUCTURE_MW>
+223.2252
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(1,3-dioxolan-2-yl)phenyl methylcarbamate
+
+> <STRUCTURE_SMILES>
+CNC(=O)Oc1ccccc1C2OCCO2
+
+> <STRUCTURE_SMILES_Desalt>
+CNC(=O)Oc1ccccc1C2OCCO2
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

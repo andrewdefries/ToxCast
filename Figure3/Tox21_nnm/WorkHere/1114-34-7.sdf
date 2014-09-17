@@ -1,0 +1,92 @@
+1114-34-7
+ChemmineR-0915142007XD
+
+ 10 10  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -1.1223    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3297   -1.1382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9999    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3349    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9891   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3188   -1.1701    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3136   -2.3084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9732   -3.4626    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9839   -2.2924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3137   -3.4466    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  1  0  0  0
+M  END
+> <ID>
+11770
+
+> <Formula>
+C5H10O5
+
+> <FW>
+150.1299
+
+> <DSSTox_CID>
+26540
+
+> <DSSTox_RID>
+81704
+
+> <DSSTox_GSID>
+46540
+
+> <DSSTox_FileID_Sort>
+6385
+
+> <TS_ChemName>
+D-(-)-Lyxose
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1114-34-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10O5
+
+> <STRUCTURE_MW>
+150.1299
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+D-lyxopyranose
+
+> <STRUCTURE_SMILES>
+O[C@H]1[C@H](O)COC(O)[C@H]1O
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@H]1[C@H](O)COC(O)[C@H]1O
+
+> <Substance_modify_yyyymmdd>
+20110610
+
+$$$$

@@ -1,0 +1,90 @@
+2687-25-4
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    1.1525   -1.3279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -3.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -3.3297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -2.0018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4574   -1.3279    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4574   -3.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+5195
+
+> <Formula>
+C7H10N2
+
+> <FW>
+122.1677
+
+> <DSSTox_CID>
+7494
+
+> <DSSTox_RID>
+78471
+
+> <DSSTox_GSID>
+27494
+
+> <DSSTox_FileID_Sort>
+3154
+
+> <TS_ChemName>
+2,3-Diaminotoluene
+
+> <TS_ChemName_Synonyms>
+3-Methylbenzene-1,2-diamine
+
+> <TS_CASRN>
+2687-25-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H10N2
+
+> <STRUCTURE_MW>
+122.1677
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylbenzene-1,2-diamine
+
+> <STRUCTURE_SMILES>
+Cc1cccc(N)c1N
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cccc(N)c1N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

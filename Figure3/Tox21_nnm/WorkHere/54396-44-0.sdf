@@ -1,0 +1,96 @@
+54396-44-0
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    3.8108   -3.4559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1474   -2.3039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8108   -1.1520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1427   -1.1520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1474    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8154    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.1520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8154   -2.3039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -3.4559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7925    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -4.1193    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4886   -4.6079    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <ID>
+16168
+
+> <Formula>
+C8H8F3N
+
+> <FW>
+175.151
+
+> <DSSTox_CID>
+31558
+
+> <DSSTox_RID>
+97443
+
+> <DSSTox_GSID>
+57769
+
+> <DSSTox_FileID_Sort>
+8510
+
+> <TS_ChemName>
+3-(Trifluoromethyl)-o-toluidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+54396-44-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8F3N
+
+> <STRUCTURE_MW>
+175.151
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-3-(trifluoromethyl)aniline
+
+> <STRUCTURE_SMILES>
+Cc1c(cccc1N)C(F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1c(cccc1N)C(F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

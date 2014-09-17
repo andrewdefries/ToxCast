@@ -1,0 +1,93 @@
+51-15-0
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  2 V2000
+    5.3166   -1.1495    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9872   -2.3051    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3166   -3.4546    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9875   -3.4546    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3289   -2.3051    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9878   -2.3051    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3292   -3.4546    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4546    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9875   -1.1495    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    3.3289    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9218   -4.7838    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+3132
+
+> <Formula>
+C7H9ClN2O
+
+> <FW>
+172.6122 (137.1586+35.4535)
+
+> <DSSTox_CID>
+3495
+
+> <DSSTox_RID>
+77053
+
+> <DSSTox_GSID>
+23495
+
+> <DSSTox_FileID_Sort>
+1736
+
+> <TS_ChemName>
+Pralidoxime chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+51-15-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [6735-59-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H9ClN2O
+
+> <STRUCTURE_MW>
+172.6122
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+2-[(E)-(hydroxyimino)methyl]-1-methylpyridinium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].O\N=C\c1cccc[n+]1C
+
+> <STRUCTURE_SMILES_Desalt>
+O\N=C\c1cccc[n+]1C
+
+> <Substance_modify_yyyymmdd>
+20120529
+
+$$$$

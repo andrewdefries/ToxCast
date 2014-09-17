@@ -1,0 +1,78 @@
+26628-22-8
+ChemmineR-0915142007XD
+
+  4  2  0  0  0  0  0  0  0  0  2 V2000
+    4.1824   -0.0335    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    2.6600    0.0000    0.0000 N    0  5  0  0  0  0  0  0  0  0  0  0
+    1.3300    0.0000    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N    0  5  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  2  0  0  0  0
+M  END
+> <ID>
+118
+
+> <Formula>
+N3Na
+
+> <FW>
+65.0099 (22.9892+42.0206)
+
+> <DSSTox_CID>
+121
+
+> <DSSTox_RID>
+75383
+
+> <DSSTox_GSID>
+20121
+
+> <DSSTox_FileID_Sort>
+67
+
+> <TS_ChemName>
+Sodium azide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+26628-22-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+N3Na
+
+> <STRUCTURE_MW>
+65.0099
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+sodium azide
+
+> <STRUCTURE_SMILES>
+[Na+].[N-]=[N+]=[N-]
+
+> <STRUCTURE_SMILES_Desalt>
+[N-]=[N+]=[N-]
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

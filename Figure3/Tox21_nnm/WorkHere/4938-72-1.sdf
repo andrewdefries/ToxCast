@@ -1,0 +1,108 @@
+4938-72-1
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    6.9270   -3.9879    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0680   -3.3309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0680   -1.9940    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2206   -1.3255    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3732   -1.9940    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3732   -3.3309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2206   -3.9879    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5257   -3.9879    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5257   -1.3255    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9270   -1.3255    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7744   -1.9940    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6218   -1.3255    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6218    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4692   -1.9940    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -1.3370    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -2.0055    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3370    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1641   -3.3309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+4527
+
+> <Formula>
+C12H13Cl3O3
+
+> <FW>
+311.5888
+
+> <DSSTox_CID>
+6074
+
+> <DSSTox_RID>
+78005
+
+> <DSSTox_GSID>
+26074
+
+> <DSSTox_FileID_Sort>
+2688
+
+> <TS_ChemName>
+Isobutyl (2,4,5-trichlorophenoxy)acetate
+
+> <TS_ChemName_Synonyms>
+Isobutyl (2,4,5-trichlorophenoxy)acetate (2,4,5-T isobutyl ester)
+
+> <TS_CASRN>
+4938-72-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H13Cl3O3
+
+> <STRUCTURE_MW>
+311.5888
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylpropyl (2,4,5-trichlorophenoxy)acetate
+
+> <STRUCTURE_SMILES>
+Clc1cc(OCC(=O)OCC(C)C)c(Cl)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(OCC(=O)OCC(C)C)c(Cl)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

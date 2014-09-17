@@ -1,0 +1,107 @@
+36791-04-5
+ChemmineR-0915142007XD
+
+ 17 18  0  0  1  0  0  0  0  0  1 V2000
+    4.1490   -4.4714    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1490   -6.2277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8277   -2.3927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2520   -3.6738    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4787   -2.3927    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7841   -7.4410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1054   -5.5065    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0375   -3.6738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5199   -7.4410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1127   -6.2701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6083   -1.2642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9574   -1.2642    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5477   -8.4167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0398    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8072   -8.4846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9079   -5.9138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.7622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 13  1  6  0  0  0
+  7 10  1  0  0  0  0
+  9 15  1  6  0  0  0
+  9 10  1  0  0  0  0
+ 10 16  1  1  0  0  0
+ 11 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+3183
+
+> <Formula>
+C8H12N4O5
+
+> <FW>
+244.2047
+
+> <DSSTox_CID>
+3557
+
+> <DSSTox_RID>
+77081
+
+> <DSSTox_GSID>
+23557
+
+> <DSSTox_FileID_Sort>
+1764
+
+> <TS_ChemName>
+Ribavirin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+36791-04-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12N4O5
+
+> <STRUCTURE_MW>
+244.2047
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(beta-D-ribofuranosyl)-1H-1,2,4-triazole-3-carboxamide
+
+> <STRUCTURE_SMILES>
+NC(=O)c1ncn(n1)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)c1ncn(n1)[C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

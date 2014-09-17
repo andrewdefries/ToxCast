@@ -1,0 +1,96 @@
+14885-29-1
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  2 V2000
+    6.5615   -2.6443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6232   -1.7060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9644   -0.4199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3569   -2.1128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9435   -3.3792    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6181   -3.3792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2047   -2.1128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2808   -1.3320    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2808    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9383   -1.7060    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6443    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.6627   -0.4003    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+12013
+
+> <Formula>
+C7H11N3O2
+
+> <FW>
+169.1811
+
+> <DSSTox_CID>
+26839
+
+> <DSSTox_RID>
+81950
+
+> <DSSTox_GSID>
+46839
+
+> <DSSTox_FileID_Sort>
+6631
+
+> <TS_ChemName>
+Ipronidazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+14885-29-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H11N3O2
+
+> <STRUCTURE_MW>
+169.1811
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methyl-5-nitro-2-(propan-2-yl)-1H-imidazole
+
+> <STRUCTURE_SMILES>
+CC(C)c1ncc([N+]([O-])=O)n1C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)c1ncc([N+]([O-])=O)n1C
+
+> <Substance_modify_yyyymmdd>
+20110729
+
+$$$$

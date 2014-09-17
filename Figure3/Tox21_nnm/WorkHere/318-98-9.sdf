@@ -1,0 +1,112 @@
+318-98-9
+ChemmineR-0915142007XD
+
+ 20 20  0  0  0  0  0  0  0  0  1 V2000
+    6.9107   -3.9967    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9107   -2.6606    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7589   -2.0041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -2.6606    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -2.0041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -0.6680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -0.6680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -2.0041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -2.6606    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -3.9967    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -4.6647    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9967    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6606    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0625   -2.0041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2143   -2.6606    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3661   -2.0041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3661   -0.6680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5179   -2.6606    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0448   -4.5496    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <ID>
+1152
+
+> <Formula>
+C16H22ClNO2
+
+> <FW>
+295.8044 (259.3434+36.4609)
+
+> <DSSTox_CID>
+1198
+
+> <DSSTox_RID>
+76007
+
+> <DSSTox_GSID>
+21198
+
+> <DSSTox_FileID_Sort>
+691
+
+> <TS_ChemName>
+Propranolol hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+318-98-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [525-66-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H22ClNO2
+
+> <STRUCTURE_MW>
+295.8044
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-(naphthalen-1-yloxy)-3-(propan-2-ylamino)propan-2-ol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CC(C)NCC(O)COc2cccc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)NCC(O)COc2cccc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

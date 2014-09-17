@@ -1,0 +1,104 @@
+15687-23-7
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    2.2980   -0.6710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2980   -2.0130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8940   -0.6710    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4654    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4654   -2.6841    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6144   -0.6710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7450    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1490   -2.6657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1490   -0.0184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0430    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8940   -1.9947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6144   -2.0130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1920   -0.6710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0430   -2.6565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+11440
+
+> <Formula>
+C13H21NO2
+
+> <FW>
+223.3113
+
+> <DSSTox_CID>
+26139
+
+> <DSSTox_RID>
+81372
+
+> <DSSTox_GSID>
+46139
+
+> <DSSTox_FileID_Sort>
+6053
+
+> <TS_ChemName>
+Guaiactamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+15687-23-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H21NO2
+
+> <STRUCTURE_MW>
+223.3113
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-diethyl-2-(2-methoxyphenoxy)ethanamine
+
+> <STRUCTURE_SMILES>
+CCN(CCOc1ccccc1OC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CCOc1ccccc1OC)CC
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

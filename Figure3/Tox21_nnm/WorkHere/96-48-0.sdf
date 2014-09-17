@@ -1,0 +1,84 @@
+96-48-0
+ChemmineR-0915142007XD
+
+  6  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.0738    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.0738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1104    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3767   -0.4086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3767   -1.7390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1104   -2.1509    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+220
+
+> <Formula>
+C4H6O2
+
+> <FW>
+86.0892
+
+> <DSSTox_CID>
+224
+
+> <DSSTox_RID>
+75445
+
+> <DSSTox_GSID>
+20224
+
+> <DSSTox_FileID_Sort>
+129
+
+> <TS_ChemName>
+4-Butyrolactone
+
+> <TS_ChemName_Synonyms>
+4-Butyrolactone (gamma-Butyrolactone) (2(3H)-Furanone, dihydro-)
+
+> <TS_CASRN>
+96-48-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6O2
+
+> <STRUCTURE_MW>
+86.0892
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dihydrofuran-2(3H)-one
+
+> <STRUCTURE_SMILES>
+O=C1CCCO1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

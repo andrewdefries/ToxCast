@@ -1,0 +1,112 @@
+481-74-3
+ChemmineR-0915142007XD
+
+ 19 21  0  0  0  0  0  0  0  0  1 V2000
+    4.6030    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6030   -1.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7557   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9085   -1.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0613   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0613   -3.3293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9085   -3.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9085   -5.3204    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7557   -3.3293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6030   -3.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6030   -5.3204    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4583   -3.3293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3055   -3.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3055   -5.3204    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -3.3293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3055   -1.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4583   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+3873
+
+> <Formula>
+C15H10O4
+
+> <FW>
+254.2375
+
+> <DSSTox_CID>
+4832
+
+> <DSSTox_RID>
+77547
+
+> <DSSTox_GSID>
+24832
+
+> <DSSTox_FileID_Sort>
+2230
+
+> <TS_ChemName>
+Chrysophanic acid
+
+> <TS_ChemName_Synonyms>
+Chrysophanic acid (1,8-dihydroxy-3-methylanthraquinone)
+
+> <TS_CASRN>
+481-74-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H10O4
+
+> <STRUCTURE_MW>
+254.2375
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,8-dihydroxy-3-methylanthracene-9,10-dione
+
+> <STRUCTURE_SMILES>
+Oc3cccc2C(=O)c1cc(C)cc(O)c1C(=O)c23
+
+> <STRUCTURE_SMILES_Desalt>
+Oc3cccc2C(=O)c1cc(C)cc(O)c1C(=O)c23
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

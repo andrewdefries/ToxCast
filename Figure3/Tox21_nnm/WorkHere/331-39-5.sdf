@@ -1,0 +1,98 @@
+331-39-5
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3407    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1550   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1550   -3.3276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -3.9980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4568   -3.3276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4568   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -1.3407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6037   -1.3407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7587   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9217   -1.3407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9217    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0767   -1.9949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  3  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+227
+
+> <Formula>
+C9H8O4
+
+> <FW>
+180.1574
+
+> <DSSTox_CID>
+231
+
+> <DSSTox_RID>
+75447
+
+> <DSSTox_GSID>
+20231
+
+> <DSSTox_FileID_Sort>
+131
+
+> <TS_ChemName>
+Caffeic acid
+
+> <TS_ChemName_Synonyms>
+Caffeic acid (3,4-Dihydroxycinnamic acid)
+
+> <TS_CASRN>
+331-39-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C9H8O4
+
+> <STRUCTURE_MW>
+180.1574
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(3,4-dihydroxyphenyl)prop-2-enoic acid
+
+> <STRUCTURE_SMILES>
+Oc1ccc(C=CC(=O)O)cc1O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(C=CC(=O)O)cc1O
+
+> <Substance_modify_yyyymmdd>
+20110518
+
+$$$$

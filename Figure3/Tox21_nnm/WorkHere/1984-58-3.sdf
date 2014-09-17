@@ -1,0 +1,92 @@
+1984-58-3
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.4594   -1.3285    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -2.0033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -3.3318    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4594   -3.9854    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062   -3.3318    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062   -2.0033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4594    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4594   -5.3139    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531   -1.3285    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+5168
+
+> <Formula>
+C7H6Cl2O
+
+> <FW>
+177.0279
+
+> <DSSTox_CID>
+7452
+
+> <DSSTox_RID>
+78459
+
+> <DSSTox_GSID>
+27452
+
+> <DSSTox_FileID_Sort>
+3142
+
+> <TS_ChemName>
+2,5-Dichloroanisole
+
+> <TS_ChemName_Synonyms>
+2,5-Dichloroanisole (Benzene, 1,4-dichloro-2-methoxy-)
+
+> <TS_CASRN>
+1984-58-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6Cl2O
+
+> <STRUCTURE_MW>
+177.0279
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-dichloro-2-methoxybenzene
+
+> <STRUCTURE_SMILES>
+COc1cc(Cl)ccc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+COc1cc(Cl)ccc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

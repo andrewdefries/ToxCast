@@ -1,0 +1,90 @@
+85264-33-1
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    2.3362   -0.3637    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1200   -1.4396    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0707   -2.1108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3362   -2.5104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0707   -0.7838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4520   -1.4396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1232   -0.2869    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7511   -3.7758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+6485
+
+> <Formula>
+C6H10N2O
+
+> <FW>
+126.1564
+
+> <DSSTox_CID>
+12513
+
+> <DSSTox_RID>
+78961
+
+> <DSSTox_GSID>
+32513
+
+> <DSSTox_FileID_Sort>
+3643
+
+> <TS_ChemName>
+(3,5-Dimethyl-1H-pyrazol-1-yl)methanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+85264-33-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10N2O
+
+> <STRUCTURE_MW>
+126.1564
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3,5-dimethyl-1H-pyrazol-1-yl)methanol
+
+> <STRUCTURE_SMILES>
+Cc1cc(C)nn1CO
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(C)nn1CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

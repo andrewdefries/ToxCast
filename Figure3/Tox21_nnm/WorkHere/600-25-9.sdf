@@ -1,0 +1,85 @@
+600-25-9
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -2.3029    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3291   -2.3029    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -1.1495    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3291    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3247   -1.1495    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    3.9912    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -2.3029    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+3857
+
+> <Formula>
+C3H6ClNO2
+
+> <FW>
+123.5382
+
+> <DSSTox_CID>
+4797
+
+> <DSSTox_RID>
+77535
+
+> <DSSTox_GSID>
+24797
+
+> <DSSTox_FileID_Sort>
+2218
+
+> <TS_ChemName>
+1-Chloro-1-nitropropane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+600-25-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H6ClNO2
+
+> <STRUCTURE_MW>
+123.5382
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-1-nitropropane
+
+> <STRUCTURE_SMILES>
+CCC(Cl)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(Cl)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

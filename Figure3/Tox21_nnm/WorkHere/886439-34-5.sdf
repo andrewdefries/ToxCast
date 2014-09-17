@@ -1,0 +1,103 @@
+886439-34-5
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  2 V2000
+    5.1371   -5.8146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1371   -4.4819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2910   -3.8118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2910   -2.4866    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    6.9611   -1.3327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2910   -0.1787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9658   -0.1787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3032   -1.3327    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9658   -2.4866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4450   -3.1567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9831   -6.4697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3327    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3252   -1.3327    0.0000 B   0  5  0  0  0  0  0  0  0  0  0  0
+    1.3252   -2.6579    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3252    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6579   -1.3327    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+M  END
+> <ID>
+14233
+
+> <Formula>
+C10H22BF4N
+
+> <FW>
+243.0930 (156.2878+86.8052)
+
+> <DSSTox_CID>
+29328
+
+> <DSSTox_RID>
+83444
+
+> <DSSTox_GSID>
+49369
+
+> <DSSTox_FileID_Sort>
+8119
+
+> <TS_ChemName>
+1-Butyl-1-methylpiperidinium tetrafluoroborate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+886439-34-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H22BF4N
+
+> <STRUCTURE_MW>
+243.093
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-butyl-1-methylpiperidinium tetrafluoroborate
+
+> <STRUCTURE_SMILES>
+F[B-](F)(F)F.C[N+]1(CCCC)CCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+]1(CCCC)CCCCC1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

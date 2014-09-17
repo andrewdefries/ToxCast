@@ -1,0 +1,106 @@
+88-85-7
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  2 V2000
+    1.9970   -1.1540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6604   -2.3010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9871   -2.3010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6574   -3.4550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9871   -4.6090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6604   -4.6090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9970   -3.4550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6634   -3.4550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6634   -5.7560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6574   -5.7560    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.9871   -6.9100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9841   -5.7560    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.6574   -1.1540    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.9871    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9841   -1.1540    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+203
+
+> <Formula>
+C10H12N2O5
+
+> <FW>
+240.2127
+
+> <DSSTox_CID>
+207
+
+> <DSSTox_RID>
+75433
+
+> <DSSTox_GSID>
+20207
+
+> <DSSTox_FileID_Sort>
+117
+
+> <TS_ChemName>
+Dinoseb
+
+> <TS_ChemName_Synonyms>
+Dinoseb (Phenol, 2-(1-methylpropyl)-4,6-dinitro-) (Dinoseb acid) (2-sec-Butyl-4,6-dinitrophenol)
+
+> <TS_CASRN>
+88-85-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12N2O5
+
+> <STRUCTURE_MW>
+240.2127
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(butan-2-yl)-4,6-dinitrophenol
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1cc(cc(C(C)CC)c1O)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1cc(cc(C(C)CC)c1O)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

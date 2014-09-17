@@ -1,0 +1,102 @@
+92-84-2
+ChemmineR-0915142007XD
+
+ 14 16  0  0  0  0  0  0  0  0  1 V2000
+    3.4545    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552   -2.6600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9090   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9090   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4545   -2.6600    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -2.6600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+1082
+
+> <Formula>
+C12H9NS
+
+> <FW>
+199.2716
+
+> <DSSTox_CID>
+1126
+
+> <DSSTox_RID>
+75957
+
+> <DSSTox_GSID>
+21126
+
+> <DSSTox_FileID_Sort>
+641
+
+> <TS_ChemName>
+Phenothiazine
+
+> <TS_ChemName_Synonyms>
+Phenothiazine (10H-Phenothiazine)
+
+> <TS_CASRN>
+92-84-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H9NS
+
+> <STRUCTURE_MW>
+199.2716
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+10H-phenothiazine
+
+> <STRUCTURE_SMILES>
+c1ccc2Sc3ccccc3Nc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccc2Sc3ccccc3Nc2c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

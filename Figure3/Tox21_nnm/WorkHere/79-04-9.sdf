@@ -1,0 +1,81 @@
+79-04-9
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    2.6597   -2.3060    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9868   -1.1517    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6437    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6569   -1.1517    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3060    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+4692
+
+> <Formula>
+C2H2Cl2O
+
+> <FW>
+112.9427
+
+> <DSSTox_CID>
+6472
+
+> <DSSTox_RID>
+78120
+
+> <DSSTox_GSID>
+26472
+
+> <DSSTox_FileID_Sort>
+2803
+
+> <TS_ChemName>
+Chloroacetyl chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+79-04-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H2Cl2O
+
+> <STRUCTURE_MW>
+112.9427
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+chloroacetyl chloride
+
+> <STRUCTURE_SMILES>
+ClCC(Cl)=O
+
+> <STRUCTURE_SMILES_Desalt>
+ClCC(Cl)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

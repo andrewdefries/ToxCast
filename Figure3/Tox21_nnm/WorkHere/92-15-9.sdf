@@ -1,0 +1,102 @@
+92-15-9
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    4.6144   -3.3420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7740   -3.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8933   -3.3420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0530   -3.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6144   -2.0052    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4708   -3.9943    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3112   -3.3420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3112   -2.0052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1596   -4.0104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1596   -1.3529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4708   -1.3368    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8933   -2.0052    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 15  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+4723
+
+> <Formula>
+C11H13NO3
+
+> <FW>
+207.2258
+
+> <DSSTox_CID>
+6558
+
+> <DSSTox_RID>
+78149
+
+> <DSSTox_GSID>
+26558
+
+> <DSSTox_FileID_Sort>
+2832
+
+> <TS_ChemName>
+N-(2-Methoxyphenyl)-3-oxobutanamide
+
+> <TS_ChemName_Synonyms>
+Butanamide, N-(2-methoxyphenyl)-3-oxo-
+
+> <TS_CASRN>
+92-15-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H13NO3
+
+> <STRUCTURE_MW>
+207.2258
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(2-methoxyphenyl)-3-oxobutanamide
+
+> <STRUCTURE_SMILES>
+COc1ccccc1NC(=O)CC(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccccc1NC(=O)CC(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

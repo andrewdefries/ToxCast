@@ -1,0 +1,105 @@
+126-73-8
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+    9.9273   -3.3256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7757   -3.9908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6241   -3.3256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4726   -3.9908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210   -3.3256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210   -1.9954    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6513   -1.9954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9908   -1.9954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3256   -3.1469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9954   -3.1469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3303   -4.2985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.2985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210   -0.6651    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4726    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6241   -0.6651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7757    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9273   -0.6651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+1841
+
+> <Formula>
+C12H27O4P
+
+> <FW>
+266.3141
+
+> <DSSTox_CID>
+1986
+
+> <DSSTox_RID>
+76443
+
+> <DSSTox_GSID>
+21986
+
+> <DSSTox_FileID_Sort>
+1127
+
+> <TS_ChemName>
+Tributyl phosphate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+126-73-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H27O4P
+
+> <STRUCTURE_MW>
+266.3141
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tributyl phosphate
+
+> <STRUCTURE_SMILES>
+CCCCOP(=O)(OCCCC)OCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCOP(=O)(OCCCC)OCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

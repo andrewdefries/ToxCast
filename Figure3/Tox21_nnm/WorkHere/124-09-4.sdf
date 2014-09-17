@@ -1,0 +1,87 @@
+124-09-4
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    4.6105   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7651    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9197   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0744    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6621    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+3918
+
+> <Formula>
+C6H16N2
+
+> <FW>
+116.2046
+
+> <DSSTox_CID>
+4922
+
+> <DSSTox_RID>
+77583
+
+> <DSSTox_GSID>
+24922
+
+> <DSSTox_FileID_Sort>
+2266
+
+> <TS_ChemName>
+1,6-Hexanediamine
+
+> <TS_ChemName_Synonyms>
+1,6-Hexanediamine (Hexamethylenediamine) (1,6-Diaminohexane)
+
+> <TS_CASRN>
+124-09-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H16N2
+
+> <STRUCTURE_MW>
+116.2046
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexane-1,6-diamine
+
+> <STRUCTURE_SMILES>
+NCCCCCCN
+
+> <STRUCTURE_SMILES_Desalt>
+NCCCCCCN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

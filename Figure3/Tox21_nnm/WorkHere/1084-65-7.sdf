@@ -1,0 +1,107 @@
+1084-65-7
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    1.1545    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3022   -0.6568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6112   -0.6568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6112   -1.9911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -2.6547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3022   -1.9911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1545   -2.6547    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8182   -3.8093    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3253    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4839   -1.5071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7588   -2.6547    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9016   -3.6779    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6092   -3.6779    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9134   -1.9911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9134   -0.6568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7588    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+10884
+
+> <Formula>
+C10H13NO4S2
+
+> <FW>
+275.3445
+
+> <DSSTox_CID>
+25346
+
+> <DSSTox_RID>
+80814
+
+> <DSSTox_GSID>
+45346
+
+> <DSSTox_FileID_Sort>
+5495
+
+> <TS_ChemName>
+Meticrane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1084-65-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13NO4S2
+
+> <STRUCTURE_MW>
+275.3445
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-methyl-3,4-dihydro-2H-thiochromene-7-sulfonamide 1,1-dioxide
+
+> <STRUCTURE_SMILES>
+NS(=O)(=O)c2cc1c(CCCS1(=O)=O)cc2C
+
+> <STRUCTURE_SMILES_Desalt>
+NS(=O)(=O)c2cc1c(CCCS1(=O)=O)cc2C
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

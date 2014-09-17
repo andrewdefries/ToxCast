@@ -1,0 +1,106 @@
+469-61-4
+ChemmineR-0915142007XD
+
+ 16 18  0  0  1  0  0  0  0  0  1 V2000
+    2.0828   -1.7072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3632   -3.4599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0828   -3.0559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1485   -2.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3347   -1.2804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4900   -1.1040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2933   -0.2902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6079    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7967   -3.4599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7967   -1.2975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6038   -4.0290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9421   -4.7460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6907   -1.1040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3414    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0828   -4.1428    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  1  6  0  0  0
+  1  7  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 16  1  1  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  1  0  0  0
+M  END
+> <ID>
+12186
+
+> <Formula>
+C15H24
+
+> <FW>
+204.3511
+
+> <DSSTox_CID>
+27032
+
+> <DSSTox_RID>
+82053
+
+> <DSSTox_GSID>
+47032
+
+> <DSSTox_FileID_Sort>
+6734
+
+> <TS_ChemName>
+alpha-Cedrene
+
+> <TS_ChemName_Synonyms>
+(-)-alpha-Cedrene
+
+> <TS_CASRN>
+469-61-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H24
+
+> <STRUCTURE_MW>
+204.3511
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+cedr-8-ene
+
+> <STRUCTURE_SMILES>
+CC1=CC[C@]23CC1C(C)(C)[C@@H]3CC[C@H]2C
+
+> <STRUCTURE_SMILES_Desalt>
+CC1=CC[C@]23CC1C(C)(C)[C@@H]3CC[C@H]2C
+
+> <Substance_modify_yyyymmdd>
+20100427
+
+$$$$

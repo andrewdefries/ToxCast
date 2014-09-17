@@ -1,0 +1,97 @@
+15930-66-2
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    1.1557    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2838   -0.6741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4257    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6741    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5813   -0.6741    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7232    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8789   -0.6741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0345    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1764   -0.6741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4740   -0.6741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6021    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7578   -0.6741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+10491
+
+> <Formula>
+C11H25NO
+
+> <FW>
+187.3223
+
+> <DSSTox_CID>
+24844
+
+> <DSSTox_RID>
+80524
+
+> <DSSTox_GSID>
+44844
+
+> <DSSTox_FileID_Sort>
+5206
+
+> <TS_ChemName>
+3-(Octyloxy)propan-1-amine
+
+> <TS_ChemName_Synonyms>
+3-(Octyloxy)propan-1-amine (1-Propanamine, 3-(octyloxy)-)
+
+> <TS_CASRN>
+15930-66-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H25NO
+
+> <STRUCTURE_MW>
+187.3223
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(octyloxy)propan-1-amine
+
+> <STRUCTURE_SMILES>
+NCCCOCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+NCCCOCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,91 @@
+2473-01-0
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6716    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1468    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -0.6716    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4508    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5977   -0.6716    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7445    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9017   -0.6716    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0279    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1850   -0.6716    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3319    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+14118
+
+> <Formula>
+C9H19Cl
+
+> <FW>
+162.7002
+
+> <DSSTox_CID>
+29111
+
+> <DSSTox_RID>
+83330
+
+> <DSSTox_GSID>
+49255
+
+> <DSSTox_FileID_Sort>
+8005
+
+> <TS_ChemName>
+Nonane,1-chloro-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2473-01-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+alternate CAS [14923-17-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H19Cl
+
+> <STRUCTURE_MW>
+162.7002
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chlorononane
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCl
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCl
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

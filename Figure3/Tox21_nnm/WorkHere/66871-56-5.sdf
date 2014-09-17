@@ -1,0 +1,104 @@
+66871-56-5
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    4.6597   -3.4549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9922   -3.4549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6465   -4.6118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6570   -2.3059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9895   -2.3059    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9789   -4.6118    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9895   -4.6118    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0027   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0027   -3.4549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9922   -5.7608    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6702   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6702   -3.4549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6570   -4.6118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6570    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6465   -6.9177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  2  0  0  0  0
+  4  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 13  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+14064
+
+> <Formula>
+C11H16N4O
+
+> <FW>
+220.2709
+
+> <DSSTox_CID>
+29006
+
+> <DSSTox_RID>
+83271
+
+> <DSSTox_GSID>
+49080
+
+> <DSSTox_FileID_Sort>
+7946
+
+> <TS_ChemName>
+Lidamidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+66871-56-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H16N4O
+
+> <STRUCTURE_MW>
+220.2709
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(2,6-dimethylphenyl)-3-(N-methylcarbamimidoyl)urea
+
+> <STRUCTURE_SMILES>
+O=C(Nc1c(C)cccc1C)NC(=N)NC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Nc1c(C)cccc1C)NC(=N)NC
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

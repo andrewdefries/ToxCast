@@ -1,0 +1,96 @@
+320-60-5
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    1.9716   -1.1551    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3277   -2.3234    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9915   -3.4519    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3192   -3.4652    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9764   -2.3101    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3059   -1.1551    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3107   -2.3101    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9811   -1.1551    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9811   -3.4652    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6383   -2.3101    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9631    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3566    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+M  END
+> <ID>
+13033
+
+> <Formula>
+C7H3Cl2F3
+
+> <FW>
+214.9999
+
+> <DSSTox_CID>
+27935
+
+> <DSSTox_RID>
+82687
+
+> <DSSTox_GSID>
+47959
+
+> <DSSTox_FileID_Sort>
+7364
+
+> <TS_ChemName>
+2,4-Dichlorobenzotrifluoride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+320-60-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H3Cl2F3
+
+> <STRUCTURE_MW>
+214.9999
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-dichloro-1-(trifluoromethyl)benzene
+
+> <STRUCTURE_SMILES>
+FC(F)(F)c1ccc(Cl)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)(F)c1ccc(Cl)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20110418
+
+$$$$

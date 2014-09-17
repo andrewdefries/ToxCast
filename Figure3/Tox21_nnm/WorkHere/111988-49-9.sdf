@@ -1,0 +1,105 @@
+111988-49-9
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    1.2668   -1.1846    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0474   -2.2734    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2463   -3.3417    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.9103    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.5681    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3759   -2.2734    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6503   -4.6085    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9445   -4.8961    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8552   -3.9374    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3417   -6.1766    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1494   -4.2250    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6427   -6.4642    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5534   -5.4850    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8477   -5.7794    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0607   -1.1367    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7523    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  3  0  0  0  0
+M  END
+> <ID>
+6966
+
+> <Formula>
+C10H9ClN4S
+
+> <FW>
+252.7233
+
+> <DSSTox_CID>
+14961
+
+> <DSSTox_RID>
+79228
+
+> <DSSTox_GSID>
+34961
+
+> <DSSTox_FileID_Sort>
+3910
+
+> <TS_ChemName>
+Thiacloprid
+
+> <TS_ChemName_Synonyms>
+Thiacloprid ((Z)-[3-[(6-Chloro-3-pyridinyl)methyl]-2-thiazolidinylidene]cyanamide) (YRC 2894)
+
+> <TS_CASRN>
+111988-49-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H9ClN4S
+
+> <STRUCTURE_MW>
+252.7233
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+{(2Z)-3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene}cyanamide
+
+> <STRUCTURE_SMILES>
+Clc2ncc(CN1CCS/C1=N\C#N)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2ncc(CN1CCS/C1=N\C#N)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

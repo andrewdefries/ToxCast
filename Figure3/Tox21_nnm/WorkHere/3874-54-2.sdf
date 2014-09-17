@@ -1,0 +1,98 @@
+3874-54-2
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    6.6474   -5.7567    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9827   -4.6067    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6474   -3.4567    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9827   -2.3000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6532   -2.3000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9885   -3.4567    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6532   -4.6067    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9885   -1.1500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6532    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6590   -1.1500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9942   -2.3000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6647   -2.3000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4567    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+16129
+
+> <Formula>
+C10H10ClFO
+
+> <FW>
+200.6372
+
+> <DSSTox_CID>
+31518
+
+> <DSSTox_RID>
+97403
+
+> <DSSTox_GSID>
+57729
+
+> <DSSTox_FileID_Sort>
+8470
+
+> <TS_ChemName>
+4-Chloro-1-(4-fluorophenyl)-1-butanone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3874-54-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H10ClFO
+
+> <STRUCTURE_MW>
+200.6372
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-chloro-1-(4-fluorophenyl)butan-1-one
+
+> <STRUCTURE_SMILES>
+O=C(CCCCl)c1ccc(F)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCl)c1ccc(F)cc1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

@@ -1,0 +1,89 @@
+108-60-1
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1538   -1.9967    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -1.3334    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4545   -1.9967    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552   -1.9967    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -1.3334    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9090   -1.3334    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3334    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+164
+
+> <Formula>
+C6H12Cl2O
+
+> <FW>
+171.0649
+
+> <DSSTox_CID>
+167
+
+> <DSSTox_RID>
+75414
+
+> <DSSTox_GSID>
+20167
+
+> <DSSTox_FileID_Sort>
+98
+
+> <TS_ChemName>
+Bis(2-chloro-1-methylethyl) ether
+
+> <TS_ChemName_Synonyms>
+bis(2-Chloro-1-methylethyl) ether (Bis(2-chloroisopropyl) ether) (DCIP)
+
+> <TS_CASRN>
+108-60-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12Cl2O
+
+> <STRUCTURE_MW>
+171.0649
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+bis(1-chloropropan-2-yl) ether
+
+> <STRUCTURE_SMILES>
+CC(CCl)OC(C)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CCl)OC(C)CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,87 @@
+56539-66-3
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    1.1690   -1.1863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3264   -0.4977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4606   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1204    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.5440    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6354   -1.7940    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7870   -1.1227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8241   -2.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+10046
+
+> <Formula>
+C6H14O2
+
+> <FW>
+118.1742
+
+> <DSSTox_CID>
+24389
+
+> <DSSTox_RID>
+80190
+
+> <DSSTox_GSID>
+44389
+
+> <DSSTox_FileID_Sort>
+4872
+
+> <TS_ChemName>
+3-Methoxy-3-methylbutan-1-ol
+
+> <TS_ChemName_Synonyms>
+3-Methoxy-3-methylbutan-1-ol (1-Butanol, 3-methoxy-3-methyl-)
+
+> <TS_CASRN>
+56539-66-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O2
+
+> <STRUCTURE_MW>
+118.1742
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methoxy-3-methylbutan-1-ol
+
+> <STRUCTURE_SMILES>
+CC(C)(CCO)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(CCO)OC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

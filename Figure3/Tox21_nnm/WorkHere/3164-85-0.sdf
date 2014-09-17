@@ -1,0 +1,92 @@
+3164-85-0
+ChemmineR-0915142007XD
+
+ 11  9  0  0  0  0  0  0  0  0  2 V2000
+    2.1205   -2.2698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4793   -2.2698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1513   -1.1200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4729   -1.1349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1449    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4664   -0.0224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4709   -1.1050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4709   -3.4196    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.1289   -3.4345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4579   -3.4495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4639    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+5220
+
+> <Formula>
+C8H15KO2
+
+> <FW>
+182.3018 (143.2040+39.0978)
+
+> <DSSTox_CID>
+7525
+
+> <DSSTox_RID>
+78488
+
+> <DSSTox_GSID>
+27525
+
+> <DSSTox_FileID_Sort>
+3171
+
+> <TS_ChemName>
+Potassium 2-ethylhexanoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3164-85-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [149-57-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H15KO2
+
+> <STRUCTURE_MW>
+182.3018
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+potassium 2-ethylhexanoate
+
+> <STRUCTURE_SMILES>
+[K+].[O-]C(=O)C(CC)CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCC(CC)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

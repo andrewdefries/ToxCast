@@ -1,0 +1,91 @@
+110-05-4
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    2.3054   -1.1527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4581   -1.8155    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -1.8155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4899   -0.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8155   -2.9682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4783    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6108   -1.1527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9480    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7635   -0.4841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2736   -2.3054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  5  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+3935
+
+> <Formula>
+C8H18O2
+
+> <FW>
+146.2273
+
+> <DSSTox_CID>
+4955
+
+> <DSSTox_RID>
+77597
+
+> <DSSTox_GSID>
+24955
+
+> <DSSTox_FileID_Sort>
+2280
+
+> <TS_ChemName>
+Di-tert-butyl peroxide
+
+> <TS_ChemName_Synonyms>
+t-BuOOH; Peroxide, bis(1,1-dimethylethyl); tert-butyl peroxide; Luperox® DI
+
+> <TS_CASRN>
+110-05-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18O2
+
+> <STRUCTURE_MW>
+146.2273
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(tert-butylperoxy)-2-methylpropane
+
+> <STRUCTURE_SMILES>
+CC(C)(C)OOC(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)OOC(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20130926
+
+$$$$

@@ -1,0 +1,96 @@
+16587-71-6
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    1.3331   -1.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1758   -1.9923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1758   -3.3253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3331   -3.9845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4757   -3.3253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4757   -1.9923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3331    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3331   -5.3176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3331   -6.6507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6661   -5.3176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4757   -7.3245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <ID>
+12277
+
+> <Formula>
+C11H20O
+
+> <FW>
+168.2759
+
+> <DSSTox_CID>
+27127
+
+> <DSSTox_RID>
+82134
+
+> <DSSTox_GSID>
+47127
+
+> <DSSTox_FileID_Sort>
+6815
+
+> <TS_ChemName>
+4-(tert-Pentyl)-cyclohexanone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+16587-71-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H20O
+
+> <STRUCTURE_MW>
+168.2759
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(2-methylbutan-2-yl)cyclohexanone
+
+> <STRUCTURE_SMILES>
+CCC(C)(C)C1CCC(=O)CC1
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(C)(C)C1CCC(=O)CC1
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

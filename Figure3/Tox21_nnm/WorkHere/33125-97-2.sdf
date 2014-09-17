@@ -1,0 +1,109 @@
+33125-97-2
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    3.4013   -4.3471    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2820   -3.6182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6291   -2.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7874   -1.3015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2647   -0.0607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4772   -1.5098    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8417   -3.7831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9566   -2.2647    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6855   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0174    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0131   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6812   -2.2994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0087   -2.2994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6769   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0087    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6812    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4339   -3.5055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 18  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+2726
+
+> <Formula>
+C14H16N2O2
+
+> <FW>
+244.289
+
+> <DSSTox_CID>
+3033
+
+> <DSSTox_RID>
+76841
+
+> <DSSTox_GSID>
+23033
+
+> <DSSTox_FileID_Sort>
+1525
+
+> <TS_ChemName>
+Etomidate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+33125-97-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H16N2O2
+
+> <STRUCTURE_MW>
+244.289
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 1-(1-phenylethyl)-1H-imidazole-5-carboxylate
+
+> <STRUCTURE_SMILES>
+CC(c1ccccc1)n2cncc2C(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(c1ccccc1)n2cncc2C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

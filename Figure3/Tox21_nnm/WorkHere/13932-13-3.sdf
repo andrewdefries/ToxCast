@@ -1,0 +1,93 @@
+13932-13-3
+ChemmineR-0915142007XD
+
+ 12  9  0  0  0  0  0  0  0  0  2 V2000
+    2.5461   -1.3302    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7050   -1.9912    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5461    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3955   -1.9912    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.5461   -2.6604    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8556   -1.3302    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0144   -1.9912    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1651   -1.3302    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.0144   -3.3214    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0144   -0.6610    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1607   -1.3302    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9259    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <ID>
+12197
+
+> <Formula>
+K2O6S4
+
+> <FW>
+302.4530 (224.2575+39.0978+39.0978)
+
+> <DSSTox_CID>
+27043
+
+> <DSSTox_RID>
+82064
+
+> <DSSTox_GSID>
+47043
+
+> <DSSTox_FileID_Sort>
+6745
+
+> <TS_ChemName>
+Potassium tetrathionate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13932-13-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [13760-29-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+K2O6S4
+
+> <STRUCTURE_MW>
+302.453
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+potassium tetrathionate
+
+> <STRUCTURE_SMILES>
+[K+].[K+].O=S(=O)([O-])SSS([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(O)(=O)SSS(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

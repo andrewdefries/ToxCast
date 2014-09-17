@@ -1,0 +1,92 @@
+470-99-5
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    2.4892   -1.3356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6285   -1.9770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3164   -3.3078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3164   -1.9770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6285   -3.3078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4892   -3.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7869   -3.9827    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4892    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6750   -4.4662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+12225
+
+> <Formula>
+C9H16O
+
+> <FW>
+140.2227
+
+> <DSSTox_CID>
+27072
+
+> <DSSTox_RID>
+82087
+
+> <DSSTox_GSID>
+47072
+
+> <DSSTox_FileID_Sort>
+6768
+
+> <TS_ChemName>
+3,5,5-Trimethyl-2-cyclohexen-1-ol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+470-99-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H16O
+
+> <STRUCTURE_MW>
+140.2227
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5,5-trimethylcyclohex-2-en-1-ol
+
+> <STRUCTURE_SMILES>
+CC1(C)CC(C)=CC(O)C1
+
+> <STRUCTURE_SMILES_Desalt>
+CC1(C)CC(C)=CC(O)C1
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

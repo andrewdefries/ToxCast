@@ -1,0 +1,101 @@
+101-53-1
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    6.9399   -2.0278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0790   -2.6984    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7603   -2.6822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9399   -0.6786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7926   -0.0162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6373   -2.0197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6373   -0.6706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4901    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0323   -0.6221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1391   -2.6661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2864   -1.9874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3187   -0.6706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1876    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+13036
+
+> <Formula>
+C13H12O
+
+> <FW>
+184.2338
+
+> <DSSTox_CID>
+27938
+
+> <DSSTox_RID>
+82690
+
+> <DSSTox_GSID>
+47962
+
+> <DSSTox_FileID_Sort>
+7367
+
+> <TS_ChemName>
+4-Benzylphenol
+
+> <TS_ChemName_Synonyms>
+4-Benzylphenol (Phenol, 4-(phenylmethyl)-)
+
+> <TS_CASRN>
+101-53-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H12O
+
+> <STRUCTURE_MW>
+184.2338
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-benzylphenol
+
+> <STRUCTURE_SMILES>
+Oc2ccc(Cc1ccccc1)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccc(Cc1ccccc1)cc2
+
+> <Substance_modify_yyyymmdd>
+20110418
+
+$$$$

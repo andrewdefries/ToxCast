@@ -1,0 +1,108 @@
+2493-84-7
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+   11.9692   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2989   -2.2981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9703   -2.2981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3120   -3.4591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9834   -3.4591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3132   -4.6081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9846   -4.6081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3143   -5.7572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9857   -5.7572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3274   -4.6081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9989   -4.6081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286   -3.4591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9989   -2.2981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3274   -2.2981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9857   -3.4591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9989    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+M  END
+> <ID>
+4414
+
+> <Formula>
+C15H22O3
+
+> <FW>
+250.3334
+
+> <DSSTox_CID>
+5807
+
+> <DSSTox_RID>
+77929
+
+> <DSSTox_GSID>
+25807
+
+> <DSSTox_FileID_Sort>
+2612
+
+> <TS_ChemName>
+4-Octyloxybenzoic acid
+
+> <TS_ChemName_Synonyms>
+4-Octyloxybenzoic acid (p-n-Octyloxybenzoic acid)
+
+> <TS_CASRN>
+2493-84-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H22O3
+
+> <STRUCTURE_MW>
+250.3334
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(octyloxy)benzoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)c1ccc(OCCCCCCCC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)c1ccc(OCCCCCCCC)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

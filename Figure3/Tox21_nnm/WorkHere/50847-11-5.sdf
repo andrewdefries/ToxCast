@@ -1,0 +1,107 @@
+50847-11-5
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    3.5605   -2.3991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5605   -0.2602    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3221   -1.3328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3166   -0.6474    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3166   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9667   -3.6748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1488    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1488   -2.6720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3122   -3.9350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6676   -1.2947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1099   -4.6839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3150   -0.1460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3467   -2.4625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5288   -5.9278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8152   -4.3919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 12  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+M  END
+> <ID>
+13992
+
+> <Formula>
+C14H18N2O
+
+> <FW>
+230.3055
+
+> <DSSTox_CID>
+28933
+
+> <DSSTox_RID>
+83199
+
+> <DSSTox_GSID>
+49007
+
+> <DSSTox_FileID_Sort>
+7875
+
+> <TS_ChemName>
+Ibudilast
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+50847-11-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H18N2O
+
+> <STRUCTURE_MW>
+230.3055
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-1-[2-(propan-2-yl)pyrazolo[1,5-a]pyridin-3-yl]propan-1-one
+
+> <STRUCTURE_SMILES>
+CC(C)C(=O)c1c2ccccn2nc1C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)C(=O)c1c2ccccn2nc1C(C)C
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

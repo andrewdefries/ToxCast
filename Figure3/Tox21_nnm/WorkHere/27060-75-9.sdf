@@ -1,0 +1,92 @@
+27060-75-9
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.9986   -1.1519    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6552   -2.3039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9986   -3.4558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6739   -3.4558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6739   -1.1519    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6552    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6077    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6739   -5.7596    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+5961
+
+> <Formula>
+C8H9BrO
+
+> <FW>
+201.0605
+
+> <DSSTox_CID>
+9338
+
+> <DSSTox_RID>
+78768
+
+> <DSSTox_GSID>
+29338
+
+> <DSSTox_FileID_Sort>
+3450
+
+> <TS_ChemName>
+1-Bromo-4-methoxy-2-methylbenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+27060-75-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9BrO
+
+> <STRUCTURE_MW>
+201.0605
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromo-4-methoxy-2-methylbenzene
+
+> <STRUCTURE_SMILES>
+Cc1cc(OC)ccc1Br
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(OC)ccc1Br
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

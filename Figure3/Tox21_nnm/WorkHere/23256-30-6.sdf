@@ -1,0 +1,111 @@
+23256-30-6
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  2 V2000
+    7.8778   -1.1654    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2015   -4.3545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2015   -5.6825    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.2218   -1.1654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2093   -2.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -3.6046    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8937   -1.1654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2093    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8813   -2.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1897   -3.5866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9062   -2.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5657   -1.1654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8632    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5782   -2.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8445   -0.2530    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0342   -1.8249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -6.4052    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.3059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2037   -3.4782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 15  2  0  0  0  0
+  1 16  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 17  1  0  0  0  0
+  3 18  2  0  0  0  0
+  4 13  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  2  0  0  0  0
+M  END
+> <ID>
+10948
+
+> <Formula>
+C10H13N3O5S
+
+> <FW>
+287.2923
+
+> <DSSTox_CID>
+25439
+
+> <DSSTox_RID>
+80880
+
+> <DSSTox_GSID>
+45439
+
+> <DSSTox_FileID_Sort>
+5561
+
+> <TS_ChemName>
+Nifurtimox
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+23256-30-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13N3O5S
+
+> <STRUCTURE_MW>
+287.2923
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(3-methyl-1,1-dioxidothiomorpholin-4-yl)-1-(5-nitrofuran-2-yl)methanimine
+
+> <STRUCTURE_SMILES>
+O=S2(=O)CC(C)N(/N=C/c1ccc(o1)[N+]([O-])=O)CC2
+
+> <STRUCTURE_SMILES_Desalt>
+O=S2(=O)CC(C)N(/N=C/c1ccc(o1)[N+]([O-])=O)CC2
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

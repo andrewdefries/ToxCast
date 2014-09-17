@@ -1,0 +1,100 @@
+92-00-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    1.1539   -1.3336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3079   -2.0039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -5.3275    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -3.9939    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9978    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3079   -3.3375    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4618   -3.9939    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6020   -3.3375    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4618   -5.3275    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7559   -3.9939    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6020   -5.9978    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7559   -5.3275    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9099   -3.3375    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+4722
+
+> <Formula>
+C10H14ClNO2
+
+> <FW>
+215.6767
+
+> <DSSTox_CID>
+6557
+
+> <DSSTox_RID>
+78148
+
+> <DSSTox_GSID>
+26557
+
+> <DSSTox_FileID_Sort>
+2831
+
+> <TS_ChemName>
+Ethanol, 2,2'-[(3-chlorophenyl)imino]bis-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+92-00-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14ClNO2
+
+> <STRUCTURE_MW>
+215.6767
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-[(3-chlorophenyl)imino]diethanol
+
+> <STRUCTURE_SMILES>
+Clc1cc(ccc1)N(CCO)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(ccc1)N(CCO)CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

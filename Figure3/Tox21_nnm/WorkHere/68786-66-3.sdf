@@ -1,0 +1,116 @@
+68786-66-3
+ChemmineR-0915142007XD
+
+ 21 23  0  0  0  0  0  0  0  0  1 V2000
+    9.3450   -3.7404    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   10.1077   -2.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3450   -1.5858    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0861   -3.3289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0861   -1.9973    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7862   -1.9973    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9240   -1.3315    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3242   -1.3315    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9240   -3.9946    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4741   -1.9973    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6362   -1.3315    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7862   -3.3289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1742   -1.9973    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.4392   -2.6631    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3242    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6362   -3.9946    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3194    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4741   -3.3289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3242   -3.9946    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1742   -3.3289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.1050   -3.8131    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 18  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 21  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <ID>
+9770
+
+> <Formula>
+C14H9Cl3N2OS
+
+> <FW>
+359.6581
+
+> <DSSTox_CID>
+23952
+
+> <DSSTox_RID>
+80094
+
+> <DSSTox_GSID>
+43952
+
+> <DSSTox_FileID_Sort>
+4776
+
+> <TS_ChemName>
+Triclabendazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+68786-66-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H9Cl3N2OS
+
+> <STRUCTURE_MW>
+359.6581
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-chloro-6-(2,3-dichlorophenoxy)-2-(methylsulfanyl)-1H-benzimidazole
+
+> <STRUCTURE_SMILES>
+Clc3cccc(Oc1cc2nc(nc2cc1Cl)SC)c3Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc3cccc(Oc1cc2nc(nc2cc1Cl)SC)c3Cl
+
+> <Substance_modify_yyyymmdd>
+20090108
+
+$$$$

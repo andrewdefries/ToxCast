@@ -1,0 +1,128 @@
+8004-87-3
+ChemmineR-0915142007XD
+
+ 27 29  0  0  0  0  0  0  0  0  1 V2000
+    9.9665  -10.3602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6404  -10.3602    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9773   -9.2102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6404   -8.0602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9773   -6.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6409   -6.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9778   -8.0602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6409   -9.2102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9778   -5.7602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6517   -5.7602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887   -4.5999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6626   -4.5999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9891   -5.7602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6626   -6.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887   -6.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6630   -5.7602    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.5999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6409   -4.5999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9773   -4.5999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6404   -3.4499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9773   -2.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6409   -2.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9778   -3.4499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6404   -1.1500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9665   -1.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9773    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 24  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 25  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+M  END
+> <ID>
+11873
+
+> <Formula>
+C24H27N3
+
+> <FW>
+357.4913
+
+> <DSSTox_CID>
+26666
+
+> <DSSTox_RID>
+81808
+
+> <DSSTox_GSID>
+46666
+
+> <DSSTox_FileID_Sort>
+6489
+
+> <TS_ChemName>
+Methyl violet
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+8004-87-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+methyl violet is a term used to describe a group of 3 pararosanilines that differ in the number of methyl groups (4-6); structure shown 5 methyl groups
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C24H27N3
+
+> <STRUCTURE_MW>
+357.4913
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-{[4-(methylimino)cyclohexa-2,5-dien-1-ylidene]methanediyl}bis(N,N-dimethylaniline)
+
+> <STRUCTURE_SMILES>
+C\N=C1/C=C\C(C=C1)=C(/c2ccc(cc2)N(C)C)c3ccc(cc3)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C\N=C1/C=C\C(C=C1)=C(/c2ccc(cc2)N(C)C)c3ccc(cc3)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20110808
+
+$$$$

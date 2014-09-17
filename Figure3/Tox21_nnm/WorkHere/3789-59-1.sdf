@@ -1,0 +1,94 @@
+3789-59-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  1  0  0  0  0  0  1 V2000
+    5.7613   -1.1350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6090   -0.4782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -3.8082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3045   -3.1341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -1.1523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3045   -1.8090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4568   -1.1523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7827    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1308   -2.3045    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 10  1  6  0  0  0
+M  END
+> <ID>
+14151
+
+> <Formula>
+C9H13N
+
+> <FW>
+135.2062
+
+> <DSSTox_CID>
+29144
+
+> <DSSTox_RID>
+83363
+
+> <DSSTox_GSID>
+49288
+
+> <DSSTox_FileID_Sort>
+8038
+
+> <TS_ChemName>
+(S)-(-)-1-Amino-1-phenylpropane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3789-59-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H13N
+
+> <STRUCTURE_MW>
+135.2062
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1S)-1-phenylpropan-1-amine
+
+> <STRUCTURE_SMILES>
+N[C@@H](CC)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+N[C@@H](CC)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

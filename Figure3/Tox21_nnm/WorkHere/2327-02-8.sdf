@@ -1,0 +1,96 @@
+2327-02-8
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    1.1532   -3.3214    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -1.9887    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2925   -3.9912    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9774    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5989   -1.3327    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7520   -1.9887    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7520   -3.3214    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5989   -3.9912    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4457   -3.3214    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4457   -1.9887    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5989    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9052   -1.3327    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+8434
+
+> <Formula>
+C7H6Cl2N2O
+
+> <FW>
+205.0413
+
+> <DSSTox_CID>
+21468
+
+> <DSSTox_RID>
+79745
+
+> <DSSTox_GSID>
+41468
+
+> <DSSTox_FileID_Sort>
+4427
+
+> <TS_ChemName>
+3,4-Dichlorophenylurea
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2327-02-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6Cl2N2O
+
+> <STRUCTURE_MW>
+205.0413
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(3,4-dichlorophenyl)urea
+
+> <STRUCTURE_SMILES>
+Clc1ccc(NC(N)=O)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(NC(N)=O)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

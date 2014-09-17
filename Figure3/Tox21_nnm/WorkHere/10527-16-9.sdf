@@ -1,0 +1,108 @@
+10527-16-9
+ChemmineR-0915142007XD
+
+ 17 19  0  0  0  0  0  0  0  0  1 V2000
+    4.5993   -5.9943    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4460   -5.3244    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4460   -3.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5993   -3.3355    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7526   -3.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9059   -3.3355    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9059   -2.0027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7526   -1.3328    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5993   -2.0027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4460   -1.3328    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4460    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3066   -2.0027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1533   -1.3328    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3355    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1533   -3.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3066   -3.3355    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 17  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+13547
+
+> <Formula>
+C15H9ClO
+
+> <FW>
+240.6844
+
+> <DSSTox_CID>
+28473
+
+> <DSSTox_RID>
+83277
+
+> <DSSTox_GSID>
+49202
+
+> <DSSTox_FileID_Sort>
+7952
+
+> <TS_ChemName>
+10-Chloro-9-anthraldehyde
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+10527-16-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H9ClO
+
+> <STRUCTURE_MW>
+240.6844
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+10-chloroanthracene-9-carbaldehyde
+
+> <STRUCTURE_SMILES>
+O=Cc2c1ccccc1c(Cl)c3ccccc23
+
+> <STRUCTURE_SMILES_Desalt>
+O=Cc2c1ccccc1c(Cl)c3ccccc23
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

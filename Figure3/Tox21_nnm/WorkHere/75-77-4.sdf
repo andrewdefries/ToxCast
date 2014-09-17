@@ -1,0 +1,81 @@
+75-77-4
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+      1.33     -2.66      0.00 C    0  0  0  0  0  0  0  0  0  0  0  0
+      1.33     -1.33      0.00 Si   0  0  0  0  0  0  0  0  0  0  0  0
+      0.00     -1.33      0.00 C    0  0  0  0  0  0  0  0  0  0  0  0
+      1.33      0.00      0.00 C    0  0  0  0  0  0  0  0  0  0  0  0
+      2.66     -1.33      0.00 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <ID>
+3867
+
+> <Formula>
+C3H9ClSi
+
+> <FW>
+108.6421
+
+> <DSSTox_CID>
+4822
+
+> <DSSTox_RID>
+77543
+
+> <DSSTox_GSID>
+24822
+
+> <DSSTox_FileID_Sort>
+2226
+
+> <TS_ChemName>
+Chlorotrimethylsilane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+75-77-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H9ClSi
+
+> <STRUCTURE_MW>
+108.6421
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+chloro(trimethyl)silane
+
+> <STRUCTURE_SMILES>
+C[Si](C)(C)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+C[Si](C)(C)Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

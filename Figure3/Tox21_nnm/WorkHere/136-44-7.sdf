@@ -1,0 +1,102 @@
+136-44-7
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    3.4710   -1.9790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6418   -1.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4710   -3.2949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3416   -1.2952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7712   -2.0101    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6418    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3002   -3.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1605   -1.9479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9524   -1.3573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1605   -3.2638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0610   -2.0412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9165    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2422   -1.3884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0610   -3.3674    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3612   -2.0722    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+8936
+
+> <Formula>
+C10H13NO4
+
+> <FW>
+211.2145
+
+> <DSSTox_CID>
+22002
+
+> <DSSTox_RID>
+97558
+
+> <DSSTox_GSID>
+42002
+
+> <DSSTox_FileID_Sort>
+8333
+
+> <TS_ChemName>
+Glycerol 1-(p-aminobenzoate)
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+136-44-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13NO4
+
+> <STRUCTURE_MW>
+211.2145
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,3-dihydroxypropyl 4-aminobenzoate
+
+> <STRUCTURE_SMILES>
+Nc1ccc(cc1)C(=O)OCC(O)CO
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1)C(=O)OCC(O)CO
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

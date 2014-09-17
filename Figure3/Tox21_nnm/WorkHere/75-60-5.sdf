@@ -1,0 +1,81 @@
+75-60-5
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+      1.33     -2.66      0.00 C    0  0  0  0  0  0  0  0  0  0  0  0
+      1.33     -1.33      0.00 As   0  0  0  0  0  0  0  0  0  0  0  0
+      0.00     -1.33      0.00 O    0  0  0  0  0  0  0  0  0  0  0  0
+      1.33      0.00      0.00 C    0  0  0  0  0  0  0  0  0  0  0  0
+      2.66     -1.33      0.00 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <ID>
+491
+
+> <Formula>
+C2H7AsO2
+
+> <FW>
+137.9974
+
+> <DSSTox_CID>
+508
+
+> <DSSTox_RID>
+75630
+
+> <DSSTox_GSID>
+20508
+
+> <DSSTox_FileID_Sort>
+314
+
+> <TS_ChemName>
+Dimethylarsinic acid
+
+> <TS_ChemName_Synonyms>
+Dimethylarsinic acid (Cacodylic acid)
+
+> <TS_CASRN>
+75-60-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H7AsO2
+
+> <STRUCTURE_MW>
+137.9974
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+dimethylarsinic acid
+
+> <STRUCTURE_SMILES>
+C[As](C)(O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+C[As](C)(O)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

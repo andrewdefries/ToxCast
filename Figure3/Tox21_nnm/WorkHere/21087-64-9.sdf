@@ -1,0 +1,100 @@
+21087-64-9
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    4.6042   -1.9742    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4652   -1.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3125   -1.9742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6042   -3.2996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3125   -3.2996    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4652   -3.9553    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -1.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4652    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7639   -1.3046    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7639   -3.9830    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8362   -0.1381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4832   -2.4643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9029   -3.3134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <ID>
+3559
+
+> <Formula>
+C8H14N4OS
+
+> <FW>
+214.288
+
+> <DSSTox_CID>
+4204
+
+> <DSSTox_RID>
+77326
+
+> <DSSTox_GSID>
+24204
+
+> <DSSTox_FileID_Sort>
+2009
+
+> <TS_ChemName>
+Metribuzin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+21087-64-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14N4OS
+
+> <STRUCTURE_MW>
+214.288
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-6-tert-butyl-3-(methylsulfanyl)-1,2,4-triazin-5(4H)-one
+
+> <STRUCTURE_SMILES>
+O=C1C(=NN=C(SC)N1N)C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C(=NN=C(SC)N1N)C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

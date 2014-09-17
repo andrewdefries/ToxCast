@@ -1,0 +1,94 @@
+122-46-3
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -1.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -0.6633    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3008   -2.6601    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547   -1.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -1.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086   -2.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9094   -2.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+11371
+
+> <Formula>
+C9H10O2
+
+> <FW>
+150.1745
+
+> <DSSTox_CID>
+26041
+
+> <DSSTox_RID>
+81303
+
+> <DSSTox_GSID>
+46041
+
+> <DSSTox_FileID_Sort>
+5984
+
+> <TS_ChemName>
+m-Cresyl acetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+122-46-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10O2
+
+> <STRUCTURE_MW>
+150.1745
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylphenyl acetate
+
+> <STRUCTURE_SMILES>
+O=C(C)Oc1cc(C)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)Oc1cc(C)ccc1
+
+> <Substance_modify_yyyymmdd>
+20110823
+
+$$$$

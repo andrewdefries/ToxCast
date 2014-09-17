@@ -1,0 +1,109 @@
+7411-49-6
+ChemmineR-0915142007XD
+
+ 20 17  0  0  0  0  0  0  0  0  1 V2000
+    3.9916   -2.3075    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3129   -2.3075    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9828   -1.1538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3133   -1.1538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9739   -2.3075    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3045   -2.3075    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3133   -3.4613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9828   -3.4613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9739    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3217   -3.4613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9912   -3.4613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3305   -2.3075    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3075    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9912   -1.1538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3217   -1.1538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3305   -4.6057    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4006   -5.6199    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9637   -5.6199    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4989   -5.6199    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9598   -5.6664    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 15  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+1259
+
+> <Formula>
+C12H18Cl4N4
+
+> <FW>
+360.1101 (214.2664+36.4609+36.4609+36.4609+36.4609)
+
+> <DSSTox_CID>
+1312
+
+> <DSSTox_RID>
+76073
+
+> <DSSTox_GSID>
+21312
+
+> <DSSTox_FileID_Sort>
+757
+
+> <TS_ChemName>
+3,3',4,4'-Tetraaminobiphenyl tetrahydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7411-49-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [91-95-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H18Cl4N4
+
+> <STRUCTURE_MW>
+360.1101
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+biphenyl-3,3',4,4'-tetramine tetrahydrochloride
+
+> <STRUCTURE_SMILES>
+Cl.Cl.Cl.Cl.Nc1ccc(cc1N)c2ccc(N)c(N)c2
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1N)c2ccc(N)c(N)c2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

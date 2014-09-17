@@ -1,0 +1,107 @@
+785-30-8
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    4.6200   -0.6437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6200   -1.9726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4676   -2.6267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3152   -1.9518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524   -2.6163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524   -3.9452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2944   -4.6200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4468   -3.9660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.5993    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7620   -2.6474    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9145   -1.9934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0565   -2.6578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2089   -2.0037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2089   -0.6748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0876    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9145   -0.6541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3821   -0.0104    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+385
+
+> <Formula>
+C13H13N3O
+
+> <FW>
+227.2618
+
+> <DSSTox_CID>
+400
+
+> <DSSTox_RID>
+75563
+
+> <DSSTox_GSID>
+20400
+
+> <DSSTox_FileID_Sort>
+247
+
+> <TS_ChemName>
+4,4'-Diaminobenzanilide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+785-30-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H13N3O
+
+> <STRUCTURE_MW>
+227.2618
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-N-(4-aminophenyl)benzamide
+
+> <STRUCTURE_SMILES>
+O=C(Nc1ccc(N)cc1)c2ccc(N)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Nc1ccc(N)cc1)c2ccc(N)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

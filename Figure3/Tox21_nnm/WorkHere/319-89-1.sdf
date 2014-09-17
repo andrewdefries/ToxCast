@@ -1,0 +1,96 @@
+319-89-1
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    4.6106   -3.9990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4566   -3.3236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4566   -2.0101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6106   -1.3348    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2973   -1.3348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2973    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1593   -2.0101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1593   -3.3236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9831    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3133   -3.9831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3133   -5.3178    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3348    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+11277
+
+> <Formula>
+C6H4O6
+
+> <FW>
+172.0924
+
+> <DSSTox_CID>
+25897
+
+> <DSSTox_RID>
+81209
+
+> <DSSTox_GSID>
+45897
+
+> <DSSTox_FileID_Sort>
+5890
+
+> <TS_ChemName>
+Tetroquinone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+319-89-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4O6
+
+> <STRUCTURE_MW>
+172.0924
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,3,5,6-tetrahydroxycyclohexa-2,5-diene-1,4-dione
+
+> <STRUCTURE_SMILES>
+OC=1C(=O)C(O)=C(O)C(=O)C=1O
+
+> <STRUCTURE_SMILES_Desalt>
+OC=1C(=O)C(O)=C(O)C(=O)C=1O
+
+> <Substance_modify_yyyymmdd>
+20110922
+
+$$$$

@@ -1,0 +1,100 @@
+2623-33-8
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    5.7979   -1.9823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6346   -2.6430    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7979   -0.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9519   -2.6430    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4806   -1.9823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6346    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1152   -1.9823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4806   -0.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3064   -2.6244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1152   -0.6608    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3359    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1912   -0.6794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1912   -1.9637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0186    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <ID>
+11550
+
+> <Formula>
+C10H11NO3
+
+> <FW>
+193.1992
+
+> <DSSTox_CID>
+26256
+
+> <DSSTox_RID>
+81483
+
+> <DSSTox_GSID>
+46256
+
+> <DSSTox_FileID_Sort>
+6164
+
+> <TS_ChemName>
+Diacetamate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2623-33-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H11NO3
+
+> <STRUCTURE_MW>
+193.1992
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(acetylamino)phenyl acetate
+
+> <STRUCTURE_SMILES>
+O=C(C)Oc1ccc(cc1)NC(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)Oc1ccc(cc1)NC(C)=O
+
+> <Substance_modify_yyyymmdd>
+20110816
+
+$$$$

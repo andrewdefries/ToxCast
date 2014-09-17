@@ -1,0 +1,98 @@
+148-87-8
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    1.1540   -2.6549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2999   -1.9932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4538   -2.6549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6159   -1.9932    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6159   -0.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4538    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9158   -4.6482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0697   -3.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0697   -2.6549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9158   -1.9932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7537   -2.6549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7699   -3.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+10241
+
+> <Formula>
+C11H14N2
+
+> <FW>
+174.2423
+
+> <DSSTox_CID>
+24587
+
+> <DSSTox_RID>
+80333
+
+> <DSSTox_GSID>
+44587
+
+> <DSSTox_FileID_Sort>
+5015
+
+> <TS_ChemName>
+3-[Ethyl(phenyl)amino]propanenitrile
+
+> <TS_ChemName_Synonyms>
+3-[Ethyl(phenyl)amino]propanenitrile (Propanenitrile, 3-(ethylphenylamino)-)
+
+> <TS_CASRN>
+148-87-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H14N2
+
+> <STRUCTURE_MW>
+174.2423
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-[ethyl(phenyl)amino]propanenitrile
+
+> <STRUCTURE_SMILES>
+CCN(CCC#N)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CCC#N)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

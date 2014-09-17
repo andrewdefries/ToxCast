@@ -1,0 +1,89 @@
+628-46-6
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1560   -1.3153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3052   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4612   -1.3153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6173   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7664   -1.3153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9224   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1560    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9867    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7664    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+M  END
+> <ID>
+9938
+
+> <Formula>
+C7H14O2
+
+> <FW>
+130.1849
+
+> <DSSTox_CID>
+24252
+
+> <DSSTox_RID>
+80135
+
+> <DSSTox_GSID>
+44252
+
+> <DSSTox_FileID_Sort>
+4817
+
+> <TS_ChemName>
+5-Methylhexanoic acid
+
+> <TS_ChemName_Synonyms>
+5-Methylhexanoic acid (Isoenanthic acid) (5-Methylcaproic acid)
+
+> <TS_CASRN>
+628-46-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O2
+
+> <STRUCTURE_MW>
+130.1849
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-methylhexanoic acid
+
+> <STRUCTURE_SMILES>
+CC(C)CCCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CCCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20090302
+
+$$$$

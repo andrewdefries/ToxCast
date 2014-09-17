@@ -1,0 +1,109 @@
+68767-14-6
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    1.3244   -2.1089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9968   -3.2601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3244   -4.4114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.4114    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9968   -5.5626    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3213   -3.2601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9835   -2.1089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3181   -2.1089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9803   -3.2601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3149   -3.2601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9772   -2.1089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4372   -0.8965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4254    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5767   -0.6724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3016   -1.9663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1879   -2.9545    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3181   -4.4114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9835   -4.4114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+10783
+
+> <Formula>
+C15H18O3
+
+> <FW>
+246.3016
+
+> <DSSTox_CID>
+25164
+
+> <DSSTox_RID>
+80714
+
+> <DSSTox_GSID>
+45164
+
+> <DSSTox_FileID_Sort>
+5395
+
+> <TS_ChemName>
+Loxoprofen
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+68767-14-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H18O3
+
+> <STRUCTURE_MW>
+246.3016
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-{4-[(2-oxocyclopentyl)methyl]phenyl}propanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)C(C)c2ccc(CC1CCCC1=O)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)C(C)c2ccc(CC1CCCC1=O)cc2
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

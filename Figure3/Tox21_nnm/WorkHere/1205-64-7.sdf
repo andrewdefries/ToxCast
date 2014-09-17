@@ -1,0 +1,101 @@
+1205-64-7
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    3.4637   -0.6540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4637   -1.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3091   -2.6563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -1.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -0.6540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3091    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6102    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0739   -0.6540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0739   -1.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9193   -2.6563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7648   -1.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7648   -0.6540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9193    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+10440
+
+> <Formula>
+C13H13N
+
+> <FW>
+183.249
+
+> <DSSTox_CID>
+24790
+
+> <DSSTox_RID>
+80478
+
+> <DSSTox_GSID>
+44790
+
+> <DSSTox_FileID_Sort>
+5160
+
+> <TS_ChemName>
+3-Methyl-N-phenylaniline
+
+> <TS_ChemName_Synonyms>
+3-Methyl-N-phenylaniline (Benzenamine, 3-methyl-N-phenyl-)
+
+> <TS_CASRN>
+1205-64-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H13N
+
+> <STRUCTURE_MW>
+183.249
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methyl-N-phenylaniline
+
+> <STRUCTURE_SMILES>
+Cc2cc(Nc1ccccc1)ccc2
+
+> <STRUCTURE_SMILES_Desalt>
+Cc2cc(Nc1ccccc1)ccc2
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

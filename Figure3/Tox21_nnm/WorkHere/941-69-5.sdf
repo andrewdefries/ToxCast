@@ -1,0 +1,99 @@
+941-69-5
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    3.9951   -2.3476    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7676   -1.2734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7676   -3.4218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0349   -3.0054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0349   -1.6717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6614   -2.3476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3632   -4.6891    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3632    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9915   -3.4882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9915   -1.1889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6578   -3.4882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6578   -1.1889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+8243
+
+> <Formula>
+C10H7NO2
+
+> <FW>
+173.1681
+
+> <DSSTox_CID>
+21274
+
+> <DSSTox_RID>
+79675
+
+> <DSSTox_GSID>
+41274
+
+> <DSSTox_FileID_Sort>
+4357
+
+> <TS_ChemName>
+1-Phenyl-1H-pyrrole-2,5-dione
+
+> <TS_ChemName_Synonyms>
+1H-Pyrrole-2,5-dione, 1-phenyl- (N-Phenylmaleimide)
+
+> <TS_CASRN>
+941-69-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H7NO2
+
+> <STRUCTURE_MW>
+173.1681
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-phenyl-1H-pyrrole-2,5-dione
+
+> <STRUCTURE_SMILES>
+O=C2C=CC(=O)N2c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2C=CC(=O)N2c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,85 @@
+637-92-3
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    2.3050   -1.8163    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1213   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7936    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -0.4887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+4294
+
+> <Formula>
+C6H14O
+
+> <FW>
+102.1748
+
+> <DSSTox_CID>
+5604
+
+> <DSSTox_RID>
+77850
+
+> <DSSTox_GSID>
+25604
+
+> <DSSTox_FileID_Sort>
+2533
+
+> <TS_ChemName>
+2-Methyl-2-ethoxypropane
+
+> <TS_ChemName_Synonyms>
+2-Methyl-2-ethoxypropane (ETBE) (Ethyl tert-butyl ether)
+
+> <TS_CASRN>
+637-92-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O
+
+> <STRUCTURE_MW>
+102.1748
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tert-butyl ethyl ether
+
+> <STRUCTURE_SMILES>
+CC(C)(C)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

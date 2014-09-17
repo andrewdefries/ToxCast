@@ -1,0 +1,98 @@
+104-21-2
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    3.9918   -2.3242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6485   -1.1664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9791   -1.1664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6530   -2.3242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9791   -3.4734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6485   -3.4734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6612   -2.3070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9873   -1.1492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9837   -2.3329    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6403   -3.4907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6567   -1.1492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+10421
+
+> <Formula>
+C10H12O3
+
+> <FW>
+180.2005
+
+> <DSSTox_CID>
+24770
+
+> <DSSTox_RID>
+80461
+
+> <DSSTox_GSID>
+44770
+
+> <DSSTox_FileID_Sort>
+5143
+
+> <TS_ChemName>
+4-Methoxybenzyl acetate
+
+> <TS_ChemName_Synonyms>
+4-Methoxybenzyl acetate (Benzenemethanol, 4-methoxy-, acetate) (4-Methoxyphenylacetate)
+
+> <TS_CASRN>
+104-21-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12O3
+
+> <STRUCTURE_MW>
+180.2005
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methoxybenzyl acetate
+
+> <STRUCTURE_SMILES>
+COc1ccc(COC(C)=O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(COC(C)=O)cc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

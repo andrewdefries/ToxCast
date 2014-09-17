@@ -1,0 +1,84 @@
+110-89-4
+ChemmineR-0915142007XD
+
+  6  6  0  0  0  0  0  0  0  0  1 V2000
+    2.3036   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -2.6600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6650    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -0.6650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+1121
+
+> <Formula>
+C5H11N
+
+> <FW>
+85.1475
+
+> <DSSTox_CID>
+1165
+
+> <DSSTox_RID>
+75987
+
+> <DSSTox_GSID>
+21165
+
+> <DSSTox_FileID_Sort>
+671
+
+> <TS_ChemName>
+Piperidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+110-89-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H11N
+
+> <STRUCTURE_MW>
+85.1475
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+piperidine
+
+> <STRUCTURE_SMILES>
+C1CCCCN1
+
+> <STRUCTURE_SMILES_Desalt>
+C1CCCCN1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

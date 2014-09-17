@@ -1,0 +1,114 @@
+87818-31-3
+ChemmineR-0915142007XD
+
+ 20 22  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -3.0230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5717   -1.9923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5765   -1.2820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2213   -2.4080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3253    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8238   -2.0269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3647   -2.9970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6246   -0.5370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2213   -3.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1039   -4.3396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3127   -4.3396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0451   -1.6371    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9893   -2.5033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2106   -2.1308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4965   -0.8662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1634   -2.9970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7178   -0.4937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3848   -2.6073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6620   -1.3599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8689   -4.2444    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  1  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  1  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+6788
+
+> <Formula>
+C18H26O2
+
+> <FW>
+274.3978
+
+> <DSSTox_CID>
+14456
+
+> <DSSTox_RID>
+79155
+
+> <DSSTox_GSID>
+34456
+
+> <DSSTox_FileID_Sort>
+3837
+
+> <TS_ChemName>
+Cinmethylin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+87818-31-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+relative stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H26O2
+
+> <STRUCTURE_MW>
+274.3978
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1R,2S,4S)-1-methyl-2-[(2-methylbenzyl)oxy]-4-(propan-2-yl)-7-oxabicyclo[2.2.1]heptane
+
+> <STRUCTURE_SMILES>
+C[C@]32CC[C@@](C[C@@H]2OCc1ccccc1C)(O3)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C[C@]32CC[C@@](C[C@@H]2OCc1ccccc1C)(O3)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20110425
+
+$$$$

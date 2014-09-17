@@ -1,0 +1,94 @@
+98-16-8
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    0.4897   -1.5095    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -2.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8148   -3.8140    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3243    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3045   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3045   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4568    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6091   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6091   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7613   -2.6617    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4568   -2.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+3727
+
+> <Formula>
+C7H6F3N
+
+> <FW>
+161.1244
+
+> <DSSTox_CID>
+4512
+
+> <DSSTox_RID>
+77439
+
+> <DSSTox_GSID>
+24512
+
+> <DSSTox_FileID_Sort>
+2122
+
+> <TS_ChemName>
+3-(Trifluoromethyl)aniline
+
+> <TS_ChemName_Synonyms>
+3-(Trifluoromethyl)aniline (3-Amino-a,a,a-trifluorotoluene) (Benzenamine, 3-(trifluoromethyl)-)
+
+> <TS_CASRN>
+98-16-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6F3N
+
+> <STRUCTURE_MW>
+161.1244
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(trifluoromethyl)aniline
+
+> <STRUCTURE_SMILES>
+FC(F)(F)c1cc(N)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)(F)c1cc(N)ccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

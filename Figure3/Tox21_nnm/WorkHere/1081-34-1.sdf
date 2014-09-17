@@ -1,0 +1,104 @@
+1081-34-1
+ChemmineR-0915142007XD
+
+ 15 17  0  0  0  0  0  0  0  0  1 V2000
+    4.4987   -0.8907    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5694   -1.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4280   -1.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1684   -1.2596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8291   -1.2596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1645   -2.9332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8419   -2.9332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7545    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2430    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0977   -2.0424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8998   -2.0424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5836    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4139    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9975   -1.2596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+8179
+
+> <Formula>
+C12H8S3
+
+> <FW>
+248.3869
+
+> <DSSTox_CID>
+21206
+
+> <DSSTox_RID>
+79647
+
+> <DSSTox_GSID>
+41206
+
+> <DSSTox_FileID_Sort>
+4329
+
+> <TS_ChemName>
+alpha-Terthiophene
+
+> <TS_ChemName_Synonyms>
+alpha-Terthiophene (2,2':5',2''-Terthiophene)
+
+> <TS_CASRN>
+1081-34-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H8S3
+
+> <STRUCTURE_MW>
+248.3869
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2':5',2''-terthiophene
+
+> <STRUCTURE_SMILES>
+c1csc(c1)c2ccc(s2)c3cccs3
+
+> <STRUCTURE_SMILES_Desalt>
+c1csc(c1)c2ccc(s2)c3cccs3
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

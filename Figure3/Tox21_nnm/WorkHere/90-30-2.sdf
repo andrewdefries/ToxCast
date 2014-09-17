@@ -1,0 +1,108 @@
+90-30-2
+ChemmineR-0915142007XD
+
+ 17 19  0  0  0  0  0  0  0  0  1 V2000
+    3.9937   -3.4578    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6507   -2.3081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9819   -2.3081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6475   -1.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9788   -1.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6444   -2.3081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9788   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9819    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6507    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6475   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9937   -1.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6625   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9969   -4.6075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6656   -4.6075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6656   -2.3081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9969   -2.3081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+4456
+
+> <Formula>
+C16H13N
+
+> <FW>
+219.2811
+
+> <DSSTox_CID>
+5892
+
+> <DSSTox_RID>
+77962
+
+> <DSSTox_GSID>
+25892
+
+> <DSSTox_FileID_Sort>
+2645
+
+> <TS_ChemName>
+N-Phenyl-1-naphthylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+90-30-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H13N
+
+> <STRUCTURE_MW>
+219.2811
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-phenylnaphthalen-1-amine
+
+> <STRUCTURE_SMILES>
+c1ccc3ccccc3c1Nc2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccc3ccccc3c1Nc2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

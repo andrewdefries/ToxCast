@@ -1,0 +1,106 @@
+835-31-4
+ChemmineR-0915142007XD
+
+ 16 18  0  0  0  0  0  0  0  0  1 V2000
+    8.3428   -0.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9998   -1.5570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1178   -2.5559    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9119   -2.0070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7599   -2.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6079   -2.0070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4469   -2.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3130   -2.0070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -2.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3130   -0.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4469    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6079   -0.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0469   -0.6750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+13503
+
+> <Formula>
+C14H14N2
+
+> <FW>
+210.2744
+
+> <DSSTox_CID>
+28423
+
+> <DSSTox_RID>
+82756
+
+> <DSSTox_GSID>
+48449
+
+> <DSSTox_FileID_Sort>
+7433
+
+> <TS_ChemName>
+Naphazoline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+835-31-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H14N2
+
+> <STRUCTURE_MW>
+210.2744
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(naphthalen-2-ylmethyl)-4,5-dihydro-1H-imidazole
+
+> <STRUCTURE_SMILES>
+c2cc(CC1=NCCN1)cc3ccccc23
+
+> <STRUCTURE_SMILES_Desalt>
+c2cc(CC1=NCCN1)cc3ccccc23
+
+> <Substance_modify_yyyymmdd>
+20110902
+
+$$$$

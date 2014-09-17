@@ -1,0 +1,115 @@
+7313-87-3
+ChemmineR-0915142007XD
+
+ 20 23  0  0  1  0  0  0  0  0  1 V2000
+    4.2508   -4.1834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9941   -4.1834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0664   -3.2640    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0664   -2.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9941   -1.1471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2508   -1.1471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1196   -2.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1196   -3.2640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2498   -3.9303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3040   -3.2640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3040   -2.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2498   -1.4338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2556   -2.3531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4342   -1.4338    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9025   -3.8123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7506   -5.0605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2483   -6.2498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.0558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7147    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8808   -0.9446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  5  1  6  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 13 20  1  1  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+13996
+
+> <Formula>
+C18H25NO
+
+> <FW>
+271.3972
+
+> <DSSTox_CID>
+28937
+
+> <DSSTox_RID>
+83203
+
+> <DSSTox_GSID>
+49011
+
+> <DSSTox_FileID_Sort>
+7879
+
+> <TS_ChemName>
+2,6-Methano-3-benzazocin-8-ol, 3-(cyclopropylmethyl)-1,2,3,4,5,6-hexahydro-6,11-dimethyl-, (2S,6S,11S)-
+
+> <TS_ChemName_Synonyms>
+(+)-Cyclazocine
+
+> <TS_CASRN>
+7313-87-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H25NO
+
+> <STRUCTURE_MW>
+271.3972
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2S,6S,11S)-3-(cyclopropylmethyl)-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-3-benzazocin-8-ol
+
+> <STRUCTURE_SMILES>
+Oc3ccc4C[C@H]2[C@@H](C)[C@](C)(CCN2CC1CC1)c4c3
+
+> <STRUCTURE_SMILES_Desalt>
+Oc3ccc4C[C@H]2[C@@H](C)[C@](C)(CCN2CC1CC1)c4c3
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

@@ -1,0 +1,93 @@
+136-32-3
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  2 V2000
+    1.3451   -2.6604    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4997   -1.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4997   -0.6726    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6425    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7971   -0.6726    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7971   -1.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6425   -2.6604    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9518   -2.6604    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9518    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3451    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+8302
+
+> <Formula>
+C6H2Cl3NaO
+
+> <FW>
+219.4282 (196.4390+22.9892)
+
+> <DSSTox_CID>
+21336
+
+> <DSSTox_RID>
+79691
+
+> <DSSTox_GSID>
+41336
+
+> <DSSTox_FileID_Sort>
+4373
+
+> <TS_ChemName>
+2,4,5-Trichlorophenol sodium salt
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+136-32-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [95-95-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H2Cl3NaO
+
+> <STRUCTURE_MW>
+219.4282
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 2,4,5-trichlorophenolate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]c1cc(Cl)c(Cl)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1cc(Cl)c(Cl)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,90 @@
+95-79-4
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    4.6082   -2.6589    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -2.6589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -0.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6589    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+278
+
+> <Formula>
+C7H8ClN
+
+> <FW>
+141.5981
+
+> <DSSTox_CID>
+287
+
+> <DSSTox_RID>
+75489
+
+> <DSSTox_GSID>
+20287
+
+> <DSSTox_FileID_Sort>
+173
+
+> <TS_ChemName>
+5-Chloro-2-methylaniline
+
+> <TS_ChemName_Synonyms>
+5-Chloro-2-methylaniline (5-Chloro-o-toluidine)
+
+> <TS_CASRN>
+95-79-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H8ClN
+
+> <STRUCTURE_MW>
+141.5981
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-chloro-2-methylaniline
+
+> <STRUCTURE_SMILES>
+Nc1cc(Cl)ccc1C
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1cc(Cl)ccc1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,108 @@
+4433-79-8
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    5.7563   -1.9833    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7563   -3.3135    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9092   -3.9907    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9092   -5.3210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9092   -1.3302    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6035   -1.3302    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4425   -1.9833    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4425   -3.3135    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2896   -1.3302    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2896   -3.9907    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1529   -1.9833    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1368   -3.3135    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9907    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6035   -3.9907    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6035   -5.3210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3302    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0621   -3.3135    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 18  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+5905
+
+> <Formula>
+C12H14ClNO4
+
+> <FW>
+271.6969
+
+> <DSSTox_CID>
+9265
+
+> <DSSTox_RID>
+78740
+
+> <DSSTox_GSID>
+29265
+
+> <DSSTox_FileID_Sort>
+3422
+
+> <TS_ChemName>
+N-(4-Chloro-2,5-dimethoxyphenyl)-3-oxobutanamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4433-79-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H14ClNO4
+
+> <STRUCTURE_MW>
+271.6969
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(4-chloro-2,5-dimethoxyphenyl)-3-oxobutanamide
+
+> <STRUCTURE_SMILES>
+COc1cc(NC(=O)CC(C)=O)c(cc1Cl)OC
+
+> <STRUCTURE_SMILES_Desalt>
+COc1cc(NC(=O)CC(C)=O)c(cc1Cl)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,86 @@
+63906-52-5
+ChemmineR-0915142007XD
+
+  8  6  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -4.6208    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.3343   -4.6208    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9870   -5.7760    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9870   -3.4656    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3343   -2.3104    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9870   -1.1552    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6628    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7891   -3.0498    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  3  0  0  0  0
+M  END
+> <ID>
+16189
+
+> <Formula>
+C3H2NNaO2S
+
+> <FW>
+139.1082 (116.1190+22.9892)
+
+> <DSSTox_CID>
+31579
+
+> <DSSTox_RID>
+97464
+
+> <DSSTox_GSID>
+57790
+
+> <DSSTox_FileID_Sort>
+8531
+
+> <TS_ChemName>
+Thiocyanoacetic acid sodium salt
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+63906-52-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H2NNaO2S
+
+> <STRUCTURE_MW>
+139.1082
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium thiocyanatoacetate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]C(=O)CSC#N
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)CSC#N
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

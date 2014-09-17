@@ -1,0 +1,109 @@
+787-93-9
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    3.9855   -1.1558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3179   -2.3016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3179    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9828   -2.3016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9828    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3252   -1.1558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1558    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3206   -1.1558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9782    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9782   -2.3016    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3034   -2.3016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9809   -1.1558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9809   -3.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3061   -1.1558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3061   -3.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9637   -2.3016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3034    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3034   -4.6132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+15890
+
+> <Formula>
+C15H16N2O
+
+> <FW>
+240.3003
+
+> <DSSTox_CID>
+31271
+
+> <DSSTox_RID>
+97276
+
+> <DSSTox_GSID>
+52860
+
+> <DSSTox_FileID_Sort>
+8343
+
+> <TS_ChemName>
+Ameltolide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+787-93-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H16N2O
+
+> <STRUCTURE_MW>
+240.3003
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-N-(2,6-dimethylphenyl)benzamide
+
+> <STRUCTURE_SMILES>
+O=C(Nc1c(C)cccc1C)c2ccc(N)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Nc1c(C)cccc1C)c2ccc(N)cc2
+
+> <Substance_modify_yyyymmdd>
+20130916
+
+$$$$

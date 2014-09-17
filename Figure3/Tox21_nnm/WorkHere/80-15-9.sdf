@@ -1,0 +1,94 @@
+80-15-9
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    3.9882   -0.6647    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1367    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9941   -3.1480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6647   -3.1480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6647   -0.8402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9941   -0.8402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3175   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -3.3235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+3890
+
+> <Formula>
+C9H12O2
+
+> <FW>
+152.1904
+
+> <DSSTox_CID>
+4869
+
+> <DSSTox_RID>
+77559
+
+> <DSSTox_GSID>
+24869
+
+> <DSSTox_FileID_Sort>
+2242
+
+> <TS_ChemName>
+Cumene hydroperoxide
+
+> <TS_ChemName_Synonyms>
+Cumene hydroperoxide (Hydroperoxide, 1-methyl-1-phenylethyl)
+
+> <TS_CASRN>
+80-15-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12O2
+
+> <STRUCTURE_MW>
+152.1904
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-phenylpropan-2-yl hydroperoxide
+
+> <STRUCTURE_SMILES>
+OOC(C)(C)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+OOC(C)(C)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

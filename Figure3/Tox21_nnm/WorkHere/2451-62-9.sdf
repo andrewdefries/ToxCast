@@ -1,0 +1,117 @@
+2451-62-9
+ChemmineR-0915142007XD
+
+ 21 24  0  0  0  0  0  0  0  0  1 V2000
+    1.8159   -2.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -1.8159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -0.4892    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1508   -2.9684    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8141   -1.8159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1508   -0.6633    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1408   -1.8159    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8041   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1391   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2916    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2916   -1.3267    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8041   -2.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1391   -2.9684    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1408   -4.1209    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8041   -5.2735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1391   -5.2735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2916   -4.6101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2916   -5.9368    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8141   -4.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1508   -5.2735    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  2  0  0  0  0
+M  END
+> <ID>
+4624
+
+> <Formula>
+C12H15N3O6
+
+> <FW>
+297.264
+
+> <DSSTox_CID>
+6262
+
+> <DSSTox_RID>
+78079
+
+> <DSSTox_GSID>
+26262
+
+> <DSSTox_FileID_Sort>
+2762
+
+> <TS_ChemName>
+Triglycidyl isocyanurate
+
+> <TS_ChemName_Synonyms>
+1,3,5-Triglycidyl isocyanurate (1,3,5-Triazine-2,4,6(1H,3H,5H)-trione, 1,3,5-tris(oxiranylmethyl)-) (Tris(2,3-epoxypropyl)isocyanurate)
+
+> <TS_CASRN>
+2451-62-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H15N3O6
+
+> <STRUCTURE_MW>
+297.264
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,3,5-tris(oxiran-2-ylmethyl)-1,3,5-triazinane-2,4,6-trione
+
+> <STRUCTURE_SMILES>
+O=C4N(CC1CO1)C(=O)N(CC2CO2)C(=O)N4CC3CO3
+
+> <STRUCTURE_SMILES_Desalt>
+O=C4N(CC1CO1)C(=O)N(CC2CO2)C(=O)N4CC3CO3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

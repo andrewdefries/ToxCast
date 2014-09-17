@@ -1,0 +1,99 @@
+7786-34-7
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    2.3114   -1.3314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4763   -1.9878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6320   -1.3314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6320    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3114    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1557   -1.9878    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7877   -1.9878    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9342   -1.3314    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2685   -0.1757    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5906   -2.4871    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9342   -3.6243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0899   -0.6564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2456   -1.3314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  2  3  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+6577
+
+> <Formula>
+C7H13O6P
+
+> <FW>
+224.1483
+
+> <DSSTox_CID>
+12683
+
+> <DSSTox_RID>
+79032
+
+> <DSSTox_GSID>
+32683
+
+> <DSSTox_FileID_Sort>
+3714
+
+> <TS_ChemName>
+Mevinphos
+
+> <TS_ChemName_Synonyms>
+Mevinphos (2-Butenoic acid, 3-((dimethoxyphosphinyl)oxy)-, methyl ester)
+
+> <TS_CASRN>
+7786-34-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C7H13O6P
+
+> <STRUCTURE_MW>
+224.1483
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 3-[(dimethoxyphosphoryl)oxy]but-2-enoate
+
+> <STRUCTURE_SMILES>
+COP(=O)(OC(C)=CC(=O)OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+COP(=O)(OC(C)=CC(=O)OC)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,111 @@
+24772-51-8
+ChemmineR-0915142007XD
+
+ 20 19  0  0  0  0  0  0  0  0  1 V2000
+    3.9445   -5.7729    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2855   -4.6220    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9676   -4.6220    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9630   -3.4619    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3179   -3.4526    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4340    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0047   -2.3110    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3458   -1.1416    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0326    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2902   -3.4619    0.0000 Al   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9492   -4.6220    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9492   -2.3110    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2902   -1.1601    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9630   -1.1601    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9492    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2764   -4.6220    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9539   -3.4619    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9539   -5.7543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2811   -3.4619    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2764    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <ID>
+10276
+
+> <Formula>
+C14H27AlO5
+
+> <FW>
+302.3427
+
+> <DSSTox_CID>
+24622
+
+> <DSSTox_RID>
+80357
+
+> <DSSTox_GSID>
+44622
+
+> <DSSTox_FileID_Sort>
+5039
+
+> <TS_ChemName>
+Aluminum butan-2-olate (2Z)-4-ethoxy-4-oxobut-2-en-2-olate (1:2:1)
+
+> <TS_ChemName_Synonyms>
+Aluminum butan-2-olate (2Z)-4-ethoxy-4-oxobut-2-en-2-olate (1:2:1) (Aluminum, bis(2-butanolato)[ethyl 3-(oxo-.kappa.O)butanoato-.kappa.O']-, (T-4)-)
+
+> <TS_CASRN>
+24772-51-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+aluminum chelate
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H27AlO5
+
+> <STRUCTURE_MW>
+302.3427
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+aluminium butan-2-olate (2Z)-4-ethoxy-4-oxobut-2-en-2-olate (1:2:1)
+
+> <STRUCTURE_SMILES>
+O=C(/C=C(/C)O[Al](OC(C)CC)OC(C)CC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(/C=C(/C)O[Al](OC(C)CC)OC(C)CC)OCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

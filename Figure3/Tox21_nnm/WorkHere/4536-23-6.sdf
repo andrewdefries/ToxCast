@@ -1,0 +1,89 @@
+4536-23-6
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1583   -1.3386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3096   -1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4679   -1.3386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6261   -1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7775   -1.3386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9357   -1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1583    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9906    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3096   -3.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+9932
+
+> <Formula>
+C7H14O2
+
+> <FW>
+130.1849
+
+> <DSSTox_CID>
+24241
+
+> <DSSTox_RID>
+80132
+
+> <DSSTox_GSID>
+44241
+
+> <DSSTox_FileID_Sort>
+4814
+
+> <TS_ChemName>
+2-Methylhexanoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4536-23-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O2
+
+> <STRUCTURE_MW>
+130.1849
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylhexanoic acid
+
+> <STRUCTURE_SMILES>
+CC(CCCC)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CCCC)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20090302
+
+$$$$

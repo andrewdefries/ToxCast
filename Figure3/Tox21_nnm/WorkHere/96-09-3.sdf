@@ -1,0 +1,91 @@
+96-09-3
+ChemmineR-0915142007XD
+
+  9 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.4886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -1.1521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4842   -1.1521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1476    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4797    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1432   -1.1521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4797   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1476   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8155    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+1236
+
+> <Formula>
+C8H8O
+
+> <FW>
+120.1485
+
+> <DSSTox_CID>
+1286
+
+> <DSSTox_RID>
+76058
+
+> <DSSTox_GSID>
+21286
+
+> <DSSTox_FileID_Sort>
+742
+
+> <TS_ChemName>
+Styrene oxide
+
+> <TS_ChemName_Synonyms>
+Styrene oxide (Oxirane, phenyl-)
+
+> <TS_CASRN>
+96-09-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8O
+
+> <STRUCTURE_MW>
+120.1485
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-phenyloxirane
+
+> <STRUCTURE_SMILES>
+c1ccccc1C2CO2
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccccc1C2CO2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

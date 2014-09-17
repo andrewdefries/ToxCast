@@ -1,0 +1,82 @@
+563-41-7
+ChemmineR-0915142007XD
+
+  6  4  0  0  0  0  0  0  0  0  1 V2000
+    1.1511   -1.3308    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.9945    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -1.3308    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9945    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4415   -3.3254    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+> <ID>
+240
+
+> <Formula>
+CH6ClN3O
+
+> <FW>
+111.5308 (75.0699+36.4609)
+
+> <DSSTox_CID>
+244
+
+> <DSSTox_RID>
+75458
+
+> <DSSTox_GSID>
+20244
+
+> <DSSTox_FileID_Sort>
+142
+
+> <TS_ChemName>
+Semicarbazide hydrochloride
+
+> <TS_ChemName_Synonyms>
+Semicarbazide hydrochloride (Carbamyl hydrazine hydrochlorde)
+
+> <TS_CASRN>
+563-41-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [57-56-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH6ClN3O
+
+> <STRUCTURE_MW>
+111.5308
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+hydrazinecarboxamide hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.NC(=O)NN
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)NN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

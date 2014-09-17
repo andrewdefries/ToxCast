@@ -1,0 +1,105 @@
+81777-89-1
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    4.6212   -1.9866    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6212   -3.3182    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8887   -3.7169    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8887   -1.5879    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4606   -1.3315    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2928   -1.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6577   -2.6773    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5247   -4.1014    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -1.3315    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3902   -4.9701    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1205   -4.2154    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2928   -3.3182    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -3.9946    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3182    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+6429
+
+> <Formula>
+C12H14ClNO2
+
+> <FW>
+239.6981
+
+> <DSSTox_CID>
+12355
+
+> <DSSTox_RID>
+78922
+
+> <DSSTox_GSID>
+32355
+
+> <DSSTox_FileID_Sort>
+3604
+
+> <TS_ChemName>
+Clomazone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+81777-89-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H14ClNO2
+
+> <STRUCTURE_MW>
+239.6981
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(2-chlorobenzyl)-4,4-dimethyl-1,2-oxazolidin-3-one
+
+> <STRUCTURE_SMILES>
+Clc2ccccc2CN1OCC(C)(C)C1=O
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2ccccc2CN1OCC(C)(C)C1=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

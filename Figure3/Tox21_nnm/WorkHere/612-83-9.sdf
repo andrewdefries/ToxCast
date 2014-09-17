@@ -1,0 +1,107 @@
+612-83-9
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    4.0619   -2.5239    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7970   -2.5239    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3267   -1.5084    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5223   -1.5281    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4900   -1.5084    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3787   -1.5380    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1237   -2.5436    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7352   -2.5140    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4802   -3.5295    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3787   -3.5393    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3366   -3.5196    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5420   -3.5393    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4591    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3998   -0.0296    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8589   -2.5436    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.5140    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4013   -4.5942    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6153   -4.5942    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  6  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3 13  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4  7  2  0  0  0  0
+  7 12  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+417
+
+> <Formula>
+C12H12Cl4N2
+
+> <FW>
+326.0491 (253.1272+36.4609+36.4609)
+
+> <DSSTox_CID>
+433
+
+> <DSSTox_RID>
+75584
+
+> <DSSTox_GSID>
+20433
+
+> <DSSTox_FileID_Sort>
+268
+
+> <TS_ChemName>
+3,3'-Dichlorobenzidine dihydrochloride
+
+> <TS_ChemName_Synonyms>
+3,3'-Dichlorobenzidine dihydrochloride ([1,1'-Biphenyl]-4,4'-diamine, 3,3'-dichloro-, dihydrochloride)
+
+> <TS_CASRN>
+612-83-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [91-94-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H12Cl4N2
+
+> <STRUCTURE_MW>
+326.0491
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+3,3'-dichlorobiphenyl-4,4'-diamine dihydrochloride
+
+> <STRUCTURE_SMILES>
+Cl.Cl.Nc1ccc(cc1Cl)c2ccc(N)c(Cl)c2
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1Cl)c2ccc(N)c(Cl)c2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

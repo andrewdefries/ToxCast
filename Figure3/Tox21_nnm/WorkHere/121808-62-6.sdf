@@ -1,0 +1,105 @@
+121808-62-6
+ChemmineR-0915142007XD
+
+ 16 17  0  0  1  0  0  0  0  0  1 V2000
+    1.2665   -1.7199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3376   -0.9303    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6652   -2.9786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4086   -1.7199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9943   -2.9786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6751   -1.2978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6680   -2.1968    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9487    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7468   -1.4150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0745   -3.4633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8179   -2.1968    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4036   -3.4633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2978    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2849   -4.5344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9715   -4.3937    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8322   -5.7540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1 13  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  6  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <ID>
+11497
+
+> <Formula>
+C9H12N2O4S
+
+> <FW>
+244.2676
+
+> <DSSTox_CID>
+26199
+
+> <DSSTox_RID>
+81430
+
+> <DSSTox_GSID>
+46199
+
+> <DSSTox_FileID_Sort>
+6111
+
+> <TS_ChemName>
+Pidotimod
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+121808-62-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12N2O4S
+
+> <STRUCTURE_MW>
+244.2676
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(4R)-3-(5-oxo-L-prolyl)-1,3-thiazolidine-4-carboxylic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)[C@@H]2CSCN2C(=O)[C@@H]1CCC(=O)N1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)[C@@H]2CSCN2C(=O)[C@@H]1CCC(=O)N1
+
+> <Substance_modify_yyyymmdd>
+20110817
+
+$$$$

@@ -1,0 +1,101 @@
+112-71-0
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    1.1949    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3253   -0.6621    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5041    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6183   -0.6621    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8132    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9435   -0.6621    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0739    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2527   -0.6621    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3991    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5779   -0.6621    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6921    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.8870   -0.6621    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   15.0174    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   16.1477   -0.6621    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6621    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+7478
+
+> <Formula>
+C14H29Br
+
+> <FW>
+277.2841
+
+> <DSSTox_CID>
+18725
+
+> <DSSTox_RID>
+79388
+
+> <DSSTox_GSID>
+38725
+
+> <DSSTox_FileID_Sort>
+4070
+
+> <TS_ChemName>
+1-Bromotetradecane
+
+> <TS_ChemName_Synonyms>
+Tetradecane, 1-bromo-
+
+> <TS_CASRN>
+112-71-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H29Br
+
+> <STRUCTURE_MW>
+277.2841
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromotetradecane
+
+> <STRUCTURE_SMILES>
+BrCCCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+BrCCCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

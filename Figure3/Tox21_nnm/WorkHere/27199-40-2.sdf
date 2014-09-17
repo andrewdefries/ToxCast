@@ -1,0 +1,110 @@
+27199-40-2
+ChemmineR-0915142007XD
+
+ 18 20  0  0  0  0  0  0  0  0  1 V2000
+    5.1988   -3.9127    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6245   -2.6809    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5467   -1.8929    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4870   -2.6809    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8674   -3.9489    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7566   -1.9926    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9159   -2.6628    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.0571   -1.9745    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.0390   -0.6702    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8706    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7566   -0.6702    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5882   -0.0272    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3277   -2.0197    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3277   -0.6702    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1593    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6702    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0181   -2.0197    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1593   -2.6809    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+10751
+
+> <Formula>
+C13H8ClN3O
+
+> <FW>
+257.6751
+
+> <DSSTox_CID>
+25117
+
+> <DSSTox_RID>
+80683
+
+> <DSSTox_GSID>
+45117
+
+> <DSSTox_FileID_Sort>
+5365
+
+> <TS_ChemName>
+Pifexole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+27199-40-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H8ClN3O
+
+> <STRUCTURE_MW>
+257.6751
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-[5-(2-chlorophenyl)-1,2,4-oxadiazol-3-yl]pyridine
+
+> <STRUCTURE_SMILES>
+Clc3ccccc3c1nc(no1)c2ccncc2
+
+> <STRUCTURE_SMILES_Desalt>
+Clc3ccccc3c1nc(no1)c2ccncc2
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

@@ -1,0 +1,98 @@
+3366-95-8
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  2 V2000
+    3.3804   -5.5853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0441   -4.4322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3716   -4.4322    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3804   -3.2848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0474   -3.2848    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2655   -4.3591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9485    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2655   -2.2049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6762   -0.9393    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.9754   -0.6637    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.7368    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6762   -5.6247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+11301
+
+> <Formula>
+C7H11N3O3
+
+> <FW>
+185.1805
+
+> <DSSTox_CID>
+25934
+
+> <DSSTox_RID>
+81233
+
+> <DSSTox_GSID>
+45934
+
+> <DSSTox_FileID_Sort>
+5914
+
+> <TS_ChemName>
+Secnidazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3366-95-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H11N3O3
+
+> <STRUCTURE_MW>
+185.1805
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(2-methyl-5-nitro-1H-imidazol-1-yl)propan-2-ol
+
+> <STRUCTURE_SMILES>
+Cc1ncc([N+]([O-])=O)n1CC(O)C
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ncc([N+]([O-])=O)n1CC(O)C
+
+> <Substance_modify_yyyymmdd>
+20110930
+
+$$$$

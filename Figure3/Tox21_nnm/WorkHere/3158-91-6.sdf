@@ -1,0 +1,108 @@
+3158-91-6
+ChemmineR-0915142007XD
+
+ 17 19  0  0  0  0  0  0  0  0  1 V2000
+    6.5973   -6.5907    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8452   -5.4889    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4258   -4.2948    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6737   -3.1931    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3476   -3.2920    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7736   -2.0979    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4740   -1.8011    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4382   -2.6257    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1979   -2.1441    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8247    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0424    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2761   -0.4816    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4382   -3.9584    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2375   -4.5323    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4740   -4.7896    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7736   -4.4928    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5191   -5.5879    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+16116
+
+> <Formula>
+C13H8ClNO2
+
+> <FW>
+245.6611
+
+> <DSSTox_CID>
+31503
+
+> <DSSTox_RID>
+97388
+
+> <DSSTox_GSID>
+57714
+
+> <DSSTox_FileID_Sort>
+8455
+
+> <TS_ChemName>
+2-Chlorodibenz(b,f)-1,4-oxazepin-11(10H)-one
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3158-91-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H8ClNO2
+
+> <STRUCTURE_MW>
+245.6611
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+8-chlorodibenzo[b,f][1,4]oxazepin-11(10H)-one
+
+> <STRUCTURE_SMILES>
+Clc1cc2NC(=O)c3ccccc3Oc2cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc2NC(=O)c3ccccc3Oc2cc1
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

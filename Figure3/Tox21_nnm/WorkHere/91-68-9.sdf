@@ -1,0 +1,96 @@
+91-68-9
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    3.9933   -2.3050    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6578   -3.4544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9869   -3.4544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6578   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9933    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9936   -3.4544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6645   -3.4544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6645   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9936   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+3979
+
+> <Formula>
+C10H15NO
+
+> <FW>
+165.2322
+
+> <DSSTox_CID>
+5037
+
+> <DSSTox_RID>
+77634
+
+> <DSSTox_GSID>
+25037
+
+> <DSSTox_FileID_Sort>
+2317
+
+> <TS_ChemName>
+3-Diethylaminophenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+91-68-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H15NO
+
+> <STRUCTURE_MW>
+165.2322
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(diethylamino)phenol
+
+> <STRUCTURE_SMILES>
+Oc1cccc(c1)N(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1cccc(c1)N(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

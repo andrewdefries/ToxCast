@@ -1,0 +1,112 @@
+68169-03-9
+ChemmineR-0915142007XD
+
+ 19 21  0  0  0  0  0  0  0  0  1 V2000
+   12.2304   -2.7029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2001   -2.0058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4354   -1.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2001   -3.4000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4354   -3.7425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0382   -1.3943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0382   -4.0116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9375   -3.4000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9375   -2.0058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7965   -2.7029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8001   -1.3453    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6627   -1.9935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5252   -1.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3878   -1.9813    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2748   -1.3086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1374   -1.9569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2748    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1252   -3.2655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 19  2  0  0  0  0
+M  END
+> <ID>
+8270
+
+> <Formula>
+C16H22O3
+
+> <FW>
+262.3441
+
+> <DSSTox_CID>
+21302
+
+> <DSSTox_RID>
+79683
+
+> <DSSTox_GSID>
+41302
+
+> <DSSTox_FileID_Sort>
+4365
+
+> <TS_ChemName>
+2-(Dihydrocyclopentadienyloxy)ethyl methacrylate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+68169-03-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 2-(3a,4,5,6,7,7a-hexahydro-1H-4,7-methanoinden-5-yloxy)ethyl 2-methylprop-2-enoate and 2-(3a,4,5,6,7,7a-hexahydro-1H-4,7-methanoinden-6-yloxy)ethyl 2-methylprop-2-enoate; structure shown 2-(3a,4,5,6,7,7a-hexahydro-1H-4,7-methanoinden-5-yloxy)et
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C16H22O3
+
+> <STRUCTURE_MW>
+262.3441
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(3a,4,5,6,7,7a-hexahydro-1H-4,7-methanoinden-5-yloxy)ethyl 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+C=C(C)C(=O)OCCOC3CC1CC3C2C=CCC12
+
+> <STRUCTURE_SMILES_Desalt>
+C=C(C)C(=O)OCCOC3CC1CC3C2C=CCC12
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

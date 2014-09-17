@@ -1,0 +1,98 @@
+2461-15-6
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    8.0721   -2.6590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9114   -1.9943    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7612   -2.6590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6111   -1.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6111   -0.6648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4610    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4610   -2.6590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3003   -1.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1501   -2.6590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2222   -1.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8869   -0.8441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5517   -1.9943    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+4129
+
+> <Formula>
+C11H22O2
+
+> <FW>
+186.2912
+
+> <DSSTox_CID>
+5301
+
+> <DSSTox_RID>
+77736
+
+> <DSSTox_GSID>
+25301
+
+> <DSSTox_FileID_Sort>
+2419
+
+> <TS_ChemName>
+2-Ethylhexyl glycidyl ether
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2461-15-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H22O2
+
+> <STRUCTURE_MW>
+186.2912
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-{[(2-ethylhexyl)oxy]methyl}oxirane
+
+> <STRUCTURE_SMILES>
+CCC(CCCC)COCC1CO1
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(CCCC)COCC1CO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

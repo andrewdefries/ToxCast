@@ -1,0 +1,102 @@
+56-25-7
+ChemmineR-0915142007XD
+
+ 14 16  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -3.2319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5743   -2.1929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5872   -1.4776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2113   -2.6106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1800    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8299   -2.2085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3600   -3.2006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1536   -3.9472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1195   -3.4199    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9159   -2.3443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6290   -4.2552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2476   -0.9920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9969   -5.2211    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8035   -1.4149    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  6  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  6  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 14  2  0  0  0  0
+M  END
+> <ID>
+8704
+
+> <Formula>
+C10H12O4
+
+> <FW>
+196.1999
+
+> <DSSTox_CID>
+21752
+
+> <DSSTox_RID>
+79835
+
+> <DSSTox_GSID>
+41752
+
+> <DSSTox_FileID_Sort>
+4517
+
+> <TS_ChemName>
+Cantharidin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+56-25-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12O4
+
+> <STRUCTURE_MW>
+196.1999
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3aR,7aS)-3a,7a-dimethylhexahydro-4,7-epoxy-2-benzofuran-1,3-dione
+
+> <STRUCTURE_SMILES>
+O=C2OC(=O)[C@]3(C)C1CCC(O1)[C@]23C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2OC(=O)[C@]3(C)C1CCC(O1)[C@]23C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

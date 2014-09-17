@@ -1,0 +1,83 @@
+2365-48-2
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    2.2994   -1.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2994    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4491   -1.9959    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1497   -1.9959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3244    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5988   -1.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+6641
+
+> <Formula>
+C3H6O2S
+
+> <FW>
+106.1435
+
+> <DSSTox_CID>
+13673
+
+> <DSSTox_RID>
+79090
+
+> <DSSTox_GSID>
+33673
+
+> <DSSTox_FileID_Sort>
+3772
+
+> <TS_ChemName>
+Methyl thioglycolate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2365-48-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H6O2S
+
+> <STRUCTURE_MW>
+106.1435
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl sulfanylacetate
+
+> <STRUCTURE_SMILES>
+O=C(OC)CS
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OC)CS
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

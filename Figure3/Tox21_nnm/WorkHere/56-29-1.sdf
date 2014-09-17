@@ -1,0 +1,107 @@
+56-29-1
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    2.3043   -1.3294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4564   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9143   -0.7459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7636   -2.2230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6204   -1.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9276   -1.4328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3855   -2.6883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5288   -3.7075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2215   -3.4712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4564   -3.3235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -3.9882    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -3.9882    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -3.3235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9882    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -1.9941    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+2804
+
+> <Formula>
+C12H16N2O3
+
+> <FW>
+236.267
+
+> <DSSTox_CID>
+3122
+
+> <DSSTox_RID>
+76882
+
+> <DSSTox_GSID>
+23122
+
+> <DSSTox_FileID_Sort>
+1566
+
+> <TS_ChemName>
+Hexobarbital
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+56-29-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H16N2O3
+
+> <STRUCTURE_MW>
+236.267
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-(cyclohex-1-en-1-yl)-2-hydroxy-1,5-dimethylpyrimidine-4,6(1H,5H)-dione
+
+> <STRUCTURE_SMILES>
+CC1(C(=O)N=C(O)N(C)C1=O)C2=CCCCC2
+
+> <STRUCTURE_SMILES_Desalt>
+CC1(C(=O)N=C(O)N(C)C1=O)C2=CCCCC2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,93 @@
+78-70-6
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    1.6343    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -1.1475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -1.8151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9695   -2.3019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2977   -2.3019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9584   -1.1475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2867   -1.1475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9543    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9543   -2.3019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -0.4868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+4234
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+5502
+
+> <DSSTox_RID>
+77812
+
+> <DSSTox_GSID>
+25502
+
+> <DSSTox_FileID_Sort>
+2495
+
+> <TS_ChemName>
+Linalool
+
+> <TS_ChemName_Synonyms>
+3,7-Dimethyl-1,6-octadien-3-ol (Linalool)
+
+> <TS_CASRN>
+78-70-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,7-dimethylocta-1,6-dien-3-ol
+
+> <STRUCTURE_SMILES>
+CC(O)(C=C)CC\C=C(\C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)(C=C)CC\C=C(\C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

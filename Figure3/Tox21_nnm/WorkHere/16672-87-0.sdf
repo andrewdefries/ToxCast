@@ -1,0 +1,85 @@
+16672-87-0
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.3378   -1.3239    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3378   -2.6524    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3239    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3378    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6756   -1.3239    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1905   -4.6452    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1905   -3.3213    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+3495
+
+> <Formula>
+C2H6ClO3P
+
+> <FW>
+144.494
+
+> <DSSTox_CID>
+4085
+
+> <DSSTox_RID>
+77282
+
+> <DSSTox_GSID>
+24085
+
+> <DSSTox_FileID_Sort>
+1965
+
+> <TS_ChemName>
+Ethephon
+
+> <TS_ChemName_Synonyms>
+Ethephon (Chloroethyl)phosphonic acid)
+
+> <TS_CASRN>
+16672-87-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H6ClO3P
+
+> <STRUCTURE_MW>
+144.494
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2-chloroethyl)phosphonic acid
+
+> <STRUCTURE_SMILES>
+ClCCP(=O)(O)O
+
+> <STRUCTURE_SMILES_Desalt>
+ClCCP(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

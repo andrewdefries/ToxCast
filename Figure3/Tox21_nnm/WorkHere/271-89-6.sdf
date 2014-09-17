@@ -1,0 +1,91 @@
+271-89-6
+ChemmineR-0915142007XD
+
+  9 10  0  0  0  0  0  0  0  0  1 V2000
+    0.7831   -0.2523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7831   -2.4059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0448   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0448   -0.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1977    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3506   -0.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3506   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1977   -2.6582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+138
+
+> <Formula>
+C8H6O
+
+> <FW>
+118.1326
+
+> <DSSTox_CID>
+141
+
+> <DSSTox_RID>
+75394
+
+> <DSSTox_GSID>
+20141
+
+> <DSSTox_FileID_Sort>
+78
+
+> <TS_ChemName>
+2,3-Benzofuran
+
+> <TS_ChemName_Synonyms>
+Benzofuran
+
+> <TS_CASRN>
+271-89-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H6O
+
+> <STRUCTURE_MW>
+118.1326
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-benzofuran
+
+> <STRUCTURE_SMILES>
+c1cccc2occc12
+
+> <STRUCTURE_SMILES_Desalt>
+c1cccc2occc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

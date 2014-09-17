@@ -1,0 +1,112 @@
+574-25-4
+ChemmineR-0915142007XD
+
+ 19 21  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -6.1009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9538   -5.2102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1913   -5.5965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2396   -4.8161    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3038   -5.5649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9096   -6.8182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6742   -7.8666    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6091   -6.8340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8445   -7.8823    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2565   -3.6416    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0211   -2.5933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2565   -1.5449    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0189   -1.9548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0189   -3.2554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8918   -3.8939    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7646   -3.2554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7804   -1.9548    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9075   -1.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8918    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  1  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+11361
+
+> <Formula>
+C10H12N4O4S
+
+> <FW>
+284.2917
+
+> <DSSTox_CID>
+26019
+
+> <DSSTox_RID>
+81293
+
+> <DSSTox_GSID>
+46019
+
+> <DSSTox_FileID_Sort>
+5974
+
+> <TS_ChemName>
+Thioinosine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+574-25-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12N4O4S
+
+> <STRUCTURE_MW>
+284.2917
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+9-(beta-D-ribofuranosyl)-9H-purine-6-thiol
+
+> <STRUCTURE_SMILES>
+Sc3ncnc2c3ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+
+> <STRUCTURE_SMILES_Desalt>
+Sc3ncnc2c3ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
+
+> <Substance_modify_yyyymmdd>
+20110824
+
+$$$$

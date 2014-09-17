@@ -1,0 +1,94 @@
+2244-16-8
+ChemmineR-0915142007XD
+
+ 11 11  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -5.9835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1488   -5.3194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -5.9835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1488   -3.9910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -3.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -1.9925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4525   -1.3283    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1488   -1.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1488    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  4  2  1  1  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+250
+
+> <Formula>
+C10H14O
+
+> <FW>
+150.2176
+
+> <DSSTox_CID>
+256
+
+> <DSSTox_RID>
+75467
+
+> <DSSTox_GSID>
+20256
+
+> <DSSTox_FileID_Sort>
+151
+
+> <TS_ChemName>
+d-Carvone
+
+> <TS_ChemName_Synonyms>
+d-Carvone (D-Carvone) ((S)-(+)-Carvone0
+
+> <TS_CASRN>
+2244-16-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14O
+
+> <STRUCTURE_MW>
+150.2176
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5S)-2-methyl-5-(prop-1-en-2-yl)cyclohex-2-en-1-one
+
+> <STRUCTURE_SMILES>
+CC1=CC[C@@H](CC1=O)C(C)=C
+
+> <STRUCTURE_SMILES_Desalt>
+CC1=CC[C@@H](CC1=O)C(C)=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

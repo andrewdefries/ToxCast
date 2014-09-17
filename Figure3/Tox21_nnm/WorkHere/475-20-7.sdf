@@ -1,0 +1,108 @@
+475-20-7
+ChemmineR-0915142007XD
+
+ 17 19  0  0  1  0  0  0  0  0  1 V2000
+    2.6796   -3.5780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2437   -4.4033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9327   -3.7765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4939   -3.0139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7498   -1.6140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3343   -4.3720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.6094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8468   -1.1126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3325   -2.9094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2362   -3.7765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1108   -5.2234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0952   -1.3111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7951   -2.6483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6721   -0.1358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1468    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1828   -3.0139    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2484   -4.9048    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  1  0  0  0
+  2 11  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 17  1  1  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 16  1  6  0  0  0
+  5  8  1  6  0  0  0
+  6  7  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+12199
+
+> <Formula>
+C15H24
+
+> <FW>
+204.3511
+
+> <DSSTox_CID>
+27045
+
+> <DSSTox_RID>
+82066
+
+> <DSSTox_GSID>
+47045
+
+> <DSSTox_FileID_Sort>
+6747
+
+> <TS_ChemName>
+Longifolene
+
+> <TS_ChemName_Synonyms>
+(+)-Longifolene
+
+> <TS_CASRN>
+475-20-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H24
+
+> <STRUCTURE_MW>
+204.3511
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1S,3aR,4S,8aS)-4,8,8-trimethyl-9-methylidenedecahydro-1,4-methanoazulene
+
+> <STRUCTURE_SMILES>
+C[C@@]32CCCC(C)(C)[C@H]1[C@H](CC[C@H]12)C3=C
+
+> <STRUCTURE_SMILES_Desalt>
+C[C@@]32CCCC(C)(C)[C@H]1[C@H](CC[C@H]12)C3=C
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

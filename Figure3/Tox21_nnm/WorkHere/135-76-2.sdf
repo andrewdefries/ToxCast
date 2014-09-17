@@ -1,0 +1,104 @@
+135-76-2
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  2 V2000
+    3.4606   -1.7624    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4606   -3.0868    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3071   -1.1001    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3071   -3.7597    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5928   -3.7597    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5928   -1.1001    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7357   -1.7624    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7357   -3.0868    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1429   -3.0868    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1429   -1.7624    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8999   -1.1001    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6475   -2.3712    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0000   -0.4593    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    6.2697    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.7597    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6809   -1.8798    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  9  2  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+M  END
+> <ID>
+5825
+
+> <Formula>
+C10H7NaO4S
+
+> <FW>
+246.2149 (223.2257+22.9892)
+
+> <DSSTox_CID>
+9166
+
+> <DSSTox_RID>
+78694
+
+> <DSSTox_GSID>
+29166
+
+> <DSSTox_FileID_Sort>
+3376
+
+> <TS_ChemName>
+Sodium 6-hydroxynaphthalene-2-sulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+135-76-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [93-01-6 ]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H7NaO4S
+
+> <STRUCTURE_MW>
+246.2149
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 6-hydroxynaphthalene-2-sulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]S(=O)(=O)c1ccc2cc(O)ccc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)c1ccc2cc(O)ccc2c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

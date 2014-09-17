@@ -1,0 +1,106 @@
+16118-49-3
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    2.2968   -2.6693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4556   -1.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4556   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2968   -3.9832    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1381   -1.9864    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1381   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6143   -2.6693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7317   -1.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7317   -0.6621    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8905   -2.6693    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0492   -1.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0492   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2080   -2.6693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2080    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3461   -1.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3461   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+8708
+
+> <Formula>
+C12H16N2O3
+
+> <FW>
+236.267
+
+> <DSSTox_CID>
+21756
+
+> <DSSTox_RID>
+79836
+
+> <DSSTox_GSID>
+41756
+
+> <DSSTox_FileID_Sort>
+4518
+
+> <TS_ChemName>
+Carbetamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+16118-49-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H16N2O3
+
+> <STRUCTURE_MW>
+236.267
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(ethylamino)-1-oxopropan-2-yl phenylcarbamate
+
+> <STRUCTURE_SMILES>
+CCNC(=O)C(C)OC(=O)Nc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCNC(=O)C(C)OC(=O)Nc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

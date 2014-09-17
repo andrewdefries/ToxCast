@@ -1,0 +1,87 @@
+111-69-3
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9901    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -1.3294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -0.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4564   -1.3294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6005   -0.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7526   -1.3294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9048   -0.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0569    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  3  0  0  0  0
+M  END
+> <ID>
+1805
+
+> <Formula>
+C6H8N2
+
+> <FW>
+108.1411
+
+> <DSSTox_CID>
+1936
+
+> <DSSTox_RID>
+76412
+
+> <DSSTox_GSID>
+21936
+
+> <DSSTox_FileID_Sort>
+1096
+
+> <TS_ChemName>
+Hexanedinitrile
+
+> <TS_ChemName_Synonyms>
+Hexanedinitrile (Adiponitrile) (1,4-Dicyanobutane)
+
+> <TS_CASRN>
+111-69-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8N2
+
+> <STRUCTURE_MW>
+108.1411
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexanedinitrile
+
+> <STRUCTURE_SMILES>
+N#CCCCCC#N
+
+> <STRUCTURE_SMILES_Desalt>
+N#CCCCCC#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

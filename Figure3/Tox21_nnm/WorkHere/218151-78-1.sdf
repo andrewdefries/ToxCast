@@ -1,0 +1,93 @@
+218151-78-1
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -6.2770    0.0000 I   0  5  0  0  0  0  0  0  0  0  0  0
+    3.0434    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6039   -6.5590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7649   -2.9515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6039   -5.2538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4758   -4.5979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8330   -1.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4263   -2.5449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5449   -2.5449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1317   -1.3052    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.4758   -3.3123    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+14110
+
+> <Formula>
+C8H15IN2
+
+> <FW>
+266.1226 (126.9050+139.2176)
+
+> <DSSTox_CID>
+29103
+
+> <DSSTox_RID>
+83322
+
+> <DSSTox_GSID>
+49247
+
+> <DSSTox_FileID_Sort>
+7997
+
+> <TS_ChemName>
+1,2-Dimethyl-3-propylimidazolium iodide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+218151-78-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H15IN2
+
+> <STRUCTURE_MW>
+266.1226
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+2,3-dimethyl-1-propyl-1H-imidazol-3-ium iodide
+
+> <STRUCTURE_SMILES>
+[I-].Cc1[n+](C)ccn1CCC
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1[n+](C)ccn1CCC
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

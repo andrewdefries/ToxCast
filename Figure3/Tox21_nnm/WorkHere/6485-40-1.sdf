@@ -1,0 +1,94 @@
+6485-40-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  1  0  0  0  0  0  1 V2000
+    4.0190   -1.1682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7211   -2.2879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0190   -3.4379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7056   -3.4379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0034   -2.2879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7056   -1.1682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6606    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0527   -2.2879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6718   -2.2879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  1  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+8379
+
+> <Formula>
+C10H14O
+
+> <FW>
+150.2176
+
+> <DSSTox_CID>
+21413
+
+> <DSSTox_RID>
+79720
+
+> <DSSTox_GSID>
+41413
+
+> <DSSTox_FileID_Sort>
+4402
+
+> <TS_ChemName>
+R-(-)-Carvone
+
+> <TS_ChemName_Synonyms>
+(5R)-2-methyl-5-(prop-1-en-2-yl)cyclohex-2-en-1-one; 2-Cyclohexen-1-one, 2-methyl-5-(1-methylethenyl)-, (5R)-
+
+> <TS_CASRN>
+6485-40-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14O
+
+> <STRUCTURE_MW>
+150.2176
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5R)-2-methyl-5-(prop-1-en-2-yl)cyclohex-2-en-1-one
+
+> <STRUCTURE_SMILES>
+CC1=CC[C@H](CC1=O)C(C)=C
+
+> <STRUCTURE_SMILES_Desalt>
+CC1=CC[C@H](CC1=O)C(C)=C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

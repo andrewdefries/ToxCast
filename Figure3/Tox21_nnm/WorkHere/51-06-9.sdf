@@ -1,0 +1,106 @@
+51-06-9
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    9.2101   -2.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2101   -3.9886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3600   -4.6516    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0601   -4.6516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9101   -3.9886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9101   -2.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7602   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7602   -0.6630    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5998   -2.6625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4499   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2999   -2.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1500   -1.9891    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1500   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0601   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+3145
+
+> <Formula>
+C13H21N3O
+
+> <FW>
+235.3253
+
+> <DSSTox_CID>
+3512
+
+> <DSSTox_RID>
+77059
+
+> <DSSTox_GSID>
+23512
+
+> <DSSTox_FileID_Sort>
+1742
+
+> <TS_ChemName>
+Procainamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+51-06-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H21N3O
+
+> <STRUCTURE_MW>
+235.3253
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-N-[2-(diethylamino)ethyl]benzamide
+
+> <STRUCTURE_SMILES>
+O=C(NCCN(CC)CC)c1ccc(N)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NCCN(CC)CC)c1ccc(N)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

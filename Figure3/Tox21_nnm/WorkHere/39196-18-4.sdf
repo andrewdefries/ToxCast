@@ -1,0 +1,99 @@
+39196-18-4
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    3.1387   -2.3187    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1322   -1.2018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8451   -2.3187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -1.1664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4889   -2.3187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4536   -0.0424    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4259   -1.2018    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8451   -4.6303    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -3.4568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4948    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3399   -0.4595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0692   -2.3399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -5.7685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+M  END
+> <ID>
+9375
+
+> <Formula>
+C9H18N2O2S
+
+> <FW>
+218.3164
+
+> <DSSTox_CID>
+22468
+
+> <DSSTox_RID>
+80033
+
+> <DSSTox_GSID>
+42468
+
+> <DSSTox_FileID_Sort>
+4715
+
+> <TS_ChemName>
+Thiofanox
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+39196-18-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18N2O2S
+
+> <STRUCTURE_MW>
+218.3164
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-tert-butyl-4-oxa-8-thia-2,5-diazanon-5-en-3-one
+
+> <STRUCTURE_SMILES>
+O=C(O\N=C(\CSC)C(C)(C)C)NC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O\N=C(\CSC)C(C)(C)C)NC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

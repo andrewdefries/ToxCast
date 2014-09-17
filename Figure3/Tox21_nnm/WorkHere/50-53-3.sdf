@@ -1,0 +1,116 @@
+50-53-3
+ChemmineR-0915142007XD
+
+ 21 23  0  0  0  0  0  0  0  0  1 V2000
+    5.7616    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9139   -0.6637    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9139   -1.9912    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7616   -2.6642    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6093   -1.9912    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6093   -0.6637    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7616   -3.9916    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6093   -4.6554    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570   -3.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3046   -4.6554    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -3.9916    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6554    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -2.6642    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9139   -4.6554    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0662   -3.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0662   -2.6642    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2186   -4.6554    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2186   -5.9828    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0662   -6.6558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0662   -7.9833    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9139   -5.9828    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 21  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+M  END
+> <ID>
+2540
+
+> <Formula>
+C17H19ClN2S
+
+> <FW>
+318.8642
+
+> <DSSTox_CID>
+2808
+
+> <DSSTox_RID>
+76736
+
+> <DSSTox_GSID>
+22808
+
+> <DSSTox_FileID_Sort>
+1420
+
+> <TS_ChemName>
+Chlorpromazine
+
+> <TS_ChemName_Synonyms>
+Chlorpromazine (CPZ)
+
+> <TS_CASRN>
+50-53-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H19ClN2S
+
+> <STRUCTURE_MW>
+318.8642
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(2-chloro-10H-phenothiazin-10-yl)-N,N-dimethylpropan-1-amine
+
+> <STRUCTURE_SMILES>
+CN(C)CCCN1c3ccccc3Sc2ccc(Cl)cc12
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCCN1c3ccccc3Sc2ccc(Cl)cc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

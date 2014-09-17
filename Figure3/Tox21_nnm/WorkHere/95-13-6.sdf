@@ -1,0 +1,91 @@
+95-13-6
+ChemmineR-0915142007XD
+
+  9 10  0  0  0  0  0  0  0  0  1 V2000
+    4.3562   -1.3112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3045   -1.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5895   -2.4003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3045   -0.6709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5895   -0.2570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1675   -2.6573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1675    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+8984
+
+> <Formula>
+C9H8
+
+> <FW>
+116.1598
+
+> <DSSTox_CID>
+22052
+
+> <DSSTox_RID>
+79907
+
+> <DSSTox_GSID>
+42052
+
+> <DSSTox_FileID_Sort>
+4589
+
+> <TS_ChemName>
+Indene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+95-13-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H8
+
+> <STRUCTURE_MW>
+116.1598
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1H-indene
+
+> <STRUCTURE_SMILES>
+c1cccc2CC=Cc12
+
+> <STRUCTURE_SMILES_Desalt>
+c1cccc2CC=Cc12
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

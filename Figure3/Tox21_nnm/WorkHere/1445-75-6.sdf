@@ -1,0 +1,93 @@
+1445-75-6
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    2.6950    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6654   -1.2003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3348   -1.1663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6462   -3.6632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4856   -5.6618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4856   -4.3313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3362   -3.6632    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6384   -2.3044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3362   -0.9965    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3362   -2.3270    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+3481
+
+> <Formula>
+C7H17O3P
+
+> <FW>
+180.1818
+
+> <DSSTox_CID>
+4051
+
+> <DSSTox_RID>
+77269
+
+> <DSSTox_GSID>
+24051
+
+> <DSSTox_FileID_Sort>
+1952
+
+> <TS_ChemName>
+Diisopropyl methylphosphonate
+
+> <TS_ChemName_Synonyms>
+Diisopropyl methylphosphonate (DIMP)
+
+> <TS_CASRN>
+1445-75-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H17O3P
+
+> <STRUCTURE_MW>
+180.1818
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dipropan-2-yl methylphosphonate
+
+> <STRUCTURE_SMILES>
+CP(=O)(OC(C)C)OC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CP(=O)(OC(C)C)OC(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

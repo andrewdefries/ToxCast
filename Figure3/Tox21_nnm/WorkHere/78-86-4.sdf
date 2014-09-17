@@ -1,0 +1,81 @@
+78-86-4
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    1.1485   -1.9969    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1485   -0.6725    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3004    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4488   -0.6725    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+3444
+
+> <Formula>
+C4H9Cl
+
+> <FW>
+92.5673
+
+> <DSSTox_CID>
+3966
+
+> <DSSTox_RID>
+77242
+
+> <DSSTox_GSID>
+23966
+
+> <DSSTox_FileID_Sort>
+1925
+
+> <TS_ChemName>
+2-Chlorobutane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+78-86-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H9Cl
+
+> <STRUCTURE_MW>
+92.5673
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chlorobutane
+
+> <STRUCTURE_SMILES>
+CC(Cl)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(Cl)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

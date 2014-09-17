@@ -1,0 +1,85 @@
+1569-02-4
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    4.6076    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -1.9986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3096   -1.3362    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4557   -1.9986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6076   -1.3362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7595   -1.9986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+3600
+
+> <Formula>
+C5H12O2
+
+> <FW>
+104.1476
+
+> <DSSTox_CID>
+4283
+
+> <DSSTox_RID>
+79670
+
+> <DSSTox_GSID>
+41267
+
+> <DSSTox_FileID_Sort>
+4352
+
+> <TS_ChemName>
+1-Ethoxy-2-propanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1569-02-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H12O2
+
+> <STRUCTURE_MW>
+104.1476
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-ethoxypropan-2-ol
+
+> <STRUCTURE_SMILES>
+CC(O)COCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)COCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

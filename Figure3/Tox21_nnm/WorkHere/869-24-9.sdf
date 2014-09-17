@@ -1,0 +1,88 @@
+869-24-9
+ChemmineR-0915142007XD
+
+  9  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6623    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9811   -3.3371    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8401   -3.9996    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9811   -2.0059    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8401   -5.3308    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8401   -1.3312    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6807   -1.9937    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1344   -1.3312    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1344    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+5853
+
+> <Formula>
+C6H15Cl2N
+
+> <FW>
+172.0960 (36.4609+135.6351)
+
+> <DSSTox_CID>
+9203
+
+> <DSSTox_RID>
+78708
+
+> <DSSTox_GSID>
+29203
+
+> <DSSTox_FileID_Sort>
+3390
+
+> <TS_ChemName>
+Ethanamine, 2-chloro-N,N-diethyl-, hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+869-24-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [100-35-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H15Cl2N
+
+> <STRUCTURE_MW>
+172.096
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-chloro-N,N-diethylethanamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CCN(CC)CCCl
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)CCCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

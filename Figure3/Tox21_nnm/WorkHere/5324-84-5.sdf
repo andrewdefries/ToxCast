@@ -1,0 +1,96 @@
+5324-84-5
+ChemmineR-0915142007XD
+
+ 13 11  0  0  0  0  0  0  0  0  2 V2000
+    3.6837   -1.8124    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8370   -1.1534    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0022   -1.8124    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1555   -1.1534    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3089   -1.8124    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.4740   -1.1534    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6273   -1.8124    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.7689   -1.1534    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5186   -1.1416    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2012    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8595   -2.2949    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.3770   -0.4825    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.5770    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+M  END
+> <ID>
+5278
+
+> <Formula>
+C8H17NaO3S
+
+> <FW>
+216.2735 (193.2843+22.9892)
+
+> <DSSTox_CID>
+7595
+
+> <DSSTox_RID>
+78521
+
+> <DSSTox_GSID>
+27595
+
+> <DSSTox_FileID_Sort>
+3204
+
+> <TS_ChemName>
+Sodium 1-octanesulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5324-84-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [3944-72-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H17NaO3S
+
+> <STRUCTURE_MW>
+216.2735
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium octane-1-sulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].O=S(=O)([O-])CCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)CCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

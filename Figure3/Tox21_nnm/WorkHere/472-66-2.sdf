@@ -1,0 +1,96 @@
+472-66-2
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.3072   -1.9850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -0.6559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1565    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1565   -2.6581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4464   -2.6581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4464    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8124   -3.8146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4833   -3.8146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5971   -1.9850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7535   -2.6581    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+12239
+
+> <Formula>
+C11H18O
+
+> <FW>
+166.26
+
+> <DSSTox_CID>
+27088
+
+> <DSSTox_RID>
+82100
+
+> <DSSTox_GSID>
+47088
+
+> <DSSTox_FileID_Sort>
+6781
+
+> <TS_ChemName>
+2,6,6-Trimethyl-1-cyclohexene-1-acetaldehyde
+
+> <TS_ChemName_Synonyms>
+2,6,6-Trimethyl-1-cyclohexene-1-acetaldehyde (beta-Homocyclocitral)
+
+> <TS_CASRN>
+472-66-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H18O
+
+> <STRUCTURE_MW>
+166.26
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2,6,6-trimethylcyclohex-1-en-1-yl)acetaldehyde
+
+> <STRUCTURE_SMILES>
+CC=1CCCC(C)(C)C=1CC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC=1CCCC(C)(C)C=1CC=O
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

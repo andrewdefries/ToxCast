@@ -1,0 +1,87 @@
+1185-55-3
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    3.5034   -2.6906    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6712   -2.0273    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3356   -0.6820    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5034    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1678   -2.6906    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0133    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3356   -2.0273    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3496   -3.2605    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+5115
+
+> <Formula>
+C4H12O3Si
+
+> <FW>
+136.2218
+
+> <DSSTox_CID>
+7370
+
+> <DSSTox_RID>
+78428
+
+> <DSSTox_GSID>
+27370
+
+> <DSSTox_FileID_Sort>
+3111
+
+> <TS_ChemName>
+Trimethoxymethylsilane
+
+> <TS_ChemName_Synonyms>
+Trimethoxymethylsilane (Silane, trimethoxymethyl-)
+
+> <TS_CASRN>
+1185-55-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H12O3Si
+
+> <STRUCTURE_MW>
+136.2218
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+trimethoxy(methyl)silane
+
+> <STRUCTURE_SMILES>
+C[Si](OC)(OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+C[Si](OC)(OC)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,92 @@
+64063-37-2
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.3299   -1.1655    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0281   -2.2987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3299   -3.4480    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0248   -3.4480    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3266   -2.2987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0248   -1.1655    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9798    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3749    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3708   -2.2987    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+10362
+
+> <Formula>
+C7H7Cl2N
+
+> <FW>
+176.0432
+
+> <DSSTox_CID>
+24710
+
+> <DSSTox_RID>
+80412
+
+> <DSSTox_GSID>
+44710
+
+> <DSSTox_FileID_Sort>
+5094
+
+> <TS_ChemName>
+2,6-Dichloro-3-methylaniline
+
+> <TS_ChemName_Synonyms>
+2,6-Dichloro-3-methylaniline (Benzenamine, 2,6-dichloro-3-methyl-)
+
+> <TS_CASRN>
+64063-37-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7Cl2N
+
+> <STRUCTURE_MW>
+176.0432
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,6-dichloro-3-methylaniline
+
+> <STRUCTURE_SMILES>
+Clc1c(C)ccc(Cl)c1N
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1c(C)ccc(Cl)c1N
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

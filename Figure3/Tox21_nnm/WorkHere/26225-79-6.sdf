@@ -1,0 +1,111 @@
+26225-79-6
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    1.1476   -1.9721    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0415   -2.4066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7825   -1.9832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0415   -0.2563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7991   -1.3370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7825   -0.6796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2840   -2.6628    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8272   -0.8356    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4679   -3.1196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6238   -2.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4539   -1.9832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6238    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1361   -1.3370    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4539   -0.6796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8437   -3.4650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5290   -3.6210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7935   -2.4734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1416   -2.4734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  2  0  0  0  0
+  1  9  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 16  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+6836
+
+> <Formula>
+C13H18O5S
+
+> <FW>
+286.344
+
+> <DSSTox_CID>
+14580
+
+> <DSSTox_RID>
+79169
+
+> <DSSTox_GSID>
+34580
+
+> <DSSTox_FileID_Sort>
+3851
+
+> <TS_ChemName>
+Ethofumesate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+26225-79-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H18O5S
+
+> <STRUCTURE_MW>
+286.344
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethoxy-3,3-dimethyl-2,3-dihydro-1-benzofuran-5-yl methanesulfonate
+
+> <STRUCTURE_SMILES>
+CS(=O)(=O)Oc1cc2c(cc1)OC(OCC)C2(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CS(=O)(=O)Oc1cc2c(cc1)OC(OCC)C2(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

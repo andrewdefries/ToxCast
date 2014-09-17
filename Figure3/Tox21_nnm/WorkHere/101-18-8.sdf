@@ -1,0 +1,101 @@
+101-18-8
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1529   -1.9995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1529   -0.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3059    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4588   -0.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4588   -1.9995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6118   -2.6606    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567   -1.9995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567   -0.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9096    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0626   -0.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0626   -1.9995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9096   -2.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3059   -2.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+4192
+
+> <Formula>
+C12H11NO
+
+> <FW>
+185.2218
+
+> <DSSTox_CID>
+5431
+
+> <DSSTox_RID>
+77784
+
+> <DSSTox_GSID>
+25431
+
+> <DSSTox_FileID_Sort>
+2467
+
+> <TS_ChemName>
+3-Hydroxy-N-phenylaniline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+101-18-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H11NO
+
+> <STRUCTURE_MW>
+185.2218
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(phenylamino)phenol
+
+> <STRUCTURE_SMILES>
+Oc2cccc(Nc1ccccc1)c2
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2cccc(Nc1ccccc1)c2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,96 @@
+539-15-1
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    6.9346   -2.6398    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -0.6539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4794   -1.9698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7640   -1.9698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6096   -2.6398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -1.9698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4794   -0.6539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3250   -2.6398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9346   -3.9719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0729   -1.9698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 11  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2 10  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+11403
+
+> <Formula>
+C10H15NO
+
+> <FW>
+165.2322
+
+> <DSSTox_CID>
+26096
+
+> <DSSTox_RID>
+81335
+
+> <DSSTox_GSID>
+46096
+
+> <DSSTox_FileID_Sort>
+6016
+
+> <TS_ChemName>
+Hordenine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+539-15-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H15NO
+
+> <STRUCTURE_MW>
+165.2322
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-[2-(dimethylamino)ethyl]phenol
+
+> <STRUCTURE_SMILES>
+Oc1ccc(CCN(C)C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(CCN(C)C)cc1
+
+> <Substance_modify_yyyymmdd>
+20110819
+
+$$$$

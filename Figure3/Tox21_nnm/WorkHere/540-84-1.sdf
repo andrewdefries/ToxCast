@@ -1,0 +1,87 @@
+540-84-1
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    1.1703   -1.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2989   -1.9566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4692   -1.3368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8548   -0.1665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4811   -2.4654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6255   -1.9844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4692    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+M  END
+> <ID>
+3646
+
+> <Formula>
+C8H18
+
+> <FW>
+114.2285
+
+> <DSSTox_CID>
+4370
+
+> <DSSTox_RID>
+77383
+
+> <DSSTox_GSID>
+24370
+
+> <DSSTox_FileID_Sort>
+2066
+
+> <TS_ChemName>
+2,2,4-Trimethylpentane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+540-84-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18
+
+> <STRUCTURE_MW>
+114.2285
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2,4-trimethylpentane
+
+> <STRUCTURE_SMILES>
+CC(C)CC(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CC(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

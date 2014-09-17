@@ -1,0 +1,102 @@
+77145-61-0
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.2951    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3308   -2.2951    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922   -1.1396    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3151   -1.1396    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9924   -2.2951    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3151   -3.4506    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922   -3.4506    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3233   -2.2951    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9767   -1.1396    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3155   -1.1396    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9689   -2.2951    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3155   -3.4506    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9767   -3.4506    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9689    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2278   -5.3551    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+10815
+
+> <Formula>
+C10H15Cl2N3
+
+> <FW>
+248.1522 (211.6913+36.4609)
+
+> <DSSTox_CID>
+25201
+
+> <DSSTox_RID>
+80745
+
+> <DSSTox_GSID>
+45201
+
+> <DSSTox_FileID_Sort>
+5426
+
+> <TS_ChemName>
+SR 57227A hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+77145-61-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H15Cl2N3
+
+> <STRUCTURE_MW>
+248.1522
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-(6-chloropyridin-2-yl)piperidin-4-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Clc1nc(ccc1)N2CCC(N)CC2
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1nc(ccc1)N2CCC(N)CC2
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

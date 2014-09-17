@@ -1,0 +1,83 @@
+821-06-7
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6630    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3060   -0.6630    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4590    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6119   -0.6630    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7649    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+3927
+
+> <Formula>
+C4H6Br2
+
+> <FW>
+213.8984
+
+> <DSSTox_CID>
+4941
+
+> <DSSTox_RID>
+77591
+
+> <DSSTox_GSID>
+24941
+
+> <DSSTox_FileID_Sort>
+2274
+
+> <TS_ChemName>
+(E)-1,4-Dibromo-2-butene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+821-06-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6Br2
+
+> <STRUCTURE_MW>
+213.8984
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-1,4-dibromobut-2-ene
+
+> <STRUCTURE_SMILES>
+BrC\C=C\CBr
+
+> <STRUCTURE_SMILES_Desalt>
+BrC\C=C\CBr
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

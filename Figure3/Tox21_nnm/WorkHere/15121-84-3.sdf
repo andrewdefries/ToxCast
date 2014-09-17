@@ -1,0 +1,96 @@
+15121-84-3
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -5.7579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6622   -4.6063    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4547    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.9922   -4.6063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6601   -3.4547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9902   -3.4547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6524   -4.6063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9902   -5.7579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922   -2.3032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6601   -1.1516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6601   -5.7579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+4390
+
+> <Formula>
+C8H9NO3
+
+> <FW>
+167.162
+
+> <DSSTox_CID>
+5763
+
+> <DSSTox_RID>
+77914
+
+> <DSSTox_GSID>
+25763
+
+> <DSSTox_FileID_Sort>
+2597
+
+> <TS_ChemName>
+2-(2-Nitrophenyl)ethanol
+
+> <TS_ChemName_Synonyms>
+o-Nitrophenethyl alcohol
+
+> <TS_CASRN>
+15121-84-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9NO3
+
+> <STRUCTURE_MW>
+167.162
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(2-nitrophenyl)ethanol
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccccc1CCO
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccccc1CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

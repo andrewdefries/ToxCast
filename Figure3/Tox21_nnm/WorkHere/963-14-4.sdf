@@ -1,0 +1,113 @@
+963-14-4
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    3.4501   -2.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -2.6568    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2758   -1.5110    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6105   -1.5110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2653   -0.3526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6000   -0.3526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2673   -1.5110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6020   -1.5110    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2568   -2.6568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5915   -2.6568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6000   -2.6568    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2653   -2.6568    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9411   -3.8152    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7543   -3.3367    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042   -2.6568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1584   -2.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1584   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4501   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  1 20  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  2  0  0  0  0
+  2 14  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+13689
+
+> <Formula>
+C12H14N4O3S
+
+> <FW>
+294.3296
+
+> <DSSTox_CID>
+28622
+
+> <DSSTox_RID>
+82892
+
+> <DSSTox_GSID>
+48696
+
+> <DSSTox_FileID_Sort>
+7569
+
+> <TS_ChemName>
+Sulfaethoxypyridazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+963-14-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H14N4O3S
+
+> <STRUCTURE_MW>
+294.3296
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-N-(6-ethoxypyridazin-3-yl)benzenesulfonamide
+
+> <STRUCTURE_SMILES>
+O=S(=O)(Nc1ccc(OCC)nn1)c2ccc(N)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(Nc1ccc(OCC)nn1)c2ccc(N)cc2
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

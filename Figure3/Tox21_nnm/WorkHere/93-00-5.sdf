@@ -1,0 +1,103 @@
+93-00-5
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    3.4427   -1.7854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4427   -3.1224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2978   -1.1289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2978   -3.7949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5635   -3.7949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5635   -1.1289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7084   -1.7854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7084   -3.1224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1449   -3.1224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1449   -1.7854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8933   -1.1289    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6059   -2.3778    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0062   -0.4804    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2528    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.7949    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  9  2  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+M  END
+> <ID>
+10395
+
+> <Formula>
+C10H9NO3S
+
+> <FW>
+223.2484
+
+> <DSSTox_CID>
+24743
+
+> <DSSTox_RID>
+80437
+
+> <DSSTox_GSID>
+44743
+
+> <DSSTox_FileID_Sort>
+5119
+
+> <TS_ChemName>
+6-Aminonaphthalene-2-sulfonic acid
+
+> <TS_ChemName_Synonyms>
+6-Aminonaphthalene-2-sulfonic acid (2-Naphthalenesulfonic acid, 6-amino-)
+
+> <TS_CASRN>
+93-00-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H9NO3S
+
+> <STRUCTURE_MW>
+223.2484
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-aminonaphthalene-2-sulfonic acid
+
+> <STRUCTURE_SMILES>
+O=S(=O)(O)c1ccc2cc(N)ccc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)c1ccc2cc(N)ccc2c1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

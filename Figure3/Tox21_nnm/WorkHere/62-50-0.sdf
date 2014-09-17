@@ -1,0 +1,85 @@
+62-50-0
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.8182   -2.3061    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1484   -2.3061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8117   -3.4572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.1549    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4879    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023   -0.4879    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8182    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+M  END
+> <ID>
+4137
+
+> <Formula>
+C3H8O3S
+
+> <FW>
+124.1588
+
+> <DSSTox_CID>
+5309
+
+> <DSSTox_RID>
+77743
+
+> <DSSTox_GSID>
+25309
+
+> <DSSTox_FileID_Sort>
+2426
+
+> <TS_ChemName>
+Ethyl methanesulfonate
+
+> <TS_ChemName_Synonyms>
+Ethyl methanesulfonate (EMS)
+
+> <TS_CASRN>
+62-50-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H8O3S
+
+> <STRUCTURE_MW>
+124.1588
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl methanesulfonate
+
+> <STRUCTURE_SMILES>
+CS(=O)(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CS(=O)(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

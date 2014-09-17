@@ -1,0 +1,103 @@
+4630-07-3
+ChemmineR-0915142007XD
+
+ 15 16  0  0  1  0  0  0  0  0  1 V2000
+    1.1550   -2.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1550    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3168   -0.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3168   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580   -2.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5991   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5991   -0.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1550   -3.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3168   -3.3335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7610   -2.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7610   -3.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9159   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+12206
+
+> <Formula>
+C15H24
+
+> <FW>
+204.3511
+
+> <DSSTox_CID>
+27052
+
+> <DSSTox_RID>
+82070
+
+> <DSSTox_GSID>
+47052
+
+> <DSSTox_FileID_Sort>
+6751
+
+> <TS_ChemName>
+Valencene
+
+> <TS_ChemName_Synonyms>
+(+)-Valencene
+
+> <TS_CASRN>
+4630-07-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H24
+
+> <STRUCTURE_MW>
+204.3511
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3R,4aS,5R)-4a,5-dimethyl-3-(prop-1-en-2-yl)-1,2,3,4,4a,5,6,7-octahydronaphthalene
+
+> <STRUCTURE_SMILES>
+C=C(C)[C@@H]1CCC2=CCC[C@@H](C)[C@]2(C)C1
+
+> <STRUCTURE_SMILES_Desalt>
+C=C(C)[C@@H]1CCC2=CCC[C@@H](C)[C@]2(C)C1
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

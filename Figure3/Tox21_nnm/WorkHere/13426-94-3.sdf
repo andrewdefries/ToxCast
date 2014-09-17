@@ -1,0 +1,91 @@
+13426-94-3
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    2.9272   -3.6336    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3289    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9934   -1.1493    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3283   -1.1493    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9928    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9861   -1.1493    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217   -2.3047    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9928   -2.3047    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+11351
+
+> <Formula>
+C8H12ClN
+
+> <FW>
+157.6406 (36.4609+121.1796)
+
+> <DSSTox_CID>
+26007
+
+> <DSSTox_RID>
+81283
+
+> <DSSTox_GSID>
+46007
+
+> <DSSTox_FileID_Sort>
+5964
+
+> <TS_ChemName>
+N-Methylbenzylamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13426-94-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [103-67-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12ClN
+
+> <STRUCTURE_MW>
+157.6406
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-methyl-1-phenylmethanamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CNCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CNCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20110824
+
+$$$$

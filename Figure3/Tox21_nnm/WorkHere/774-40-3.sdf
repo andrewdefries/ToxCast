@@ -1,0 +1,98 @@
+774-40-3
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    5.7570    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7570   -1.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6171   -2.0034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6171   -3.3390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7570   -3.9953    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4657   -3.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4657   -5.3252    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3085   -3.3390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1572   -3.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1572   -1.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3085   -2.0034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+16227
+
+> <Formula>
+C10H12O3
+
+> <FW>
+180.2005
+
+> <DSSTox_CID>
+31618
+
+> <DSSTox_RID>
+97502
+
+> <DSSTox_GSID>
+57829
+
+> <DSSTox_FileID_Sort>
+8569
+
+> <TS_ChemName>
+Ethyl mandelate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+774-40-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12O3
+
+> <STRUCTURE_MW>
+180.2005
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl hydroxy(phenyl)acetate
+
+> <STRUCTURE_SMILES>
+OC(C(=O)OCC)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(C(=O)OCC)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

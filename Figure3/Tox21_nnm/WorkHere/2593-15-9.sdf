@@ -1,0 +1,96 @@
+2593-15-9
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    1.6761   -0.3891    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2646   -1.6462    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5067   -2.0652    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9107   -3.3447    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2352   -3.3597    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6692   -2.0951    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5991   -1.2945    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9337   -1.6986    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2181   -0.4041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4826    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8306   -2.9107    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2197    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+6509
+
+> <Formula>
+C5H5Cl3N2OS
+
+> <FW>
+247.53
+
+> <DSSTox_CID>
+12547
+
+> <DSSTox_RID>
+78976
+
+> <DSSTox_GSID>
+32547
+
+> <DSSTox_FileID_Sort>
+3658
+
+> <TS_ChemName>
+Etridiazole
+
+> <TS_ChemName_Synonyms>
+Etridiazole (Terrazole)
+
+> <TS_CASRN>
+2593-15-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H5Cl3N2OS
+
+> <STRUCTURE_MW>
+247.53
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-ethoxy-3-(trichloromethyl)-1,2,4-thiadiazole
+
+> <STRUCTURE_SMILES>
+ClC(Cl)(Cl)c1nc(OCC)sn1
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)(Cl)c1nc(OCC)sn1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

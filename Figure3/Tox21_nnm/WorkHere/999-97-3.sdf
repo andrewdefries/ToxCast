@@ -1,0 +1,89 @@
+999-97-3
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    2.6513    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.9803   -0.9803    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4114    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5440   -1.9555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.5440    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0988   -1.2596    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6677   -0.2844    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0791   -1.8285    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5351   -2.2399    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <ID>
+4173
+
+> <Formula>
+C6H19NSi2
+
+> <FW>
+161.3928
+
+> <DSSTox_CID>
+5395
+
+> <DSSTox_RID>
+77770
+
+> <DSSTox_GSID>
+25395
+
+> <DSSTox_FileID_Sort>
+2453
+
+> <TS_ChemName>
+Hexamethyldisilazane
+
+> <TS_ChemName_Synonyms>
+Hexamethyldisilazane (Silanamine, 1,1,1-trimethyl-N-(trimethylsilyl)-) (bis(trimethylsilyl)amine)
+
+> <TS_CASRN>
+999-97-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H19NSi2
+
+> <STRUCTURE_MW>
+161.3928
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+1,1,1-trimethyl-N-(trimethylsilyl)silanamine
+
+> <STRUCTURE_SMILES>
+C[Si](C)(C)N[Si](C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C[Si](C)(C)N[Si](C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

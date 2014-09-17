@@ -1,0 +1,87 @@
+2179-59-1
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    4.6105   -0.6621    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7651    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9197   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0744    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+3677
+
+> <Formula>
+C6H12S2
+
+> <FW>
+148.2895
+
+> <DSSTox_CID>
+4448
+
+> <DSSTox_RID>
+77400
+
+> <DSSTox_GSID>
+24448
+
+> <DSSTox_FileID_Sort>
+2083
+
+> <TS_ChemName>
+Allyl propyl disulfide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2179-59-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12S2
+
+> <STRUCTURE_MW>
+148.2895
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+prop-2-en-1-yl propyl disulfide
+
+> <STRUCTURE_SMILES>
+CCCSSCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+CCCSSCC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

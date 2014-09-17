@@ -1,0 +1,93 @@
+64603-91-4
+ChemmineR-0915142007XD
+
+ 10 11  0  0  0  0  0  0  0  0  1 V2000
+    0.3696   -3.6738    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7869   -2.4043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3304    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7869   -0.2565    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0521   -0.6739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0521   -2.0043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1912   -2.6652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3477   -2.0043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3477   -0.6739    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1912    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+10820
+
+> <Formula>
+C6H8N2O2
+
+> <FW>
+140.1399
+
+> <DSSTox_CID>
+25206
+
+> <DSSTox_RID>
+80750
+
+> <DSSTox_GSID>
+45206
+
+> <DSSTox_FileID_Sort>
+5431
+
+> <TS_ChemName>
+Gaboxadol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+64603-91-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8N2O2
+
+> <STRUCTURE_MW>
+140.1399
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,5,6,7-tetrahydro[1,2]oxazolo[5,4-c]pyridin-3(2H)-one
+
+> <STRUCTURE_SMILES>
+O=C2NOC=1CNCCC=12
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2NOC=1CNCCC=12
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

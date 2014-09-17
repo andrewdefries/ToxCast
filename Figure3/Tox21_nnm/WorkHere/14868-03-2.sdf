@@ -1,0 +1,109 @@
+14868-03-2
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    4.6054   -1.9895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6054   -0.6632    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567   -2.6527    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9080   -1.9895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0594   -2.6527    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0594   -3.9882    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9080   -4.6514    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567   -3.9882    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2107   -4.6514    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540   -2.6527    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540   -3.9882    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -4.6514    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -3.9882    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -2.6527    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -1.9895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6514    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+2260
+
+> <Formula>
+C14H10Cl2O2
+
+> <FW>
+281.134
+
+> <DSSTox_CID>
+2485
+
+> <DSSTox_RID>
+76602
+
+> <DSSTox_GSID>
+22485
+
+> <DSSTox_FileID_Sort>
+1286
+
+> <TS_ChemName>
+Dihydroxymethoxychlor olefin
+
+> <TS_ChemName_Synonyms>
+Dihydroxymethoxychlor olefin (Phenol, 4,4'-(dichloroethenylidene)bis-)
+
+> <TS_CASRN>
+14868-03-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H10Cl2O2
+
+> <STRUCTURE_MW>
+281.134
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-(2,2-dichloroethene-1,1-diyl)diphenol
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1)\C(=C(/Cl)Cl)c2ccc(O)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1)\C(=C(/Cl)Cl)c2ccc(O)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

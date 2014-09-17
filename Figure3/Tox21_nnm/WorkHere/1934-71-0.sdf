@@ -1,0 +1,100 @@
+1934-71-0
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.7193    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4672   -3.4518    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1348   -3.4518    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1348   -4.7841    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9816   -5.4387    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8284   -4.7841    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8284   -3.4518    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9816   -2.7817    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7893    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1217    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.7918   -1.1532    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1217   -2.3064    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7893   -2.3064    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1348   -1.1532    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 14  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+13890
+
+> <Formula>
+C12H18ClN
+
+> <FW>
+211.7310 (36.4609+175.2701)
+
+> <DSSTox_CID>
+28827
+
+> <DSSTox_RID>
+83096
+
+> <DSSTox_GSID>
+48901
+
+> <DSSTox_FileID_Sort>
+7773
+
+> <TS_ChemName>
+1-Phenylcyclohexylamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+1-Phenylcyclohexyl amine hydrochloride
+
+> <TS_CASRN>
+1934-71-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H18ClN
+
+> <STRUCTURE_MW>
+211.731
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-phenylcyclohexanamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.NC1(CCCCC1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+NC1(CCCCC1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

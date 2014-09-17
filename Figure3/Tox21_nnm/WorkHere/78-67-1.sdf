@@ -1,0 +1,95 @@
+78-67-1
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    5.9782   -1.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9782   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3083   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9782    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9782   -3.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3301   -3.8149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6602   -3.8149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6602   -5.1450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.8149    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6602   -2.4848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9903   -3.8149    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6481   -2.6602    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  3  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  3  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+4690
+
+> <Formula>
+C8H12N4
+
+> <FW>
+164.2077
+
+> <DSSTox_CID>
+6457
+
+> <DSSTox_RID>
+78118
+
+> <DSSTox_GSID>
+26457
+
+> <DSSTox_FileID_Sort>
+2801
+
+> <TS_ChemName>
+2,2'-Azobis(2-methylpropanenitrile)
+
+> <TS_ChemName_Synonyms>
+Azobis(isobutyronitrile)
+
+> <TS_CASRN>
+78-67-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12N4
+
+> <STRUCTURE_MW>
+164.2077
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-(E)-diazene-1,2-diylbis(2-methylpropanenitrile)
+
+> <STRUCTURE_SMILES>
+N#CC(C)(C)/N=N/C(C)(C)C#N
+
+> <STRUCTURE_SMILES_Desalt>
+N#CC(C)(C)/N=N/C(C)(C)C#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

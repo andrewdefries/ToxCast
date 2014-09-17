@@ -1,0 +1,84 @@
+13242-44-9
+ChemmineR-0915142007XD
+
+  7  5  0  0  0  0  0  0  0  0  1 V2000
+    3.4587    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4587   -1.3440    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6116   -2.0001    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3058   -2.0001    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1529   -1.3440    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0001    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3696   -0.9109    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+11817
+
+> <Formula>
+C4H12ClNS
+
+> <FW>
+141.6628 (105.2018+36.4609)
+
+> <DSSTox_CID>
+26596
+
+> <DSSTox_RID>
+81752
+
+> <DSSTox_GSID>
+46596
+
+> <DSSTox_FileID_Sort>
+6433
+
+> <TS_ChemName>
+N,N-Dimethylcysteamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13242-44-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [108-02-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H12ClNS
+
+> <STRUCTURE_MW>
+141.6628
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-(dimethylamino)ethanethiol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CN(C)CCS
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCS
+
+> <Substance_modify_yyyymmdd>
+20110809
+
+$$$$

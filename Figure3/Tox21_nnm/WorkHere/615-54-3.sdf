@@ -1,0 +1,90 @@
+615-54-3
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.9842    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3122    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6060   -1.3219    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4591   -1.9898    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4591   -3.3163    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3122   -1.3219    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3122   -3.9842    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1469   -1.9898    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1469   -3.3163    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+3637
+
+> <Formula>
+C6H3Br3
+
+> <FW>
+314.8
+
+> <DSSTox_CID>
+4346
+
+> <DSSTox_RID>
+77377
+
+> <DSSTox_GSID>
+24346
+
+> <DSSTox_FileID_Sort>
+2060
+
+> <TS_ChemName>
+1,2,4-Tribromobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+615-54-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H3Br3
+
+> <STRUCTURE_MW>
+314.8
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2,4-tribromobenzene
+
+> <STRUCTURE_SMILES>
+Brc1cc(Br)c(Br)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Brc1cc(Br)c(Br)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

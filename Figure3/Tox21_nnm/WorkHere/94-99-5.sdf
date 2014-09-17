@@ -1,0 +1,92 @@
+94-99-5
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.9943   -2.2751    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6705   -3.4557    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -4.6591    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6762   -4.6591    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4557    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6762   -2.2751    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2035    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7308    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6705   -1.2035    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+10651
+
+> <Formula>
+C7H5Cl3
+
+> <FW>
+195.4736
+
+> <DSSTox_CID>
+25005
+
+> <DSSTox_RID>
+80647
+
+> <DSSTox_GSID>
+45005
+
+> <DSSTox_FileID_Sort>
+5329
+
+> <TS_ChemName>
+2,4-Dichloro-1-(chloromethyl)benzene
+
+> <TS_ChemName_Synonyms>
+2,4-dichloro-1-(chloromethyl)benzene (Benzene, 2,4-dichloro-1-(chloromethyl)-)
+
+> <TS_CASRN>
+94-99-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H5Cl3
+
+> <STRUCTURE_MW>
+195.4736
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-dichloro-1-(chloromethyl)benzene
+
+> <STRUCTURE_SMILES>
+ClCc1ccc(Cl)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+ClCc1ccc(Cl)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,87 @@
+111-68-2
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    8.0744    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9197   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7651    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6105   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6621    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+652
+
+> <Formula>
+C7H17N
+
+> <FW>
+115.2166
+
+> <DSSTox_CID>
+681
+
+> <DSSTox_RID>
+75729
+
+> <DSSTox_GSID>
+20681
+
+> <DSSTox_FileID_Sort>
+413
+
+> <TS_ChemName>
+Heptylamine
+
+> <TS_ChemName_Synonyms>
+Heptylamine (n-Heptylamine)
+
+> <TS_CASRN>
+111-68-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H17N
+
+> <STRUCTURE_MW>
+115.2166
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+heptan-1-amine
+
+> <STRUCTURE_SMILES>
+CCCCCCCN
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

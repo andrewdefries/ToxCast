@@ -1,0 +1,102 @@
+6789-88-4
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    5.9863   -1.1484    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6456   -2.3073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9863   -3.4557    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6572   -3.4557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9873   -2.3073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582   -2.3073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9990   -1.1484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6699   -1.1484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9747   -2.3073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6339   -1.1484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9630   -1.1484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6329   -2.3073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9630   -3.4557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6339   -3.4557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+4176
+
+> <Formula>
+C13H18O2
+
+> <FW>
+206.2808
+
+> <DSSTox_CID>
+5403
+
+> <DSSTox_RID>
+77773
+
+> <DSSTox_GSID>
+25403
+
+> <DSSTox_FileID_Sort>
+2456
+
+> <TS_ChemName>
+Hexyl benzoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6789-88-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H18O2
+
+> <STRUCTURE_MW>
+206.2808
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexyl benzoate
+
+> <STRUCTURE_SMILES>
+O=C(OCCCCCC)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCCCCCC)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

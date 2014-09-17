@@ -1,0 +1,103 @@
+4536-30-5
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1612    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3052   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4664    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6277   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7716    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9328   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0941    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2380   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3992    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5605   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7044    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8656   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0269    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1708   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3320    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+4087
+
+> <Formula>
+C14H30O2
+
+> <FW>
+230.3868
+
+> <DSSTox_CID>
+5218
+
+> <DSSTox_RID>
+80389
+
+> <DSSTox_GSID>
+44676
+
+> <DSSTox_FileID_Sort>
+5071
+
+> <TS_ChemName>
+2-(Dodecyloxy)ethanol
+
+> <TS_ChemName_Synonyms>
+2-(Dodecyloxy)ethanol (Ethanol, 2-(dodecyloxy)-)
+
+> <TS_CASRN>
+4536-30-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H30O2
+
+> <STRUCTURE_MW>
+230.3868
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(dodecyloxy)ethanol
+
+> <STRUCTURE_SMILES>
+OCCOCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+OCCOCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

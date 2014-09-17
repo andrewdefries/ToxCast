@@ -1,0 +1,111 @@
+34645-84-6
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    3.4089   -3.3126    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5799   -3.9543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7109   -3.3126    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2779   -3.9864    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8579   -3.9543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1630   -3.3126    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2779   -1.3395    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1630   -1.9731    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2779    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5799   -5.3259    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8579   -5.3580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7109   -1.9731    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4089   -1.9731    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7109   -5.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0209   -6.0879    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2779   -5.2938    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3259    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1630   -5.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  5  2  0  0  0  0
+  3 12  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+13819
+
+> <Formula>
+C14H10Cl2O3
+
+> <FW>
+297.1334
+
+> <DSSTox_CID>
+28756
+
+> <DSSTox_RID>
+83025
+
+> <DSSTox_GSID>
+48830
+
+> <DSSTox_FileID_Sort>
+7702
+
+> <TS_ChemName>
+Fenclofenac
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+34645-84-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H10Cl2O3
+
+> <STRUCTURE_MW>
+297.1334
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+[2-(2,4-dichlorophenoxy)phenyl]acetic acid
+
+> <STRUCTURE_SMILES>
+Clc2cc(Cl)ccc2Oc1ccccc1CC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2cc(Cl)ccc2Oc1ccccc1CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

@@ -1,0 +1,98 @@
+122-42-9
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    3.4601   -0.6694    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4601   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6054   -2.6616    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7587   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7587   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9121    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0654   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0654   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9121   -2.6616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3067   -2.6616    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+736
+
+> <Formula>
+C10H13NO2
+
+> <FW>
+179.2157
+
+> <DSSTox_CID>
+766
+
+> <DSSTox_RID>
+75779
+
+> <DSSTox_GSID>
+20766
+
+> <DSSTox_FileID_Sort>
+463
+
+> <TS_ChemName>
+Propham
+
+> <TS_ChemName_Synonyms>
+Propham (Isopropyl-N-phenyl carbamate)
+
+> <TS_CASRN>
+122-42-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13NO2
+
+> <STRUCTURE_MW>
+179.2157
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+propan-2-yl phenylcarbamate
+
+> <STRUCTURE_SMILES>
+CC(C)OC(=O)Nc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)OC(=O)Nc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

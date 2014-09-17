@@ -1,0 +1,100 @@
+10287-53-3
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    5.9736   -1.1567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6470    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6442   -1.1567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6470   -2.3049    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9855   -1.1567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6561   -1.1567    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9763   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6324   -3.4616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+10414
+
+> <Formula>
+C11H15NO2
+
+> <FW>
+193.2423
+
+> <DSSTox_CID>
+24763
+
+> <DSSTox_RID>
+80455
+
+> <DSSTox_GSID>
+44763
+
+> <DSSTox_FileID_Sort>
+5137
+
+> <TS_ChemName>
+Parbenate
+
+> <TS_ChemName_Synonyms>
+Parbenate (Benzoic acid, 4-(dimethylamino)-, ethyl ester)
+
+> <TS_CASRN>
+10287-53-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H15NO2
+
+> <STRUCTURE_MW>
+193.2423
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 4-(dimethylamino)benzoate
+
+> <STRUCTURE_SMILES>
+CN(C)c1ccc(cc1)C(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)c1ccc(cc1)C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

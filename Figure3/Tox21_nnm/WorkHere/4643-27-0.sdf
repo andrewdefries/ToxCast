@@ -1,0 +1,89 @@
+4643-27-0
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1411   -0.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2982    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -0.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6126    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7376   -0.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8947    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0358   -0.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -1.9929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  3  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+12284
+
+> <Formula>
+C8H14O
+
+> <FW>
+126.1962
+
+> <DSSTox_CID>
+27134
+
+> <DSSTox_RID>
+82141
+
+> <DSSTox_GSID>
+47134
+
+> <DSSTox_FileID_Sort>
+6822
+
+> <TS_ChemName>
+2-Octen-4-one
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4643-27-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C8H14O
+
+> <STRUCTURE_MW>
+126.1962
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+oct-2-en-4-one
+
+> <STRUCTURE_SMILES>
+CC=CC(=O)CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC=CC(=O)CCCC
+
+> <Substance_modify_yyyymmdd>
+20100502
+
+$$$$

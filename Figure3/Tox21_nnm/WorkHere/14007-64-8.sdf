@@ -1,0 +1,110 @@
+14007-64-8
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    0.6686   -5.7576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9957   -5.7576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6643   -4.6101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9914   -4.6101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6599   -5.7576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6599   -3.4526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9871   -3.4526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6556   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9828   -2.3050    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6513   -1.1475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9828    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6513   -3.4526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9785   -3.4526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9957   -3.4526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6686   -3.4526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6686   -1.1475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9957   -1.1475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6643   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+11089
+
+> <Formula>
+C16H25NO2
+
+> <FW>
+263.3752
+
+> <DSSTox_CID>
+25640
+
+> <DSSTox_RID>
+81021
+
+> <DSSTox_GSID>
+45640
+
+> <DSSTox_FileID_Sort>
+5702
+
+> <TS_ChemName>
+Butetamate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+14007-64-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H25NO2
+
+> <STRUCTURE_MW>
+263.3752
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(diethylamino)ethyl 2-phenylbutanoate
+
+> <STRUCTURE_SMILES>
+CCC(C(=O)OCCN(CC)CC)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(C(=O)OCCN(CC)CC)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

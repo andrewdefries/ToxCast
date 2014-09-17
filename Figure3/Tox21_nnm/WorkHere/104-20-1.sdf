@@ -1,0 +1,98 @@
+104-20-1
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    1.1531   -5.3220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531   -3.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062   -3.3303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4593   -3.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3303    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7574   -1.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9105   -1.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9105   -3.3303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7574   -3.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6043   -3.3303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6043   -1.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0636   -1.3305    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0636    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4 10  1  0  0  0  0
+  6 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+12314
+
+> <Formula>
+C11H14O2
+
+> <FW>
+178.2277
+
+> <DSSTox_CID>
+27166
+
+> <DSSTox_RID>
+82167
+
+> <DSSTox_GSID>
+47166
+
+> <DSSTox_FileID_Sort>
+6848
+
+> <TS_ChemName>
+4-(4-Methoxyphenyl)-2-butanone
+
+> <TS_ChemName_Synonyms>
+4-(4-Methoxyphenyl)-2-butanone (Raspberry ketone methyl ether )
+
+> <TS_CASRN>
+104-20-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H14O2
+
+> <STRUCTURE_MW>
+178.2277
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(4-methoxyphenyl)butan-2-one
+
+> <STRUCTURE_SMILES>
+COc1ccc(CCC(C)=O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(CCC(C)=O)cc1
+
+> <Substance_modify_yyyymmdd>
+20100503
+
+$$$$

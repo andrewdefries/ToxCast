@@ -1,0 +1,112 @@
+2898-12-6
+ChemmineR-0915142007XD
+
+ 19 21  0  0  0  0  0  0  0  0  1 V2000
+    3.5349   -3.4356    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5697   -4.2965    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5349   -2.1110    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5697   -1.2749    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8529   -3.9820    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3676   -1.4405    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3676   -4.0896    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5697   -5.5963    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2169   -3.4356    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4407   -2.8147    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2169   -2.1607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8529   -1.5646    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0565    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5697    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3693   -6.2999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6873   -6.2999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6873   -7.6245    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3693   -7.6245    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5697   -8.2785    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+13700
+
+> <Formula>
+C16H15ClN2
+
+> <FW>
+270.7567
+
+> <DSSTox_CID>
+28634
+
+> <DSSTox_RID>
+82904
+
+> <DSSTox_GSID>
+48708
+
+> <DSSTox_FileID_Sort>
+7581
+
+> <TS_ChemName>
+Medazepam
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2898-12-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H15ClN2
+
+> <STRUCTURE_MW>
+270.7567
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+7-chloro-1-methyl-5-phenyl-2,3-dihydro-1H-1,4-benzodiazepine
+
+> <STRUCTURE_SMILES>
+Clc1ccc2c(c1)C(=NCCN2C)c3ccccc3
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc2c(c1)C(=NCCN2C)c3ccccc3
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

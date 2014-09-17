@@ -1,0 +1,98 @@
+1724-39-6
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    3.5150   -0.6778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5150   -1.9538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6087   -2.6362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6087   -3.9964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5150   -4.6742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3184   -3.9964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1265   -4.6742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1265   -1.9538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1265   -0.6778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3184    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6555   -0.0187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+5153
+
+> <Formula>
+C12H24O
+
+> <FW>
+184.3184
+
+> <DSSTox_CID>
+7429
+
+> <DSSTox_RID>
+78451
+
+> <DSSTox_GSID>
+27429
+
+> <DSSTox_FileID_Sort>
+3134
+
+> <TS_ChemName>
+Cyclododecanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1724-39-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H24O
+
+> <STRUCTURE_MW>
+184.3184
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+cyclododecanol
+
+> <STRUCTURE_SMILES>
+OC1CCCCCCCCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+OC1CCCCCCCCCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,101 @@
+58-08-2
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    3.9864   -4.6079    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3272   -3.4590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9864   -2.3039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3272   -1.1551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2124   -0.1632    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4302   -0.7031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2921   -2.0277    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2777   -2.9192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9963   -1.1551    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3309   -2.3039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9963   -3.4590    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3309   -4.6079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3309    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+228
+
+> <Formula>
+C8H10N4O2
+
+> <FW>
+194.1906
+
+> <DSSTox_CID>
+232
+
+> <DSSTox_RID>
+75448
+
+> <DSSTox_GSID>
+20232
+
+> <DSSTox_FileID_Sort>
+132
+
+> <TS_ChemName>
+Caffeine
+
+> <TS_ChemName_Synonyms>
+Caffeine (1H-Purine-2,6-dione, 3,7-dihydro-1,3,7-trimethyl-)
+
+> <TS_CASRN>
+58-08-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10N4O2
+
+> <STRUCTURE_MW>
+194.1906
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,3,7-trimethyl-3,7-dihydro-1H-purine-2,6-dione
+
+> <STRUCTURE_SMILES>
+O=C2c1n(C)cnc1N(C)C(=O)N2C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2c1n(C)cnc1N(C)C(=O)N2C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

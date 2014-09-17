@@ -1,0 +1,91 @@
+2439-54-5
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    2.2461    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3998   -0.6942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5228    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6459   -0.6942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8098    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9328   -0.6942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0559    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2095   -0.6942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1230   -0.6942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+10273
+
+> <Formula>
+C9H21N
+
+> <FW>
+143.2697
+
+> <DSSTox_CID>
+24619
+
+> <DSSTox_RID>
+80354
+
+> <DSSTox_GSID>
+44619
+
+> <DSSTox_FileID_Sort>
+5036
+
+> <TS_ChemName>
+N-Methyloctan-1-amine
+
+> <TS_ChemName_Synonyms>
+N-Methyloctan-1-amine (1-Octanamine, N-methyl-)
+
+> <TS_CASRN>
+2439-54-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H21N
+
+> <STRUCTURE_MW>
+143.2697
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-methyloctan-1-amine
+
+> <STRUCTURE_SMILES>
+CNCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CNCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

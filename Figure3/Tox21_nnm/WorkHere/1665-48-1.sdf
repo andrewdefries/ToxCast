@@ -1,0 +1,105 @@
+1665-48-1
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    0.6644   -3.4586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6644   -1.1559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9933   -1.1559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6577   -2.3027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9865   -2.3027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6509   -3.4586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9798   -3.4586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7625   -2.3755    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0276   -2.7942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1016   -2.0115    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0276   -4.1230    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7625   -4.5326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9933   -3.4586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 16  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+2935
+
+> <Formula>
+C12H15NO3
+
+> <FW>
+221.2524
+
+> <DSSTox_CID>
+3269
+
+> <DSSTox_RID>
+76949
+
+> <DSSTox_GSID>
+23269
+
+> <DSSTox_FileID_Sort>
+1633
+
+> <TS_ChemName>
+Metaxalone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1665-48-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H15NO3
+
+> <STRUCTURE_MW>
+221.2524
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-[(3,5-dimethylphenoxy)methyl]-1,3-oxazolidin-2-one
+
+> <STRUCTURE_SMILES>
+Cc1cc(cc(C)c1)OCC2CNC(=O)O2
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(cc(C)c1)OCC2CNC(=O)O2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

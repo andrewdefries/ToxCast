@@ -1,0 +1,86 @@
+999-81-5
+ChemmineR-0915142007XD
+
+  8  6  0  0  0  0  0  0  0  0  2 V2000
+    2.3030   -1.8194    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4545   -1.1515    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    4.1177   -2.3030    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7912    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6060   -0.4882    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -1.1515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8194    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2615   -3.6341    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+294
+
+> <Formula>
+C5H13Cl2N
+
+> <FW>
+158.0694 (122.6159+35.4535)
+
+> <DSSTox_CID>
+303
+
+> <DSSTox_RID>
+75500
+
+> <DSSTox_GSID>
+20303
+
+> <DSSTox_FileID_Sort>
+184
+
+> <TS_ChemName>
+Chlormequat chloride
+
+> <TS_ChemName_Synonyms>
+Chlormequat chloride (2-Chloroethyltrimethylammonium chloride) ((2-Chloroethyl)trimethylammonium chloride)
+
+> <TS_CASRN>
+999-81-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [7003-89-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H13Cl2N
+
+> <STRUCTURE_MW>
+158.0694
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+2-chloro-N,N,N-trimethylethanaminium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C[N+](C)(C)CCCl
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(C)CCCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,92 @@
+5187-23-5
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    0.6754   -0.8513    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6754   -3.1454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0063   -3.1454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6658   -2.0063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0063   -0.8513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8208   -2.6658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8208   -3.9966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8208   -1.3309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8208    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+10596
+
+> <Formula>
+C7H14O3
+
+> <FW>
+146.1843
+
+> <DSSTox_CID>
+24949
+
+> <DSSTox_RID>
+80609
+
+> <DSSTox_GSID>
+44949
+
+> <DSSTox_FileID_Sort>
+5291
+
+> <TS_ChemName>
+(5-Ethyl-1,3-dioxan-5-yl)methanol
+
+> <TS_ChemName_Synonyms>
+(5-Ethyl-1,3-dioxan-5-yl)methanol (5-ethyl-1,3-dioxane-5-methanol)
+
+> <TS_CASRN>
+5187-23-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O3
+
+> <STRUCTURE_MW>
+146.1843
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5-ethyl-1,3-dioxan-5-yl)methanol
+
+> <STRUCTURE_SMILES>
+OCC1(CC)COCOC1
+
+> <STRUCTURE_SMILES_Desalt>
+OCC1(CC)COCOC1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

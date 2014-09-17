@@ -1,0 +1,89 @@
+6959-48-4
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    3.2525   -2.9920    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -1.1540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6531   -1.1540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877   -2.3033    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+300
+
+> <Formula>
+C6H7Cl2N
+
+> <FW>
+164.0325 (36.4609+127.5715)
+
+> <DSSTox_CID>
+309
+
+> <DSSTox_RID>
+75504
+
+> <DSSTox_GSID>
+20309
+
+> <DSSTox_FileID_Sort>
+188
+
+> <TS_ChemName>
+3-(Chloromethyl)pyridine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6959-48-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [3099-31-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H7Cl2N
+
+> <STRUCTURE_MW>
+164.0325
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+3-(chloromethyl)pyridine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.ClCc1cccnc1
+
+> <STRUCTURE_SMILES_Desalt>
+ClCc1cccnc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

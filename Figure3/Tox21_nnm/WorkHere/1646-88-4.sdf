@@ -1,0 +1,99 @@
+1646-88-4
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    4.6040   -2.6459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7773   -1.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1057   -0.8496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4712   -1.9905    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4408   -3.1476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9344   -1.3189    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2628   -0.1780    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5898   -2.4760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0914   -0.6554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3142   -2.6459    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1571   -1.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6459    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1571   -0.6554    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3142    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+3391
+
+> <Formula>
+C7H14N2O4S
+
+> <FW>
+222.2621
+
+> <DSSTox_CID>
+3862
+
+> <DSSTox_RID>
+77208
+
+> <DSSTox_GSID>
+23862
+
+> <DSSTox_FileID_Sort>
+1891
+
+> <TS_ChemName>
+Aldoxycarb
+
+> <TS_ChemName_Synonyms>
+Aldoxycarb (Aldicarb sulfone)
+
+> <TS_CASRN>
+1646-88-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14N2O4S
+
+> <STRUCTURE_MW>
+222.2621
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5E)-7,7-dimethyl-4-oxa-8-thia-2,5-diazanon-5-en-3-one 8,8-dioxide
+
+> <STRUCTURE_SMILES>
+CC(C)(/C=N/OC(=O)NC)S(C)(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(/C=N/OC(=O)NC)S(C)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

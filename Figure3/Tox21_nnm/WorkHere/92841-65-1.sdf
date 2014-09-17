@@ -1,0 +1,105 @@
+92841-65-1
+ChemmineR-0915142007XD
+
+ 16 17  0  0  1  0  0  0  0  0  1 V2000
+    4.3431   -5.5614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5054   -6.8829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8111    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4758    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4719   -1.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8151   -1.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8111   -2.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3520   -4.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4758   -2.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8151   -3.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2183   -4.8937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4936   -3.5929    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3677   -5.5614    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.4375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184   -4.2605    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8151   -2.1268    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  8  1  1  6  0  0  0
+  2 13  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  9  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 16  1  1  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <ID>
+14238
+
+> <Formula>
+C11H14N2O
+
+> <FW>
+190.2417
+
+> <DSSTox_CID>
+29333
+
+> <DSSTox_RID>
+83449
+
+> <DSSTox_GSID>
+49374
+
+> <DSSTox_FileID_Sort>
+8124
+
+> <TS_ChemName>
+(4R,5S)-(-)-1,5-Dimethyl-4-phenyl-2-imidazolidinone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+92841-65-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H14N2O
+
+> <STRUCTURE_MW>
+190.2417
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(4R,5S)-1,5-dimethyl-4-phenyl-4,5-dihydro-1H-imidazol-2-ol
+
+> <STRUCTURE_SMILES>
+C[C@@H]2N(C)C(O)=N[C@@H]2c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+C[C@@H]2N(C)C(O)=N[C@@H]2c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

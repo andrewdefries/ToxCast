@@ -1,0 +1,105 @@
+678-26-2
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+    1.1497   -1.1566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2925   -1.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4422   -1.1566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5919   -1.8312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7347   -1.1566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8312    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8844   -1.8312    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4957    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8244    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6316   -2.9809    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9465   -2.9809    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7882    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1169    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9379   -2.9809    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2528   -2.9809    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0738    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3887    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+M  END
+> <ID>
+11831
+
+> <Formula>
+C5F12
+
+> <FW>
+288.0343
+
+> <DSSTox_CID>
+26613
+
+> <DSSTox_RID>
+81766
+
+> <DSSTox_GSID>
+46613
+
+> <DSSTox_FileID_Sort>
+6447
+
+> <TS_ChemName>
+Perflenapent
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+678-26-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5F12
+
+> <STRUCTURE_MW>
+288.0343
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dodecafluoropentane
+
+> <STRUCTURE_SMILES>
+FC(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)(C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20110809
+
+$$$$

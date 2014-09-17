@@ -1,0 +1,98 @@
+122-73-6
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    2.3028   -1.9989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028   -3.3345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1514   -1.3264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1514   -3.9885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4634   -1.3264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6149   -1.9896    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7663   -1.3264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9085   -1.9896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0599   -1.3264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2113   -1.9896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0599    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+12580
+
+> <Formula>
+C12H18O
+
+> <FW>
+178.2707
+
+> <DSSTox_CID>
+27439
+
+> <DSSTox_RID>
+82348
+
+> <DSSTox_GSID>
+47439
+
+> <DSSTox_FileID_Sort>
+7029
+
+> <TS_ChemName>
+Benzyl 3-methylbutyl ether
+
+> <TS_ChemName_Synonyms>
+Benzyl 3-methylbutyl ether ([(3-methylbutoxy)methyl]benzene) __  (Benzyl isoamyl ether)
+
+> <TS_CASRN>
+122-73-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H18O
+
+> <STRUCTURE_MW>
+178.2707
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzyl 3-methylbutyl ether
+
+> <STRUCTURE_SMILES>
+CC(C)CCOCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CCOCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20100620
+
+$$$$

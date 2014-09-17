@@ -1,0 +1,92 @@
+1124-63-6
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.7593    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5977   -0.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4708    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9139   -0.6637    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3162   -0.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3162   -1.9774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -2.6549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+12387
+
+> <Formula>
+C9H18O
+
+> <FW>
+142.2386
+
+> <DSSTox_CID>
+27244
+
+> <DSSTox_RID>
+82206
+
+> <DSSTox_GSID>
+47244
+
+> <DSSTox_FileID_Sort>
+6887
+
+> <TS_ChemName>
+3-Cyclohexylpropan-1-ol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1124-63-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18O
+
+> <STRUCTURE_MW>
+142.2386
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-cyclohexylpropan-1-ol
+
+> <STRUCTURE_SMILES>
+OCCCC1CCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+OCCCC1CCCCC1
+
+> <Substance_modify_yyyymmdd>
+20100508
+
+$$$$

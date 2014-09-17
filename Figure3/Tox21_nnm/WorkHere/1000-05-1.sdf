@@ -1,0 +1,101 @@
+1000-05-1
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    1.1475   -1.3233    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3135   -1.9897    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4611   -1.3233    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6271   -1.9897    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7561   -1.3233    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9406   -1.9897    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0697   -1.3233    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1475    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4611    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4611   -2.6467    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7561    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7561   -2.6467    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2542   -1.9897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0697    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+M  END
+> <ID>
+10410
+
+> <Formula>
+C8H26O3Si4
+
+> <FW>
+282.6322
+
+> <DSSTox_CID>
+24759
+
+> <DSSTox_RID>
+80452
+
+> <DSSTox_GSID>
+44759
+
+> <DSSTox_FileID_Sort>
+5134
+
+> <TS_ChemName>
+1,1,3,3,5,5,7,7-Octamethyltetrasiloxane
+
+> <TS_ChemName_Synonyms>
+Tetrasiloxane, 1,1,3,3,5,5,7,7-octamethyl-
+
+> <TS_CASRN>
+1000-05-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H26O3Si4
+
+> <STRUCTURE_MW>
+282.6322
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+1,1,3,3,5,5,7,7-octamethyltetrasiloxane
+
+> <STRUCTURE_SMILES>
+C[SiH](C)O[Si](C)(C)O[Si](C)(C)O[SiH](C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C[SiH](C)O[Si](C)(C)O[Si](C)(C)O[SiH](C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

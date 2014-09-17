@@ -1,0 +1,96 @@
+6358-64-1
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    1.1724   -2.6689    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2965   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2965   -0.6689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4482   -2.6689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4482    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5998   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5998   -0.6689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6896    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7446   -2.6689    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8963   -1.9792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7446    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+7914
+
+> <Formula>
+C8H10ClNO2
+
+> <FW>
+187.6235
+
+> <DSSTox_CID>
+20718
+
+> <DSSTox_RID>
+79565
+
+> <DSSTox_GSID>
+40718
+
+> <DSSTox_FileID_Sort>
+4247
+
+> <TS_ChemName>
+2,5-Dimethoxy-4-chloroaniline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6358-64-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10ClNO2
+
+> <STRUCTURE_MW>
+187.6235
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-chloro-2,5-dimethoxyaniline
+
+> <STRUCTURE_SMILES>
+COc1cc(N)c(cc1Cl)OC
+
+> <STRUCTURE_SMILES_Desalt>
+COc1cc(N)c(cc1Cl)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

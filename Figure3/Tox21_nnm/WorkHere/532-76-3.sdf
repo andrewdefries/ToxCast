@@ -1,0 +1,112 @@
+532-76-3
+ChemmineR-0915142007XD
+
+ 20 20  0  0  0  0  0  0  0  0  1 V2000
+    5.2297   -3.4788    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4673   -1.3247    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0519   -1.3247    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6192   -1.9813    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4673    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3154   -1.9813    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9000   -1.9813    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2038   -1.9813    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7596   -1.3247    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -1.3132    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3154   -3.3175    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2038   -3.3175    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3673   -1.3132    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7596    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9813    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -3.9741    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5192   -1.9813    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3673   -3.9741    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3175    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5192   -3.3175    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  6 10  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <ID>
+10870
+
+> <Formula>
+C16H24ClNO2
+
+> <FW>
+297.8203 (36.4609+261.3593)
+
+> <DSSTox_CID>
+25321
+
+> <DSSTox_RID>
+80800
+
+> <DSSTox_GSID>
+45321
+
+> <DSSTox_FileID_Sort>
+5481
+
+> <TS_ChemName>
+Hexylcaine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+532-76-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [532-77-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H24ClNO2
+
+> <STRUCTURE_MW>
+297.8203
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-(cyclohexylamino)propan-2-yl benzoate hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CC(CNC1CCCCC1)OC(=O)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CNC1CCCCC1)OC(=O)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20110605
+
+$$$$

@@ -1,0 +1,90 @@
+620-20-2
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    5.3190   -3.4574    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9893   -3.4574    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3244   -2.3031    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9893   -1.1542    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3244    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9946    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3298   -1.1542    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9946   -2.3031    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1542    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+16185
+
+> <Formula>
+C7H6Cl2
+
+> <FW>
+161.0285
+
+> <DSSTox_CID>
+31575
+
+> <DSSTox_RID>
+97460
+
+> <DSSTox_GSID>
+57786
+
+> <DSSTox_FileID_Sort>
+8527
+
+> <TS_ChemName>
+1-Chloro-3-(chloromethyl)-benzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+620-20-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6Cl2
+
+> <STRUCTURE_MW>
+161.0285
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-3-(chloromethyl)benzene
+
+> <STRUCTURE_SMILES>
+ClCc1cc(Cl)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+ClCc1cc(Cl)ccc1
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

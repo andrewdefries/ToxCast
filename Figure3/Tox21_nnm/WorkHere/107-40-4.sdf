@@ -1,0 +1,87 @@
+107-40-4
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1683   -1.3260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4679   -1.3260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6363   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1683   -2.6520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4679   -2.6520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4679    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+M  END
+> <ID>
+4795
+
+> <Formula>
+C8H16
+
+> <FW>
+112.2126
+
+> <DSSTox_CID>
+6766
+
+> <DSSTox_RID>
+78208
+
+> <DSSTox_GSID>
+26766
+
+> <DSSTox_FileID_Sort>
+2891
+
+> <TS_ChemName>
+2,4,4-Trimethyl-2-pentene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+107-40-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H16
+
+> <STRUCTURE_MW>
+112.2126
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4,4-trimethylpent-2-ene
+
+> <STRUCTURE_SMILES>
+C\C(C)=C/C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C\C(C)=C/C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

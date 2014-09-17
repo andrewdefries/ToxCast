@@ -1,0 +1,103 @@
+1698-60-8
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    3.3323    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9861   -1.1560    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3164   -2.3039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0010    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9851   -2.3039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313   -1.1560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9861   -3.4599    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1560    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313   -3.4599    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3174   -1.1560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9711    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9711   -2.3039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3025    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3025   -2.3039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9721   -1.1560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+6937
+
+> <Formula>
+C10H8ClN3O
+
+> <FW>
+221.643
+
+> <DSSTox_CID>
+14872
+
+> <DSSTox_RID>
+79214
+
+> <DSSTox_GSID>
+34872
+
+> <DSSTox_FileID_Sort>
+3896
+
+> <TS_ChemName>
+Chloridazon
+
+> <TS_ChemName_Synonyms>
+Chloridazon (Pyrazon)
+
+> <TS_CASRN>
+1698-60-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H8ClN3O
+
+> <STRUCTURE_MW>
+221.643
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-amino-4-chloro-2-phenylpyridazin-3(2H)-one
+
+> <STRUCTURE_SMILES>
+O=C2C(Cl)=C(N)C=NN2c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2C(Cl)=C(N)C=NN2c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

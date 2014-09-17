@@ -1,0 +1,87 @@
+994-28-5
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.4549    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2971   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9939    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3278   -3.4549    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1455   -2.9693    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6599   -1.1516    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8422   -1.6372    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9939   -2.3033    0.0000 Ge   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+14246
+
+> <Formula>
+C6H15ClGe
+
+> <FW>
+195.2763
+
+> <DSSTox_CID>
+29341
+
+> <DSSTox_RID>
+83457
+
+> <DSSTox_GSID>
+49382
+
+> <DSSTox_FileID_Sort>
+8132
+
+> <TS_ChemName>
+Triethylgermanium chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+994-28-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C6H15ClGe
+
+> <STRUCTURE_MW>
+195.2763
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+chloro(triethyl)germane
+
+> <STRUCTURE_SMILES>
+CC[Ge](Cl)(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CC[Ge](Cl)(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

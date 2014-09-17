@@ -1,0 +1,91 @@
+24615-84-7
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    5.7279   -1.3317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8992   -2.0056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0223   -1.3317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7279    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6048   -2.0056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4496   -1.3317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2944   -2.0056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1392   -1.3317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1392    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+5439
+
+> <Formula>
+C6H8O4
+
+> <FW>
+144.1253
+
+> <DSSTox_CID>
+7834
+
+> <DSSTox_RID>
+78584
+
+> <DSSTox_GSID>
+27834
+
+> <DSSTox_FileID_Sort>
+3267
+
+> <TS_ChemName>
+2-Carboxyethyl acrylate
+
+> <TS_ChemName_Synonyms>
+2-Carboxyethyl acrylate (2-Propenoic acid, 2-carboxyethyl ester)
+
+> <TS_CASRN>
+24615-84-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8O4
+
+> <STRUCTURE_MW>
+144.1253
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(acryloyloxy)propanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCOC(=O)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCOC(=O)C=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

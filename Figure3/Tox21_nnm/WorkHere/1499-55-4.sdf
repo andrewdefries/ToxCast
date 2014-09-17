@@ -1,0 +1,93 @@
+1499-55-4
+ChemmineR-0915142007XD
+
+ 11 10  0  0  1  0  0  0  0  0  1 V2000
+    8.0702   -1.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9162   -1.9933    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7622   -1.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7622    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6081   -1.9933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4621   -1.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3081   -1.9933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3081   -3.3249    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -1.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9933    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+11470
+
+> <Formula>
+C6H11NO4
+
+> <FW>
+161.1558
+
+> <DSSTox_CID>
+26171
+
+> <DSSTox_RID>
+81402
+
+> <DSSTox_GSID>
+46171
+
+> <DSSTox_FileID_Sort>
+6083
+
+> <TS_ChemName>
+(5)-Methyl L-glutamate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1499-55-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H11NO4
+
+> <STRUCTURE_MW>
+161.1558
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2S)-2-amino-5-methoxy-5-oxopentanoic acid
+
+> <STRUCTURE_SMILES>
+N[C@@H](CCC(=O)OC)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+N[C@@H](CCC(=O)OC)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

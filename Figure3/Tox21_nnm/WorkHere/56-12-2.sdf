@@ -1,0 +1,85 @@
+56-12-2
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.1272   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2832   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4391   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5779   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1272    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9899    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7511   -1.3170    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  7  1  0  0  0  0
+M  END
+> <ID>
+6991
+
+> <Formula>
+C4H9NO2
+
+> <FW>
+103.1198
+
+> <DSSTox_CID>
+15106
+
+> <DSSTox_RID>
+79238
+
+> <DSSTox_GSID>
+35106
+
+> <DSSTox_FileID_Sort>
+3920
+
+> <TS_ChemName>
+4-Aminobutanoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+56-12-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H9NO2
+
+> <STRUCTURE_MW>
+103.1198
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-aminobutanoic acid
+
+> <STRUCTURE_SMILES>
+NCCCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+NCCCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

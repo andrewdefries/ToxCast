@@ -1,0 +1,105 @@
+7534-94-3
+ChemmineR-0915142007XD
+
+ 16 17  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -3.9593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5676   -2.9349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5574   -2.2288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1906   -3.3433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1767   -0.9621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7826   -2.9487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3258   -3.9247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9866    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2630   -0.0900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1906   -4.6169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5925   -3.7447    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3677   -4.7553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6206   -4.5684    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8970   -5.9321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6442   -6.1120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6723   -6.9219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  1  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 11  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <ID>
+5325
+
+> <Formula>
+C14H22O2
+
+> <FW>
+222.3233
+
+> <DSSTox_CID>
+7653
+
+> <DSSTox_RID>
+78543
+
+> <DSSTox_GSID>
+27653
+
+> <DSSTox_FileID_Sort>
+3226
+
+> <TS_ChemName>
+Isobornyl methacrylate
+
+> <TS_ChemName_Synonyms>
+Isobornyl methacrylate (2-Propenoic acid, 2-methyl-, (1R,2R,4R)-1,7,7-trimethylbicyclo[2.2.1]hept-2-yl ester, rel-)
+
+> <TS_CASRN>
+7534-94-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H22O2
+
+> <STRUCTURE_MW>
+222.3233
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1R,2R,4R)-1,7,7-trimethylbicyclo[2.2.1]hept-2-yl 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+C=C(C)C(=O)O[C@@H]1C[C@H]2CC[C@]1(C)C2(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C=C(C)C(=O)O[C@@H]1C[C@H]2CC[C@]1(C)C2(C)C
+
+> <Substance_modify_yyyymmdd>
+20080913
+
+$$$$

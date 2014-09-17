@@ -1,0 +1,90 @@
+95-64-7
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    4.6082   -2.6589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -2.6589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6589    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -0.6636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4647
+
+> <Formula>
+C8H11N
+
+> <FW>
+121.1796
+
+> <DSSTox_CID>
+6308
+
+> <DSSTox_RID>
+78098
+
+> <DSSTox_GSID>
+26308
+
+> <DSSTox_FileID_Sort>
+2781
+
+> <TS_ChemName>
+3,4-Dimethylaniline
+
+> <TS_ChemName_Synonyms>
+3,4-Dimethylaniline (3,4-Xylidine0
+
+> <TS_CASRN>
+95-64-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H11N
+
+> <STRUCTURE_MW>
+121.1796
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,4-dimethylaniline
+
+> <STRUCTURE_SMILES>
+Cc1cc(N)ccc1C
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(N)ccc1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

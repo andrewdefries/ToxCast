@@ -1,0 +1,101 @@
+54856-23-4
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549   -2.6487    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3029   -1.9779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4578   -2.6487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6128   -1.9779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6128   -0.6570    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7608    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9157   -0.6570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9157   -1.9779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7608   -2.6487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4578   -6.6391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4578   -5.3043    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1231   -5.3043    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4578   -3.9834    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7926   -5.3043    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  2  0  0  0  0
+M  END
+> <ID>
+11052
+
+> <Formula>
+C9H16N2O3S
+
+> <FW>
+232.2999 (136.1943+96.1057)
+
+> <DSSTox_CID>
+25588
+
+> <DSSTox_RID>
+80984
+
+> <DSSTox_GSID>
+45588
+
+> <DSSTox_FileID_Sort>
+5665
+
+> <TS_ChemName>
+Betahistine mesylate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+54856-23-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [5638-76-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H16N2O3S
+
+> <STRUCTURE_MW>
+232.2999
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-methyl-2-(pyridin-2-yl)ethanamine methanesulfonate (1:1)
+
+> <STRUCTURE_SMILES>
+CS(=O)(=O)O.CNCCc1ccccn1
+
+> <STRUCTURE_SMILES_Desalt>
+CNCCc1ccccn1
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

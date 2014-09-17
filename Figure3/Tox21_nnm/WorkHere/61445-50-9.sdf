@@ -1,0 +1,109 @@
+61445-50-9
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    5.7661   -2.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9193   -1.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0725   -2.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0725   -3.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9193   -3.9855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7661   -3.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6129   -1.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6129    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4597   -2.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4597   -3.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064   -3.9855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -3.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -2.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064   -1.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9193    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064   -5.3140    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2258   -3.9855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+13047
+
+> <Formula>
+C13H10O5
+
+> <FW>
+246.2155
+
+> <DSSTox_CID>
+27950
+
+> <DSSTox_RID>
+82702
+
+> <DSSTox_GSID>
+47974
+
+> <DSSTox_FileID_Sort>
+7379
+
+> <TS_ChemName>
+2,3',4,4'-Tetrahydroxybenzophenone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+61445-50-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H10O5
+
+> <STRUCTURE_MW>
+246.2155
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2,4-dihydroxyphenyl)(3,4-dihydroxyphenyl)methanone
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1O)C(=O)c2ccc(O)cc2O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1O)C(=O)c2ccc(O)cc2O
+
+> <Substance_modify_yyyymmdd>
+20110414
+
+$$$$

@@ -1,0 +1,102 @@
+555-30-6
+ChemmineR-0915142007XD
+
+ 15 15  0  0  1  0  0  0  0  0  1 V2000
+    5.8744   -2.0211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0328   -1.3556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1831   -2.0211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6913   -1.3556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1831   -3.3685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3415   -1.3556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5246   -2.0211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0328    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3415   -4.0586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1103   -3.0645    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2159   -2.0211    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5246   -3.3685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3556    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4413   -2.9331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 10  1  1  0  0  0
+  1 15  1  0  0  0  0
+  2  8  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3 13  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  9  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 12  2  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <ID>
+2958
+
+> <Formula>
+C10H13NO4
+
+> <FW>
+211.2145
+
+> <DSSTox_CID>
+3295
+
+> <DSSTox_RID>
+76962
+
+> <DSSTox_GSID>
+23295
+
+> <DSSTox_FileID_Sort>
+1646
+
+> <TS_ChemName>
+Methyldopa
+
+> <TS_ChemName_Synonyms>
+Methyldopa (Methyl DOPA)
+
+> <TS_CASRN>
+555-30-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13NO4
+
+> <STRUCTURE_MW>
+211.2145
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-hydroxy-alpha-methyl-L-tyrosine
+
+> <STRUCTURE_SMILES>
+Oc1ccc(C[C@](C)(N)C(=O)O)cc1O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(C[C@](C)(N)C(=O)O)cc1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

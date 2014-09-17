@@ -1,0 +1,103 @@
+120-23-0
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    2.2999   -1.9964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2999   -3.3211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4315   -1.3248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1316   -1.3248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4315   -3.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1316   -3.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5999   -1.9964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5999   -3.3211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7315   -1.3248    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8998   -1.9964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0498   -1.3248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0498    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1998   -1.9964    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  6 10  2  0  0  0  0
+  7 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <ID>
+9125
+
+> <Formula>
+C12H10O3
+
+> <FW>
+202.206
+
+> <DSSTox_CID>
+22195
+
+> <DSSTox_RID>
+79952
+
+> <DSSTox_GSID>
+42195
+
+> <DSSTox_FileID_Sort>
+4634
+
+> <TS_ChemName>
+2-Naphthoxyacetic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+120-23-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10O3
+
+> <STRUCTURE_MW>
+202.206
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(naphthalen-2-yloxy)acetic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)COc1ccc2ccccc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)COc1ccc2ccccc2c1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

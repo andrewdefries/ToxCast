@@ -1,0 +1,82 @@
+288-88-0
+ChemmineR-0915142007XD
+
+  5  5  0  0  0  0  0  0  0  0  1 V2000
+    1.0701    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1402   -0.7833    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7571   -2.0610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4302   -2.0610    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <ID>
+4944
+
+> <Formula>
+C2H3N3
+
+> <FW>
+69.0653
+
+> <DSSTox_CID>
+7131
+
+> <DSSTox_RID>
+78318
+
+> <DSSTox_GSID>
+27131
+
+> <DSSTox_FileID_Sort>
+3001
+
+> <TS_ChemName>
+1H-1,2,4-Triazole
+
+> <TS_ChemName_Synonyms>
+4H-[1,2,4]Triazole
+
+> <TS_CASRN>
+288-88-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H3N3
+
+> <STRUCTURE_MW>
+69.0653
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1H-1,2,4-triazole
+
+> <STRUCTURE_SMILES>
+c1ncnn1
+
+> <STRUCTURE_SMILES_Desalt>
+c1ncnn1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

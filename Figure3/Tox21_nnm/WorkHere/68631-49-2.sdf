@@ -1,0 +1,111 @@
+68631-49-2
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    4.6116   -1.3255    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4610   -1.9790    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4610   -3.3229    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -1.3255    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -3.9857    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1506   -1.9790    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1506   -3.3229    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7438   -1.9790    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9036   -1.3255    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7438   -3.3229    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0542   -1.9790    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9036   -3.9857    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0542   -3.3229    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9036    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2048   -3.9857    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9036   -5.3112    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9857    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -5.3112    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 17  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+6256
+
+> <Formula>
+C12H4Br6O
+
+> <FW>
+643.5836
+
+> <DSSTox_CID>
+10047
+
+> <DSSTox_RID>
+78833
+
+> <DSSTox_GSID>
+30047
+
+> <DSSTox_FileID_Sort>
+3515
+
+> <TS_ChemName>
+2,2',4,4',5,5'-Hexabromodiphenyl ether
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+68631-49-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H4Br6O
+
+> <STRUCTURE_MW>
+643.5836
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+bis(2,4,5-tribromophenyl) ether
+
+> <STRUCTURE_SMILES>
+Brc2cc(Oc1cc(Br)c(Br)cc1Br)c(Br)cc2Br
+
+> <STRUCTURE_SMILES_Desalt>
+Brc2cc(Oc1cc(Br)c(Br)cc1Br)c(Br)cc2Br
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

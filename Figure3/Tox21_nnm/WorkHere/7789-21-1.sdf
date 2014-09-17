@@ -1,0 +1,81 @@
+7789-21-1
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+      1.33     -1.33      0.00 S   0  0  0  0  0  0  0  0  0  0  0  0
+      1.33     -2.66      0.00 O   0  0  0  0  0  0  0  0  0  0  0  0
+      2.66     -1.33      0.00 O   0  0  0  0  0  0  0  0  0  0  0  0
+      0.00     -1.33      0.00 O   0  0  0  0  0  0  0  0  0  0  0  0
+      1.33      0.00      0.00 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+M  END
+> <ID>
+6630
+
+> <Formula>
+HFO3S
+
+> <FW>
+100.0695
+
+> <DSSTox_CID>
+13511
+
+> <DSSTox_RID>
+79079
+
+> <DSSTox_GSID>
+33511
+
+> <DSSTox_FileID_Sort>
+3761
+
+> <TS_ChemName>
+Fluorosulfonic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7789-21-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+HFO3S
+
+> <STRUCTURE_MW>
+100.0695
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+sulfurofluoridic acid
+
+> <STRUCTURE_SMILES>
+FS(=O)(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+FS(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,113 @@
+80-43-3
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    1.8168   -2.3037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1467   -2.3037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8153   -1.1555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9636   -1.8168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1191   -1.1555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2673   -1.8168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2673   -3.1467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1191   -3.8153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9636   -3.1467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4766    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6598   -0.4869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1555   -3.4592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -4.1205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4592   -3.4592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6075   -4.1205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6075   -5.4505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4592   -6.1191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -5.4505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4869   -4.6075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+3971
+
+> <Formula>
+C18H22O2
+
+> <FW>
+270.3661
+
+> <DSSTox_CID>
+5017
+
+> <DSSTox_RID>
+77629
+
+> <DSSTox_GSID>
+25017
+
+> <DSSTox_FileID_Sort>
+2312
+
+> <TS_ChemName>
+Dicumyl peroxide
+
+> <TS_ChemName_Synonyms>
+Dicumyl peroxide (Peroxide, bis(1-methyl-1-phenylethyl)) (Cumene peroxide) (1,1’-(Dioxydipropane-2,2-diyl)dibenzene)
+
+> <TS_CASRN>
+80-43-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H22O2
+
+> <STRUCTURE_MW>
+270.3661
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+bis(2-phenylpropan-2-yl) peroxide
+
+> <STRUCTURE_SMILES>
+CC(C)(OOC(C)(C)c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(OOC(C)(C)c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,104 @@
+2531-84-2
+ChemmineR-0915142007XD
+
+ 15 17  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3321   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9941   -3.4539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3262   -3.4539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9883   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3262   -1.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9941   -1.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9883    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3204    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9824   -1.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3145   -1.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9766   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3145   -3.4539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9824   -3.4539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3204   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+4322
+
+> <Formula>
+C15H12
+
+> <FW>
+192.2558
+
+> <DSSTox_CID>
+5649
+
+> <DSSTox_RID>
+77868
+
+> <DSSTox_GSID>
+25649
+
+> <DSSTox_FileID_Sort>
+2551
+
+> <TS_ChemName>
+2-Methyl phenanthrene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2531-84-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H12
+
+> <STRUCTURE_MW>
+192.2558
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylphenanthrene
+
+> <STRUCTURE_SMILES>
+Cc1cc2ccc3ccccc3c2cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc2ccc3ccccc3c2cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

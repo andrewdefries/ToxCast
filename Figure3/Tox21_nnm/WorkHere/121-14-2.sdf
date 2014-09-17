@@ -1,0 +1,98 @@
+121-14-2
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  2 V2000
+    5.7563    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6092   -0.6634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6092   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552   -2.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3011   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3011   -0.6634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -2.6605    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.1540   -3.9873    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9902    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.7563   -2.6605    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.7563   -3.9873    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9103   -1.9902    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+511
+
+> <Formula>
+C7H6N2O4
+
+> <FW>
+182.1335
+
+> <DSSTox_CID>
+529
+
+> <DSSTox_RID>
+75643
+
+> <DSSTox_GSID>
+20529
+
+> <DSSTox_FileID_Sort>
+327
+
+> <TS_ChemName>
+2,4-Dinitrotoluene
+
+> <TS_ChemName_Synonyms>
+2,4-Dinitrotoluene (Benzene, 1-methyl-2,4-dinitro-)
+
+> <TS_CASRN>
+121-14-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6N2O4
+
+> <STRUCTURE_MW>
+182.1335
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methyl-2,4-dinitrobenzene
+
+> <STRUCTURE_SMILES>
+Cc1ccc(cc1[N+](=O)[O-])[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1[N+](=O)[O-])[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,103 @@
+86-29-3
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    3.4548    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548   -1.3335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6087   -3.3235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7556   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9095   -3.3235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9095   -4.6570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7556   -5.3203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6087   -4.6570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3009   -3.3235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3009   -4.6570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -5.3203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+518
+
+> <Formula>
+C14H11N
+
+> <FW>
+193.2438
+
+> <DSSTox_CID>
+539
+
+> <DSSTox_RID>
+75648
+
+> <DSSTox_GSID>
+20539
+
+> <DSSTox_FileID_Sort>
+332
+
+> <TS_ChemName>
+Diphenylacetonitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+86-29-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H11N
+
+> <STRUCTURE_MW>
+193.2438
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diphenylacetonitrile
+
+> <STRUCTURE_SMILES>
+N#CC(c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+N#CC(c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

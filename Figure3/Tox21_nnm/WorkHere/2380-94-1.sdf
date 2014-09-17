@@ -1,0 +1,93 @@
+2380-94-1
+ChemmineR-0915142007XD
+
+ 10 11  0  0  0  0  0  0  0  0  1 V2000
+    1.1528    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -3.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -3.3235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5672   -1.5835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3502   -2.6580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5672   -3.7368    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+16098
+
+> <Formula>
+C8H7NO
+
+> <FW>
+133.1473
+
+> <DSSTox_CID>
+31485
+
+> <DSSTox_RID>
+97370
+
+> <DSSTox_GSID>
+57696
+
+> <DSSTox_FileID_Sort>
+8437
+
+> <TS_ChemName>
+4-Hydroxyindole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2380-94-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H7NO
+
+> <STRUCTURE_MW>
+133.1473
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1H-indol-4-ol
+
+> <STRUCTURE_SMILES>
+Oc2cccc1nccc12
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2cccc1nccc12
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

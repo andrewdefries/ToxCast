@@ -1,0 +1,90 @@
+615-28-1
+ChemmineR-0915142007XD
+
+ 10  8  0  0  0  0  0  0  0  0  1 V2000
+    1.3307   -2.3034    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9960   -1.1538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3267   -1.1538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9878   -2.3034    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3267   -3.4572    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9960   -3.4572    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3034    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5875   -4.2110    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4277   -4.1141    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+1096
+
+> <Formula>
+C6H10Cl2N2
+
+> <FW>
+181.0630 (108.1411+36.4609+36.4609)
+
+> <DSSTox_CID>
+1140
+
+> <DSSTox_RID>
+75971
+
+> <DSSTox_GSID>
+21140
+
+> <DSSTox_FileID_Sort>
+655
+
+> <TS_ChemName>
+1,2-Phenylenediamine dihydrochloride
+
+> <TS_ChemName_Synonyms>
+1,2-Benzenediamine dihydrochloride
+
+> <TS_CASRN>
+615-28-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [95-54-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10Cl2N2
+
+> <STRUCTURE_MW>
+181.063
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+benzene-1,2-diamine dihydrochloride
+
+> <STRUCTURE_SMILES>
+Cl.Cl.Nc1ccccc1N
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccccc1N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

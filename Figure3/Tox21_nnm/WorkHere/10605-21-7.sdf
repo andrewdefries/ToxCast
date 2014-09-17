@@ -1,0 +1,101 @@
+10605-21-7
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    5.6792   -1.3343    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3464   -2.4852    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6792   -3.6360    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6724   -2.4852    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3395   -1.3343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3532   -1.3343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5693   -2.4101    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3017   -2.0015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1509   -2.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1509    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3017   -0.6672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5693   -0.2585    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+3832
+
+> <Formula>
+C9H9N3O2
+
+> <FW>
+191.1867
+
+> <DSSTox_CID>
+4729
+
+> <DSSTox_RID>
+77513
+
+> <DSSTox_GSID>
+24729
+
+> <DSSTox_FileID_Sort>
+2196
+
+> <TS_ChemName>
+Carbendazim
+
+> <TS_ChemName_Synonyms>
+Carbendazim (Carbamic acid, 1H-benzimidazol-2-yl-, methyl ester) (MBC)
+
+> <TS_CASRN>
+10605-21-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H9N3O2
+
+> <STRUCTURE_MW>
+191.1867
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 1H-benzimidazol-2-ylcarbamate
+
+> <STRUCTURE_SMILES>
+O=C(OC)Nc1nc2ccccc2n1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OC)Nc1nc2ccccc2n1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,108 @@
+602-60-8
+ChemmineR-0915142007XD
+
+ 17 19  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -2.6594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -1.9963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3002   -2.6594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4538   -1.9963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4538   -0.6700    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.3002    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.6073   -2.6594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7540   -1.9963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9076   -2.6594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9076   -3.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7540   -4.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073   -3.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4538   -4.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3002   -3.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -4.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+4371
+
+> <Formula>
+C14H9NO2
+
+> <FW>
+223.2268
+
+> <DSSTox_CID>
+5730
+
+> <DSSTox_RID>
+77896
+
+> <DSSTox_GSID>
+25730
+
+> <DSSTox_FileID_Sort>
+2579
+
+> <TS_ChemName>
+9-Nitroanthracene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+602-60-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H9NO2
+
+> <STRUCTURE_MW>
+223.2268
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+9-nitroanthracene
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c2c3ccccc3cc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c2c3ccccc3cc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

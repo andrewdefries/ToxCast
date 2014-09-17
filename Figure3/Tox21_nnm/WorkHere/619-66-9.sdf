@@ -1,0 +1,94 @@
+619-66-9
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.1495   -0.6578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1495   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -2.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -3.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1495   -4.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1495   -5.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6444    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+5023
+
+> <Formula>
+C8H6O3
+
+> <FW>
+150.1314
+
+> <DSSTox_CID>
+7249
+
+> <DSSTox_RID>
+78369
+
+> <DSSTox_GSID>
+27249
+
+> <DSSTox_FileID_Sort>
+3052
+
+> <TS_ChemName>
+4-Carboxybenzaldehyde
+
+> <TS_ChemName_Synonyms>
+Benzoic acid, 4-formyl-
+
+> <TS_CASRN>
+619-66-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H6O3
+
+> <STRUCTURE_MW>
+150.1314
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-formylbenzoic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1ccc(C=O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1ccc(C=O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

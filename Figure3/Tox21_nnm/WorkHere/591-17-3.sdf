@@ -1,0 +1,88 @@
+591-17-3
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1520   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -2.6588    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -2.6588    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6588    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <ID>
+3794
+
+> <Formula>
+C7H7Br
+
+> <FW>
+171.0345
+
+> <DSSTox_CID>
+4659
+
+> <DSSTox_RID>
+77487
+
+> <DSSTox_GSID>
+24659
+
+> <DSSTox_FileID_Sort>
+2170
+
+> <TS_ChemName>
+3-Bromotoluene
+
+> <TS_ChemName_Synonyms>
+3-Bromotoluene (m-Bromotoluene)
+
+> <TS_CASRN>
+591-17-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7Br
+
+> <STRUCTURE_MW>
+171.0345
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromo-3-methylbenzene
+
+> <STRUCTURE_SMILES>
+Cc1cc(Br)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(Br)ccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,98 @@
+299-27-4
+ChemmineR-0915142007XD
+
+ 14 12  0  0  1  0  0  0  0  0  2 V2000
+    1.3167   -5.7864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7864    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.9681   -4.6083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3194   -4.6083    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3167   -3.4649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4649    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9681   -2.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3194   -2.3215    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3167   -1.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9681    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3194    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9681   -6.9298    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9943   -3.4649    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1 13  2  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+6076
+
+> <Formula>
+C6H11KO7
+
+> <FW>
+234.2456 (195.1479+39.0978)
+
+> <DSSTox_CID>
+9617
+
+> <DSSTox_RID>
+78789
+
+> <DSSTox_GSID>
+29617
+
+> <DSSTox_FileID_Sort>
+3471
+
+> <TS_ChemName>
+Potassium D-gluconate
+
+> <TS_ChemName_Synonyms>
+Gluconic acid, monopotassium salt, D-
+
+> <TS_CASRN>
+299-27-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [526-95-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H11KO7
+
+> <STRUCTURE_MW>
+234.2456
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+potassium D-gluconate
+
+> <STRUCTURE_SMILES>
+[K+].O[C@H]([C@@H](O)C([O-])=O)[C@H](O)[C@H](O)CO
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@H]([C@@H](O)C(=O)O)[C@H](O)[C@H](O)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

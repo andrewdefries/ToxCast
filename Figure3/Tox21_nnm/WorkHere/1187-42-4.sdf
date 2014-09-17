@@ -1,0 +1,87 @@
+1187-42-4
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    1.3314   -4.6088    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -3.4589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239   -3.4589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6553   -3.4589    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3314   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3044    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  3  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  3  0  0  0  0
+M  END
+> <ID>
+3919
+
+> <Formula>
+C4H4N4
+
+> <FW>
+108.1014
+
+> <DSSTox_CID>
+4923
+
+> <DSSTox_RID>
+77584
+
+> <DSSTox_GSID>
+24923
+
+> <DSSTox_FileID_Sort>
+2267
+
+> <TS_ChemName>
+Diaminomaleonitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1187-42-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H4N4
+
+> <STRUCTURE_MW>
+108.1014
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2Z)-2,3-diaminobut-2-enedinitrile
+
+> <STRUCTURE_SMILES>
+N#CC(\N)=C(\N)C#N
+
+> <STRUCTURE_SMILES_Desalt>
+N#CC(\N)=C(\N)C#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

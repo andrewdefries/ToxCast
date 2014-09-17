@@ -1,0 +1,105 @@
+98730-04-2
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    2.3162   -6.0004    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1401   -5.3344    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1401   -3.9843    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3162   -3.3362    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4443   -3.9843    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4443   -5.3344    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5903   -6.0004    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7304   -5.3344    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7304   -3.9843    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5903   -3.3362    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3162   -2.0161    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1401   -1.3501    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4443   -1.3201    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6203   -1.9861    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4443    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3362    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+6053
+
+> <Formula>
+C11H11Cl2NO2
+
+> <FW>
+260.1165
+
+> <DSSTox_CID>
+9572
+
+> <DSSTox_RID>
+78778
+
+> <DSSTox_GSID>
+29572
+
+> <DSSTox_FileID_Sort>
+3460
+
+> <TS_ChemName>
+Benoxacor
+
+> <TS_ChemName_Synonyms>
+Benoxacor (2H-1,4-Benzoxazine, 4-(dichloroacetyl)-3,4-dihydro-3-methyl-)
+
+> <TS_CASRN>
+98730-04-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H11Cl2NO2
+
+> <STRUCTURE_MW>
+260.1165
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2-dichloro-1-(3-methyl-2,3-dihydro-4H-1,4-benzoxazin-4-yl)ethanone
+
+> <STRUCTURE_SMILES>
+ClC(Cl)C(=O)N1c2ccccc2OCC1C
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)C(=O)N1c2ccccc2OCC1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

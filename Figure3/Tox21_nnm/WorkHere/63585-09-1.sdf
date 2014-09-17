@@ -1,0 +1,88 @@
+63585-09-1
+ChemmineR-0915142007XD
+
+ 10  6  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -1.7279    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0568    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3991    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    1.5084    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.6617   -0.6624    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8110    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6617   -1.9953    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9906   -1.9953    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.6617   -3.3242    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.3289   -1.9953    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <ID>
+2767
+
+> <Formula>
+CNa3O5P
+
+> <FW>
+191.9508 (22.9892+22.9892+22.9892+122.9831)
+
+> <DSSTox_CID>
+3078
+
+> <DSSTox_RID>
+76865
+
+> <DSSTox_GSID>
+23078
+
+> <DSSTox_FileID_Sort>
+1549
+
+> <TS_ChemName>
+Foscarnet trisodium
+
+> <TS_ChemName_Synonyms>
+Foscarnet trisodium (Foscarnet)
+
+> <TS_CASRN>
+63585-09-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CNa3O5P
+
+> <STRUCTURE_MW>
+191.9508
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+trisodium dioxidophosphanecarboxylate oxide
+
+> <STRUCTURE_SMILES>
+[Na+].[Na+].[Na+].[O-]C(=O)P([O-])([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)P(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

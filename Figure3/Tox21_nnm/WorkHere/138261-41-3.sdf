@@ -1,0 +1,107 @@
+138261-41-3
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  2 V2000
+    7.1941   -2.2669    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7537   -0.6612    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8954   -1.9914    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8711   -1.1098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9738   -0.1338    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9037   -2.8729    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6046    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062   -2.6683    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1570   -1.9914    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4475   -1.9914    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4475   -0.6612    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1570   -0.6612    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6683    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1792   -4.1874    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    6.4464   -4.5888    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    4.2031   -5.0690    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <ID>
+6463
+
+> <Formula>
+C9H10ClN5O2
+
+> <FW>
+255.661
+
+> <DSSTox_CID>
+12442
+
+> <DSSTox_RID>
+78948
+
+> <DSSTox_GSID>
+32442
+
+> <DSSTox_FileID_Sort>
+3630
+
+> <TS_ChemName>
+Imidacloprid
+
+> <TS_ChemName_Synonyms>
+Imidacloprid (NTN)
+
+> <TS_CASRN>
+138261-41-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers; alternate CASRN [105827-78-9]; stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10ClN5O2
+
+> <STRUCTURE_MW>
+255.661
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-1-[(6-chloropyridin-3-yl)methyl]-N-nitroimidazolidin-2-imine
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)/N=C2\NCCN2Cc1cnc(Cl)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)/N=C2\NCCN2Cc1cnc(Cl)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

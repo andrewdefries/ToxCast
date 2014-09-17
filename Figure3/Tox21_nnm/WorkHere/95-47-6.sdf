@@ -1,0 +1,88 @@
+95-47-6
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1550   -3.9828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -3.3256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -1.9715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1550   -1.3342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1550    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4451   -1.3143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+1705
+
+> <Formula>
+C8H10
+
+> <FW>
+106.165
+
+> <DSSTox_CID>
+1807
+
+> <DSSTox_RID>
+76340
+
+> <DSSTox_GSID>
+21807
+
+> <DSSTox_FileID_Sort>
+1024
+
+> <TS_ChemName>
+1,2-Dimethylbenzene
+
+> <TS_ChemName_Synonyms>
+o-Xylene
+
+> <TS_CASRN>
+95-47-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10
+
+> <STRUCTURE_MW>
+106.165
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-dimethylbenzene
+
+> <STRUCTURE_SMILES>
+Cc1ccccc1C
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccccc1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

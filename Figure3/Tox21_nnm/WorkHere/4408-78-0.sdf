@@ -1,0 +1,87 @@
+4408-78-0
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    3.4674   -1.3308    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3116   -1.9893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1558   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9893    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1558    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1213   -2.4866    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7905   -0.1750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6048   -0.6585    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+M  END
+> <ID>
+10743
+
+> <Formula>
+C2H5O5P
+
+> <FW>
+140.0319
+
+> <DSSTox_CID>
+25107
+
+> <DSSTox_RID>
+80674
+
+> <DSSTox_GSID>
+45107
+
+> <DSSTox_FileID_Sort>
+5356
+
+> <TS_ChemName>
+Phosphonoacetic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4408-78-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H5O5P
+
+> <STRUCTURE_MW>
+140.0319
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+phosphonoacetic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CP(=O)(O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CP(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

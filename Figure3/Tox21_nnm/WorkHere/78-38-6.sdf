@@ -1,0 +1,91 @@
+78-38-6
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.1483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3295   -3.1483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -1.9943    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3238   -1.9943    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3238   -3.3238    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6533   -1.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3180   -3.1483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3238   -0.6648    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1751    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0211   -0.6648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+3990
+
+> <Formula>
+C6H15O3P
+
+> <FW>
+166.1553
+
+> <DSSTox_CID>
+5051
+
+> <DSSTox_RID>
+77642
+
+> <DSSTox_GSID>
+25051
+
+> <DSSTox_FileID_Sort>
+2325
+
+> <TS_ChemName>
+Diethyl ethylphosphonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+78-38-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H15O3P
+
+> <STRUCTURE_MW>
+166.1553
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diethyl ethylphosphonate
+
+> <STRUCTURE_SMILES>
+O=P(CC)(OCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=P(CC)(OCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

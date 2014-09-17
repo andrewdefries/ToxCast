@@ -1,0 +1,85 @@
+1315-04-4
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    4.6073   -1.9950    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -1.3315    0.0000 Sb   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555    0.0000    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -1.9950    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.3315    0.0000 Sb   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9950    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518    0.0000    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <ID>
+11807
+
+> <Formula>
+S5Sb2
+
+> <FW>
+403.845
+
+> <DSSTox_CID>
+26583
+
+> <DSSTox_RID>
+81741
+
+> <DSSTox_GSID>
+46583
+
+> <DSSTox_FileID_Sort>
+6422
+
+> <TS_ChemName>
+Antimony(V) sulfide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1315-04-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+S5Sb2
+
+> <STRUCTURE_MW>
+403.845
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+1,3-dithioxodistibathiane 1,3-disulfide
+
+> <STRUCTURE_SMILES>
+S=[Sb](=S)S[Sb](=S)=S
+
+> <STRUCTURE_SMILES_Desalt>
+S=[Sb](=S)S[Sb](=S)=S
+
+> <Substance_modify_yyyymmdd>
+20110810
+
+$$$$

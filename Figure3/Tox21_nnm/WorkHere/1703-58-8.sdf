@@ -1,0 +1,103 @@
+1703-58-8
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    5.9836   -1.1489    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3194   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9836   -3.4526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9911   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -3.4526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9911   -4.6074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3194   -4.6074    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -5.7562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -3.4526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3284   -4.6074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -5.7562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6074    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -1.1489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -1.1489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3284    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3284   -2.3037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <ID>
+3803
+
+> <Formula>
+C8H10O8
+
+> <FW>
+234.1602
+
+> <DSSTox_CID>
+4670
+
+> <DSSTox_RID>
+77494
+
+> <DSSTox_GSID>
+24670
+
+> <DSSTox_FileID_Sort>
+2177
+
+> <TS_ChemName>
+1,2,3,4-Butanetetracarboxylic acid
+
+> <TS_ChemName_Synonyms>
+1,2,3,4-Butanetetracarboxylic acid (BTCA)
+
+> <TS_CASRN>
+1703-58-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10O8
+
+> <STRUCTURE_MW>
+234.1602
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butane-1,2,3,4-tetracarboxylic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)CC(C(CC(=O)O)C(=O)O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)CC(C(CC(=O)O)C(=O)O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

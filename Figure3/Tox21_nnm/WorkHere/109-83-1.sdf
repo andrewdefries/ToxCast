@@ -1,0 +1,81 @@
+109-83-1
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    2.3050   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+4293
+
+> <Formula>
+C3H9NO
+
+> <FW>
+75.1097
+
+> <DSSTox_CID>
+5603
+
+> <DSSTox_RID>
+77849
+
+> <DSSTox_GSID>
+25603
+
+> <DSSTox_FileID_Sort>
+2532
+
+> <TS_ChemName>
+N-Methylethanolamine
+
+> <TS_ChemName_Synonyms>
+2-(Methylamino)ethanol (N-Methylethanolamine)
+
+> <TS_CASRN>
+109-83-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H9NO
+
+> <STRUCTURE_MW>
+75.1097
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(methylamino)ethanol
+
+> <STRUCTURE_SMILES>
+CNCCO
+
+> <STRUCTURE_SMILES_Desalt>
+CNCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

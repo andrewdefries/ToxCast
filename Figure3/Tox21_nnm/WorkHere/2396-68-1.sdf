@@ -1,0 +1,94 @@
+2396-68-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.9860   -2.4510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3144   -2.4510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9853   -1.3284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3144   -0.1594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9860   -0.1594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3284   -1.3284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3284    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3137   -1.3284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3137   -2.6901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6422   -1.3284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3137    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+13258
+
+> <Formula>
+C10H14S
+
+> <FW>
+166.2832
+
+> <DSSTox_CID>
+28171
+
+> <DSSTox_RID>
+82732
+
+> <DSSTox_GSID>
+48196
+
+> <DSSTox_FileID_Sort>
+7409
+
+> <TS_ChemName>
+4-tert-Butylbenzenethiol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2396-68-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14S
+
+> <STRUCTURE_MW>
+166.2832
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-tert-butylbenzenethiol
+
+> <STRUCTURE_SMILES>
+CC(C)(C)c1ccc(S)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c1ccc(S)cc1
+
+> <Substance_modify_yyyymmdd>
+20110831
+
+$$$$

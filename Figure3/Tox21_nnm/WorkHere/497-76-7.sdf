@@ -1,0 +1,111 @@
+497-76-7
+ChemmineR-0915142007XD
+
+ 19 20  0  0  1  0  0  0  0  0  1 V2000
+    4.6184   -5.9872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184   -7.3187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4452   -7.9798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4452   -5.3168    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2999   -7.3187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2999   -5.9872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7637   -5.3168    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7637   -7.9798    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4452   -9.3114    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7637   -3.9946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1453   -7.9798    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7637   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1453   -5.3168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184   -3.3242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9090   -3.3242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9090   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7637    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9872    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  6  0  0  0
+  3  9  1  1  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  6  0  0  0
+  6 13  1  1  0  0  0
+  7 10  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <ID>
+7594
+
+> <Formula>
+C12H16O7
+
+> <FW>
+272.2512
+
+> <DSSTox_CID>
+20152
+
+> <DSSTox_RID>
+79450
+
+> <DSSTox_GSID>
+40152
+
+> <DSSTox_FileID_Sort>
+4132
+
+> <TS_ChemName>
+Arbutin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+497-76-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H16O7
+
+> <STRUCTURE_MW>
+272.2512
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-hydroxyphenyl beta-D-glucopyranoside
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1)O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1)O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

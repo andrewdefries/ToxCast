@@ -1,0 +1,100 @@
+330-54-1
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6606    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -1.9972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553   -1.9972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -2.6606    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6093   -2.6606    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7565   -1.9972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9106   -2.6606    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7565   -0.6634    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9106    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6093    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+430
+
+> <Formula>
+C9H10Cl2N2O
+
+> <FW>
+233.0945
+
+> <DSSTox_CID>
+446
+
+> <DSSTox_RID>
+75595
+
+> <DSSTox_GSID>
+20446
+
+> <DSSTox_FileID_Sort>
+279
+
+> <TS_ChemName>
+Diuron
+
+> <TS_ChemName_Synonyms>
+Diuron (Urea, N'-(3,4-dichlorophenyl)-N,N-dimethyl-) (3-(3,4-Dichlorophenyl)-1,1-dimethylurea)
+
+> <TS_CASRN>
+330-54-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10Cl2N2O
+
+> <STRUCTURE_MW>
+233.0945
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(3,4-dichlorophenyl)-1,1-dimethylurea
+
+> <STRUCTURE_SMILES>
+Clc1ccc(NC(=O)N(C)C)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(NC(=O)N(C)C)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

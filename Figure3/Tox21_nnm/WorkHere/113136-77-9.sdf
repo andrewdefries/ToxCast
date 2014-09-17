@@ -1,0 +1,107 @@
+113136-77-9
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    6.1257   -3.0722    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1445   -1.9108    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2029   -1.1615    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5097   -0.0094    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8492    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1864   -1.7515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.2051   -3.0441    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3665   -1.1708    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -1.1708    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4844   -1.8358    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656   -3.1753    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042   -3.8309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1615   -3.1565    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1615   -1.8171    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3229   -1.1615    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.8309    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6271   -3.8496    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+6536
+
+> <Formula>
+C11H9Cl2NO3
+
+> <FW>
+274.1001
+
+> <DSSTox_CID>
+12600
+
+> <DSSTox_RID>
+78999
+
+> <DSSTox_GSID>
+32600
+
+> <DSSTox_FileID_Sort>
+3681
+
+> <TS_ChemName>
+Cyclanilide
+
+> <TS_ChemName_Synonyms>
+Cyclanilide (Cyclopropanecarboxylic acid, 1-(((2,4-dichlorophenyl)amino)carbonyl)-)
+
+> <TS_CASRN>
+113136-77-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H9Cl2NO3
+
+> <STRUCTURE_MW>
+274.1001
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-[(2,4-dichlorophenyl)carbamoyl]cyclopropanecarboxylic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)C1(CC1)C(=O)Nc2ccc(Cl)cc2Cl
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)C1(CC1)C(=O)Nc2ccc(Cl)cc2Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

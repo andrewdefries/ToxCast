@@ -1,0 +1,107 @@
+125-84-8
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    2.3037   -3.4773    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1475   -2.8166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4773    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1475   -1.4865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -0.8172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4512   -1.4865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7639   -1.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6159   -0.6955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9285   -0.9215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3806   -2.1733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6933   -2.4080    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5286   -3.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2160   -2.9644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9120   -0.2347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2160    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4512   -2.8166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6074   -3.4773    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+2345
+
+> <Formula>
+C13H16N2O2
+
+> <FW>
+232.2783
+
+> <DSSTox_CID>
+2589
+
+> <DSSTox_RID>
+76647
+
+> <DSSTox_GSID>
+22589
+
+> <DSSTox_FileID_Sort>
+1331
+
+> <TS_ChemName>
+Aminoglutethimide
+
+> <TS_ChemName_Synonyms>
+dl-Aminoglutethimide
+
+> <TS_CASRN>
+125-84-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H16N2O2
+
+> <STRUCTURE_MW>
+232.2783
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(4-aminophenyl)-3-ethylpiperidine-2,6-dione
+
+> <STRUCTURE_SMILES>
+CCC1(CCC(=O)NC1=O)c2ccc(N)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+CCC1(CCC(=O)NC1=O)c2ccc(N)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,106 @@
+89-02-1
+ChemmineR-0915142007XD
+
+ 18 16  0  0  0  0  0  0  0  0  2 V2000
+    7.1556   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4851   -3.4573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1462   -3.4573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4862   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4862   -4.6098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1556   -4.6098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1462   -1.1524    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    9.1462   -5.7622    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   10.4768   -1.1524    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    8.4862    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4862   -6.9147    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   10.4768   -5.7622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3327   -5.1022    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6376   -6.4327    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8251   -6.9147    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4851   -5.7622    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6716   -3.4573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+14235
+
+> <Formula>
+C6H8N2O9S
+
+> <FW>
+284.2007 (248.1702+18.0153+18.0153)
+
+> <DSSTox_CID>
+29330
+
+> <DSSTox_RID>
+83446
+
+> <DSSTox_GSID>
+49371
+
+> <DSSTox_FileID_Sort>
+8121
+
+> <TS_ChemName>
+2,4-dinitro Benzenesulfonic acid dihydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+89-02-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8N2O9S
+
+> <STRUCTURE_MW>
+284.2007
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2,4-dinitrobenzenesulfonic acid dihydrate
+
+> <STRUCTURE_SMILES>
+O.O.OS(=O)(=O)c1ccc(cc1[N+]([O-])=O)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+OS(=O)(=O)c1ccc(cc1[N+]([O-])=O)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

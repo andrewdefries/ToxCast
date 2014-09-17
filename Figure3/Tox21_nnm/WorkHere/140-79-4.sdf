@@ -1,0 +1,92 @@
+140-79-4
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9961   -1.1511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6614    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9921    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6575   -1.1511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9882   -1.1511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6535   -2.3021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9921   -2.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6614   -2.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+509
+
+> <Formula>
+C4H8N4O2
+
+> <FW>
+144.1319
+
+> <DSSTox_CID>
+527
+
+> <DSSTox_RID>
+75641
+
+> <DSSTox_GSID>
+20527
+
+> <DSSTox_FileID_Sort>
+325
+
+> <TS_ChemName>
+Dinitrosopiperazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+140-79-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8N4O2
+
+> <STRUCTURE_MW>
+144.1319
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-dinitrosopiperazine
+
+> <STRUCTURE_SMILES>
+O=NN1CCN(N=O)CC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=NN1CCN(N=O)CC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

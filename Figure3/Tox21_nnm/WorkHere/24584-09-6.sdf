@@ -1,0 +1,111 @@
+24584-09-6
+ChemmineR-0915142007XD
+
+ 19 20  0  0  1  0  0  0  0  0  1 V2000
+    1.1625   -2.0137    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1625   -3.3319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3147   -3.9962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4565   -3.3319    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4565   -2.0137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3147   -1.3494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3147    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086   -3.9962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7711   -3.3319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9233   -3.9962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0651   -3.3319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2276   -3.9962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2276   -5.3352    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0651   -5.9995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9233   -5.3352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0651   -7.3281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3797   -3.3319    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7711   -2.0137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 19  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <ID>
+7850
+
+> <Formula>
+C11H16N4O4
+
+> <FW>
+268.2691
+
+> <DSSTox_CID>
+20647
+
+> <DSSTox_RID>
+79520
+
+> <DSSTox_GSID>
+40647
+
+> <DSSTox_FileID_Sort>
+4202
+
+> <TS_ChemName>
+Dexrazone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+24584-09-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H16N4O4
+
+> <STRUCTURE_MW>
+268.2691
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-(2S)-propane-1,2-diyldipiperazine-2,6-dione
+
+> <STRUCTURE_SMILES>
+O=C2CN(C[C@H](C)N1CC(=O)NC(=O)C1)CC(=O)N2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2CN(C[C@H](C)N1CC(=O)NC(=O)C1)CC(=O)N2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

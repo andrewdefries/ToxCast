@@ -1,0 +1,85 @@
+6728-26-3
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.1716   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3294    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4664   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6242    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7750   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9328    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+8391
+
+> <Formula>
+C6H10O
+
+> <FW>
+98.143
+
+> <DSSTox_CID>
+21425
+
+> <DSSTox_RID>
+79729
+
+> <DSSTox_GSID>
+41425
+
+> <DSSTox_FileID_Sort>
+4411
+
+> <TS_ChemName>
+(2E)-2-Hexenal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6728-26-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10O
+
+> <STRUCTURE_MW>
+98.143
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-hex-2-enal
+
+> <STRUCTURE_SMILES>
+CCC\C=C\C=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCC\C=C\C=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,97 @@
+5870-93-9
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1554   -1.9934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3108   -1.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4662   -1.9934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6215   -1.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7769   -1.9934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9196   -1.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0750   -1.9934    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2304   -1.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3858   -1.9934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5412   -1.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6965   -1.9934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2304    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+8971
+
+> <Formula>
+C11H22O2
+
+> <FW>
+186.2912
+
+> <DSSTox_CID>
+22038
+
+> <DSSTox_RID>
+79905
+
+> <DSSTox_GSID>
+42038
+
+> <DSSTox_FileID_Sort>
+4587
+
+> <TS_ChemName>
+Heptyl butanoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5870-93-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H22O2
+
+> <STRUCTURE_MW>
+186.2912
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+heptyl butanoate
+
+> <STRUCTURE_SMILES>
+CCCCCCCOC(=O)CCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCOC(=O)CCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

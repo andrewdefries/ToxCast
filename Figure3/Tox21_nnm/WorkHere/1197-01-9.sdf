@@ -1,0 +1,94 @@
+1197-01-9
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9913   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261   -2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6521   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217   -2.6609    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+3902
+
+> <Formula>
+C10H14O
+
+> <FW>
+150.2176
+
+> <DSSTox_CID>
+4890
+
+> <DSSTox_RID>
+77570
+
+> <DSSTox_GSID>
+24890
+
+> <DSSTox_FileID_Sort>
+2253
+
+> <TS_ChemName>
+p-Cymen-8-ol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1197-01-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14O
+
+> <STRUCTURE_MW>
+150.2176
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(4-methylphenyl)propan-2-ol
+
+> <STRUCTURE_SMILES>
+Cc1ccc(cc1)C(O)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)C(O)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

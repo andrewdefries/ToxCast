@@ -1,0 +1,94 @@
+2973-80-0
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    5.6090   -2.0473    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1667   -3.3766    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3333   -4.0553    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3333   -1.3630    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6498   -1.3630    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5000   -2.0305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1667   -2.0305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5000   -3.3766    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6498   -4.0553    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6498    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3630    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  8  2  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+14128
+
+> <Formula>
+C7H5BrO2
+
+> <FW>
+201.0174
+
+> <DSSTox_CID>
+29121
+
+> <DSSTox_RID>
+83340
+
+> <DSSTox_GSID>
+49265
+
+> <DSSTox_FileID_Sort>
+8015
+
+> <TS_ChemName>
+Benzaldehyde,2-bromo-5-hydroxy-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2973-80-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H5BrO2
+
+> <STRUCTURE_MW>
+201.0174
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-bromo-5-hydroxybenzaldehyde
+
+> <STRUCTURE_SMILES>
+O=Cc1cc(O)ccc1Br
+
+> <STRUCTURE_SMILES_Desalt>
+O=Cc1cc(O)ccc1Br
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

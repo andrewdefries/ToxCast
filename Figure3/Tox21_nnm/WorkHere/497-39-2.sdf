@@ -1,0 +1,104 @@
+497-39-2
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    4.5891   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4635   -1.3321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5891   -3.3236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4635    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2979   -3.3236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2979   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4635   -3.9963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7613   -3.9963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4635   -5.3284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1047   -5.3284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4635   -6.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7689   -5.3284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1389   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7983   -0.1599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4995   -2.4844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3  8  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+M  END
+> <ID>
+8468
+
+> <Formula>
+C15H24O
+
+> <FW>
+220.3505
+
+> <DSSTox_CID>
+21502
+
+> <DSSTox_RID>
+79753
+
+> <DSSTox_GSID>
+41502
+
+> <DSSTox_FileID_Sort>
+4435
+
+> <TS_ChemName>
+4,6-Di-tert-butyl-m-cresol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+497-39-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H24O
+
+> <STRUCTURE_MW>
+220.3505
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-di-tert-butyl-5-methylphenol
+
+> <STRUCTURE_SMILES>
+CC(C)(C)c1cc(c(C)cc1O)C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c1cc(c(C)cc1O)C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,88 @@
+137-06-4
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    2.2705   -0.7097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1439    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.7097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1439   -2.7218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2705   -2.0121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4454   -0.0655    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4454   -2.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+12285
+
+> <Formula>
+C7H8S
+
+> <FW>
+124.2034
+
+> <DSSTox_CID>
+27135
+
+> <DSSTox_RID>
+82142
+
+> <DSSTox_GSID>
+47135
+
+> <DSSTox_FileID_Sort>
+6823
+
+> <TS_ChemName>
+2-Methylbenzenethiol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+137-06-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H8S
+
+> <STRUCTURE_MW>
+124.2034
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylbenzenethiol
+
+> <STRUCTURE_SMILES>
+Cc1ccccc1S
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccccc1S
+
+> <Substance_modify_yyyymmdd>
+20100502
+
+$$$$

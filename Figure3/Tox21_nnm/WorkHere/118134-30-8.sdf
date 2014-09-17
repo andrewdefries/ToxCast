@@ -1,0 +1,115 @@
+118134-30-8
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  1 V2000
+    9.5118   -0.8143    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2609   -0.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9242   -0.6963    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1988   -1.1093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1988   -2.4547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9242   -2.8559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3578   -1.7820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6851   -2.9385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3398   -2.9385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6789   -1.7820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3398   -0.6137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6851   -0.6137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3453   -1.7820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3453   -0.4366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3453   -3.1155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.7820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5739    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8012   -0.5193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6652   -2.1478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9161   -2.6671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0696   -3.9888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 17  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <ID>
+6683
+
+> <Formula>
+C18H35NO2
+
+> <FW>
+297.476
+
+> <DSSTox_CID>
+14212
+
+> <DSSTox_RID>
+79124
+
+> <DSSTox_GSID>
+34212
+
+> <DSSTox_FileID_Sort>
+3806
+
+> <TS_ChemName>
+Spiroxamine
+
+> <TS_ChemName_Synonyms>
+Spiroxamine (1,4-Dioxaspiro[4.5]decane-2-methanamine, 8-(1,1-dimethylethyl)-N-ethyl-N-propyl-)
+
+> <TS_CASRN>
+118134-30-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H35NO2
+
+> <STRUCTURE_MW>
+297.476
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-[(8-tert-butyl-1,4-dioxaspiro[4.5]dec-2-yl)methyl]-N-ethylpropan-1-amine
+
+> <STRUCTURE_SMILES>
+CC(C)(C)C1CCC2(CC1)OCC(CN(CC)CCC)O2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)C1CCC2(CC1)OCC(CN(CC)CCC)O2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

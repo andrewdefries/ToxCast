@@ -1,0 +1,114 @@
+81-14-1
+ChemmineR-0915142007XD
+
+ 21 21  0  0  0  0  0  0  0  0  2 V2000
+    7.3158   -2.3045    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6500   -3.4604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186   -3.4604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6528   -4.6089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3287   -4.6089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6629   -5.7648    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.3315   -5.7648    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3287   -6.9134    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.6629   -3.4604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3287   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6629   -1.1559    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.3287    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.3315   -1.1559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -3.4604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -4.7845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -2.1289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186   -5.7648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6528   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186   -1.1559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3158   -4.6089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 19  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+4350
+
+> <Formula>
+C14H18N2O5
+
+> <FW>
+294.3031
+
+> <DSSTox_CID>
+5690
+
+> <DSSTox_RID>
+77882
+
+> <DSSTox_GSID>
+25690
+
+> <DSSTox_FileID_Sort>
+2565
+
+> <TS_ChemName>
+Musk ketone
+
+> <TS_ChemName_Synonyms>
+Musk ketone (1-(4-(1,1-Dimethylethyl)-2,6-dimethyl-3,5-dinitrophenyl)ethanone) (2-Acetyl-5-tert-butyl-4,6-dinitroxylene)
+
+> <TS_CASRN>
+81-14-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H18N2O5
+
+> <STRUCTURE_MW>
+294.3031
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(4-tert-butyl-2,6-dimethyl-3,5-dinitrophenyl)ethanone
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1c(C)c(c(C)c(c1C(C)(C)C)[N+]([O-])=O)C(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1c(C)c(c(C)c(c1C(C)(C)C)[N+]([O-])=O)C(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

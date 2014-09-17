@@ -1,0 +1,91 @@
+25360-10-5
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    1.1517   -1.1517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3034   -1.8202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552   -1.1517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5988   -1.8202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7506   -1.1517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9023   -1.8202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0540   -1.1517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4993   -2.3034    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8202    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+5459
+
+> <Formula>
+C9H20S
+
+> <FW>
+160.3201
+
+> <DSSTox_CID>
+7868
+
+> <DSSTox_RID>
+78596
+
+> <DSSTox_GSID>
+27868
+
+> <DSSTox_FileID_Sort>
+3279
+
+> <TS_ChemName>
+tert-Nonanethiol
+
+> <TS_ChemName_Synonyms>
+tert-Nonyl mercaptan (7CI,8CI)
+
+> <TS_CASRN>
+25360-10-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C9H20S
+
+> <STRUCTURE_MW>
+160.3201
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyloctane-2-thiol
+
+> <STRUCTURE_SMILES>
+CC(C)(S)CCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(S)CCCCCC
+
+> <Substance_modify_yyyymmdd>
+20131118
+
+$$$$

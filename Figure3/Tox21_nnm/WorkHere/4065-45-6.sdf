@@ -1,0 +1,115 @@
+4065-45-6
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  1 V2000
+    8.0392   -1.3047    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8908   -1.9937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5938   -1.9937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7239   -1.3230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4638   -1.3230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8908   -3.3168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5938   -3.3168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7239   -3.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3502   -0.1746    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7099   -2.4715    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4638    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1877   -0.6340    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2969   -2.0121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4270   -3.9875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0392   -3.9875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2969   -3.3351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1485   -1.3230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1877   -3.3351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1485   -3.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  2  0  0  0  0
+  1 10  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  5 11  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 14  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 20  2  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <ID>
+9348
+
+> <Formula>
+C14H12O6S
+
+> <FW>
+308.3065
+
+> <DSSTox_CID>
+22436
+
+> <DSSTox_RID>
+80023
+
+> <DSSTox_GSID>
+42436
+
+> <DSSTox_FileID_Sort>
+4705
+
+> <TS_ChemName>
+Sulisobenzone
+
+> <TS_ChemName_Synonyms>
+2-Hydroxy-4-methoxybenzophenone-5-sulfonic acid; Benzenesulfonic acid, 5-benzoyl-4-hydroxy-2-methoxy-; 2-Hydroxy-4-methoxy-5-sulfobenzophenone; Benzophenone 4
+
+> <TS_CASRN>
+4065-45-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H12O6S
+
+> <STRUCTURE_MW>
+308.3065
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-benzoyl-4-hydroxy-2-methoxybenzenesulfonic acid
+
+> <STRUCTURE_SMILES>
+OS(=O)(=O)c1cc(c(O)cc1OC)C(=O)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+OS(=O)(=O)c1cc(c(O)cc1OC)C(=O)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20131017
+
+$$$$

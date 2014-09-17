@@ -1,0 +1,87 @@
+139-02-6
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  2 V2000
+    4.2956   -0.0172    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    1.9932   -1.1727    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7019   -2.3153    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9932   -3.4580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6916   -3.4580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3153    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6916   -1.1727    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6547    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+4916
+
+> <Formula>
+C6H5NaO
+
+> <FW>
+116.0931 (22.9892+93.1038)
+
+> <DSSTox_CID>
+7072
+
+> <DSSTox_RID>
+78300
+
+> <DSSTox_GSID>
+27072
+
+> <DSSTox_FileID_Sort>
+2983
+
+> <TS_ChemName>
+Sodium phenolate
+
+> <TS_ChemName_Synonyms>
+Sodium phenolate (Phenol, sodium salt) (Sodium phenate)
+
+> <TS_CASRN>
+139-02-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [108-95-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H5NaO
+
+> <STRUCTURE_MW>
+116.0931
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium phenolate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

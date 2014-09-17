@@ -1,0 +1,115 @@
+64808-48-6
+ChemmineR-0915142007XD
+
+ 22 21  0  0  0  0  0  0  0  0  2 V2000
+    5.7728   -2.9524    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6335   -3.6262    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -2.9524    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4665   -2.9524    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2925   -3.6262    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7728   -1.6186    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -1.6186    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6335   -4.9600    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9329   -3.6262    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6683   -0.9448    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2925   -0.9448    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7728   -5.6339    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9329   -4.9600    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8982   -0.9170    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0347   -0.9170    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    5.7728   -6.9468    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.6262    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2925   -4.9600    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.9600    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -5.6339    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2018   -0.1945    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    5.9187    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 17  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6 10  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <ID>
+13604
+
+> <Formula>
+C14H8ClNNa2O4
+
+> <FW>
+335.6502 (289.6717+22.9892+22.9892)
+
+> <DSSTox_CID>
+28532
+
+> <DSSTox_RID>
+82804
+
+> <DSSTox_GSID>
+48606
+
+> <DSSTox_FileID_Sort>
+7481
+
+> <TS_ChemName>
+Lobenzarit sodium
+
+> <TS_ChemName_Synonyms>
+LOBENZARIT DISODIUM
+
+> <TS_CASRN>
+64808-48-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [63329-53-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H8ClNNa2O4
+
+> <STRUCTURE_MW>
+335.6502
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+disodium 2-[(2-carboxylatophenyl)amino]-4-chlorobenzoate
+
+> <STRUCTURE_SMILES>
+[Na+].[Na+].O=C([O-])c2ccc(Cl)cc2Nc1ccccc1C([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c2ccc(Cl)cc2Nc1ccccc1C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20111014
+
+$$$$

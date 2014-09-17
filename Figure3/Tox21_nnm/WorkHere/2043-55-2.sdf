@@ -1,0 +1,103 @@
+2043-55-2
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    1.1703   -1.3491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3325   -1.9912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4703   -1.3491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6244   -1.9912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7947   -1.3491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9569   -1.9912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9912    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1703    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1703   -2.6657    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3325   -3.3403    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3325   -0.6746    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4703    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4703   -2.6657    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6244   -3.3403    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6244   -0.6746    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1272   -1.3491    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 16  1  0  0  0  0
+M  END
+> <ID>
+12700
+
+> <Formula>
+C6H4F9I
+
+> <FW>
+373.9861
+
+> <DSSTox_CID>
+27578
+
+> <DSSTox_RID>
+82429
+
+> <DSSTox_GSID>
+47578
+
+> <DSSTox_FileID_Sort>
+7110
+
+> <TS_ChemName>
+1,1,1,2,2,3,3,4,4-Nonafluoro-6-iodohexane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2043-55-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4F9I
+
+> <STRUCTURE_MW>
+373.9861
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1,1,2,2,3,3,4,4-nonafluoro-6-iodohexane
+
+> <STRUCTURE_SMILES>
+FC(F)(C(F)(F)CCI)C(F)(F)C(F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)(C(F)(F)CCI)C(F)(F)C(F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20100930
+
+$$$$

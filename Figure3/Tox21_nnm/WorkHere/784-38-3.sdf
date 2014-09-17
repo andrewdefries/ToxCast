@@ -1,0 +1,107 @@
+784-38-3
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    2.6591   -5.7570    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9944   -4.6070    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6591   -3.4569    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9944   -2.3002    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6648   -2.3002    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1501    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4569    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6648   -4.6070    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887   -3.4569    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6535   -4.6070    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6535   -2.3002    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9831   -2.3002    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6479   -3.4569    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6479   -1.1501    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9831    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6535    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887   -1.1501    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+16230
+
+> <Formula>
+C13H9ClFNO
+
+> <FW>
+249.6681
+
+> <DSSTox_CID>
+31621
+
+> <DSSTox_RID>
+97505
+
+> <DSSTox_GSID>
+57832
+
+> <DSSTox_FileID_Sort>
+8572
+
+> <TS_ChemName>
+2-Amino-5-chloro-2'-fluorobenzophenone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+784-38-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H9ClFNO
+
+> <STRUCTURE_MW>
+249.6681
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2-amino-5-chlorophenyl)(2-fluorophenyl)methanone
+
+> <STRUCTURE_SMILES>
+Nc2ccc(Cl)cc2C(=O)c1ccccc1F
+
+> <STRUCTURE_SMILES_Desalt>
+Nc2ccc(Cl)cc2C(=O)c1ccccc1F
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

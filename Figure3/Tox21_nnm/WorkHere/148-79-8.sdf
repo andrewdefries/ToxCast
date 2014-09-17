@@ -1,0 +1,102 @@
+148-79-8
+ChemmineR-0915142007XD
+
+ 14 16  0  0  0  0  0  0  0  0  1 V2000
+    4.1589   -0.2551    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3781   -1.3296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1589   -2.4041    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4266   -1.9944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4266   -0.6648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5784    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7302   -0.6648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7302   -1.9944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5784   -2.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0485   -1.3296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2678   -2.4041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9944    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2678   -0.2551    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+1284
+
+> <Formula>
+C10H7N3S
+
+> <FW>
+201.2477
+
+> <DSSTox_CID>
+1337
+
+> <DSSTox_RID>
+76091
+
+> <DSSTox_GSID>
+21337
+
+> <DSSTox_FileID_Sort>
+775
+
+> <TS_ChemName>
+Thiabendazole
+
+> <TS_ChemName_Synonyms>
+Thiabendazole (TB)
+
+> <TS_CASRN>
+148-79-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H7N3S
+
+> <STRUCTURE_MW>
+201.2477
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(1,3-thiazol-4-yl)-1H-benzimidazole
+
+> <STRUCTURE_SMILES>
+n1c3ccccc3nc1c2cscn2
+
+> <STRUCTURE_SMILES_Desalt>
+n1c3ccccc3nc1c2cscn2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

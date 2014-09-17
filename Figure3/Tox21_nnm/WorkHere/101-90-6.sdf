@@ -1,0 +1,106 @@
+101-90-6
+ChemmineR-0915142007XD
+
+ 16 18  0  0  0  0  0  0  0  0  1 V2000
+    5.9373   -2.6599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7855   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7855   -0.6650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9373    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0892   -0.6650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0892   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2410   -2.6599    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3928   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5447   -2.6599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8746   -2.6599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2097   -3.8118    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6336   -2.6599    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4818   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -2.6599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -3.8118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6599    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+454
+
+> <Formula>
+C12H14O4
+
+> <FW>
+222.2372
+
+> <DSSTox_CID>
+470
+
+> <DSSTox_RID>
+75612
+
+> <DSSTox_GSID>
+20470
+
+> <DSSTox_FileID_Sort>
+296
+
+> <TS_ChemName>
+Diglycidyl resorcinol ether
+
+> <TS_ChemName_Synonyms>
+Diglycidyl resorcinol ether (DGRE)
+
+> <TS_CASRN>
+101-90-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H14O4
+
+> <STRUCTURE_MW>
+222.2372
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-[benzene-1,3-diylbis(oxymethanediyl)]dioxirane
+
+> <STRUCTURE_SMILES>
+c1ccc(cc1OCC2CO2)OCC3CO3
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccc(cc1OCC2CO2)OCC3CO3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

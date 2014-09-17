@@ -1,0 +1,103 @@
+693-23-2
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    1.1413   -1.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2679   -1.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3944   -1.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5358   -1.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7216   -1.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8629   -1.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0043   -1.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1456   -1.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2870   -1.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4283   -1.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5548   -1.2896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6814   -1.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1413    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9862    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6814   -3.2758    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8227   -1.2896    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 14  1  0  0  0  0
+  1 13  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 15  2  0  0  0  0
+M  END
+> <ID>
+5059
+
+> <Formula>
+C12H22O4
+
+> <FW>
+230.3007
+
+> <DSSTox_CID>
+7297
+
+> <DSSTox_RID>
+78394
+
+> <DSSTox_GSID>
+27297
+
+> <DSSTox_FileID_Sort>
+3077
+
+> <TS_ChemName>
+Dodecanedioic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+693-23-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H22O4
+
+> <STRUCTURE_MW>
+230.3007
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dodecanedioic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCCCCCCCCCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCCCCCCCCCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,91 @@
+26675-46-7
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    0.4898   -2.3048    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524   -1.1524    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3048   -1.8150    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4571   -1.1524    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6095   -1.8150    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6095   -3.1460    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7619   -1.1524    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3048   -3.1460    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4840    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8150    0.0000    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+722
+
+> <Formula>
+C3H2ClF5O
+
+> <FW>
+184.4924
+
+> <DSSTox_CID>
+752
+
+> <DSSTox_RID>
+75769
+
+> <DSSTox_GSID>
+20752
+
+> <DSSTox_FileID_Sort>
+453
+
+> <TS_ChemName>
+Isoflurane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+26675-46-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H2ClF5O
+
+> <STRUCTURE_MW>
+184.4924
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-2-(difluoromethoxy)-1,1,1-trifluoroethane
+
+> <STRUCTURE_SMILES>
+FC(F)(F)C(Cl)OC(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)(F)C(Cl)OC(F)F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

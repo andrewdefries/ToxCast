@@ -1,0 +1,112 @@
+52126-51-9
+ChemmineR-0915142007XD
+
+ 20 20  0  0  0  0  0  0  0  0  2 V2000
+    4.3749   -3.4171    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1671   -2.3411    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1097   -1.6672    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3749   -1.2652    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1097   -2.9915    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0337   -3.7837    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1874   -5.0961    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8159   -3.2398    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    4.8005    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.4896   -3.4762    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1636   -2.3411    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.4896   -1.1824    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1535   -1.1824    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5032   -2.3411    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1535   -3.4762    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.4878   -2.3411    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+   10.4878   -1.0050    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   10.4878   -3.6536    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   11.8239   -2.3411    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.7854    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 19  1  0  0  0  0
+M  END
+> <ID>
+10336
+
+> <Formula>
+C10H7N2NaO6S
+
+> <FW>
+306.2271 (283.2379+22.9892)
+
+> <DSSTox_CID>
+24684
+
+> <DSSTox_RID>
+80395
+
+> <DSSTox_GSID>
+44684
+
+> <DSSTox_FileID_Sort>
+5077
+
+> <TS_ChemName>
+Sodium 5-oxo-1-(4-sulfophenyl)-4,5-dihydro-1H-pyrazole-3-carboxylate
+
+> <TS_ChemName_Synonyms>
+Sodium 5-oxo-1-(4-sulfophenyl)-4,5-dihydro-1H-pyrazole-3-carboxylate (1H-Pyrazole-3-carboxylic acid, 4,5-dihydro-5-oxo-1-(4-sulfophenyl)-, monosodium salt)
+
+> <TS_CASRN>
+52126-51-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers; parent [118-47-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H7N2NaO6S
+
+> <STRUCTURE_MW>
+306.2271
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 5-oxo-1-(4-sulfophenyl)-4,5-dihydro-1H-pyrazole-3-carboxylate
+
+> <STRUCTURE_SMILES>
+[Na+].O=S(=O)(O)c1ccc(cc1)N2N=C(CC2=O)C([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)c1ccc(cc1)N2N=C(CC2=O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

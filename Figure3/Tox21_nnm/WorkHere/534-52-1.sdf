@@ -1,0 +1,100 @@
+534-52-1
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  2 V2000
+    3.9918   -5.7573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3275   -4.6083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9929   -4.6083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286   -5.7573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286   -3.4532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9929   -2.3041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286   -1.1491    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.9929    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1491    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3275   -2.3041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9918   -3.4532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3205   -3.4532    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.9848   -2.3041    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.9848   -4.6083    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <ID>
+1898
+
+> <Formula>
+C7H6N2O5
+
+> <FW>
+198.1329
+
+> <DSSTox_CID>
+2053
+
+> <DSSTox_RID>
+76471
+
+> <DSSTox_GSID>
+22053
+
+> <DSSTox_FileID_Sort>
+1155
+
+> <TS_ChemName>
+2-Methyl-4,6-dinitrophenol
+
+> <TS_ChemName_Synonyms>
+2-Methyl-4,6-dinitrophenol (4,6-Dinitro-o-cresol) (DNOC)
+
+> <TS_CASRN>
+534-52-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6N2O5
+
+> <STRUCTURE_MW>
+198.1329
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-4,6-dinitrophenol
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1cc(cc(C)c1O)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1cc(cc(C)c1O)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

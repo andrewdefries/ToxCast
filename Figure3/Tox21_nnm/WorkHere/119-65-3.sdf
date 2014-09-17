@@ -1,0 +1,93 @@
+119-65-3
+ChemmineR-0915142007XD
+
+ 10 11  0  0  0  0  0  0  0  0  1 V2000
+    4.6063   -0.6541    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -0.6541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547   -2.6532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -2.6532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+12765
+
+> <Formula>
+C9H7N
+
+> <FW>
+129.1586
+
+> <DSSTox_CID>
+27644
+
+> <DSSTox_RID>
+82471
+
+> <DSSTox_GSID>
+47644
+
+> <DSSTox_FileID_Sort>
+7152
+
+> <TS_ChemName>
+Isoquinoline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+119-65-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H7N
+
+> <STRUCTURE_MW>
+129.1586
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+isoquinoline
+
+> <STRUCTURE_SMILES>
+c1cccc2ccncc12
+
+> <STRUCTURE_SMILES_Desalt>
+c1cccc2ccncc12
+
+> <Substance_modify_yyyymmdd>
+20101214
+
+$$$$

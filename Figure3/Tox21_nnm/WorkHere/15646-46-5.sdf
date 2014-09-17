@@ -1,0 +1,107 @@
+15646-46-5
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -4.4188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0782   -5.1966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1749    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8404    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8377   -1.1577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1775   -1.1577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1749   -2.3066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3672   -5.4352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8404   -2.3066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5779   -4.8961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1775   -3.4555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7357   -5.5589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8519   -3.5969    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8682   -6.8846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2890   -4.6575    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7166   -4.6751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2258   -6.7608    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  9  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 16  1  0  0  0  0
+M  END
+> <ID>
+14088
+
+> <Formula>
+C12H11NO3
+
+> <FW>
+217.2206
+
+> <DSSTox_CID>
+29081
+
+> <DSSTox_RID>
+83300
+
+> <DSSTox_GSID>
+49225
+
+> <DSSTox_FileID_Sort>
+7975
+
+> <TS_ChemName>
+Oxazolone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+15646-46-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H11NO3
+
+> <STRUCTURE_MW>
+217.2206
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(4Z)-4-(ethoxymethylidene)-2-phenyl-1,3-oxazol-5(4H)-one
+
+> <STRUCTURE_SMILES>
+O=C1OC(=N/C1=C\OCC)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1OC(=N/C1=C\OCC)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

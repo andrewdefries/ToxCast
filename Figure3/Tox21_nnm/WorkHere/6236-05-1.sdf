@@ -1,0 +1,94 @@
+6236-05-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  2 V2000
+    0.7221    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.9929   -1.2966    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1746    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2567   -1.7151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -2.9788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -2.9788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4067   -1.7151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6704   -1.2966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9424   -0.8781    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2061   -0.4760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3317   -0.9273    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+11649
+
+> <Formula>
+C5H4N2O4
+
+> <FW>
+156.0963
+
+> <DSSTox_CID>
+26402
+
+> <DSSTox_RID>
+81582
+
+> <DSSTox_GSID>
+46402
+
+> <DSSTox_FileID_Sort>
+6263
+
+> <TS_ChemName>
+Nifuroxime
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6236-05-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H4N2O4
+
+> <STRUCTURE_MW>
+156.0963
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-hydroxy-1-(5-nitrofuran-2-yl)methanimine
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccc(/C=N\O)o1
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccc(/C=N\O)o1
+
+> <Substance_modify_yyyymmdd>
+20110813
+
+$$$$

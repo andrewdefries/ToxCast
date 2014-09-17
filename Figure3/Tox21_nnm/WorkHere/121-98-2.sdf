@@ -1,0 +1,96 @@
+121-98-2
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    3.3330   -1.1482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9869    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3185    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9883   -1.1482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3185   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9869   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0014   -1.1482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3316   -2.3044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3316    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3199   -1.1482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9737    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+12766
+
+> <Formula>
+C9H10O3
+
+> <FW>
+166.1739
+
+> <DSSTox_CID>
+27645
+
+> <DSSTox_RID>
+82472
+
+> <DSSTox_GSID>
+47645
+
+> <DSSTox_FileID_Sort>
+7153
+
+> <TS_ChemName>
+Methyl 4-methoxybenzoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+121-98-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10O3
+
+> <STRUCTURE_MW>
+166.1739
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 4-methoxybenzoate
+
+> <STRUCTURE_SMILES>
+COc1ccc(cc1)C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(cc1)C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20101214
+
+$$$$

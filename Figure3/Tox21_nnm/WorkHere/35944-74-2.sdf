@@ -1,0 +1,108 @@
+35944-74-2
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    4.5226   -4.7564    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4423   -4.0066    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7893   -6.0382    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7882   -4.3694    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3862   -4.7564    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4423   -2.6765    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1195   -6.0382    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0704   -3.0715    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.9993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7798   -5.2401    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6032   -1.9993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -0.6691    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -2.6765    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0616   -4.8370    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6691    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0865   -6.3606    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  8  2  0  0  0  0
+  4 10  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+11148
+
+> <Formula>
+C13H15ClN2O2
+
+> <FW>
+266.7234 (230.2625+36.4609)
+
+> <DSSTox_CID>
+25707
+
+> <DSSTox_RID>
+81079
+
+> <DSSTox_GSID>
+45707
+
+> <DSSTox_FileID_Sort>
+5760
+
+> <TS_ChemName>
+Metomidate hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+35944-74-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H15ClN2O2
+
+> <STRUCTURE_MW>
+266.7234
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+methyl 1-(1-phenylethyl)-1H-imidazole-5-carboxylate hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CC(c1ccccc1)n2cncc2C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(c1ccccc1)n2cncc2C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20110819
+
+$$$$

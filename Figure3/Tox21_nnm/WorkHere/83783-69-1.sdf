@@ -1,0 +1,110 @@
+83783-69-1
+ChemmineR-0915142007XD
+
+ 18 20  0  0  0  0  0  0  0  0  1 V2000
+    5.6786   -6.2960    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3523   -6.2960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5672   -7.3707    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -6.9591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -5.6252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1510   -4.9621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.6252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.9591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1510   -7.6223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5672   -5.2136    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9788   -3.9483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0870   -2.9651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4986   -1.6998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6068   -0.7089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3110   -0.9909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4192    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8994   -2.2562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7912   -3.2395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+16236
+
+> <Formula>
+C14H12FN3
+
+> <FW>
+241.2636
+
+> <DSSTox_CID>
+31627
+
+> <DSSTox_RID>
+97511
+
+> <DSSTox_GSID>
+57838
+
+> <DSSTox_FileID_Sort>
+8578
+
+> <TS_ChemName>
+1-(4-Fluorobenzyl)-1H-benzimidazol-2-amine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+83783-69-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H12FN3
+
+> <STRUCTURE_MW>
+241.2636
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(4-fluorobenzyl)-1H-benzimidazol-2-amine
+
+> <STRUCTURE_SMILES>
+Fc1ccc(cc1)Cn2c3ccccc3nc2N
+
+> <STRUCTURE_SMILES_Desalt>
+Fc1ccc(cc1)Cn2c3ccccc3nc2N
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

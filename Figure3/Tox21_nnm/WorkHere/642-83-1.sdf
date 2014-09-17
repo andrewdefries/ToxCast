@@ -1,0 +1,109 @@
+642-83-1
+ChemmineR-0915142007XD
+
+ 18 19  0  0  1  0  0  0  0  0  1 V2000
+    3.3733   -4.4752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3733   -3.1461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6687   -2.7760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1030   -4.8790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1283   -2.7255    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6351   -4.8790    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4090   -3.8275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3375   -3.7434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6992   -6.1156    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1061   -1.5058    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4268   -1.2450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5657   -7.1082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.6845    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7633   -3.7939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1619   -8.4121    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8306    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3017   -2.2797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8780   -6.8306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  1  0  0  0
+  3 10  1  6  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  1  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8 13  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 18  1  0  0  0  0
+M  END
+> <ID>
+13837
+
+> <Formula>
+C10H10O8
+
+> <FW>
+258.1816
+
+> <DSSTox_CID>
+28774
+
+> <DSSTox_RID>
+83043
+
+> <DSSTox_GSID>
+48848
+
+> <DSSTox_FileID_Sort>
+7720
+
+> <TS_ChemName>
+Aceglatone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+642-83-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H10O8
+
+> <STRUCTURE_MW>
+258.1816
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3R,3aR,6S,6aR)-2,5-dioxohexahydrofuro[3,2-b]furan-3,6-diyl diacetate
+
+> <STRUCTURE_SMILES>
+O=C1O[C@H]2[C@@H](OC(C)=O)C(=O)O[C@H]2[C@@H]1OC(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1O[C@H]2[C@@H](OC(C)=O)C(=O)O[C@H]2[C@@H]1OC(C)=O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

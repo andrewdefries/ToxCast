@@ -1,0 +1,103 @@
+597581-48-1
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  2 V2000
+    1.7770   -4.8867    0.0000 B   0  5  0  0  0  0  0  0  0  0  0  0
+    0.4255   -4.8867    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7770   -6.2570    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7770   -3.5352    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1285   -4.8867    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4936   -6.0943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4936   -4.7428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3173   -4.0545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8134   -2.0398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8134   -0.6820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3173   -2.7030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9897   -2.7030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1472   -0.6820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9897    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1472   -2.0398    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <ID>
+14189
+
+> <Formula>
+C10H16BF4N
+
+> <FW>
+237.0454 (86.8052+150.2402)
+
+> <DSSTox_CID>
+29281
+
+> <DSSTox_RID>
+83400
+
+> <DSSTox_GSID>
+49325
+
+> <DSSTox_FileID_Sort>
+8075
+
+> <TS_ChemName>
+1-Butyl-3-methylpyridinium tetrafluoroborate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+597581-48-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16BF4N
+
+> <STRUCTURE_MW>
+237.0454
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-butyl-3-methylpyridinium tetrafluoroborate
+
+> <STRUCTURE_SMILES>
+Cc1ccc[n+](CCCC)c1.F[B-](F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc[n+](CCCC)c1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

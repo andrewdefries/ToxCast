@@ -1,0 +1,92 @@
+699-12-7
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.3231   -4.5978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9945   -3.4409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3231   -2.2899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9924   -2.2899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3330   -3.4409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9924   -4.5978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3330   -1.1330    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0022   -1.1330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3308    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+12131
+
+> <Formula>
+C8H10OS
+
+> <FW>
+154.2294
+
+> <DSSTox_CID>
+26974
+
+> <DSSTox_RID>
+82030
+
+> <DSSTox_GSID>
+46974
+
+> <DSSTox_FileID_Sort>
+6711
+
+> <TS_ChemName>
+2-Phenylmercaptoethanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+699-12-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10OS
+
+> <STRUCTURE_MW>
+154.2294
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(phenylsulfanyl)ethanol
+
+> <STRUCTURE_SMILES>
+OCCSc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+OCCSc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20100205
+
+$$$$

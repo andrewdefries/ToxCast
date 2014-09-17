@@ -1,0 +1,94 @@
+77-73-6
+ChemmineR-0915142007XD
+
+ 10 12  0  0  0  0  0  0  0  0  1 V2000
+    1.3067   -1.7293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2144   -2.7591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8951   -1.8216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4663   -2.9437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1282   -0.9375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5586   -1.4961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4773    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6244   -2.5211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8575   -1.5884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <ID>
+3975
+
+> <Formula>
+C10H12
+
+> <FW>
+132.2023
+
+> <DSSTox_CID>
+5023
+
+> <DSSTox_RID>
+77632
+
+> <DSSTox_GSID>
+25023
+
+> <DSSTox_FileID_Sort>
+2315
+
+> <TS_ChemName>
+Dicyclopentadiene
+
+> <TS_ChemName_Synonyms>
+Dicyclopentadiene (4,7-Methano-1H-indene, 3a,4,7,7a-tetrahydro-)
+
+> <TS_CASRN>
+77-73-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture of endo- and exo- isomers; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12
+
+> <STRUCTURE_MW>
+132.2023
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3a,4,7,7a-tetrahydro-1H-4,7-methanoindene
+
+> <STRUCTURE_SMILES>
+C=2CC3C1C=CC(C1)C3C=2
+
+> <STRUCTURE_SMILES_Desalt>
+C=2CC3C1C=CC(C1)C3C=2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

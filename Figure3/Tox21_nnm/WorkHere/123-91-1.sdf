@@ -1,0 +1,84 @@
+123-91-1
+ChemmineR-0915142007XD
+
+  6  6  0  0  0  0  0  0  0  0  1 V2000
+    2.3036   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -2.6600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -0.6650    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+512
+
+> <Formula>
+C4H8O2
+
+> <FW>
+88.1051
+
+> <DSSTox_CID>
+533
+
+> <DSSTox_RID>
+75644
+
+> <DSSTox_GSID>
+20533
+
+> <DSSTox_FileID_Sort>
+328
+
+> <TS_ChemName>
+1,4-Dioxane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+123-91-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8O2
+
+> <STRUCTURE_MW>
+88.1051
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-dioxane
+
+> <STRUCTURE_SMILES>
+C1COCCO1
+
+> <STRUCTURE_SMILES_Desalt>
+C1COCCO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

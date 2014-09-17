@@ -1,0 +1,102 @@
+2609-46-3
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6616    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1533   -2.0002    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1533   -0.6694    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3067    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4600   -0.6694    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6053    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4600   -2.0002    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6053   -2.6616    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7587   -2.0002    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9120   -2.6616    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0654   -2.0002    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9120   -3.9924    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6053   -3.9924    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3067   -2.6616    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 15  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <ID>
+9684
+
+> <Formula>
+C6H8ClN7O
+
+> <FW>
+229.627
+
+> <DSSTox_CID>
+23853
+
+> <DSSTox_RID>
+80077
+
+> <DSSTox_GSID>
+43853
+
+> <DSSTox_FileID_Sort>
+4759
+
+> <TS_ChemName>
+Amiloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2609-46-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8ClN7O
+
+> <STRUCTURE_MW>
+229.627
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5-diamino-N-carbamimidoyl-6-chloropyrazine-2-carboxamide
+
+> <STRUCTURE_SMILES>
+Clc1nc(C(=O)NC(=N)N)c(N)nc1N
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1nc(C(=O)NC(=N)N)c(N)nc1N
+
+> <Substance_modify_yyyymmdd>
+20081229
+
+$$$$

@@ -1,0 +1,92 @@
+99-96-7
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.3365   -1.1393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9961    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0054   -1.1393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9961   -2.2965    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3278   -2.2965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3278    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9907   -2.2965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9907    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3371   -1.1393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+4751
+
+> <Formula>
+C7H6O3
+
+> <FW>
+138.1207
+
+> <DSSTox_CID>
+6647
+
+> <DSSTox_RID>
+78173
+
+> <DSSTox_GSID>
+26647
+
+> <DSSTox_FileID_Sort>
+2856
+
+> <TS_ChemName>
+4-Hydroxybenzoic acid
+
+> <TS_ChemName_Synonyms>
+4-Hydroxybenzoic acid (p-Hydroxybenzoic acid) (4-Carboxyphenol)
+
+> <TS_CASRN>
+99-96-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6O3
+
+> <STRUCTURE_MW>
+138.1207
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-hydroxybenzoic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1ccc(O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1ccc(O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

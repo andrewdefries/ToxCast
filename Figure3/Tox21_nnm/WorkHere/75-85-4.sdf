@@ -1,0 +1,83 @@
+75-85-4
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.4975   -2.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1505   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3046   -1.8243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4551   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8243    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+8402
+
+> <Formula>
+C5H12O
+
+> <FW>
+88.1482
+
+> <DSSTox_CID>
+21436
+
+> <DSSTox_RID>
+79732
+
+> <DSSTox_GSID>
+41436
+
+> <DSSTox_FileID_Sort>
+4414
+
+> <TS_ChemName>
+2-Methyl-2-butanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+75-85-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H12O
+
+> <STRUCTURE_MW>
+88.1482
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylbutan-2-ol
+
+> <STRUCTURE_SMILES>
+CC(C)(O)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(O)CC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

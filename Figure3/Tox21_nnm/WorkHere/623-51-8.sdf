@@ -1,0 +1,85 @@
+623-51-8
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -2.3029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9889   -2.3029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3241   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9889    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9944   -1.1488    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3185   -2.3029    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+M  END
+> <ID>
+14201
+
+> <Formula>
+C4H8O2S
+
+> <FW>
+120.1701
+
+> <DSSTox_CID>
+29294
+
+> <DSSTox_RID>
+83412
+
+> <DSSTox_GSID>
+49337
+
+> <DSSTox_FileID_Sort>
+8087
+
+> <TS_ChemName>
+Acetic acid,mercapto-,ethylester
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+623-51-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8O2S
+
+> <STRUCTURE_MW>
+120.1701
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl sulfanylacetate
+
+> <STRUCTURE_SMILES>
+O=C(OCC)CS
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)CS
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

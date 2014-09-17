@@ -1,0 +1,89 @@
+111-97-7
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1505   -0.6719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3010    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4514   -0.6719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3253    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0533   -0.6719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9029    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7524   -0.6719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2038   -1.3253    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6019    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  3  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+4836
+
+> <Formula>
+C6H8N2S
+
+> <FW>
+140.2061
+
+> <DSSTox_CID>
+6899
+
+> <DSSTox_RID>
+78241
+
+> <DSSTox_GSID>
+26899
+
+> <DSSTox_FileID_Sort>
+2924
+
+> <TS_ChemName>
+3,3'-Thiodipropionitrile
+
+> <TS_ChemName_Synonyms>
+3,3'-Thiodipropionitrile (Propanenitrile, 3,3'-thiobis-)
+
+> <TS_CASRN>
+111-97-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8N2S
+
+> <STRUCTURE_MW>
+140.2061
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3'-sulfanediyldipropanenitrile
+
+> <STRUCTURE_SMILES>
+N#CCCSCCC#N
+
+> <STRUCTURE_SMILES_Desalt>
+N#CCCSCCC#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

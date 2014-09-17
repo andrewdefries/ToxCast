@@ -1,0 +1,100 @@
+88-41-5
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    2.0059   -3.4481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6647   -4.6054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0059   -5.7567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6766   -5.7567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6766   -3.4481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6647   -2.3086    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9941   -4.6054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9941   -3.2701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9941   -5.9348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3235   -4.6054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0059   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6766   -1.1573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6647    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+7099
+
+> <Formula>
+C12H22O2
+
+> <FW>
+198.3019
+
+> <DSSTox_CID>
+16105
+
+> <DSSTox_RID>
+79272
+
+> <DSSTox_GSID>
+36105
+
+> <DSSTox_FileID_Sort>
+3954
+
+> <TS_ChemName>
+2-tert-Butylcyclohexyl acetate
+
+> <TS_ChemName_Synonyms>
+2-tert-Butylcyclohexyl acetate (Cyclohexanol, 2-(1,1-dimethylethyl)-, acetate)
+
+> <TS_CASRN>
+88-41-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H22O2
+
+> <STRUCTURE_MW>
+198.3019
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-tert-butylcyclohexyl acetate
+
+> <STRUCTURE_SMILES>
+O=C(C)OC1CCCCC1C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)OC1CCCCC1C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

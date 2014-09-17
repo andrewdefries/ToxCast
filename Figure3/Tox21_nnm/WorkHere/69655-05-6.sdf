@@ -1,0 +1,108 @@
+69655-05-6
+ChemmineR-0915142007XD
+
+ 17 19  0  0  1  0  0  0  0  0  1 V2000
+    3.1412   -3.2701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1412   -1.9132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3760   -1.5740    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3760   -3.6500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1358   -2.5917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9946   -3.9078    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8888   -1.9132    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8888   -3.2701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9946   -1.3162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9946    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2226   -4.8305    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1235   -5.5497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2471   -5.5497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5442   -6.7844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8603   -6.7844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8888   -5.1697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.0924    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  5  1  0  0  0  0
+ 13  4  1  1  0  0  0
+  6  8  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 16  1  1  0  0  0
+ 13 15  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+2636
+
+> <Formula>
+C10H12N4O3
+
+> <FW>
+236.2273
+
+> <DSSTox_CID>
+2927
+
+> <DSSTox_RID>
+76791
+
+> <DSSTox_GSID>
+22927
+
+> <DSSTox_FileID_Sort>
+1475
+
+> <TS_ChemName>
+2',3'-Dideoxyinosine
+
+> <TS_ChemName_Synonyms>
+ddI; Didanosine
+
+> <TS_CASRN>
+69655-05-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12N4O3
+
+> <STRUCTURE_MW>
+236.2273
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+9-[(2R,5S)-5-(hydroxymethyl)tetrahydrofuran-2-yl]-1,9-dihydro-6H-purin-6-one
+
+> <STRUCTURE_SMILES>
+O=C3NC=Nc2c3ncn2[C@H]1CC[C@@H](CO)O1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C3NC=Nc2c3ncn2[C@H]1CC[C@@H](CO)O1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

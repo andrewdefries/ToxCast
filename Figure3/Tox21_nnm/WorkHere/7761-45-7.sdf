@@ -1,0 +1,107 @@
+7761-45-7
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    3.9942   -4.6087    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3238   -3.4542    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9942   -2.3090    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3238   -1.1545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9924   -1.1545    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3314   -2.3090    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9924   -3.4542    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3090    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9942    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3163   -2.3090    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9866   -3.4542    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3180   -3.4542    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9791   -2.3090    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3104   -2.3090    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3180   -1.1545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9866   -1.1545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9791   -4.6087    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+16229
+
+> <Formula>
+C11H10Cl2N4
+
+> <FW>
+269.1299
+
+> <DSSTox_CID>
+31620
+
+> <DSSTox_RID>
+97504
+
+> <DSSTox_GSID>
+57831
+
+> <DSSTox_FileID_Sort>
+8571
+
+> <TS_ChemName>
+Methodichlorophen
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7761-45-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H10Cl2N4
+
+> <STRUCTURE_MW>
+269.1299
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-(3,4-dichlorophenyl)-6-methylpyrimidine-2,4-diamine
+
+> <STRUCTURE_SMILES>
+Cc2nc(N)nc(N)c2c1ccc(Cl)c(Cl)c1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc2nc(N)nc(N)c2c1ccc(Cl)c(Cl)c1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

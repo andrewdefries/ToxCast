@@ -1,0 +1,97 @@
+77-92-9
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    0.9738   -1.9926    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3021   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3021   -3.3265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -3.9907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -5.3191    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6361   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3003   -3.1464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6361   -4.3003    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6287   -3.1464    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3021   -0.6642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+322
+
+> <Formula>
+C6H8O7
+
+> <FW>
+192.1235
+
+> <DSSTox_CID>
+332
+
+> <DSSTox_RID>
+75520
+
+> <DSSTox_GSID>
+20332
+
+> <DSSTox_FileID_Sort>
+204
+
+> <TS_ChemName>
+Citric acid
+
+> <TS_ChemName_Synonyms>
+Citric acid (1,2,3-Propanetricarboxylic acid, 2-hydroxy-)
+
+> <TS_CASRN>
+77-92-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8O7
+
+> <STRUCTURE_MW>
+192.1235
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-hydroxypropane-1,2,3-tricarboxylic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)CC(O)(CC(O)=O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)CC(O)(CC(O)=O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

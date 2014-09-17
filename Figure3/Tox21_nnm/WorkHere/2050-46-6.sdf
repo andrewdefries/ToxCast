@@ -1,0 +1,96 @@
+2050-46-6
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    1.1653   -4.0346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3170   -4.6880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4688   -4.0346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4688   -2.7010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3170   -2.0476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1653   -2.7010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0135   -4.7014    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.0283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1383   -6.7356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0135   -2.0341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.7072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1383    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+7498
+
+> <Formula>
+C10H14O2
+
+> <FW>
+166.217
+
+> <DSSTox_CID>
+18798
+
+> <DSSTox_RID>
+79395
+
+> <DSSTox_GSID>
+38798
+
+> <DSSTox_FileID_Sort>
+4077
+
+> <TS_ChemName>
+1,2-Diethoxybenzene
+
+> <TS_ChemName_Synonyms>
+Benzene, 1,2-diethoxy-
+
+> <TS_CASRN>
+2050-46-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14O2
+
+> <STRUCTURE_MW>
+166.217
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-diethoxybenzene
+
+> <STRUCTURE_SMILES>
+CCOc1ccccc1OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCOc1ccccc1OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

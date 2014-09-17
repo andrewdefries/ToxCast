@@ -1,0 +1,94 @@
+118-52-5
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.5047    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3222   -2.3650    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9879   -1.2151    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2868   -1.4898    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4265   -2.8119    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5810   -3.4777    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6183   -1.4898    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4265   -0.1676    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4479    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2114   -3.3566    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9367   -4.6555    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+3952
+
+> <Formula>
+C5H6Cl2N2O2
+
+> <FW>
+197.0193
+
+> <DSSTox_CID>
+4985
+
+> <DSSTox_RID>
+77612
+
+> <DSSTox_GSID>
+24985
+
+> <DSSTox_FileID_Sort>
+2295
+
+> <TS_ChemName>
+1,3-Dichloro-5,5-dimethylhydantoin
+
+> <TS_ChemName_Synonyms>
+1,3-Dichloro-5,5-dimethylhydantoin (2,4-Imidazolidinedione, 1,3-dichloro-5,5-dimethyl-)
+
+> <TS_CASRN>
+118-52-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H6Cl2N2O2
+
+> <STRUCTURE_MW>
+197.0193
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,3-dichloro-5,5-dimethylimidazolidine-2,4-dione
+
+> <STRUCTURE_SMILES>
+O=C1N(Cl)C(=O)N(Cl)C1(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1N(Cl)C(=O)N(Cl)C1(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

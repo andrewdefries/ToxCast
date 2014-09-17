@@ -1,0 +1,90 @@
+3658-77-3
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    2.3389    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4286   -0.7703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2681   -0.7703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0153   -2.0337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6814   -2.0337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8971   -3.1092    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7996   -3.1092    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6967   -0.3663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+8483
+
+> <Formula>
+C6H8O3
+
+> <FW>
+128.1259
+
+> <DSSTox_CID>
+21517
+
+> <DSSTox_RID>
+79761
+
+> <DSSTox_GSID>
+41517
+
+> <DSSTox_FileID_Sort>
+4443
+
+> <TS_ChemName>
+4-Hydroxy-2,5-dimethyl-3(2H)furanone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3658-77-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8O3
+
+> <STRUCTURE_MW>
+128.1259
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-hydroxy-2,5-dimethylfuran-3(2H)-one
+
+> <STRUCTURE_SMILES>
+CC=1OC(C)C(=O)C=1O
+
+> <STRUCTURE_SMILES_Desalt>
+CC=1OC(C)C(=O)C=1O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

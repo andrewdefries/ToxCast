@@ -1,0 +1,101 @@
+6923-22-4
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    1.9881   -1.3298    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2856   -2.6661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4442   -3.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1467   -3.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9881   -2.6661    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9881    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4442   -4.6542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6583   -1.3298    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3244   -1.3298    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5830   -2.6661    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1467   -4.6542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5830   -1.3298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9827   -0.1777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2856   -1.3298    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+6914
+
+> <Formula>
+C7H14NO5P
+
+> <FW>
+223.1635
+
+> <DSSTox_CID>
+14816
+
+> <DSSTox_RID>
+79205
+
+> <DSSTox_GSID>
+34816
+
+> <DSSTox_FileID_Sort>
+3887
+
+> <TS_ChemName>
+Monocrotophos
+
+> <TS_ChemName_Synonyms>
+Monocrotophos (Phosphoric acid, dimethyl 1-methyl-3-(methylamino)-3-oxo-1-propenyl ester, (E)-)
+
+> <TS_CASRN>
+6923-22-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14NO5P
+
+> <STRUCTURE_MW>
+223.1635
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dimethyl (2E)-4-(methylamino)-4-oxobut-2-en-2-yl phosphate
+
+> <STRUCTURE_SMILES>
+O=P(OC)(OC)OC(\C)=C\C(=O)NC
+
+> <STRUCTURE_SMILES_Desalt>
+O=P(OC)(OC)OC(\C)=C\C(=O)NC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

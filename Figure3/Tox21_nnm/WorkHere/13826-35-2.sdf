@@ -1,0 +1,103 @@
+13826-35-2
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    6.9133   -1.9845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9133   -3.3155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7597   -3.9931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6062   -3.3155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6062   -1.9845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7597   -1.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0669   -1.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0669    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4446   -1.3310    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3071   -1.9845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3071   -3.3155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -1.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -3.9931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+5369
+
+> <Formula>
+C13H12O2
+
+> <FW>
+200.2332
+
+> <DSSTox_CID>
+7756
+
+> <DSSTox_RID>
+78556
+
+> <DSSTox_GSID>
+27756
+
+> <DSSTox_FileID_Sort>
+3239
+
+> <TS_ChemName>
+3-Phenoxybenzenemethanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13826-35-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H12O2
+
+> <STRUCTURE_MW>
+200.2332
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3-phenoxyphenyl)methanol
+
+> <STRUCTURE_SMILES>
+OCc2cc(Oc1ccccc1)ccc2
+
+> <STRUCTURE_SMILES_Desalt>
+OCc2cc(Oc1ccccc1)ccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

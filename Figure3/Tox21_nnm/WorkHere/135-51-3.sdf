@@ -1,0 +1,113 @@
+135-51-3
+ChemmineR-0915142007XD
+
+ 21 20  0  0  0  0  0  0  0  0  2 V2000
+    5.7115   -1.8604    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7115   -3.2112    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5028   -1.2324    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5028   -3.8630    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8017   -3.8630    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8017   -1.2324    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9511   -1.8604    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9511   -3.2112    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3534   -3.2112    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3534   -1.8604    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1123   -1.2324    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    9.8233   -2.4884    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   10.2025   -0.5569    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    8.4369   -0.0829    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2633   -1.2324    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9624    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1020   -0.5569    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.5878   -2.3344    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1123   -3.8630    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   11.8496   -0.3081    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1422    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  9  2  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+M  END
+> <ID>
+10197
+
+> <Formula>
+C10H6Na2O7S2
+
+> <FW>
+348.2600 (302.2815+22.9892+22.9892)
+
+> <DSSTox_CID>
+24543
+
+> <DSSTox_RID>
+80304
+
+> <DSSTox_GSID>
+44543
+
+> <DSSTox_FileID_Sort>
+4986
+
+> <TS_ChemName>
+Disodium 3-hydroxynaphthalene-2,7-disulfonate
+
+> <TS_ChemName_Synonyms>
+Disodium 3-hydroxynaphthalene-2,7-disulfonate (2,7-Naphthalenedisulfonic acid, 3-hydroxy-, disodium salt)
+
+> <TS_CASRN>
+135-51-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [148-75-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H6Na2O7S2
+
+> <STRUCTURE_MW>
+348.26
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+disodium 3-hydroxynaphthalene-2,7-disulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].[Na+].[O-]S(=O)(=O)c1cc2cc(c(O)cc2cc1)S([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)c1cc2cc(c(O)cc2cc1)S(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

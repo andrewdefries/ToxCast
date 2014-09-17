@@ -1,0 +1,82 @@
+13967-50-5
+ChemmineR-0915142007XD
+
+  6  4  0  0  0  0  0  0  0  0  2 V2000
+    0.5441   -1.7952    0.0000 K    0  3  0  0  0  0  0  0  0  0  0  0
+    2.3116    0.0000    0.0000 Au   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1541   -0.6585    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4657   -0.6585    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4657   -1.9893    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  3  0  0  0  0
+  5  6  3  0  0  0  0
+M  END
+> <ID>
+10203
+
+> <Formula>
+C2AuKN2
+
+> <FW>
+288.0997 (39.0978+249.0019)
+
+> <DSSTox_CID>
+24549
+
+> <DSSTox_RID>
+80308
+
+> <DSSTox_GSID>
+44549
+
+> <DSSTox_FileID_Sort>
+4990
+
+> <TS_ChemName>
+Potassium dicyanoaurate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13967-50-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [14950-87-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2AuKN2
+
+> <STRUCTURE_MW>
+288.0997
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+potassium bis(cyano-kappaC)aurate(1-)
+
+> <STRUCTURE_SMILES>
+[K+].N#C[Au-]C#N
+
+> <STRUCTURE_SMILES_Desalt>
+N#C[Au-]C#N
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

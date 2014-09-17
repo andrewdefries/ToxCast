@@ -1,0 +1,85 @@
+6317-18-6
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    3.3292   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6586   -1.1557    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3293   -1.1557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1557    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6585   -2.3053    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3232   -1.1557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9878    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  3  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  3  0  0  0  0
+M  END
+> <ID>
+4291
+
+> <Formula>
+C3H2N2S2
+
+> <FW>
+130.1914
+
+> <DSSTox_CID>
+5599
+
+> <DSSTox_RID>
+77847
+
+> <DSSTox_GSID>
+25599
+
+> <DSSTox_FileID_Sort>
+2530
+
+> <TS_ChemName>
+Methylene bis(thiocyanate)
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6317-18-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H2N2S2
+
+> <STRUCTURE_MW>
+130.1914
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methanediyl bis(thiocyanate)
+
+> <STRUCTURE_SMILES>
+N#CSCSC#N
+
+> <STRUCTURE_SMILES_Desalt>
+N#CSCSC#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

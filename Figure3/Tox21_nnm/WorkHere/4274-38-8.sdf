@@ -1,0 +1,97 @@
+4274-38-8
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    5.3185   -3.6365    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6617   -2.4830    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3185   -1.3296    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6482   -1.3296    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6617   -0.1762    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3321   -0.1762    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6593   -1.3296    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3321   -2.4830    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -1.3296    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296    0.0000    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -2.6593    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3296    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1306   -5.3185    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <ID>
+16296
+
+> <Formula>
+C7H7ClF3NS
+
+> <FW>
+229.6504 (193.1894+36.4609)
+
+> <DSSTox_CID>
+31681
+
+> <DSSTox_RID>
+97532
+
+> <DSSTox_GSID>
+57898
+
+> <DSSTox_FileID_Sort>
+8599
+
+> <TS_ChemName>
+2-Amino-4-(trifluoromethyl)benzenethiol hydrochloride
+
+> <TS_ChemName_Synonyms>
+2-Mercapto-5-(trifluoromethyl)anilinium chloride
+
+> <TS_CASRN>
+4274-38-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7ClF3NS
+
+> <STRUCTURE_MW>
+229.6504
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-amino-4-(trifluoromethyl)benzenethiol hydrochloride
+
+> <STRUCTURE_SMILES>
+Cl.Nc1cc(ccc1S)C(F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1cc(ccc1S)C(F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

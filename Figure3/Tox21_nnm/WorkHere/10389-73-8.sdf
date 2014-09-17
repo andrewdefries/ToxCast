@@ -1,0 +1,96 @@
+10389-73-8
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    0.6677   -3.4548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6677   -1.1497    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9974   -1.1497    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6593    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6593   -2.2993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9889   -2.2993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6567   -3.4548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5012   -4.1167    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8063   -2.7870    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186   -4.6044    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9974   -3.4548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+2576
+
+> <Formula>
+C10H14ClN
+
+> <FW>
+183.6779
+
+> <DSSTox_CID>
+2850
+
+> <DSSTox_RID>
+97542
+
+> <DSSTox_GSID>
+22850
+
+> <DSSTox_FileID_Sort>
+8316
+
+> <TS_ChemName>
+Clortermine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+10389-73-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14ClN
+
+> <STRUCTURE_MW>
+183.6779
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(2-chlorophenyl)-2-methylpropan-2-amine
+
+> <STRUCTURE_SMILES>
+Clc1ccccc1CC(C)(C)N
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccccc1CC(C)(C)N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

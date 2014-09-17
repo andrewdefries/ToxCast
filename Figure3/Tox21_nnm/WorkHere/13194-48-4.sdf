@@ -1,0 +1,97 @@
+13194-48-4
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    3.9423   -2.3368    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9503   -0.9856    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2697   -2.3050    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6468   -2.3209    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9662   -3.6482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9532   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9871   -3.4654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1266   -4.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2965   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6518   -3.4654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1425   -5.6353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9483    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <ID>
+6540
+
+> <Formula>
+C8H19O2PS2
+
+> <FW>
+242.339
+
+> <DSSTox_CID>
+12611
+
+> <DSSTox_RID>
+79003
+
+> <DSSTox_GSID>
+32611
+
+> <DSSTox_FileID_Sort>
+3685
+
+> <TS_ChemName>
+Ethoprop
+
+> <TS_ChemName_Synonyms>
+Ethoprophos (Ethoprop)
+
+> <TS_CASRN>
+13194-48-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H19O2PS2
+
+> <STRUCTURE_MW>
+242.339
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O-ethyl S,S-dipropyl phosphorodithioate
+
+> <STRUCTURE_SMILES>
+CCCSP(=O)(SCCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCSP(=O)(SCCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

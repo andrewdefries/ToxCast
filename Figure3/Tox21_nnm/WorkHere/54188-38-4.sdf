@@ -1,0 +1,113 @@
+54188-38-4
+ChemmineR-0915142007XD
+
+ 19 22  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.8740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1496   -3.5380    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2992   -2.8740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2992   -1.5460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4488   -0.8820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5983   -1.5460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8867   -1.1496    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5507    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8985    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5823   -1.1793    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9102   -1.1793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9183   -2.3190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5030   -3.5677    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7300   -4.6380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4020   -4.4992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8669   -3.2902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6498   -2.2100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5983   -2.8740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4488   -3.5380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 19  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+11146
+
+> <Formula>
+C15H17N3O
+
+> <FW>
+255.315
+
+> <DSSTox_CID>
+25705
+
+> <DSSTox_RID>
+81077
+
+> <DSSTox_GSID>
+45705
+
+> <DSSTox_FileID_Sort>
+5758
+
+> <TS_ChemName>
+Metralindole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+54188-38-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H17N3O
+
+> <STRUCTURE_MW>
+255.315
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+9-methoxy-4-methyl-2,4,5,6-tetrahydro-1H-3,4,6a-triazafluoranthene
+
+> <STRUCTURE_SMILES>
+COc1cc4c(cc1)n3CCN(C)C2=NCCc4c23
+
+> <STRUCTURE_SMILES_Desalt>
+COc1cc4c(cc1)n3CCN(C)C2=NCCc4c23
+
+> <Substance_modify_yyyymmdd>
+20110819
+
+$$$$

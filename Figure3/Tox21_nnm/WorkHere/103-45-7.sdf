@@ -1,0 +1,96 @@
+103-45-7
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.2928   -1.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7360   -2.6628    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5856   -1.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4432   -2.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1504   -2.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2928   -0.6597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1504    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8944   -1.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8944   -0.6597    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0448   -2.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+10160
+
+> <Formula>
+C10H12O2
+
+> <FW>
+164.2011
+
+> <DSSTox_CID>
+24506
+
+> <DSSTox_RID>
+80276
+
+> <DSSTox_GSID>
+44506
+
+> <DSSTox_FileID_Sort>
+4958
+
+> <TS_ChemName>
+2-Phenylethyl acetate
+
+> <TS_ChemName_Synonyms>
+2-Phenylethyl acetate (Acetic acid, 2-phenylethyl ester)
+
+> <TS_CASRN>
+103-45-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12O2
+
+> <STRUCTURE_MW>
+164.2011
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-phenylethyl acetate
+
+> <STRUCTURE_SMILES>
+CC(=O)OCCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)OCCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

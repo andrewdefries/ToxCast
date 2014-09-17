@@ -1,0 +1,108 @@
+115436-72-1
+ChemmineR-0915142007XD
+
+ 19 17  0  0  0  0  0  0  0  0  2 V2000
+    5.2662   -1.1501    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6176    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6176   -2.2915    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2662   -3.4675    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6176   -4.6090    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4249   -0.4842    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    6.4422   -1.8073    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4422   -2.8017    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4249   -4.1247    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.4762   -1.6257    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4502   -2.9660    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3175   -2.3088    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3175   -0.9858    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1760   -2.9660    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1760   -0.3286    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3088    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.9858    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5521   -0.6918    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    8.6472   -3.1130    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+11433
+
+> <Formula>
+C7H9NNa2O7P2
+
+> <FW>
+327.0759 (281.0975+22.9892+22.9892)
+
+> <DSSTox_CID>
+26132
+
+> <DSSTox_RID>
+81365
+
+> <DSSTox_GSID>
+46132
+
+> <DSSTox_FileID_Sort>
+6046
+
+> <TS_ChemName>
+Risedronate sodium
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+115436-72-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H9NNa2O7P2
+
+> <STRUCTURE_MW>
+327.0759
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+disodium [1-hydroxy-2-(pyridin-3-yl)ethane-1,1-diyl]bis[hydrogen (phosphonate)]
+
+> <STRUCTURE_SMILES>
+[Na+].[Na+].[O-]P(=O)(O)C(O)(Cc1cccnc1)P([O-])(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=P(O)(O)C(O)(Cc1cccnc1)P(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

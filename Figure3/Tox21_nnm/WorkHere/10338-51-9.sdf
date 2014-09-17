@@ -1,0 +1,115 @@
+10338-51-9
+ChemmineR-0915142007XD
+
+ 21 22  0  0  1  0  0  0  0  0  1 V2000
+    3.4424    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5941   -0.6834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5941   -1.9996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4424   -2.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2907   -1.9996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2907   -0.6834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7458    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8848   -0.6834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0491    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2008   -0.6834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3651    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5042   -0.6834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5042   -1.9996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3651   -2.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2008   -1.9996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7458   -2.6577    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4424   -3.9866    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1390   -2.6577    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1390    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6834    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6559   -2.6577    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 16  1  6  0  0  0
+  4  5  1  0  0  0  0
+  4 17  1  1  0  0  0
+  5  6  1  0  0  0  0
+  5 18  1  6  0  0  0
+  6 19  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+14018
+
+> <Formula>
+C14H20O7
+
+> <FW>
+300.3044
+
+> <DSSTox_CID>
+28960
+
+> <DSSTox_RID>
+83225
+
+> <DSSTox_GSID>
+49034
+
+> <DSSTox_FileID_Sort>
+7901
+
+> <TS_ChemName>
+Salidroside
+
+> <TS_ChemName_Synonyms>
+Salisorosides Rosavin
+
+> <TS_CASRN>
+10338-51-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20O7
+
+> <STRUCTURE_MW>
+300.3044
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(4-hydroxyphenyl)ethyl beta-D-glucopyranoside
+
+> <STRUCTURE_SMILES>
+Oc2ccc(CCO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccc(CCO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)cc2
+
+> <Substance_modify_yyyymmdd>
+20120531
+
+$$$$

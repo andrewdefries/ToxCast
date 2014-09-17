@@ -1,0 +1,95 @@
+61-80-3
+ChemmineR-0915142007XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3258    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3326   -1.3258    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1117   -2.4056    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3760   -1.9955    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3760   -0.6629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1117   -0.2529    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5309    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6790   -0.6629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6790   -1.9955    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5309   -2.6584    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8340   -2.6584    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+10842
+
+> <Formula>
+C7H5ClN2O
+
+> <FW>
+168.5804
+
+> <DSSTox_CID>
+25245
+
+> <DSSTox_RID>
+80772
+
+> <DSSTox_GSID>
+45245
+
+> <DSSTox_FileID_Sort>
+5453
+
+> <TS_ChemName>
+Zoxazolamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+61-80-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H5ClN2O
+
+> <STRUCTURE_MW>
+168.5804
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-chloro-1,3-benzoxazol-2-amine
+
+> <STRUCTURE_SMILES>
+Clc1cc2nc(N)oc2cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc2nc(N)oc2cc1
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

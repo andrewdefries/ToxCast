@@ -1,0 +1,85 @@
+628-13-7
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1448    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6382   -2.2897    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3329   -2.2897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3497   -1.1448    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6382    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6428   -1.1448    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3329    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+5029
+
+> <Formula>
+C5H6ClN
+
+> <FW>
+115.5608 (36.4609+79.0999)
+
+> <DSSTox_CID>
+7262
+
+> <DSSTox_RID>
+78374
+
+> <DSSTox_GSID>
+27262
+
+> <DSSTox_FileID_Sort>
+3057
+
+> <TS_ChemName>
+Pyridine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+628-13-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [110-86-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H6ClN
+
+> <STRUCTURE_MW>
+115.5608
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+pyridine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.c1ccccn1
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccccn1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

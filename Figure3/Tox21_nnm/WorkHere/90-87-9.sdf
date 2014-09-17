@@ -1,0 +1,98 @@
+90-87-9
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    2.3008   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1400   -1.3335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1400   -4.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3008   -3.3233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4408   -1.3197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4408    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5946   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5946   -3.3233    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7554   -1.3197    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9092   -1.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7554   -3.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+12259
+
+> <Formula>
+C11H16O2
+
+> <FW>
+180.2435
+
+> <DSSTox_CID>
+27109
+
+> <DSSTox_RID>
+82119
+
+> <DSSTox_GSID>
+47109
+
+> <DSSTox_FileID_Sort>
+6800
+
+> <TS_ChemName>
+2-Phenylpropionaldehyde dimethyl acetal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+90-87-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H16O2
+
+> <STRUCTURE_MW>
+180.2435
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1,1-dimethoxypropan-2-yl)benzene
+
+> <STRUCTURE_SMILES>
+COC(OC)C(C)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+COC(OC)C(C)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

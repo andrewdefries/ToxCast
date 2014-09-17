@@ -1,0 +1,102 @@
+2825-82-3
+ChemmineR-0915142007XD
+
+ 14 16  0  0  1  0  0  0  0  0  1 V2000
+    2.9970   -3.7336    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6322   -1.6027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4690   -1.3294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6363   -0.7180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7423   -2.6913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0532   -2.8025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1858   -0.9450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6166   -2.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2733   -2.8210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5888   -0.0139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4180    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6027   -3.3815    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1760   -0.3520    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  5  1  1  6  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 12  1  6  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 14  1  1  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 13  1  1  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+5886
+
+> <Formula>
+C10H16
+
+> <FW>
+136.234
+
+> <DSSTox_CID>
+9244
+
+> <DSSTox_RID>
+78729
+
+> <DSSTox_GSID>
+29244
+
+> <DSSTox_FileID_Sort>
+3411
+
+> <TS_ChemName>
+4,7-Methano-1H-indene, octahydro-, (3aR,4S,7R,7aS)-rel-
+
+> <TS_ChemName_Synonyms>
+4,7-Methano-1H-indene, octahydro-, (3aR,4S,7R,7aS)-rel- (exo-Tetrahydrodicyclopentadiene) (JP-10)
+
+> <TS_CASRN>
+2825-82-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+major component of cruise missile fuel; stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16
+
+> <STRUCTURE_MW>
+136.234
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3aR,4R,7R,7aS)-octahydro-1H-4,7-methanoindene
+
+> <STRUCTURE_SMILES>
+C2C[C@H]3[C@@H]1CC[C@H](C1)[C@H]3C2
+
+> <STRUCTURE_SMILES_Desalt>
+C2C[C@H]3[C@@H]1CC[C@H](C1)[C@H]3C2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,110 @@
+1216-44-0
+ChemmineR-0915142007XD
+
+ 18 20  0  0  0  0  0  0  0  0  1 V2000
+    3.9112   -4.7442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6422   -5.1607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8612   -4.0869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9112   -3.4166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6422   -3.0131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1020   -6.3777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0631   -5.4210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5271   -4.2171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0631   -2.7593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2020   -4.7442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7679   -6.5078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2020   -3.4166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.4340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9155   -1.6985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9263   -0.8200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1845   -1.3016    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6530   -2.1150    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7 10  2  0  0  0  0
+  8 13  2  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+6889
+
+> <Formula>
+C15H12O3
+
+> <FW>
+240.254
+
+> <DSSTox_CID>
+14729
+
+> <DSSTox_RID>
+79197
+
+> <DSSTox_GSID>
+34729
+
+> <DSSTox_FileID_Sort>
+3879
+
+> <TS_ChemName>
+Flurenol-methyl
+
+> <TS_ChemName_Synonyms>
+Flurenol-methyl (Methyl 9-hydroxyfluorene-9-carboxylate)
+
+> <TS_CASRN>
+1216-44-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H12O3
+
+> <STRUCTURE_MW>
+240.254
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 9-hydroxy-9H-fluorene-9-carboxylate
+
+> <STRUCTURE_SMILES>
+O=C(OC)C3(O)c1ccccc1c2ccccc23
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OC)C3(O)c1ccccc1c2ccccc23
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

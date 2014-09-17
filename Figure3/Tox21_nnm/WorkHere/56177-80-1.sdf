@@ -1,0 +1,94 @@
+56177-80-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    4.6528   -5.7584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9906   -4.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6604   -4.6067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9924   -3.4550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6604   -2.3034    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9924   -1.1517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6604    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6622   -1.1517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6622   -3.4550    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+16175
+
+> <Formula>
+C6H7FN2O2
+
+> <FW>
+158.1304
+
+> <DSSTox_CID>
+31565
+
+> <DSSTox_RID>
+97450
+
+> <DSSTox_GSID>
+57776
+
+> <DSSTox_FileID_Sort>
+8517
+
+> <TS_ChemName>
+2-Ethoxy-5-fluorouracil
+
+> <TS_ChemName_Synonyms>
+2-Ethoxy-5-fluoropyrimidin-4(1h)-one
+
+> <TS_CASRN>
+56177-80-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H7FN2O2
+
+> <STRUCTURE_MW>
+158.1304
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethoxy-5-fluoropyrimidin-4(1H)-one
+
+> <STRUCTURE_SMILES>
+CCOC1=NC(=O)C(F)=CN1
+
+> <STRUCTURE_SMILES_Desalt>
+CCOC1=NC(=O)C(F)=CN1
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

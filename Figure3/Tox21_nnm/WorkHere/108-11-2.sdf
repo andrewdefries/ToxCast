@@ -1,0 +1,85 @@
+108-11-2
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1545   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4635   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6180    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1545   -1.9903    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4635   -1.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+M  END
+> <ID>
+4801
+
+> <Formula>
+C6H14O
+
+> <FW>
+102.1748
+
+> <DSSTox_CID>
+6781
+
+> <DSSTox_RID>
+78212
+
+> <DSSTox_GSID>
+26781
+
+> <DSSTox_FileID_Sort>
+2895
+
+> <TS_ChemName>
+4-Methyl-2-pentanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+108-11-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O
+
+> <STRUCTURE_MW>
+102.1748
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methylpentan-2-ol
+
+> <STRUCTURE_SMILES>
+CC(C)CC(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CC(C)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

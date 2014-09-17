@@ -1,0 +1,107 @@
+15574-49-9
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    3.7611    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6558   -0.9898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2362   -2.2567    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1151   -3.2464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4295   -2.9614    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7192   -4.4975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5031   -5.5822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8333   -5.5822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7192   -6.6512    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1151   -7.9181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4523   -6.2394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042   -6.9125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1481   -6.2394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1481   -4.9092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.2520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042   -4.2520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4523   -4.9092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 17  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+11582
+
+> <Formula>
+C13H15NO3
+
+> <FW>
+233.2631
+
+> <DSSTox_CID>
+26289
+
+> <DSSTox_RID>
+81515
+
+> <DSSTox_GSID>
+46289
+
+> <DSSTox_FileID_Sort>
+6196
+
+> <TS_ChemName>
+Mecarbinate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+15574-49-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H15NO3
+
+> <STRUCTURE_MW>
+233.2631
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 5-hydroxy-1,2-dimethyl-1H-indole-3-carboxylate
+
+> <STRUCTURE_SMILES>
+O=C(OCC)c2c1cc(O)ccc1n(C)c2C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)c2c1cc(O)ccc1n(C)c2C
+
+> <Substance_modify_yyyymmdd>
+20110815
+
+$$$$

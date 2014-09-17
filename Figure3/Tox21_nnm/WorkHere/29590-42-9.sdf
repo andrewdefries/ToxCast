@@ -1,0 +1,97 @@
+29590-42-9
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    9.1785   -1.3194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3258   -1.9963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4731   -1.3194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1785    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0312   -1.9963    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8953   -1.3194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7480   -1.9963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6007   -1.3194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4419   -1.9963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2946   -1.3194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1473   -1.9963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1473   -3.3157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+5533
+
+> <Formula>
+C11H20O2
+
+> <FW>
+184.2753
+
+> <DSSTox_CID>
+7955
+
+> <DSSTox_RID>
+78622
+
+> <DSSTox_GSID>
+27955
+
+> <DSSTox_FileID_Sort>
+3304
+
+> <TS_ChemName>
+Isooctyl acrylate
+
+> <TS_ChemName_Synonyms>
+Isooctyl acrylate (2-Propenoic acid, isooctyl ester)
+
+> <TS_CASRN>
+29590-42-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of isooctyl isomers; structure shown 6-methylheptyl
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C11H20O2
+
+> <STRUCTURE_MW>
+184.2753
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-methylheptyl prop-2-enoate
+
+> <STRUCTURE_SMILES>
+CC(C)CCCCCOC(=O)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CCCCCOC(=O)C=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

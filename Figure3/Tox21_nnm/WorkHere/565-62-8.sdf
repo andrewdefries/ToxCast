@@ -1,0 +1,85 @@
+565-62-8
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1603   -1.9938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2884   -1.3169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4442   -1.9938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6045   -1.3169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1603   -3.3153    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2884    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+8456
+
+> <Formula>
+C6H10O
+
+> <FW>
+98.143
+
+> <DSSTox_CID>
+21490
+
+> <DSSTox_RID>
+79749
+
+> <DSSTox_GSID>
+41490
+
+> <DSSTox_FileID_Sort>
+4431
+
+> <TS_ChemName>
+3-Penten-2-one, 3-methyl-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+565-62-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of Z,E- isomers; structure shown E-; stereochem
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C6H10O
+
+> <STRUCTURE_MW>
+98.143
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3E)-3-methylpent-3-en-2-one
+
+> <STRUCTURE_SMILES>
+C\C=C(/C)C(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+C\C=C(/C)C(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

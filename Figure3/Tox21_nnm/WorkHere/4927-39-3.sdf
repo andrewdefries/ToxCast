@@ -1,0 +1,98 @@
+4927-39-3
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    4.5748   -0.6665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4498   -1.3117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3247   -0.6665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1730   -1.3117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0160   -0.6665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4498   -2.6607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1730   -2.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1730   -5.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3247   -4.6655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3247   -3.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1730    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+12803
+
+> <Formula>
+C12H22O
+
+> <FW>
+182.3025
+
+> <DSSTox_CID>
+27682
+
+> <DSSTox_RID>
+82499
+
+> <DSSTox_GSID>
+47682
+
+> <DSSTox_FileID_Sort>
+7180
+
+> <TS_ChemName>
+4-Cyclohexyl-4-methyl-pentan-2-one
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4927-39-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H22O
+
+> <STRUCTURE_MW>
+182.3025
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-cyclohexyl-4-methylpentan-2-one
+
+> <STRUCTURE_SMILES>
+CC(=O)CC(C)(C)C1CCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)CC(C)(C)C1CCCCC1
+
+> <Substance_modify_yyyymmdd>
+20101215
+
+$$$$

@@ -1,0 +1,105 @@
+17969-20-9
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+   10.7196   -2.8514    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.6476   -2.0689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.7870   -0.7504    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.4470   -2.6156    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3751   -1.8223    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3751   -0.4931    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1102   -0.0750    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3169   -1.1577    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1102   -2.2297    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877   -1.1577    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3338    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0046    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3292   -1.1577    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1577    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9831   -2.3047    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3124   -2.3047    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+11456
+
+> <Formula>
+C11H8ClNO2S
+
+> <FW>
+253.7047
+
+> <DSSTox_CID>
+26157
+
+> <DSSTox_RID>
+81388
+
+> <DSSTox_GSID>
+46157
+
+> <DSSTox_FileID_Sort>
+6069
+
+> <TS_ChemName>
+Fenclozic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+17969-20-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H8ClNO2S
+
+> <STRUCTURE_MW>
+253.7047
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+[2-(4-chlorophenyl)-1,3-thiazol-4-yl]acetic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)Cc1csc(n1)c2ccc(Cl)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)Cc1csc(n1)c2ccc(Cl)cc2
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

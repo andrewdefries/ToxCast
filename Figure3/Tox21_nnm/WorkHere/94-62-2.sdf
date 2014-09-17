@@ -1,0 +1,116 @@
+94-62-2
+ChemmineR-0915142007XD
+
+ 21 23  0  0  0  0  0  0  0  0  1 V2000
+   10.8609   -5.5935    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0811   -5.0499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9361   -3.7330    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6434   -3.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9790   -2.2954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6500   -2.2954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9856   -3.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6446   -3.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9801   -2.2954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6512   -2.2954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9867   -1.1477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6578   -1.1477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9934    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9934   -2.2954    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6578   -3.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9934   -4.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6645   -4.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6645   -2.2954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6500   -4.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9790   -4.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 21  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  2  0  0  0  0
+M  END
+> <ID>
+1703
+
+> <Formula>
+C17H19NO3
+
+> <FW>
+285.3377
+
+> <DSSTox_CID>
+1805
+
+> <DSSTox_RID>
+76339
+
+> <DSSTox_GSID>
+21805
+
+> <DSSTox_FileID_Sort>
+1023
+
+> <TS_ChemName>
+Piperine
+
+> <TS_ChemName_Synonyms>
+Piperine (Piperidine, 1-[(2E,4E)-5-(1,3-benzodioxol-5-yl)-1-oxo-2,4-pentadienyl]-)
+
+> <TS_CASRN>
+94-62-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H19NO3
+
+> <STRUCTURE_MW>
+285.3377
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E,4E)-5-(1,3-benzodioxol-5-yl)-1-(piperidin-1-yl)penta-2,4-dien-1-one
+
+> <STRUCTURE_SMILES>
+O=C(/C=C/C=C/c1ccc2OCOc2c1)N3CCCCC3
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(/C=C/C=C/c1ccc2OCOc2c1)N3CCCCC3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,107 @@
+25059-80-7
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    3.0781   -3.9648    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6599   -5.2278    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1831   -2.9694    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3746   -3.6720    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7928   -2.4257    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7928   -0.2593    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0066   -1.3299    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0559   -2.0075    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0559   -0.6775    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2102    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3645   -0.6775    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3645   -2.0075    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2102   -2.6599    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6766   -1.3299    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2102   -3.9898    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8783   -3.2370    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2668    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+8581
+
+> <Formula>
+C11H10ClNO3S
+
+> <FW>
+271.72
+
+> <DSSTox_CID>
+21621
+
+> <DSSTox_RID>
+79790
+
+> <DSSTox_GSID>
+41621
+
+> <DSSTox_FileID_Sort>
+4472
+
+> <TS_ChemName>
+Benazolin-ethyl
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+25059-80-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H10ClNO3S
+
+> <STRUCTURE_MW>
+271.72
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl (4-chloro-2-oxo-1,3-benzothiazol-3(2H)-yl)acetate
+
+> <STRUCTURE_SMILES>
+O=C(OCC)CN2c1c(cccc1Cl)SC2=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)CN2c1c(cccc1Cl)SC2=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

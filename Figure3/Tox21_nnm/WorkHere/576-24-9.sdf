@@ -1,0 +1,90 @@
+576-24-9
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3037    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -2.3037    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -1.1518    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3265   -1.1518    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9899   -2.3037    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3265   -3.4555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -3.4555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -4.6073    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+3962
+
+> <Formula>
+C6H4Cl2O
+
+> <FW>
+163.0014
+
+> <DSSTox_CID>
+5001
+
+> <DSSTox_RID>
+77620
+
+> <DSSTox_GSID>
+25001
+
+> <DSSTox_FileID_Sort>
+2303
+
+> <TS_ChemName>
+2,3-Dichlorophenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+576-24-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4Cl2O
+
+> <STRUCTURE_MW>
+163.0014
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,3-dichlorophenol
+
+> <STRUCTURE_SMILES>
+Oc1cccc(Cl)c1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1cccc(Cl)c1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

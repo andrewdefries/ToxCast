@@ -1,0 +1,106 @@
+149-45-1
+ChemmineR-0915142007XD
+
+ 18 16  0  0  0  0  0  0  0  0  2 V2000
+    6.1367   -2.3213    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8126   -3.4686    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1367   -4.6070    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8204   -4.6070    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1356   -3.4686    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8204   -2.3213    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7593   -1.1829    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0400   -1.8944    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3907   -0.0445    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    5.6475   -0.5336    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8015   -3.4686    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8015   -2.0100    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5119   -3.4686    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.8015   -4.7493    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1623   -5.7454    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7593   -5.7454    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.5575    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    8.8938    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+M  END
+> <ID>
+9768
+
+> <Formula>
+C6H4Na2O8S2
+
+> <FW>
+314.2007 (268.2223+22.9892+22.9892)
+
+> <DSSTox_CID>
+23950
+
+> <DSSTox_RID>
+80093
+
+> <DSSTox_GSID>
+43950
+
+> <DSSTox_FileID_Sort>
+4775
+
+> <TS_ChemName>
+Tiron
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+149-45-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [149-46-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4Na2O8S2
+
+> <STRUCTURE_MW>
+314.2007
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+disodium 4,5-dihydroxybenzene-1,3-disulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].[Na+].Oc1c(O)cc(cc1S(=O)([O-])=O)S([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1c(O)cc(cc1S(O)(=O)=O)S(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20090108
+
+$$$$

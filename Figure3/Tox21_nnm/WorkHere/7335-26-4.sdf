@@ -1,0 +1,98 @@
+7335-26-4
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    3.4600   -1.3356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4600    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3044   -1.9930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6156   -1.9930    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3044   -3.3216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1556   -1.3356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1556   -3.9928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4600   -3.9928    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4600   -5.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7643   -1.3356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9200   -1.9930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+12276
+
+> <Formula>
+C10H12O3
+
+> <FW>
+180.2005
+
+> <DSSTox_CID>
+27126
+
+> <DSSTox_RID>
+82133
+
+> <DSSTox_GSID>
+47126
+
+> <DSSTox_FileID_Sort>
+6814
+
+> <TS_ChemName>
+Ethyl 2-methoxybenzoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7335-26-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12O3
+
+> <STRUCTURE_MW>
+180.2005
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 2-methoxybenzoate
+
+> <STRUCTURE_SMILES>
+COc1ccccc1C(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccccc1C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

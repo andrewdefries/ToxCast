@@ -1,0 +1,105 @@
+41468-25-1
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+    6.9142   -2.6624    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2994   -2.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -2.0089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2994    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4531   -2.0089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -0.6696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7685   -2.0089    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4531   -0.6696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5838   -1.5087    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6148   -2.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2994   -3.9855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2526   -3.8242    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0679   -3.3240    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4531   -4.6552    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6624    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7040   -5.0747    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  2  0  0  0  0
+  1 12  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  8  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 10  1  0  0  0  0
+ 11 14  2  0  0  0  0
+M  END
+> <ID>
+11816
+
+> <Formula>
+C8H12NO7P
+
+> <FW>
+265.1571 (247.1419+18.0153)
+
+> <DSSTox_CID>
+26594
+
+> <DSSTox_RID>
+81751
+
+> <DSSTox_GSID>
+46594
+
+> <DSSTox_FileID_Sort>
+6432
+
+> <TS_ChemName>
+Pyridoxal phosphate hydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+41468-25-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [54-47-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12NO7P
+
+> <STRUCTURE_MW>
+265.1571
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(4-formyl-5-hydroxy-6-methylpyridin-3-yl)methyl dihydrogen phosphate hydrate (1:1)
+
+> <STRUCTURE_SMILES>
+O.Oc1c(C=O)c(cnc1C)COP(=O)(O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1c(C=O)c(cnc1C)COP(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20110810
+
+$$$$

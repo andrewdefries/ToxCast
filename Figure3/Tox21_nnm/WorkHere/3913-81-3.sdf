@@ -1,0 +1,93 @@
+3913-81-3
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1390   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2895    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4400   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6019    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7524   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9029    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0649   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2154    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3659   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5049    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+12189
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+27035
+
+> <DSSTox_RID>
+82056
+
+> <DSSTox_GSID>
+47035
+
+> <DSSTox_FileID_Sort>
+6737
+
+> <TS_ChemName>
+(2E)-2-Decenal
+
+> <TS_ChemName_Synonyms>
+trans-2-Decenal
+
+> <TS_CASRN>
+3913-81-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-dec-2-enal
+
+> <STRUCTURE_SMILES>
+CCCCCCC\C=C\C=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCC\C=C\C=O
+
+> <Substance_modify_yyyymmdd>
+20100427
+
+$$$$

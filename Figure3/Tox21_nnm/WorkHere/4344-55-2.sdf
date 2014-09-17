@@ -1,0 +1,96 @@
+4344-55-2
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    9.3016   -2.3068    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9715   -2.3068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3017   -3.4602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9716   -3.4602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3112   -2.3068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9904   -2.3068    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3114   -1.1534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9812   -1.1534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3301    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9716   -1.1534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3017   -1.1534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+13261
+
+> <Formula>
+C10H15NO
+
+> <FW>
+165.2322
+
+> <DSSTox_CID>
+28174
+
+> <DSSTox_RID>
+82734
+
+> <DSSTox_GSID>
+48199
+
+> <DSSTox_FileID_Sort>
+7411
+
+> <TS_ChemName>
+4-Butyloxyaniline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4344-55-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H15NO
+
+> <STRUCTURE_MW>
+165.2322
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-butoxyaniline
+
+> <STRUCTURE_SMILES>
+Nc1ccc(OCCCC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(OCCCC)cc1
+
+> <Substance_modify_yyyymmdd>
+20110901
+
+$$$$

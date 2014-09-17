@@ -1,0 +1,109 @@
+100299-08-9
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -3.4585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6756   -2.3083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6756    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9866    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6622   -1.1501    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9893   -1.1501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6649    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6649   -2.3083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9893   -3.4585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6622   -3.4585    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9866   -2.3083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9920   -2.3083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7802   -1.2306    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0429   -1.6488    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0429   -2.9678    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7802   -3.3780    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+    5.3003   -4.0697    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+11838
+
+> <Formula>
+C10H7KN6O
+
+> <FW>
+266.3005 (227.2027+39.0978)
+
+> <DSSTox_CID>
+26623
+
+> <DSSTox_RID>
+81773
+
+> <DSSTox_GSID>
+46623
+
+> <DSSTox_FileID_Sort>
+6454
+
+> <TS_ChemName>
+Pemirolast potassium
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+100299-08-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers; parent [69372-19-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H7KN6O
+
+> <STRUCTURE_MW>
+266.3005
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+potassium 5-(9-methyl-4-oxo-4H-pyrido[1,2-a]pyrimidin-3-yl)tetrazol-1-ide
+
+> <STRUCTURE_SMILES>
+[K+].CC3=CC=CN1C3=NC=C(C1=O)c2[n-]nnn2
+
+> <STRUCTURE_SMILES_Desalt>
+CC3=CC=CN1C3=NC=C(C1=O)c2nnnn2
+
+> <Substance_modify_yyyymmdd>
+20110809
+
+$$$$

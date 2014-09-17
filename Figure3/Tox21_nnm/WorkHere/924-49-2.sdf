@@ -1,0 +1,87 @@
+924-49-2
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    5.7805   -0.6532    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6244    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4683   -0.6532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4683   -1.9885    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3122    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1561   -0.6532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1561   -1.9885    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <ID>
+11261
+
+> <Formula>
+C4H9NO3
+
+> <FW>
+119.1192
+
+> <DSSTox_CID>
+25877
+
+> <DSSTox_RID>
+81193
+
+> <DSSTox_GSID>
+45877
+
+> <DSSTox_FileID_Sort>
+5874
+
+> <TS_ChemName>
+4-Amino-3-hydroxybutyric acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+924-49-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H9NO3
+
+> <STRUCTURE_MW>
+119.1192
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-3-hydroxybutanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CC(O)CN
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CC(O)CN
+
+> <Substance_modify_yyyymmdd>
+20110922
+
+$$$$

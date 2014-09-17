@@ -1,0 +1,81 @@
+1308-38-9_1
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 Cr   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6638    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 Cr   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -0.6638    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <ID>
+316
+
+> <Formula>
+Cr2O3
+
+> <FW>
+151.9904
+
+> <DSSTox_CID>
+326
+
+> <DSSTox_RID>
+75514
+
+> <DSSTox_GSID>
+20326
+
+> <DSSTox_FileID_Sort>
+198
+
+> <TS_ChemName>
+Chromic oxide pigment
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1308-38-9_1
+
+> <CASRN_ChemName_Relationship>
+CAS for major component
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+CASRN is for Chromium(III) oxide
+
+> <STRUCTURE_Shown>
+active ingredient of formulation
+
+> <STRUCTURE_Formula>
+Cr2O3
+
+> <STRUCTURE_MW>
+151.9904
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+dichromium trioxide
+
+> <STRUCTURE_SMILES>
+O=[Cr]O[Cr]=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[Cr]O[Cr]=O
+
+> <Substance_modify_yyyymmdd>
+20130909
+
+$$$$

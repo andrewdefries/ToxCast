@@ -1,0 +1,94 @@
+102-36-3
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    4.6051   -1.3309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6051   -2.6685    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6051    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4538   -3.3274    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4538   -4.6583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3025   -2.6685    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3025   -5.3238    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -3.3274    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -4.6583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3025   -6.6547    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3238    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+6593
+
+> <Formula>
+C7H3Cl2NO
+
+> <FW>
+188.0108
+
+> <DSSTox_CID>
+13008
+
+> <DSSTox_RID>
+79046
+
+> <DSSTox_GSID>
+33008
+
+> <DSSTox_FileID_Sort>
+3728
+
+> <TS_ChemName>
+3,4-Dichlorophenyl isocyanate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+102-36-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H3Cl2NO
+
+> <STRUCTURE_MW>
+188.0108
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-dichloro-4-isocyanatobenzene
+
+> <STRUCTURE_SMILES>
+Clc1ccc(/N=C=O)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(/N=C=O)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

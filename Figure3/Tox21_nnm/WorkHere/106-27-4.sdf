@@ -1,0 +1,93 @@
+106-27-4
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    3.5501   -1.3231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5501    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6868   -1.9754    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4040   -1.9754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1647   -1.3511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8702   -1.3231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1530   -1.3231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0163   -1.9754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3177   -1.9754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1530    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+8991
+
+> <Formula>
+C9H18O2
+
+> <FW>
+158.238
+
+> <DSSTox_CID>
+22059
+
+> <DSSTox_RID>
+79909
+
+> <DSSTox_GSID>
+42059
+
+> <DSSTox_FileID_Sort>
+4591
+
+> <TS_ChemName>
+Isopentyl butyrate
+
+> <TS_ChemName_Synonyms>
+Isopentyl butyrate (Isoamyl butyrate)
+
+> <TS_CASRN>
+106-27-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18O2
+
+> <STRUCTURE_MW>
+158.238
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylbutyl butanoate
+
+> <STRUCTURE_SMILES>
+CC(C)CCOC(=O)CCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CCOC(=O)CCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

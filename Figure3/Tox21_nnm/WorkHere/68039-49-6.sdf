@@ -1,0 +1,92 @@
+68039-49-6
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.9862   -1.1551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3278   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9991   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3287   -1.1551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9991    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3278    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3149   -1.1551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9852    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9862   -3.4595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+10228
+
+> <Formula>
+C9H14O
+
+> <FW>
+138.2069
+
+> <DSSTox_CID>
+24574
+
+> <DSSTox_RID>
+80323
+
+> <DSSTox_GSID>
+44574
+
+> <DSSTox_FileID_Sort>
+5005
+
+> <TS_ChemName>
+2,4-Dimethylcyclohex-3-ene-1-carbaldehyde
+
+> <TS_ChemName_Synonyms>
+2,4-Dimethylcyclohex-3-ene-1-carbaldehyde (3-Cyclohexene-1-carboxaldehyde, dimethyl-) (Triplal)
+
+> <TS_CASRN>
+68039-49-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H14O
+
+> <STRUCTURE_MW>
+138.2069
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-dimethylcyclohex-3-ene-1-carbaldehyde
+
+> <STRUCTURE_SMILES>
+CC1C=C(C)CCC1C=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC1C=C(C)CCC1C=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

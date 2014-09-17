@@ -1,0 +1,110 @@
+117-10-2
+ChemmineR-0915142007XD
+
+ 18 20  0  0  0  0  0  0  0  0  1 V2000
+    3.4563   -5.3227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -3.9955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -3.3249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -1.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -3.9955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -5.3227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -1.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6107   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7582   -1.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9126   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9126   -3.3249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7582   -3.9955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6107   -3.3249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7582   -5.3227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+318
+
+> <Formula>
+C14H8O4
+
+> <FW>
+240.2109
+
+> <DSSTox_CID>
+328
+
+> <DSSTox_RID>
+75516
+
+> <DSSTox_GSID>
+20328
+
+> <DSSTox_FileID_Sort>
+200
+
+> <TS_ChemName>
+Danthron
+
+> <TS_ChemName_Synonyms>
+Danthron (Chrysazin)
+
+> <TS_CASRN>
+117-10-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H8O4
+
+> <STRUCTURE_MW>
+240.2109
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,8-dihydroxyanthracene-9,10-dione
+
+> <STRUCTURE_SMILES>
+Oc3cccc2C(=O)c1cccc(O)c1C(=O)c23
+
+> <STRUCTURE_SMILES_Desalt>
+Oc3cccc2C(=O)c1cccc(O)c1C(=O)c23
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

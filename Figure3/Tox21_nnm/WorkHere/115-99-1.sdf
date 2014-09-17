@@ -1,0 +1,97 @@
+115-99-1
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    8.0598   -2.3120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9084   -1.6396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7478   -2.3120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0754   -1.1606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2112   -1.6396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1330   -2.3120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2936   -2.9660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7478    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4450   -2.3120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5964   -2.9660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1330   -0.9764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.9660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4110   -3.4634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  8  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+12763
+
+> <Formula>
+C11H18O2
+
+> <FW>
+182.2594
+
+> <DSSTox_CID>
+27642
+
+> <DSSTox_RID>
+82469
+
+> <DSSTox_GSID>
+47642
+
+> <DSSTox_FileID_Sort>
+7150
+
+> <TS_ChemName>
+Linalyl formate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+115-99-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H18O2
+
+> <STRUCTURE_MW>
+182.2594
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,7-dimethylocta-1,6-dien-3-yl formate
+
+> <STRUCTURE_SMILES>
+O=COC(C)(CC\C=C(\C)C)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+O=COC(C)(CC\C=C(\C)C)C=C
+
+> <Substance_modify_yyyymmdd>
+20101214
+
+$$$$

@@ -1,0 +1,81 @@
+79-21-0
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    2.3056    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.9945    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+4437
+
+> <Formula>
+C2H4O3
+
+> <FW>
+76.0514
+
+> <DSSTox_CID>
+5853
+
+> <DSSTox_RID>
+77948
+
+> <DSSTox_GSID>
+25853
+
+> <DSSTox_FileID_Sort>
+2631
+
+> <TS_ChemName>
+Peracetic acid
+
+> <TS_ChemName_Synonyms>
+Peracetic acid (Ethaneperoxoic acid)
+
+> <TS_CASRN>
+79-21-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H4O3
+
+> <STRUCTURE_MW>
+76.0514
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethaneperoxoic acid
+
+> <STRUCTURE_SMILES>
+CC(=O)OO
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)OO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

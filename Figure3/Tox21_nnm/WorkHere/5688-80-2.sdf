@@ -1,0 +1,105 @@
+5688-80-2
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+    7.8655   -4.2322    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6287   -0.7364    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6125   -2.0797    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4472   -2.6947    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062   -1.9987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062   -0.6878    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4958   -0.0486    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7858   -0.0647    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1734    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6069    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1572   -2.6785    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1572   -3.9894    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3987   -4.0379    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5316   -4.7258    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9349   -0.7364    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0921   -0.0647    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9349   -2.0635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+13869
+
+> <Formula>
+C13H21ClO3
+
+> <FW>
+260.7570 (36.4609+224.2961)
+
+> <DSSTox_CID>
+28806
+
+> <DSSTox_RID>
+83075
+
+> <DSSTox_GSID>
+48880
+
+> <DSSTox_FileID_Sort>
+7752
+
+> <TS_ChemName>
+3,4,5-Trimethoxyamphetamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+(?)-3,4,5-Trimethoxyamphetamine Hydrochloride
+
+> <TS_CASRN>
+5688-80-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [22199-17-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H21ClO3
+
+> <STRUCTURE_MW>
+260.757
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1,2,3-trimethoxy-5-(2-methylpropyl)benzene hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.COc1c(cc(cc1OC)CC(C)C)OC
+
+> <STRUCTURE_SMILES_Desalt>
+COc1c(cc(cc1OC)CC(C)C)OC
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

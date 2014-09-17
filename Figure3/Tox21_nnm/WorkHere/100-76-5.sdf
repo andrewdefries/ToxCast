@@ -1,0 +1,89 @@
+100-76-5
+ChemmineR-0915142007XD
+
+  8  9  0  0  0  0  0  0  0  0  1 V2000
+    2.5338   -0.7306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5338   -2.1919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2596   -2.9225    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.7306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2596    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8032   -0.9557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7915   -1.9084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+16013
+
+> <Formula>
+C7H13N
+
+> <FW>
+111.1848
+
+> <DSSTox_CID>
+31396
+
+> <DSSTox_RID>
+97282
+
+> <DSSTox_GSID>
+57607
+
+> <DSSTox_FileID_Sort>
+8349
+
+> <TS_ChemName>
+Quinuclidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+100-76-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H13N
+
+> <STRUCTURE_MW>
+111.1848
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+quinuclidine
+
+> <STRUCTURE_SMILES>
+C1CN2CCC1CC2
+
+> <STRUCTURE_SMILES_Desalt>
+C1CN2CCC1CC2
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

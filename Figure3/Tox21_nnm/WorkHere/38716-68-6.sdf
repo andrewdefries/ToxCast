@@ -1,0 +1,100 @@
+38716-68-6
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    7.5753   -4.6141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5941   -5.5245    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8393   -4.9942    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9930   -2.9346    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2659   -3.3147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6429   -0.0354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9688    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2717   -1.3171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4196   -1.2640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3589   -2.0684    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6837   -1.6529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6648   -0.7337    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0077   -1.7413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8839    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+6596
+
+> <Formula>
+C8H9NO5
+
+> <FW>
+199.1608
+
+> <DSSTox_CID>
+13096
+
+> <DSSTox_RID>
+79049
+
+> <DSSTox_GSID>
+33096
+
+> <DSSTox_FileID_Sort>
+3731
+
+> <TS_ChemName>
+5-(Hydroxymethyl-2-furoyl)glycine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+38716-68-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9NO5
+
+> <STRUCTURE_MW>
+199.1608
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-{[5-(hydroxymethyl)furan-2-yl]carbonyl}glycine
+
+> <STRUCTURE_SMILES>
+O=C(NCC(=O)O)c1ccc(CO)o1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NCC(=O)O)c1ccc(CO)o1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

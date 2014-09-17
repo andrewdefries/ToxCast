@@ -1,0 +1,90 @@
+95-73-8
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    1.1581   -1.9978    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1581   -3.3220    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3070   -3.9911    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558   -3.3220    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558   -1.9978    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3070   -1.3380    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6139   -1.3288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3070    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9911    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+7898
+
+> <Formula>
+C7H6Cl2
+
+> <FW>
+161.0285
+
+> <DSSTox_CID>
+20702
+
+> <DSSTox_RID>
+79553
+
+> <DSSTox_GSID>
+40702
+
+> <DSSTox_FileID_Sort>
+4235
+
+> <TS_ChemName>
+2,4-Dichlorotoluene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+95-73-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6Cl2
+
+> <STRUCTURE_MW>
+161.0285
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-dichloro-1-methylbenzene
+
+> <STRUCTURE_SMILES>
+Clc1cc(Cl)c(C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(Cl)c(C)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

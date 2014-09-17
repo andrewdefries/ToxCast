@@ -1,0 +1,81 @@
+15663-27-1
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+      1.33     -2.66      0.00 N    0  0  0  0  0  0  0  0  0  0  0  0
+      1.33     -1.33      0.00 Pt   0  0  0  0  0  0  0  0  0  0  0  0
+      0.00     -1.33      0.00 N    0  0  0  0  0  0  0  0  0  0  0  0
+      1.33      0.00      0.00 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+      2.66     -1.33      0.00 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <ID>
+3951
+
+> <Formula>
+H4Cl2N2Pt
+
+> <FW>
+298.0352
+
+> <DSSTox_CID>
+4983
+
+> <DSSTox_RID>
+77611
+
+> <DSSTox_GSID>
+24983
+
+> <DSSTox_FileID_Sort>
+2294
+
+> <TS_ChemName>
+Cisplatin
+
+> <TS_ChemName_Synonyms>
+Cisplatin (Cis) (cis-Dichlorodiamine platinum) (cis-Dichloro diaminoplatinum II)
+
+> <TS_CASRN>
+15663-27-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+H4Cl2N2Pt
+
+> <STRUCTURE_MW>
+298.0352
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+platinum(4+) chloride azanide (1:2:2)
+
+> <STRUCTURE_SMILES>
+Cl[Pt](Cl)(N)N
+
+> <STRUCTURE_SMILES_Desalt>
+Cl[Pt](Cl)(N)N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,85 @@
+149-73-5
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    2.0038   -2.3072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6746   -2.3072    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6625   -3.4608    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9917   -3.4608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6625   -1.1536    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0038    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+4943
+
+> <Formula>
+C4H10O3
+
+> <FW>
+106.1204
+
+> <DSSTox_CID>
+7122
+
+> <DSSTox_RID>
+78317
+
+> <DSSTox_GSID>
+27122
+
+> <DSSTox_FileID_Sort>
+3000
+
+> <TS_ChemName>
+Trimethoxymethane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+149-73-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10O3
+
+> <STRUCTURE_MW>
+106.1204
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+trimethoxymethane
+
+> <STRUCTURE_SMILES>
+COC(OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+COC(OC)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

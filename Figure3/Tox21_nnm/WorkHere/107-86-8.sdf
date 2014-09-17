@@ -1,0 +1,83 @@
+107-86-8
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.1553   -1.3355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3105   -1.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4658   -1.3355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6211   -1.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4658    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+> <ID>
+6069
+
+> <Formula>
+C5H8O
+
+> <FW>
+84.1164
+
+> <DSSTox_CID>
+9606
+
+> <DSSTox_RID>
+78783
+
+> <DSSTox_GSID>
+29606
+
+> <DSSTox_FileID_Sort>
+3465
+
+> <TS_ChemName>
+3-Methylbut-2-enal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+107-86-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8O
+
+> <STRUCTURE_MW>
+84.1164
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylbut-2-enal
+
+> <STRUCTURE_SMILES>
+C/C(C)=C\C=O
+
+> <STRUCTURE_SMILES_Desalt>
+C/C(C)=C\C=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

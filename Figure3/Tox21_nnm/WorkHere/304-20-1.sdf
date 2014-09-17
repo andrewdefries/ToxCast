@@ -1,0 +1,98 @@
+304-20-1
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    5.3298   -3.4529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9872   -2.3046    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3298   -1.1483    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9994   -1.1483    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3262   -2.3046    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9994   -3.4529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0036   -2.3046    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3305   -3.4529    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4529    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3305   -1.1483    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0036    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3262    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9195   -0.7048    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+10298
+
+> <Formula>
+C8H9ClN4
+
+> <FW>
+196.6369 (160.1759+36.4609)
+
+> <DSSTox_CID>
+24645
+
+> <DSSTox_RID>
+80373
+
+> <DSSTox_GSID>
+44645
+
+> <DSSTox_FileID_Sort>
+5055
+
+> <TS_ChemName>
+Hydralazine hydrochloride
+
+> <TS_ChemName_Synonyms>
+1-Hydrazinylphthalazine hydrochloride (1:1) (1(2H)-Phthalazinone hydrazone, monohydrochloride)
+
+> <TS_CASRN>
+304-20-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [86-54-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9ClN4
+
+> <STRUCTURE_MW>
+196.6369
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-hydrazinylphthalazine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.NNc2nncc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+NNc2nncc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

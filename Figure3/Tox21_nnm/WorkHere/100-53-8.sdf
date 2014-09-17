@@ -1,0 +1,88 @@
+100-53-8
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    2.6528   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0013   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6702   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6702    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0013    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9839   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6541    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+4756
+
+> <Formula>
+C7H8S
+
+> <FW>
+124.2034
+
+> <DSSTox_CID>
+6664
+
+> <DSSTox_RID>
+78178
+
+> <DSSTox_GSID>
+26664
+
+> <DSSTox_FileID_Sort>
+2861
+
+> <TS_ChemName>
+Benzenemethanethiol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+100-53-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H8S
+
+> <STRUCTURE_MW>
+124.2034
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+phenylmethanethiol
+
+> <STRUCTURE_SMILES>
+SCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+SCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

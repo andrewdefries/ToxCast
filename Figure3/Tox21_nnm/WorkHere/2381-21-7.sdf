@@ -1,0 +1,109 @@
+2381-21-7
+ChemmineR-0915142007XD
+
+ 17 20  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -1.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -0.6701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3005    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4543   -0.6701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7617   -0.6701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7617   -1.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9085   -2.6598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9085   -3.9931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7548   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -3.9931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4543   -4.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3005   -3.9931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3005   -2.6598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4543   -1.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -2.6598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+4325
+
+> <Formula>
+C17H12
+
+> <FW>
+216.2772
+
+> <DSSTox_CID>
+5654
+
+> <DSSTox_RID>
+77870
+
+> <DSSTox_GSID>
+25654
+
+> <DSSTox_FileID_Sort>
+2553
+
+> <TS_ChemName>
+1-Methylpyrene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2381-21-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H12
+
+> <STRUCTURE_MW>
+216.2772
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methylpyrene
+
+> <STRUCTURE_SMILES>
+Cc4ccc1ccc2cccc3ccc4c1c23
+
+> <STRUCTURE_SMILES_Desalt>
+Cc4ccc1ccc2cccc3ccc4c1c23
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

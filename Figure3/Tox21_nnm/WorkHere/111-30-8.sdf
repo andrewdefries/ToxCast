@@ -1,0 +1,85 @@
+111-30-8
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1548    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6122   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7601    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9149   -0.6638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+4158
+
+> <Formula>
+C5H8O2
+
+> <FW>
+100.1158
+
+> <DSSTox_CID>
+5355
+
+> <DSSTox_RID>
+77761
+
+> <DSSTox_GSID>
+25355
+
+> <DSSTox_FileID_Sort>
+2444
+
+> <TS_ChemName>
+Glutaraldehyde
+
+> <TS_ChemName_Synonyms>
+Glutaraldehyde (Glutaric dialdehyde) (Pentanedial)
+
+> <TS_CASRN>
+111-30-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8O2
+
+> <STRUCTURE_MW>
+100.1158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pentanedial
+
+> <STRUCTURE_SMILES>
+O=CCCCC=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=CCCCC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,112 @@
+130693-82-2
+ChemmineR-0915142007XD
+
+ 20 20  0  0  1  0  0  0  0  0  1 V2000
+    4.2925   -1.8371    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2925   -3.1443    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1619   -1.1482    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5731   -1.4043    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1619   -3.7890    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5731   -3.5859    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9873   -1.8371    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4730    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7625    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3415   -2.4819    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9873   -3.1443    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1619   -5.1669    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8567   -1.1482    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6575   -2.4819    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2925   -5.8116    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3465   -3.6300    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6575   -1.1482    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.8322   -1.8371    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4407   -5.1669    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.5506    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3  9  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  1  0  0  0
+  6 10  2  0  0  0  0
+  7 13  1  6  0  0  0
+  7 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 19  1  0  0  0  0
+M  END
+> <ID>
+11001
+
+> <Formula>
+C10H17ClN2O4S3
+
+> <FW>
+360.9010 (324.4400+36.4609)
+
+> <DSSTox_CID>
+25530
+
+> <DSSTox_RID>
+80933
+
+> <DSSTox_GSID>
+45530
+
+> <DSSTox_FileID_Sort>
+5614
+
+> <TS_ChemName>
+Dorzolamide hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+130693-82-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [120279-96-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H17ClN2O4S3
+
+> <STRUCTURE_MW>
+360.901
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(4S,6S)-4-(ethylamino)-6-methyl-5,6-dihydro-4H-thieno[2,3-b]thiopyran-2-sulfonamide 7,7-dioxide hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.NS(=O)(=O)c1cc2[C@H](C[C@H](C)S(=O)(=O)c2s1)NCC
+
+> <STRUCTURE_SMILES_Desalt>
+NS(=O)(=O)c1cc2[C@H](C[C@H](C)S(=O)(=O)c2s1)NCC
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

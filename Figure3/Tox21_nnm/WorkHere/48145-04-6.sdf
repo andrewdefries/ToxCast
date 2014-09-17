@@ -1,0 +1,100 @@
+48145-04-6
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    8.0544   -1.3476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2258   -2.0110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3660   -1.3476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0544    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9141   -2.0110    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7739   -1.3476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5922   -2.0110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4519   -1.3476    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2805   -2.0110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1403   -1.3476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3116   -3.3171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1403   -4.0117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+7911
+
+> <Formula>
+C11H12O3
+
+> <FW>
+192.2112
+
+> <DSSTox_CID>
+20715
+
+> <DSSTox_RID>
+79563
+
+> <DSSTox_GSID>
+40715
+
+> <DSSTox_FileID_Sort>
+4245
+
+> <TS_ChemName>
+2-Phenoxyethyl acrylate
+
+> <TS_ChemName_Synonyms>
+Ethylene glycol phenyl ether acrylate (2-Phenoxyethyl acrylate) (2-Propenoic acid, 2-phenoxyethyl ester)
+
+> <TS_CASRN>
+48145-04-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H12O3
+
+> <STRUCTURE_MW>
+192.2112
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-phenoxyethyl prop-2-enoate
+
+> <STRUCTURE_SMILES>
+C=CC(=O)OCCOc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(=O)OCCOc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

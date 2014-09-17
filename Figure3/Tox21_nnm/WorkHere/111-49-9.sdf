@@ -1,0 +1,86 @@
+111-49-9
+ChemmineR-0915142007XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    1.8733    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9044   -0.8572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9044   -2.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8733   -2.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6084   -2.7305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.5136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6084   -0.2817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+4829
+
+> <Formula>
+C6H13N
+
+> <FW>
+99.1741
+
+> <DSSTox_CID>
+6879
+
+> <DSSTox_RID>
+78234
+
+> <DSSTox_GSID>
+26879
+
+> <DSSTox_FileID_Sort>
+2917
+
+> <TS_ChemName>
+Hexamethyleneimine
+
+> <TS_ChemName_Synonyms>
+1-Azacycloheptane  (Hexamethyleneimine) (1H-Azepine, hexahydro-)
+
+> <TS_CASRN>
+111-49-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H13N
+
+> <STRUCTURE_MW>
+99.1741
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+azepane
+
+> <STRUCTURE_SMILES>
+C1CCCCCN1
+
+> <STRUCTURE_SMILES_Desalt>
+C1CCCCCN1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

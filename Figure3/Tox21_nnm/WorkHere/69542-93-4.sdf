@@ -1,0 +1,97 @@
+69542-93-4
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    8.7161   -0.8468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0534   -1.9972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2039   -2.6599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3907   -3.1477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9029   -1.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9029    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7524   -1.9972    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6020   -1.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4515   -1.9972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3010   -1.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1505   -1.9972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3254    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1505   -3.3226    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <ID>
+11461
+
+> <Formula>
+C9H17NO3
+
+> <FW>
+187.2362
+
+> <DSSTox_CID>
+26162
+
+> <DSSTox_RID>
+81393
+
+> <DSSTox_GSID>
+46162
+
+> <DSSTox_FileID_Sort>
+6074
+
+> <TS_ChemName>
+Pivagabine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+69542-93-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H17NO3
+
+> <STRUCTURE_MW>
+187.2362
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-[(2,2-dimethylpropanoyl)amino]butanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(NCCCC(=O)O)C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NCCCC(=O)O)C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

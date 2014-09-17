@@ -1,0 +1,95 @@
+13372-77-5
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    2.6558   -1.3333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8063   -1.9892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9675   -1.3333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1288   -1.9892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3008   -1.3333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4512   -1.9892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6125   -1.3333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7522   -1.9892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3333   -1.3333    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9675    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6125    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  3  2  3  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <ID>
+10196
+
+> <Formula>
+C10H17NO
+
+> <FW>
+167.2481
+
+> <DSSTox_CID>
+24542
+
+> <DSSTox_RID>
+80303
+
+> <DSSTox_GSID>
+44542
+
+> <DSSTox_FileID_Sort>
+4985
+
+> <TS_ChemName>
+Citral oxime
+
+> <TS_ChemName_Synonyms>
+Citral oxime (2,6-Octadienal, 3,7-dimethyl-, oxime)
+
+> <TS_CASRN>
+13372-77-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C10H17NO
+
+> <STRUCTURE_MW>
+167.2481
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-hydroxy-3,7-dimethylocta-2,6-dien-1-imine
+
+> <STRUCTURE_SMILES>
+C/C(C)=C\CCC(C)=C\C=N\O
+
+> <STRUCTURE_SMILES_Desalt>
+C/C(C)=C\CCC(C)=C\C=N\O
+
+> <Substance_modify_yyyymmdd>
+20110427
+
+$$$$

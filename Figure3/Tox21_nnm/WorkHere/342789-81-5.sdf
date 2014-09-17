@@ -1,0 +1,101 @@
+342789-81-5
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  2 V2000
+    6.5694   -1.0524    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.5642   -1.7171    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7939   -2.1381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7939    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5642   -0.4210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4675   -2.5037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2710   -1.9387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2186   -2.7142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9099   -1.0524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0782   -3.4232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7378   -3.4232    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7378   -1.9498    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4305   -3.4232    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    9.7378   -4.7304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+M  END
+> <ID>
+12987
+
+> <Formula>
+C9H18N2O3S
+
+> <FW>
+234.3158 (139.2176+95.0983)
+
+> <DSSTox_CID>
+27888
+
+> <DSSTox_RID>
+82641
+
+> <DSSTox_GSID>
+47912
+
+> <DSSTox_FileID_Sort>
+7318
+
+> <TS_ChemName>
+1-Butyl-3-methylimidazolium methanesulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+342789-81-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [80432-08-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18N2O3S
+
+> <STRUCTURE_MW>
+234.3158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+1-butyl-3-methyl-1H-imidazol-3-ium methanesulfonate
+
+> <STRUCTURE_SMILES>
+CCCCn1cc[n+](C)c1.[O-]S(C)(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCn1cc[n+](C)c1
+
+> <Substance_modify_yyyymmdd>
+20110419
+
+$$$$

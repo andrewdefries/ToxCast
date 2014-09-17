@@ -1,0 +1,100 @@
+515-49-1
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    4.6013   -2.6753    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7616   -3.3442    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9140   -2.6914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570   -1.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9324   -3.8196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2701   -1.5069    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9140   -1.3538    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3127   -2.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570   -0.6688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0582   -3.3442    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1443   -0.6688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3127   -0.0161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1443   -1.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  8  2  0  0  0  0
+  4  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  2  0  0  0  0
+M  END
+> <ID>
+12038
+
+> <Formula>
+C7H9N3O2S2
+
+> <FW>
+231.2953
+
+> <DSSTox_CID>
+26868
+
+> <DSSTox_RID>
+81975
+
+> <DSSTox_GSID>
+46868
+
+> <DSSTox_FileID_Sort>
+6656
+
+> <TS_ChemName>
+Sulfathiourea
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+515-49-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H9N3O2S2
+
+> <STRUCTURE_MW>
+231.2953
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-N-carbamothioylbenzenesulfonamide
+
+> <STRUCTURE_SMILES>
+Nc1ccc(cc1)S(=O)(=O)NC(N)=S
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1)S(=O)(=O)NC(N)=S
+
+> <Substance_modify_yyyymmdd>
+20110728
+
+$$$$

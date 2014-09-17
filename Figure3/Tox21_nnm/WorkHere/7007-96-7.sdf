@@ -1,0 +1,100 @@
+7007-96-7
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+   10.6298   -1.1586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3010   -1.1586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6314    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3026    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9739    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6452    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9862   -1.1586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6452   -2.3067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6574   -1.1586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9878   -2.3067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6590   -2.3067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1586    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6590    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9878    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  3  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+11417
+
+> <Formula>
+C10H11N3O
+
+> <FW>
+189.2138
+
+> <DSSTox_CID>
+26113
+
+> <DSSTox_RID>
+81349
+
+> <DSSTox_GSID>
+46113
+
+> <DSSTox_FileID_Sort>
+6030
+
+> <TS_ChemName>
+Crotoniazide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7007-96-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H11N3O
+
+> <STRUCTURE_MW>
+189.2138
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N'-(but-2-en-1-ylidene)pyridine-4-carbohydrazide
+
+> <STRUCTURE_SMILES>
+O=C(N\N=C\C=CC)c1ccncc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(N\N=C\C=CC)c1ccncc1
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

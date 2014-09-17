@@ -1,0 +1,107 @@
+115-31-1
+ChemmineR-0915142007XD
+
+ 17 18  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -3.9710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5660   -2.9394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5610   -2.2365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1959   -3.3502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1776   -0.9676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7842   -2.9577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3278   -3.9345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9901    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2647   -0.0913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1959   -4.6282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5967   -3.7519    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3818   -4.7652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6324   -4.5826    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9071   -5.9428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6830   -6.9378    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2083   -8.1154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9934   -9.1287    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  1  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 11  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  3  0  0  0  0
+M  END
+> <ID>
+7645
+
+> <Formula>
+C13H19NO2S
+
+> <FW>
+253.3605
+
+> <DSSTox_CID>
+20266
+
+> <DSSTox_RID>
+79460
+
+> <DSSTox_GSID>
+40266
+
+> <DSSTox_FileID_Sort>
+4142
+
+> <TS_ChemName>
+Thanite
+
+> <TS_ChemName_Synonyms>
+Thanite (Isobornyl thiocyanatoacetate)
+
+> <TS_CASRN>
+115-31-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+relative stereochem; structure shown (1R,2R,4R)-
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H19NO2S
+
+> <STRUCTURE_MW>
+253.3605
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1R,2R,4R)-1,7,7-trimethylbicyclo[2.2.1]hept-2-yl thiocyanatoacetate
+
+> <STRUCTURE_SMILES>
+N#CSCC(=O)O[C@@H]1C[C@H]2CC[C@]1(C)C2(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+N#CSCC(=O)O[C@@H]1C[C@H]2CC[C@]1(C)C2(C)C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

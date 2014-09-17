@@ -1,0 +1,87 @@
+2386-60-9
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.5435   -2.3358    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3532   -1.8097    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575   -1.1043    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6428   -1.7288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7818   -1.0407    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1679   -1.1679    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8097    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.5435    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <ID>
+10530
+
+> <Formula>
+C4H9ClO2S
+
+> <FW>
+156.6311
+
+> <DSSTox_CID>
+24883
+
+> <DSSTox_RID>
+80557
+
+> <DSSTox_GSID>
+44883
+
+> <DSSTox_FileID_Sort>
+5239
+
+> <TS_ChemName>
+Butane-1-sulfonyl chloride
+
+> <TS_ChemName_Synonyms>
+Butane-1-sulfonyl chloride (1-Butanesulfonyl chloride)
+
+> <TS_CASRN>
+2386-60-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H9ClO2S
+
+> <STRUCTURE_MW>
+156.6311
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butane-1-sulfonyl chloride
+
+> <STRUCTURE_SMILES>
+CCCCS(Cl)(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCS(Cl)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

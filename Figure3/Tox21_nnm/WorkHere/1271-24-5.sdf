@@ -1,0 +1,93 @@
+1271-24-5
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  2 V2000
+    3.3225   -1.8096    0.0000 Cr   0  2  0  0  0  0  0  0  0  0  0  0
+    2.0692   -1.1050    0.0000 C    0  5  0  0  0  0  0  0  0  0  0  0
+    1.2534   -2.1507    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.7058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3201    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0445   -0.3708    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2804   -1.4239    0.0000 C    0  5  0  0  0  0  0  0  0  0  0  0
+    5.8292   -0.2151    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1493   -0.3634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2594   -2.3213    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4163   -1.6687    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+3766
+
+> <Formula>
+C10H10Cr
+
+> <FW>
+182.1825 (51.9950+65.0937+65.0937)
+
+> <DSSTox_CID>
+4615
+
+> <DSSTox_RID>
+77468
+
+> <DSSTox_GSID>
+24615
+
+> <DSSTox_FileID_Sort>
+2151
+
+> <TS_ChemName>
+Bis(eta(5)-2,4-cyclopentadien-1-yl) chromium
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1271-24-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [542-92-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H10Cr
+
+> <STRUCTURE_MW>
+182.1825
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+chromium(2+) dicyclopenta-2,4-dienide
+
+> <STRUCTURE_SMILES>
+[Cr+2].[c-]1cccc1.c1[c-]ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+C1=CC=CC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

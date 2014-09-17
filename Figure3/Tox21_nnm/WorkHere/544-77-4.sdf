@@ -1,0 +1,105 @@
+544-77-4
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+   15.9795    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6532    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9821   -1.1505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6558   -1.1505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9847   -2.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6584   -2.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9872   -3.4516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6609   -3.4516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9898   -4.6181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6635   -4.6181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9923   -5.7686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660   -5.7686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9949   -6.9191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6686   -6.9191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9974   -8.0697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6711   -8.0697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -9.2202    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+14181
+
+> <Formula>
+C16H33I
+
+> <FW>
+352.3377
+
+> <DSSTox_CID>
+29273
+
+> <DSSTox_RID>
+83392
+
+> <DSSTox_GSID>
+49317
+
+> <DSSTox_FileID_Sort>
+8067
+
+> <TS_ChemName>
+1-iodohexadecane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+544-77-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H33I
+
+> <STRUCTURE_MW>
+352.3377
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-iodohexadecane
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCCCCCCCI
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCCCCCCCI
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

@@ -1,0 +1,109 @@
+97-16-5
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    4.6504   -3.4575    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3160   -2.2993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6504   -1.1496    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3160    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6471    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3127   -1.1496    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6471   -2.2993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6439   -1.1496    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3279   -1.1496    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6623   -2.2993    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8119   -2.9648    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5040   -1.6337    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9967   -3.4575    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6656   -3.4575    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6072    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6656   -5.7568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9967   -5.7568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6623   -4.6072    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+431
+
+> <Formula>
+C12H8Cl2O3S
+
+> <FW>
+303.1611
+
+> <DSSTox_CID>
+447
+
+> <DSSTox_RID>
+75596
+
+> <DSSTox_GSID>
+20447
+
+> <DSSTox_FileID_Sort>
+280
+
+> <TS_ChemName>
+2,4-Dichlorophenyl benzenesulfonate
+
+> <TS_ChemName_Synonyms>
+2,4-Dichlorophenol benzenesulfonate (2,4-Dichlorophenylbenzene sulfonate)
+
+> <TS_CASRN>
+97-16-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H8Cl2O3S
+
+> <STRUCTURE_MW>
+303.1611
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-dichlorophenyl benzenesulfonate
+
+> <STRUCTURE_SMILES>
+Clc2cc(Cl)ccc2OS(=O)(=O)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2cc(Cl)ccc2OS(=O)(=O)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

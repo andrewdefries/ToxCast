@@ -1,0 +1,95 @@
+5378-52-9
+ChemmineR-0915142007XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6622   -1.1530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922   -2.3061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6641   -2.3061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9903   -1.1530    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7691   -0.0785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0368   -0.4890    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0368   -1.8171    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7691   -2.2276    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+11952
+
+> <Formula>
+C7H6N4
+
+> <FW>
+146.1493
+
+> <DSSTox_CID>
+26765
+
+> <DSSTox_RID>
+81888
+
+> <DSSTox_GSID>
+46765
+
+> <DSSTox_FileID_Sort>
+6569
+
+> <TS_ChemName>
+1-Phenyl-1H-tetrazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5378-52-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6N4
+
+> <STRUCTURE_MW>
+146.1493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-phenyl-1H-tetrazole
+
+> <STRUCTURE_SMILES>
+c1ccc(cc1)n2cnnn2
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccc(cc1)n2cnnn2
+
+> <Substance_modify_yyyymmdd>
+20110802
+
+$$$$

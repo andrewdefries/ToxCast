@@ -1,0 +1,77 @@
+7647-10-1
+ChemmineR-0915142007XD
+
+  3  2  0  0  0  0  0  0  0  0  1 V2000
+    2.3030   -0.6656    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515    0.0000    0.0000 Pd   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6656    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+> <ID>
+4424
+
+> <Formula>
+Cl2Pd
+
+> <FW>
+177.326
+
+> <DSSTox_CID>
+5824
+
+> <DSSTox_RID>
+77938
+
+> <DSSTox_GSID>
+25824
+
+> <DSSTox_FileID_Sort>
+2621
+
+> <TS_ChemName>
+Palladium(II) chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7647-10-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+Cl2Pd
+
+> <STRUCTURE_MW>
+177.326
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+palladium(2+) dichloride
+
+> <STRUCTURE_SMILES>
+Cl[Pd]Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Cl[Pd]Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,88 @@
+141-90-2
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    4.6080   -2.6588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -2.6588    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6588    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6635    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+1294
+
+> <Formula>
+C4H4N2OS
+
+> <FW>
+128.1524
+
+> <DSSTox_CID>
+1347
+
+> <DSSTox_RID>
+76100
+
+> <DSSTox_GSID>
+21347
+
+> <DSSTox_FileID_Sort>
+784
+
+> <TS_ChemName>
+Thiouracil
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+141-90-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H4N2OS
+
+> <STRUCTURE_MW>
+128.1524
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-thioxo-2,3-dihydropyrimidin-4(1H)-one
+
+> <STRUCTURE_SMILES>
+O=C1C=CNC(=S)N1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C=CNC(=S)N1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

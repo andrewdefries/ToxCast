@@ -1,0 +1,96 @@
+555-90-8
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6617    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534   -2.0003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534   -0.6695    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3068   -2.6617    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4602   -2.0003    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6056   -2.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7590   -2.0003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7590   -0.6695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9124    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0658   -0.6695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0658   -2.0003    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9124   -2.6617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+11639
+
+> <Formula>
+C7H8N4S
+
+> <FW>
+180.2302
+
+> <DSSTox_CID>
+26392
+
+> <DSSTox_RID>
+81572
+
+> <DSSTox_GSID>
+46392
+
+> <DSSTox_FileID_Sort>
+6253
+
+> <TS_ChemName>
+Nicothiazone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+555-90-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H8N4S
+
+> <STRUCTURE_MW>
+180.2302
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-2-(pyridin-3-ylmethylidene)hydrazinecarbothioamide
+
+> <STRUCTURE_SMILES>
+NC(=S)N\N=C\c1cccnc1
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=S)N\N=C\c1cccnc1
+
+> <Substance_modify_yyyymmdd>
+20110814
+
+$$$$

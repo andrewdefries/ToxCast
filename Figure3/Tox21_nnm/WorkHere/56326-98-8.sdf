@@ -1,0 +1,105 @@
+56326-98-8
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    4.0029   -8.6083    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3314   -7.4548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -7.4548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3429   -6.3013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -5.1564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3314   -5.1564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0029   -6.3013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3429   -4.0029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4792   -3.3400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4792   -1.9971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3429   -1.3257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3429    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1894   -1.9971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1894   -3.3400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6714   -5.1564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.3013    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  3  0  0  0  0
+M  END
+> <ID>
+16176
+
+> <Formula>
+C13H12FNO
+
+> <FW>
+217.2389
+
+> <DSSTox_CID>
+31566
+
+> <DSSTox_RID>
+97451
+
+> <DSSTox_GSID>
+57777
+
+> <DSSTox_FileID_Sort>
+8518
+
+> <TS_ChemName>
+1-(4-Fluorophenyl)-4-oxocyclohexanecarbonitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+56326-98-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H12FNO
+
+> <STRUCTURE_MW>
+217.2389
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(4-fluorophenyl)-4-oxocyclohexanecarbonitrile
+
+> <STRUCTURE_SMILES>
+Fc1ccc(cc1)C2(CCC(=O)CC2)C#N
+
+> <STRUCTURE_SMILES_Desalt>
+Fc1ccc(cc1)C2(CCC(=O)CC2)C#N
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

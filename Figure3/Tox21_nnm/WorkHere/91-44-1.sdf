@@ -1,0 +1,107 @@
+91-44-1
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -4.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6623   -3.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6623   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -1.1491    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6574   -2.2983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901   -2.2983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6524   -3.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901   -4.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6574   -4.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -3.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9851   -3.4554    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6474   -2.2983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9851   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6474   -4.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9801   -4.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+3977
+
+> <Formula>
+C14H17NO2
+
+> <FW>
+231.2903
+
+> <DSSTox_CID>
+5035
+
+> <DSSTox_RID>
+77633
+
+> <DSSTox_GSID>
+25035
+
+> <DSSTox_FileID_Sort>
+2316
+
+> <TS_ChemName>
+7-Diethylamino-4-methylcoumarin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+91-44-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H17NO2
+
+> <STRUCTURE_MW>
+231.2903
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+7-(diethylamino)-4-methyl-2H-chromen-2-one
+
+> <STRUCTURE_SMILES>
+CCN(CC)c1ccc2c(c1)OC(=O)C=C2C
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)c1ccc2c(c1)OC(=O)C=C2C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

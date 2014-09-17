@@ -1,0 +1,103 @@
+56741-95-8
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    6.9137   -3.9754    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7591   -3.3186    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6045   -3.9754    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4499   -3.3186    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4499   -1.9842    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2953   -1.3274    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6045   -1.3274    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7591   -1.9842    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6045    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2953   -3.9754    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2953   -5.3235    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -5.9803    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3235    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9754    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -3.3186    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+11981
+
+> <Formula>
+C10H8BrN3O
+
+> <FW>
+266.094
+
+> <DSSTox_CID>
+26803
+
+> <DSSTox_RID>
+81917
+
+> <DSSTox_GSID>
+46803
+
+> <DSSTox_FileID_Sort>
+6598
+
+> <TS_ChemName>
+Bropirimine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+56741-95-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H8BrN3O
+
+> <STRUCTURE_MW>
+266.094
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-amino-5-bromo-6-phenylpyrimidin-4(1H)-one
+
+> <STRUCTURE_SMILES>
+BrC1=C(NC(N)=NC1=O)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+BrC1=C(NC(N)=NC1=O)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20110801
+
+$$$$

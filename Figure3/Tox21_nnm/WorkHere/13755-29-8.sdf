@@ -1,0 +1,82 @@
+13755-29-8
+ChemmineR-0915142007XD
+
+  6  4  0  0  0  0  0  0  0  0  2 V2000
+     2.660    -2.660     0.000 F    0  0  0  0  0  0  0  0  0  0  0  0
+     2.660    -1.332     0.000 B    0  5  0  0  0  0  0  0  0  0  0  0
+     1.328    -1.332     0.000 F    0  0  0  0  0  0  0  0  0  0  0  0
+     2.660     0.000     0.000 F    0  0  0  0  0  0  0  0  0  0  0  0
+     3.988    -1.332     0.000 F    0  0  0  0  0  0  0  0  0  0  0  0
+     0.000    -1.332     0.000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <ID>
+1418
+
+> <Formula>
+BF4Na
+
+> <FW>
+109.7944 (86.8052+22.9892)
+
+> <DSSTox_CID>
+1477
+
+> <DSSTox_RID>
+76173
+
+> <DSSTox_GSID>
+21477
+
+> <DSSTox_FileID_Sort>
+857
+
+> <TS_ChemName>
+Sodium tetrafluoroborate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13755-29-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+BF4Na
+
+> <STRUCTURE_MW>
+109.7944
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+sodium tetrafluoroborate
+
+> <STRUCTURE_SMILES>
+[Na+].F[B-](F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+F[B-](F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

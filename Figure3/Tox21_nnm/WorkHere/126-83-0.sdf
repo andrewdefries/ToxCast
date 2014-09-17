@@ -1,0 +1,90 @@
+126-83-0
+ChemmineR-0915142007XD
+
+ 10  8  0  0  0  0  0  0  0  0  2 V2000
+    2.3134   -2.7923    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4557   -2.1173    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6096   -2.7923    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1596   -2.1173    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4961   -3.2769    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8346   -0.9808    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4769    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7692   -2.1173    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4557   -0.8019    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4038    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+M  END
+> <ID>
+10443
+
+> <Formula>
+C3H6ClNaO4S
+
+> <FW>
+196.5851 (173.5959+22.9892)
+
+> <DSSTox_CID>
+24793
+
+> <DSSTox_RID>
+80480
+
+> <DSSTox_GSID>
+44793
+
+> <DSSTox_FileID_Sort>
+5162
+
+> <TS_ChemName>
+Sodium 3-chloro-2-hydroxypropane-1-sulfonate
+
+> <TS_ChemName_Synonyms>
+Sodium 3-chloro-2-hydroxypropane-1-sulfonate (1-Propanesulfonic acid, 3-chloro-2-hydroxy-, monosodium salt)
+
+> <TS_CASRN>
+126-83-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [107-57-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H6ClNaO4S
+
+> <STRUCTURE_MW>
+196.5851
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 3-chloro-2-hydroxypropane-1-sulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].ClCC(O)CS([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+ClCC(O)CS(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

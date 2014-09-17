@@ -1,0 +1,108 @@
+1867-65-8
+ChemmineR-0915142007XD
+
+ 17 19  0  0  0  0  0  0  0  0  1 V2000
+    3.1475   -3.1294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3195   -2.1024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1990   -2.2111    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0057   -3.7939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2833   -3.7939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9208   -0.8397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6305   -2.1024    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5313   -0.9304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9304   -2.5434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0057   -5.1230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2833   -5.1230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9660   -0.0785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0413   -0.8397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5949    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1475   -5.7876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3323   -0.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+11467
+
+> <Formula>
+C15H23NS
+
+> <FW>
+249.4148
+
+> <DSSTox_CID>
+26168
+
+> <DSSTox_RID>
+81399
+
+> <DSSTox_GSID>
+46168
+
+> <DSSTox_FileID_Sort>
+6080
+
+> <TS_ChemName>
+Tenocyclidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1867-65-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H23NS
+
+> <STRUCTURE_MW>
+249.4148
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-[1-(thiophen-2-yl)cyclohexyl]piperidine
+
+> <STRUCTURE_SMILES>
+C1CCC(CC1)(c2cccs2)N3CCCCC3
+
+> <STRUCTURE_SMILES_Desalt>
+C1CCC(CC1)(c2cccs2)N3CCCCC3
+
+> <Substance_modify_yyyymmdd>
+20110817
+
+$$$$

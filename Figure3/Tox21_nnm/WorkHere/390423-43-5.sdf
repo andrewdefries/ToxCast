@@ -1,0 +1,107 @@
+390423-43-5
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -6.6362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1725   -5.9766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1562   -4.6494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3206    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4769   -0.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1725   -0.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3206   -3.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4769   -2.0031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1725   -1.9868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3206   -2.6626    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.5909   -6.8153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2636   -6.8153    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5909   -8.1426    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5909   -5.4800    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9181   -8.1426    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.9181   -5.4800    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2372   -6.8153    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9181   -6.8153    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+14155
+
+> <Formula>
+C10H14F3NO3S
+
+> <FW>
+285.2833 (136.2136+149.0697)
+
+> <DSSTox_CID>
+29148
+
+> <DSSTox_RID>
+83367
+
+> <DSSTox_GSID>
+49292
+
+> <DSSTox_FileID_Sort>
+8042
+
+> <TS_ChemName>
+1-Butylpyridinium trifluoromethanesulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+390423-43-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14F3NO3S
+
+> <STRUCTURE_MW>
+285.2833
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-butylpyridinium trifluoromethanesulfonate
+
+> <STRUCTURE_SMILES>
+FC(F)(F)S([O-])(=O)=O.CCCC[n+]1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC[n+]1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

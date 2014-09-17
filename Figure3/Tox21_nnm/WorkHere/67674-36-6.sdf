@@ -1,0 +1,101 @@
+67674-36-6
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    3.4532   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6157    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7668   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8948    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0574   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2085    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3595   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3595   -2.0028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5106   -2.6589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3021    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4532   -2.0028    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3021   -2.6589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3021   -3.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+12188
+
+> <Formula>
+C13H24O2
+
+> <FW>
+212.3285
+
+> <DSSTox_CID>
+27034
+
+> <DSSTox_RID>
+82055
+
+> <DSSTox_GSID>
+47034
+
+> <DSSTox_FileID_Sort>
+6736
+
+> <TS_ChemName>
+(2E,6Z)-1,1-diethoxynona-2,6-diene
+
+> <TS_ChemName_Synonyms>
+trans-2,cis-6-Nonadienal diethylacetal
+
+> <TS_CASRN>
+67674-36-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H24O2
+
+> <STRUCTURE_MW>
+212.3285
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E,6Z)-1,1-diethoxynona-2,6-diene
+
+> <STRUCTURE_SMILES>
+CCOC(/C=C/CC/C=C\CC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCOC(/C=C/CC/C=C\CC)OCC
+
+> <Substance_modify_yyyymmdd>
+20100427
+
+$$$$

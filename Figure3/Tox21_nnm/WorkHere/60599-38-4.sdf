@@ -1,0 +1,93 @@
+60599-38-4
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    3.5965   -4.1480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3977   -3.4646    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1988   -4.1480    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4646    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3977   -2.0680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5965   -1.3847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5965    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8793   -1.8822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7953   -3.4467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9942   -4.1480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8133   -2.6015    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+986
+
+> <Formula>
+C6H10N2O3
+
+> <FW>
+158.1552
+
+> <DSSTox_CID>
+1022
+
+> <DSSTox_RID>
+75910
+
+> <DSSTox_GSID>
+21022
+
+> <DSSTox_FileID_Sort>
+594
+
+> <TS_ChemName>
+N-Nitrosobis(2-oxopropyl)amine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+60599-38-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10N2O3
+
+> <STRUCTURE_MW>
+158.1552
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1'-(nitrosoimino)dipropan-2-one
+
+> <STRUCTURE_SMILES>
+O=C(C)CN(CC(=O)C)N=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)CN(CC(=O)C)N=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

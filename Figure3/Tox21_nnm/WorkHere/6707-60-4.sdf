@@ -1,0 +1,108 @@
+6707-60-4
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    2.2667   -5.2399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1411   -3.2759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1411   -5.9074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.2399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4078   -1.9640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1411   -1.9640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2667   -1.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4078   -5.9074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5490   -5.2399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8312   -3.9279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6901   -5.9074    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8312   -5.2399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5490   -1.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6901   -1.9640    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9554   -1.6302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7627   -3.0119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5490    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+12824
+
+> <Formula>
+C15H28O3
+
+> <FW>
+256.381
+
+> <DSSTox_CID>
+27703
+
+> <DSSTox_RID>
+82511
+
+> <DSSTox_GSID>
+47705
+
+> <DSSTox_FileID_Sort>
+7192
+
+> <TS_ChemName>
+12-Oxahexadecanolide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6707-60-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H28O3
+
+> <STRUCTURE_MW>
+256.381
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,6-dioxacycloheptadecan-7-one
+
+> <STRUCTURE_SMILES>
+O=C1CCCCCCCCCCOCCCCO1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCCCCCCCCOCCCCO1
+
+> <Substance_modify_yyyymmdd>
+20101215
+
+$$$$

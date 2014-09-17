@@ -1,0 +1,94 @@
+611-06-3
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  2 V2000
+    5.3194   -2.3037    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    5.9835   -1.1488    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9835   -3.4525    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.9910   -2.3037    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -3.4525    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -3.4525    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283   -2.3037    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3037    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -1.1488    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -1.1488    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+3960
+
+> <Formula>
+C6H3Cl2NO2
+
+> <FW>
+191.9995
+
+> <DSSTox_CID>
+4998
+
+> <DSSTox_RID>
+77618
+
+> <DSSTox_GSID>
+24998
+
+> <DSSTox_FileID_Sort>
+2301
+
+> <TS_ChemName>
+2,4-Dichloronitrobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+611-06-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H3Cl2NO2
+
+> <STRUCTURE_MW>
+191.9995
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-dichloro-1-nitrobenzene
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccc(Cl)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccc(Cl)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

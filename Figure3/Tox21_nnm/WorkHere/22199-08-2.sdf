@@ -1,0 +1,108 @@
+22199-08-2
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  2 V2000
+    3.9902   -1.3487    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6601   -1.3487    0.0000 N    0  5  0  0  0  0  0  0  0  0  0  0
+    1.9719   -2.5020    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3110   -1.3487    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9902   -0.0186    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9902   -2.6787    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6601   -3.6461    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6418   -2.5020    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9621   -0.1953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9621   -2.5020    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9711   -1.3487    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3012   -1.3487    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2922   -2.5020    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2922   -0.1953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6418   -4.7994    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9719   -4.7994    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.6461    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2464    0.0000    0.0000 Ag   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  9  2  0  0  0  0
+  4 10  1  0  0  0  0
+  7 16  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+13642
+
+> <Formula>
+C10H9AgN4O2S
+
+> <FW>
+357.1373 (249.2696+107.8677)
+
+> <DSSTox_CID>
+28572
+
+> <DSSTox_RID>
+82844
+
+> <DSSTox_GSID>
+48646
+
+> <DSSTox_FileID_Sort>
+7521
+
+> <TS_ChemName>
+Sulfadiazine silver
+
+> <TS_ChemName_Synonyms>
+sulfadiazine
+
+> <TS_CASRN>
+22199-08-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [68-35-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H9AgN4O2S
+
+> <STRUCTURE_MW>
+357.1373
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+silver(1+) [(4-aminophenyl)sulfonyl](pyrimidin-2-yl)azanide
+
+> <STRUCTURE_SMILES>
+[Ag+].O=S(=O)([N-]c1ncccn1)c2ccc(N)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(Nc1ncccn1)c2ccc(N)cc2
+
+> <Substance_modify_yyyymmdd>
+20111015
+
+$$$$

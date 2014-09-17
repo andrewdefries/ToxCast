@@ -1,0 +1,89 @@
+108-65-6
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    2.3031   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6062   -1.9997    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -1.3308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7577   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7577    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8955   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+4807
+
+> <Formula>
+C6H12O3
+
+> <FW>
+132.1577
+
+> <DSSTox_CID>
+6796
+
+> <DSSTox_RID>
+78216
+
+> <DSSTox_GSID>
+26796
+
+> <DSSTox_FileID_Sort>
+2899
+
+> <TS_ChemName>
+1-Methoxy-2-propyl acetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+108-65-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O3
+
+> <STRUCTURE_MW>
+132.1577
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methoxypropan-2-yl acetate
+
+> <STRUCTURE_SMILES>
+CC(=O)OC(C)COC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)OC(C)COC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

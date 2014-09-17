@@ -1,0 +1,99 @@
+76-20-0
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    3.2370   -2.4391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9526   -2.4391    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5344   -2.4391    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9526   -3.7365    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5344   -3.7365    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9526   -1.1417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5344   -1.1417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2370   -0.6552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2370   -3.7365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8317   -2.4391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6552   -2.4391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1277    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4869   -1.3428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.5354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  6  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  7  2  0  0  0  0
+  3 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <ID>
+11657
+
+> <Formula>
+C8H18O4S2
+
+> <FW>
+242.3561
+
+> <DSSTox_CID>
+26411
+
+> <DSSTox_RID>
+81590
+
+> <DSSTox_GSID>
+46411
+
+> <DSSTox_FileID_Sort>
+6271
+
+> <TS_ChemName>
+Sulfonethylmethane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+76-20-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18O4S2
+
+> <STRUCTURE_MW>
+242.3561
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2-bis(ethylsulfonyl)butane
+
+> <STRUCTURE_SMILES>
+O=S(=O)(CC)C(C)(CC)S(=O)(=O)CC
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(CC)C(C)(CC)S(=O)(=O)CC
+
+> <Substance_modify_yyyymmdd>
+20110813
+
+$$$$

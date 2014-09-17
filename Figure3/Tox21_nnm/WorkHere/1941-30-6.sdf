@@ -1,0 +1,98 @@
+1941-30-6
+ChemmineR-0915142007XD
+
+ 14 12  0  0  0  0  0  0  0  0  2 V2000
+    3.3290   -3.3157    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    2.0001   -3.3157    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3289   -4.4653    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.4653    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3290   -4.6447    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4852   -5.3158    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4852   -6.6447    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6580   -3.3157    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3158   -2.1595    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6447   -2.1595    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3290   -1.9868    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4852   -1.3289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4852    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1695   -1.5549    0.0000 Br   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+4560
+
+> <Formula>
+C12H28BrN
+
+> <FW>
+266.2614 (186.3569+79.9045)
+
+> <DSSTox_CID>
+6130
+
+> <DSSTox_RID>
+78029
+
+> <DSSTox_GSID>
+26130
+
+> <DSSTox_FileID_Sort>
+2712
+
+> <TS_ChemName>
+Tetrapropylammonium bromide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1941-30-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [13010-31-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H28BrN
+
+> <STRUCTURE_MW>
+266.2614
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+N,N,N-tripropylpropan-1-aminium bromide
+
+> <STRUCTURE_SMILES>
+[Br-].CCC[N+](CCC)(CCC)CCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCC[N+](CCC)(CCC)CCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

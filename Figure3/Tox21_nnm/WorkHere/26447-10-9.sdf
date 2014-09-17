@@ -1,0 +1,97 @@
+26447-10-9
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  2 V2000
+    2.2922   -2.6631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4493   -3.3220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4493   -4.6508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2922   -5.3263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1406   -4.6508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1406   -3.3220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2922   -1.3288    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6265   -1.3288    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9634   -1.3288    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.2922    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5367   -0.2049    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 12  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <ID>
+5485
+
+> <Formula>
+C8H13NO3S
+
+> <FW>
+203.2587 (185.2208+18.0379)
+
+> <DSSTox_CID>
+7899
+
+> <DSSTox_RID>
+78606
+
+> <DSSTox_GSID>
+27899
+
+> <DSSTox_FileID_Sort>
+3288
+
+> <TS_ChemName>
+Ammonium xylene sulfonate
+
+> <TS_ChemName_Synonyms>
+Benzenesulfonic acid, dimethyl-, ammonium salt
+
+> <TS_CASRN>
+26447-10-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 2,3-; 2,4-; 2,5- and 2,6-dimethylbenzenesulfonic acid; structure shown 2,3-
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C8H13NO3S
+
+> <STRUCTURE_MW>
+203.2587
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+ammonium 2,3-dimethylbenzenesulfonate
+
+> <STRUCTURE_SMILES>
+[NH4+].Cc1c(C)cccc1S(=O)([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1c(C)cccc1S(O)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

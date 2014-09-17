@@ -1,0 +1,94 @@
+1197-18-8
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    6.6538    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9884   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6576   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9923   -2.3022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6615   -2.3022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9961   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6615    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9923    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3022    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+10887
+
+> <Formula>
+C8H15NO2
+
+> <FW>
+157.2102
+
+> <DSSTox_CID>
+25350
+
+> <DSSTox_RID>
+80817
+
+> <DSSTox_GSID>
+45350
+
+> <DSSTox_FileID_Sort>
+5498
+
+> <TS_ChemName>
+Tranexamic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1197-18-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H15NO2
+
+> <STRUCTURE_MW>
+157.2102
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(aminomethyl)cyclohexanecarboxylic acid
+
+> <STRUCTURE_SMILES>
+NCC1CCC(CC1)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+NCC1CCC(CC1)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

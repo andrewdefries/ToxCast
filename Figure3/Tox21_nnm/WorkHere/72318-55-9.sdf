@@ -1,0 +1,110 @@
+72318-55-9
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    7.9057    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5075   -1.2626    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.4399   -2.2241    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2158   -1.5831    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2931   -0.6313    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0791   -1.1169    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8370   -2.8262    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6625   -3.9140    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8661   -5.0406    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5744   -4.6133    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575   -5.2834    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2921   -4.6327    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2921   -3.3021    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1460   -2.6708    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3410    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4478   -2.6223    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5744   -3.2730    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.7122   -1.9036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3233   -3.7198    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 17  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+11594
+
+> <Formula>
+C13H17ClN2O3
+
+> <FW>
+284.7387 (248.2777+36.4609)
+
+> <DSSTox_CID>
+26306
+
+> <DSSTox_RID>
+81527
+
+> <DSSTox_GSID>
+46306
+
+> <DSSTox_FileID_Sort>
+6208
+
+> <TS_ChemName>
+Indorenate hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+72318-55-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [73758-06-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H17ClN2O3
+
+> <STRUCTURE_MW>
+284.7387
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+methyl 3-amino-2-(5-methoxy-1H-indol-3-yl)propanoate hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C(OC)C(CN)c2cnc1ccc(cc12)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OC)C(CN)c2cnc1ccc(cc12)OC
+
+> <Substance_modify_yyyymmdd>
+20110815
+
+$$$$

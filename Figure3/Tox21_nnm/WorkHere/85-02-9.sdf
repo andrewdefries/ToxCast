@@ -1,0 +1,102 @@
+85-02-9
+ChemmineR-0915142007XD
+
+ 14 16  0  0  0  0  0  0  0  0  1 V2000
+    3.9901   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6551   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9851   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6501   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9851   -1.1571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6551   -1.1571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -1.1571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -1.1571    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+3749
+
+> <Formula>
+C13H9N
+
+> <FW>
+179.2173
+
+> <DSSTox_CID>
+4585
+
+> <DSSTox_RID>
+77457
+
+> <DSSTox_GSID>
+24585
+
+> <DSSTox_FileID_Sort>
+2140
+
+> <TS_ChemName>
+Benzo(f)quinoline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+85-02-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H9N
+
+> <STRUCTURE_MW>
+179.2173
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzo[f]quinoline
+
+> <STRUCTURE_SMILES>
+c2cc1ncccc1c3ccccc23
+
+> <STRUCTURE_SMILES_Desalt>
+c2cc1ncccc1c3ccccc23
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,110 @@
+5169-78-8
+ChemmineR-0915142007XD
+
+ 18 20  0  0  0  0  0  0  0  0  1 V2000
+    0.9639    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1036   -0.6578    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2563    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4090   -0.6578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4090   -1.9928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2563   -2.6636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1036   -1.9928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2563   -3.9792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4090   -4.6565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6333   -4.1094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5125   -5.1058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8548   -6.2586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5588   -5.9720    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1036   -4.6565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9733   -5.9720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6708   -6.2586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.1058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8987   -4.1094    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+2378
+
+> <Formula>
+C15H17NS2
+
+> <FW>
+275.4322
+
+> <DSSTox_CID>
+2626
+
+> <DSSTox_RID>
+82577
+
+> <DSSTox_GSID>
+22626
+
+> <DSSTox_FileID_Sort>
+7254
+
+> <TS_ChemName>
+Tipepidine
+
+> <TS_ChemName_Synonyms>
+Asverin
+
+> <TS_CASRN>
+5169-78-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H17NS2
+
+> <STRUCTURE_MW>
+275.4322
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-[di(thiophen-2-yl)methylidene]-1-methylpiperidine
+
+> <STRUCTURE_SMILES>
+CN1CCC\C(C1)=C(/c2sccc2)c3cccs3
+
+> <STRUCTURE_SMILES_Desalt>
+CN1CCC\C(C1)=C(/c2sccc2)c3cccs3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

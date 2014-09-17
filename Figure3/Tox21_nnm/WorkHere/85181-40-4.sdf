@@ -1,0 +1,114 @@
+85181-40-4
+ChemmineR-0915142007XD
+
+ 20 22  0  0  1  0  0  0  0  0  1 V2000
+    1.6083   -2.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3388   -3.4892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5017   -2.7933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9123   -2.7933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6772   -1.4578    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9720   -2.2102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0658   -3.9595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0722   -3.3388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0065   -4.6555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3514   -4.6555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0286   -3.4892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3702   -2.3230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3735   -3.4892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0286   -1.1662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0601   -2.3324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3735   -1.1662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0192   -5.8217    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4050   -2.3324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3702    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  1  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 18  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 19  1  0  0  0  0
+M  END
+> <ID>
+9486
+
+> <Formula>
+C17H23NO2
+
+> <FW>
+273.37
+
+> <DSSTox_CID>
+22618
+
+> <DSSTox_RID>
+80060
+
+> <DSSTox_GSID>
+42618
+
+> <DSSTox_FileID_Sort>
+4742
+
+> <TS_ChemName>
+Tropanyl 3,5-dimethylbenzoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+85181-40-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H23NO2
+
+> <STRUCTURE_MW>
+273.37
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1R,5S)-8-methyl-8-azabicyclo[3.2.1]oct-3-yl 3,5-dimethylbenzoate
+
+> <STRUCTURE_SMILES>
+CN3[C@H]1CC[C@@H]3CC(C1)OC(=O)c2cc(C)cc(C)c2
+
+> <STRUCTURE_SMILES_Desalt>
+CN3[C@H]1CC[C@@H]3CC(C1)OC(=O)c2cc(C)cc(C)c2
+
+> <Substance_modify_yyyymmdd>
+20081003
+
+$$$$

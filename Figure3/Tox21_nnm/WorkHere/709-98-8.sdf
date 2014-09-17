@@ -1,0 +1,98 @@
+709-98-8
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    2.3011   -2.6605    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -1.9902    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6605    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3011    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552   -1.9902    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6092   -2.6605    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7563   -1.9902    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7563   -0.6634    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9103   -2.6605    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9103   -3.9873    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+1953
+
+> <Formula>
+C9H9Cl2NO
+
+> <FW>
+218.0799
+
+> <DSSTox_CID>
+2111
+
+> <DSSTox_RID>
+76491
+
+> <DSSTox_GSID>
+22111
+
+> <DSSTox_FileID_Sort>
+1175
+
+> <TS_ChemName>
+Propanil
+
+> <TS_ChemName_Synonyms>
+Propanil (3,4-DCPA)(Stam)
+
+> <TS_CASRN>
+709-98-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H9Cl2NO
+
+> <STRUCTURE_MW>
+218.0799
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(3,4-dichlorophenyl)propanamide
+
+> <STRUCTURE_SMILES>
+Clc1ccc(NC(=O)CC)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(NC(=O)CC)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,88 @@
+100-52-7
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6531   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+131
+
+> <Formula>
+C7H6O
+
+> <FW>
+106.1219
+
+> <DSSTox_CID>
+134
+
+> <DSSTox_RID>
+79432
+
+> <DSSTox_GSID>
+39241
+
+> <DSSTox_FileID_Sort>
+4114
+
+> <TS_ChemName>
+Benzaldehyde
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+100-52-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6O
+
+> <STRUCTURE_MW>
+106.1219
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzaldehyde
+
+> <STRUCTURE_SMILES>
+O=Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

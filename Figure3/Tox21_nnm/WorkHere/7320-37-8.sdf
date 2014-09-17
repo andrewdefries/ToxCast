@@ -1,0 +1,106 @@
+7320-37-8
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+   15.6228    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9510   -1.1405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9510   -2.4684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8105   -3.1402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6544   -2.4684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5140   -3.1402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3579   -2.4684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2018   -3.1402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0613   -2.4684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9053   -3.1402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7492   -2.4684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6087   -3.1402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4526   -2.4684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2965   -3.1402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1561   -2.4684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2948    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+4101
+
+> <Formula>
+C16H32O
+
+> <FW>
+240.4247
+
+> <DSSTox_CID>
+5245
+
+> <DSSTox_RID>
+77715
+
+> <DSSTox_GSID>
+25245
+
+> <DSSTox_FileID_Sort>
+2398
+
+> <TS_ChemName>
+1,2-Epoxyhexadecane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7320-37-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H32O
+
+> <STRUCTURE_MW>
+240.4247
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-tetradecyloxirane
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCCCCCC1CO1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCCCCCC1CO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,92 @@
+623-15-4
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.2630   -1.3361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4179   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5593   -1.3361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7141   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5593    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1015   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9739   -3.3235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6580   -3.5987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8997   -1.4637    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  3  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+4154
+
+> <Formula>
+C8H8O2
+
+> <FW>
+136.1479
+
+> <DSSTox_CID>
+5345
+
+> <DSSTox_RID>
+77758
+
+> <DSSTox_GSID>
+25345
+
+> <DSSTox_FileID_Sort>
+2441
+
+> <TS_ChemName>
+Furfural acetone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+623-15-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C8H8O2
+
+> <STRUCTURE_MW>
+136.1479
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(furan-2-yl)but-3-en-2-one
+
+> <STRUCTURE_SMILES>
+O=C(C)C=Cc1ccco1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)C=Cc1ccco1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

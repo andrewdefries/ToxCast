@@ -1,0 +1,105 @@
+2358-84-1
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+    3.4728   -1.9924    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3106   -1.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1622   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1622   -3.3206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3106    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073   -1.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7557   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9179   -1.3282    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0801   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2285   -1.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3907   -1.9924    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5391   -1.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6736   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6736   -3.3206    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8358   -1.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5391    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <ID>
+10529
+
+> <Formula>
+C12H18O5
+
+> <FW>
+242.2683
+
+> <DSSTox_CID>
+24882
+
+> <DSSTox_RID>
+80556
+
+> <DSSTox_GSID>
+44882
+
+> <DSSTox_FileID_Sort>
+5238
+
+> <TS_ChemName>
+Di(ethylene glycol) dimethacrylate
+
+> <TS_ChemName_Synonyms>
+Di(ethylene glycol) dimethacrylate (Oxydiethane-2,1-diyl bis(2-methylprop-2-enoate)) (2-Propenoic acid, 2-methyl-, oxydi-2,1-ethanediyl ester)
+
+> <TS_CASRN>
+2358-84-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H18O5
+
+> <STRUCTURE_MW>
+242.2683
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+oxydiethane-2,1-diyl bis(2-methylprop-2-enoate)
+
+> <STRUCTURE_SMILES>
+O=C(OCCOCCOC(=O)C(=C)C)C(=C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCCOCCOC(=O)C(=C)C)C(=C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

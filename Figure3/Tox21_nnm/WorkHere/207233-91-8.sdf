@@ -1,0 +1,91 @@
+207233-91-8
+ChemmineR-0915142007XD
+
+ 11  8  0  0  0  0  0  0  0  0  2 V2000
+    4.5118   -3.0265    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3152    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    1.6876   -2.4616    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.3640   -1.3180    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0404   -0.1743    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2064   -0.6625    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5285   -1.9944    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6722   -1.3389    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6722    0.0000    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8158   -1.9944    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9734   -1.3389    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+11827
+
+> <Formula>
+C3H9NaO4S3
+
+> <FW>
+228.2859 (18.0153+22.9892+187.2814)
+
+> <DSSTox_CID>
+26607
+
+> <DSSTox_RID>
+81762
+
+> <DSSTox_GSID>
+46607
+
+> <DSSTox_FileID_Sort>
+6443
+
+> <TS_ChemName>
+Sodium 2,3-dimercaptopropanesulfonate hydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+207233-91-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [74-61-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H9NaO4S3
+
+> <STRUCTURE_MW>
+228.2859
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt complex
+
+> <STRUCTURE_IUPAC>
+sodium 2,3-disulfanylpropane-1-sulfonate hydrate (1:1:1)
+
+> <STRUCTURE_SMILES>
+[Na+].O.[O-]S(=O)(=O)CC(S)CS
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)CC(S)CS
+
+> <Substance_modify_yyyymmdd>
+20110809
+
+$$$$

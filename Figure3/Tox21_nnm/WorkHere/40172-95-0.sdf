@@ -1,0 +1,99 @@
+40172-95-0
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    1.9912   -4.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6610   -3.4514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9912   -2.3050    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6610   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9912    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6637    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6637   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9885   -3.4514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7668   -4.5315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0340   -4.1152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0340   -2.7877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7668   -2.3774    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+16135
+
+> <Formula>
+C9H12N2O2
+
+> <FW>
+180.2038
+
+> <DSSTox_CID>
+31524
+
+> <DSSTox_RID>
+97409
+
+> <DSSTox_GSID>
+57735
+
+> <DSSTox_FileID_Sort>
+8476
+
+> <TS_ChemName>
+1-(2-Furoyl)piperazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+40172-95-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12N2O2
+
+> <STRUCTURE_MW>
+180.2038
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-furyl(piperazin-1-yl)methanone
+
+> <STRUCTURE_SMILES>
+O=C(N1CCNCC1)c2ccco2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(N1CCNCC1)c2ccco2
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

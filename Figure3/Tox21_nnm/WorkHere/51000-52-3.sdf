@@ -1,0 +1,99 @@
+51000-52-3
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    2.6606   -1.3343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9950   -1.3343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3293   -1.3343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0004   -2.4849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3347   -2.4849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9899   -3.6274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0055   -0.1758    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0055   -2.4849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9950   -2.6686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1535   -3.3238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9950    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9899   -1.3343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6712   -2.4849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.6274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+5990
+
+> <Formula>
+C12H22O2
+
+> <FW>
+198.3019
+
+> <DSSTox_CID>
+9369
+
+> <DSSTox_RID>
+78773
+
+> <DSSTox_GSID>
+29369
+
+> <DSSTox_FileID_Sort>
+3455
+
+> <TS_ChemName>
+Vinyl neodecanoate
+
+> <TS_ChemName_Synonyms>
+Vinyl neodecanoate (Neodecanoic acid, ethenyl ester)
+
+> <TS_CASRN>
+51000-52-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of tertiary decanyl isomers; structure shown 2-ethyl-2,5-dimethylhexanoic
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C12H22O2
+
+> <STRUCTURE_MW>
+198.3019
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethenyl 2-ethyl-2,5-dimethylhexanoate
+
+> <STRUCTURE_SMILES>
+C=COC(=O)C(C)(CCC(C)C)CC
+
+> <STRUCTURE_SMILES_Desalt>
+C=COC(=O)C(C)(CCC(C)C)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

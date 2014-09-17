@@ -1,0 +1,96 @@
+6190-65-4
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    5.7544   -1.9988    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9164   -3.9908    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7544   -3.3199    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2962    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -3.9908    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9908    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4444   -1.9850    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4444   -3.3199    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2962   -1.3349    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2962   -3.9908    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1481   -1.9988    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1481   -3.3199    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+7303
+
+> <Formula>
+C6H10ClN5
+
+> <FW>
+187.6301
+
+> <DSSTox_CID>
+17494
+
+> <DSSTox_RID>
+79322
+
+> <DSSTox_GSID>
+37494
+
+> <DSSTox_FileID_Sort>
+4004
+
+> <TS_ChemName>
+Deethylatrazine
+
+> <TS_ChemName_Synonyms>
+Deethylatrazine (Atrazine de ethyl) (2-Amino-4-chloro-6-isopropylamino-s-atrazine)
+
+> <TS_CASRN>
+6190-65-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10ClN5
+
+> <STRUCTURE_MW>
+187.6301
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-chloro-N-(propan-2-yl)-1,3,5-triazine-2,4-diamine
+
+> <STRUCTURE_SMILES>
+Nc1nc(NC(C)C)nc(Cl)n1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1nc(NC(C)C)nc(Cl)n1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

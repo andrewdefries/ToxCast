@@ -1,0 +1,86 @@
+98-01-1
+ChemmineR-0915142007XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.5998    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -2.2653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -1.5998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4416   -0.2777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7417    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4072   -1.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5169   -2.1419    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+622
+
+> <Formula>
+C5H4O2
+
+> <FW>
+96.0841
+
+> <DSSTox_CID>
+647
+
+> <DSSTox_RID>
+75709
+
+> <DSSTox_GSID>
+20647
+
+> <DSSTox_FileID_Sort>
+393
+
+> <TS_ChemName>
+Furfural
+
+> <TS_ChemName_Synonyms>
+Furfural (2-furaldehyde) (2-Furancarboxaldehyde)
+
+> <TS_CASRN>
+98-01-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H4O2
+
+> <STRUCTURE_MW>
+96.0841
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+furan-2-carbaldehyde
+
+> <STRUCTURE_SMILES>
+O=Cc1ccco1
+
+> <STRUCTURE_SMILES_Desalt>
+O=Cc1ccco1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

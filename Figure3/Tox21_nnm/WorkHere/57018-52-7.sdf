@@ -1,0 +1,89 @@
+57018-52-7
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    4.6112    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6112   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4584   -1.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.3315    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -1.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8157   -3.1471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4899   -0.8415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7640   -1.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+> <ID>
+4484
+
+> <Formula>
+C7H16O2
+
+> <FW>
+132.2007
+
+> <DSSTox_CID>
+5967
+
+> <DSSTox_RID>
+77975
+
+> <DSSTox_GSID>
+25967
+
+> <DSSTox_FileID_Sort>
+2658
+
+> <TS_ChemName>
+1-tert-Butoxy-2-propanol
+
+> <TS_ChemName_Synonyms>
+1-tert-Butoxy-2-propanol (Propylene glycol mono-t-butyl ether)
+
+> <TS_CASRN>
+57018-52-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H16O2
+
+> <STRUCTURE_MW>
+132.2007
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-tert-butoxypropan-2-ol
+
+> <STRUCTURE_SMILES>
+CC(C)(C)OCC(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)OCC(C)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,107 @@
+13114-72-2
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    2.3007    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -1.3265    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4545   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -1.3265    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4545   -3.3232    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -3.9865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552   -3.3232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9090   -3.9865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9090   -5.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552   -5.9832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -5.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -3.9865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -5.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -5.9832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -3.3232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+4289
+
+> <Formula>
+C14H14N2O
+
+> <FW>
+226.2738
+
+> <DSSTox_CID>
+5593
+
+> <DSSTox_RID>
+77845
+
+> <DSSTox_GSID>
+25593
+
+> <DSSTox_FileID_Sort>
+2528
+
+> <TS_ChemName>
+N'-Methyl-N,N-diphenylurea
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13114-72-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H14N2O
+
+> <STRUCTURE_MW>
+226.2738
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methyl-1,1-diphenylurea
+
+> <STRUCTURE_SMILES>
+O=C(NC)N(c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NC)N(c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,100 @@
+17026-81-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    5.9919    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210   -1.1555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9919   -2.3110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210   -3.4572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9977   -3.4572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3268   -2.3110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9977   -1.1555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9942   -2.3110    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3326   -3.4572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9942   -4.6127    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3245   -2.3110    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9861   -3.4572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3187   -3.4572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+52
+
+> <Formula>
+C10H14N2O2
+
+> <FW>
+194.2304
+
+> <DSSTox_CID>
+53
+
+> <DSSTox_RID>
+75337
+
+> <DSSTox_GSID>
+20053
+
+> <DSSTox_FileID_Sort>
+21
+
+> <TS_ChemName>
+3-Amino-4-ethoxyacetanilide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+17026-81-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14N2O2
+
+> <STRUCTURE_MW>
+194.2304
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(3-amino-4-ethoxyphenyl)acetamide
+
+> <STRUCTURE_SMILES>
+CCOc1ccc(cc1N)NC(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCOc1ccc(cc1N)NC(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

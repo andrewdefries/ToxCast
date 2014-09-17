@@ -1,0 +1,90 @@
+517-23-7
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    2.2596   -2.1142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3299   -1.3302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9911   -1.6958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4047   -2.1142    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3299    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7224   -0.4008    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0039   -3.3784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6736   -3.3784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.5944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  6  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+10093
+
+> <Formula>
+C6H8O3
+
+> <FW>
+128.1259
+
+> <DSSTox_CID>
+24436
+
+> <DSSTox_RID>
+80226
+
+> <DSSTox_GSID>
+44436
+
+> <DSSTox_FileID_Sort>
+4908
+
+> <TS_ChemName>
+3-Acetyldihydro-2(3H)-furanone
+
+> <TS_ChemName_Synonyms>
+2(3H)-Furanone, 3-acetyldihydro-
+
+> <TS_CASRN>
+517-23-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8O3
+
+> <STRUCTURE_MW>
+128.1259
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-acetyldihydrofuran-2(3H)-one
+
+> <STRUCTURE_SMILES>
+CC(=O)C1CCOC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)C1CCOC1=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

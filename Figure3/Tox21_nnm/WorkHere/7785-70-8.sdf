@@ -1,0 +1,93 @@
+7785-70-8
+ChemmineR-0915142007XD
+
+ 10 11  0  0  1  0  0  0  0  0  1 V2000
+    1.9994   -1.7223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7473   -3.0268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9032   -2.3319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3045   -2.3319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0828   -0.9976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5256   -1.7351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1809   -3.4702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2631   -0.8057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4860    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  1  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+8627
+
+> <Formula>
+C10H16
+
+> <FW>
+136.234
+
+> <DSSTox_CID>
+21671
+
+> <DSSTox_RID>
+79811
+
+> <DSSTox_GSID>
+41671
+
+> <DSSTox_FileID_Sort>
+4493
+
+> <TS_ChemName>
+(+)-alpha-Pinene
+
+> <TS_ChemName_Synonyms>
+Bicyclo[3.1.1]hept-2-ene, 2,6,6-trimethyl-, (1R,5R)-
+
+> <TS_CASRN>
+7785-70-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16
+
+> <STRUCTURE_MW>
+136.234
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1R,5R)-2,6,6-trimethylbicyclo[3.1.1]hept-2-ene
+
+> <STRUCTURE_SMILES>
+CC2(C)[C@@H]1CC=C(C)[C@H]2C1
+
+> <STRUCTURE_SMILES_Desalt>
+CC2(C)[C@@H]1CC=C(C)[C@H]2C1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

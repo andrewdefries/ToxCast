@@ -1,0 +1,105 @@
+203-64-5
+ChemmineR-0915142007XD
+
+ 15 18  0  0  0  0  0  0  0  0  1 V2000
+    3.9398   -2.2654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5833   -1.1425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9097   -1.1425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5664   -2.2851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9032   -3.4276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5702   -3.4276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3685   -4.1237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0356   -3.3751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6369   -3.3751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6501   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9502   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6134    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9332    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5937   -2.2654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+3900
+
+> <Formula>
+C15H10
+
+> <FW>
+190.2399
+
+> <DSSTox_CID>
+4887
+
+> <DSSTox_RID>
+77568
+
+> <DSSTox_GSID>
+24887
+
+> <DSSTox_FileID_Sort>
+2251
+
+> <TS_ChemName>
+4-H-Cyclopenta(d,e,f)phenanthrene
+
+> <TS_ChemName_Synonyms>
+4-H-Cyclopenta(d,e,f)phenanthrene (Cyclopentaphenanthrene)
+
+> <TS_CASRN>
+203-64-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H10
+
+> <STRUCTURE_MW>
+190.2399
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4H-cyclopenta[def]phenanthrene
+
+> <STRUCTURE_SMILES>
+c1cc2cccc3Cc4cccc1c4c23
+
+> <STRUCTURE_SMILES_Desalt>
+c1cc2cccc3Cc4cccc1c4c23
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,110 @@
+2829-19-8
+ChemmineR-0915142007XD
+
+ 18 20  0  0  1  0  0  0  0  0  1 V2000
+    1.2369   -1.6845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2853   -0.9188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6256   -2.9214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3336   -1.6845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9331   -2.9214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5705   -1.2722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5482   -2.1557    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8414    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3505   -1.4960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2104   -0.5419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6109   -1.7787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2722    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5886   -2.6386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8137   -2.2499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3059   -3.9108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7796   -3.1098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2718   -4.7825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5087   -4.3702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1 12  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  6  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  9  7  1  1  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 13  1  6  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+11553
+
+> <Formula>
+C14H16N2O2
+
+> <FW>
+244.289
+
+> <DSSTox_CID>
+26259
+
+> <DSSTox_RID>
+81486
+
+> <DSSTox_GSID>
+46259
+
+> <DSSTox_FileID_Sort>
+6167
+
+> <TS_ChemName>
+Rolicyprine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2829-19-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+absolute stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H16N2O2
+
+> <STRUCTURE_MW>
+244.289
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-oxo-N-[(1S,2R)-2-phenylcyclopropyl]-L-prolinamide
+
+> <STRUCTURE_SMILES>
+O=C1CC[C@H](N1)C(=O)N[C@H]3C[C@@H]3c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CC[C@H](N1)C(=O)N[C@H]3C[C@@H]3c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20110816
+
+$$$$

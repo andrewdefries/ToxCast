@@ -1,0 +1,98 @@
+101-10-0
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    5.7552   -0.6702    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552   -2.0036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9089   -2.6599    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6014    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9089    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6014   -2.6599    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4476   -2.0036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2938   -2.6599    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4476   -0.6702    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1400   -2.0036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2938    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1400   -0.6702    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6599    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+6691
+
+> <Formula>
+C9H9ClO3
+
+> <FW>
+200.619
+
+> <DSSTox_CID>
+14232
+
+> <DSSTox_RID>
+79129
+
+> <DSSTox_GSID>
+34232
+
+> <DSSTox_FileID_Sort>
+3811
+
+> <TS_ChemName>
+Cloprop
+
+> <TS_ChemName_Synonyms>
+Cloprop (2-(m-Chlorophenoxy)propionic acid)
+
+> <TS_CASRN>
+101-10-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H9ClO3
+
+> <STRUCTURE_MW>
+200.619
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(3-chlorophenoxy)propanoic acid
+
+> <STRUCTURE_SMILES>
+Clc1cc(OC(C)C(=O)O)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(OC(C)C(=O)O)ccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

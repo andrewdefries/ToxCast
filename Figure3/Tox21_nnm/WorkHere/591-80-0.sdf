@@ -1,0 +1,85 @@
+591-80-0
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.1272   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2832   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4391   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5779   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7511   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1272    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9899    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <ID>
+10105
+
+> <Formula>
+C5H8O2
+
+> <FW>
+100.1158
+
+> <DSSTox_CID>
+24448
+
+> <DSSTox_RID>
+80236
+
+> <DSSTox_GSID>
+44448
+
+> <DSSTox_FileID_Sort>
+4918
+
+> <TS_ChemName>
+4-Pentenoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+591-80-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8O2
+
+> <STRUCTURE_MW>
+100.1158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pent-4-enoic acid
+
+> <STRUCTURE_SMILES>
+C=CCCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+C=CCCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,89 @@
+60-32-2
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -0.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -1.9939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3088    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4632   -0.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6095    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7639   -0.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9183    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0727   -0.6620    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+69
+
+> <Formula>
+C6H13NO2
+
+> <FW>
+131.1729
+
+> <DSSTox_CID>
+70
+
+> <DSSTox_RID>
+75347
+
+> <DSSTox_GSID>
+20070
+
+> <DSSTox_FileID_Sort>
+31
+
+> <TS_ChemName>
+6-Aminocaproic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+60-32-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H13NO2
+
+> <STRUCTURE_MW>
+131.1729
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-aminohexanoic acid
+
+> <STRUCTURE_SMILES>
+NCCCCCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+NCCCCCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

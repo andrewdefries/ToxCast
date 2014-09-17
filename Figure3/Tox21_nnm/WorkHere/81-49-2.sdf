@@ -1,0 +1,112 @@
+81-49-2
+ChemmineR-0915142007XD
+
+ 19 21  0  0  0  0  0  0  0  0  1 V2000
+    3.4588   -5.3212    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4588   -3.9909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6036   -3.3298    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7566   -3.9909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9095   -3.3298    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9095   -1.9995    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7566   -1.3303    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6036   -1.9995    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4588   -1.3303    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4588    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3059   -1.9995    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3059   -3.3298    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1529   -3.9909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3298    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9995    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1529   -1.3303    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7566    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0624   -3.9909    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7566   -5.3212    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 18  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 17  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+51
+
+> <Formula>
+C14H7Br2NO2
+
+> <FW>
+381.0189
+
+> <DSSTox_CID>
+52
+
+> <DSSTox_RID>
+79429
+
+> <DSSTox_GSID>
+39235
+
+> <DSSTox_FileID_Sort>
+4111
+
+> <TS_ChemName>
+1-Amino-2,4-dibromoanthraquinone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+81-49-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H7Br2NO2
+
+> <STRUCTURE_MW>
+381.0189
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-amino-2,4-dibromoanthracene-9,10-dione
+
+> <STRUCTURE_SMILES>
+O=C2c1ccccc1C(=O)c3c2c(N)c(Br)cc3Br
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2c1ccccc1C(=O)c3c2c(N)c(Br)cc3Br
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

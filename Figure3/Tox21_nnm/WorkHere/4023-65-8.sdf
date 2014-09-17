@@ -1,0 +1,97 @@
+4023-65-8
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    2.8142   -5.0552    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4685   -2.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6209   -1.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4685   -4.0129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6209   -0.6543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3220   -1.9862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -2.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6209   -4.6730    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4685    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9862    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7906    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -4.0129    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7906   -2.6579    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 10  2  0  0  0  0
+  7 12  1  0  0  0  0
+M  END
+> <ID>
+13698
+
+> <Formula>
+C6H6O6
+
+> <FW>
+174.1082
+
+> <DSSTox_CID>
+28632
+
+> <DSSTox_RID>
+82902
+
+> <DSSTox_GSID>
+48706
+
+> <DSSTox_FileID_Sort>
+7579
+
+> <TS_ChemName>
+trans-Aconitic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4023-65-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6O6
+
+> <STRUCTURE_MW>
+174.1082
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1E)-prop-1-ene-1,2,3-tricarboxylic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)C(\CC(=O)O)=C\C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)C(\CC(=O)O)=C\C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

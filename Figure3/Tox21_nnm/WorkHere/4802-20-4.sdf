@@ -1,0 +1,96 @@
+4802-20-4
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    5.9847   -3.4532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3204   -2.3041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9847   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3204    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9918   -2.3041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3275   -3.4532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9929   -3.4532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286   -2.3041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9929   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3275   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+4233
+
+> <Formula>
+C10H20S2
+
+> <FW>
+204.3958
+
+> <DSSTox_CID>
+5501
+
+> <DSSTox_RID>
+77811
+
+> <DSSTox_GSID>
+25501
+
+> <DSSTox_FileID_Sort>
+2494
+
+> <TS_ChemName>
+Dipentenedimercaptan
+
+> <TS_ChemName_Synonyms>
+D-Limonene dimercaptan
+
+> <TS_CASRN>
+4802-20-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20S2
+
+> <STRUCTURE_MW>
+204.3958
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-5-(1-sulfanylpropan-2-yl)cyclohexanethiol
+
+> <STRUCTURE_SMILES>
+CC1CCC(CC1S)C(C)CS
+
+> <STRUCTURE_SMILES_Desalt>
+CC1CCC(CC1S)C(C)CS
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

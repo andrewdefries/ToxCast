@@ -1,0 +1,101 @@
+2235-90-7
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    6.9929   -5.4825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6922   -5.2097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2797   -3.9440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1748   -2.9510    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9790   -3.6713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5594   -2.4056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3496   -1.3287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5594   -0.2517    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3077   -0.6573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -2.6573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3077   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+11951
+
+> <Formula>
+C12H16N2
+
+> <FW>
+188.2688
+
+> <DSSTox_CID>
+26764
+
+> <DSSTox_RID>
+81887
+
+> <DSSTox_GSID>
+46764
+
+> <DSSTox_FileID_Sort>
+6568
+
+> <TS_ChemName>
+Etryptamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2235-90-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H16N2
+
+> <STRUCTURE_MW>
+188.2688
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(1H-indol-3-yl)butan-2-amine
+
+> <STRUCTURE_SMILES>
+CCC(N)Cc2cnc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(N)Cc2cnc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20110802
+
+$$$$

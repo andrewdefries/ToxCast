@@ -1,0 +1,100 @@
+22663-37-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    5.3181   -6.9066    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6482   -5.7532    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3181   -4.6136    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3152   -5.7532    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6591   -4.6136    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5056   -5.2698    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8125   -3.9437    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0029   -3.4602    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6591   -2.3068    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0029   -1.1534    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6561   -1.1534    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3068    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6561   -3.4602    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+16093
+
+> <Formula>
+C7H7ClN2O3S
+
+> <FW>
+234.6601
+
+> <DSSTox_CID>
+31480
+
+> <DSSTox_RID>
+97365
+
+> <DSSTox_GSID>
+57691
+
+> <DSSTox_FileID_Sort>
+8432
+
+> <TS_ChemName>
+1-(4-Chlorobenzenesulfonyl)urea
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+22663-37-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7ClN2O3S
+
+> <STRUCTURE_MW>
+234.6601
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-carbamoyl-4-chlorobenzenesulfonamide
+
+> <STRUCTURE_SMILES>
+O=S(=O)(NC(N)=O)c1ccc(Cl)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(NC(N)=O)c1ccc(Cl)cc1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

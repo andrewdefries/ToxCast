@@ -1,0 +1,102 @@
+645-05-6
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    2.6590   -4.6067    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9960   -3.4533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6630   -3.4533    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6590   -2.2999    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9851   -2.2999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6551   -1.1534    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9811   -1.1534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9851    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6551   -3.4533    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9851   -4.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6551   -5.7532    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9811   -5.7532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9851   -6.9066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+2338
+
+> <Formula>
+C9H18N6
+
+> <FW>
+210.2794
+
+> <DSSTox_CID>
+2579
+
+> <DSSTox_RID>
+76641
+
+> <DSSTox_GSID>
+22579
+
+> <DSSTox_FileID_Sort>
+1325
+
+> <TS_ChemName>
+Hexamethylmelamine
+
+> <TS_ChemName_Synonyms>
+Hexamethylmelamine (Altretamine)
+
+> <TS_CASRN>
+645-05-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18N6
+
+> <STRUCTURE_MW>
+210.2794
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N,N',N',N'',N''-hexamethyl-1,3,5-triazine-2,4,6-triamine
+
+> <STRUCTURE_SMILES>
+CN(C)c1nc(nc(n1)N(C)C)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)c1nc(nc(n1)N(C)C)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

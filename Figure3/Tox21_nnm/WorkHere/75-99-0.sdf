@@ -1,0 +1,85 @@
+75-99-0
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9956    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.9956    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6608   -1.9956    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -3.3260    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -0.6652    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1796    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4812    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <ID>
+1513
+
+> <Formula>
+C3H4Cl2O2
+
+> <FW>
+142.9687
+
+> <DSSTox_CID>
+1575
+
+> <DSSTox_RID>
+76215
+
+> <DSSTox_GSID>
+21575
+
+> <DSSTox_FileID_Sort>
+899
+
+> <TS_ChemName>
+Dalapon
+
+> <TS_ChemName_Synonyms>
+Dalapon (2,2-Dichloropropanoic acid)
+
+> <TS_CASRN>
+75-99-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H4Cl2O2
+
+> <STRUCTURE_MW>
+142.9687
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2-dichloropropanoic acid
+
+> <STRUCTURE_SMILES>
+CC(Cl)(Cl)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(Cl)(Cl)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

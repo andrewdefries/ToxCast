@@ -1,0 +1,81 @@
+546-88-3
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    3.4567   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.9945    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+2309
+
+> <Formula>
+C2H5NO2
+
+> <FW>
+75.0666
+
+> <DSSTox_CID>
+2546
+
+> <DSSTox_RID>
+76622
+
+> <DSSTox_GSID>
+22546
+
+> <DSSTox_FileID_Sort>
+1306
+
+> <TS_ChemName>
+Acetohydroxamic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+546-88-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H5NO2
+
+> <STRUCTURE_MW>
+75.0666
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-hydroxyacetamide
+
+> <STRUCTURE_SMILES>
+CC(=O)NO
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)NO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

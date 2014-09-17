@@ -1,0 +1,107 @@
+54-42-2
+ChemmineR-0915142007XD
+
+ 17 18  0  0  1  0  0  0  0  0  1 V2000
+    4.6342   -3.5629    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6737   -2.9995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6737   -1.8013    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5788   -2.9995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5788   -1.8013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6342   -1.1982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7529   -3.5629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6342    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5234   -1.2141    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6342   -5.4674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3647   -5.4674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5232   -4.6421    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8011   -6.8084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2136   -6.8084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0554   -5.0388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9752    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9759   -7.9352    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+ 10  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 15  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  1  6  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+10839
+
+> <Formula>
+C9H11IN2O5
+
+> <FW>
+354.0985
+
+> <DSSTox_CID>
+25238
+
+> <DSSTox_RID>
+80769
+
+> <DSSTox_GSID>
+45238
+
+> <DSSTox_FileID_Sort>
+5450
+
+> <TS_ChemName>
+Idoxuridine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+54-42-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11IN2O5
+
+> <STRUCTURE_MW>
+354.0985
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2'-deoxy-5-iodouridine
+
+> <STRUCTURE_SMILES>
+IC1=CN(C(=O)NC1=O)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+> <STRUCTURE_SMILES_Desalt>
+IC1=CN(C(=O)NC1=O)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

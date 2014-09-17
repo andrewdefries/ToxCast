@@ -1,0 +1,108 @@
+4097-22-7
+ChemmineR-0915142007XD
+
+ 17 19  0  0  1  0  0  0  0  0  1 V2000
+    4.2898   -3.6054    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0692   -3.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0692   -1.9332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2898   -1.5311    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0306   -2.5612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2898   -5.8561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9614   -1.2841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9614   -3.8594    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2244   -5.0800    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8396   -1.9332    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8396   -3.1962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8947   -7.0556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9614    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1802   -5.8561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5753   -7.0556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.0890    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9525   -5.4398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  6  1  1  1  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 11  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 17  1  1  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+3359
+
+> <Formula>
+C10H13N5O2
+
+> <FW>
+235.2425
+
+> <DSSTox_CID>
+3771
+
+> <DSSTox_RID>
+77189
+
+> <DSSTox_GSID>
+23771
+
+> <DSSTox_FileID_Sort>
+1872
+
+> <TS_ChemName>
+2',3'-Dideoxyadenosine
+
+> <TS_ChemName_Synonyms>
+ddA
+
+> <TS_CASRN>
+4097-22-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13N5O2
+
+> <STRUCTURE_MW>
+235.2425
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+[(2S,5R)-5-(6-amino-9H-purin-9-yl)tetrahydrofuran-2-yl]methanol
+
+> <STRUCTURE_SMILES>
+Nc3ncnc2c3ncn2[C@H]1CC[C@@H](CO)O1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc3ncnc2c3ncn2[C@H]1CC[C@@H](CO)O1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

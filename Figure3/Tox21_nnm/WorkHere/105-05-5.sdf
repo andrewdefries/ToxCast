@@ -1,0 +1,92 @@
+105-05-5
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    4.6448   -1.1562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9869   -2.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6579   -2.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9868   -1.1562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9869    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9737   -1.1562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6449    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6578   -1.1562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+4772
+
+> <Formula>
+C10H14
+
+> <FW>
+134.2182
+
+> <DSSTox_CID>
+6711
+
+> <DSSTox_RID>
+78192
+
+> <DSSTox_GSID>
+26711
+
+> <DSSTox_FileID_Sort>
+2875
+
+> <TS_ChemName>
+1,4-Diethylbenzene
+
+> <TS_ChemName_Synonyms>
+1,4-Diethylbenzene (p-Diethylbenzene)
+
+> <TS_CASRN>
+105-05-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14
+
+> <STRUCTURE_MW>
+134.2182
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-diethylbenzene
+
+> <STRUCTURE_SMILES>
+CCc1ccc(CC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCc1ccc(CC)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

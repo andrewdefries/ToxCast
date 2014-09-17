@@ -1,0 +1,107 @@
+83-26-1
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    1.8149   -2.3398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549   -1.1849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1498   -2.3398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9297   -1.2599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5172    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1971   -1.6724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3445   -1.0049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4994   -1.6724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4994   -2.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3445   -3.6672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1971   -2.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9297   -3.4122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5172   -4.6796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549   -3.4872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023   -4.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4875   -4.6421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.8273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+M  END
+> <ID>
+4475
+
+> <Formula>
+C14H14O3
+
+> <FW>
+230.2592
+
+> <DSSTox_CID>
+5930
+
+> <DSSTox_RID>
+77970
+
+> <DSSTox_GSID>
+25930
+
+> <DSSTox_FileID_Sort>
+2653
+
+> <TS_ChemName>
+Pindone
+
+> <TS_ChemName_Synonyms>
+Pindone (2-Pivalyl-1,3-indandione) (Pival)
+
+> <TS_CASRN>
+83-26-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H14O3
+
+> <STRUCTURE_MW>
+230.2592
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(2,2-dimethylpropanoyl)-1H-indene-1,3(2H)-dione
+
+> <STRUCTURE_SMILES>
+CC(C)(C)C(=O)C2C(=O)c1ccccc1C2=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)C(=O)C2C(=O)c1ccccc1C2=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

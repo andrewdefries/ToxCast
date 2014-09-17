@@ -1,0 +1,102 @@
+66-71-7
+ChemmineR-0915142007XD
+
+ 14 16  0  0  0  0  0  0  0  0  1 V2000
+    3.9901   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6551   -3.4580    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9851   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6501   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9851   -1.1571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6551   -1.1571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -1.1571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -3.4580    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -1.1571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+4439
+
+> <Formula>
+C12H8N2
+
+> <FW>
+180.2053
+
+> <DSSTox_CID>
+5857
+
+> <DSSTox_RID>
+77950
+
+> <DSSTox_GSID>
+25857
+
+> <DSSTox_FileID_Sort>
+2633
+
+> <TS_ChemName>
+1,10-Phenanthroline
+
+> <TS_ChemName_Synonyms>
+o-Phenanthroline
+
+> <TS_CASRN>
+66-71-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H8N2
+
+> <STRUCTURE_MW>
+180.2053
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,10-phenanthroline
+
+> <STRUCTURE_SMILES>
+c1ccnc3c1ccc2cccnc23
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccnc3c1ccc2cccnc23
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

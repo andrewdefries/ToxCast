@@ -1,0 +1,83 @@
+557-30-2
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.1467    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5982   -0.7030    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4458   -0.0173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2818   -0.6684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6569    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7621   -0.0461    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  3  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  3  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+8948
+
+> <Formula>
+C2H4N2O2
+
+> <FW>
+88.0654
+
+> <DSSTox_CID>
+22014
+
+> <DSSTox_RID>
+79903
+
+> <DSSTox_GSID>
+42014
+
+> <DSSTox_FileID_Sort>
+4585
+
+> <TS_ChemName>
+Glyoxime
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+557-30-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H4N2O2
+
+> <STRUCTURE_MW>
+88.0654
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N'-dihydroxyethane-1,2-diimine
+
+> <STRUCTURE_SMILES>
+ON=CC=NO
+
+> <STRUCTURE_SMILES_Desalt>
+ON=CC=NO
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

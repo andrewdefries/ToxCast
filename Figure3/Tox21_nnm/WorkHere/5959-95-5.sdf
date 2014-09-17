@@ -1,0 +1,91 @@
+5959-95-5
+ChemmineR-0915142007XD
+
+ 10  9  0  0  1  0  0  0  0  0  1 V2000
+    2.3040   -3.3280    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4594   -1.3353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6149   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7634   -1.3353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9189   -1.9926    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7634    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1555   -1.3353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9926    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1555    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <ID>
+11616
+
+> <Formula>
+C5H10N2O3
+
+> <FW>
+146.1445
+
+> <DSSTox_CID>
+26345
+
+> <DSSTox_RID>
+81549
+
+> <DSSTox_GSID>
+46345
+
+> <DSSTox_FileID_Sort>
+6230
+
+> <TS_ChemName>
+D-Glutamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5959-95-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10N2O3
+
+> <STRUCTURE_MW>
+146.1445
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+D-glutamine
+
+> <STRUCTURE_SMILES>
+O=C(N)CC[C@@H](N)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(N)CC[C@@H](N)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20110814
+
+$$$$

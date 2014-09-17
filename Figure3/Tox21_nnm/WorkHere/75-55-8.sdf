@@ -1,0 +1,80 @@
+75-55-8
+ChemmineR-0915142007XD
+
+  4  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3263   -0.6644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4791    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4791   -1.3313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+3602
+
+> <Formula>
+C3H7N
+
+> <FW>
+57.0944
+
+> <DSSTox_CID>
+4286
+
+> <DSSTox_RID>
+77355
+
+> <DSSTox_GSID>
+24286
+
+> <DSSTox_FileID_Sort>
+2038
+
+> <TS_ChemName>
+Propyleneimine
+
+> <TS_ChemName_Synonyms>
+Propylenimine
+
+> <TS_CASRN>
+75-55-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H7N
+
+> <STRUCTURE_MW>
+57.0944
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylaziridine
+
+> <STRUCTURE_SMILES>
+CC1CN1
+
+> <STRUCTURE_SMILES_Desalt>
+CC1CN1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

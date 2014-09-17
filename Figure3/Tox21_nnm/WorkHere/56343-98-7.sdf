@@ -1,0 +1,112 @@
+56343-98-7
+ChemmineR-0915142007XD
+
+ 20 20  0  0  1  0  0  0  0  0  1 V2000
+    4.5758   -3.9626    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7563   -4.6398    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7563   -1.9676    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3952   -4.6398    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5758   -2.6265    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3952   -6.0126    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2696   -4.0175    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8820   -3.9352    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0259   -4.6124    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1256   -6.0126    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1256   -4.6398    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2696   -6.6440    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6898    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7563   -0.6315    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4318   -1.9676    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1515   -3.9352    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0259   -5.9485    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5758    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4318   -0.6315    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5758   -7.2206    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  1  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5 15  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+14020
+
+> <Formula>
+C16H20Cl2N2
+
+> <FW>
+311.2494 (274.7885+36.4609)
+
+> <DSSTox_CID>
+28962
+
+> <DSSTox_RID>
+83227
+
+> <DSSTox_GSID>
+49036
+
+> <DSSTox_FileID_Sort>
+7903
+
+> <TS_ChemName>
+Dexchlorpheniramine hydrochloride
+
+> <TS_ChemName_Synonyms>
+dexchlorpheniramine
+
+> <TS_CASRN>
+56343-98-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H20Cl2N2
+
+> <STRUCTURE_MW>
+311.2494
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(3S)-3-(4-chlorophenyl)-N,N-dimethyl-3-(pyridin-2-yl)propan-1-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Clc1ccc(cc1)[C@H](CCN(C)C)c2ccccn2
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(cc1)[C@H](CCN(C)C)c2ccccn2
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

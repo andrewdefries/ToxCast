@@ -1,0 +1,91 @@
+693-58-3
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -4.6085    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3314   -4.6085    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9924   -3.4541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3237   -3.4541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9941   -2.3089    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3161   -2.3089    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9865   -1.1545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3178   -1.1545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9788    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3102    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+14212
+
+> <Formula>
+C9H19Br
+
+> <FW>
+207.1512
+
+> <DSSTox_CID>
+29307
+
+> <DSSTox_RID>
+83423
+
+> <DSSTox_GSID>
+49348
+
+> <DSSTox_FileID_Sort>
+8098
+
+> <TS_ChemName>
+Nonylbromide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+693-58-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H19Br
+
+> <STRUCTURE_MW>
+207.1512
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromononane
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCBr
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCBr
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

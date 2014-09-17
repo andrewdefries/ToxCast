@@ -1,0 +1,109 @@
+8001-35-2
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    1.2081   -2.6663    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7273   -2.2270    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6797   -2.8249    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2081   -3.8439    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8737   -3.3252    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4418   -3.8927    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6303   -1.0677    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2472   -1.9219    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6499   -3.2276    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6980   -4.8445    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6589   -4.6004    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1172    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1496   -0.7627    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1014   -3.9903    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8737    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4845   -0.0976    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1300   -4.2465    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8731   -1.4704    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+M  END
+> <ID>
+1315
+
+> <Formula>
+C10H8Cl8
+
+> <FW>
+411.7945
+
+> <DSSTox_CID>
+1368
+
+> <DSSTox_RID>
+76114
+
+> <DSSTox_GSID>
+21368
+
+> <DSSTox_FileID_Sort>
+798
+
+> <TS_ChemName>
+Toxaphene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+8001-35-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+complex mixture of at least 177 compounds
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C10H8Cl8
+
+> <STRUCTURE_MW>
+411.7945
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4,5,6,7,7-hexachloro-2,2-bis(chloromethyl)-3-methylidenebicyclo[2.2.1]heptane
+
+> <STRUCTURE_SMILES>
+ClC2(Cl)C1(Cl)C(Cl)C(Cl)C2(Cl)C(=C)C1(CCl)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+ClC2(Cl)C1(Cl)C(Cl)C(Cl)C2(Cl)C(=C)C1(CCl)CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

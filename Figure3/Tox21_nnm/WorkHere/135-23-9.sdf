@@ -1,0 +1,110 @@
+135-23-9
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    4.4048   -3.9958    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5690   -4.6565    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7174   -3.9958    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8658   -4.6565    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8658   -5.9937    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7174   -6.6545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5690   -5.9937    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2564   -4.6565    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1080   -3.9958    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8967   -4.5386    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.5475    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6607   -2.3991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9664   -2.6665    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4048   -2.6586    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2564   -1.9979    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2564   -0.6607    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1080    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4048    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7845   -6.8039    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+784
+
+> <Formula>
+C14H20ClN3S
+
+> <FW>
+297.8467 (261.3858+36.4609)
+
+> <DSSTox_CID>
+818
+
+> <DSSTox_RID>
+75806
+
+> <DSSTox_GSID>
+20818
+
+> <DSSTox_FileID_Sort>
+490
+
+> <TS_ChemName>
+Methapyrilene hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+135-23-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [91-80-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20ClN3S
+
+> <STRUCTURE_MW>
+297.8467
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N,N-dimethyl-N'-(pyridin-2-yl)-N'-(thiophen-2-ylmethyl)ethane-1,2-diamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CN(C)CCN(Cc1cccs1)c2ccccn2
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCN(Cc1cccs1)c2ccccn2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

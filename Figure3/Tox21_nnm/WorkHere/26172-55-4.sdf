@@ -1,0 +1,88 @@
+26172-55-4
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    2.3380   -1.3316    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4113   -2.1154    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6656   -3.3801    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9971   -3.3801    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2648   -2.1154    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6967    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7809   -4.4534    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3380    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+6717
+
+> <Formula>
+C4H4ClNOS
+
+> <FW>
+149.5987
+
+> <DSSTox_CID>
+14286
+
+> <DSSTox_RID>
+79138
+
+> <DSSTox_GSID>
+34286
+
+> <DSSTox_FileID_Sort>
+3820
+
+> <TS_ChemName>
+5-Chloro-2-methyl-3(2H)-isothiazolone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+26172-55-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H4ClNOS
+
+> <STRUCTURE_MW>
+149.5987
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-chloro-2-methyl-1,2-thiazol-3(2H)-one
+
+> <STRUCTURE_SMILES>
+ClC1=CC(=O)N(C)S1
+
+> <STRUCTURE_SMILES_Desalt>
+ClC1=CC(=O)N(C)S1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,112 @@
+127-39-9
+ChemmineR-0915142007XD
+
+ 21 19  0  0  0  0  0  0  0  0  2 V2000
+    4.6175   -1.3320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7719   -1.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9136   -1.3320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0680   -1.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6175    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4631   -1.9916    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0680   -3.3236    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2224   -1.3320    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7719   -3.3236    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4399   -3.3236    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1039   -3.3236    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7719   -4.6556    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.3088   -1.3320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -1.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -3.3236    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3768   -1.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5311   -1.3320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6855   -1.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5311    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9031   -5.0361    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  7  2  0  0  0  0
+  6 13  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <ID>
+5823
+
+> <Formula>
+C12H21NaO7S
+
+> <FW>
+332.3457 (309.3565+22.9892)
+
+> <DSSTox_CID>
+9164
+
+> <DSSTox_RID>
+78693
+
+> <DSSTox_GSID>
+29164
+
+> <DSSTox_FileID_Sort>
+3375
+
+> <TS_ChemName>
+Sodium 1,4-diisobutyl sulfosuccinate
+
+> <TS_ChemName_Synonyms>
+Butanedioic acid, sulfo-, 1,4-bis(2-methylpropyl) ester, sodium salt
+
+> <TS_CASRN>
+127-39-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [88-48-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H21NaO7S
+
+> <STRUCTURE_MW>
+332.3457
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 1,4-bis(2-methylpropoxy)-1,4-dioxobutane-2-sulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].O=S(=O)([O-])C(CC(=O)OCC(C)C)C(=O)OCC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)C(CC(=O)OCC(C)C)C(=O)OCC(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

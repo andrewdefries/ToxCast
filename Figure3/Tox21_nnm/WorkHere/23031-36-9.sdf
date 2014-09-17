@@ -1,0 +1,117 @@
+23031-36-9
+ChemmineR-0915142007XD
+
+ 22 23  0  0  1  0  0  0  0  0  1 V2000
+    4.1161   -6.3071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7013   -7.5727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8079   -6.5836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0946   -5.4137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8180   -4.1161    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3603   -5.8285    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5841   -8.5619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2865   -8.8384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5422   -6.1794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2657   -4.8712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.4671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2548   -3.9885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3494   -4.9457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2111   -3.6162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4236   -3.0738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3170   -4.0629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6470   -5.2222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0518   -2.9568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6359   -3.9246    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7001   -1.7762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7216   -0.8934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7325    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  1  1  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+ 13  6  1  1  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  3  0  0  0  0
+M  END
+> <ID>
+6523
+
+> <Formula>
+C19H24O3
+
+> <FW>
+300.3921
+
+> <DSSTox_CID>
+12572
+
+> <DSSTox_RID>
+78990
+
+> <DSSTox_GSID>
+32572
+
+> <DSSTox_FileID_Sort>
+3672
+
+> <TS_ChemName>
+Prallethrin
+
+> <TS_ChemName_Synonyms>
+Prallethrin (Cyclopropanecarboxylic acid, 2,2-dimethyl-3-(2-methyl-1-propenyl)-, 2-methyl-4-oxo-3-(2-propynyl)-2- cyclopenten-1-yl ester)
+
+> <TS_CASRN>
+23031-36-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 8 isomers; primarily (1R,trans,S) and (1R,cis,S) in approx 4:1; structure shown (1R,trans,S); stereochem; tautomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C19H24O3
+
+> <STRUCTURE_MW>
+300.3921
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1R)-2-methyl-4-oxo-3-(prop-2-yn-1-yl)cyclopent-2-en-1-yl (1S,3S)-2,2-dimethyl-3-(2-methylprop-1-en-1-yl)cyclopropanecarboxylate
+
+> <STRUCTURE_SMILES>
+O=C2C[C@@H](OC(=O)[C@H]1[C@H](/C=C(\C)C)C1(C)C)C(C)=C2CC#C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2C[C@@H](OC(=O)[C@H]1[C@H](/C=C(\C)C)C1(C)C)C(C)=C2CC#C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

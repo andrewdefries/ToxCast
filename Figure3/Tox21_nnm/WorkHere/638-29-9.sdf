@@ -1,0 +1,85 @@
+638-29-9
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    5.7429   -1.9985    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5885   -1.3266    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4400   -1.9985    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2857   -1.3266    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543   -1.9985    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3266    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5885    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+6661
+
+> <Formula>
+C5H9ClO
+
+> <FW>
+120.5774
+
+> <DSSTox_CID>
+14091
+
+> <DSSTox_RID>
+79113
+
+> <DSSTox_GSID>
+34091
+
+> <DSSTox_FileID_Sort>
+3795
+
+> <TS_ChemName>
+Valeryl chloride
+
+> <TS_ChemName_Synonyms>
+Valeryl chloride (Pentanoyl chloride)
+
+> <TS_CASRN>
+638-29-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H9ClO
+
+> <STRUCTURE_MW>
+120.5774
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pentanoyl chloride
+
+> <STRUCTURE_SMILES>
+CCCCC(Cl)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCC(Cl)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,101 @@
+359845-21-9
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  2 V2000
+    2.6062   -6.4224    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6062   -8.3771    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2454   -8.4617    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.8455    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3708   -7.4717    0.0000 Fe   0  5  0  0  0  0  0  0  0  0  0  0
+    4.7470    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4747   -6.8709    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4170   -6.2786    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4255   -5.0686    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3762   -4.4678    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7670   -1.3962    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4031   -2.5470    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3409   -2.5470    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9770   -1.3962    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    3.3762   -3.2493    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+14145
+
+> <Formula>
+C8H15Cl4FeN2
+
+> <FW>
+336.8751 (197.6575+139.2176)
+
+> <DSSTox_CID>
+29138
+
+> <DSSTox_RID>
+83357
+
+> <DSSTox_GSID>
+49282
+
+> <DSSTox_FileID_Sort>
+8032
+
+> <TS_ChemName>
+1-Butyl-3-methylimidazolium tetrachloroferrate (III)
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+359845-21-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H15Cl4FeN2
+
+> <STRUCTURE_MW>
+336.8751
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+1-butyl-3-methyl-1H-imidazol-3-ium tetrachloroferrate(1-)
+
+> <STRUCTURE_SMILES>
+CCCCn1cc[n+](C)c1.Cl[Fe-](Cl)(Cl)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCn1cc[n+](C)c1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

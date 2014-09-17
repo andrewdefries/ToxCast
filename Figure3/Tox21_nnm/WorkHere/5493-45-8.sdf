@@ -1,0 +1,114 @@
+5493-45-8
+ChemmineR-0915142007XD
+
+ 20 22  0  0  0  0  0  0  0  0  1 V2000
+    3.1470   -4.7827    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8071   -5.9306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1470   -7.0880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8174   -7.0880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1479   -8.2359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1479   -9.5655    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -8.9054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1367   -5.9306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8062   -4.7827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1367   -3.6349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8062   -2.4775    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8071   -3.6349    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1470   -2.4775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8071   -1.3296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8071    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9645   -0.6600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1358   -4.7827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7959   -5.9306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1358   -7.0880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8062   -7.0880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+3892
+
+> <Formula>
+C14H20O6
+
+> <FW>
+284.305
+
+> <DSSTox_CID>
+4875
+
+> <DSSTox_RID>
+77561
+
+> <DSSTox_GSID>
+24875
+
+> <DSSTox_FileID_Sort>
+2244
+
+> <TS_ChemName>
+1,2-Cyclohexanedicarboxylic acid, bis(oxiranylmethyl) ester
+
+> <TS_ChemName_Synonyms>
+Bis(oxiran-2-ylmethyl) cyclohexane-1,2-dicarboxylate
+
+> <TS_CASRN>
+5493-45-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20O6
+
+> <STRUCTURE_MW>
+284.305
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+bis(oxiran-2-ylmethyl) cyclohexane-1,2-dicarboxylate
+
+> <STRUCTURE_SMILES>
+O=C(OCC1CO1)C2CCCCC2C(=O)OCC3CO3
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC1CO1)C2CCCCC2C(=O)OCC3CO3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

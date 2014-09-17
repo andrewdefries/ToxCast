@@ -1,0 +1,87 @@
+76-13-1
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    1.3283   -1.3283    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283   -2.6606    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6606   -2.6606    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283   -3.9889    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6606    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3283    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283    0.0000    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6606   -1.3283    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <ID>
+1323
+
+> <Formula>
+C2Cl3F3
+
+> <FW>
+187.3756
+
+> <DSSTox_CID>
+1377
+
+> <DSSTox_RID>
+76120
+
+> <DSSTox_GSID>
+21377
+
+> <DSSTox_FileID_Sort>
+804
+
+> <TS_ChemName>
+1,1,2-Trichloro-1,2,2-trifluoroethane
+
+> <TS_ChemName_Synonyms>
+CFC-113
+
+> <TS_CASRN>
+76-13-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2Cl3F3
+
+> <STRUCTURE_MW>
+187.3756
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1,2-trichloro-1,2,2-trifluoroethane
+
+> <STRUCTURE_SMILES>
+ClC(F)(F)C(Cl)(Cl)F
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(F)(F)C(Cl)(Cl)F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,94 @@
+14073-97-3
+ChemmineR-0915142007XD
+
+ 11 11  0  0  1  0  0  0  0  0  1 V2000
+    2.3043   -3.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -3.9861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -1.9990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4594   -3.9861    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -5.3267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -1.3287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -5.9851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  6  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  1  1  0  0  0
+M  END
+> <ID>
+10041
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+24384
+
+> <DSSTox_RID>
+80188
+
+> <DSSTox_GSID>
+44384
+
+> <DSSTox_FileID_Sort>
+4870
+
+> <TS_ChemName>
+(2S,5R)-5-Methyl-2-(propan-2-yl)cyclohexanone
+
+> <TS_ChemName_Synonyms>
+Cyclohexanone, 5-methyl-2-(1-methylethyl)-, (2S,5R)-
+
+> <TS_CASRN>
+14073-97-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2S,5R)-5-methyl-2-(propan-2-yl)cyclohexanone
+
+> <STRUCTURE_SMILES>
+CC(C)[C@@H]1CC[C@@H](C)CC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)[C@@H]1CC[C@@H](C)CC1=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

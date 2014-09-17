@@ -1,0 +1,87 @@
+111-76-2
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639   -0.6621    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3092    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5943    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7650   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9035    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0743   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+3499
+
+> <Formula>
+C6H14O2
+
+> <FW>
+118.1742
+
+> <DSSTox_CID>
+4097
+
+> <DSSTox_RID>
+77286
+
+> <DSSTox_GSID>
+24097
+
+> <DSSTox_FileID_Sort>
+1969
+
+> <TS_ChemName>
+2-Butoxyethanol
+
+> <TS_ChemName_Synonyms>
+2-Butoxyethanol (ethylene glycol monobutyl ether) (EGBE)
+
+> <TS_CASRN>
+111-76-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O2
+
+> <STRUCTURE_MW>
+118.1742
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-butoxyethanol
+
+> <STRUCTURE_SMILES>
+CCCCOCCO
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCOCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

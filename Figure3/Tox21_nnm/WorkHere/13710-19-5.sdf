@@ -1,0 +1,109 @@
+13710-19-5
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    5.3235   -1.1493    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9859   -2.2986    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3188   -2.2986    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9813   -1.1493    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9813   -3.4559    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3188   -4.6052    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9859   -4.6052    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3235   -3.4559    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9906   -3.4559    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3282   -2.2986    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9953   -2.2986    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3329   -1.1493    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9953    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3282    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9906   -1.1493    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3329   -3.4559    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9953   -4.6052    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4559    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+M  END
+> <ID>
+10928
+
+> <Formula>
+C14H12ClNO2
+
+> <FW>
+261.7036
+
+> <DSSTox_CID>
+25409
+
+> <DSSTox_RID>
+80860
+
+> <DSSTox_GSID>
+45409
+
+> <DSSTox_FileID_Sort>
+5541
+
+> <TS_ChemName>
+Tolfenamic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13710-19-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H12ClNO2
+
+> <STRUCTURE_MW>
+261.7036
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[(3-chloro-2-methylphenyl)amino]benzoic acid
+
+> <STRUCTURE_SMILES>
+Cc2c(Nc1ccccc1C(=O)O)cccc2Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Cc2c(Nc1ccccc1C(=O)O)cccc2Cl
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

@@ -1,0 +1,95 @@
+26896-20-8
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    3.9330   -1.1405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5966   -2.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -2.9653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3018   -2.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543   -2.9653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543   -4.2925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5966    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6059   -1.1405    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2671   -3.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7579   -1.6313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9122   -2.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+5498
+
+> <Formula>
+C10H20O2
+
+> <FW>
+172.2646
+
+> <DSSTox_CID>
+7916
+
+> <DSSTox_RID>
+78609
+
+> <DSSTox_GSID>
+27916
+
+> <DSSTox_FileID_Sort>
+3291
+
+> <TS_ChemName>
+Neodecanoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+26896-20-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of decanyl tertiary isomers; structure shown 2-ethyl-2,5-dimethylhexanoic
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C10H20O2
+
+> <STRUCTURE_MW>
+172.2646
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethyl-2,5-dimethylhexanoic acid
+
+> <STRUCTURE_SMILES>
+CC(C)CCC(C)(CC)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CCC(C)(CC)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

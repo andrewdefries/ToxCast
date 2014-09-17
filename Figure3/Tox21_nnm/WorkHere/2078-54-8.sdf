@@ -1,0 +1,98 @@
+2078-54-8
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    2.3009   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -3.9869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3009   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6088   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6088   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7558   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9097   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7558   -3.9869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548   -3.9869    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+3155
+
+> <Formula>
+C12H18O
+
+> <FW>
+178.2707
+
+> <DSSTox_CID>
+3523
+
+> <DSSTox_RID>
+77063
+
+> <DSSTox_GSID>
+23523
+
+> <DSSTox_FileID_Sort>
+1746
+
+> <TS_ChemName>
+Propofol
+
+> <TS_ChemName_Synonyms>
+Propofol (2,6-Diisopropylphenol)
+
+> <TS_CASRN>
+2078-54-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H18O
+
+> <STRUCTURE_MW>
+178.2707
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,6-di(propan-2-yl)phenol
+
+> <STRUCTURE_SMILES>
+CC(C)c1cccc(C(C)C)c1O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)c1cccc(C(C)C)c1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

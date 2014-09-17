@@ -1,0 +1,98 @@
+51-65-0
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3047    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6619   -1.1483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9937   -1.1483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6555    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6555   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9873   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6492   -1.1483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9810   -1.1483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6429   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9746   -2.3047    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9810   -3.4530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6492   -3.4530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+4149
+
+> <Formula>
+C9H10FNO2
+
+> <FW>
+183.1796
+
+> <DSSTox_CID>
+5332
+
+> <DSSTox_RID>
+77754
+
+> <DSSTox_GSID>
+25332
+
+> <DSSTox_FileID_Sort>
+2437
+
+> <TS_ChemName>
+4-Fluoro-dl-phenylalanine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+51-65-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+racemic mixture; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10FNO2
+
+> <STRUCTURE_MW>
+183.1796
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-fluorophenylalanine
+
+> <STRUCTURE_SMILES>
+Fc1ccc(CC(N)C(=O)O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Fc1ccc(CC(N)C(=O)O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

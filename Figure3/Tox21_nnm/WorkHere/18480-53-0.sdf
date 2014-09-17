@@ -1,0 +1,92 @@
+18480-53-0
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    0.3473   -1.6938    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4274   -0.9326    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0935   -2.9785    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5217   -1.6938    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7613   -2.9785    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7921   -1.2846    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7579   -2.1887    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0443    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0585    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8548   -4.0585    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+8433
+
+> <Formula>
+C4HCl2NO2S
+
+> <FW>
+198.0272
+
+> <DSSTox_CID>
+21467
+
+> <DSSTox_RID>
+79744
+
+> <DSSTox_GSID>
+41467
+
+> <DSSTox_FileID_Sort>
+4426
+
+> <TS_ChemName>
+3,4-Dichloro-5-isothiazolecarboxylic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+18480-53-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4HCl2NO2S
+
+> <STRUCTURE_MW>
+198.0272
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,4-dichloro-1,2-thiazole-5-carboxylic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1snc(Cl)c1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1snc(Cl)c1Cl
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

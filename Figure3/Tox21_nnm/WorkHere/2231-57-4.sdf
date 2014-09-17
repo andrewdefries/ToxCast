@@ -1,0 +1,83 @@
+2231-57-4
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    2.3054   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4397   -2.0023    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5924   -1.3318    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -2.0023    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3318    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+5173
+
+> <Formula>
+CH6N4S
+
+> <FW>
+106.1501
+
+> <DSSTox_CID>
+7461
+
+> <DSSTox_RID>
+78461
+
+> <DSSTox_GSID>
+27461
+
+> <DSSTox_FileID_Sort>
+3144
+
+> <TS_ChemName>
+Thiocarbazide
+
+> <TS_ChemName_Synonyms>
+Thiocarbazide (Carbonothioic dihydrazide)
+
+> <TS_CASRN>
+2231-57-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH6N4S
+
+> <STRUCTURE_MW>
+106.1501
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+thiocarbonohydrazide
+
+> <STRUCTURE_SMILES>
+NNC(=S)NN
+
+> <STRUCTURE_SMILES_Desalt>
+NNC(=S)NN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

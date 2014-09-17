@@ -1,0 +1,82 @@
+22113-87-7
+ChemmineR-0915142007XD
+
+  6  4  0  0  0  0  0  0  0  0  2 V2000
+    1.3469   -1.1554    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3278   -1.1554    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.9863   -2.2928    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9863    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9989   -1.1554    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+> <ID>
+12999
+
+> <Formula>
+CH6N2O3
+
+> <FW>
+94.0699 (31.0571+63.0128)
+
+> <DSSTox_CID>
+27900
+
+> <DSSTox_RID>
+82653
+
+> <DSSTox_GSID>
+47924
+
+> <DSSTox_FileID_Sort>
+7330
+
+> <TS_ChemName>
+Methylammonium nitrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+22113-87-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [74-89-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH6N2O3
+
+> <STRUCTURE_MW>
+94.0699
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+methanamine nitrate (1:1)
+
+> <STRUCTURE_SMILES>
+CN.[O-][N+](=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)O
+
+> <Substance_modify_yyyymmdd>
+20110417
+
+$$$$

@@ -1,0 +1,84 @@
+113-24-6
+ChemmineR-0915142007XD
+
+  7  5  0  0  0  0  0  0  0  0  2 V2000
+    4.0696   -1.0622    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    2.0145   -1.1558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6796   -1.1558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6656    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0285   -2.3156    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7104   -2.2993    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0244    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  7  1  0  0  0  0
+M  END
+> <ID>
+7829
+
+> <Formula>
+C3H3NaO3
+
+> <FW>
+110.0439 (22.9892+87.0547)
+
+> <DSSTox_CID>
+20614
+
+> <DSSTox_RID>
+79512
+
+> <DSSTox_GSID>
+40614
+
+> <DSSTox_FileID_Sort>
+4194
+
+> <TS_ChemName>
+Sodium pyruvate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+113-24-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [127-17-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H3NaO3
+
+> <STRUCTURE_MW>
+110.0439
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 2-oxopropanoate
+
+> <STRUCTURE_SMILES>
+[Na+].CC(=O)C([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

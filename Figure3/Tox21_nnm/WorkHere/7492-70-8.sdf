@@ -1,0 +1,101 @@
+7492-70-8
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    9.2240   -2.0047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3786   -1.3449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5331   -2.0047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6877   -1.3449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2240   -3.3369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0694   -1.3449    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9021   -2.0047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7856   -1.3322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6183   -1.9920    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4637   -1.3322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3092   -1.9920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -1.3322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9021   -3.3369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7856    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 15  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+10479
+
+> <Formula>
+C11H20O4
+
+> <FW>
+216.2741
+
+> <DSSTox_CID>
+24831
+
+> <DSSTox_RID>
+80512
+
+> <DSSTox_GSID>
+44831
+
+> <DSSTox_FileID_Sort>
+5194
+
+> <TS_ChemName>
+1-Butoxy-1-oxopropan-2-yl butanoate
+
+> <TS_ChemName_Synonyms>
+Butanoic acid, 2-butoxy-1-methyl-2-oxoethyl ester; 1-(Butoxycarbonyl)-ethyl butyrate
+
+> <TS_CASRN>
+7492-70-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H20O4
+
+> <STRUCTURE_MW>
+216.2741
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-butoxy-1-oxopropan-2-yl butanoate
+
+> <STRUCTURE_SMILES>
+O=C(CCC)OC(C)C(=O)OCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCC)OC(C)C(=O)OCCCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

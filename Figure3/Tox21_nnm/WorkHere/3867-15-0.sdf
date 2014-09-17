@@ -1,0 +1,101 @@
+3867-15-0
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    2.1598    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1598   -1.3324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1598   -2.6770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6101   -3.9242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7583   -4.9342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4502   -4.7090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8457   -2.4336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4740   -2.4336    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9242   -1.1864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2384   -0.9613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0840   -1.9712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6338   -3.2185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3258   -3.4618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+11482
+
+> <Formula>
+C12H20N2
+
+> <FW>
+192.3006
+
+> <DSSTox_CID>
+26184
+
+> <DSSTox_RID>
+81415
+
+> <DSSTox_GSID>
+46184
+
+> <DSSTox_FileID_Sort>
+6096
+
+> <TS_ChemName>
+1-Piperidinocyclohexanecarbonitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3867-15-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H20N2
+
+> <STRUCTURE_MW>
+192.3006
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(piperidin-1-yl)cyclohexanecarbonitrile
+
+> <STRUCTURE_SMILES>
+N#CC1(CCCCC1)N2CCCCC2
+
+> <STRUCTURE_SMILES_Desalt>
+N#CC1(CCCCC1)N2CCCCC2
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

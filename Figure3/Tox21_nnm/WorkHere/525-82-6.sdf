@@ -1,0 +1,108 @@
+525-82-6
+ChemmineR-0915142007XD
+
+ 17 19  0  0  0  0  0  0  0  0  1 V2000
+    1.9959   -3.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6653   -3.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6653   -1.1492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9959   -1.1492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6612   -2.3070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9918   -2.3070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6485   -1.1492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9791   -1.1492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6444    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6444   -2.3070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9750   -2.3070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6404   -3.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9750   -4.6053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6444   -4.6053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9791   -3.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6485   -3.4561    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 17  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+1894
+
+> <Formula>
+C15H10O2
+
+> <FW>
+222.2387
+
+> <DSSTox_CID>
+2048
+
+> <DSSTox_RID>
+76467
+
+> <DSSTox_GSID>
+22048
+
+> <DSSTox_FileID_Sort>
+1151
+
+> <TS_ChemName>
+Flavone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+525-82-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H10O2
+
+> <STRUCTURE_MW>
+222.2387
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-phenyl-4H-chromen-4-one
+
+> <STRUCTURE_SMILES>
+O=C2C=C(Oc1ccccc12)c3ccccc3
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2C=C(Oc1ccccc12)c3ccccc3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

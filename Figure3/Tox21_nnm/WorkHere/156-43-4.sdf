@@ -1,0 +1,92 @@
+156-43-4
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.9962   -1.1553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3270   -1.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9850    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3158    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9812   -1.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3120   -1.1553    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3158   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9850   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3308    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+4444
+
+> <Formula>
+C8H11NO
+
+> <FW>
+137.179
+
+> <DSSTox_CID>
+5864
+
+> <DSSTox_RID>
+77954
+
+> <DSSTox_GSID>
+25864
+
+> <DSSTox_FileID_Sort>
+2637
+
+> <TS_ChemName>
+4-Ethoxyaniline
+
+> <TS_ChemName_Synonyms>
+4-Ethoxyaniline (p-Phenetidine) (Benzenamine, 4-ethoxy-)
+
+> <TS_CASRN>
+156-43-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H11NO
+
+> <STRUCTURE_MW>
+137.179
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-ethoxyaniline
+
+> <STRUCTURE_SMILES>
+CCOc1ccc(N)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCOc1ccc(N)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

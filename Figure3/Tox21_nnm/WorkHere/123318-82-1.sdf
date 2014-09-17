@@ -1,0 +1,114 @@
+123318-82-1
+ChemmineR-0915142007XD
+
+ 20 22  0  0  1  0  0  0  0  0  1 V2000
+    2.3161    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3001   -1.2938    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1580   -1.9247    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1421   -3.2185    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2522   -3.8894    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3942   -3.2505    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4102   -1.9567    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6401   -1.5813    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3908   -2.6435    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082   -3.6738    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5443   -5.7023    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5140   -4.9196    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4518   -5.6704    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2379   -5.2631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2476   -6.1256    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8272   -6.9242    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0605   -7.9545    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1450   -6.9402    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8797   -7.9864    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.8415    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 20  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 10  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  6  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  1  0  0  0
+M  END
+> <ID>
+11679
+
+> <Formula>
+C10H11ClFN5O3
+
+> <FW>
+303.6774
+
+> <DSSTox_CID>
+26437
+
+> <DSSTox_RID>
+81613
+
+> <DSSTox_GSID>
+46437
+
+> <DSSTox_FileID_Sort>
+6294
+
+> <TS_ChemName>
+Clofarabine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+123318-82-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H11ClFN5O3
+
+> <STRUCTURE_MW>
+303.6774
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-9-(2-deoxy-2-fluoro-beta-D-arabinofuranosyl)-9H-purin-6-amine
+
+> <STRUCTURE_SMILES>
+Nc3nc(Cl)nc2c3ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1F
+
+> <STRUCTURE_SMILES_Desalt>
+Nc3nc(Cl)nc2c3ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@@H]1F
+
+> <Substance_modify_yyyymmdd>
+20110813
+
+$$$$

@@ -1,0 +1,108 @@
+163000-63-3
+ChemmineR-0915142007XD
+
+ 18 18  0  0  1  0  0  0  0  0  1 V2000
+   11.0312    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3535   -1.1569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6856   -1.1569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3535   -2.4890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1966   -3.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0514   -2.4890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0514   -1.1569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1966   -0.4791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9062   -3.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7493   -2.4774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7493   -1.1686    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6041   -3.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6041   -4.4756    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4589   -2.4890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3138   -3.1668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -2.4890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -1.1569    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1668    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  1  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+11196
+
+> <Formula>
+C13H24N2O3
+
+> <FW>
+256.3413
+
+> <DSSTox_CID>
+25787
+
+> <DSSTox_RID>
+81128
+
+> <DSSTox_GSID>
+45787
+
+> <DSSTox_FileID_Sort>
+5809
+
+> <TS_ChemName>
+Neboglamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+163000-63-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H24N2O3
+
+> <STRUCTURE_MW>
+256.3413
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(4,4-dimethylcyclohexyl)-L-alpha-glutamine
+
+> <STRUCTURE_SMILES>
+O=C(NC1CCC(C)(C)CC1)[C@@H](N)CCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NC1CCC(C)(C)CC1)[C@@H](N)CCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20110902
+
+$$$$

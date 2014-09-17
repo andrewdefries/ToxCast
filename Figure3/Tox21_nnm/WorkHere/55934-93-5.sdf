@@ -1,0 +1,105 @@
+55934-93-5
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+    8.0982   -1.3202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2313   -1.9960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3956   -1.3202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0982    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2974   -1.9648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1435   -1.3202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2974   -3.3162    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6157   -1.9648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7800   -1.3202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6157   -3.3162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4514   -1.3202    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9235   -1.9960    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1435   -3.9815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1435   -5.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -7.2770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+9409
+
+> <Formula>
+C13H28O4
+
+> <FW>
+248.359
+
+> <DSSTox_CID>
+22503
+
+> <DSSTox_RID>
+80042
+
+> <DSSTox_GSID>
+42503
+
+> <DSSTox_FileID_Sort>
+4724
+
+> <TS_ChemName>
+Tripropylene glycol butyl ether
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+55934-93-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H28O4
+
+> <STRUCTURE_MW>
+248.359
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-[2-(1-butoxypropoxy)propoxy]propan-1-ol
+
+> <STRUCTURE_SMILES>
+OC(OCC(C)OC(CC)OCCCC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+OC(OCC(C)OC(CC)OCCCC)CC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

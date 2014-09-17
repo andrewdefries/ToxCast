@@ -1,0 +1,99 @@
+765-09-3
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -6.9142    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3297   -6.9142    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9945   -5.7574    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3241   -5.7574    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9890   -4.6139    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186   -4.6139    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9835   -3.4571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3131   -3.4571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9779   -2.3136    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3076   -2.3136    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9724   -1.1568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.3021   -1.1568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.9669    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.2966    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+14219
+
+> <Formula>
+C13H27Br
+
+> <FW>
+263.2575
+
+> <DSSTox_CID>
+29314
+
+> <DSSTox_RID>
+83430
+
+> <DSSTox_GSID>
+49355
+
+> <DSSTox_FileID_Sort>
+8105
+
+> <TS_ChemName>
+Tridecane,1-bromo-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+765-09-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H27Br
+
+> <STRUCTURE_MW>
+263.2575
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromotridecane
+
+> <STRUCTURE_SMILES>
+BrCCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+BrCCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

@@ -1,0 +1,100 @@
+68609-96-1
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+   10.3850   -1.1508    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2342   -1.8104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0975   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9327   -1.8104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7819   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6311   -1.8104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4663   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3156   -1.8104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1508   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7006   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5498   -1.8104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3742    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0338   -1.1508    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+6026
+
+> <Formula>
+C12H24O2
+
+> <FW>
+200.3178
+
+> <DSSTox_CID>
+9474
+
+> <DSSTox_RID>
+78774
+
+> <DSSTox_GSID>
+29474
+
+> <DSSTox_FileID_Sort>
+3456
+
+> <TS_ChemName>
+Oxirane, mono[(C8-10-alkyloxy)methyl] derivs.
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+68609-96-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of alkyloxyoxiranes; structure shown C9
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C12H24O2
+
+> <STRUCTURE_MW>
+200.3178
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[(nonyloxy)methyl]oxirane
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCOCC1CO1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCOCC1CO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

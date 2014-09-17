@@ -1,0 +1,96 @@
+79098-20-7
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    3.4563   -0.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -2.0277    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2765   -2.6360    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -1.9632    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1337   -0.6360    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3318    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5900    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7420   -0.6820    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9126   -0.0461    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0647   -0.7005    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2168   -0.0277    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6176    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+13268
+
+> <Formula>
+C11H15Cl
+
+> <FW>
+182.6898
+
+> <DSSTox_CID>
+28181
+
+> <DSSTox_RID>
+82740
+
+> <DSSTox_GSID>
+48206
+
+> <DSSTox_FileID_Sort>
+7417
+
+> <TS_ChemName>
+4-Chloropentylbenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+79098-20-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H15Cl
+
+> <STRUCTURE_MW>
+182.6898
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-4-pentylbenzene
+
+> <STRUCTURE_SMILES>
+Clc1ccc(CCCCC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(CCCCC)cc1
+
+> <Substance_modify_yyyymmdd>
+20110901
+
+$$$$

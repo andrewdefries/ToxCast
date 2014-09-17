@@ -1,0 +1,98 @@
+137-03-1
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    1.0759   -1.3297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1417   -2.1112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7255   -3.3800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3959   -3.3800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0759    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4003   -1.6951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3748   -2.5985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6435   -2.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6383   -3.0755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8969   -2.6594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8916   -3.5526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1502   -3.1364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+10201
+
+> <Formula>
+C12H22O
+
+> <FW>
+182.3025
+
+> <DSSTox_CID>
+24547
+
+> <DSSTox_RID>
+80307
+
+> <DSSTox_GSID>
+44547
+
+> <DSSTox_FileID_Sort>
+4989
+
+> <TS_ChemName>
+2-Heptylcyclopentanone
+
+> <TS_ChemName_Synonyms>
+2-Heptylcyclopentanone (Cyclopentanone, 2-heptyl-) (Alismone)
+
+> <TS_CASRN>
+137-03-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H22O
+
+> <STRUCTURE_MW>
+182.3025
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-heptylcyclopentanone
+
+> <STRUCTURE_SMILES>
+O=C1CCCC1CCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCC1CCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,96 @@
+80-46-6
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    6.4728    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3220   -0.6652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3220   -1.9957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3220   -3.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6525   -1.9957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9915   -1.9957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3262   -3.1466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9957   -3.1466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3305   -1.9957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9957    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9957   -0.8449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3262   -0.8449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+1678
+
+> <Formula>
+C11H16O
+
+> <FW>
+164.2441
+
+> <DSSTox_CID>
+1771
+
+> <DSSTox_RID>
+76317
+
+> <DSSTox_GSID>
+21771
+
+> <DSSTox_FileID_Sort>
+1001
+
+> <TS_ChemName>
+4-(2-Methylbutan-2-yl)phenol
+
+> <TS_ChemName_Synonyms>
+4-(2-methylbutan-2-yl)phenol (4-tert-Pentylphenol) (p-tert-Pentylphenol) (p-tert-Amylphenol) (Phenol, 4-(1,1-dimethylpropyl)-)
+
+> <TS_CASRN>
+80-46-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H16O
+
+> <STRUCTURE_MW>
+164.2441
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(2-methylbutan-2-yl)phenol
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1)C(C)(C)CC
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1)C(C)(C)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

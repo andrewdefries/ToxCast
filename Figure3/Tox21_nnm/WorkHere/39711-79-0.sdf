@@ -1,0 +1,102 @@
+39711-79-0
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    2.3011   -3.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1355   -4.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1355   -2.0127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3011   -2.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4667   -2.0127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6022   -2.6676    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6022   -3.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4667   -4.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1355   -0.6729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3011    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4667   -0.6729    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1355   -6.0081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+12193
+
+> <Formula>
+C13H25NO
+
+> <FW>
+211.3437
+
+> <DSSTox_CID>
+27039
+
+> <DSSTox_RID>
+82060
+
+> <DSSTox_GSID>
+47039
+
+> <DSSTox_FileID_Sort>
+6741
+
+> <TS_ChemName>
+N-Ethyl-4-menthane-3-carboxamide
+
+> <TS_ChemName_Synonyms>
+N-Ethyl-p-menthane-3-carboxamide
+
+> <TS_CASRN>
+39711-79-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H25NO
+
+> <STRUCTURE_MW>
+211.3437
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-ethyl-5-methyl-2-(propan-2-yl)cyclohexanecarboxamide
+
+> <STRUCTURE_SMILES>
+CC(C)C1CCC(C)CC1C(=O)NCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)C1CCC(C)CC1C(=O)NCC
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

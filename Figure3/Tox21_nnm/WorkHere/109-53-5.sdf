@@ -1,0 +1,85 @@
+109-53-5
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    3.4586   -1.9920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6135   -1.3338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6135    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2981   -1.3338    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1606   -1.9920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7740   -1.9920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+6071
+
+> <Formula>
+C6H12O
+
+> <FW>
+100.1589
+
+> <DSSTox_CID>
+9608
+
+> <DSSTox_RID>
+78785
+
+> <DSSTox_GSID>
+29608
+
+> <DSSTox_FileID_Sort>
+3467
+
+> <TS_ChemName>
+Propane, 1-(ethenyloxy)-2-methyl-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+109-53-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O
+
+> <STRUCTURE_MW>
+100.1589
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethenyl 2-methylpropyl ether
+
+> <STRUCTURE_SMILES>
+CC(C)COC=C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)COC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

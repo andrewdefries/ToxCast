@@ -1,0 +1,101 @@
+31895-22-4
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    3.9690   -3.5280    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2613   -4.6766    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9691   -4.6766    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2922   -3.5280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9691   -2.3999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2613   -2.3999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3230   -1.2307    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0204   -0.0923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9482   -2.0204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0969   -1.3435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7688   -1.3435    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0969    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2558   -2.0204    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9482   -3.3536    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <ID>
+12190
+
+> <Formula>
+C7H13NO4S3
+
+> <FW>
+271.3774 (181.3425+90.0349)
+
+> <DSSTox_CID>
+27036
+
+> <DSSTox_RID>
+82057
+
+> <DSSTox_GSID>
+47036
+
+> <DSSTox_FileID_Sort>
+6738
+
+> <TS_ChemName>
+Thiocyclam oxalate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+31895-22-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [31895-21-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H13NO4S3
+
+> <STRUCTURE_MW>
+271.3774
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N,N-dimethyl-1,2,3-trithian-5-amine ethanedioate (1:1)
+
+> <STRUCTURE_SMILES>
+CN(C)C1CSSSC1.O=C(O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)C1CSSSC1
+
+> <Substance_modify_yyyymmdd>
+20100428
+
+$$$$

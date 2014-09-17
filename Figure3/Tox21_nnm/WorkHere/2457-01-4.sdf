@@ -1,0 +1,111 @@
+2457-01-4
+ChemmineR-0915142007XD
+
+ 21 18  0  0  0  0  0  0  0  0  2 V2000
+   10.1105   -1.3809    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.3009   -2.0475    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.4278   -1.3809    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.5865   -2.0475    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   14.7292   -1.3809    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   15.8720   -2.0475    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.1105   -0.0476    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9677   -2.0475    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+   11.3009   -3.3966    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.4278   -4.0474    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5233   -0.5873    0.0000 Ba   0  2  0  0  0  0  0  0  0  0  0  0
+    5.7774   -1.3333    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5870   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4442   -1.3333    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3014   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1587   -1.3333    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7774    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9043   -1.9999    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    4.5870   -3.3490    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4442   -3.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 18  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <ID>
+10535
+
+> <Formula>
+C16H30BaO4
+
+> <FW>
+423.7340 (143.2040+137.3259+143.2040)
+
+> <DSSTox_CID>
+24888
+
+> <DSSTox_RID>
+80561
+
+> <DSSTox_GSID>
+44888
+
+> <DSSTox_FileID_Sort>
+5243
+
+> <TS_ChemName>
+Barium bis(2-ethylhexanoate)
+
+> <TS_ChemName_Synonyms>
+Barium bis(2-ethylhexanoate) (Hexanoic acid, 2-ethyl-, barium salt)
+
+> <TS_CASRN>
+2457-01-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [149-57-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H30BaO4
+
+> <STRUCTURE_MW>
+423.734
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+barium bis(2-ethylhexanoate)
+
+> <STRUCTURE_SMILES>
+[Ba+2].[O-]C(=O)C(CC)CCCC.CCC(CCCC)C([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCC(CC)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

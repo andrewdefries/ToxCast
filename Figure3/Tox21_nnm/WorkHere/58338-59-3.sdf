@@ -1,0 +1,107 @@
+58338-59-3
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -4.6948    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1507   -4.0228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1507   -2.6972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3014   -2.0252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4521   -2.6788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4521   -4.0044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3198   -4.6764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6028   -2.0068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6028   -0.6812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7535   -2.6788    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9042   -2.0068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9042   -0.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0365    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2056   -0.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2056   -1.9976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0549   -2.6696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0733   -3.9952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+11418
+
+> <Formula>
+C13H13N3O
+
+> <FW>
+227.2618
+
+> <DSSTox_CID>
+26114
+
+> <DSSTox_RID>
+81350
+
+> <DSSTox_GSID>
+46114
+
+> <DSSTox_FileID_Sort>
+6031
+
+> <TS_ChemName>
+Dianiline
+
+> <TS_ChemName_Synonyms>
+Dinaline
+
+> <TS_CASRN>
+58338-59-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H13N3O
+
+> <STRUCTURE_MW>
+227.2618
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-N-(2-aminophenyl)benzamide
+
+> <STRUCTURE_SMILES>
+O=C(Nc1ccccc1N)c2ccc(N)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Nc1ccccc1N)c2ccc(N)cc2
+
+> <Substance_modify_yyyymmdd>
+20110527
+
+$$$$

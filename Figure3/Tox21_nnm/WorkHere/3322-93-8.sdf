@@ -1,0 +1,96 @@
+3322-93-8
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    7.3148   -1.1484    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9835   -1.1484    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3179   -2.3042    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9835   -3.4526    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9866   -2.3042    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3283   -3.4526    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9970   -3.4526    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313   -2.3042    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3042    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9970   -1.1484    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3283   -1.1484    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+3930
+
+> <Formula>
+C8H12Br4
+
+> <FW>
+427.7969
+
+> <DSSTox_CID>
+4947
+
+> <DSSTox_RID>
+77594
+
+> <DSSTox_GSID>
+24947
+
+> <DSSTox_FileID_Sort>
+2277
+
+> <TS_ChemName>
+1,2-Dibromo-4-(1,2-dibromoethyl)cyclohexane
+
+> <TS_ChemName_Synonyms>
+1,2-Dibromo-4-(1,2-dibromoethyl)cyclohexane (1-(1,2-Dibromoethyl)-3,4-dibromocyclohexane)
+
+> <TS_CASRN>
+3322-93-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12Br4
+
+> <STRUCTURE_MW>
+427.7969
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-dibromo-4-(1,2-dibromoethyl)cyclohexane
+
+> <STRUCTURE_SMILES>
+BrC1CCC(CC1Br)C(Br)CBr
+
+> <STRUCTURE_SMILES_Desalt>
+BrC1CCC(CC1Br)C(Br)CBr
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

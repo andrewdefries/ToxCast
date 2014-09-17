@@ -1,0 +1,96 @@
+2683-43-4
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  2 V2000
+    4.5987   -2.0102    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4654   -2.6538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4654   -3.9831    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2994   -2.0102    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2994   -4.6640    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -2.6538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -3.9831    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6174   -4.6640    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6640    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2994   -0.6810    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    1.1800    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.4654    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+8327
+
+> <Formula>
+C6H4Cl2N2O2
+
+> <FW>
+207.0142
+
+> <DSSTox_CID>
+21361
+
+> <DSSTox_RID>
+79698
+
+> <DSSTox_GSID>
+41361
+
+> <DSSTox_FileID_Sort>
+4380
+
+> <TS_ChemName>
+2,4-Dichloro-6-nitroaniline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2683-43-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4Cl2N2O2
+
+> <STRUCTURE_MW>
+207.0142
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-dichloro-6-nitroaniline
+
+> <STRUCTURE_SMILES>
+Nc1c(cc(Cl)cc1Cl)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1c(cc(Cl)cc1Cl)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,101 @@
+1732-10-1
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    2.3032   -1.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4618   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6065   -1.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7650   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8959   -1.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0269   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1854   -1.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3301   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4886   -1.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3032    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1585   -1.9860    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4886    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6334   -1.9860    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7919   -1.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  1 10  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+10456
+
+> <Formula>
+C11H20O4
+
+> <FW>
+216.2741
+
+> <DSSTox_CID>
+24807
+
+> <DSSTox_RID>
+80490
+
+> <DSSTox_GSID>
+44807
+
+> <DSSTox_FileID_Sort>
+5172
+
+> <TS_ChemName>
+Dimethyl nonanedioate
+
+> <TS_ChemName_Synonyms>
+Dimethyl nonanedioate (Nonanedioic acid, dimethyl ester) (Dimethyl azelate)
+
+> <TS_CASRN>
+1732-10-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H20O4
+
+> <STRUCTURE_MW>
+216.2741
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dimethyl nonanedioate
+
+> <STRUCTURE_SMILES>
+O=C(CCCCCCCC(=O)OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCCCCC(=O)OC)OC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

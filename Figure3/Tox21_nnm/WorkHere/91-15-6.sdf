@@ -1,0 +1,92 @@
+91-15-6
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    2.2712   -0.7112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1608    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.7112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1608   -2.7071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2712   -2.0143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4458   -0.0321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5883   -0.7250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4458   -2.6566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4458   -3.9781    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  3  0  0  0  0
+  9 10  3  0  0  0  0
+M  END
+> <ID>
+6068
+
+> <Formula>
+C8H4N2
+
+> <FW>
+128.1308
+
+> <DSSTox_CID>
+9604
+
+> <DSSTox_RID>
+78782
+
+> <DSSTox_GSID>
+29604
+
+> <DSSTox_FileID_Sort>
+3464
+
+> <TS_ChemName>
+1,2-Benzenedicarbonitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+91-15-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H4N2
+
+> <STRUCTURE_MW>
+128.1308
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzene-1,2-dicarbonitrile
+
+> <STRUCTURE_SMILES>
+N#Cc1ccccc1C#N
+
+> <STRUCTURE_SMILES_Desalt>
+N#Cc1ccccc1C#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,86 @@
+2495-39-8
+ChemmineR-0915142007XD
+
+  8  6  0  0  0  0  0  0  0  0  2 V2000
+    2.0037   -2.2966    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6737   -2.2966    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4507    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6657   -1.1542    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8198   -1.8162    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5233   -0.4804    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3394    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    5.8587   -0.0469    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+M  END
+> <ID>
+8417
+
+> <Formula>
+C3H5NaO3S
+
+> <FW>
+144.1248 (121.1355+22.9892)
+
+> <DSSTox_CID>
+21451
+
+> <DSSTox_RID>
+79739
+
+> <DSSTox_GSID>
+41451
+
+> <DSSTox_FileID_Sort>
+4421
+
+> <TS_ChemName>
+2-Propene-1-sulfonic acid, sodium salt
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2495-39-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H5NaO3S
+
+> <STRUCTURE_MW>
+144.1248
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium prop-2-ene-1-sulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]S(=O)(=O)CC=C
+
+> <STRUCTURE_SMILES_Desalt>
+C=CCS(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

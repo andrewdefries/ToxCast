@@ -1,0 +1,119 @@
+6893-02-3
+ChemmineR-0915142007XD
+
+ 23 24  0  0  1  0  0  0  0  0  1 V2000
+    5.7501   -3.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9153   -3.9896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7501   -1.9885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5128   -1.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5975   -3.9896    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0678   -1.9885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -3.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -3.9896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3603   -1.9885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0678   -3.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9153   -1.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4576   -3.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2077   -1.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -1.9885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5128    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -1.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5975   -1.3299    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9153   -5.3194    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9896    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3603   -3.3183    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6654   -1.9885    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4576   -1.9885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3299    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2 10  2  0  0  0  0
+  2 18  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 15  2  0  0  0  0
+  4 21  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 11  2  0  0  0  0
+  6 13  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+  9 20  1  1  0  0  0
+ 12 22  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 16 22  2  0  0  0  0
+M  END
+> <ID>
+2892
+
+> <Formula>
+C15H12I3NO4
+
+> <FW>
+650.9735
+
+> <DSSTox_CID>
+3216
+
+> <DSSTox_RID>
+76928
+
+> <DSSTox_GSID>
+23216
+
+> <DSSTox_FileID_Sort>
+1612
+
+> <TS_ChemName>
+3,5,3'-Triiodothyronine
+
+> <TS_ChemName_Synonyms>
+3,5,3'-Triiodothyronine (T3) (Triiodothyronine) (Liothyronine) (3,3',5-Triiodo-L- thyronine)
+
+> <TS_CASRN>
+6893-02-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H12I3NO4
+
+> <STRUCTURE_MW>
+650.9735
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O-(4-hydroxy-3-iodophenyl)-3,5-diiodo-L-tyrosine
+
+> <STRUCTURE_SMILES>
+O=C(O)[C@@H](N)Cc2cc(I)c(Oc1cc(I)c(O)cc1)c(I)c2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)[C@@H](N)Cc2cc(I)c(Oc1cc(I)c(O)cc1)c(I)c2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

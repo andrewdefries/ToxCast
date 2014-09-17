@@ -1,0 +1,107 @@
+114607-46-4
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    1.2831   -2.3789    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0417   -3.4653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2831   -4.5143    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1209    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7722    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3904   -3.4653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0460   -2.2946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3665   -2.2946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0409   -3.4653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3665   -4.5986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0460   -4.5986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0409   -1.1613    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3708   -1.1613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0358    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0358   -2.2946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3708   -3.4653    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3657   -2.2946    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+13723
+
+> <Formula>
+C9H7N5O3
+
+> <FW>
+233.1836
+
+> <DSSTox_CID>
+28658
+
+> <DSSTox_RID>
+82928
+
+> <DSSTox_GSID>
+48732
+
+> <DSSTox_FileID_Sort>
+7605
+
+> <TS_ChemName>
+Acitazanolast
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+114607-46-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H7N5O3
+
+> <STRUCTURE_MW>
+233.1836
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+oxo{[3-(1H-tetrazol-5-yl)phenyl]amino}acetic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)C(=O)Nc1cccc(c1)c2nnnn2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)C(=O)Nc1cccc(c1)c2nnnn2
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

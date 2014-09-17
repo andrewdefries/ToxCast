@@ -1,0 +1,103 @@
+2303-17-5
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    3.4637   -3.9885    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4637   -2.6563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3091   -2.0023    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -2.6563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0023    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -3.9885    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3091   -0.6701    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4637    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6102   -2.0023    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7648   -2.6563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9193   -2.0023    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9193   -0.6701    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0739    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0739   -2.6563    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7648    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+M  END
+> <ID>
+3635
+
+> <Formula>
+C10H16Cl3NOS
+
+> <FW>
+304.6641
+
+> <DSSTox_CID>
+4344
+
+> <DSSTox_RID>
+77375
+
+> <DSSTox_GSID>
+24344
+
+> <DSSTox_FileID_Sort>
+2058
+
+> <TS_ChemName>
+Tri-allate
+
+> <TS_ChemName_Synonyms>
+Tri-allate (Triallate)
+
+> <TS_CASRN>
+2303-17-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16Cl3NOS
+
+> <STRUCTURE_MW>
+304.6641
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+S-(2,3,3-trichloroprop-2-en-1-yl) dipropan-2-ylcarbamothioate
+
+> <STRUCTURE_SMILES>
+Cl/C(Cl)=C(\Cl)CSC(=O)N(C(C)C)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+Cl/C(Cl)=C(\Cl)CSC(=O)N(C(C)C)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

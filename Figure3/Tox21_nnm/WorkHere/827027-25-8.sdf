@@ -1,0 +1,114 @@
+827027-25-8
+ChemmineR-0915142007XD
+
+ 22 20  0  0  0  0  0  0  0  0  2 V2000
+    1.1853   -1.1711    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.6414   -0.5284    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2707   -0.5284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4998   -0.0428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8423   -2.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4846   -1.1711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3539   -0.6855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6827   -1.8137    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9972   -2.9705    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5116   -1.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8547   -2.3136    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1685    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3691   -0.4856    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8394   -2.4849    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+   11.2964   -0.6855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9534   -1.8137    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6532   -2.9705    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1244   -1.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4532    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7814   -2.3136    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2812   -0.4856    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 22  1  0  0  0  0
+M  END
+> <ID>
+12997
+
+> <Formula>
+C7H14F6N2O5S2
+
+> <FW>
+384.3169 (104.1702+280.1467)
+
+> <DSSTox_CID>
+27898
+
+> <DSSTox_RID>
+82651
+
+> <DSSTox_GSID>
+47922
+
+> <DSSTox_FileID_Sort>
+7328
+
+> <TS_ChemName>
+Choline bis(trifluoromethylsulfonyl)imde
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+827027-25-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [62-49-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14F6N2O5S2
+
+> <STRUCTURE_MW>
+384.3169
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+2-hydroxy-N,N,N-trimethylethanaminium bis[(trifluoromethyl)sulfonyl]azanide
+
+> <STRUCTURE_SMILES>
+FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.C[N+](C)(C)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(NS(=O)(=O)C(F)(F)F)C(F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20110417
+
+$$$$

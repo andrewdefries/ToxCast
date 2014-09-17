@@ -1,0 +1,113 @@
+76738-62-0
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    2.1061   -3.8252    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2582   -3.1502    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.2572    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9531   -5.1393    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2582   -1.8181    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.9000   -3.2762    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6570   -5.4093    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1061   -1.1611    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4102   -3.8252    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5533   -3.1502    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4102   -1.1611    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8574   -1.8181    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.0004   -1.1611    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5533   -1.8181    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7053   -3.8252    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7053   -1.1611    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8574   -3.1502    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4401   -2.3131    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7721    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.9450   -0.4860    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  8 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 12 17  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+3577
+
+> <Formula>
+C15H20ClN3O
+
+> <FW>
+293.7918
+
+> <DSSTox_CID>
+4242
+
+> <DSSTox_RID>
+77338
+
+> <DSSTox_GSID>
+24242
+
+> <DSSTox_FileID_Sort>
+2021
+
+> <TS_ChemName>
+Paclobutrazol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+76738-62-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of (2S,3S) and (2R,3R); structure without stereochem
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C15H20ClN3O
+
+> <STRUCTURE_MW>
+293.7918
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(4-chlorophenyl)-4,4-dimethyl-2-(1H-1,2,4-triazol-1-yl)pentan-3-ol
+
+> <STRUCTURE_SMILES>
+OC(C(Cc1ccc(Cl)cc1)n2cncn2)C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+OC(C(Cc1ccc(Cl)cc1)n2cncn2)C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

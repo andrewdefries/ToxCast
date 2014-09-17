@@ -1,0 +1,92 @@
+1477-55-0
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1562   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1562   -3.3257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3124   -3.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4501   -3.3257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4501   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3124   -1.3358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -1.3358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+6100
+
+> <Formula>
+C8H12N2
+
+> <FW>
+136.1943
+
+> <DSSTox_CID>
+9649
+
+> <DSSTox_RID>
+78793
+
+> <DSSTox_GSID>
+29649
+
+> <DSSTox_FileID_Sort>
+3475
+
+> <TS_ChemName>
+1,3-Benzenedimethanamine
+
+> <TS_ChemName_Synonyms>
+1,3-Benzenedimethanamine (m-Xylylenediamine)
+
+> <TS_CASRN>
+1477-55-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12N2
+
+> <STRUCTURE_MW>
+136.1943
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzene-1,3-diyldimethanamine
+
+> <STRUCTURE_SMILES>
+NCc1cccc(CN)c1
+
+> <STRUCTURE_SMILES_Desalt>
+NCc1cccc(CN)c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

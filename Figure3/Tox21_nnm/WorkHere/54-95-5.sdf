@@ -1,0 +1,93 @@
+54-95-5
+ChemmineR-0915142007XD
+
+ 10 11  0  0  0  0  0  0  0  0  1 V2000
+    4.9855   -1.5056    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1928   -2.5626    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9265   -2.1587    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1928   -0.4188    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9265   -0.8226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9045   -2.9813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9045    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5933   -2.6772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5933   -0.3041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.5056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+8097
+
+> <Formula>
+C6H10N4
+
+> <FW>
+138.1704
+
+> <DSSTox_CID>
+21091
+
+> <DSSTox_RID>
+79624
+
+> <DSSTox_GSID>
+41091
+
+> <DSSTox_FileID_Sort>
+4306
+
+> <TS_ChemName>
+Pentylenetetrazol
+
+> <TS_ChemName_Synonyms>
+Pentylenetetrazol (PTZ)
+
+> <TS_CASRN>
+54-95-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10N4
+
+> <STRUCTURE_MW>
+138.1704
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6,7,8,9-tetrahydro-5H-tetrazolo[1,5-a]azepine
+
+> <STRUCTURE_SMILES>
+C1CCCc2nnnn2C1
+
+> <STRUCTURE_SMILES_Desalt>
+C1CCCc2nnnn2C1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

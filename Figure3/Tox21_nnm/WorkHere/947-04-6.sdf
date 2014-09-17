@@ -1,0 +1,100 @@
+947-04-6
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.5283    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3108   -1.1345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9516    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2624    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9266   -1.1345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2316   -1.1345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8782   -2.2690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2316   -3.4035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9266   -3.4035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2624   -4.5380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9516   -4.5380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3108   -3.4035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2351   -0.3644    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 14  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+5093
+
+> <Formula>
+C12H23NO
+
+> <FW>
+197.3171
+
+> <DSSTox_CID>
+7344
+
+> <DSSTox_RID>
+78417
+
+> <DSSTox_GSID>
+27344
+
+> <DSSTox_FileID_Sort>
+3100
+
+> <TS_ChemName>
+Azacyclotridecan-2-one
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+947-04-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H23NO
+
+> <STRUCTURE_MW>
+197.3171
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+azacyclotridecan-2-one
+
+> <STRUCTURE_SMILES>
+O=C1CCCCCCCCCCCN1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCCCCCCCCCN1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

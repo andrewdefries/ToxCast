@@ -1,0 +1,85 @@
+918-00-3
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.1796    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -0.6652    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.9956    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6608   -1.9956    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -3.3260    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9956    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4812    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+> <ID>
+1616
+
+> <Formula>
+C3H3Cl3O
+
+> <FW>
+161.4143
+
+> <DSSTox_CID>
+1679
+
+> <DSSTox_RID>
+76279
+
+> <DSSTox_GSID>
+21679
+
+> <DSSTox_FileID_Sort>
+963
+
+> <TS_ChemName>
+1,1,1-Trichloropropanone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+918-00-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H3Cl3O
+
+> <STRUCTURE_MW>
+161.4143
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1,1-trichloropropan-2-one
+
+> <STRUCTURE_SMILES>
+ClC(Cl)(Cl)C(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)(Cl)C(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

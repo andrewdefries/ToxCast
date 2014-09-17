@@ -1,0 +1,93 @@
+7747-35-5
+ChemmineR-0915142007XD
+
+ 10 11  0  0  0  0  0  0  0  0  1 V2000
+    2.0531   -3.3210    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7853   -3.7382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0531   -1.9918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7853   -1.5869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3210   -3.7382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0899   -2.6625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3210   -1.5869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0531   -0.6585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2065    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+5926
+
+> <Formula>
+C7H13NO2
+
+> <FW>
+143.1836
+
+> <DSSTox_CID>
+9289
+
+> <DSSTox_RID>
+78751
+
+> <DSSTox_GSID>
+29289
+
+> <DSSTox_FileID_Sort>
+3433
+
+> <TS_ChemName>
+5-Ethyl-1-aza-3,7-dioxabicyclo[3.3.0]octane
+
+> <TS_ChemName_Synonyms>
+Oxazolidine E (1H,3H,5H-Oxazolo[3,4-c]oxazole, 7a-ethyldihydro-) (Oxazolidine-E)
+
+> <TS_CASRN>
+7747-35-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H13NO2
+
+> <STRUCTURE_MW>
+143.1836
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+7a-ethyldihydro-1H-[1,3]oxazolo[3,4-c][1,3]oxazole
+
+> <STRUCTURE_SMILES>
+CCC12COCN2COC1
+
+> <STRUCTURE_SMILES_Desalt>
+CCC12COCN2COC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

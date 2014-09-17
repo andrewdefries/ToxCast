@@ -1,0 +1,85 @@
+76-06-2
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  2 V2000
+    2.6608   -1.9956    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.9956    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -0.6652    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.1796    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4812    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.3304   -3.3260    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9956    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+M  END
+> <ID>
+306
+
+> <Formula>
+CCl3NO2
+
+> <FW>
+164.3752
+
+> <DSSTox_CID>
+315
+
+> <DSSTox_RID>
+75509
+
+> <DSSTox_GSID>
+20315
+
+> <DSSTox_FileID_Sort>
+193
+
+> <TS_ChemName>
+Chloropicrin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+76-06-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CCl3NO2
+
+> <STRUCTURE_MW>
+164.3752
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+trichloro(nitro)methane
+
+> <STRUCTURE_SMILES>
+ClC(Cl)(Cl)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)(Cl)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

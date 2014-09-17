@@ -1,0 +1,111 @@
+13674-87-8
+ChemmineR-0915142007XD
+
+ 20 19  0  0  0  0  0  0  0  0  1 V2000
+    5.3180   -3.9865    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9865   -3.9865    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9865   -5.3180    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1347   -5.9798    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2908   -5.3180    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2908   -3.9865    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1347   -7.3113    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2908   -7.9731    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6550   -3.9865    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9933   -5.1347    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6550   -6.2908    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9865   -6.2908    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6618   -5.1347    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.2908    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9865   -2.6550    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1347   -1.9933    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1347   -0.6618    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9865    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2908   -2.6550    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4389   -1.9933    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+4623
+
+> <Formula>
+C9H15Cl6O4P
+
+> <FW>
+430.9048
+
+> <DSSTox_CID>
+6261
+
+> <DSSTox_RID>
+78078
+
+> <DSSTox_GSID>
+26261
+
+> <DSSTox_FileID_Sort>
+2761
+
+> <TS_ChemName>
+Tris(1,3-dichloro-2-propyl)phosphate
+
+> <TS_ChemName_Synonyms>
+2-Propanol, 1,3-dichloro-, phosphate (3:1); TDCPP
+
+> <TS_CASRN>
+13674-87-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H15Cl6O4P
+
+> <STRUCTURE_MW>
+430.9048
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tris(1,3-dichloropropan-2-yl) phosphate
+
+> <STRUCTURE_SMILES>
+ClCC(OP(=O)(OC(CCl)CCl)OC(CCl)CCl)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+ClCC(OP(=O)(OC(CCl)CCl)OC(CCl)CCl)CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

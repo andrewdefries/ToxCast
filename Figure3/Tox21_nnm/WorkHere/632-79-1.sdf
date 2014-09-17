@@ -1,0 +1,103 @@
+632-79-1
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    0.3686   -5.0013    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7813   -3.7359    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6630    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7813   -1.5846    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3686   -0.3191    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0468   -1.9972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1967   -1.3315    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3521   -1.9972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3521   -3.3232    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1967   -3.9890    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1967   -5.3205    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5020   -3.9890    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5020   -1.3315    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1967    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0468   -3.3232    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  2  0  0  0  0
+M  END
+> <ID>
+4534
+
+> <Formula>
+C8Br4O3
+
+> <FW>
+463.6998
+
+> <DSSTox_CID>
+6084
+
+> <DSSTox_RID>
+78011
+
+> <DSSTox_GSID>
+26084
+
+> <DSSTox_FileID_Sort>
+2694
+
+> <TS_ChemName>
+Tetrabromophthalic anhydride
+
+> <TS_ChemName_Synonyms>
+Tetrabromophthalic anhydride (1,3-Isobenzofurandione, 4,5,6,7-tetrabromo-)
+
+> <TS_CASRN>
+632-79-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8Br4O3
+
+> <STRUCTURE_MW>
+463.6998
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,5,6,7-tetrabromo-2-benzofuran-1,3-dione
+
+> <STRUCTURE_SMILES>
+O=C1OC(=O)c2c1c(Br)c(Br)c(Br)c2Br
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1OC(=O)c2c1c(Br)c(Br)c(Br)c2Br
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

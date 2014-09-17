@@ -1,0 +1,90 @@
+90-01-7
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    3.4637   -2.6647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3091   -2.0043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1684   -2.6786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0139   -2.0043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -0.0185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3091   -0.6743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4498    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6182   -1.9904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+11234
+
+> <Formula>
+C7H8O2
+
+> <FW>
+124.1372
+
+> <DSSTox_CID>
+25843
+
+> <DSSTox_RID>
+81166
+
+> <DSSTox_GSID>
+45843
+
+> <DSSTox_FileID_Sort>
+5847
+
+> <TS_ChemName>
+Salicyl alcohol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+90-01-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H8O2
+
+> <STRUCTURE_MW>
+124.1372
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(hydroxymethyl)phenol
+
+> <STRUCTURE_SMILES>
+OCc1ccccc1O
+
+> <STRUCTURE_SMILES_Desalt>
+OCc1ccccc1O
+
+> <Substance_modify_yyyymmdd>
+20110922
+
+$$$$

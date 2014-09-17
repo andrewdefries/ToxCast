@@ -1,0 +1,110 @@
+19780-11-1
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9111    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3257   -1.7733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9799   -0.6198    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2884   -0.8953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2698    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2038   -2.7547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4262   -2.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5625   -2.8752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7160   -2.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8695   -2.8752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0231   -2.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1766   -2.8752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3129   -2.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4664   -2.8752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6200   -2.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7735   -2.8752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9098   -2.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0633   -2.8752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2169   -2.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+4086
+
+> <Formula>
+C16H26O3
+
+> <FW>
+266.3758
+
+> <DSSTox_CID>
+5217
+
+> <DSSTox_RID>
+77704
+
+> <DSSTox_GSID>
+25217
+
+> <DSSTox_FileID_Sort>
+2387
+
+> <TS_ChemName>
+(2-Dodecenyl)succinic anhydride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+19780-11-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of Z,E isomers; structure shown E; stereochem
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C16H26O3
+
+> <STRUCTURE_MW>
+266.3758
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-[(2E)-dodec-2-en-1-yl]dihydrofuran-2,5-dione
+
+> <STRUCTURE_SMILES>
+O=C1OC(=O)CC1C/C=C/CCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1OC(=O)CC1C/C=C/CCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

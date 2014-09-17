@@ -1,0 +1,112 @@
+53716-49-7
+ChemmineR-0915142007XD
+
+ 19 21  0  0  0  0  0  0  0  0  1 V2000
+    4.4615   -1.2938    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5768   -1.9407    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3684   -3.2234    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5768   -3.2234    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3684   -1.9407    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.7852   -1.9407    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6699   -1.2938    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.0271   -1.9407    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6699   -3.8592    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9341   -1.2938    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2419   -3.8592    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.7852   -3.2234    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.1536   -1.2938    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2419   -1.2938    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1265   -3.2234    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.0271   -3.2234    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1265   -1.9407    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.8592    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9452    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+M  END
+> <ID>
+11257
+
+> <Formula>
+C15H12ClNO2
+
+> <FW>
+273.7143
+
+> <DSSTox_CID>
+25871
+
+> <DSSTox_RID>
+81189
+
+> <DSSTox_GSID>
+45871
+
+> <DSSTox_FileID_Sort>
+5870
+
+> <TS_ChemName>
+Carprofen
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+53716-49-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H12ClNO2
+
+> <STRUCTURE_MW>
+273.7143
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(6-chloro-9H-carbazol-2-yl)propanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)C(C)c1ccc2c3cc(Cl)ccc3nc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)C(C)c1ccc2c3cc(Cl)ccc3nc2c1
+
+> <Substance_modify_yyyymmdd>
+20110922
+
+$$$$

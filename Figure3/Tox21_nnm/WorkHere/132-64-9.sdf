@@ -1,0 +1,100 @@
+132-64-9
+ChemmineR-0915142007XD
+
+ 13 15  0  0  0  0  0  0  0  0  1 V2000
+    5.3180    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3919   -0.7798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2512   -2.1029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0368   -2.6462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9630   -1.8664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6590   -2.1413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -3.2918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6648   -3.2918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6648   -0.9907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -0.9907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8827    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1036   -0.5433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+1845
+
+> <Formula>
+C12H8O
+
+> <FW>
+168.1913
+
+> <DSSTox_CID>
+1993
+
+> <DSSTox_RID>
+76446
+
+> <DSSTox_GSID>
+21993
+
+> <DSSTox_FileID_Sort>
+1130
+
+> <TS_ChemName>
+Dibenzofuran
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+132-64-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H8O
+
+> <STRUCTURE_MW>
+168.1913
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dibenzo[b,d]furan
+
+> <STRUCTURE_SMILES>
+c1cccc2oc3ccccc3c12
+
+> <STRUCTURE_SMILES_Desalt>
+c1cccc2oc3ccccc3c12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,100 @@
+127-41-3
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    1.1564   -4.0024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1564   -2.6659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2989   -2.0081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553   -2.6659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0081    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6117   -2.0081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6117   -0.6786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7681   -0.0208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9245   -0.6786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9245   -2.0081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7681   -2.6867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4398   -3.8223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1103   -3.8223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <ID>
+6997
+
+> <Formula>
+C13H20O
+
+> <FW>
+192.2973
+
+> <DSSTox_CID>
+15160
+
+> <DSSTox_RID>
+79242
+
+> <DSSTox_GSID>
+35160
+
+> <DSSTox_FileID_Sort>
+3924
+
+> <TS_ChemName>
+(3E)-4-(2,6,6-trimethylcyclohex-2-en-1-yl)but-3-en-2-one
+
+> <TS_ChemName_Synonyms>
+alpha-Ionone
+
+> <TS_CASRN>
+127-41-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H20O
+
+> <STRUCTURE_MW>
+192.2973
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3E)-4-(2,6,6-trimethylcyclohex-2-en-1-yl)but-3-en-2-one
+
+> <STRUCTURE_SMILES>
+CC1(C)CCC=C(C)C1/C=C/C(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC1(C)CCC=C(C)C1/C=C/C(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

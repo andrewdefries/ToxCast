@@ -1,0 +1,89 @@
+6915-15-7
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1354   -1.3486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2823   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4638   -1.3486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6165   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1354    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9941    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6165   -3.3370    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7634   -1.3486    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2823   -3.3370    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  7  2  0  0  0  0
+M  END
+> <ID>
+5317
+
+> <Formula>
+C4H6O5
+
+> <FW>
+134.0874
+
+> <DSSTox_CID>
+7640
+
+> <DSSTox_RID>
+78538
+
+> <DSSTox_GSID>
+27640
+
+> <DSSTox_FileID_Sort>
+3221
+
+> <TS_ChemName>
+Malic acid
+
+> <TS_ChemName_Synonyms>
+2-Hydroxybutanedioic acid; 2-Hydroxy-succinic acid
+
+> <TS_CASRN>
+6915-15-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6O5
+
+> <STRUCTURE_MW>
+134.0874
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-hydroxybutanedioic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)C(O)CC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)C(O)CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20120929
+
+$$$$

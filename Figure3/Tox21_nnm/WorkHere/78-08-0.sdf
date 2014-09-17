@@ -1,0 +1,95 @@
+78-08-0
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    3.3168   -3.3301    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6462   -3.3301    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3175   -2.1802    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3168   -4.6595    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1602   -5.3175    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1602   -6.6469    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3168   -2.0007    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1602   -1.3294    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1602    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9874   -3.3301    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3294   -2.1802    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1802    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+10120
+
+> <Formula>
+C8H18O3Si
+
+> <FW>
+190.3122
+
+> <DSSTox_CID>
+24463
+
+> <DSSTox_RID>
+80247
+
+> <DSSTox_GSID>
+44463
+
+> <DSSTox_FileID_Sort>
+4929
+
+> <TS_ChemName>
+Ethenyl(triethoxy)silane
+
+> <TS_ChemName_Synonyms>
+Ethenyl(triethoxy)silane (Silane, ethenyltriethoxy-)
+
+> <TS_CASRN>
+78-08-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18O3Si
+
+> <STRUCTURE_MW>
+190.3122
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+ethenyl(triethoxy)silane
+
+> <STRUCTURE_SMILES>
+CCO[Si](OCC)(OCC)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+CCO[Si](OCC)(OCC)C=C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

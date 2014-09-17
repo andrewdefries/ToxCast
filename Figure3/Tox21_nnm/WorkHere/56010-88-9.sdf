@@ -1,0 +1,85 @@
+56010-88-9
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    2.7131   -3.1136    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1293    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7855   -2.0372    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3693   -0.7855    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4457    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5191   -0.7698    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1185   -2.0372    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+11186
+
+> <Formula>
+C4H7ClN2
+
+> <FW>
+118.5648 (36.4609+82.1038)
+
+> <DSSTox_CID>
+25776
+
+> <DSSTox_RID>
+81118
+
+> <DSSTox_GSID>
+45776
+
+> <DSSTox_FileID_Sort>
+5799
+
+> <TS_ChemName>
+4-Methylpyrazole hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+56010-88-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [7554-65-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H7ClN2
+
+> <STRUCTURE_MW>
+118.5648
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-methyl-1H-pyrazole hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Cc1cnnc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cnnc1
+
+> <Substance_modify_yyyymmdd>
+20110902
+
+$$$$

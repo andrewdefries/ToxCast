@@ -1,0 +1,103 @@
+90717-03-6
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    2.2974   -2.0145    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4841   -2.6838    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4841   -4.0084    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1315   -2.6838    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6017   -2.0145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6017   -4.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2974   -4.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1315   -4.0084    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7677   -4.0084    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7677   -2.6838    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6017   -0.6899    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4151   -0.0138    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7194    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8991   -2.0145    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+9283
+
+> <Formula>
+C11H8ClNO2
+
+> <FW>
+221.6397
+
+> <DSSTox_CID>
+22364
+
+> <DSSTox_RID>
+80006
+
+> <DSSTox_GSID>
+42364
+
+> <DSSTox_FileID_Sort>
+4688
+
+> <TS_ChemName>
+Quinmerac
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+90717-03-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H8ClNO2
+
+> <STRUCTURE_MW>
+221.6397
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+7-chloro-3-methylquinoline-8-carboxylic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)c1c(Cl)ccc2cc(C)cnc12
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)c1c(Cl)ccc2cc(C)cnc12
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

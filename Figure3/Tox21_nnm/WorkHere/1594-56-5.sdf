@@ -1,0 +1,102 @@
+1594-56-5
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  2 V2000
+    2.2638   -0.1280    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1119   -0.7999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5595   -2.7917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7034   -2.1198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7034   -0.7999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5595   -0.1280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4076   -0.7999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4076   -2.1198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2638   -2.7917    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.1119   -2.1198    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.2638   -4.1116    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8553   -2.7917    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    6.8553   -4.1116    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    7.9992   -2.1198    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  3  0  0  0  0
+  4  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <ID>
+8333
+
+> <Formula>
+C7H3N3O4S
+
+> <FW>
+225.1814
+
+> <DSSTox_CID>
+21367
+
+> <DSSTox_RID>
+79702
+
+> <DSSTox_GSID>
+41367
+
+> <DSSTox_FileID_Sort>
+4384
+
+> <TS_ChemName>
+2,4-Dinitrophenyl thiocyanate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1594-56-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H3N3O4S
+
+> <STRUCTURE_MW>
+225.1814
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-dinitrophenyl thiocyanate
+
+> <STRUCTURE_SMILES>
+N#CSc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+N#CSc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

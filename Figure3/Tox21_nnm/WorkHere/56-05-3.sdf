@@ -1,0 +1,90 @@
+56-05-3
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    1.9915   -3.4656    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3104    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6793   -3.4656    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9915   -1.1552    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7078   -2.3104    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6793   -1.1552    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0462   -4.6208    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0462    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0201   -2.3104    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+14284
+
+> <Formula>
+C4H3Cl2N3
+
+> <FW>
+163.9927
+
+> <DSSTox_CID>
+29380
+
+> <DSSTox_RID>
+83495
+
+> <DSSTox_GSID>
+49420
+
+> <DSSTox_FileID_Sort>
+8170
+
+> <TS_ChemName>
+2-Amino-4,6-dichloropyrimidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+56-05-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H3Cl2N3
+
+> <STRUCTURE_MW>
+163.9927
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,6-dichloropyrimidin-2-amine
+
+> <STRUCTURE_SMILES>
+Clc1cc(Cl)nc(N)n1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(Cl)nc(N)n1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

@@ -1,0 +1,97 @@
+350-48-1
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  2 V2000
+    0.6552   -4.6048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9903    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6552    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6516   -1.1558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9903   -2.3117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6552   -2.3117    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.9991   -4.8459    0.0000 B   0  5  0  0  0  0  0  0  0  0  0  0
+    2.6640   -4.8459    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9991   -6.1810    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9991   -3.5170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3280   -4.8459    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+M  END
+> <ID>
+14142
+
+> <Formula>
+C7H10BF4N
+
+> <FW>
+194.9656 (108.1605+86.8052)
+
+> <DSSTox_CID>
+29135
+
+> <DSSTox_RID>
+83354
+
+> <DSSTox_GSID>
+49279
+
+> <DSSTox_FileID_Sort>
+8029
+
+> <TS_ChemName>
+1-Ethylpyridinium tetrafluoroborate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+350-48-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H10BF4N
+
+> <STRUCTURE_MW>
+194.9656
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-ethylpyridinium tetrafluoroborate
+
+> <STRUCTURE_SMILES>
+F[B-](F)(F)F.CC[n+]1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC[n+]1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

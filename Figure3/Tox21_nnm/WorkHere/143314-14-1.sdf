@@ -1,0 +1,95 @@
+143314-14-1
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  2 V2000
+    4.9197    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4951   -5.3004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3896   -4.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7674   -1.4496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3720   -2.6429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4146   -2.6575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0339   -1.4496    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.3896   -3.3896    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.2858    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3574   -5.3004    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1787   -5.9740    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.1787   -7.3211    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+14080
+
+> <Formula>
+C6H11N3O3
+
+> <FW>
+173.1698 (111.1644+62.0054)
+
+> <DSSTox_CID>
+29073
+
+> <DSSTox_RID>
+83292
+
+> <DSSTox_GSID>
+49217
+
+> <DSSTox_FileID_Sort>
+7967
+
+> <TS_ChemName>
+1-Ethyl-3-methylimidazolium nitrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+143314-14-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H11N3O3
+
+> <STRUCTURE_MW>
+173.1698
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-ethyl-3-methyl-1H-imidazol-3-ium nitrate
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])[O-].C[n+]1ccn(CC)c1
+
+> <STRUCTURE_SMILES_Desalt>
+C[n+]1ccn(CC)c1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

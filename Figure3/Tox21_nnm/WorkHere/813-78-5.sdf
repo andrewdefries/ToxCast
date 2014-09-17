@@ -1,0 +1,85 @@
+813-78-5
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.6373    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3034   -1.1517    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9694   -2.3034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2973   -2.3034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -1.8178    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550   -0.4856    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+4047
+
+> <Formula>
+C2H7O4P
+
+> <FW>
+126.0483
+
+> <DSSTox_CID>
+5150
+
+> <DSSTox_RID>
+77689
+
+> <DSSTox_GSID>
+25150
+
+> <DSSTox_FileID_Sort>
+2372
+
+> <TS_ChemName>
+Dimethyl phosphate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+813-78-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H7O4P
+
+> <STRUCTURE_MW>
+126.0483
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dimethyl hydrogen phosphate
+
+> <STRUCTURE_SMILES>
+O=P(O)(OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=P(O)(OC)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

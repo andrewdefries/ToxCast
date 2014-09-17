@@ -1,0 +1,99 @@
+880-09-1
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    3.4466    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6001   -0.6700    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7535    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6001   -2.0030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7535   -2.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9070   -0.6700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9070   -2.0030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2931   -0.6700    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2931   -2.0030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1397    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1397   -2.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+12593
+
+> <Formula>
+C11H22N2
+
+> <FW>
+182.3058
+
+> <DSSTox_CID>
+27453
+
+> <DSSTox_RID>
+82357
+
+> <DSSTox_GSID>
+47453
+
+> <DSSTox_FileID_Sort>
+7038
+
+> <TS_ChemName>
+Dipiperidinomethane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+880-09-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H22N2
+
+> <STRUCTURE_MW>
+182.3058
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1'-methanediyldipiperidine
+
+> <STRUCTURE_SMILES>
+C1CCCCN1CN2CCCCC2
+
+> <STRUCTURE_SMILES_Desalt>
+C1CCCCN1CN2CCCCC2
+
+> <Substance_modify_yyyymmdd>
+20100620
+
+$$$$

@@ -1,0 +1,94 @@
+119-32-4
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -3.4582    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.6656   -2.3039    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1543    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9968   -2.3039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6577   -1.1543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9889   -1.1543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6544   -2.3039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9889   -3.4582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6544   -4.6079    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9968    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6577   -3.4582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+M  END
+> <ID>
+4310
+
+> <Formula>
+C7H8N2O2
+
+> <FW>
+152.1506
+
+> <DSSTox_CID>
+5633
+
+> <DSSTox_RID>
+77860
+
+> <DSSTox_GSID>
+25633
+
+> <DSSTox_FileID_Sort>
+2543
+
+> <TS_ChemName>
+4-Methyl-3-nitroaniline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+119-32-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H8N2O2
+
+> <STRUCTURE_MW>
+152.1506
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methyl-3-nitroaniline
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1cc(N)ccc1C
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1cc(N)ccc1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

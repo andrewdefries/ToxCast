@@ -1,0 +1,91 @@
+3165-93-3
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    1.1520   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -0.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -2.6589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082   -2.6589    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1612   -3.8478    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+279
+
+> <Formula>
+C7H9Cl2N
+
+> <FW>
+178.0591 (141.5981+36.4609)
+
+> <DSSTox_CID>
+288
+
+> <DSSTox_RID>
+75490
+
+> <DSSTox_GSID>
+20288
+
+> <DSSTox_FileID_Sort>
+174
+
+> <TS_ChemName>
+4-Chloro-2-methylaniline hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3165-93-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [95-69-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H9Cl2N
+
+> <STRUCTURE_MW>
+178.0591
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-chloro-2-methylaniline hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Cc1cc(Cl)ccc1N
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(Cl)ccc1N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

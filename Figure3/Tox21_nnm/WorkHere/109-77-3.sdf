@@ -1,0 +1,81 @@
+109-77-3
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -0.6679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3030   -1.3311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4545   -0.6679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6060    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  3  0  0  0  0
+M  END
+> <ID>
+1782
+
+> <Formula>
+C3H2N2
+
+> <FW>
+66.0614
+
+> <DSSTox_CID>
+1907
+
+> <DSSTox_RID>
+76396
+
+> <DSSTox_GSID>
+21907
+
+> <DSSTox_FileID_Sort>
+1080
+
+> <TS_ChemName>
+Propanedinitrile
+
+> <TS_ChemName_Synonyms>
+Malonic dinitrile
+
+> <TS_CASRN>
+109-77-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H2N2
+
+> <STRUCTURE_MW>
+66.0614
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+propanedinitrile
+
+> <STRUCTURE_SMILES>
+N#CCC#N
+
+> <STRUCTURE_SMILES_Desalt>
+N#CCC#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

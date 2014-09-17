@@ -1,0 +1,94 @@
+515-40-2
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.0042   -2.6581    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1525   -3.3120    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1525   -4.6411    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0042   -5.3163    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8506   -4.6411    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8506   -3.3120    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0042   -1.3291    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6698   -1.3291    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1754    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0042    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3333   -1.3291    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4969
+
+> <Formula>
+C10H13Cl
+
+> <FW>
+168.6632
+
+> <DSSTox_CID>
+7167
+
+> <DSSTox_RID>
+78331
+
+> <DSSTox_GSID>
+27167
+
+> <DSSTox_FileID_Sort>
+3014
+
+> <TS_ChemName>
+(1-Chloro-2-methylpropan-2-yl)benzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+515-40-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13Cl
+
+> <STRUCTURE_MW>
+168.6632
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1-chloro-2-methylpropan-2-yl)benzene
+
+> <STRUCTURE_SMILES>
+ClCC(C)(C)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+ClCC(C)(C)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

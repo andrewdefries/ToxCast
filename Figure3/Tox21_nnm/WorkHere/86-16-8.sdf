@@ -1,0 +1,115 @@
+86-16-8
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  2 V2000
+    5.9846   -4.6199    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6403   -4.6199    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6578   -3.4672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6578   -5.7725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9856   -5.7725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9856   -3.4672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6650   -5.7725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9918   -4.6199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6650   -3.4672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9928   -3.4672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6475   -4.6199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9928   -5.7725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6475   -6.9252    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9928   -8.0686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6475   -9.2213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9918   -2.3053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6650   -1.1527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9918    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6547   -4.6199    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7725    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4672    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  7 12  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+M  END
+> <ID>
+10389
+
+> <Formula>
+C14H20N2O5
+
+> <FW>
+296.319
+
+> <DSSTox_CID>
+24737
+
+> <DSSTox_RID>
+80433
+
+> <DSSTox_GSID>
+44737
+
+> <DSSTox_FileID_Sort>
+5115
+
+> <TS_ChemName>
+4-(2,5-Diethoxy-4-nitrophenyl)morpholine
+
+> <TS_ChemName_Synonyms>
+4-(2,5-Diethoxy-4-nitrophenyl)morpholine (Morpholine, 4-(2,5-diethoxy-4-nitrophenyl)-)
+
+> <TS_CASRN>
+86-16-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20N2O5
+
+> <STRUCTURE_MW>
+296.319
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(2,5-diethoxy-4-nitrophenyl)morpholine
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c1cc(OCC)c(cc1OCC)N2CCOCC2
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c1cc(OCC)c(cc1OCC)N2CCOCC2
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

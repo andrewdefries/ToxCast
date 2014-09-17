@@ -1,0 +1,88 @@
+1192-52-5
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.3359   -0.7661    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4077    0.0000    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5097   -0.7661    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0946   -2.0455    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7661   -2.0455    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8456   -3.1174    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1174    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7741   -0.3510    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+6488
+
+> <Formula>
+C3Cl2OS2
+
+> <FW>
+187.0675
+
+> <DSSTox_CID>
+12518
+
+> <DSSTox_RID>
+78964
+
+> <DSSTox_GSID>
+32518
+
+> <DSSTox_FileID_Sort>
+3646
+
+> <TS_ChemName>
+4,5-Dichloro-3H-1,2-dithiol-3-one
+
+> <TS_ChemName_Synonyms>
+4,5-Dichloro-3H-1,2-dithiol-3-one (4,5-Dichloro-1,2-dithio-3-one) (4,5-Dichloro-1,2-dithiacyclopentenone)
+
+> <TS_CASRN>
+1192-52-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3Cl2OS2
+
+> <STRUCTURE_MW>
+187.0675
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,5-dichloro-3H-1,2-dithiol-3-one
+
+> <STRUCTURE_SMILES>
+O=C1SSC(Cl)=C1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1SSC(Cl)=C1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

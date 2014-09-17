@@ -1,0 +1,93 @@
+62-73-7
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    3.3245   -1.9911    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9911   -1.9911    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9911   -3.3245    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1451   -3.9882    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1451   -5.3156    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2931   -5.9793    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9911   -5.9793    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6637   -1.9911    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1451    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9911   -0.6637    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1451    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+433
+
+> <Formula>
+C4H7Cl2O4P
+
+> <FW>
+220.9757
+
+> <DSSTox_CID>
+449
+
+> <DSSTox_RID>
+75598
+
+> <DSSTox_GSID>
+20449
+
+> <DSSTox_FileID_Sort>
+282
+
+> <TS_ChemName>
+Dichlorvos
+
+> <TS_ChemName_Synonyms>
+Dichlorvos (Phosphoric acid, 2,2-dichloroethenyl dimethyl ester) (DDVP) (Vapona)
+
+> <TS_CASRN>
+62-73-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H7Cl2O4P
+
+> <STRUCTURE_MW>
+220.9757
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2-dichloroethenyl dimethyl phosphate
+
+> <STRUCTURE_SMILES>
+COP(=O)(OC)O\C=C(\Cl)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+COP(=O)(OC)O\C=C(\Cl)Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

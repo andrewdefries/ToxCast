@@ -1,0 +1,91 @@
+34451-19-9
+ChemmineR-0915142007XD
+
+ 10  9  0  0  1  0  0  0  0  0  1 V2000
+    2.3300   -1.3349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -3.3251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3300    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4869   -1.9902    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6357   -1.3349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7764   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9333   -1.3349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0902   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  1  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+9257
+
+> <Formula>
+C7H14O3
+
+> <FW>
+146.1843
+
+> <DSSTox_CID>
+22335
+
+> <DSSTox_RID>
+79998
+
+> <DSSTox_GSID>
+42335
+
+> <DSSTox_FileID_Sort>
+4680
+
+> <TS_ChemName>
+Butyl (2S)-2-hydroxypropanoate
+
+> <TS_ChemName_Synonyms>
+Propanoic acid, 2-hydroxy-, butyl ester, (2S)- ((-)-Butyl L-lactate)
+
+> <TS_CASRN>
+34451-19-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O3
+
+> <STRUCTURE_MW>
+146.1843
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butyl (2S)-2-hydroxypropanoate
+
+> <STRUCTURE_SMILES>
+O[C@@H](C)C(=O)OCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@@H](C)C(=O)OCCCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

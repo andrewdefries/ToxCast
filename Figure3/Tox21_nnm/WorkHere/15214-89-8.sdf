@@ -1,0 +1,97 @@
+15214-89-8
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    1.6348   -2.3083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2900   -3.4594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4472   -2.7859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2900   -1.1511    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4472   -1.8246    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -0.4960    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9635    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9635   -4.6167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -4.1207    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -5.4494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2900   -6.1229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4472   -5.4494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.1229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+5380
+
+> <Formula>
+C7H13NO4S
+
+> <FW>
+207.2474
+
+> <DSSTox_CID>
+7770
+
+> <DSSTox_RID>
+78560
+
+> <DSSTox_GSID>
+27770
+
+> <DSSTox_FileID_Sort>
+3243
+
+> <TS_ChemName>
+2-Acrylamido-2-methyl-1-propanesulfonic acid
+
+> <TS_ChemName_Synonyms>
+2-Acrylamido-2-methyl-1-propanesulfonic acid (1-Propanesulfonic acid, 2-methyl-2-[(1-oxo-2-propenyl)amino]-) (AMPS)
+
+> <TS_CASRN>
+15214-89-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H13NO4S
+
+> <STRUCTURE_MW>
+207.2474
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(acryloylamino)-2-methylpropane-1-sulfonic acid
+
+> <STRUCTURE_SMILES>
+O=C(NC(C)(C)CS(=O)(=O)O)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NC(C)(C)CS(=O)(=O)O)C=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

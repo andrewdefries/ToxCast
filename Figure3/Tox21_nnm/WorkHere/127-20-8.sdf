@@ -1,0 +1,86 @@
+127-20-8
+ChemmineR-0915142007XD
+
+  8  6  0  0  0  0  0  0  0  0  2 V2000
+    2.2872   -2.1455    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1678   -1.4891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1282    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6169   -3.2960    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9574   -0.9777    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1678   -0.1624    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.4549   -2.8158    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3977    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+M  END
+> <ID>
+3464
+
+> <Formula>
+C3H3Cl2NaO2
+
+> <FW>
+164.9505 (141.9613+22.9892)
+
+> <DSSTox_CID>
+4001
+
+> <DSSTox_RID>
+77255
+
+> <DSSTox_GSID>
+24001
+
+> <DSSTox_FileID_Sort>
+1938
+
+> <TS_ChemName>
+Dalapon-sodium
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+127-20-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [75-99-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H3Cl2NaO2
+
+> <STRUCTURE_MW>
+164.9505
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 2,2-dichloropropanoate
+
+> <STRUCTURE_SMILES>
+[Na+].CC(Cl)(Cl)C([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(Cl)(Cl)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

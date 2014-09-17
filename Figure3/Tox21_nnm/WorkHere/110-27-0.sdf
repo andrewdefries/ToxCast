@@ -1,0 +1,109 @@
+110-27-0
+ChemmineR-0915142007XD
+
+ 19 18  0  0  0  0  0  0  0  0  1 V2000
+    3.5149   -1.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6249   -1.9609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7903   -1.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9743   -1.9609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0843   -1.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2497   -1.9609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4152   -1.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5992   -1.9609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7647   -1.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8746   -1.9609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0401   -1.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2241   -1.9609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3340   -1.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4995   -1.9609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5149    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3494   -1.9609    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1655   -1.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1655    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 16  1  0  0  0  0
+  1 15  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <ID>
+4817
+
+> <Formula>
+C17H34O2
+
+> <FW>
+270.4507
+
+> <DSSTox_CID>
+6838
+
+> <DSSTox_RID>
+78224
+
+> <DSSTox_GSID>
+26838
+
+> <DSSTox_FileID_Sort>
+2907
+
+> <TS_ChemName>
+Isopropyl tetradecanoic acid
+
+> <TS_ChemName_Synonyms>
+Tetradecanoic acid, 1-methylethyl ester
+
+> <TS_CASRN>
+110-27-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H34O2
+
+> <STRUCTURE_MW>
+270.4507
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+propan-2-yl tetradecanoate
+
+> <STRUCTURE_SMILES>
+CC(C)OC(=O)CCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)OC(=O)CCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

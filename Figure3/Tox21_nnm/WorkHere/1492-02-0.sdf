@@ -1,0 +1,111 @@
+1492-02-0
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    3.4178   -5.6845    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1516   -5.2772    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1516   -3.9402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0802   -3.1610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2922   -4.2412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8594   -2.0896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4178   -3.5329    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1969   -4.6042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5251   -4.6042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1980   -3.4532    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0381   -2.7891    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3491   -4.1173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8621   -2.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1902   -2.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8543   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1902    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8621    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1980   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+2788
+
+> <Formula>
+C12H15N3O2S2
+
+> <FW>
+297.3964
+
+> <DSSTox_CID>
+3103
+
+> <DSSTox_RID>
+76877
+
+> <DSSTox_GSID>
+23103
+
+> <DSSTox_FileID_Sort>
+1561
+
+> <TS_ChemName>
+Glybuzole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1492-02-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H15N3O2S2
+
+> <STRUCTURE_MW>
+297.3964
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(5-tert-butyl-1,3,4-thiadiazol-2-yl)benzenesulfonamide
+
+> <STRUCTURE_SMILES>
+O=S(=O)(Nc1nnc(s1)C(C)(C)C)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(Nc1nnc(s1)C(C)(C)C)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

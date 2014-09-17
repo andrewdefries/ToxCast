@@ -1,0 +1,81 @@
+78-94-4
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    2.3056    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  2  0  0  0  0
+M  END
+> <ID>
+4338
+
+> <Formula>
+C4H6O
+
+> <FW>
+70.0898
+
+> <DSSTox_CID>
+5671
+
+> <DSSTox_RID>
+77878
+
+> <DSSTox_GSID>
+25671
+
+> <DSSTox_FileID_Sort>
+2561
+
+> <TS_ChemName>
+Methyl vinyl ketone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+78-94-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6O
+
+> <STRUCTURE_MW>
+70.0898
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+but-3-en-2-one
+
+> <STRUCTURE_SMILES>
+C=CC(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

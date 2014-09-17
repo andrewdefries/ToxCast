@@ -1,0 +1,113 @@
+93413-69-5
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    5.9834   -3.4491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6512   -4.6019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3978   -5.0593    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6668   -3.7510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9202   -4.1993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1489   -5.5168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1334   -6.3676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8800   -5.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6568   -3.4491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9889   -4.6019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6623   -4.6019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9945   -3.4491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6679   -3.4491    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6623   -2.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9889   -2.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6512   -2.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9834   -1.1436    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6568   -1.1436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6512    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 16  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <ID>
+3339
+
+> <Formula>
+C17H27NO2
+
+> <FW>
+277.4018
+
+> <DSSTox_CID>
+3737
+
+> <DSSTox_RID>
+77175
+
+> <DSSTox_GSID>
+23737
+
+> <DSSTox_FileID_Sort>
+1858
+
+> <TS_ChemName>
+Venlafaxine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+93413-69-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H27NO2
+
+> <STRUCTURE_MW>
+277.4018
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl]cyclohexanol
+
+> <STRUCTURE_SMILES>
+OC1(CCCCC1)C(CN(C)C)c2ccc(OC)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+OC1(CCCCC1)C(CN(C)C)c2ccc(OC)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

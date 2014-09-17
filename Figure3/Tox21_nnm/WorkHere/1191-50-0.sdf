@@ -1,0 +1,110 @@
+1191-50-0
+ChemmineR-0915142007XD
+
+ 20 18  0  0  0  0  0  0  0  0  2 V2000
+    2.4540   -2.3362    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6122   -3.0036    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7705   -2.3165    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9288   -3.0036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1214   -1.1583    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7865   -3.4944    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2957   -1.6491    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    7.0870   -2.3362    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.2257   -3.0036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3643   -2.3362    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.5029   -3.0036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.6416   -2.3362    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.7998   -3.0036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.9188   -2.3362    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   15.0575   -3.0036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   16.1961   -2.3362    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   17.3544   -3.0036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   18.4930   -2.3362    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   19.6316   -3.0036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+5712
+
+> <Formula>
+C14H29NaO4S
+
+> <FW>
+316.4324 (293.4432+22.9892)
+
+> <DSSTox_CID>
+8726
+
+> <DSSTox_RID>
+80017
+
+> <DSSTox_GSID>
+42416
+
+> <DSSTox_FileID_Sort>
+4699
+
+> <TS_ChemName>
+Sodium tetradecyl sulfate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1191-50-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [4754-44-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H29NaO4S
+
+> <STRUCTURE_MW>
+316.4324
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium tetradecyl sulfate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]S(=O)(=O)OCCCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+OS(=O)(=O)OCCCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

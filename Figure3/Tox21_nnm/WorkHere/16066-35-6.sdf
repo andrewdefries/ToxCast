@@ -1,0 +1,98 @@
+16066-35-6
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    1.3179   -2.6650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1611   -3.3239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1611   -4.6565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3032   -5.3154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4600   -4.6565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4600   -3.3239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3325   -1.3325    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6504   -1.3325    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3325    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3325    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3032   -6.6479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1464   -7.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4600   -7.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+10579
+
+> <Formula>
+C9H12O3S
+
+> <FW>
+200.2548
+
+> <DSSTox_CID>
+24932
+
+> <DSSTox_RID>
+80597
+
+> <DSSTox_GSID>
+44932
+
+> <DSSTox_FileID_Sort>
+5279
+
+> <TS_ChemName>
+4-(Propan-2-yl)benzenesulfonic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+16066-35-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12O3S
+
+> <STRUCTURE_MW>
+200.2548
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(propan-2-yl)benzenesulfonic acid
+
+> <STRUCTURE_SMILES>
+OS(=O)(=O)c1ccc(cc1)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+OS(=O)(=O)c1ccc(cc1)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

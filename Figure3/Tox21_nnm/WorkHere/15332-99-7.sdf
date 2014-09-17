@@ -1,0 +1,101 @@
+15332-99-7
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    3.3315   -3.3182    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3315   -4.6441    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4842   -5.3170    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6641   -3.3182    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3170   -2.1655    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6641   -1.0261    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6630   -2.1655    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3315   -2.0056    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1788   -1.3326    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0261   -2.0056    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1788    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9989   -3.3182    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3326   -4.4709    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9989   -5.6235    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.4842    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+10487
+
+> <Formula>
+C11H18O3Si
+
+> <FW>
+226.3443
+
+> <DSSTox_CID>
+24839
+
+> <DSSTox_RID>
+80519
+
+> <DSSTox_GSID>
+44839
+
+> <DSSTox_FileID_Sort>
+5201
+
+> <TS_ChemName>
+Ethenyl[tris(prop-1-en-2-yloxy)]silane
+
+> <TS_ChemName_Synonyms>
+Ethenyl[tris(prop-1-en-2-yloxy)]silane (Silane, ethenyltris[(1-methylethenyl)oxy]-)
+
+> <TS_CASRN>
+15332-99-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H18O3Si
+
+> <STRUCTURE_MW>
+226.3443
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+ethenyl[tris(prop-1-en-2-yloxy)]silane
+
+> <STRUCTURE_SMILES>
+CC(=C)O[Si](OC(=C)C)(OC(C)=C)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=C)O[Si](OC(=C)C)(OC(C)=C)C=C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

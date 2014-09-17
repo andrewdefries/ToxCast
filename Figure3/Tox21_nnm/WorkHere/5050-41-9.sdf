@@ -1,0 +1,88 @@
+5050-41-9
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.2630    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1510   -1.5958    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3020   -2.2630    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4529   -1.5958    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5919   -0.2725    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8930    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5603   -1.1510    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6706   -2.1351    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+9681
+
+> <Formula>
+C6H12ClN
+
+> <FW>
+133.6192
+
+> <DSSTox_CID>
+23850
+
+> <DSSTox_RID>
+97563
+
+> <DSSTox_GSID>
+43850
+
+> <DSSTox_FileID_Sort>
+8338
+
+> <TS_ChemName>
+1-(2-Chloroethyl)pyrrolidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5050-41-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12ClN
+
+> <STRUCTURE_MW>
+133.6192
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(2-chloroethyl)pyrrolidine
+
+> <STRUCTURE_SMILES>
+ClCCN1CCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+ClCCN1CCCC1
+
+> <Substance_modify_yyyymmdd>
+20081229
+
+$$$$

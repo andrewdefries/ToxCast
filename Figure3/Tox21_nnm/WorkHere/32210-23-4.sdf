@@ -1,0 +1,100 @@
+32210-23-4
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    3.1409   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8119   -3.4591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1409   -4.6144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8126   -4.6144    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553   -3.4591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8126   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8119   -1.1553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553   -5.7629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3038   -6.4201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.0918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4774   -6.9182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1402   -1.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7975    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7975   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+5550
+
+> <Formula>
+C12H22O2
+
+> <FW>
+198.3019
+
+> <DSSTox_CID>
+7974
+
+> <DSSTox_RID>
+78627
+
+> <DSSTox_GSID>
+27974
+
+> <DSSTox_FileID_Sort>
+3309
+
+> <TS_ChemName>
+4-tert-Butylcyclohexyl acetate
+
+> <TS_ChemName_Synonyms>
+Cyclohexanol, 4-(1,1-dimethylethyl)-, acetate
+
+> <TS_CASRN>
+32210-23-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of o-; m- and p- isomers; structure shown p-
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C12H22O2
+
+> <STRUCTURE_MW>
+198.3019
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-tert-butylcyclohexyl acetate
+
+> <STRUCTURE_SMILES>
+O=C(C)OC1CCC(CC1)C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)OC1CCC(CC1)C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

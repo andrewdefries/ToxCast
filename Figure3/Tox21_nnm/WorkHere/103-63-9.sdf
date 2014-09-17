@@ -1,0 +1,90 @@
+103-63-9
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    2.0190   -3.4571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7151   -4.6076    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0190   -5.7523    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6960   -5.7523    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6076    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6960   -3.4571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6518   -2.2952    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9903   -1.1447    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6173    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+6649
+
+> <Formula>
+C8H9Br
+
+> <FW>
+185.0611
+
+> <DSSTox_CID>
+13876
+
+> <DSSTox_RID>
+79100
+
+> <DSSTox_GSID>
+33876
+
+> <DSSTox_FileID_Sort>
+3782
+
+> <TS_ChemName>
+Phenethyl bromide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+103-63-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9Br
+
+> <STRUCTURE_MW>
+185.0611
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2-bromoethyl)benzene
+
+> <STRUCTURE_SMILES>
+BrCCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+BrCCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,116 @@
+27176-87-0
+ChemmineR-0915142007XD
+
+ 22 22  0  0  0  0  0  0  0  0  1 V2000
+   12.6816   -6.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5276   -7.3173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3736   -6.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2196   -7.3173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0655   -6.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9115   -7.3173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7701   -6.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6161   -7.3173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4621   -6.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3081   -7.3173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -6.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -7.3173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3736   -2.6631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5276   -3.3226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5276   -4.6542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3736   -5.3263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2196   -4.6542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2196   -3.3226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3736   -1.3316    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7052   -1.3316    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0420   -1.3316    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3736    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 22  2  0  0  0  0
+M  END
+> <ID>
+5505
+
+> <Formula>
+C18H30O3S
+
+> <FW>
+326.494
+
+> <DSSTox_CID>
+7923
+
+> <DSSTox_RID>
+78612
+
+> <DSSTox_GSID>
+27923
+
+> <DSSTox_FileID_Sort>
+3294
+
+> <TS_ChemName>
+Dodecylbenzenesulfonic acid
+
+> <TS_ChemName_Synonyms>
+4-Dodecylbenzenesulfonic acid
+
+> <TS_CASRN>
+27176-87-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of benzenesulfonic acids; benzene sulfonated at C4 and dodecyl chain attached at any position except terminal carbons; structure shown attached at C3
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C18H30O3S
+
+> <STRUCTURE_MW>
+326.494
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(dodecan-3-yl)benzenesulfonic acid
+
+> <STRUCTURE_SMILES>
+OS(=O)(=O)c1ccc(cc1)C(CC)CCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+OS(=O)(=O)c1ccc(cc1)C(CC)CCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

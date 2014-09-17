@@ -1,0 +1,111 @@
+57-68-1
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    3.8139   -4.1203    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6609   -3.4592    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5078   -2.7899    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9916   -4.6041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6612   -4.6041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6612   -6.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9916   -6.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6609   -5.7572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -8.0633    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3221   -2.3061    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6525   -2.3061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3218   -1.1531    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6522   -1.1531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3134   -2.3061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6522   -3.4592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3218   -3.4592    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3134   -4.6041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3134    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+1240
+
+> <Formula>
+C12H14N4O2S
+
+> <FW>
+278.3302
+
+> <DSSTox_CID>
+1290
+
+> <DSSTox_RID>
+76062
+
+> <DSSTox_GSID>
+21290
+
+> <DSSTox_FileID_Sort>
+746
+
+> <TS_ChemName>
+Sulfamethazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+57-68-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H14N4O2S
+
+> <STRUCTURE_MW>
+278.3302
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-N-(4,6-dimethylpyrimidin-2-yl)benzenesulfonamide
+
+> <STRUCTURE_SMILES>
+O=S(=O)(Nc1nc(C)cc(C)n1)c2ccc(N)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(Nc1nc(C)cc(C)n1)c2ccc(N)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

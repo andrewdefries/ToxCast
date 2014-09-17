@@ -1,0 +1,99 @@
+144-02-5
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  2 V2000
+    2.1628   -1.9943    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1628   -0.6685    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3145    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4661   -0.6685    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4661   -1.9943    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3145   -2.6628    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3145   -3.9886    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6177    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.0112    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7078   -3.2470    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3989   -3.4774    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8539   -1.7640    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7864    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7920   -5.3200    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+125
+
+> <Formula>
+C8H11N2NaO3
+
+> <FW>
+206.1743 (183.1851+22.9892)
+
+> <DSSTox_CID>
+128
+
+> <DSSTox_RID>
+75387
+
+> <DSSTox_GSID>
+20128
+
+> <DSSTox_FileID_Sort>
+71
+
+> <TS_ChemName>
+Sodium barbital
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+144-02-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [57-44-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H11N2NaO3
+
+> <STRUCTURE_MW>
+206.1743
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 5,5-diethyl-4,6-dioxo-1,4,5,6-tetrahydropyrimidin-2-olate
+
+> <STRUCTURE_SMILES>
+[Na+].CCC1(CC)C(=O)N=C([O-])NC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCC1(CC)C(=O)N=C(O)NC1=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

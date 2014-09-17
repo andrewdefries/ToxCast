@@ -1,0 +1,105 @@
+143491-57-0
+ChemmineR-0915142007XD
+
+ 16 17  0  0  1  0  0  0  0  0  1 V2000
+    2.5781   -7.0057    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2507   -5.0231    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1928   -5.7727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3015   -5.7727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8952   -7.0057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9668   -5.3664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.2211    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3506   -3.8952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2367   -3.2507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2367   -1.9546    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3506   -1.2961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4715   -1.9546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4715   -3.2507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1087   -3.8952    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3506    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5854   -1.2961    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  6  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  6  0  0  0
+  6  7  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 16  1  0  0  0  0
+M  END
+> <ID>
+7581
+
+> <Formula>
+C8H10FN3O3S
+
+> <FW>
+247.2467
+
+> <DSSTox_CID>
+20129
+
+> <DSSTox_RID>
+79445
+
+> <DSSTox_GSID>
+40129
+
+> <DSSTox_FileID_Sort>
+4127
+
+> <TS_ChemName>
+Emtricitabine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+143491-57-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10FN3O3S
+
+> <STRUCTURE_MW>
+247.2467
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-5-fluoro-1-[(2R,5S)-2-(hydroxymethyl)-1,3-oxathiolan-5-yl]pyrimidin-2(1H)-one
+
+> <STRUCTURE_SMILES>
+FC1=CN(C(=O)N=C1N)[C@H]2O[C@@H](CO)SC2
+
+> <STRUCTURE_SMILES_Desalt>
+FC1=CN(C(=O)N=C1N)[C@H]2O[C@@H](CO)SC2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

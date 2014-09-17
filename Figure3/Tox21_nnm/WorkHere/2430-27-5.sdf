@@ -1,0 +1,91 @@
+2430-27-5
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    6.9100   -2.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7560   -1.9970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6089   -2.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550   -1.9970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550   -0.6634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3010    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6089    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3010   -2.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -1.9970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+3336
+
+> <Formula>
+C8H17NO
+
+> <FW>
+143.2267
+
+> <DSSTox_CID>
+3734
+
+> <DSSTox_RID>
+77172
+
+> <DSSTox_GSID>
+23734
+
+> <DSSTox_FileID_Sort>
+1855
+
+> <TS_ChemName>
+Valpromide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2430-27-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H17NO
+
+> <STRUCTURE_MW>
+143.2267
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-propylpentanamide
+
+> <STRUCTURE_SMILES>
+CCCC(CCC)C(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC(CCC)C(N)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

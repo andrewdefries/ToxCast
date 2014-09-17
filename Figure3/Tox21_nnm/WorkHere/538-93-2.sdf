@@ -1,0 +1,92 @@
+538-93-2
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    2.0027   -3.4628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6606   -4.6171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0027   -5.7714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6753   -5.7714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6753   -3.4628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6606   -2.3086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0027   -1.1543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6753   -1.1543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6606    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+4976
+
+> <Formula>
+C10H14
+
+> <FW>
+134.2182
+
+> <DSSTox_CID>
+7181
+
+> <DSSTox_RID>
+78337
+
+> <DSSTox_GSID>
+27181
+
+> <DSSTox_FileID_Sort>
+3020
+
+> <TS_ChemName>
+Isobutylbenzene
+
+> <TS_ChemName_Synonyms>
+Benzene, (2-methylpropyl)-
+
+> <TS_CASRN>
+538-93-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14
+
+> <STRUCTURE_MW>
+134.2182
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2-methylpropyl)benzene
+
+> <STRUCTURE_SMILES>
+CC(C)Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

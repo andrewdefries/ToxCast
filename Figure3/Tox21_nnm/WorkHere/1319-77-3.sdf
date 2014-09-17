@@ -1,0 +1,88 @@
+1319-77-3
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1545    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+1754
+
+> <Formula>
+C7H8O
+
+> <FW>
+108.1378
+
+> <DSSTox_CID>
+1869
+
+> <DSSTox_RID>
+77380
+
+> <DSSTox_GSID>
+24364
+
+> <DSSTox_FileID_Sort>
+2063
+
+> <TS_ChemName>
+Cresol
+
+> <TS_ChemName_Synonyms>
+Cresol (Tricresol) (Phenol, methyl-)
+
+> <TS_CASRN>
+1319-77-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of o-cresol [95-48-7]; m-cresol [108-39-4] p-cresol [106-44-5]; structure shown p-cresol; CASRN is for an undefined mixture of isomers
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C7H8O
+
+> <STRUCTURE_MW>
+108.1378
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methylphenol
+
+> <STRUCTURE_SMILES>
+Cc1ccc(O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

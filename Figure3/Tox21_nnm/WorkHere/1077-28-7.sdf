@@ -1,0 +1,96 @@
+1077-28-7
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    3.2547   -1.3343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4087   -2.0015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5627   -1.3343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7077   -2.0015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8618   -1.3343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8618    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0158   -2.0015    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1007   -2.0015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9654   -3.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6672   -3.5973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4433    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8926   -1.4606    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+4238
+
+> <Formula>
+C8H14O2S2
+
+> <FW>
+206.3256
+
+> <DSSTox_CID>
+5508
+
+> <DSSTox_RID>
+77816
+
+> <DSSTox_GSID>
+25508
+
+> <DSSTox_FileID_Sort>
+2499
+
+> <TS_ChemName>
+alpha-Lipoic acid
+
+> <TS_ChemName_Synonyms>
+alpha-Lipoic acid (Thioctic acid)
+
+> <TS_CASRN>
+1077-28-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+racemic mixture of D,L forms; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14O2S2
+
+> <STRUCTURE_MW>
+206.3256
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-(1,2-dithiolan-3-yl)pentanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCCCC1CCSS1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCCCC1CCSS1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

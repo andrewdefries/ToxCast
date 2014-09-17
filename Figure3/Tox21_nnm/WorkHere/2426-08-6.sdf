@@ -1,0 +1,90 @@
+2426-08-6
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    5.3176   -2.4839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9899   -2.4839    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261   -1.3347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9985   -1.3347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3276   -0.1784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9885   -1.3347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9885    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1377   -0.6638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+3812
+
+> <Formula>
+C7H14O2
+
+> <FW>
+130.1849
+
+> <DSSTox_CID>
+4691
+
+> <DSSTox_RID>
+77501
+
+> <DSSTox_GSID>
+24691
+
+> <DSSTox_FileID_Sort>
+2184
+
+> <TS_ChemName>
+Butyl glycidyl ether
+
+> <TS_ChemName_Synonyms>
+Butyl glycidyl ether (n-Butyl glycidyl ether) (Oxirane, (butoxymethyl)-)
+
+> <TS_CASRN>
+2426-08-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O2
+
+> <STRUCTURE_MW>
+130.1849
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(butoxymethyl)oxirane
+
+> <STRUCTURE_SMILES>
+CCCCOCC1CO1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCOCC1CO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

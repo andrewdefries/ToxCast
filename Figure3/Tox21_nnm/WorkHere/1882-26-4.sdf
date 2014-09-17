@@ -1,0 +1,108 @@
+1882-26-4
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+   12.6580   -1.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5062   -2.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3543   -1.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3543    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2024   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0505   -1.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8986   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8986   -3.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7594   -3.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6075   -3.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6075   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7594   -1.3291    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4556   -1.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3038   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -1.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+11149
+
+> <Formula>
+C11H15N3O4
+
+> <FW>
+253.2545
+
+> <DSSTox_CID>
+25708
+
+> <DSSTox_RID>
+81080
+
+> <DSSTox_GSID>
+45708
+
+> <DSSTox_FileID_Sort>
+5761
+
+> <TS_ChemName>
+Pyricarbate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1882-26-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H15N3O4
+
+> <STRUCTURE_MW>
+253.2545
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pyridine-2,6-diyldimethanediyl bis(methylcarbamate)
+
+> <STRUCTURE_SMILES>
+CNC(=O)OCc1cccc(COC(=O)NC)n1
+
+> <STRUCTURE_SMILES_Desalt>
+CNC(=O)OCc1cccc(COC(=O)NC)n1
+
+> <Substance_modify_yyyymmdd>
+20110819
+
+$$$$

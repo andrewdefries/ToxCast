@@ -1,0 +1,94 @@
+12108-13-3
+ChemmineR-0915142007XD
+
+ 13  9  0  0  0  0  0  0  0  0  2 V2000
+    4.8919   -4.5021    0.0000 Mn   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.7354    0.0000 C    0  5  0  0  0  0  0  0  0  0  0  0
+    1.6223   -1.7354    0.0000 O    0  3  0  0  0  0  0  0  0  0  0  0
+    0.0880   -3.0747    0.0000 C    0  5  0  0  0  0  0  0  0  0  0  0
+    1.6223   -3.0747    0.0000 O    0  3  0  0  0  0  0  0  0  0  0  0
+    0.0440   -4.2631    0.0000 C    0  5  0  0  0  0  0  0  0  0  0  0
+    1.4399   -4.2631    0.0000 O    0  3  0  0  0  0  0  0  0  0  0  0
+    6.2878   -2.5969    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1749   -3.1187    0.0000 C    0  5  0  0  0  0  0  0  0  0  0  0
+    6.1683   -1.3833    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3260   -2.1819    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9674   -1.1255    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4455    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  3  0  0  0  0
+  4  5  3  0  0  0  0
+  6  7  3  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+5356
+
+> <Formula>
+C9H7MnO3
+
+> <FW>
+218.0881 (54.9375+28.0101+28.0101+28.0101+79.1203)
+
+> <DSSTox_CID>
+7738
+
+> <DSSTox_RID>
+78552
+
+> <DSSTox_GSID>
+27738
+
+> <DSSTox_FileID_Sort>
+3235
+
+> <TS_ChemName>
+Manganese, tricarbonyl[(1,2,3,4,5-.eta.)-1-methyl-2,4-cyclopentadien-1-yl]-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+12108-13-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H7MnO3
+
+> <STRUCTURE_MW>
+218.0881
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+tricarbonyl((1,2,3,4,5-eta)-1-methyl-2,4-cyclopentadien-1-yl)- manganese
+
+> <STRUCTURE_SMILES>
+[Mn+].[C-]#[O+].[O+]#[C-].CC1C=[C-]C=C1.[O+]#[C-]
+
+> <STRUCTURE_SMILES_Desalt>
+CC1C=CC=C1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

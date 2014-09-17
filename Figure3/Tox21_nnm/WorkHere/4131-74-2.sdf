@@ -1,0 +1,97 @@
+4131-74-2
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    2.3071   -1.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -2.6588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5935   -1.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3071   -0.6621    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1484   -2.6588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1973   -1.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0386   -2.6588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8902   -1.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3457   -2.6588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1973   -0.6621    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7418   -2.6588    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3457    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3 11  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+5250
+
+> <Formula>
+C8H14O4S
+
+> <FW>
+206.2594
+
+> <DSSTox_CID>
+7561
+
+> <DSSTox_RID>
+78505
+
+> <DSSTox_GSID>
+27561
+
+> <DSSTox_FileID_Sort>
+3188
+
+> <TS_ChemName>
+Dimethyl 3,3?-thiodipropionate
+
+> <TS_ChemName_Synonyms>
+Dimethyl 3,3?-thiodipropionate (Propanoic acid, 3,3'-thiobis-, dimethyl ester)
+
+> <TS_CASRN>
+4131-74-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14O4S
+
+> <STRUCTURE_MW>
+206.2594
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dimethyl 3,3'-sulfanediyldipropanoate
+
+> <STRUCTURE_SMILES>
+COC(=O)CCSCCC(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+COC(=O)CCSCCC(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

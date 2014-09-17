@@ -1,0 +1,81 @@
+78-96-6
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    2.3056    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3308    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+1674
+
+> <Formula>
+C3H9NO
+
+> <FW>
+75.1097
+
+> <DSSTox_CID>
+1764
+
+> <DSSTox_RID>
+76313
+
+> <DSSTox_GSID>
+21764
+
+> <DSSTox_FileID_Sort>
+997
+
+> <TS_ChemName>
+1-Amino-2-propanol
+
+> <TS_ChemName_Synonyms>
+Monoisopropanolamine
+
+> <TS_CASRN>
+78-96-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H9NO
+
+> <STRUCTURE_MW>
+75.1097
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-aminopropan-2-ol
+
+> <STRUCTURE_SMILES>
+CC(O)CN
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)CN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

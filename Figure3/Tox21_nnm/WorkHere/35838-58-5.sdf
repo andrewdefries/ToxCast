@@ -1,0 +1,116 @@
+35838-58-5
+ChemmineR-0915142007XD
+
+ 22 22  0  0  0  0  0  0  0  0  1 V2000
+    1.0256   -6.4592    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8931   -3.2641    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7294   -3.9347    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8931   -1.9525    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1553   -3.6980    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6052   -3.2641    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7294   -5.2758    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1553   -1.5482    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7294   -1.2918    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9442   -2.6231    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6052   -1.9525    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4515   -3.9347    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8931   -5.9267    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5794   -0.2761    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2977   -3.2641    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4515   -5.2758    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8931   -7.2678    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.8613    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -3.9347    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0468   -7.9384    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7294   -7.9384    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.2641    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 10  2  0  0  0  0
+  6 11  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 19 22  1  0  0  0  0
+M  END
+> <ID>
+11177
+
+> <Formula>
+C14H20ClN5O2
+
+> <FW>
+325.7939 (36.4609+289.3330)
+
+> <DSSTox_CID>
+25767
+
+> <DSSTox_RID>
+81109
+
+> <DSSTox_GSID>
+45767
+
+> <DSSTox_FileID_Sort>
+5790
+
+> <TS_ChemName>
+Etazolate hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+35838-58-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [51022-77-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20ClN5O2
+
+> <STRUCTURE_MW>
+325.7939
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+ethyl 1-ethyl-4-[2-(propan-2-ylidene)hydrazinyl]-1H-pyrazolo[3,4-b]pyridine-5-carboxylate hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.C/C(C)=N\Nc2c(cnc1c2cnn1CC)C(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+C/C(C)=N\Nc2c(cnc1c2cnn1CC)C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20110826
+
+$$$$

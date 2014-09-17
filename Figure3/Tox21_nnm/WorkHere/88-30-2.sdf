@@ -1,0 +1,100 @@
+88-30-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  2 V2000
+    5.3209   -5.7586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6529   -4.6069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3227   -4.6069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6605   -3.4551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3302   -3.4551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3302   -2.1249    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3302   -4.7854    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4551    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3227   -2.3034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6605   -1.1517    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.3302   -1.1517    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.3227    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6529   -2.3034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3209   -3.4551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+1689
+
+> <Formula>
+C7H4F3NO3
+
+> <FW>
+207.1068
+
+> <DSSTox_CID>
+1788
+
+> <DSSTox_RID>
+76326
+
+> <DSSTox_GSID>
+21788
+
+> <DSSTox_FileID_Sort>
+1010
+
+> <TS_ChemName>
+3-Trifluoromethyl-4-nitrophenol
+
+> <TS_ChemName_Synonyms>
+3-Trifluoromethyl-4-nitrophenol (Trifluoro-4-nitro-m-cresol) (TFM) (4-Nitro-3-(trifluoromethyl)phenol)
+
+> <TS_CASRN>
+88-30-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H4F3NO3
+
+> <STRUCTURE_MW>
+207.1068
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-nitro-3-(trifluoromethyl)phenol
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccc(O)cc1C(F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccc(O)cc1C(F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

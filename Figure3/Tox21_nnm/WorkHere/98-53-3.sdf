@@ -1,0 +1,94 @@
+98-53-3
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.3304   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4812   -1.9890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4812   -3.3194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -3.9913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1796   -3.3194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1796   -1.9890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -5.3217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6609   -5.3217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -6.6521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+10051
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+24394
+
+> <DSSTox_RID>
+80195
+
+> <DSSTox_GSID>
+44394
+
+> <DSSTox_FileID_Sort>
+4877
+
+> <TS_ChemName>
+4-tert-Butylcyclohexanone
+
+> <TS_ChemName_Synonyms>
+4-tert-Butylcyclohexanone (Cyclohexanone, 4-(1,1-dimethylethyl)-)
+
+> <TS_CASRN>
+98-53-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-tert-butylcyclohexanone
+
+> <STRUCTURE_SMILES>
+O=C1CCC(CC1)C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCC(CC1)C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

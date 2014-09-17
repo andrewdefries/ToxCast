@@ -1,0 +1,103 @@
+29520-14-7
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6567    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1547   -2.0026    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1547   -0.6702    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3095   -2.6567    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4642   -2.0026    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4642   -0.6702    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6108   -2.6567    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7656   -2.0026    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7656   -0.6702    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6108    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9203    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0750   -0.6702    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0750   -2.0026    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9203   -2.6567    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9203   -3.9891    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1021   -4.1021    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+10777
+
+> <Formula>
+C9H10Cl3N3O
+
+> <FW>
+282.5542 (246.0933+36.4609)
+
+> <DSSTox_CID>
+25157
+
+> <DSSTox_RID>
+80708
+
+> <DSSTox_GSID>
+45157
+
+> <DSSTox_FileID_Sort>
+5389
+
+> <TS_ChemName>
+Guanfacine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+29520-14-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [29110-47-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10Cl3N3O
+
+> <STRUCTURE_MW>
+282.5542
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-carbamimidoyl-2-(2,6-dichlorophenyl)acetamide hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Clc1cccc(Cl)c1CC(=O)NC(=N)N
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cccc(Cl)c1CC(=O)NC(=N)N
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

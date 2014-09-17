@@ -1,0 +1,89 @@
+138-92-1
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.2183    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.9790   -2.3383    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2445   -2.7549    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2392   -1.8539    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0934   -0.5260    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3120    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2077   -0.9738    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5359   -2.1299    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6874   -0.7968    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+12890
+
+> <Formula>
+C5H10ClN3
+
+> <FW>
+147.6060 (111.1451+36.4609)
+
+> <DSSTox_CID>
+27769
+
+> <DSSTox_RID>
+82546
+
+> <DSSTox_GSID>
+47789
+
+> <DSSTox_FileID_Sort>
+7227
+
+> <TS_ChemName>
+Betazole hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+138-92-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [105-20-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10ClN3
+
+> <STRUCTURE_MW>
+147.606
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-(1H-pyrazol-3-yl)ethanamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.NCCc1ccnn1
+
+> <STRUCTURE_SMILES_Desalt>
+NCCc1ccnn1
+
+> <Substance_modify_yyyymmdd>
+20110929
+
+$$$$

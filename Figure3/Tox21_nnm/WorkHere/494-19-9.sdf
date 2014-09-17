@@ -1,0 +1,104 @@
+494-19-9
+ChemmineR-0915142007XD
+
+ 15 17  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.2982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2930   -2.9610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5762   -0.1021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2930   -1.6336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7512   -2.3994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1407   -3.6319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9035    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1407   -0.9700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6547   -3.4934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9455   -3.7924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0785   -2.2973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9884   -2.9610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6547   -1.1012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9884   -1.6336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9455   -0.8022    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6 12  2  0  0  0  0
+  7 13  2  0  0  0  0
+  8 14  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+14278
+
+> <Formula>
+C14H13N
+
+> <FW>
+195.2597
+
+> <DSSTox_CID>
+29374
+
+> <DSSTox_RID>
+83489
+
+> <DSSTox_GSID>
+49414
+
+> <DSSTox_FileID_Sort>
+8164
+
+> <TS_ChemName>
+10,11-Dihydro-5H-dibenz[b,f]azepine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+494-19-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H13N
+
+> <STRUCTURE_MW>
+195.2597
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+10,11-dihydro-5H-dibenzo[b,f]azepine
+
+> <STRUCTURE_SMILES>
+c1cc2Nc3ccccc3CCc2cc1
+
+> <STRUCTURE_SMILES_Desalt>
+c1cc2Nc3ccccc3CCc2cc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

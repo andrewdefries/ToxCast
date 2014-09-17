@@ -1,0 +1,93 @@
+3698-94-0
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    3.4400   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6019    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7524   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9029    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0649   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2154    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3659   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5049    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2895    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1390   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+10315
+
+> <Formula>
+C10H22S
+
+> <FW>
+174.3467
+
+> <DSSTox_CID>
+24662
+
+> <DSSTox_RID>
+80383
+
+> <DSSTox_GSID>
+44662
+
+> <DSSTox_FileID_Sort>
+5065
+
+> <TS_ChemName>
+Ethyl octyl sulfide
+
+> <TS_ChemName_Synonyms>
+Ethyl octyl sulfide (Octane, 1-(ethylthio)-) (1-(ethylsulfanyl)octane)
+
+> <TS_CASRN>
+3698-94-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H22S
+
+> <STRUCTURE_MW>
+174.3467
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl octyl sulfide
+
+> <STRUCTURE_SMILES>
+CCCCCCCCSCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCSCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

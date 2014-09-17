@@ -1,0 +1,110 @@
+32809-16-8
+ChemmineR-0915142007XD
+
+ 18 20  0  0  0  0  0  0  0  0  1 V2000
+    6.6717   -2.3171    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8887   -1.2704    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6343   -3.0043    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6343   -1.6699    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8887   -3.4198    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1431   -1.0467    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4837   -3.6754    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4837   -5.0098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3251   -3.0043    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5476   -0.8709    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2882   -4.6902    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1905   -3.6754    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3251   -5.6650    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1905   -5.0098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9901   -2.3331    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2882    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3251   -6.9993    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.9883    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 16  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5 11  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+6651
+
+> <Formula>
+C13H11Cl2NO2
+
+> <FW>
+284.1379
+
+> <DSSTox_CID>
+13923
+
+> <DSSTox_RID>
+79102
+
+> <DSSTox_GSID>
+33923
+
+> <DSSTox_FileID_Sort>
+3784
+
+> <TS_ChemName>
+Procymidone
+
+> <TS_ChemName_Synonyms>
+Procymidone (3-(3,5-Dichlorophenyl)-1,5-dimethyl-3-azabicyclo(3.1.0)hexane-2,4-dione)
+
+> <TS_CASRN>
+32809-16-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H11Cl2NO2
+
+> <STRUCTURE_MW>
+284.1379
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(3,5-dichlorophenyl)-1,5-dimethyl-3-azabicyclo[3.1.0]hexane-2,4-dione
+
+> <STRUCTURE_SMILES>
+Clc1cc(cc(Cl)c1)N2C(=O)C3(C)CC3(C)C2=O
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(cc(Cl)c1)N2C(=O)C3(C)CC3(C)C2=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

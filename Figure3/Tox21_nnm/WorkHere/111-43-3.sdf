@@ -1,0 +1,85 @@
+111-43-3
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    3.4664   -0.6586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3086    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1578   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6242    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7751   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9328    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+9264
+
+> <Formula>
+C6H14O
+
+> <FW>
+102.1748
+
+> <DSSTox_CID>
+22343
+
+> <DSSTox_RID>
+80001
+
+> <DSSTox_GSID>
+42343
+
+> <DSSTox_FileID_Sort>
+4683
+
+> <TS_ChemName>
+Propyl ether
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+111-43-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O
+
+> <STRUCTURE_MW>
+102.1748
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dipropyl ether
+
+> <STRUCTURE_SMILES>
+CCCOCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCOCCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

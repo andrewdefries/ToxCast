@@ -1,0 +1,81 @@
+513-53-1
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -0.6585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3116    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4657   -0.6585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -1.9893    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+8362
+
+> <Formula>
+C4H10S
+
+> <FW>
+90.1872
+
+> <DSSTox_CID>
+21396
+
+> <DSSTox_RID>
+79712
+
+> <DSSTox_GSID>
+41396
+
+> <DSSTox_FileID_Sort>
+4394
+
+> <TS_ChemName>
+2-Butanethiol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+513-53-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10S
+
+> <STRUCTURE_MW>
+90.1872
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butane-2-thiol
+
+> <STRUCTURE_SMILES>
+CC(S)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(S)CC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,121 @@
+81-11-8
+ChemmineR-0915142007XD
+
+ 24 25  0  0  0  0  0  0  0  0  1 V2000
+    4.0048   -6.9236    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3082   -1.1539    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9644   -2.3192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3487   -5.7583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9959   -3.4618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3171   -4.6044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3332   -2.3192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9798   -5.7583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0048   -4.6044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3082   -3.4618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8735   -7.5910    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1543   -1.8327    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1587   -6.2448    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4395   -0.4865    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6407    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6723   -8.0662    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3260   -3.4618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9870   -4.6044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3236   -4.6044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9894   -3.4618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6044    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3130   -3.4618    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3332   -4.6044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9798   -3.4618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1 11  2  0  0  0  0
+  1 13  2  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  2  0  0  0  0
+  2 14  2  0  0  0  0
+  2 15  1  0  0  0  0
+  3 10  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  2  3  0  0  0
+  5 10  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 20  2  0  0  0  0
+  8 19  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 17 24  2  0  0  0  0
+ 18 23  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 24  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 20 22  1  0  0  0  0
+M  END
+> <ID>
+3920
+
+> <Formula>
+C14H14N2O6S2
+
+> <FW>
+370.4008
+
+> <DSSTox_CID>
+4926
+
+> <DSSTox_RID>
+77585
+
+> <DSSTox_GSID>
+24926
+
+> <DSSTox_FileID_Sort>
+2268
+
+> <TS_ChemName>
+4,4'-Diamino-2,2'-stilbenedisulfonic acid
+
+> <TS_ChemName_Synonyms>
+4,4'-Diamino-2,2'-stilbenedisulfonic acid (Amsonic acid) (Benzenesulfonic acid, 2,2'-(1,2-ethenediyl)bis[5-amino-)
+
+> <TS_CASRN>
+81-11-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C14H14N2O6S2
+
+> <STRUCTURE_MW>
+370.4008
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-ethene-1,2-diylbis(5-aminobenzenesulfonic acid)
+
+> <STRUCTURE_SMILES>
+OS(=O)(=O)c2cc(N)ccc2C=Cc1ccc(N)cc1S(=O)(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OS(=O)(=O)c2cc(N)ccc2C=Cc1ccc(N)cc1S(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20110814
+
+$$$$

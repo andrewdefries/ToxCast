@@ -1,0 +1,103 @@
+106-33-2
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    3.4561   -1.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5974   -1.9772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7548   -1.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8961   -1.9772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0374   -1.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1788   -1.9772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3201   -1.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4775   -1.9772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6188   -1.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7762   -1.9772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9175   -1.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0749   -1.9772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2987   -1.9772    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1574   -1.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 14  1  0  0  0  0
+  1 13  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+12198
+
+> <Formula>
+C14H28O2
+
+> <FW>
+228.3709
+
+> <DSSTox_CID>
+27044
+
+> <DSSTox_RID>
+82065
+
+> <DSSTox_GSID>
+47044
+
+> <DSSTox_FileID_Sort>
+6746
+
+> <TS_ChemName>
+Ethyl dodecanoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+106-33-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H28O2
+
+> <STRUCTURE_MW>
+228.3709
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl dodecanoate
+
+> <STRUCTURE_SMILES>
+O=C(CCCCCCCCCCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCCCCCCCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

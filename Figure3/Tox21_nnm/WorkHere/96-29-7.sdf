@@ -1,0 +1,83 @@
+96-29-7
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    4.6543   -2.3039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3278   -2.3039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6530   -1.1543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3278    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3265   -1.1543    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1217    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+1715
+
+> <Formula>
+C4H9NO
+
+> <FW>
+87.1204
+
+> <DSSTox_CID>
+1821
+
+> <DSSTox_RID>
+76348
+
+> <DSSTox_GSID>
+21821
+
+> <DSSTox_FileID_Sort>
+1032
+
+> <TS_ChemName>
+2-Butanone oxime
+
+> <TS_ChemName_Synonyms>
+2-Butanone oxime (Methyl ethyl ketoxime)
+
+> <TS_CASRN>
+96-29-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H9NO
+
+> <STRUCTURE_MW>
+87.1204
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-hydroxybutan-2-imine
+
+> <STRUCTURE_SMILES>
+C/C(CC)=N\O
+
+> <STRUCTURE_SMILES_Desalt>
+C/C(CC)=N\O
+
+> <Substance_modify_yyyymmdd>
+20110605
+
+$$$$

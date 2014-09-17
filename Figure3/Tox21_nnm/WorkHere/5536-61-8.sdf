@@ -1,0 +1,84 @@
+5536-61-8
+ChemmineR-0915142007XD
+
+  7  5  0  0  0  0  0  0  0  0  2 V2000
+    0.4020   -3.4959    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    3.3211   -1.1536    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9891   -1.1536    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3319    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3319   -2.3108    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9891   -3.4644    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3108    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <ID>
+10471
+
+> <Formula>
+C4H5NaO2
+
+> <FW>
+108.0711 (22.9892+85.0818)
+
+> <DSSTox_CID>
+24823
+
+> <DSSTox_RID>
+80504
+
+> <DSSTox_GSID>
+44823
+
+> <DSSTox_FileID_Sort>
+5186
+
+> <TS_ChemName>
+Sodium methacrylate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5536-61-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [79-41-4 ]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H5NaO2
+
+> <STRUCTURE_MW>
+108.0711
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+[Na+].C=C(C)C([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+C=C(C)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

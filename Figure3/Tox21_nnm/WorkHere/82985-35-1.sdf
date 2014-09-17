@@ -1,0 +1,113 @@
+82985-35-1
+ChemmineR-0915142007XD
+
+ 21 20  0  0  0  0  0  0  0  0  1 V2000
+    8.0702   -3.0401    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2171   -2.3768    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3503   -3.0678    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9094   -2.3630    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5249   -2.4045    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8754   -1.2575    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5387   -0.0967    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6857   -1.7550    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   13.8188   -2.4183    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.1744   -3.5653    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   13.5010   -3.5791    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7486   -3.0125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6017   -2.3492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4409   -2.9849    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3077   -2.3077    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9849   -1.1746    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3216    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1608   -1.6444    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2939    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6168   -3.4685    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2902   -3.4547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <ID>
+6647
+
+> <Formula>
+C12H31NO6Si2
+
+> <FW>
+341.5486
+
+> <DSSTox_CID>
+13825
+
+> <DSSTox_RID>
+79097
+
+> <DSSTox_GSID>
+33825
+
+> <DSSTox_FileID_Sort>
+3779
+
+> <TS_ChemName>
+3-(Trimethoxysilyl)-N-[3-(trimethoxysilyl)propyl]propan-1-amine
+
+> <TS_ChemName_Synonyms>
+3-(Trimethoxysilyl)-N-[3-(trimethoxysilyl)propyl]propan-1-amine (Organofunctional Silane 45-49) (1-Propanamine, 3-(trimethoxysilyl)-N-[3-(trimethoxysilyl)propyl)-)
+
+> <TS_CASRN>
+82985-35-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H31NO6Si2
+
+> <STRUCTURE_MW>
+341.5486
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+3-(trimethoxysilyl)-N-[3-(trimethoxysilyl)propyl]propan-1-amine
+
+> <STRUCTURE_SMILES>
+CO[Si](CCCNCCC[Si](OC)(OC)OC)(OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CO[Si](CCCNCCC[Si](OC)(OC)OC)(OC)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

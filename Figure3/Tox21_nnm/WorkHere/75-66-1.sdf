@@ -1,0 +1,81 @@
+75-66-1
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    0.4805    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1550   -1.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2938   -0.4967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8295    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8134   -2.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <ID>
+4675
+
+> <Formula>
+C4H10S
+
+> <FW>
+90.1872
+
+> <DSSTox_CID>
+6418
+
+> <DSSTox_RID>
+78108
+
+> <DSSTox_GSID>
+26418
+
+> <DSSTox_FileID_Sort>
+2791
+
+> <TS_ChemName>
+2-Methyl-2-propanethiol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+75-66-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10S
+
+> <STRUCTURE_MW>
+90.1872
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylpropane-2-thiol
+
+> <STRUCTURE_SMILES>
+CC(C)(C)S
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)S
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

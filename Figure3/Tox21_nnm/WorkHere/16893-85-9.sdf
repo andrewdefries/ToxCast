@@ -1,0 +1,87 @@
+16893-85-9
+ChemmineR-0915142007XD
+
+  9  6  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -1.1692    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    2.6485   -1.1692    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    6.6412   -1.1692    0.0000 Si   0  6  0  0  0  0  0  0  0  0  0  0
+    5.3209   -1.1692    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2934   -2.3383    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2934    0.0000    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9970   -2.3383    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9970    0.0000    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9535   -1.1692    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+M  END
+> <ID>
+7225
+
+> <Formula>
+F6Na2Si
+
+> <FW>
+188.0555 (22.9892+22.9892+142.0770)
+
+> <DSSTox_CID>
+16933
+
+> <DSSTox_RID>
+79294
+
+> <DSSTox_GSID>
+36933
+
+> <DSSTox_FileID_Sort>
+3976
+
+> <TS_ChemName>
+Sodium hexafluorosilicate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+16893-85-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [17084-08-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+F6Na2Si
+
+> <STRUCTURE_MW>
+188.0555
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+disodium hexafluorosilicate
+
+> <STRUCTURE_SMILES>
+[Na+].[Na+].F[Si-2](F)(F)(F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+F[Si-2](F)(F)(F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

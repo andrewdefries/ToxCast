@@ -1,0 +1,98 @@
+7011-83-8
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    7.8465   -0.5699    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7677   -1.3230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9049   -1.3230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1850   -2.5951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4978   -2.5951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1770   -0.9261    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4956   -0.9261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5288   -1.7912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2567   -1.3739    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2898   -2.2898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0177   -1.8420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5744    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+8267
+
+> <Formula>
+C11H20O2
+
+> <FW>
+184.2753
+
+> <DSSTox_CID>
+21299
+
+> <DSSTox_RID>
+79682
+
+> <DSSTox_GSID>
+41299
+
+> <DSSTox_FileID_Sort>
+4364
+
+> <TS_ChemName>
+2(3H)-Furanone, 5-hexyldihydro-5-methyl-
+
+> <TS_ChemName_Synonyms>
+2(3H)-Furanone, 5-hexyldihydro-5-methyl- (gamma-Methyl-gamma-decanolactone)
+
+> <TS_CASRN>
+7011-83-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H20O2
+
+> <STRUCTURE_MW>
+184.2753
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-hexyl-5-methyldihydrofuran-2(3H)-one
+
+> <STRUCTURE_SMILES>
+O=C1CCC(C)(CCCCCC)O1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCC(C)(CCCCCC)O1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

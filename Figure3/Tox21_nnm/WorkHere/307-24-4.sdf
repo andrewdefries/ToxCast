@@ -1,0 +1,109 @@
+307-24-4
+ChemmineR-0915142007XD
+
+ 19 18  0  0  0  0  0  0  0  0  1 V2000
+    1.1422   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2763   -2.0028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4185   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5606   -2.0028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7511   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9013   -2.0028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0435   -1.2870    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1422    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0028    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2763   -3.2898    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1422   -2.6463    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4185    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4185   -2.6463    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5606   -3.2898    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5606   -0.6435    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7511    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7511   -2.6463    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9013   -3.2898    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9013   -0.6435    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 18  1  0  0  0  0
+  6 19  1  0  0  0  0
+M  END
+> <ID>
+6360
+
+> <Formula>
+C6HF11O2
+
+> <FW>
+314.0534
+
+> <DSSTox_CID>
+11862
+
+> <DSSTox_RID>
+78892
+
+> <DSSTox_GSID>
+31862
+
+> <DSSTox_FileID_Sort>
+3574
+
+> <TS_ChemName>
+Perfluorohexanoic acid
+
+> <TS_ChemName_Synonyms>
+Perfluorohexanoic acid (PFHXA)
+
+> <TS_CASRN>
+307-24-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6HF11O2
+
+> <STRUCTURE_MW>
+314.0534
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+undecafluorohexanoic acid
+
+> <STRUCTURE_SMILES>
+FC(F)(C(F)(F)C(=O)O)C(F)(F)C(F)(F)C(F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)(C(F)(F)C(=O)O)C(F)(F)C(F)(F)C(F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

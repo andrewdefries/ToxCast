@@ -1,0 +1,94 @@
+579-66-8
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.3093   -1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4455   -2.0057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4455   -3.3351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -3.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -3.3351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -2.0057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6002   -1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6002    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+5002
+
+> <Formula>
+C10H15N
+
+> <FW>
+149.2328
+
+> <DSSTox_CID>
+7218
+
+> <DSSTox_RID>
+78353
+
+> <DSSTox_GSID>
+27218
+
+> <DSSTox_FileID_Sort>
+3036
+
+> <TS_ChemName>
+2,6-Diethylaniline
+
+> <TS_ChemName_Synonyms>
+Benzenamine, 2,6-diethyl-
+
+> <TS_CASRN>
+579-66-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H15N
+
+> <STRUCTURE_MW>
+149.2328
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,6-diethylaniline
+
+> <STRUCTURE_SMILES>
+CCc1cccc(CC)c1N
+
+> <STRUCTURE_SMILES_Desalt>
+CCc1cccc(CC)c1N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,90 @@
+103-65-1
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    2.3064   -0.6746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064   -2.0008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -2.6581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4596    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6128   -0.6573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7660    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+9148
+
+> <Formula>
+C9H12
+
+> <FW>
+120.1916
+
+> <DSSTox_CID>
+22219
+
+> <DSSTox_RID>
+79963
+
+> <DSSTox_GSID>
+42219
+
+> <DSSTox_FileID_Sort>
+4645
+
+> <TS_ChemName>
+Propylbenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+103-65-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12
+
+> <STRUCTURE_MW>
+120.1916
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+propylbenzene
+
+> <STRUCTURE_SMILES>
+CCCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

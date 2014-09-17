@@ -1,0 +1,115 @@
+17804-35-2
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  1 V2000
+    4.3220   -3.3476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5406   -2.2864    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5406   -4.4378    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6630   -3.3476    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9747   -0.9937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2961   -2.6916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2961   -4.0326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3190   -4.4957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0775    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6630   -5.6437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2964   -0.7139    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6504   -4.4957    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1480   -2.0356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1480   -4.6983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1357   -1.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3161   -5.6437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4671   -1.4761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3546   -2.4504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6474   -2.1996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 19  2  0  0  0  0
+ 14 20  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+3417
+
+> <Formula>
+C14H18N4O3
+
+> <FW>
+290.3177
+
+> <DSSTox_CID>
+3900
+
+> <DSSTox_RID>
+77224
+
+> <DSSTox_GSID>
+23900
+
+> <DSSTox_FileID_Sort>
+1907
+
+> <TS_ChemName>
+Benomyl
+
+> <TS_ChemName_Synonyms>
+Benomyl  (Methyl 1-(butylcarbamoyl)-2-benzimidazolecarbamate)
+
+> <TS_CASRN>
+17804-35-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H18N4O3
+
+> <STRUCTURE_MW>
+290.3177
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl [1-(butylcarbamoyl)-1H-benzimidazol-2-yl]carbamate
+
+> <STRUCTURE_SMILES>
+O=C(OC)Nc2nc1ccccc1n2C(=O)NCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OC)Nc2nc1ccccc1n2C(=O)NCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

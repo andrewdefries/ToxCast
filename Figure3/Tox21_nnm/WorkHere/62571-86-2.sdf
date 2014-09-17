@@ -1,0 +1,100 @@
+62571-86-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  1  0  0  0  0  0  1 V2000
+    3.4705   -3.3000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4705   -1.9705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5478   -4.0841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8091   -3.6478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3046   -1.3296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6091   -1.2818    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0682   -2.3523    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4000   -4.0841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8182   -4.5478    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3296    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1659   -1.9841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1591   -5.3455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8296   -5.3455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3046    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  6  0  0  0
+  3 12  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 14  1  1  0  0  0
+  8 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+7272
+
+> <Formula>
+C9H15NO3S
+
+> <FW>
+217.2853
+
+> <DSSTox_CID>
+17197
+
+> <DSSTox_RID>
+79306
+
+> <DSSTox_GSID>
+37197
+
+> <DSSTox_FileID_Sort>
+3988
+
+> <TS_ChemName>
+Captopril
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+62571-86-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H15NO3S
+
+> <STRUCTURE_MW>
+217.2853
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-[(2S)-2-methyl-3-sulfanylpropanoyl]-L-proline
+
+> <STRUCTURE_SMILES>
+OC(=O)[C@@H]1CCCN1C(=O)[C@H](C)CS
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)[C@@H]1CCCN1C(=O)[C@H](C)CS
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

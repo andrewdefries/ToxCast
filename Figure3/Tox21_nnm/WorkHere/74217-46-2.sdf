@@ -1,0 +1,99 @@
+74217-46-2
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    6.9118   -3.9922    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7371   -3.3367    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7371   -2.0003    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9118   -1.3449    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5965   -1.3449    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5965    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4474   -2.0003    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2897   -1.3449    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1576   -2.0003    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1576   -3.3367    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9922    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2897   -3.9922    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4474   -3.3367    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5120   -2.5536    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+12011
+
+> <Formula>
+C10H16ClNO2
+
+> <FW>
+217.6925 (181.2316+36.4609)
+
+> <DSSTox_CID>
+26836
+
+> <DSSTox_RID>
+81948
+
+> <DSSTox_GSID>
+46836
+
+> <DSSTox_FileID_Sort>
+6629
+
+> <TS_ChemName>
+1-(4-Hydroxyphenyl)-2-methyl-2-methylaminoethanol hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+74217-46-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [67381-70-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16ClNO2
+
+> <STRUCTURE_MW>
+217.6925
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-[1-hydroxy-2-(methylamino)propyl]phenol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.OC(c1ccc(O)cc1)C(C)NC
+
+> <STRUCTURE_SMILES_Desalt>
+OC(c1ccc(O)cc1)C(C)NC
+
+> <Substance_modify_yyyymmdd>
+20120528
+
+$$$$

@@ -1,0 +1,95 @@
+111-80-8
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    2.2888   -1.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4389   -2.0012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6005   -2.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7506   -3.3354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9008   -2.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0624   -3.3354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2125   -2.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3627   -3.3354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5013   -2.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2888    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1386   -2.0012    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  1 10  2  0  0  0  0
+  2  3  3  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+12760
+
+> <Formula>
+C10H16O2
+
+> <FW>
+168.2328
+
+> <DSSTox_CID>
+27639
+
+> <DSSTox_RID>
+82467
+
+> <DSSTox_GSID>
+47639
+
+> <DSSTox_FileID_Sort>
+7148
+
+> <TS_ChemName>
+Methyl 2-nonynoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+111-80-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16O2
+
+> <STRUCTURE_MW>
+168.2328
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl non-2-ynoate
+
+> <STRUCTURE_SMILES>
+O=C(C#CCCCCCC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C#CCCCCCC)OC
+
+> <Substance_modify_yyyymmdd>
+20101214
+
+$$$$

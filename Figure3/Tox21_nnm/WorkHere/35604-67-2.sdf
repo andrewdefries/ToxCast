@@ -1,0 +1,108 @@
+35604-67-2
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    5.9730   -5.7639    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3159   -4.6091    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9820   -4.6091    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3150   -3.4544    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9820   -2.3095    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3159   -2.3095    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9730   -1.1548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2970   -1.1548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9739   -2.3095    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2979   -2.3095    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9549   -1.1548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2979    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9739    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3150   -1.1548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9810   -1.1548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3240   -2.3095    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9810   -3.4544    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3095    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+16260
+
+> <Formula>
+C13H20ClNO3
+
+> <FW>
+273.7558 (237.2949+36.4609)
+
+> <DSSTox_CID>
+31511
+
+> <DSSTox_RID>
+97396
+
+> <DSSTox_GSID>
+57722
+
+> <DSSTox_FileID_Sort>
+8463
+
+> <TS_ChemName>
+Viloxazine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+35604-67-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H20ClNO3
+
+> <STRUCTURE_MW>
+273.7558
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-[(2-ethoxyphenoxy)methyl]morpholine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CCOc2ccccc2OCC1CNCCO1
+
+> <STRUCTURE_SMILES_Desalt>
+CCOc2ccccc2OCC1CNCCO1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

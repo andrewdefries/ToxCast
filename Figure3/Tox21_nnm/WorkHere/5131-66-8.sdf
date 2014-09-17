@@ -1,0 +1,89 @@
+5131-66-8
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    2.2805    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1322   -0.6745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1322   -1.9994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4287   -0.6745    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5850    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7333   -0.6745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8815    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0298   -0.6745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+5273
+
+> <Formula>
+C7H16O2
+
+> <FW>
+132.2007
+
+> <DSSTox_CID>
+7589
+
+> <DSSTox_RID>
+78517
+
+> <DSSTox_GSID>
+27589
+
+> <DSSTox_FileID_Sort>
+3200
+
+> <TS_ChemName>
+1-Butoxy-2-propanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5131-66-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H16O2
+
+> <STRUCTURE_MW>
+132.2007
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-butoxypropan-2-ol
+
+> <STRUCTURE_SMILES>
+CC(O)COCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)COCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

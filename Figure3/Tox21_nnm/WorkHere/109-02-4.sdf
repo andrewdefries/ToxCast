@@ -1,0 +1,86 @@
+109-02-4
+ChemmineR-0915142007XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    1.1452   -1.3174    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1452   -4.0042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3024   -2.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3024   -3.3195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1452    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+5812
+
+> <Formula>
+C5H11NO
+
+> <FW>
+101.1469
+
+> <DSSTox_CID>
+9146
+
+> <DSSTox_RID>
+78682
+
+> <DSSTox_GSID>
+29146
+
+> <DSSTox_FileID_Sort>
+3364
+
+> <TS_ChemName>
+4-Methylmorpholine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+109-02-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H11NO
+
+> <STRUCTURE_MW>
+101.1469
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methylmorpholine
+
+> <STRUCTURE_SMILES>
+CN1CCOCC1
+
+> <STRUCTURE_SMILES_Desalt>
+CN1CCOCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

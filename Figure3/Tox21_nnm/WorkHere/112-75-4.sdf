@@ -1,0 +1,105 @@
+112-75-4
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+    2.3185    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4865   -0.6450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6371    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8051   -0.6450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9731    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1411   -0.6450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2916    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4596   -0.6450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6276    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7956   -0.6450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9462    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1142   -0.6450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2821    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4327   -0.6450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1506   -0.6450    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1506   -1.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+4853
+
+> <Formula>
+C16H35N
+
+> <FW>
+241.4558
+
+> <DSSTox_CID>
+6927
+
+> <DSSTox_RID>
+78258
+
+> <DSSTox_GSID>
+26927
+
+> <DSSTox_FileID_Sort>
+2941
+
+> <TS_ChemName>
+N,N-Dimethyltetradecylamine
+
+> <TS_ChemName_Synonyms>
+N,N-Dimethyl-1-tetradecanamine
+
+> <TS_CASRN>
+112-75-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H35N
+
+> <STRUCTURE_MW>
+241.4558
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-dimethyltetradecan-1-amine
+
+> <STRUCTURE_SMILES>
+CN(C)CCCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

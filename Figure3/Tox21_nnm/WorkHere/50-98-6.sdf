@@ -1,0 +1,97 @@
+50-98-6
+ChemmineR-0915142007XD
+
+ 13 12  0  0  1  0  0  0  0  0  1 V2000
+    4.6086   -1.9803    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4582   -1.3251    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3006   -1.9949    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3006   -3.3272    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -3.9824    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3272    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9949    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -1.3251    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7735   -1.3251    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9311   -1.9803    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4582    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086   -3.3126    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2805   -3.8223    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 12  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  1  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+11224
+
+> <Formula>
+C10H16ClNO
+
+> <FW>
+201.6931 (165.2322+36.4609)
+
+> <DSSTox_CID>
+25825
+
+> <DSSTox_RID>
+81156
+
+> <DSSTox_GSID>
+45825
+
+> <DSSTox_FileID_Sort>
+5837
+
+> <TS_ChemName>
+Ephedrine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+50-98-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [299-42-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16ClNO
+
+> <STRUCTURE_MW>
+201.6931
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(1R,2S)-2-(methylamino)-1-phenylpropan-1-ol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O[C@@H]([C@H](C)NC)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@@H]([C@H](C)NC)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20110909
+
+$$$$

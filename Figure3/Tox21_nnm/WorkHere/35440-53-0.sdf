@@ -1,0 +1,98 @@
+35440-53-0
+ChemmineR-0915142007XD
+
+ 14 12  0  0  0  0  0  0  0  0  2 V2000
+    3.5834   -1.3385    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7546   -2.0078    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9119   -1.3385    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.0413   -2.0078    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.2125   -1.3385    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3419   -2.0078    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.4852   -1.3385    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.6146   -2.0078    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.7997   -1.3385    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.9431   -2.0078    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5834    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4540   -2.0078    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3106   -1.3385    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2928    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  1 11  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+13756
+
+> <Formula>
+C10H20NNaO2
+
+> <FW>
+209.2611 (186.2718+22.9892)
+
+> <DSSTox_CID>
+28692
+
+> <DSSTox_RID>
+82962
+
+> <DSSTox_GSID>
+48766
+
+> <DSSTox_FileID_Sort>
+7639
+
+> <TS_ChemName>
+Sodium decanehydroxamate
+
+> <TS_ChemName_Synonyms>
+Sodium caprohydroxamate
+
+> <TS_CASRN>
+35440-53-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [2259-85-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20NNaO2
+
+> <STRUCTURE_MW>
+209.2611
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium (decanoylamino)oxidanide
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]NC(=O)CCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCCCCCC)NO
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

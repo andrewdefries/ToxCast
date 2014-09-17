@@ -1,0 +1,96 @@
+101-97-3
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.2980   -0.7015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2980   -2.0238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1611   -2.7011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.7176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1449   -0.0484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6040   -0.6854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6040   -2.0238    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7489   -0.0161    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4429   -0.0323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9019   -0.6773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0630    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+10011
+
+> <Formula>
+C10H12O2
+
+> <FW>
+164.2011
+
+> <DSSTox_CID>
+24353
+
+> <DSSTox_RID>
+80162
+
+> <DSSTox_GSID>
+44353
+
+> <DSSTox_FileID_Sort>
+4844
+
+> <TS_ChemName>
+Ethyl phenylacetate
+
+> <TS_ChemName_Synonyms>
+Benzeneacetic acid, ethyl ester
+
+> <TS_CASRN>
+101-97-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12O2
+
+> <STRUCTURE_MW>
+164.2011
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl phenylacetate
+
+> <STRUCTURE_SMILES>
+O=C(OCC)Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

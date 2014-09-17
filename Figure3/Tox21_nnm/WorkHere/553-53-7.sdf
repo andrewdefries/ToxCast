@@ -1,0 +1,92 @@
+553-53-7
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    4.6545   -3.4536    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9889   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6577   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9968   -3.4536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6656   -3.4536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6656   -1.1497    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9968   -1.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6545   -1.1497    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9889    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+898
+
+> <Formula>
+C6H7N3O
+
+> <FW>
+137.1393
+
+> <DSSTox_CID>
+933
+
+> <DSSTox_RID>
+75876
+
+> <DSSTox_GSID>
+20933
+
+> <DSSTox_FileID_Sort>
+560
+
+> <TS_ChemName>
+Nicotinic acid hydrazide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+553-53-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H7N3O
+
+> <STRUCTURE_MW>
+137.1393
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pyridine-3-carbohydrazide
+
+> <STRUCTURE_SMILES>
+O=C(NN)c1cccnc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NN)c1cccnc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

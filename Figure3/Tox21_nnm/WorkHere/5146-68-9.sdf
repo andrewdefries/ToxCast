@@ -1,0 +1,90 @@
+5146-68-9
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    1.1832    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3383   -0.6547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3383   -1.9876    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2674   -2.7686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3524    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6836   -4.0360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0118   -4.0360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4093   -2.7686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6767   -2.3524    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+11865
+
+> <Formula>
+C5H7NO3
+
+> <FW>
+129.114
+
+> <DSSTox_CID>
+26657
+
+> <DSSTox_RID>
+81800
+
+> <DSSTox_GSID>
+46657
+
+> <DSSTox_FileID_Sort>
+6481
+
+> <TS_ChemName>
+N-Hydroxymethylsuccinimide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5146-68-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H7NO3
+
+> <STRUCTURE_MW>
+129.114
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(hydroxymethyl)pyrrolidine-2,5-dione
+
+> <STRUCTURE_SMILES>
+O=C1CCC(=O)N1CO
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCC(=O)N1CO
+
+> <Substance_modify_yyyymmdd>
+20110808
+
+$$$$

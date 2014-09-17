@@ -1,0 +1,94 @@
+16079-88-2
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    4.3102   -1.1258    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4104   -2.1150    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3412   -1.3331    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3412    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2671   -2.1150    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6675   -3.3822    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8950   -4.4562    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9959   -3.3822    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7826   -4.4562    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.7005    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7106   -2.3883    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+6534
+
+> <Formula>
+C5H6BrClN2O2
+
+> <FW>
+241.4703
+
+> <DSSTox_CID>
+12591
+
+> <DSSTox_RID>
+78998
+
+> <DSSTox_GSID>
+32591
+
+> <DSSTox_FileID_Sort>
+3680
+
+> <TS_ChemName>
+Bromo-3-chloro-5,5-dimethylhydantoin
+
+> <TS_ChemName_Synonyms>
+Bromo-3-chloro-5,5-dimethylhydantoin (BCDMH) (1-Bromo-3-chloro-5,5-dimethyl-2,4-imidazolidinedione)
+
+> <TS_CASRN>
+16079-88-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H6BrClN2O2
+
+> <STRUCTURE_MW>
+241.4703
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromo-3-chloro-5,5-dimethylimidazolidine-2,4-dione
+
+> <STRUCTURE_SMILES>
+O=C1N(Cl)C(=O)N(Br)C1(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1N(Cl)C(=O)N(Br)C1(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

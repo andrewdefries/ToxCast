@@ -1,0 +1,83 @@
+13284-42-9
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.1487   -0.6696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3032   -1.3276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4519   -0.6696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -1.3276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7723   -0.6696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  3  0  0  0  0
+  2  3  2  3  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+4435
+
+> <Formula>
+C5H7N
+
+> <FW>
+81.1158
+
+> <DSSTox_CID>
+5850
+
+> <DSSTox_RID>
+77946
+
+> <DSSTox_GSID>
+25850
+
+> <DSSTox_FileID_Sort>
+2629
+
+> <TS_ChemName>
+2-Pentenenitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13284-42-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of E- [26294-98-4], Z- [25899-50-7] isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C5H7N
+
+> <STRUCTURE_MW>
+81.1158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pent-2-enenitrile
+
+> <STRUCTURE_SMILES>
+CCC=CC#N
+
+> <STRUCTURE_SMILES_Desalt>
+CCC=CC#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

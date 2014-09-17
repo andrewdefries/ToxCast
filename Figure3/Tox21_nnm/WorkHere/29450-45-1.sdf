@@ -1,0 +1,114 @@
+29450-45-1
+ChemmineR-0915142007XD
+
+ 21 21  0  0  0  0  0  0  0  0  1 V2000
+    9.2047   -2.6492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3572   -1.9757    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5097   -2.6492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6621   -1.9757    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.8146   -2.6492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   14.9670   -1.9757    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3572   -0.6586    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5097    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -2.6492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9148   -2.6492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4574   -1.9757    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -2.6492    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -1.9757    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9148   -3.9812    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4574   -0.6586    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7623   -1.9757    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -0.6586    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0523   -1.9757    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -3.9812    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 13  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 15 19  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+M  END
+> <ID>
+6875
+
+> <Formula>
+C17H25ClO3
+
+> <FW>
+312.8316
+
+> <DSSTox_CID>
+14698
+
+> <DSSTox_RID>
+79193
+
+> <DSSTox_GSID>
+34698
+
+> <DSSTox_FileID_Sort>
+3875
+
+> <TS_ChemName>
+MCPA-2-ethylhexyl
+
+> <TS_ChemName_Synonyms>
+MCPA-2-ethylhexyl (MCPA, 2-ethylhexyl ester)
+
+> <TS_CASRN>
+29450-45-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H25ClO3
+
+> <STRUCTURE_MW>
+312.8316
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethylhexyl (4-chloro-2-methylphenoxy)acetate
+
+> <STRUCTURE_SMILES>
+Clc1cc(C)c(OCC(=O)OCC(CC)CCCC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(C)c(OCC(=O)OCC(CC)CCCC)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

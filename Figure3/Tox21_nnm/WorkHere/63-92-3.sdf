@@ -1,0 +1,116 @@
+63-92-3
+ChemmineR-0915142007XD
+
+ 22 22  0  0  0  0  0  0  0  0  1 V2000
+    2.3012   -2.0006    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4517   -2.6640    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4517   -3.9908    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6023   -4.6542    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7633   -3.9908    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9139   -4.6542    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0644   -3.9908    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0644   -2.6640    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2150   -2.0006    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3656   -2.6640    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3656   -3.9908    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2150   -4.6542    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6023   -5.9913    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -4.6542    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -5.9913    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4517   -6.6547    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1506   -2.6640    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0006    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1506    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.7797   -6.2090    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 17  1  0  0  0  0
+  1 21  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <ID>
+1083
+
+> <Formula>
+C18H23Cl2NO
+
+> <FW>
+340.2873 (303.8264+36.4609)
+
+> <DSSTox_CID>
+1127
+
+> <DSSTox_RID>
+75958
+
+> <DSSTox_GSID>
+21127
+
+> <DSSTox_FileID_Sort>
+642
+
+> <TS_ChemName>
+Phenoxybenzamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+63-92-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [59-96-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H23Cl2NO
+
+> <STRUCTURE_MW>
+340.2873
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-benzyl-N-(2-chloroethyl)-1-phenoxypropan-2-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CC(COc1ccccc1)N(Cc2ccccc2)CCCl
+
+> <STRUCTURE_SMILES_Desalt>
+CC(COc1ccccc1)N(Cc2ccccc2)CCCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

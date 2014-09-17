@@ -1,0 +1,103 @@
+1137-42-4
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    4.5976   -1.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7490   -1.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9004   -1.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9004   -3.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7490   -3.9937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5976   -3.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4542   -1.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4542    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028   -1.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028   -3.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1514   -3.9937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1514   -1.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0518   -3.9937    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+7158
+
+> <Formula>
+C13H10O2
+
+> <FW>
+198.2173
+
+> <DSSTox_CID>
+16684
+
+> <DSSTox_RID>
+79290
+
+> <DSSTox_GSID>
+36684
+
+> <DSSTox_FileID_Sort>
+3972
+
+> <TS_ChemName>
+4-Hydroxybenzophenone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1137-42-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H10O2
+
+> <STRUCTURE_MW>
+198.2173
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(4-hydroxyphenyl)(phenyl)methanone
+
+> <STRUCTURE_SMILES>
+O=C(c1ccc(O)cc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(c1ccc(O)cc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,99 @@
+34681-23-7
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    2.6704   -3.6210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3444   -2.4630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6704   -1.3136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3444   -0.1642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6753   -2.4630    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3309   -1.3136    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3309    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3309   -2.6444    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3321   -3.6210    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6543   -3.6210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3111   -4.7704    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3111   -2.4630    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6420   -2.4630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+8654
+
+> <Formula>
+C7H14N2O4S
+
+> <FW>
+222.2621
+
+> <DSSTox_CID>
+21698
+
+> <DSSTox_RID>
+79824
+
+> <DSSTox_GSID>
+41698
+
+> <DSSTox_FileID_Sort>
+4506
+
+> <TS_ChemName>
+Butoxycarboxim
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+34681-23-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14N2O4S
+
+> <STRUCTURE_MW>
+222.2621
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5E)-6,7-dimethyl-4-oxa-8-thia-2,5-diazanon-5-en-3-one 8,8-dioxide
+
+> <STRUCTURE_SMILES>
+CC(C(\C)=N\OC(=O)NC)S(C)(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C(\C)=N\OC(=O)NC)S(C)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

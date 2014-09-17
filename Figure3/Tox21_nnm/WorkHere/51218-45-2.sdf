@@ -1,0 +1,110 @@
+51218-45-2
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    3.9875   -4.6095    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6607   -4.6095    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9972   -5.7567    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6634   -5.7567    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6095    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6634   -3.4554    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9972   -3.4554    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6607   -2.3013    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9972   -1.1541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6607   -6.9108    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6579   -5.7567    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9875   -6.9108    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9848   -5.7567    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6482   -4.6095    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6579   -3.4554    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9875   -2.3013    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6579   -1.1541    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9875    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9848   -3.4554    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+2232
+
+> <Formula>
+C15H22ClNO2
+
+> <FW>
+283.7937
+
+> <DSSTox_CID>
+2448
+
+> <DSSTox_RID>
+76595
+
+> <DSSTox_GSID>
+22448
+
+> <DSSTox_FileID_Sort>
+1279
+
+> <TS_ChemName>
+Metolachlor
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+51218-45-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H22ClNO2
+
+> <STRUCTURE_MW>
+283.7937
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-N-(2-ethyl-6-methylphenyl)-N-(1-methoxypropan-2-yl)acetamide
+
+> <STRUCTURE_SMILES>
+ClCC(=O)N(C(C)COC)c1c(C)cccc1CC
+
+> <STRUCTURE_SMILES_Desalt>
+ClCC(=O)N(C(C)COC)c1c(C)cccc1CC
+
+> <Substance_modify_yyyymmdd>
+20130909
+
+$$$$

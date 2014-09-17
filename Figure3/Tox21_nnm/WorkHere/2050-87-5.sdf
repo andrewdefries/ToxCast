@@ -1,0 +1,89 @@
+2050-87-5
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -0.6638    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7624    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9149   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0674    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2199   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+11332
+
+> <Formula>
+C6H10S3
+
+> <FW>
+178.3386
+
+> <DSSTox_CID>
+25972
+
+> <DSSTox_RID>
+81264
+
+> <DSSTox_GSID>
+45972
+
+> <DSSTox_FileID_Sort>
+5945
+
+> <TS_ChemName>
+Diallyl trisulfide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2050-87-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10S3
+
+> <STRUCTURE_MW>
+178.3386
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+di(prop-2-en-1-yl)trisulfane
+
+> <STRUCTURE_SMILES>
+C=CCSSSCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+C=CCSSSCC=C
+
+> <Substance_modify_yyyymmdd>
+20110825
+
+$$$$

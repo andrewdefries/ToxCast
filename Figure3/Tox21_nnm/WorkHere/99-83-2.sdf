@@ -1,0 +1,92 @@
+99-83-2
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.3276   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9989   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3466   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9989    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9979   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3276    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3265   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9848   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9848    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+M  END
+> <ID>
+12715
+
+> <Formula>
+C10H16
+
+> <FW>
+136.234
+
+> <DSSTox_CID>
+27593
+
+> <DSSTox_RID>
+82440
+
+> <DSSTox_GSID>
+47593
+
+> <DSSTox_FileID_Sort>
+7121
+
+> <TS_ChemName>
+alpha-Phellandrene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+99-83-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16
+
+> <STRUCTURE_MW>
+136.234
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-5-(propan-2-yl)cyclohexa-1,3-diene
+
+> <STRUCTURE_SMILES>
+CC=1C=CC(CC=1)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC=1C=CC(CC=1)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20101001
+
+$$$$

@@ -1,0 +1,89 @@
+59-51-8
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    2.2992   -3.3210    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2992   -1.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530   -1.3257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4522   -1.3257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6053   -1.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7514   -1.3257    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9045   -1.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+787
+
+> <Formula>
+C5H11NO2S
+
+> <FW>
+149.2113
+
+> <DSSTox_CID>
+821
+
+> <DSSTox_RID>
+75809
+
+> <DSSTox_GSID>
+20821
+
+> <DSSTox_FileID_Sort>
+493
+
+> <TS_ChemName>
+dl-Methionine
+
+> <TS_ChemName_Synonyms>
+dl-Methionine (2-amino-4-(methylsulfanyl)butanoic acid)
+
+> <TS_CASRN>
+59-51-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+racemic mixture of d- [348-67-4] and l- [63-68-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H11NO2S
+
+> <STRUCTURE_MW>
+149.2113
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methionine
+
+> <STRUCTURE_SMILES>
+O=C(O)C(N)CCSC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)C(N)CCSC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

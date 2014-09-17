@@ -1,0 +1,93 @@
+764-99-8
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+   10.3205   -1.1493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4928   -0.5287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1148   -0.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7349   -0.9309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4248   -0.8275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086   -0.2069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0219   -1.0343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8957   -0.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -0.1034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2057   -0.4252    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 11  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+10632
+
+> <Formula>
+C8H14O3
+
+> <FW>
+158.195
+
+> <DSSTox_CID>
+24985
+
+> <DSSTox_RID>
+80633
+
+> <DSSTox_GSID>
+44985
+
+> <DSSTox_FileID_Sort>
+5315
+
+> <TS_ChemName>
+{2-[2-(Ethenyloxy)ethoxy]ethoxy}ethene
+
+> <TS_ChemName_Synonyms>
+{2-[2-(Ethenyloxy)ethoxy]ethoxy}ethene (Ethene, 1,1'-[oxybis(2,1-ethanediyloxy)]bis-)
+
+> <TS_CASRN>
+764-99-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14O3
+
+> <STRUCTURE_MW>
+158.195
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+{2-[2-(ethenyloxy)ethoxy]ethoxy}ethene
+
+> <STRUCTURE_SMILES>
+C=COCCOCCOC=C
+
+> <STRUCTURE_SMILES_Desalt>
+C=COCCOCCOC=C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

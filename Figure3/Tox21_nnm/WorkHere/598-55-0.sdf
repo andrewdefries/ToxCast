@@ -1,0 +1,81 @@
+598-55-0
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9945    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.9945    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+800
+
+> <Formula>
+C2H5NO2
+
+> <FW>
+75.0666
+
+> <DSSTox_CID>
+834
+
+> <DSSTox_RID>
+75818
+
+> <DSSTox_GSID>
+20834
+
+> <DSSTox_FileID_Sort>
+502
+
+> <TS_ChemName>
+Methyl carbamate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+598-55-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H5NO2
+
+> <STRUCTURE_MW>
+75.0666
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl carbamate
+
+> <STRUCTURE_SMILES>
+NC(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

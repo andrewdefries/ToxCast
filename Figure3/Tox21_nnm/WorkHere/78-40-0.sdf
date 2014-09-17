@@ -1,0 +1,93 @@
+78-40-0
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    2.7907   -1.5055    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577   -2.6622    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -1.9951    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -0.6609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1248   -3.8127    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4528   -3.8127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1199   -2.6622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -3.3231    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1505   -2.6622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+4606
+
+> <Formula>
+C6H15O4P
+
+> <FW>
+182.1547
+
+> <DSSTox_CID>
+6228
+
+> <DSSTox_RID>
+78067
+
+> <DSSTox_GSID>
+26228
+
+> <DSSTox_FileID_Sort>
+2750
+
+> <TS_ChemName>
+Triethyl phosphate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+78-40-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H15O4P
+
+> <STRUCTURE_MW>
+182.1547
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+triethyl phosphate
+
+> <STRUCTURE_SMILES>
+CCOP(=O)(OCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCOP(=O)(OCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

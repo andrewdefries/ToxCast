@@ -1,0 +1,86 @@
+1569-69-3
+ChemmineR-0915142007XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    1.1527   -1.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -2.0023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -3.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -3.9886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+5145
+
+> <Formula>
+C6H12S
+
+> <FW>
+116.2245
+
+> <DSSTox_CID>
+7416
+
+> <DSSTox_RID>
+78447
+
+> <DSSTox_GSID>
+27416
+
+> <DSSTox_FileID_Sort>
+3130
+
+> <TS_ChemName>
+Cyclohexanethiol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1569-69-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12S
+
+> <STRUCTURE_MW>
+116.2245
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+cyclohexanethiol
+
+> <STRUCTURE_SMILES>
+SC1CCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+SC1CCCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

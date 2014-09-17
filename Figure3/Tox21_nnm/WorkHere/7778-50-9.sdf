@@ -1,0 +1,91 @@
+7778-50-9
+ChemmineR-0915142007XD
+
+ 11  8  0  0  0  0  0  0  0  0  2 V2000
+    1.3860   -1.8173    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.5334   -1.1473    0.0000 Cr   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8712    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2033   -2.3024    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6884   -0.4851    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8358   -1.1473    0.0000 Cr   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5057    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    5.9908   -1.8173    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1735   -2.3024    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.7003   -0.1078    0.0000 K    0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.5005    0.0000 K    0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  2  0  0  0  0
+M  END
+> <ID>
+4480
+
+> <Formula>
+Cr2K2O7
+
+> <FW>
+294.1846 (215.9891+39.0978+39.0978)
+
+> <DSSTox_CID>
+5948
+
+> <DSSTox_RID>
+77973
+
+> <DSSTox_GSID>
+25948
+
+> <DSSTox_FileID_Sort>
+2656
+
+> <TS_ChemName>
+Potassium dichromate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7778-50-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+Cr2K2O7
+
+> <STRUCTURE_MW>
+294.1846
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+potassium dichromate
+
+> <STRUCTURE_SMILES>
+[K+].[K+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O[Cr](=O)(=O)O[Cr](O)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

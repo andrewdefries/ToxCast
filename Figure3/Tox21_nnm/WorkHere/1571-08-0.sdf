@@ -1,0 +1,96 @@
+1571-08-0
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3314   -2.3040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9931   -1.1560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3314    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3245   -1.1560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9862    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3175    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9793   -1.1560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3106   -1.1560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9723    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3175   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9862   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+4298
+
+> <Formula>
+C9H8O3
+
+> <FW>
+164.158
+
+> <DSSTox_CID>
+5610
+
+> <DSSTox_RID>
+77853
+
+> <DSSTox_GSID>
+25610
+
+> <DSSTox_FileID_Sort>
+2536
+
+> <TS_ChemName>
+Methyl 4-formylbenzoate
+
+> <TS_ChemName_Synonyms>
+Methyl 4-formyl benzoate
+
+> <TS_CASRN>
+1571-08-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H8O3
+
+> <STRUCTURE_MW>
+164.158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 4-formylbenzoate
+
+> <STRUCTURE_SMILES>
+COC(=O)c1ccc(cc1)C=O
+
+> <STRUCTURE_SMILES_Desalt>
+COC(=O)c1ccc(cc1)C=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

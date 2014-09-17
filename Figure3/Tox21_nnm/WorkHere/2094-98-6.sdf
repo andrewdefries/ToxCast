@@ -1,0 +1,109 @@
+2094-98-6
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    1.9999   -2.2797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6830   -3.4154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9999   -4.5676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6831   -4.5841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6831   -2.2797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6171   -1.1357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9670    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9091   -2.2468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2095   -2.5842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2300   -1.7365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9419   -0.4115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6498   -0.0329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6375   -0.9218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5964   -3.5965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4852   -4.5676    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5841   -2.2632    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2920   -2.2468    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  3  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  3  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+10267
+
+> <Formula>
+C14H20N4
+
+> <FW>
+244.3354
+
+> <DSSTox_CID>
+24613
+
+> <DSSTox_RID>
+80349
+
+> <DSSTox_GSID>
+44613
+
+> <DSSTox_FileID_Sort>
+5031
+
+> <TS_ChemName>
+1,1'-Diazene-1,2-diyldicyclohexanecarbonitrile
+
+> <TS_ChemName_Synonyms>
+1,1'-Diazene-1,2-diyldicyclohexanecarbonitrile (Cyclohexanecarbonitrile, 1,1'-azobis-)
+
+> <TS_CASRN>
+2094-98-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20N4
+
+> <STRUCTURE_MW>
+244.3354
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1'-diazene-1,2-diyldicyclohexanecarbonitrile
+
+> <STRUCTURE_SMILES>
+N#CC2(/N=N/C1(CCCCC1)C#N)CCCCC2
+
+> <STRUCTURE_SMILES_Desalt>
+N#CC2(/N=N/C1(CCCCC1)C#N)CCCCC2
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

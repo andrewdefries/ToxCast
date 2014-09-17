@@ -1,0 +1,92 @@
+122-99-6
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1518   -2.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -0.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -1.9984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -2.6606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -1.9984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -0.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7590    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+1834
+
+> <Formula>
+C8H10O2
+
+> <FW>
+138.1638
+
+> <DSSTox_CID>
+1976
+
+> <DSSTox_RID>
+76437
+
+> <DSSTox_GSID>
+21976
+
+> <DSSTox_FileID_Sort>
+1121
+
+> <TS_ChemName>
+2-Phenoxyethanol
+
+> <TS_ChemName_Synonyms>
+2-Phenoxyethanol (Ethylene glycol monophenyl ether)
+
+> <TS_CASRN>
+122-99-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10O2
+
+> <STRUCTURE_MW>
+138.1638
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-phenoxyethanol
+
+> <STRUCTURE_SMILES>
+OCCOc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+OCCOc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

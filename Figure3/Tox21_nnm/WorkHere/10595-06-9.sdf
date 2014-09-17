@@ -1,0 +1,102 @@
+10595-06-9
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    7.9892   -3.4610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6475   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9892   -1.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6475   -4.6180    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6527   -3.4610    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9741   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9844   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6479   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9896   -1.1570    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6631   -1.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9848   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9848    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6583   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6583    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+10424
+
+> <Formula>
+C12H14O3
+
+> <FW>
+206.2378
+
+> <DSSTox_CID>
+24773
+
+> <DSSTox_RID>
+80464
+
+> <DSSTox_GSID>
+44773
+
+> <DSSTox_FileID_Sort>
+5146
+
+> <TS_ChemName>
+Ethylene glycol phenyl ether methacrylate
+
+> <TS_ChemName_Synonyms>
+Ethylene glycol phenyl ether methacrylate (2-Phenoxyethyl 2-methylprop-2-enoate) (2-Propenoic acid, 2-methyl-, 2-phenoxyethyl ester)
+
+> <TS_CASRN>
+10595-06-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H14O3
+
+> <STRUCTURE_MW>
+206.2378
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-phenoxyethyl 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+C=C(C)C(=O)OCCOc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+C=C(C)C(=O)OCCOc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

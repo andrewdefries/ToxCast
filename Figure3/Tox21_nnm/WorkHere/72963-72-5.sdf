@@ -1,0 +1,119 @@
+72963-72-5
+ChemmineR-0915142007XD
+
+ 23 24  0  0  1  0  0  0  0  0  1 V2000
+    7.2265   -1.7908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5433   -1.6012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0692   -2.8337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9940   -1.3168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7833    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9511   -2.1490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0279   -0.3687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8601   -1.3905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2589   -4.1505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4914   -4.6351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5343   -3.8134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7021   -5.9624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1513   -3.4658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1084   -4.2980    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9180   -6.0888    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1716   -5.6253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8232   -3.9398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0963   -5.0459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5704   -7.3740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2852   -7.7111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -8.0482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2777   -6.3522    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3597   -2.6968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  1  6  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6 13  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 22  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 23  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  3  0  0  0  0
+M  END
+> <ID>
+6862
+
+> <Formula>
+C17H22N2O4
+
+> <FW>
+318.3676
+
+> <DSSTox_CID>
+14669
+
+> <DSSTox_RID>
+79187
+
+> <DSSTox_GSID>
+34669
+
+> <DSSTox_FileID_Sort>
+3869
+
+> <TS_ChemName>
+Imiprothrin
+
+> <TS_ChemName_Synonyms>
+Imiprothrin (Pralle)
+
+> <TS_CASRN>
+72963-72-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 80% (1R,3R) and 20% (1R,3S); structure shown (1R,3R); stereochem
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C17H22N2O4
+
+> <STRUCTURE_MW>
+318.3676
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+[2,5-dioxo-3-(prop-2-yn-1-yl)imidazolidin-1-yl]methyl (1R,3R)-2,2-dimethyl-3-(2-methylprop-1-en-1-yl)cyclopropanecarboxylate
+
+> <STRUCTURE_SMILES>
+O=C2CN(CC#C)C(=O)N2COC(=O)[C@@H]1[C@@H](/C=C(\C)C)C1(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2CN(CC#C)C(=O)N2COC(=O)[C@@H]1[C@@H](/C=C(\C)C)C1(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,93 @@
+3302-10-1
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1358   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2923   -2.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4419   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5915   -2.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7480   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8838   -2.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1358    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0032    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4419    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7480    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7480   -2.6572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+M  END
+> <ID>
+5895
+
+> <Formula>
+C9H18O2
+
+> <FW>
+158.238
+
+> <DSSTox_CID>
+9254
+
+> <DSSTox_RID>
+78735
+
+> <DSSTox_GSID>
+29254
+
+> <DSSTox_FileID_Sort>
+3417
+
+> <TS_ChemName>
+3,5,5-Trimethylhexanoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3302-10-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18O2
+
+> <STRUCTURE_MW>
+158.238
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5,5-trimethylhexanoic acid
+
+> <STRUCTURE_SMILES>
+CC(CC(C)(C)C)CC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CC(C)(C)C)CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

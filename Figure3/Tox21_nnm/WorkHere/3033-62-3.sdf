@@ -1,0 +1,93 @@
+3033-62-3
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    6.9073    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7576   -0.6714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0662   -0.6714    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0662   -1.9959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1975    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2994    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4583   -0.6714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1497   -0.6714    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1497   -1.9959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6079    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+5208
+
+> <Formula>
+C8H20N2O
+
+> <FW>
+160.2572
+
+> <DSSTox_CID>
+7512
+
+> <DSSTox_RID>
+78481
+
+> <DSSTox_GSID>
+27512
+
+> <DSSTox_FileID_Sort>
+3164
+
+> <TS_ChemName>
+Bis[2-(dimethylamino)ethyl]ether
+
+> <TS_ChemName_Synonyms>
+Bis[2-(dimethylamino)ethyl]ether (Ethanamine, 2,2'-oxybis[N,N-dimethyl-)
+
+> <TS_CASRN>
+3033-62-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H20N2O
+
+> <STRUCTURE_MW>
+160.2572
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-oxybis(N,N-dimethylethanamine)
+
+> <STRUCTURE_SMILES>
+CN(C)CCOCCN(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCOCCN(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

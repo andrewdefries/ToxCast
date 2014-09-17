@@ -1,0 +1,94 @@
+104-45-0
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.0041   -1.1338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6589    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9923    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6630   -1.1338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9923   -2.2916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6589   -2.2916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6707   -1.1338    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9965   -1.1338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6512   -2.2916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9846   -2.2916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+9247
+
+> <Formula>
+C10H14O
+
+> <FW>
+150.2176
+
+> <DSSTox_CID>
+22325
+
+> <DSSTox_RID>
+79996
+
+> <DSSTox_GSID>
+42325
+
+> <DSSTox_FileID_Sort>
+4678
+
+> <TS_ChemName>
+4-Propylanisole
+
+> <TS_ChemName_Synonyms>
+4-Propylanisole (p-Propylanisole)
+
+> <TS_CASRN>
+104-45-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14O
+
+> <STRUCTURE_MW>
+150.2176
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methoxy-4-propylbenzene
+
+> <STRUCTURE_SMILES>
+COc1ccc(CCC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(CCC)cc1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

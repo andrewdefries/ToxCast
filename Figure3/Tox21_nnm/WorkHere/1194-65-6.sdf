@@ -1,0 +1,92 @@
+1194-65-6
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    2.3091   -2.6603    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3091   -1.3301    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3091    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4637   -3.3147    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -3.3147    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6603    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6129   -2.6603    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3091   -5.3206    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -4.6449    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4637   -4.6449    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  3  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+6435
+
+> <Formula>
+C7H3Cl2N
+
+> <FW>
+172.0114
+
+> <DSSTox_CID>
+12365
+
+> <DSSTox_RID>
+78927
+
+> <DSSTox_GSID>
+32365
+
+> <DSSTox_FileID_Sort>
+3609
+
+> <TS_ChemName>
+Dichlobenil
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1194-65-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H3Cl2N
+
+> <STRUCTURE_MW>
+172.0114
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,6-dichlorobenzonitrile
+
+> <STRUCTURE_SMILES>
+N#Cc1c(Cl)cccc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+N#Cc1c(Cl)cccc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

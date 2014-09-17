@@ -1,0 +1,103 @@
+1761-71-3
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -4.6508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1487   -6.6452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3055   -5.9830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3055   -4.6508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1487   -3.9887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3055   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3055   -1.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4542   -2.6565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6029   -1.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6029   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4542    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1487   -2.6565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7597    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1487   -7.9774    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <ID>
+3917
+
+> <Formula>
+C13H26N2
+
+> <FW>
+210.3589
+
+> <DSSTox_CID>
+4921
+
+> <DSSTox_RID>
+77582
+
+> <DSSTox_GSID>
+24921
+
+> <DSSTox_FileID_Sort>
+2265
+
+> <TS_ChemName>
+4,4'-Diaminodicyclohexylmethane
+
+> <TS_ChemName_Synonyms>
+4,4'-Diaminodicyclohexylmethane (4,4'-Methylenebis(cyclohexylamine)) (4-[(4-aminocyclohexyl)methyl]cyclohexan-1-amine)
+
+> <TS_CASRN>
+1761-71-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H26N2
+
+> <STRUCTURE_MW>
+210.3589
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-methanediyldicyclohexanamine
+
+> <STRUCTURE_SMILES>
+NC2CCC(CC1CCC(N)CC1)CC2
+
+> <STRUCTURE_SMILES_Desalt>
+NC2CCC(CC1CCC(N)CC1)CC2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

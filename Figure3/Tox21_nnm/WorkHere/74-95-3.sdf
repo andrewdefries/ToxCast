@@ -1,0 +1,77 @@
+74-95-3
+ChemmineR-0915142007XD
+
+  3  2  0  0  0  0  0  0  0  0  1 V2000
+    2.3030   -0.6656    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6656    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+> <ID>
+1496
+
+> <Formula>
+CH2Br2
+
+> <FW>
+173.8346
+
+> <DSSTox_CID>
+1557
+
+> <DSSTox_RID>
+76209
+
+> <DSSTox_GSID>
+21557
+
+> <DSSTox_FileID_Sort>
+893
+
+> <TS_ChemName>
+Dibromomethane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+74-95-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH2Br2
+
+> <STRUCTURE_MW>
+173.8346
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dibromomethane
+
+> <STRUCTURE_SMILES>
+BrCBr
+
+> <STRUCTURE_SMILES_Desalt>
+BrCBr
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

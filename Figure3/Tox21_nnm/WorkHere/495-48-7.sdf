@@ -1,0 +1,103 @@
+495-48-7
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  2 V2000
+    5.3128   -1.3305    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9915   -1.3305    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.6610   -1.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9818   -2.4843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6606   -2.4843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6606   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9818   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6433   -1.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3039   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6344   -0.1768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3043   -1.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6344   -2.4843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3039   -2.4843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9915    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+3740
+
+> <Formula>
+C12H10N2O
+
+> <FW>
+198.2206
+
+> <DSSTox_CID>
+4555
+
+> <DSSTox_RID>
+77451
+
+> <DSSTox_GSID>
+24555
+
+> <DSSTox_FileID_Sort>
+2134
+
+> <TS_ChemName>
+Azoxybenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+495-48-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10N2O
+
+> <STRUCTURE_MW>
+198.2206
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diphenyldiazene oxide
+
+> <STRUCTURE_SMILES>
+[O-]/[N+](=N/c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+[O-]/[N+](=N/c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,108 @@
+89-05-4
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    4.5933   -2.6651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4432   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2932   -3.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4432   -4.6415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5933   -3.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2932   -2.6651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4432   -0.6542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7571   -1.9626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4432   -5.9775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1294   -4.6690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2932    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5933   -6.6317    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7571   -0.6198    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1294   -6.0119    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8865   -2.6306    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0010    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2932   -6.6317    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5933    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 18  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 16  1  0  0  0  0
+M  END
+> <ID>
+10123
+
+> <Formula>
+C10H6O8
+
+> <FW>
+254.1498
+
+> <DSSTox_CID>
+24466
+
+> <DSSTox_RID>
+80250
+
+> <DSSTox_GSID>
+44466
+
+> <DSSTox_FileID_Sort>
+4932
+
+> <TS_ChemName>
+Pyromellitic acid
+
+> <TS_ChemName_Synonyms>
+Pyromellitic Acid (benzene-1,2,4,5-tetracarboxylic acid)
+
+> <TS_CASRN>
+89-05-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H6O8
+
+> <STRUCTURE_MW>
+254.1498
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzene-1,2,4,5-tetracarboxylic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1cc(c(cc1C(=O)O)C(=O)O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1cc(c(cc1C(=O)O)C(=O)O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

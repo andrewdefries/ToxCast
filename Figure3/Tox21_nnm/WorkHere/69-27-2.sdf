@@ -1,0 +1,115 @@
+69-27-2
+ChemmineR-0915142007XD
+
+ 22 21  0  0  0  0  0  0  0  0  2 V2000
+    5.1697   -6.3635    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+    9.6271   -3.4080    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6836   -2.4838    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    7.7209   -1.5403    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.6078   -1.5211    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.7402   -3.4272    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4790   -3.0133    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4971   -3.9086    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    6.4790   -4.8039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7173   -4.9965    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -4.5921    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3009   -5.2468    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3201   -6.5753    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553   -4.5921    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553   -3.2636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6089    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2912   -2.5897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -3.2443    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6980   -2.8304    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2912   -1.2708    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.2660    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9051    0.0000    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 19  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 21  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+11611
+
+> <Formula>
+C14H20Cl6N2
+
+> <FW>
+429.0400 (35.4535+358.1329+35.4535)
+
+> <DSSTox_CID>
+26332
+
+> <DSSTox_RID>
+81544
+
+> <DSSTox_GSID>
+46332
+
+> <DSSTox_FileID_Sort>
+6225
+
+> <TS_ChemName>
+Chlorisondamine chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+69-27-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [7701-62-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20Cl6N2
+
+> <STRUCTURE_MW>
+429.04
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+4,5,6,7-tetrachloro-2-methyl-2-[2-(trimethylammonio)ethyl]-2,3-dihydro-1H-isoindolium dichloride
+
+> <STRUCTURE_SMILES>
+[Cl-].[Cl-].C[N+](C)(C)CC[N+]1(C)Cc2c(Cl)c(Cl)c(Cl)c(Cl)c2C1
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(C)CC[N+]1(C)Cc2c(Cl)c(Cl)c(Cl)c(Cl)c2C1
+
+> <Substance_modify_yyyymmdd>
+20110815
+
+$$$$

@@ -1,0 +1,110 @@
+491-59-8
+ChemmineR-0915142007XD
+
+ 18 20  0  0  0  0  0  0  0  0  1 V2000
+    2.3055   -0.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3055   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4583    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6191   -0.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4583   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6191   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7719    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9085   -0.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7558   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9085   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0613    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7558   -3.9903    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4583   -3.9903    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -3.9903    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+M  END
+> <ID>
+13666
+
+> <Formula>
+C15H12O3
+
+> <FW>
+240.254
+
+> <DSSTox_CID>
+28597
+
+> <DSSTox_RID>
+82868
+
+> <DSSTox_GSID>
+48671
+
+> <DSSTox_FileID_Sort>
+7545
+
+> <TS_ChemName>
+Chrysarobin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+491-59-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H12O3
+
+> <STRUCTURE_MW>
+240.254
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylanthracene-1,8,9-triol
+
+> <STRUCTURE_SMILES>
+Oc2c3c(cc1cccc(O)c12)cc(C)cc3O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2c3c(cc1cccc(O)c12)cc(C)cc3O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

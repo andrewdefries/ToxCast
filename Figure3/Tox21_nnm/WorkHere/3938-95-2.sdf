@@ -1,0 +1,89 @@
+3938-95-2
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    4.6111   -3.9886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8260   -3.1402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4796   -0.8484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4583   -3.3154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3055   -1.3326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -1.9874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3055    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4583   -1.9874    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <ID>
+14157
+
+> <Formula>
+C7H14O2
+
+> <FW>
+130.1849
+
+> <DSSTox_CID>
+29150
+
+> <DSSTox_RID>
+83369
+
+> <DSSTox_GSID>
+49294
+
+> <DSSTox_FileID_Sort>
+8044
+
+> <TS_ChemName>
+Ethylpivalate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3938-95-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O2
+
+> <STRUCTURE_MW>
+130.1849
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 2,2-dimethylpropanoate
+
+> <STRUCTURE_SMILES>
+CC(C)(C)C(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

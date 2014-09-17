@@ -1,0 +1,95 @@
+6192-52-5
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    3.0533   -4.0977    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9913   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3327   -2.4812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0023   -2.4812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0023   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3327   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217   -1.3304    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217   -2.6609    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6521   -1.3304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+M  END
+> <ID>
+9981
+
+> <Formula>
+C7H10O4S
+
+> <FW>
+190.2169 (18.0153+172.2016)
+
+> <DSSTox_CID>
+24316
+
+> <DSSTox_RID>
+80149
+
+> <DSSTox_GSID>
+44316
+
+> <DSSTox_FileID_Sort>
+4831
+
+> <TS_ChemName>
+4-Methylbenzenesulfonic acid hydrate
+
+> <TS_ChemName_Synonyms>
+4-Methylbenzenesulfonic acid monohydrate
+
+> <TS_CASRN>
+6192-52-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [104-15-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H10O4S
+
+> <STRUCTURE_MW>
+190.2169
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-methylbenzenesulfonic acid hydrate (1:1)
+
+> <STRUCTURE_SMILES>
+O.Cc1ccc(cc1)S(O)(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)S(O)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20090518
+
+$$$$

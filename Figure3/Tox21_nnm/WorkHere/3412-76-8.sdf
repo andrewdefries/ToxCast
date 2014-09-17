@@ -1,0 +1,111 @@
+3412-76-8
+ChemmineR-0915142007XD
+
+ 20 19  0  0  0  0  0  0  0  0  1 V2000
+    5.7581   -2.0039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9250   -2.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0792   -2.0039    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2333   -2.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3748   -2.0039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3748   -0.6722    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5290    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6831   -0.6722    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6831   -2.0039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5290   -2.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6040   -2.6635    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4498   -2.0039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2956   -2.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2956   -3.9952    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1415   -4.6674    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9952    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1415   -2.0039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2001   -4.3630    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8128   -4.3123    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+11788
+
+> <Formula>
+C16H22Cl2N2
+
+> <FW>
+313.2653 (240.3434+36.4609+36.4609)
+
+> <DSSTox_CID>
+26563
+
+> <DSSTox_RID>
+81722
+
+> <DSSTox_GSID>
+46563
+
+> <DSSTox_FileID_Sort>
+6403
+
+> <TS_ChemName>
+N,N'-Dibenzylethane-1,2-diamine dihydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3412-76-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [140-28-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H22Cl2N2
+
+> <STRUCTURE_MW>
+313.2653
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N,N'-dibenzylethane-1,2-diamine dihydrochloride
+
+> <STRUCTURE_SMILES>
+Cl.Cl.C(NCc1ccccc1)CNCc2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+C(NCc1ccccc1)CNCc2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20110810
+
+$$$$

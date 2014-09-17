@@ -1,0 +1,109 @@
+77191-36-7
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    4.6082   -3.3276    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082   -2.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7625   -1.3347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9168   -2.0020    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1252   -1.4609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4047   -0.1533    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0179   -2.4439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3506   -3.5982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0520   -3.3186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4539   -1.3347    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3086   -2.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3086   -3.3276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543   -3.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543   -1.3347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4539   -3.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+889
+
+> <Formula>
+C14H18N2O2
+
+> <FW>
+246.3049
+
+> <DSSTox_CID>
+923
+
+> <DSSTox_RID>
+75870
+
+> <DSSTox_GSID>
+20923
+
+> <DSSTox_FileID_Sort>
+554
+
+> <TS_ChemName>
+Nefiracetam
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+77191-36-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H18N2O2
+
+> <STRUCTURE_MW>
+246.3049
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(2,6-dimethylphenyl)-2-(2-oxopyrrolidin-1-yl)acetamide
+
+> <STRUCTURE_SMILES>
+O=C2CCCN2CC(=O)Nc1c(C)cccc1C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2CCCN2CC(=O)Nc1c(C)cccc1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

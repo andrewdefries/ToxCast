@@ -1,0 +1,92 @@
+114-91-0
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.9849   -4.6084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6563   -4.6084    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9919   -3.4593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6573   -3.4593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9930   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6573   -1.1551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9930    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6643    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6643   -2.3042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+16029
+
+> <Formula>
+C8H11NO
+
+> <FW>
+137.179
+
+> <DSSTox_CID>
+31413
+
+> <DSSTox_RID>
+97299
+
+> <DSSTox_GSID>
+57624
+
+> <DSSTox_FileID_Sort>
+8366
+
+> <TS_ChemName>
+Metyridine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+114-91-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H11NO
+
+> <STRUCTURE_MW>
+137.179
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(2-methoxyethyl)pyridine
+
+> <STRUCTURE_SMILES>
+COCCc1ccccn1
+
+> <STRUCTURE_SMILES_Desalt>
+COCCc1ccccn1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

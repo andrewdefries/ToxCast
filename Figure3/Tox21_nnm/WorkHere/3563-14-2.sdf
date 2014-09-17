@@ -1,0 +1,108 @@
+3563-14-2
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    2.3107   -1.8279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3107   -3.1614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4718   -3.8167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -3.1614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -1.8164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4718   -1.1726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1611   -1.1726    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8164    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4828    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8164    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7480   -3.8167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9091   -3.1499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8861   -1.8164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0587   -3.8167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1853   -3.1499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3349   -3.8052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3349   -5.1387    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4959   -3.1269    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  2  0  0  0  0
+  7  8  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+11569
+
+> <Formula>
+C10H12N2O5S
+
+> <FW>
+272.2777
+
+> <DSSTox_CID>
+26275
+
+> <DSSTox_RID>
+81502
+
+> <DSSTox_GSID>
+46275
+
+> <DSSTox_FileID_Sort>
+6183
+
+> <TS_ChemName>
+Sulfasuccinamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3563-14-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12N2O5S
+
+> <STRUCTURE_MW>
+272.2777
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-oxo-4-[(4-sulfamoylphenyl)amino]butanoic acid
+
+> <STRUCTURE_SMILES>
+O=S(N)(=O)c1ccc(NC(=O)CCC(=O)O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(N)(=O)c1ccc(NC(=O)CCC(=O)O)cc1
+
+> <Substance_modify_yyyymmdd>
+20110815
+
+$$$$

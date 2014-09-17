@@ -1,0 +1,101 @@
+92-04-6
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    3.3259   -1.1485    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9879   -2.3050    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3259   -3.4535    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9939   -3.4535    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3319   -2.3050    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9939   -1.1485    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3050    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3198   -2.3050    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9818   -1.1485    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3137   -1.1485    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9757   -2.3050    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3137   -3.4535    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9818   -3.4535    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9879    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+2170
+
+> <Formula>
+C12H9ClO
+
+> <FW>
+204.6523
+
+> <DSSTox_CID>
+2353
+
+> <DSSTox_RID>
+76555
+
+> <DSSTox_GSID>
+22353
+
+> <DSSTox_FileID_Sort>
+1239
+
+> <TS_ChemName>
+2-Chloro-4-phenylphenol
+
+> <TS_ChemName_Synonyms>
+2-Chloro-4-phenylphenol (2-chloro-4-biphenylol)
+
+> <TS_CASRN>
+92-04-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H9ClO
+
+> <STRUCTURE_MW>
+204.6523
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chlorobiphenyl-4-ol
+
+> <STRUCTURE_SMILES>
+Clc2cc(O)ccc2c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2cc(O)ccc2c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

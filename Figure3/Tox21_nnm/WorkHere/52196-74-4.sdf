@@ -1,0 +1,98 @@
+52196-74-4
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    5.9735   -2.3075    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3129   -3.4613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9917   -3.4613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3124   -2.3075    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9917   -1.1538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3129   -1.1538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9735    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3041   -2.3075    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9740   -3.4613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3046   -3.4613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9819   -2.3075    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3306   -1.1538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+10337
+
+> <Formula>
+C10H13ClO2
+
+> <FW>
+200.662
+
+> <DSSTox_CID>
+24685
+
+> <DSSTox_RID>
+80396
+
+> <DSSTox_GSID>
+44685
+
+> <DSSTox_FileID_Sort>
+5078
+
+> <TS_ChemName>
+2-Chloro-1,4-diethoxybenzene
+
+> <TS_ChemName_Synonyms>
+2-Chloro-1,4-diethoxybenzene (Benzene, 2-chloro-1,4-diethoxy-)
+
+> <TS_CASRN>
+52196-74-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13ClO2
+
+> <STRUCTURE_MW>
+200.662
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-1,4-diethoxybenzene
+
+> <STRUCTURE_SMILES>
+Clc1cc(ccc1OCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(ccc1OCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

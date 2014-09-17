@@ -1,0 +1,115 @@
+309-00-2
+ChemmineR-0915142007XD
+
+ 20 23  0  0  1  0  0  0  0  0  1 V2000
+    4.4784   -2.2016    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2741   -2.1576    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2651   -0.9346    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2938   -3.1361    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4568   -1.8252    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5904   -3.3180    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9632   -2.7159    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9640   -3.3180    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4497    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1558   -0.3324    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7042   -4.2965    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2722   -2.8350    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3862   -3.7696    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6433   -4.9300    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7213   -2.1137    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3306   -4.5223    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6289   -5.3377    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1361    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0636   -4.2965    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6943   -1.2356    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  1  1  1  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 20  1  1  0  0  0
+  8  3  1  1  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4 11  2  0  0  0  0
+  4 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 19  1  1  0  0  0
+ 14  7  1  6  0  0  0
+  7 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 15 18  2  0  0  0  0
+M  END
+> <ID>
+39
+
+> <Formula>
+C12H8Cl6
+
+> <FW>
+364.9099
+
+> <DSSTox_CID>
+40
+
+> <DSSTox_RID>
+75333
+
+> <DSSTox_GSID>
+20040
+
+> <DSSTox_FileID_Sort>
+17
+
+> <TS_ChemName>
+Aldrin
+
+> <TS_ChemName_Synonyms>
+1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-, (1.alpha.,4.alpha.,4a.beta.,5.alpha.,8.alpha.,8a.beta.)-1,4:5,8-Dimethanonaphthalene
+
+> <TS_CASRN>
+309-00-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H8Cl6
+
+> <STRUCTURE_MW>
+364.9099
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1R,4S,4aS,5R,8R,8aR)-1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene
+
+> <STRUCTURE_SMILES>
+ClC3=C(Cl)[C@]4(Cl)[C@@H]2[C@@H]1CC(C=C1)[C@@H]2C3(Cl)[C@@]4(Cl)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+ClC3=C(Cl)[C@]4(Cl)[C@@H]2[C@@H]1CC(C=C1)[C@@H]2C3(Cl)[C@@]4(Cl)Cl
+
+> <Substance_modify_yyyymmdd>
+20080815
+
+$$$$

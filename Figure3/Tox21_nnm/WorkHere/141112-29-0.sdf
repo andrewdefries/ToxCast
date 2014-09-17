@@ -1,0 +1,122 @@
+141112-29-0
+ChemmineR-0915142007XD
+
+ 24 26  0  0  0  0  0  0  0  0  1 V2000
+    3.8402   -2.6497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8402   -1.3345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4305   -5.0787    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6432   -4.0034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6882   -3.3314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4113   -2.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6978   -4.6467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9793   -1.6513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.7680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2577   -0.3552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0019   -3.3314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1443   -2.6497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0019   -4.6467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2964   -3.3314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1443   -5.3187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2964   -4.6467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1443   -1.3345    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8099   -1.3345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4788   -1.3345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1443    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4581   -5.3187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6005   -5.9811    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1301   -4.1666    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7860   -6.4804    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 24  1  0  0  0  0
+M  END
+> <ID>
+6888
+
+> <Formula>
+C15H12F3NO4S
+
+> <FW>
+359.3203
+
+> <DSSTox_CID>
+14723
+
+> <DSSTox_RID>
+79196
+
+> <DSSTox_GSID>
+34723
+
+> <DSSTox_FileID_Sort>
+3878
+
+> <TS_ChemName>
+Isoxaflutole
+
+> <TS_ChemName_Synonyms>
+Isoxaflutole (Methanone,(5-cyclopropyl-4-isoxazolyl){2-(methylsulfonyl)-4-(trifluoromethyl)phenyl}-)
+
+> <TS_CASRN>
+141112-29-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H12F3NO4S
+
+> <STRUCTURE_MW>
+359.3203
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5-cyclopropyl-1,2-oxazol-4-yl)[2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone
+
+> <STRUCTURE_SMILES>
+O=C(c2cnoc2C1CC1)c3ccc(cc3S(C)(=O)=O)C(F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(c2cnoc2C1CC1)c3ccc(cc3S(C)(=O)=O)C(F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

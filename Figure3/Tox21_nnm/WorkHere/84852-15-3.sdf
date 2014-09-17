@@ -1,0 +1,104 @@
+84852-15-3
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    4.6066   -1.3351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7372   -2.0086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4640   -2.0086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4640   -3.3437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7372   -3.3437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066   -4.0052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066   -5.3403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4640   -6.0259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4640   -7.3610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2732   -8.0225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2732   -9.3576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1306  -10.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1306  -11.3662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000  -12.0278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2853  -12.0278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <ID>
+5777
+
+> <Formula>
+C15H24O
+
+> <FW>
+220.3505
+
+> <DSSTox_CID>
+9055
+
+> <DSSTox_RID>
+78663
+
+> <DSSTox_GSID>
+29055
+
+> <DSSTox_FileID_Sort>
+3345
+
+> <TS_ChemName>
+4-Nonylphenol, branched
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+84852-15-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of nonyl isomers; structure shown 7-methyloctyl
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C15H24O
+
+> <STRUCTURE_MW>
+220.3505
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(7-methyloctyl)phenol
+
+> <STRUCTURE_SMILES>
+Oc1ccc(CCCCCCC(C)C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(CCCCCCC(C)C)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

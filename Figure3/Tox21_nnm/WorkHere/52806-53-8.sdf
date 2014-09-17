@@ -1,0 +1,112 @@
+52806-53-8
+ChemmineR-0915142007XD
+
+ 20 20  0  0  0  0  0  0  0  0  2 V2000
+    3.4151   -4.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1167   -4.0013    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.4151   -5.2855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2891   -3.3314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9233   -2.0007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7508   -1.3493    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5783   -3.3314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2891   -2.0007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3314    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1167   -5.3320    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5783   -2.0007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9233   -3.3034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4151   -6.6627    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0844   -5.2855    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7737   -5.2855    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0585   -1.3493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4151   -1.3493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1659   -2.0007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0585    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3055   -0.7351    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  2  0  0  0  0
+  5 16  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 17  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 16 20  1  0  0  0  0
+M  END
+> <ID>
+6635
+
+> <Formula>
+C11H11F3N2O4
+
+> <FW>
+292.2112
+
+> <DSSTox_CID>
+13562
+
+> <DSSTox_RID>
+79084
+
+> <DSSTox_GSID>
+33562
+
+> <DSSTox_FileID_Sort>
+3766
+
+> <TS_ChemName>
+Hydroxyflutamide
+
+> <TS_ChemName_Synonyms>
+2-Hydroxyflutamide; Hydroxyniphtholide
+
+> <TS_CASRN>
+52806-53-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H11F3N2O4
+
+> <STRUCTURE_MW>
+292.2112
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-hydroxy-2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide
+
+> <STRUCTURE_SMILES>
+O=C(Nc1cc(c(cc1)[N+]([O-])=O)C(F)(F)F)C(C)(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Nc1cc(c(cc1)[N+]([O-])=O)C(F)(F)F)C(C)(C)O
+
+> <Substance_modify_yyyymmdd>
+20131003
+
+$$$$

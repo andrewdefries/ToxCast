@@ -1,0 +1,110 @@
+105-95-3
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    3.3979   -2.3801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3481   -3.0132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3481   -4.4076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1620   -5.0407    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1620   -6.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3481   -6.9641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3979   -6.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5519   -6.9641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7299   -6.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8198   -6.9641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0139   -6.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0139   -5.0407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8198   -4.4076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8198   -3.0132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7299   -2.3801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3132   -1.0899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8226   -1.0899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.9961    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0453    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 19  2  0  0  0  0
+M  END
+> <ID>
+10425
+
+> <Formula>
+C15H26O4
+
+> <FW>
+270.3645
+
+> <DSSTox_CID>
+24774
+
+> <DSSTox_RID>
+80465
+
+> <DSSTox_GSID>
+44774
+
+> <DSSTox_FileID_Sort>
+5147
+
+> <TS_ChemName>
+1,4-Dioxacycloheptadecane-5,17-dione
+
+> <TS_ChemName_Synonyms>
+1,4-Dioxacycloheptadecane-5,17-dione (Ethylene brassylate)
+
+> <TS_CASRN>
+105-95-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H26O4
+
+> <STRUCTURE_MW>
+270.3645
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-dioxacycloheptadecane-5,17-dione
+
+> <STRUCTURE_SMILES>
+O=C1CCCCCCCCCCCC(=O)OCCO1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCCCCCCCCCC(=O)OCCO1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

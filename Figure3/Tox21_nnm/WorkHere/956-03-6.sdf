@@ -1,0 +1,107 @@
+956-03-6
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    4.3552    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3552   -1.3346    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5103   -1.9903    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5103   -3.3249    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6498   -4.0039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3210   -2.8410    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8049   -4.6596    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9864   -5.1591    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6596   -5.1591    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9961   -6.2986    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6596   -7.4537    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6693   -6.2986    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9903   -7.4537    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6556   -7.4537    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.2986    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6556   -5.1591    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9903   -5.1591    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2430   -6.2830    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+10879
+
+> <Formula>
+C14H22ClNO2
+
+> <FW>
+271.7830 (235.3220+36.4609)
+
+> <DSSTox_CID>
+25341
+
+> <DSSTox_RID>
+80809
+
+> <DSSTox_GSID>
+45341
+
+> <DSSTox_FileID_Sort>
+5490
+
+> <TS_ChemName>
+Meprylcaine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+956-03-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [495-70-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H22ClNO2
+
+> <STRUCTURE_MW>
+271.783
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-methyl-2-(propylamino)propyl benzoate hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CC(C)(COC(=O)c1ccccc1)NCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(COC(=O)c1ccccc1)NCCC
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

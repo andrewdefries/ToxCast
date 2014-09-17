@@ -1,0 +1,91 @@
+18829-56-6
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    1.1365    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2833   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4405    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5874   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7445    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8914   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0485    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1954   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3319    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6716    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+12237
+
+> <Formula>
+C9H16O
+
+> <FW>
+140.2227
+
+> <DSSTox_CID>
+27086
+
+> <DSSTox_RID>
+82098
+
+> <DSSTox_GSID>
+47086
+
+> <DSSTox_FileID_Sort>
+6779
+
+> <TS_ChemName>
+(E)-2-Nonenal
+
+> <TS_ChemName_Synonyms>
+trans-2-Nonenal
+
+> <TS_CASRN>
+18829-56-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H16O
+
+> <STRUCTURE_MW>
+140.2227
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-non-2-enal
+
+> <STRUCTURE_SMILES>
+CCCCCC\C=C\C=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCC\C=C\C=O
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

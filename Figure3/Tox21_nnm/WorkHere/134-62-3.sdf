@@ -1,0 +1,100 @@
+134-62-3
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    6.6497   -2.3074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9847   -1.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6548   -1.1570    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9898    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6599    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9898   -2.3074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6548   -3.4578    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6599   -2.3074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9949   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -1.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9949   -1.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <ID>
+1847
+
+> <Formula>
+C12H17NO
+
+> <FW>
+191.2695
+
+> <DSSTox_CID>
+1995
+
+> <DSSTox_RID>
+76448
+
+> <DSSTox_GSID>
+21995
+
+> <DSSTox_FileID_Sort>
+1132
+
+> <TS_ChemName>
+N,N-Diethyl-3-methylbenzamide
+
+> <TS_ChemName_Synonyms>
+N,N-Diethyl-3-methylbenzamide (N,N-Diethyl-m-toluamide)  (DEET)
+
+> <TS_CASRN>
+134-62-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H17NO
+
+> <STRUCTURE_MW>
+191.2695
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-diethyl-3-methylbenzamide
+
+> <STRUCTURE_SMILES>
+Cc1cccc(c1)C(=O)N(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cccc(c1)C(=O)N(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,90 @@
+87-60-5
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    1.3315   -4.6073    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -3.4555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -2.3037    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -1.1518    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3265   -1.1518    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9899   -2.3037    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3037    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3265   -3.4555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  2  0  0  0  0
+M  END
+> <ID>
+3865
+
+> <Formula>
+C7H8ClN
+
+> <FW>
+141.5981
+
+> <DSSTox_CID>
+4815
+
+> <DSSTox_RID>
+77541
+
+> <DSSTox_GSID>
+24815
+
+> <DSSTox_FileID_Sort>
+2224
+
+> <TS_ChemName>
+3-Chloro-2-methylaniline
+
+> <TS_ChemName_Synonyms>
+3-Chloro-2-methylaniline (3-Chloro-o-toluidine)
+
+> <TS_CASRN>
+87-60-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H8ClN
+
+> <STRUCTURE_MW>
+141.5981
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-chloro-2-methylaniline
+
+> <STRUCTURE_SMILES>
+Nc1cccc(Cl)c1C
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1cccc(Cl)c1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

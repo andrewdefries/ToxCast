@@ -1,0 +1,83 @@
+96-24-2
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    2.6616    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952   -1.1492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6616   -2.3025    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -2.3025    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6664   -1.1492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3025    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+637
+
+> <Formula>
+C3H7ClO2
+
+> <FW>
+110.5395
+
+> <DSSTox_CID>
+664
+
+> <DSSTox_RID>
+75718
+
+> <DSSTox_GSID>
+20664
+
+> <DSSTox_FileID_Sort>
+402
+
+> <TS_ChemName>
+3-Chloro-1,2-propanediol
+
+> <TS_ChemName_Synonyms>
+3-Chloro-1,2-propanediol (Glycerol alpha-monochlorohydrin) (1,2-Propanediol, 3-chloro-)
+
+> <TS_CASRN>
+96-24-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H7ClO2
+
+> <STRUCTURE_MW>
+110.5395
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-chloropropane-1,2-diol
+
+> <STRUCTURE_SMILES>
+OCC(O)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+OCC(O)CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

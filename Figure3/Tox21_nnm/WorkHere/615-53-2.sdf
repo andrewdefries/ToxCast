@@ -1,0 +1,89 @@
+615-53-2
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6644   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9932   -2.3044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6576   -1.1552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9932    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9924   -1.1552    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6568   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6568    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9855    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+1413
+
+> <Formula>
+C4H8N2O3
+
+> <FW>
+132.1179
+
+> <DSSTox_CID>
+1472
+
+> <DSSTox_RID>
+76172
+
+> <DSSTox_GSID>
+21472
+
+> <DSSTox_FileID_Sort>
+856
+
+> <TS_ChemName>
+N-Nitroso-N-methylurethane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+615-53-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8N2O3
+
+> <STRUCTURE_MW>
+132.1179
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl methyl(nitroso)carbamate
+
+> <STRUCTURE_SMILES>
+CN(N=O)C(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CN(N=O)C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,81 @@
+3252-43-5
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6633   -1.1503    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -2.3041    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6633   -3.4545    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+M  END
+> <ID>
+3926
+
+> <Formula>
+C2HBr2N
+
+> <FW>
+198.844
+
+> <DSSTox_CID>
+4940
+
+> <DSSTox_RID>
+77590
+
+> <DSSTox_GSID>
+24940
+
+> <DSSTox_FileID_Sort>
+2273
+
+> <TS_ChemName>
+Dibromoacetonitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3252-43-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2HBr2N
+
+> <STRUCTURE_MW>
+198.844
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dibromoacetonitrile
+
+> <STRUCTURE_SMILES>
+BrC(Br)C#N
+
+> <STRUCTURE_SMILES_Desalt>
+BrC(Br)C#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

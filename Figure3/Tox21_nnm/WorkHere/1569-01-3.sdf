@@ -1,0 +1,87 @@
+1569-01-3
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    4.6031   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7487   -1.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7487    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9012   -1.9945    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4506   -1.3250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2981   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -1.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+5862
+
+> <Formula>
+C6H14O2
+
+> <FW>
+118.1742
+
+> <DSSTox_CID>
+9217
+
+> <DSSTox_RID>
+78713
+
+> <DSSTox_GSID>
+29217
+
+> <DSSTox_FileID_Sort>
+3395
+
+> <TS_ChemName>
+1-Propoxy-2-propanol
+
+> <TS_ChemName_Synonyms>
+1-Propoxy-2-propanol (Propasol Solvent P) (Propylene glycol propyl ether)
+
+> <TS_CASRN>
+1569-01-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O2
+
+> <STRUCTURE_MW>
+118.1742
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-propoxypropan-2-ol
+
+> <STRUCTURE_SMILES>
+CC(O)COCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)COCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

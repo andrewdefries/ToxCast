@@ -1,0 +1,114 @@
+142217-69-4
+ChemmineR-0915142007XD
+
+ 20 22  0  0  1  0  0  0  0  0  1 V2000
+    3.2323   -1.8685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2323   -3.1083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1519   -1.2398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1519   -3.7282    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0804   -1.8685    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0804   -3.1083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4100   -1.4789    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1450   -2.4795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4100   -3.4891    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.7282    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1519    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3215   -6.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3208   -5.9509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9318   -7.8548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3201   -6.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6921   -7.8548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3208   -4.7111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9571   -8.8555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1335   -6.2962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8678   -5.0742    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  6  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 12  9  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 19  1  1  0  0  0
+ 16 18  1  6  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+11687
+
+> <Formula>
+C12H15N5O3
+
+> <FW>
+277.2792
+
+> <DSSTox_CID>
+26446
+
+> <DSSTox_RID>
+81621
+
+> <DSSTox_GSID>
+46446
+
+> <DSSTox_FileID_Sort>
+6302
+
+> <TS_ChemName>
+Entecavir
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+142217-69-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H15N5O3
+
+> <STRUCTURE_MW>
+277.2792
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-amino-9-[(1S,3R,4S)-4-hydroxy-3-(hydroxymethyl)-2-methylidenecyclopentyl]-1,9-dihydro-6H-purin-6-one
+
+> <STRUCTURE_SMILES>
+C=C1[C@H](CO)[C@@H](O)C[C@@H]1n3cnc2c3N=C(N)NC2=O
+
+> <STRUCTURE_SMILES_Desalt>
+C=C1[C@H](CO)[C@@H](O)C[C@@H]1n3cnc2c3N=C(N)NC2=O
+
+> <Substance_modify_yyyymmdd>
+20110812
+
+$$$$

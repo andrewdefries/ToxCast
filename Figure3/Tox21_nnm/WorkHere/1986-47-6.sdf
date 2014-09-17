@@ -1,0 +1,94 @@
+1986-47-6
+ChemmineR-0915142007XD
+
+ 11 11  0  0  1  0  0  0  0  0  1 V2000
+    3.3663   -1.1378    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0232    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7094   -1.1378    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3048   -1.9236    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8647   -1.8122    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3048   -3.2549    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553   -1.2492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9236    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553   -3.9118    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.2549    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1639   -2.8854    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  1  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+12882
+
+> <Formula>
+C9H12ClN
+
+> <FW>
+169.6513 (133.1903+36.4609)
+
+> <DSSTox_CID>
+27761
+
+> <DSSTox_RID>
+82538
+
+> <DSSTox_GSID>
+47781
+
+> <DSSTox_FileID_Sort>
+7219
+
+> <TS_ChemName>
+Tranylcypromine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1986-47-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [155-09-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12ClN
+
+> <STRUCTURE_MW>
+169.6513
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(1R,2S)-2-phenylcyclopropanamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.N[C@@H]2C[C@H]2c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+N[C@@H]2C[C@H]2c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+
+
+$$$$

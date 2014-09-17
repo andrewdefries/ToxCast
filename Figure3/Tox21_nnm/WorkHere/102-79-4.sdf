@@ -1,0 +1,93 @@
+102-79-4
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    4.6042   -4.6527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3194   -4.6527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4618   -3.9950    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4618   -2.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6042   -1.9940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6042   -0.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7674    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1563   -3.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7674   -3.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9237   -4.6527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+10012
+
+> <Formula>
+C8H19NO2
+
+> <FW>
+161.242
+
+> <DSSTox_CID>
+24354
+
+> <DSSTox_RID>
+80163
+
+> <DSSTox_GSID>
+44354
+
+> <DSSTox_FileID_Sort>
+4845
+
+> <TS_ChemName>
+N-Butyldiethanolamine
+
+> <TS_ChemName_Synonyms>
+Ethanol, 2,2'-(butylimino)bis-
+
+> <TS_CASRN>
+102-79-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H19NO2
+
+> <STRUCTURE_MW>
+161.242
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-(butylimino)diethanol
+
+> <STRUCTURE_SMILES>
+OCCN(CCCC)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+OCCN(CCCC)CCO
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

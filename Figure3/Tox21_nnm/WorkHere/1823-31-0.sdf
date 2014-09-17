@@ -1,0 +1,107 @@
+1823-31-0
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    7.5204   -4.8431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6029   -3.8655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3244   -4.1663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4069   -3.2112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7980   -1.9252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0765   -1.6169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9939   -2.5945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8805   -0.9626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9630    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8431   -0.0451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9029   -1.8801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2037   -3.1736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2486   -4.0760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9626   -3.7075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6543   -2.4065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6319   -1.4890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+11537
+
+> <Formula>
+C17H20
+
+> <FW>
+224.3407
+
+> <DSSTox_CID>
+26243
+
+> <DSSTox_RID>
+81470
+
+> <DSSTox_GSID>
+46243
+
+> <DSSTox_FileID_Sort>
+6151
+
+> <TS_ChemName>
+2,2-Di-4-tolylpropane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1823-31-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H20
+
+> <STRUCTURE_MW>
+224.3407
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1'-propane-2,2-diylbis(4-methylbenzene)
+
+> <STRUCTURE_SMILES>
+Cc1ccc(cc1)C(C)(C)c2ccc(C)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)C(C)(C)c2ccc(C)cc2
+
+> <Substance_modify_yyyymmdd>
+20110817
+
+$$$$

@@ -1,0 +1,92 @@
+873-94-9
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.4469   -0.6719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4469   -2.0018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2918   -2.6599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -2.0018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -0.6719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2918    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6019    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9683   -3.8150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6337   -3.8150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+M  END
+> <ID>
+10643
+
+> <Formula>
+C9H16O
+
+> <FW>
+140.2227
+
+> <DSSTox_CID>
+24996
+
+> <DSSTox_RID>
+80641
+
+> <DSSTox_GSID>
+44996
+
+> <DSSTox_FileID_Sort>
+5323
+
+> <TS_ChemName>
+3,3,5-Trimethylcyclohexanone
+
+> <TS_ChemName_Synonyms>
+3,3,5-Trimethylcyclohexanone (Cyclohexanone, 3,3,5-trimethyl-)
+
+> <TS_CASRN>
+873-94-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H16O
+
+> <STRUCTURE_MW>
+140.2227
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3,5-trimethylcyclohexanone
+
+> <STRUCTURE_SMILES>
+CC1CC(=O)CC(C)(C)C1
+
+> <STRUCTURE_SMILES_Desalt>
+CC1CC(=O)CC(C)(C)C1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,94 @@
+537-92-8
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.3008   -2.6601    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -1.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -0.6633    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547   -1.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -1.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9094   -2.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086   -2.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+3662
+
+> <Formula>
+C9H11NO
+
+> <FW>
+149.1897
+
+> <DSSTox_CID>
+4412
+
+> <DSSTox_RID>
+77391
+
+> <DSSTox_GSID>
+24412
+
+> <DSSTox_FileID_Sort>
+2074
+
+> <TS_ChemName>
+N-Acetyl-m-toluidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+537-92-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11NO
+
+> <STRUCTURE_MW>
+149.1897
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(3-methylphenyl)acetamide
+
+> <STRUCTURE_SMILES>
+O=C(C)Nc1cc(C)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)Nc1cc(C)ccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

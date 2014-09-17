@@ -1,0 +1,87 @@
+762-04-9
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    3.4634   -1.3369    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -1.9949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3205   -1.9949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4634    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7701   -1.3369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9268   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568   -1.3369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+8807
+
+> <Formula>
+C4H11O3P
+
+> <FW>
+138.1021
+
+> <DSSTox_CID>
+21861
+
+> <DSSTox_RID>
+79860
+
+> <DSSTox_GSID>
+41861
+
+> <DSSTox_FileID_Sort>
+4542
+
+> <TS_ChemName>
+Diethyl phosphite
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+762-04-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H11O3P
+
+> <STRUCTURE_MW>
+138.1021
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diethyl hydrogen phosphite
+
+> <STRUCTURE_SMILES>
+CCOP(O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCOP(O)OCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

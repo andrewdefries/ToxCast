@@ -1,0 +1,96 @@
+619-80-7
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  2 V2000
+    2.6616    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9924    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6578   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9885   -1.1511    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    6.6539    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.6539   -2.3023    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9924   -2.3023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6616   -2.3023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3023    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+1929
+
+> <Formula>
+C7H6N2O3
+
+> <FW>
+166.1341
+
+> <DSSTox_CID>
+2086
+
+> <DSSTox_RID>
+76483
+
+> <DSSTox_GSID>
+22086
+
+> <DSSTox_FileID_Sort>
+1167
+
+> <TS_ChemName>
+4-Nitrobenzamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+619-80-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6N2O3
+
+> <STRUCTURE_MW>
+166.1341
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-nitrobenzamide
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccc(cc1)C(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccc(cc1)C(N)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

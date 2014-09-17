@@ -1,0 +1,101 @@
+76-49-3
+ChemmineR-0915142007XD
+
+ 14 15  0  0  1  0  0  0  0  0  1 V2000
+    2.1642   -2.1124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6221   -2.9807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2463   -3.5833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7754   -2.7863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9309   -0.6998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4406   -2.7863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6913   -2.9807    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8446   -1.5357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7970   -0.1426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9742    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6438   -3.6221    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6438   -4.6913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4797   -2.9547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+8631
+
+> <Formula>
+C12H20O2
+
+> <FW>
+196.286
+
+> <DSSTox_CID>
+21675
+
+> <DSSTox_RID>
+79813
+
+> <DSSTox_GSID>
+41675
+
+> <DSSTox_FileID_Sort>
+4495
+
+> <TS_ChemName>
+Bornyl acetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+76-49-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H20O2
+
+> <STRUCTURE_MW>
+196.286
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2R)-1,7,7-trimethylbicyclo[2.2.1]hept-2-yl acetate
+
+> <STRUCTURE_SMILES>
+CC(=O)O[C@@H]1CC2CCC1(C)C2(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)O[C@@H]1CC2CCC1(C)C2(C)C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

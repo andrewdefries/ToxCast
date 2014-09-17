@@ -1,0 +1,89 @@
+1522-92-5
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.9947   -1.9947    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9947   -3.3231    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1476   -3.9893    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6662   -1.9947    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1476    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9947   -0.6662    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8417    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3231   -1.9947    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9893   -3.1476    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+3783
+
+> <Formula>
+C5H9Br3O
+
+> <FW>
+324.8364
+
+> <DSSTox_CID>
+4641
+
+> <DSSTox_RID>
+77480
+
+> <DSSTox_GSID>
+24641
+
+> <DSSTox_FileID_Sort>
+2163
+
+> <TS_ChemName>
+3-Bromo-2,2-bis(bromomethyl)propanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1522-92-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H9Br3O
+
+> <STRUCTURE_MW>
+324.8364
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-bromo-2,2-bis(bromomethyl)propan-1-ol
+
+> <STRUCTURE_SMILES>
+BrCC(CBr)(CBr)CO
+
+> <STRUCTURE_SMILES_Desalt>
+BrCC(CBr)(CBr)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

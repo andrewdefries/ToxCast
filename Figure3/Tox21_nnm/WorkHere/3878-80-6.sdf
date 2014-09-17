@@ -1,0 +1,103 @@
+3878-80-6
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  2 V2000
+    4.1158   -4.6422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9592   -3.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9592    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8106   -0.6541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1158   -0.6541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8106   -2.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1158   -1.9861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9592   -2.6561    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.6561   -6.6443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -6.6443    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6561   -5.3202    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6561   -7.9763    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3320   -5.3202    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.3320   -7.9763    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6443    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3320   -6.6443    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+14154
+
+> <Formula>
+C8H10F3NO3S
+
+> <FW>
+257.2301 (108.1605+149.0697)
+
+> <DSSTox_CID>
+29147
+
+> <DSSTox_RID>
+83366
+
+> <DSSTox_GSID>
+49291
+
+> <DSSTox_FileID_Sort>
+8041
+
+> <TS_ChemName>
+1-Ethylpyridinium trifluoromethanesulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3878-80-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10F3NO3S
+
+> <STRUCTURE_MW>
+257.2301
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-ethylpyridinium trifluoromethanesulfonate
+
+> <STRUCTURE_SMILES>
+CC[n+]1ccccc1.FC(F)(F)S([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC[n+]1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

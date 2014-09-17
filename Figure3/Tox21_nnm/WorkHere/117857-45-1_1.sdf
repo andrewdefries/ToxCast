@@ -1,0 +1,106 @@
+117857-45-1_1
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3047    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -2.3047    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0049   -1.1523    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3352   -1.1523    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9911   -2.3047    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3352   -3.4570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0049   -3.4570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3214   -2.3047    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9866   -3.4570    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9866   -1.1523    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3169   -1.1523    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1039   -0.0749    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3687   -0.4965    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3687   -1.8269    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1039   -2.2204    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9911    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8061   -4.6094    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+11118
+
+> <Formula>
+C10H7Cl4N3
+
+> <FW>
+310.9947 (274.5337+36.4609)
+
+> <DSSTox_CID>
+25676
+
+> <DSSTox_RID>
+81050
+
+> <DSSTox_GSID>
+45676
+
+> <DSSTox_FileID_Sort>
+5731
+
+> <TS_ChemName>
+Loreclezole hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+117857-45-1_1
+
+> <CASRN_ChemName_Relationship>
+CAS for parent
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+CAS for Lorezlezole
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H7Cl4N3
+
+> <STRUCTURE_MW>
+310.9947
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-[(Z)-2-chloro-2-(2,4-dichlorophenyl)ethenyl]-1H-1,2,4-triazole hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Cl\C(=C/n1cncn1)c2ccc(Cl)cc2Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Cl\C(=C/n1cncn1)c2ccc(Cl)cc2Cl
+
+> <Substance_modify_yyyymmdd>
+20130911
+
+$$$$

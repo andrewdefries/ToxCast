@@ -1,0 +1,78 @@
+1762-95-4
+ChemmineR-0915142007XD
+
+  4  2  0  0  0  0  0  0  0  0  2 V2000
+    1.3300    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  5  0  0  0  0  0  0  0  0  0  0
+    5.3629    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  1  3  1  0  0  0  0
+M  END
+> <ID>
+6103
+
+> <Formula>
+CH4N2S
+
+> <FW>
+76.1209 (58.0829+18.0379)
+
+> <DSSTox_CID>
+9653
+
+> <DSSTox_RID>
+78797
+
+> <DSSTox_GSID>
+29653
+
+> <DSSTox_FileID_Sort>
+3479
+
+> <TS_ChemName>
+Thiocyanic acid, ammonium salt
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1762-95-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [463-56-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH4N2S
+
+> <STRUCTURE_MW>
+76.1209
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+ammonium thiocyanate
+
+> <STRUCTURE_SMILES>
+[NH4+].[S-]C#N
+
+> <STRUCTURE_SMILES_Desalt>
+N#CS
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

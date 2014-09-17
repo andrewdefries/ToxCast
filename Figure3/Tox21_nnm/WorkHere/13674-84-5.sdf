@@ -1,0 +1,105 @@
+13674-84-5
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+    4.6555   -3.9894    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3306   -3.9894    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3306   -5.3216    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4798   -5.9877    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6290   -5.3216    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6290   -3.9894    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4798   -7.3199    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9983   -3.9894    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3322   -5.1459    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9983   -6.2951    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3306   -6.2951    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.1459    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3306   -2.6645    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4798   -1.9983    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4798   -0.6661    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3306    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6290   -2.6645    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+4622
+
+> <Formula>
+C9H18Cl3O4P
+
+> <FW>
+327.5696
+
+> <DSSTox_CID>
+6259
+
+> <DSSTox_RID>
+78077
+
+> <DSSTox_GSID>
+26259
+
+> <DSSTox_FileID_Sort>
+2760
+
+> <TS_ChemName>
+Tris(2-chloroisopropyl)phosphate
+
+> <TS_ChemName_Synonyms>
+2-Propanol, 1-chloro-, phosphate (3:1); TCPP
+
+> <TS_CASRN>
+13674-84-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18Cl3O4P
+
+> <STRUCTURE_MW>
+327.5696
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tris(1-chloropropan-2-yl) phosphate
+
+> <STRUCTURE_SMILES>
+ClCC(C)OP(=O)(OC(C)CCl)OC(C)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+ClCC(C)OP(=O)(OC(C)CCl)OC(C)CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

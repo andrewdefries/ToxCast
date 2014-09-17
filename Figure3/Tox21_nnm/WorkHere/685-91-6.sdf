@@ -1,0 +1,87 @@
+685-91-6
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    3.9901   -1.1531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6614   -1.1531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9951    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9951   -2.3023    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6614   -3.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901   -3.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6664   -2.3023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+443
+
+> <Formula>
+C6H13NO
+
+> <FW>
+115.1735
+
+> <DSSTox_CID>
+459
+
+> <DSSTox_RID>
+75604
+
+> <DSSTox_GSID>
+20459
+
+> <DSSTox_FileID_Sort>
+288
+
+> <TS_ChemName>
+Diethylacetamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+685-91-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H13NO
+
+> <STRUCTURE_MW>
+115.1735
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-diethylacetamide
+
+> <STRUCTURE_SMILES>
+CCN(CC)C(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)C(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

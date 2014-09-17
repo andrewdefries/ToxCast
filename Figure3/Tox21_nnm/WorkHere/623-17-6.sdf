@@ -1,0 +1,92 @@
+623-17-6
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.5576    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5576   -1.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4099   -1.9935    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2554   -1.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1076   -1.9935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9667   -3.3158    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6645   -3.5910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8927   -1.4498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7121   -1.9935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4155
+
+> <Formula>
+C7H8O3
+
+> <FW>
+140.1366
+
+> <DSSTox_CID>
+5346
+
+> <DSSTox_RID>
+77759
+
+> <DSSTox_GSID>
+25346
+
+> <DSSTox_FileID_Sort>
+2442
+
+> <TS_ChemName>
+Furfuryl acetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+623-17-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H8O3
+
+> <STRUCTURE_MW>
+140.1366
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+furan-2-ylmethyl acetate
+
+> <STRUCTURE_SMILES>
+O=C(C)OCc1ccco1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)OCc1ccco1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

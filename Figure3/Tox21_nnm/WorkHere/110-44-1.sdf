@@ -1,0 +1,87 @@
+110-44-1
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    1.1568    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568   -1.3369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3136   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4565   -1.3369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6133   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7701   -1.3369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9269   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+1228
+
+> <Formula>
+C6H8O2
+
+> <FW>
+112.1265
+
+> <DSSTox_CID>
+1277
+
+> <DSSTox_RID>
+76053
+
+> <DSSTox_GSID>
+21277
+
+> <DSSTox_FileID_Sort>
+737
+
+> <TS_ChemName>
+Sorbic acid
+
+> <TS_ChemName_Synonyms>
+Sorbic acid (2,4-Hexadienoic acid, (2E,4E)-)
+
+> <TS_CASRN>
+110-44-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8O2
+
+> <STRUCTURE_MW>
+112.1265
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E,4E)-hexa-2,4-dienoic acid
+
+> <STRUCTURE_SMILES>
+C\C=C\C=C\C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+C\C=C\C=C\C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

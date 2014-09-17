@@ -1,0 +1,91 @@
+1670-14-0
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.2860    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1291   -1.9922    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2813   -1.3306    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4335   -1.9922    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4335   -3.3153    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2813   -3.9918    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1291   -3.3153    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9695   -1.3306    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8173   -1.9922    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9695    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+10058
+
+> <Formula>
+C7H9ClN2
+
+> <FW>
+156.6128 (36.4609+120.1518)
+
+> <DSSTox_CID>
+24401
+
+> <DSSTox_RID>
+80202
+
+> <DSSTox_GSID>
+44401
+
+> <DSSTox_FileID_Sort>
+4884
+
+> <TS_ChemName>
+Benzenecarboximidamide, monohydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1670-14-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [618-39-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H9ClN2
+
+> <STRUCTURE_MW>
+156.6128
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+benzenecarboximidamide hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.N=C(N)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+N=C(N)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

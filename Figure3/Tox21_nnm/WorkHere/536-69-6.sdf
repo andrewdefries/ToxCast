@@ -1,0 +1,98 @@
+536-69-6
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    3.4599   -2.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4599   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3066    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1533   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1533   -2.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6051    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7584   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7584   -2.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9116   -2.6614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0649   -2.0001    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9116   -3.9921    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6051   -2.6614    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+2773
+
+> <Formula>
+C10H13NO2
+
+> <FW>
+179.2157
+
+> <DSSTox_CID>
+3085
+
+> <DSSTox_RID>
+76868
+
+> <DSSTox_GSID>
+23085
+
+> <DSSTox_FileID_Sort>
+1552
+
+> <TS_ChemName>
+Fusaric acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+536-69-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13NO2
+
+> <STRUCTURE_MW>
+179.2157
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-butylpyridine-2-carboxylic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1ccc(CCCC)cn1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1ccc(CCCC)cn1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

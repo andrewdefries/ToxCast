@@ -1,0 +1,111 @@
+120-40-1
+ChemmineR-0915142007XD
+
+ 20 19  0  0  0  0  0  0  0  0  1 V2000
+   10.3682   -1.9927    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5218   -2.6670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6755   -1.9927    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8292   -2.6670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8292   -4.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9829   -4.6597    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6755   -0.6742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5218    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3682   -0.6742    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5218   -4.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3682   -4.6597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2145   -4.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0608   -4.6597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9071   -4.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7684   -4.6597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6147   -4.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4610   -4.6597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3074   -4.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -4.6597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+4227
+
+> <Formula>
+C16H33NO3
+
+> <FW>
+287.4381
+
+> <DSSTox_CID>
+5491
+
+> <DSSTox_RID>
+77808
+
+> <DSSTox_GSID>
+25491
+
+> <DSSTox_FileID_Sort>
+2491
+
+> <TS_ChemName>
+N,N-Bis(2-hydroxyethyl)dodecanamide
+
+> <TS_ChemName_Synonyms>
+N,N-Bis(2-hydroxyethyl)dodecanamide (Lauric acid diethanolamine condensate) (Dodecanamide, N,N-bis(2-hydroxyethyl)-)
+
+> <TS_CASRN>
+120-40-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H33NO3
+
+> <STRUCTURE_MW>
+287.4381
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-bis(2-hydroxyethyl)dodecanamide
+
+> <STRUCTURE_SMILES>
+O=C(CCCCCCCCCCC)N(CCO)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCCCCCCCC)N(CCO)CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

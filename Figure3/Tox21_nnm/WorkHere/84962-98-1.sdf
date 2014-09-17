@@ -1,0 +1,96 @@
+84962-98-1
+ChemmineR-0915142007XD
+
+ 13 11  0  0  0  0  0  0  0  0  2 V2000
+    2.5618   -1.8028    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4137   -2.4764    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7194   -1.1481    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9071   -0.6547    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.2355   -2.9603    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8770   -1.8028    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0250   -1.1481    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1826   -1.8028    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3307   -1.1481    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9949   -2.3056    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6570    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.4882   -0.4744    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0342    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <ID>
+10482
+
+> <Formula>
+C4H12NaO6PSi
+
+> <FW>
+238.1835 (215.1943+22.9892)
+
+> <DSSTox_CID>
+24834
+
+> <DSSTox_RID>
+80515
+
+> <DSSTox_GSID>
+44834
+
+> <DSSTox_FileID_Sort>
+5197
+
+> <TS_ChemName>
+Sodium 3-(trihydroxysilyl)propyl methylphosphonate
+
+> <TS_ChemName_Synonyms>
+Sodium 3-(trihydroxysilyl)propyl methylphosphonate (Phosphonic acid, methyl-, mono[3-(trihydroxysilyl)propyl] ester, monosodium salt)
+
+> <TS_CASRN>
+84962-98-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [482371-07-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H12NaO6PSi
+
+> <STRUCTURE_MW>
+238.1835
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+sodium 3-(trihydroxysilyl)propyl methylphosphonate
+
+> <STRUCTURE_SMILES>
+[Na+].O[Si](O)(O)CCCOP([O-])(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O[Si](O)(O)CCCOP(C)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

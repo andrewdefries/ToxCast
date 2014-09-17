@@ -1,0 +1,105 @@
+602-38-0
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  2 V2000
+    5.9937   -4.3486    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.9897   -3.5079    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.2195   -2.2197    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3930   -4.0885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2620   -3.4353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1310   -4.0885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1310   -5.3949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2620   -6.0481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1310   -1.4757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2620   -2.1289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2660   -1.2882    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.0362    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4937   -1.7358    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.3930   -5.3949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 16  2  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+4057
+
+> <Formula>
+C10H6N2O4
+
+> <FW>
+218.1656
+
+> <DSSTox_CID>
+5166
+
+> <DSSTox_RID>
+77694
+
+> <DSSTox_GSID>
+25166
+
+> <DSSTox_FileID_Sort>
+2377
+
+> <TS_ChemName>
+1,8-Dinitronaphthalene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+602-38-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H6N2O4
+
+> <STRUCTURE_MW>
+218.1656
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,8-dinitronaphthalene
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c1cccc2cccc([N+]([O-])=O)c12
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c1cccc2cccc([N+]([O-])=O)c12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

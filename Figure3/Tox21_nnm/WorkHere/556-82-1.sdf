@@ -1,0 +1,83 @@
+556-82-1
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.1553   -1.3355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3105   -1.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4658   -1.3355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6211   -1.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4658    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+> <ID>
+4996
+
+> <Formula>
+C5H10O
+
+> <FW>
+86.1323
+
+> <DSSTox_CID>
+7206
+
+> <DSSTox_RID>
+78350
+
+> <DSSTox_GSID>
+27206
+
+> <DSSTox_FileID_Sort>
+3033
+
+> <TS_ChemName>
+3-Methyl-2-buten-1-ol
+
+> <TS_ChemName_Synonyms>
+3-Methylbut-2-en-1-ol
+
+> <TS_CASRN>
+556-82-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10O
+
+> <STRUCTURE_MW>
+86.1323
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylbut-2-en-1-ol
+
+> <STRUCTURE_SMILES>
+C/C(C)=C\CO
+
+> <STRUCTURE_SMILES_Desalt>
+C/C(C)=C\CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,89 @@
+60643-86-9
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    5.7583   -1.3326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7583    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1461   -1.3464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6053   -2.0023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9045   -1.9954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2992   -3.3418    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2992   -2.0092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4522   -1.3395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+8145
+
+> <Formula>
+C6H11NO2
+
+> <FW>
+129.157
+
+> <DSSTox_CID>
+21153
+
+> <DSSTox_RID>
+79637
+
+> <DSSTox_GSID>
+41153
+
+> <DSSTox_FileID_Sort>
+4319
+
+> <TS_ChemName>
+Vigabatrin
+
+> <TS_ChemName_Synonyms>
+Vigabatrin (VGB)
+
+> <TS_CASRN>
+60643-86-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H11NO2
+
+> <STRUCTURE_MW>
+129.157
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-aminohex-5-enoic acid
+
+> <STRUCTURE_SMILES>
+C=CC(N)CCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(N)CCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

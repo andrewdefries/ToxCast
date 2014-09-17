@@ -1,0 +1,90 @@
+7665-72-7
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.8168    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -1.8168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4818   -1.1518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6336   -1.8168    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7855   -1.1518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4504   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1205    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9373   -0.4869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -2.9686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+> <ID>
+3813
+
+> <Formula>
+C7H14O2
+
+> <FW>
+130.1849
+
+> <DSSTox_CID>
+4692
+
+> <DSSTox_RID>
+77502
+
+> <DSSTox_GSID>
+24692
+
+> <DSSTox_FileID_Sort>
+2185
+
+> <TS_ChemName>
+tert-Butyl glycidyl ether
+
+> <TS_ChemName_Synonyms>
+tert-Butyl glycidyl ether (Oxirane, [(1,1-dimethylethoxy)methyl]-)
+
+> <TS_CASRN>
+7665-72-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O2
+
+> <STRUCTURE_MW>
+130.1849
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(tert-butoxymethyl)oxirane
+
+> <STRUCTURE_SMILES>
+CC(C)(C)OCC1CO1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)OCC1CO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,90 @@
+2038-03-1
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    5.9876    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6584    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9878   -1.1496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6585   -1.1496    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1496    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9999   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9999    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6706   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6706    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+10065
+
+> <Formula>
+C6H14N2O
+
+> <FW>
+130.1882
+
+> <DSSTox_CID>
+24408
+
+> <DSSTox_RID>
+80207
+
+> <DSSTox_GSID>
+44408
+
+> <DSSTox_FileID_Sort>
+4889
+
+> <TS_ChemName>
+2-Morpholinoethylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2038-03-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14N2O
+
+> <STRUCTURE_MW>
+130.1882
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(morpholin-4-yl)ethanamine
+
+> <STRUCTURE_SMILES>
+NCCN1CCOCC1
+
+> <STRUCTURE_SMILES_Desalt>
+NCCN1CCOCC1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

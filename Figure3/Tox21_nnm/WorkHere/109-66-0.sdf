@@ -1,0 +1,81 @@
+109-66-0
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    1.1525    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+4433
+
+> <Formula>
+C5H12
+
+> <FW>
+72.1488
+
+> <DSSTox_CID>
+5846
+
+> <DSSTox_RID>
+77944
+
+> <DSSTox_GSID>
+25846
+
+> <DSSTox_FileID_Sort>
+2627
+
+> <TS_ChemName>
+Pentane
+
+> <TS_ChemName_Synonyms>
+Pentane (n-Pentane)
+
+> <TS_CASRN>
+109-66-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H12
+
+> <STRUCTURE_MW>
+72.1488
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pentane
+
+> <STRUCTURE_SMILES>
+CCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

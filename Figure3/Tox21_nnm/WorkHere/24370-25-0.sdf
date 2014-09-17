@@ -1,0 +1,99 @@
+24370-25-0
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    2.3042   -3.4147    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1483   -2.7499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4147    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1483   -1.4203    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4525   -2.7499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5960   -1.4278    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8955   -1.1483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5603    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8899    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5547   -1.1483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8899   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5603   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6688   -3.2939    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+3747
+
+> <Formula>
+C8H8N4O
+
+> <FW>
+176.1753
+
+> <DSSTox_CID>
+4574
+
+> <DSSTox_RID>
+77455
+
+> <DSSTox_GSID>
+24574
+
+> <DSSTox_FileID_Sort>
+2138
+
+> <TS_ChemName>
+2-Benzimidazolylurea
+
+> <TS_ChemName_Synonyms>
+Benzimidazol-2-ylurea
+
+> <TS_CASRN>
+24370-25-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8N4O
+
+> <STRUCTURE_MW>
+176.1753
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(1H-benzimidazol-2-yl)urea
+
+> <STRUCTURE_SMILES>
+NC(=O)Nc1nc2ccccc2n1
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)Nc1nc2ccccc2n1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

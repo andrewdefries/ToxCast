@@ -1,0 +1,92 @@
+6338-41-6
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.3512   -1.2690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0572   -1.5379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2514   -2.2443    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5133   -2.7569    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1943   -2.6131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9254   -1.3128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0632   -0.6439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7701    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3003   -3.6071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3195    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+6597
+
+> <Formula>
+C6H6O4
+
+> <FW>
+142.1094
+
+> <DSSTox_CID>
+13098
+
+> <DSSTox_RID>
+79050
+
+> <DSSTox_GSID>
+33098
+
+> <DSSTox_FileID_Sort>
+3732
+
+> <TS_ChemName>
+5-(Hydroxymethyl)-2-furoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6338-41-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6O4
+
+> <STRUCTURE_MW>
+142.1094
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-(hydroxymethyl)furan-2-carboxylic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1ccc(CO)o1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1ccc(CO)o1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

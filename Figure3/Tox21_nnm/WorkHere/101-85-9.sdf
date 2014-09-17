@@ -1,0 +1,102 @@
+101-85-9
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    2.3086   -4.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4587   -3.9861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6087   -4.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6087   -5.9921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7673   -6.6493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7673   -7.9722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9173   -8.6466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3086   -5.9921    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4587   -2.6545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1500    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3086   -0.6744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3086   -1.9974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1500   -2.6545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+14257
+
+> <Formula>
+C14H20O
+
+> <FW>
+204.308
+
+> <DSSTox_CID>
+29352
+
+> <DSSTox_RID>
+83468
+
+> <DSSTox_GSID>
+49393
+
+> <DSSTox_FileID_Sort>
+8143
+
+> <TS_ChemName>
+alpha-Amylcinnamyl alcohol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+101-85-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20O
+
+> <STRUCTURE_MW>
+204.308
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2Z)-2-benzylideneheptan-1-ol
+
+> <STRUCTURE_SMILES>
+CCCCCC(/CO)=C/c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCC(/CO)=C/c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

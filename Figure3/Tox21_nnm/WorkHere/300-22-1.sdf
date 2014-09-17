@@ -1,0 +1,94 @@
+300-22-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.6598   -5.7572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920   -4.6058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6598   -3.4543    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920   -2.3029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6621   -2.3029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6621   -4.6058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6598   -1.1514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9898   -1.1514    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+16107
+
+> <Formula>
+C6H9N3O2
+
+> <FW>
+155.1546
+
+> <DSSTox_CID>
+31494
+
+> <DSSTox_RID>
+97379
+
+> <DSSTox_GSID>
+57705
+
+> <DSSTox_FileID_Sort>
+8446
+
+> <TS_ChemName>
+Medazomide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+300-22-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H9N3O2
+
+> <STRUCTURE_MW>
+155.1546
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methyl-6-oxo-1,4,5,6-tetrahydropyridazine-3-carboxamide
+
+> <STRUCTURE_SMILES>
+O=C(N)C=1CCC(=O)N(C)N=1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(N)C=1CCC(=O)N(C)N=1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

@@ -1,0 +1,95 @@
+116-06-3
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    1.6031    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2878   -1.1522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9307   -2.2711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2415   -2.2711    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7528   -2.2878    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2036   -1.0771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3854   -0.0501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5145   -0.8516    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3495   -1.8619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1355   -1.8035    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4066   -0.4926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+38
+
+> <Formula>
+C7H14N2O2S
+
+> <FW>
+190.2633
+
+> <DSSTox_CID>
+39
+
+> <DSSTox_RID>
+79422
+
+> <DSSTox_GSID>
+39223
+
+> <DSSTox_FileID_Sort>
+4104
+
+> <TS_ChemName>
+Aldicarb
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+116-06-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14N2O2S
+
+> <STRUCTURE_MW>
+190.2633
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+7,7-dimethyl-4-oxa-8-thia-2,5-diazanon-5-en-3-one
+
+> <STRUCTURE_SMILES>
+CC(C)(\C=N\OC(=O)NC)SC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(\C=N\OC(=O)NC)SC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

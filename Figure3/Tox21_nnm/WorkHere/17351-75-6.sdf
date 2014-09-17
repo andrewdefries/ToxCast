@@ -1,0 +1,100 @@
+17351-75-6
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    6.9008   -1.9930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9008   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7487   -0.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5967   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5967   -1.9930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7487   -2.6727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0528   -2.6727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2049   -2.0161    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3684   -2.6843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5205   -2.0161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -0.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -0.6682    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+10258
+
+> <Formula>
+C12H20O2
+
+> <FW>
+196.286
+
+> <DSSTox_CID>
+24604
+
+> <DSSTox_RID>
+80345
+
+> <DSSTox_GSID>
+44604
+
+> <DSSTox_FileID_Sort>
+5027
+
+> <TS_ChemName>
+1,4-Bis[(ethenyloxy)methyl]cyclohexane
+
+> <TS_ChemName_Synonyms>
+1,4-Bis[(ethenyloxy)methyl]cyclohexane (Cyclohexane, 1,4-bis[(ethenyloxy)methyl]-)
+
+> <TS_CASRN>
+17351-75-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H20O2
+
+> <STRUCTURE_MW>
+196.286
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-bis[(ethenyloxy)methyl]cyclohexane
+
+> <STRUCTURE_SMILES>
+C=COCC1CCC(COC=C)CC1
+
+> <STRUCTURE_SMILES_Desalt>
+C=COCC1CCC(COC=C)CC1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,107 @@
+98206-09-8
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    1.1617   -6.6384    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9745    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6535    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1617   -3.9830    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2836   -5.9745    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2836   -4.6535    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453   -3.9830    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6070   -4.6535    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6070   -5.9745    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453   -6.6384    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6070   -0.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6070   -1.9849    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453   -2.6553    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2836   -1.9849    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2836   -0.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4453    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1779   -3.4121    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+11397
+
+> <Formula>
+C12H17ClN2O2
+
+> <FW>
+256.7286 (220.2676+36.4609)
+
+> <DSSTox_CID>
+26090
+
+> <DSSTox_RID>
+81329
+
+> <DSSTox_GSID>
+46090
+
+> <DSSTox_FileID_Sort>
+6010
+
+> <TS_ChemName>
+Eltoprazine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+98206-09-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [98224-03-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H17ClN2O2
+
+> <STRUCTURE_MW>
+256.7286
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-(2,3-dihydro-1,4-benzodioxin-5-yl)piperazine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.c1cc(c2OCCOc2c1)N3CCNCC3
+
+> <STRUCTURE_SMILES_Desalt>
+c1cc(c2OCCOc2c1)N3CCNCC3
+
+> <Substance_modify_yyyymmdd>
+20110819
+
+$$$$

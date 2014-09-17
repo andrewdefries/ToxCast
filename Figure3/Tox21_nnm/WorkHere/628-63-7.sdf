@@ -1,0 +1,89 @@
+628-63-7
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1483   -0.6745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1483   -1.9994    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2965    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4448   -0.6745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5850    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7333   -0.6745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8815    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0298   -0.6745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+5030
+
+> <Formula>
+C7H14O2
+
+> <FW>
+130.1849
+
+> <DSSTox_CID>
+7263
+
+> <DSSTox_RID>
+78375
+
+> <DSSTox_GSID>
+27263
+
+> <DSSTox_FileID_Sort>
+3058
+
+> <TS_ChemName>
+Pentyl acetate
+
+> <TS_ChemName_Synonyms>
+Acetic acid, pentyl ester; n-Amyl acetate
+
+> <TS_CASRN>
+628-63-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O2
+
+> <STRUCTURE_MW>
+130.1849
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pentyl acetate
+
+> <STRUCTURE_SMILES>
+CC(=O)OCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)OCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

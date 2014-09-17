@@ -1,0 +1,113 @@
+220991-20-8
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    5.9955   -6.9039    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9985    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7532    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4433    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6748   -4.5939    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9985   -4.5939    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9955   -2.2926    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6631   -4.5939    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9883   -1.1333    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6631   -2.2926    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6560   -1.1333    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9883   -3.4433    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9985   -2.2926    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6560   -3.4433    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9767   -3.4433    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6515   -4.5939    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6530   -3.4433    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9767   -5.7532    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9955   -4.5939    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6530   -5.7532    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <ID>
+14019
+
+> <Formula>
+C15H13ClFNO2
+
+> <FW>
+293.7206
+
+> <DSSTox_CID>
+28961
+
+> <DSSTox_RID>
+83226
+
+> <DSSTox_GSID>
+49035
+
+> <DSSTox_FileID_Sort>
+7902
+
+> <TS_ChemName>
+Lumiracoxib
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+220991-20-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H13ClFNO2
+
+> <STRUCTURE_MW>
+293.7206
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+{2-[(2-chloro-6-fluorophenyl)amino]-5-methylphenyl}acetic acid
+
+> <STRUCTURE_SMILES>
+Clc2cccc(F)c2Nc1ccc(C)cc1CC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2cccc(F)c2Nc1ccc(C)cc1CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

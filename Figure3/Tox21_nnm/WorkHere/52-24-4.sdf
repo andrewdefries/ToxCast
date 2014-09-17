@@ -1,0 +1,96 @@
+52-24-4
+ChemmineR-0915142007XD
+
+ 11 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.4817    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3302   -2.4817    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3302   -1.1515    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6651    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9953    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6604   -2.4817    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8119   -1.8166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8119   -3.1468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3302   -3.8119    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9953   -4.9634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6651   -4.9634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+1286
+
+> <Formula>
+C6H12N3PS
+
+> <FW>
+189.2183
+
+> <DSSTox_CID>
+1339
+
+> <DSSTox_RID>
+76093
+
+> <DSSTox_GSID>
+21339
+
+> <DSSTox_FileID_Sort>
+777
+
+> <TS_ChemName>
+Thiotepa
+
+> <TS_ChemName_Synonyms>
+Tris(aziridinyl)-phosphine sulfide (Thio-TEPA)
+
+> <TS_CASRN>
+52-24-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12N3PS
+
+> <STRUCTURE_MW>
+189.2183
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1',1''-phosphorothioyltriaziridine
+
+> <STRUCTURE_SMILES>
+S=P(N1CC1)(N2CC2)N3CC3
+
+> <STRUCTURE_SMILES_Desalt>
+S=P(N1CC1)(N2CC2)N3CC3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

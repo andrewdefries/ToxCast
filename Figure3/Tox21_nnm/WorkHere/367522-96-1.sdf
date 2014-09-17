@@ -1,0 +1,107 @@
+367522-96-1
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  2 V2000
+    5.6765   -4.3380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0092   -3.1957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3380   -4.3380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6652   -3.1816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3337    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9951    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3477   -3.1957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7472   -1.2544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5957   -1.2685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6749   -2.0393    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.3315   -5.6905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.6905    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -7.0080    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -4.3590    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6701   -7.0080    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.6701   -4.3590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0016   -5.6905    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6701   -5.6905    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+14148
+
+> <Formula>
+C10H20F3NO3S
+
+> <FW>
+291.3309 (142.2613+149.0697)
+
+> <DSSTox_CID>
+29141
+
+> <DSSTox_RID>
+83360
+
+> <DSSTox_GSID>
+49285
+
+> <DSSTox_FileID_Sort>
+8035
+
+> <TS_ChemName>
+1-Butyl-1-methylpyrrolidinium trifluoromethanesulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+367522-96-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20F3NO3S
+
+> <STRUCTURE_MW>
+291.3309
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-butyl-1-methylpyrrolidinium trifluoromethanesulfonate
+
+> <STRUCTURE_SMILES>
+CCCC[N+]1(C)CCCC1.FC(F)(F)S([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC[N+]1(C)CCCC1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

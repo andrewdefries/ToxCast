@@ -1,0 +1,103 @@
+12674-11-2
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    2.6587   -2.3065    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9941   -3.4564    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6647   -3.4564    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3065    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6647   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9941   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9881   -2.3065    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6528   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9822   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6469   -2.3065    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9822   -3.4564    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6528   -3.4564    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6063    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6469    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6469   -4.6063    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+M  END
+> <ID>
+3407
+
+> <Formula>
+C12H7Cl3
+
+> <FW>
+257.543
+
+> <DSSTox_CID>
+3883
+
+> <DSSTox_RID>
+77218
+
+> <DSSTox_GSID>
+23883
+
+> <DSSTox_FileID_Sort>
+1901
+
+> <TS_ChemName>
+Aroclor 1016
+
+> <TS_ChemName_Synonyms>
+Aroclor 1016 (PCB)
+
+> <TS_CASRN>
+12674-11-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of polychlorinated biphenyls (PCB) containing 41% Cl; approx ratio of PCB's 2Cl 18%; 3Cl 55%; 4Cl 26%; structure shown 3,3',5-trichlorobiphenyl (PCB 36) [38444-87-0]
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C12H7Cl3
+
+> <STRUCTURE_MW>
+257.543
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3',5-trichlorobiphenyl
+
+> <STRUCTURE_SMILES>
+Clc1cc(cc(Cl)c1)c2cccc(Cl)c2
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(cc(Cl)c1)c2cccc(Cl)c2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

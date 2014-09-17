@@ -1,0 +1,107 @@
+112-88-9
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3099   -0.6656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4648    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6198   -0.6656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7551    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9101   -0.6656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0650    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2199   -0.6656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3553    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5102   -0.6656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6652    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8201   -0.6656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9555    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1104   -0.6656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2654    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4203   -0.6656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5752    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+4857
+
+> <Formula>
+C18H36
+
+> <FW>
+252.4784
+
+> <DSSTox_CID>
+6932
+
+> <DSSTox_RID>
+78260
+
+> <DSSTox_GSID>
+26932
+
+> <DSSTox_FileID_Sort>
+2943
+
+> <TS_ChemName>
+1-Octadecene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+112-88-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H36
+
+> <STRUCTURE_MW>
+252.4784
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+octadec-1-ene
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCCCCCCCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCCCCCCCC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

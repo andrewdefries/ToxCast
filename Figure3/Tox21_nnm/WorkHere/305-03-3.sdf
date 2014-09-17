@@ -1,0 +1,110 @@
+305-03-3
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    9.9785   -2.3050    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3099   -3.4526    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9828   -3.4526    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3142   -4.6101    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9871   -4.6101    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3185   -5.7576    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9914   -5.7576    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3228   -4.6101    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9914   -3.4526    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3185   -3.4526    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9957   -4.6101    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3271   -3.4526    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9957   -2.3050    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3271   -1.1475    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1475    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9957    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9828   -5.7576    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3099   -5.7576    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9785   -4.6101    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+256
+
+> <Formula>
+C14H19Cl2NO2
+
+> <FW>
+304.2122
+
+> <DSSTox_CID>
+263
+
+> <DSSTox_RID>
+75472
+
+> <DSSTox_GSID>
+20263
+
+> <DSSTox_FileID_Sort>
+156
+
+> <TS_ChemName>
+Chlorambucil
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+305-03-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H19Cl2NO2
+
+> <STRUCTURE_MW>
+304.2122
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-{4-[bis(2-chloroethyl)amino]phenyl}butanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCCc1ccc(cc1)N(CCCl)CCCl
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCCc1ccc(cc1)N(CCCl)CCCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,112 @@
+147-24-0
+ChemmineR-0915142007XD
+
+ 20 20  0  0  0  0  0  0  0  0  1 V2000
+    4.9644   -5.8638    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9957   -3.4595    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6638   -3.4595    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9979   -4.6098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6660   -4.6098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4595    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6660   -2.3092    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9979   -2.3092    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6530   -2.3092    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9957   -1.1503    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6530    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9849    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6509   -1.1503    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9849   -2.3092    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6530   -4.6098    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9849   -4.6098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6509   -3.4595    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9828   -3.4595    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6487   -2.3092    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6487   -4.6098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <ID>
+516
+
+> <Formula>
+C17H22ClNO
+
+> <FW>
+291.8157 (36.4609+255.3547)
+
+> <DSSTox_CID>
+537
+
+> <DSSTox_RID>
+75646
+
+> <DSSTox_GSID>
+20537
+
+> <DSSTox_FileID_Sort>
+330
+
+> <TS_ChemName>
+Diphenhydramine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+147-24-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [58-73-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H22ClNO
+
+> <STRUCTURE_MW>
+291.8157
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-(diphenylmethoxy)-N,N-dimethylethanamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CN(C)CCOC(c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCOC(c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

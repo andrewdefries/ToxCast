@@ -1,0 +1,89 @@
+107-45-9
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.7391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1091   -1.1091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4614    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0160   -2.5732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2183   -0.4614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3274   -1.1091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9574    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4365   -1.7391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0346   -2.5732    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <ID>
+1765
+
+> <Formula>
+C8H19N
+
+> <FW>
+129.2432
+
+> <DSSTox_CID>
+1886
+
+> <DSSTox_RID>
+76385
+
+> <DSSTox_GSID>
+21886
+
+> <DSSTox_FileID_Sort>
+1069
+
+> <TS_ChemName>
+2,4,4-Trimethyl-2-pentanamine
+
+> <TS_ChemName_Synonyms>
+tert-Octylamine
+
+> <TS_CASRN>
+107-45-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H19N
+
+> <STRUCTURE_MW>
+129.2432
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4,4-trimethylpentan-2-amine
+
+> <STRUCTURE_SMILES>
+CC(C)(C)CC(C)(C)N
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)CC(C)(C)N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

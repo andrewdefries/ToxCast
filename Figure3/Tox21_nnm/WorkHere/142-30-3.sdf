@@ -1,0 +1,91 @@
+142-30-3
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    1.3285    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3285   -1.3352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6637   -1.3352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9922   -1.3352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3141   -1.3352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6426   -1.3352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3285   -2.6637    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3141    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3141   -2.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  3  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+M  END
+> <ID>
+4930
+
+> <Formula>
+C8H14O2
+
+> <FW>
+142.1956
+
+> <DSSTox_CID>
+7096
+
+> <DSSTox_RID>
+78307
+
+> <DSSTox_GSID>
+27096
+
+> <DSSTox_FileID_Sort>
+2990
+
+> <TS_ChemName>
+2,5-Dimethyl-3-hexyne-2,5-diol
+
+> <TS_ChemName_Synonyms>
+3-Hexyne-2,5-diol, 2,5-dimethyl-
+
+> <TS_CASRN>
+142-30-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14O2
+
+> <STRUCTURE_MW>
+142.1956
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,5-dimethylhex-3-yne-2,5-diol
+
+> <STRUCTURE_SMILES>
+CC(O)(C)C#CC(C)(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)(C)C#CC(C)(C)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

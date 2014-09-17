@@ -1,0 +1,108 @@
+63213-29-6
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    3.9895   -5.7586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261   -4.6069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9994   -4.6069    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3268   -5.7586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9895   -3.4551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3163   -3.4551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261   -2.3034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9895   -1.1517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3163   -5.7586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9889   -6.9103    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3163   -8.0620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9889   -9.2137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9889   -4.6069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3157   -4.6069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9791   -3.4551    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9791   -5.7586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+4601
+
+> <Formula>
+C14H20O4
+
+> <FW>
+252.3062
+
+> <DSSTox_CID>
+6220
+
+> <DSSTox_RID>
+78064
+
+> <DSSTox_GSID>
+26220
+
+> <DSSTox_FileID_Sort>
+2747
+
+> <TS_ChemName>
+2,4,5-Triethoxyacetophenone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+63213-29-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20O4
+
+> <STRUCTURE_MW>
+252.3062
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(2,4,5-triethoxyphenyl)ethanone
+
+> <STRUCTURE_SMILES>
+CCOc1cc(OCC)c(cc1OCC)C(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCOc1cc(OCC)c(cc1OCC)C(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

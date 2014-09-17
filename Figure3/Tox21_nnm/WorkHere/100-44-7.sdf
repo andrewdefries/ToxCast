@@ -1,0 +1,88 @@
+100-44-7
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -1.1540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6531   -1.1540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+150
+
+> <Formula>
+C7H7Cl
+
+> <FW>
+126.5835
+
+> <DSSTox_CID>
+153
+
+> <DSSTox_RID>
+75405
+
+> <DSSTox_GSID>
+20153
+
+> <DSSTox_FileID_Sort>
+89
+
+> <TS_ChemName>
+Benzyl chloride
+
+> <TS_ChemName_Synonyms>
+Benzyl chloride (Benzene, (chloromethyl)-)
+
+> <TS_CASRN>
+100-44-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7Cl
+
+> <STRUCTURE_MW>
+126.5835
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(chloromethyl)benzene
+
+> <STRUCTURE_SMILES>
+ClCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+ClCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

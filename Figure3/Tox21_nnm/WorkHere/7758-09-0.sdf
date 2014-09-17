@@ -1,0 +1,78 @@
+7758-09-0
+ChemmineR-0915142007XD
+
+  4  2  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -0.6748    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+    3.6488    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8201   -0.6266    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5305   -0.7230    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+M  END
+> <ID>
+9242
+
+> <Formula>
+KNO2
+
+> <FW>
+85.1038 (39.0978+46.0060)
+
+> <DSSTox_CID>
+22320
+
+> <DSSTox_RID>
+79993
+
+> <DSSTox_GSID>
+42320
+
+> <DSSTox_FileID_Sort>
+4675
+
+> <TS_ChemName>
+Potassium nitrite
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7758-09-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+KNO2
+
+> <STRUCTURE_MW>
+85.1038
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+potassium nitrite
+
+> <STRUCTURE_SMILES>
+[K+].[O-]N=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=NO
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

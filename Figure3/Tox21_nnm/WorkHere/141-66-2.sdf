@@ -1,0 +1,103 @@
+141-66-2
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    5.4474   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0051   -1.9873    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5830   -1.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2940   -1.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1584   -1.3308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7363   -1.3308    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6705   -3.1495    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5830   -3.3270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8340   -2.6705    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3308   -0.8340    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2940   -3.3270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8719   -1.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7363    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8340   -4.0012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4474    0.0000    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1 16  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+M  END
+> <ID>
+3424
+
+> <Formula>
+C8H16NO5P
+
+> <FW>
+237.1901
+
+> <DSSTox_CID>
+3914
+
+> <DSSTox_RID>
+77230
+
+> <DSSTox_GSID>
+23914
+
+> <DSSTox_FileID_Sort>
+1913
+
+> <TS_ChemName>
+Dicrotophos
+
+> <TS_ChemName_Synonyms>
+Dicrotophos (Bidrin)
+
+> <TS_CASRN>
+141-66-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H16NO5P
+
+> <STRUCTURE_MW>
+237.1901
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-4-(dimethylamino)-4-oxobut-2-en-2-yl dimethyl phosphate
+
+> <STRUCTURE_SMILES>
+O=P(OC)(OC)OC(\C)=C\C(=O)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=P(OC)(OC)OC(\C)=C\C(=O)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,103 @@
+292140-86-4
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  2 V2000
+    5.2180   -5.0599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3851   -2.7107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5041    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0735   -4.3898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4260   -1.0617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0118   -2.2965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1352   -2.3116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7361   -1.0617    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.0735   -3.0721    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0255   -5.0072    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.3700    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6655   -6.4077    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9652   -7.5296    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6475   -7.4844    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7304   -5.2030    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3478   -6.3700    0.0000 P   0  5  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+14127
+
+> <Formula>
+C7H13F6N2P
+
+> <FW>
+270.1557 (125.1910+144.9647)
+
+> <DSSTox_CID>
+29120
+
+> <DSSTox_RID>
+83339
+
+> <DSSTox_GSID>
+49264
+
+> <DSSTox_FileID_Sort>
+8014
+
+> <TS_ChemName>
+1-Ethyl-2,3-dimethylimidazolium hexafluorophosphate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+292140-86-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H13F6N2P
+
+> <STRUCTURE_MW>
+270.1557
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-ethyl-2,3-dimethyl-1H-imidazol-3-ium hexafluorophosphate
+
+> <STRUCTURE_SMILES>
+C[n+]1ccn(CC)c1C.F[P-](F)(F)(F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+C[n+]1ccn(CC)c1C
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

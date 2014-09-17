@@ -1,0 +1,104 @@
+35948-25-5
+ChemmineR-0915142007XD
+
+ 15 17  0  0  0  0  0  0  0  0  1 V2000
+    2.6591   -1.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9886   -1.1434    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6600   -2.2935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9886   -3.4502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6591   -3.4502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0010   -2.2935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6600   -4.6002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9896   -4.6002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6477   -3.4502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9896   -2.2935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6714   -2.2935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6714   -4.6002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0010   -4.6002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6600    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+10217
+
+> <Formula>
+C12H9O2P
+
+> <FW>
+216.1724
+
+> <DSSTox_CID>
+24563
+
+> <DSSTox_RID>
+80315
+
+> <DSSTox_GSID>
+44563
+
+> <DSSTox_FileID_Sort>
+4997
+
+> <TS_ChemName>
+6H-Dibenzo[c,e][1,2]oxaphosphinine 6-oxide
+
+> <TS_ChemName_Synonyms>
+6H-Dibenz[c,e][1,2]oxaphosphorin, 6-oxide
+
+> <TS_CASRN>
+35948-25-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H9O2P
+
+> <STRUCTURE_MW>
+216.1724
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6H-dibenzo[c,e][1,2]oxaphosphinine 6-oxide
+
+> <STRUCTURE_SMILES>
+O=P2Oc3ccccc3c1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+O=P2Oc3ccccc3c1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

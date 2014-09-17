@@ -1,0 +1,92 @@
+591-31-1
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.7686    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9251   -0.6717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6121   -0.6717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4695   -0.0139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6121   -2.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3130   -0.6717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4695   -2.6661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3130   -1.9944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1565   -0.0139    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+10104
+
+> <Formula>
+C8H8O2
+
+> <FW>
+136.1479
+
+> <DSSTox_CID>
+24447
+
+> <DSSTox_RID>
+80235
+
+> <DSSTox_GSID>
+44447
+
+> <DSSTox_FileID_Sort>
+4917
+
+> <TS_ChemName>
+3-Methoxybenzaldehyde
+
+> <TS_ChemName_Synonyms>
+3-Methoxybenzaldehyde (Benzaldehyde, 3-methoxy-)
+
+> <TS_CASRN>
+591-31-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8O2
+
+> <STRUCTURE_MW>
+136.1479
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methoxybenzaldehyde
+
+> <STRUCTURE_SMILES>
+COc1cc(C=O)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+COc1cc(C=O)ccc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

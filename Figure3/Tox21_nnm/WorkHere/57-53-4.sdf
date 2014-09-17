@@ -1,0 +1,101 @@
+57-53-4
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    3.9876   -7.3167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1436   -6.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2924   -7.3167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1436   -5.3192    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9876   -4.6534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9876   -3.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3192   -3.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9876   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1436   -1.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1436    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6633   -3.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9975   -4.4778    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6658   -4.4778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.6265    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3291    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <ID>
+2929
+
+> <Formula>
+C9H18N2O4
+
+> <FW>
+218.2502
+
+> <DSSTox_CID>
+3261
+
+> <DSSTox_RID>
+76946
+
+> <DSSTox_GSID>
+23261
+
+> <DSSTox_FileID_Sort>
+1630
+
+> <TS_ChemName>
+Meprobamate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+57-53-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18N2O4
+
+> <STRUCTURE_MW>
+218.2502
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[(carbamoyloxy)methyl]-2-methylpentyl carbamate
+
+> <STRUCTURE_SMILES>
+O=C(N)OCC(C)(COC(=O)N)CCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(N)OCC(C)(COC(=O)N)CCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

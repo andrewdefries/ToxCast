@@ -1,0 +1,93 @@
+5392-40-5
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1545   -1.3392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3089   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4726   -1.3392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6271   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7816   -1.3392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9268   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0813   -1.3392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2358   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0813    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4726    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  3  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+3876
+
+> <Formula>
+C10H16O
+
+> <FW>
+152.2334
+
+> <DSSTox_CID>
+4836
+
+> <DSSTox_RID>
+77549
+
+> <DSSTox_GSID>
+24836
+
+> <DSSTox_FileID_Sort>
+2232
+
+> <TS_ChemName>
+3,7-Dimethyl-2,6-octadienal
+
+> <TS_ChemName_Synonyms>
+3,7-Dimethyl-2,6-octadienal (Citral)
+
+> <TS_CASRN>
+5392-40-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of Z [106-26-3], E [141-27-5] isomers; structure shown E; stereochem
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C10H16O
+
+> <STRUCTURE_MW>
+152.2334
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,7-dimethylocta-2,6-dienal
+
+> <STRUCTURE_SMILES>
+C\C(C)=C\CCC(C)=CC=O
+
+> <STRUCTURE_SMILES_Desalt>
+C\C(C)=C\CCC(C)=CC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

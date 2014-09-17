@@ -1,0 +1,97 @@
+827-21-4
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  2 V2000
+    3.0772   -2.6585    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2270   -3.3298    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2270   -4.6590    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0772   -5.3170    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9208   -4.6590    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9208   -3.3298    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0772   -1.3292    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4065   -1.3292    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7480   -1.3292    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.0772    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7710   -2.6585    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0772   -6.6462    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.7843    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <ID>
+8599
+
+> <Formula>
+C8H9NaO3S
+
+> <FW>
+208.2100 (185.2208+22.9892)
+
+> <DSSTox_CID>
+21639
+
+> <DSSTox_RID>
+79799
+
+> <DSSTox_GSID>
+41639
+
+> <DSSTox_FileID_Sort>
+4481
+
+> <TS_ChemName>
+Benzenesulfonic acid, 2,4-dimethyl-, sodium salt
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+827-21-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [88-61-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9NaO3S
+
+> <STRUCTURE_MW>
+208.21
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 2,4-dimethylbenzenesulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].Cc1cc(C)ccc1S(=O)([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(C)ccc1S(O)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

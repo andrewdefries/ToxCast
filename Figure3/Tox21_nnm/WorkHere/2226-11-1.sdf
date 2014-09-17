@@ -1,0 +1,103 @@
+2226-11-1
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -5.6537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3016   -5.6537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9591   -6.7790    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9524   -4.5216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2607   -4.5216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9115   -3.3895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2607   -2.2574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9115   -1.1321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2607    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9524    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3016   -1.1321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6031   -0.3796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9524   -2.2574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8270   -2.9082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9524   -3.5658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+16090
+
+> <Formula>
+C14H20O
+
+> <FW>
+204.308
+
+> <DSSTox_CID>
+31477
+
+> <DSSTox_RID>
+97362
+
+> <DSSTox_GSID>
+57688
+
+> <DSSTox_FileID_Sort>
+8429
+
+> <TS_ChemName>
+Bornelone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2226-11-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20O
+
+> <STRUCTURE_MW>
+204.308
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3E,5Z)-5-(3,3-dimethylbicyclo[2.2.1]hept-2-ylidene)pent-3-en-2-one
+
+> <STRUCTURE_SMILES>
+CC2(C)C(=C\C=C\C(C)=O)/C1CCC2C1
+
+> <STRUCTURE_SMILES_Desalt>
+CC2(C)C(=C\C=C\C(C)=O)/C1CCC2C1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

@@ -1,0 +1,103 @@
+134-80-5
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    8.7301   -2.0079    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6548   -3.4484    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2960    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6548   -1.1349    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9905   -1.1349    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6627   -2.2960    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9984   -2.2960    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6532   -3.4484    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6532   -1.1349    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9984    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9889   -1.1349    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6436    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9793    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6436   -2.2960    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9889   -3.4484    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9905   -3.4484    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 16  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+12916
+
+> <Formula>
+C13H20ClNO
+
+> <FW>
+241.7570 (36.4609+205.2961)
+
+> <DSSTox_CID>
+27816
+
+> <DSSTox_RID>
+82580
+
+> <DSSTox_GSID>
+47838
+
+> <DSSTox_FileID_Sort>
+7257
+
+> <TS_ChemName>
+Diethylpropion hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+134-80-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [90-84-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H20ClNO
+
+> <STRUCTURE_MW>
+241.757
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-(diethylamino)-1-phenylpropan-1-one hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C(C(C)N(CC)CC)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C(C)N(CC)CC)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20110808
+
+$$$$

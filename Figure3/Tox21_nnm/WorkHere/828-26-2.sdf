@@ -1,0 +1,96 @@
+828-26-2
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    4.9459   -1.1623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6204   -1.1623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2980    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6204   -2.4729    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4878   -0.4649    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4878   -3.1357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3255   -1.1623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1357   -4.2980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8250   -4.2980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3255   -2.4729    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6627    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+M  END
+> <ID>
+12833
+
+> <Formula>
+C9H18S3
+
+> <FW>
+222.4342
+
+> <DSSTox_CID>
+27712
+
+> <DSSTox_RID>
+82522
+
+> <DSSTox_GSID>
+47723
+
+> <DSSTox_FileID_Sort>
+7203
+
+> <TS_ChemName>
+Trithioacetone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+828-26-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18S3
+
+> <STRUCTURE_MW>
+222.4342
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2,4,4,6,6-hexamethyl-1,3,5-trithiane
+
+> <STRUCTURE_SMILES>
+CC1(C)SC(C)(C)SC(C)(C)S1
+
+> <STRUCTURE_SMILES_Desalt>
+CC1(C)SC(C)(C)SC(C)(C)S1
+
+> <Substance_modify_yyyymmdd>
+20101216
+
+$$$$

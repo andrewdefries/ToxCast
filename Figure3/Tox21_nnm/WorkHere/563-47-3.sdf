@@ -1,0 +1,81 @@
+563-47-3
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    3.4567   -1.9945    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.3308    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.9945    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3308    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+270
+
+> <Formula>
+C4H7Cl
+
+> <FW>
+90.5514
+
+> <DSSTox_CID>
+279
+
+> <DSSTox_RID>
+75482
+
+> <DSSTox_GSID>
+20279
+
+> <DSSTox_FileID_Sort>
+166
+
+> <TS_ChemName>
+3-Chloro-2-methylpropene
+
+> <TS_ChemName_Synonyms>
+3-Chloro-2-methylpropene (1-Propene, 3-chloro-2-methyl-)
+
+> <TS_CASRN>
+563-47-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H7Cl
+
+> <STRUCTURE_MW>
+90.5514
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-chloro-2-methylprop-1-ene
+
+> <STRUCTURE_SMILES>
+C=C(C)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+C=C(C)CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

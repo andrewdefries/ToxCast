@@ -1,0 +1,95 @@
+91-56-5
+ChemmineR-0915142007XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    4.3521   -1.3295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5738   -0.2670    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5738   -2.4033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2954   -2.0056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2954   -0.6648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6816   -1.3295    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9715   -3.6647    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1420   -2.6704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1420    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+7471
+
+> <Formula>
+C8H5NO2
+
+> <FW>
+147.1308
+
+> <DSSTox_CID>
+18694
+
+> <DSSTox_RID>
+79385
+
+> <DSSTox_GSID>
+38694
+
+> <DSSTox_FileID_Sort>
+4067
+
+> <TS_ChemName>
+Isatin
+
+> <TS_ChemName_Synonyms>
+Isatin (1H-Indole-2,3-dione)
+
+> <TS_CASRN>
+91-56-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H5NO2
+
+> <STRUCTURE_MW>
+147.1308
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1H-indole-2,3-dione
+
+> <STRUCTURE_SMILES>
+O=C1c2ccccc2NC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1c2ccccc2NC1=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

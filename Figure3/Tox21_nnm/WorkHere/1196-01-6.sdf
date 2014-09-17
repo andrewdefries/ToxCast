@@ -1,0 +1,95 @@
+1196-01-6
+ChemmineR-0915142007XD
+
+ 11 12  0  0  1  0  0  0  0  0  1 V2000
+    2.0214   -1.7419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -3.0580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9289   -2.3655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3161   -2.3655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0881   -1.0064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5655   -1.7548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1871   -3.5096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3010   -0.8215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4946    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5892   -3.4967    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  6  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  5  1  1  0  0  0
+  4  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+7049
+
+> <Formula>
+C10H14O
+
+> <FW>
+150.2176
+
+> <DSSTox_CID>
+15620
+
+> <DSSTox_RID>
+79265
+
+> <DSSTox_GSID>
+35620
+
+> <DSSTox_FileID_Sort>
+3947
+
+> <TS_ChemName>
+L-Verbenone
+
+> <TS_ChemName_Synonyms>
+Verbenone
+
+> <TS_CASRN>
+1196-01-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14O
+
+> <STRUCTURE_MW>
+150.2176
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1S,5S)-4,6,6-trimethylbicyclo[3.1.1]hept-3-en-2-one
+
+> <STRUCTURE_SMILES>
+CC2(C)[C@H]1C[C@@H]2C(=O)C=C1C
+
+> <STRUCTURE_SMILES_Desalt>
+CC2(C)[C@H]1C[C@@H]2C(=O)C=C1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

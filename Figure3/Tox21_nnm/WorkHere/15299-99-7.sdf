@@ -1,0 +1,113 @@
+15299-99-7
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    5.7505   -2.6578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552   -2.6578    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552   -4.0028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5988   -1.9974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3034   -4.6713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9023   -1.9974    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7505   -4.0028    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3034   -5.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5988   -4.6713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5988   -5.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5988   -0.6685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9023   -0.6685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0540   -2.6578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -4.0028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552   -6.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -6.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0540    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0540   -4.0028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 15  2  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 19  2  0  0  0  0
+ 16 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+3563
+
+> <Formula>
+C17H21NO2
+
+> <FW>
+271.3541
+
+> <DSSTox_CID>
+4211
+
+> <DSSTox_RID>
+77329
+
+> <DSSTox_GSID>
+24211
+
+> <DSSTox_FileID_Sort>
+2012
+
+> <TS_ChemName>
+Napropamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+15299-99-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture of (R,S) isomers; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H21NO2
+
+> <STRUCTURE_MW>
+271.3541
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-diethyl-2-(naphthalen-1-yloxy)propanamide
+
+> <STRUCTURE_SMILES>
+CCN(CC)C(=O)C(C)Oc2cccc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)C(=O)C(C)Oc2cccc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

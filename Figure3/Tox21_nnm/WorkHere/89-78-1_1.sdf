@@ -1,0 +1,94 @@
+89-78-1_1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  1  0  0  0  0  0  1 V2000
+    2.3043   -3.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -3.9861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -1.3287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -1.9990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4594   -3.9861    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -5.3147    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -5.9851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  6  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+6169
+
+> <Formula>
+C10H20O
+
+> <FW>
+156.2652
+
+> <DSSTox_CID>
+9733
+
+> <DSSTox_RID>
+78817
+
+> <DSSTox_GSID>
+29733
+
+> <DSSTox_FileID_Sort>
+3499
+
+> <TS_ChemName>
+(1S,2R,5S)-(+)-Menthol
+
+> <TS_ChemName_Synonyms>
+Cyclohexanol, 5-methyl-2-(1-methylethyl)-, (1S,2R,5S)-
+
+> <TS_CASRN>
+89-78-1_1
+
+> <CASRN_ChemName_Relationship>
+CAS for related form
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+CAS for dl-Menthol (Cyclohexanol, 5-methyl-2-(1-methylethyl)-, (1R,2S,5R)-rel-)
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20O
+
+> <STRUCTURE_MW>
+156.2652
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1S,2R,5S)-5-methyl-2-(propan-2-yl)cyclohexanol
+
+> <STRUCTURE_SMILES>
+CC(C)[C@H]1CC[C@H](C)C[C@@H]1O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)[C@H]1CC[C@H](C)C[C@@H]1O
+
+> <Substance_modify_yyyymmdd>
+20130906
+
+$$$$

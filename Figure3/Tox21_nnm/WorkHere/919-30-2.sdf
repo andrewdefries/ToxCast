@@ -1,0 +1,99 @@
+919-30-2
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    1.1533   -2.7832    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2997   -3.4530    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4530   -2.7832    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4530    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6064   -3.4530    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9296   -4.6064    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6064   -5.7528    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9296   -6.9061    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2624   -2.2997    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6064   -1.1533    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2624    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7528   -4.1229    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7528   -5.4489    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9061   -6.1050    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+5083
+
+> <Formula>
+C9H23NO3Si
+
+> <FW>
+221.3693
+
+> <DSSTox_CID>
+7333
+
+> <DSSTox_RID>
+78411
+
+> <DSSTox_GSID>
+27333
+
+> <DSSTox_FileID_Sort>
+3094
+
+> <TS_ChemName>
+3-Aminopropyltriethoxysilane
+
+> <TS_ChemName_Synonyms>
+1-Propanamine, 3-(triethoxysilyl)-; gamma-Aminopropyltriethoxy silane
+
+> <TS_CASRN>
+919-30-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H23NO3Si
+
+> <STRUCTURE_MW>
+221.3693
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+3-(triethoxysilyl)propan-1-amine
+
+> <STRUCTURE_SMILES>
+CCO[Si](OCC)(OCC)CCCN
+
+> <STRUCTURE_SMILES_Desalt>
+CCO[Si](OCC)(OCC)CCCN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

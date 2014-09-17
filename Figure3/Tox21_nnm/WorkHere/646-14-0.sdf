@@ -1,0 +1,89 @@
+646-14-0
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  2 V2000
+    3.3271    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3308   -1.1553    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -2.3033    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.9852   -1.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3160   -1.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9814   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3122   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4387
+
+> <Formula>
+C6H13NO2
+
+> <FW>
+131.1729
+
+> <DSSTox_CID>
+5758
+
+> <DSSTox_RID>
+77911
+
+> <DSSTox_GSID>
+25758
+
+> <DSSTox_FileID_Sort>
+2594
+
+> <TS_ChemName>
+1-Nitrohexane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+646-14-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H13NO2
+
+> <STRUCTURE_MW>
+131.1729
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-nitrohexane
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)CCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)CCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

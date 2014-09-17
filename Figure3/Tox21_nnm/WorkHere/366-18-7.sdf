@@ -1,0 +1,97 @@
+366-18-7
+ChemmineR-0915142007XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    1.9875   -0.0266    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6398   -2.3133    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9684   -1.1633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6456   -1.1633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6647   -0.0266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9759   -2.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6398    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9809   -2.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6473   -1.1566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6647   -2.3266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9693    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+7843
+
+> <Formula>
+C10H8N2
+
+> <FW>
+156.1839
+
+> <DSSTox_CID>
+20635
+
+> <DSSTox_RID>
+79518
+
+> <DSSTox_GSID>
+40635
+
+> <DSSTox_FileID_Sort>
+4200
+
+> <TS_ChemName>
+2,2'-Dipyridyl
+
+> <TS_ChemName_Synonyms>
+Umdipyridyl; DP
+
+> <TS_CASRN>
+366-18-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H8N2
+
+> <STRUCTURE_MW>
+156.1839
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-bipyridine
+
+> <STRUCTURE_SMILES>
+c1nc(ccc1)c2ccccn2
+
+> <STRUCTURE_SMILES_Desalt>
+c1nc(ccc1)c2ccccn2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

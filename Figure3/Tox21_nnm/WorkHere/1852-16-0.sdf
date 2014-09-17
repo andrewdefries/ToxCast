@@ -1,0 +1,93 @@
+1852-16-0
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    8.0468   -1.3325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1934   -2.0040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3297   -1.3325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0468    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8899   -2.0040    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7433   -1.3325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5864   -2.0040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4398   -1.3325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2829   -2.0040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1363   -1.3325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+5164
+
+> <Formula>
+C8H15NO2
+
+> <FW>
+157.2102
+
+> <DSSTox_CID>
+7443
+
+> <DSSTox_RID>
+78457
+
+> <DSSTox_GSID>
+27443
+
+> <DSSTox_FileID_Sort>
+3140
+
+> <TS_ChemName>
+N-(Butoxymethyl)acrylamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1852-16-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H15NO2
+
+> <STRUCTURE_MW>
+157.2102
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(butoxymethyl)prop-2-enamide
+
+> <STRUCTURE_SMILES>
+CCCCOCNC(=O)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCOCNC(=O)C=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

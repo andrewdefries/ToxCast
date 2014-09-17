@@ -1,0 +1,100 @@
+97-42-7
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    1.9972   -4.6090    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -3.4531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9972   -2.3045    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3287   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9871   -1.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186   -1.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9844   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186   -3.4531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9844   -4.6090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3158   -4.6090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186   -5.7576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3287    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9871   -3.4531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+3835
+
+> <Formula>
+C12H18O2
+
+> <FW>
+194.2701
+
+> <DSSTox_CID>
+4738
+
+> <DSSTox_RID>
+77516
+
+> <DSSTox_GSID>
+24738
+
+> <DSSTox_FileID_Sort>
+2199
+
+> <TS_ChemName>
+Carvyl acetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+97-42-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture of (R,S) isomers; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H18O2
+
+> <STRUCTURE_MW>
+194.2701
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-5-(prop-1-en-2-yl)cyclohex-2-en-1-yl acetate
+
+> <STRUCTURE_SMILES>
+O=C(C)OC1CC(CC=C1C)C(=C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)OC1CC(CC=C1C)C(=C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

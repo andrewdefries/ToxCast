@@ -1,0 +1,87 @@
+926-06-7
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    4.6574   -2.2961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3254   -2.2961    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3254   -0.9641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9934   -2.2961    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3254   -3.6281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3320   -1.1411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+6337
+
+> <Formula>
+C4H10O3S
+
+> <FW>
+138.1854
+
+> <DSSTox_CID>
+11497
+
+> <DSSTox_RID>
+78881
+
+> <DSSTox_GSID>
+31497
+
+> <DSSTox_FileID_Sort>
+3563
+
+> <TS_ChemName>
+Isopropyl methanesulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+926-06-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10O3S
+
+> <STRUCTURE_MW>
+138.1854
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+propan-2-yl methanesulfonate
+
+> <STRUCTURE_SMILES>
+CC(C)OS(C)(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)OS(C)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

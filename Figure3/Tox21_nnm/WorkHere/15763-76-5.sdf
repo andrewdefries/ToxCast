@@ -1,0 +1,99 @@
+15763-76-5
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  2 V2000
+    7.7916    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    4.6516   -1.8388    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9893   -2.9920    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6647   -2.9920    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9869   -1.8388    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6647   -0.6857    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9893   -0.6857    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9762   -1.8388    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9762   -3.1712    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9762   -0.5065    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    7.3085   -1.8388    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.9920    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6545   -1.8388    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6857    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+12648
+
+> <Formula>
+C9H11NaO3S
+
+> <FW>
+222.2366 (22.9892+199.2474)
+
+> <DSSTox_CID>
+27523
+
+> <DSSTox_RID>
+82393
+
+> <DSSTox_GSID>
+47523
+
+> <DSSTox_FileID_Sort>
+7074
+
+> <TS_ChemName>
+sodium 4-isopropylbenzenesulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+15763-76-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11NaO3S
+
+> <STRUCTURE_MW>
+222.2366
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 4-(propan-2-yl)benzenesulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].O=S([O-])(=O)c1ccc(cc1)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+OS(=O)(=O)c1ccc(cc1)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20100829
+
+$$$$

@@ -1,0 +1,96 @@
+135-77-3
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    3.4596   -2.6590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4596   -3.9914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064   -4.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -3.9914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -2.6590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064   -1.9838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6128   -1.9838    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6128   -0.6573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064   -0.6573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6427    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+6998
+
+> <Formula>
+C9H12O3
+
+> <FW>
+168.1898
+
+> <DSSTox_CID>
+15163
+
+> <DSSTox_RID>
+79243
+
+> <DSSTox_GSID>
+35163
+
+> <DSSTox_FileID_Sort>
+3925
+
+> <TS_ChemName>
+1,2,4-Trimethoxybenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+135-77-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12O3
+
+> <STRUCTURE_MW>
+168.1898
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2,4-trimethoxybenzene
+
+> <STRUCTURE_SMILES>
+COc1cc(ccc1OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+COc1cc(ccc1OC)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

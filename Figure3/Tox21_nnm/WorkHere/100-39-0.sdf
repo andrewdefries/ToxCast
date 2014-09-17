@@ -1,0 +1,88 @@
+100-39-0
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -1.1540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6531   -1.1540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+3793
+
+> <Formula>
+C7H7Br
+
+> <FW>
+171.0345
+
+> <DSSTox_CID>
+4658
+
+> <DSSTox_RID>
+77486
+
+> <DSSTox_GSID>
+24658
+
+> <DSSTox_FileID_Sort>
+2169
+
+> <TS_ChemName>
+alpha-Bromotoluene
+
+> <TS_ChemName_Synonyms>
+(Bromomethyl)benzene
+
+> <TS_CASRN>
+100-39-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7Br
+
+> <STRUCTURE_MW>
+171.0345
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(bromomethyl)benzene
+
+> <STRUCTURE_SMILES>
+BrCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+BrCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

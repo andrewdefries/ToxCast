@@ -1,0 +1,90 @@
+589-15-1
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    1.3293   -1.1496    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9999    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3291    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9878   -1.1496    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3291   -2.3052    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9999   -2.3052    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1496    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3170   -1.1496    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9876    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+10102
+
+> <Formula>
+C7H6Br2
+
+> <FW>
+249.9305
+
+> <DSSTox_CID>
+24445
+
+> <DSSTox_RID>
+80233
+
+> <DSSTox_GSID>
+44445
+
+> <DSSTox_FileID_Sort>
+4915
+
+> <TS_ChemName>
+4-Bromobenzyl bromide
+
+> <TS_ChemName_Synonyms>
+Benzene, 1-bromo-4-(bromomethyl)-
+
+> <TS_CASRN>
+589-15-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6Br2
+
+> <STRUCTURE_MW>
+249.9305
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromo-4-(bromomethyl)benzene
+
+> <STRUCTURE_SMILES>
+BrCc1ccc(Br)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+BrCc1ccc(Br)cc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

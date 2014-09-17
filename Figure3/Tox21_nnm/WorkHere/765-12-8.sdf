@@ -1,0 +1,99 @@
+765-12-8
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1295   -0.7041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2442    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4177   -0.7041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5472    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6619   -0.7041    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7914    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9208   -0.7041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0503    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1798   -0.7041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3092    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4240   -0.7041    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5388    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6682   -0.7041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+10633
+
+> <Formula>
+C10H18O4
+
+> <FW>
+202.2475
+
+> <DSSTox_CID>
+24986
+
+> <DSSTox_RID>
+80634
+
+> <DSSTox_GSID>
+44986
+
+> <DSSTox_FileID_Sort>
+5316
+
+> <TS_ChemName>
+3,6,9,12-Tetraoxatetradeca-1,13-diene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+765-12-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O4
+
+> <STRUCTURE_MW>
+202.2475
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,6,9,12-tetraoxatetradeca-1,13-diene
+
+> <STRUCTURE_SMILES>
+C=COCCOCCOCCOC=C
+
+> <STRUCTURE_SMILES_Desalt>
+C=COCCOCCOCCOC=C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

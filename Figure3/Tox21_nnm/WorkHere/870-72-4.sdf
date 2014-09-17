@@ -1,0 +1,84 @@
+870-72-4
+ChemmineR-0915142007XD
+
+  7  5  0  0  0  0  0  0  0  0  2 V2000
+    4.5110   -1.4435    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1706   -1.4435    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1706    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8920   -1.4435    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.1706   -2.7221    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1554   -2.5829    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1703    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+M  END
+> <ID>
+5080
+
+> <Formula>
+CH3NaO4S
+
+> <FW>
+134.0869 (111.0977+22.9892)
+
+> <DSSTox_CID>
+7328
+
+> <DSSTox_RID>
+78409
+
+> <DSSTox_GSID>
+27328
+
+> <DSSTox_FileID_Sort>
+3092
+
+> <TS_ChemName>
+Sodium hydroxymethanesulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+870-72-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [75-92-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH3NaO4S
+
+> <STRUCTURE_MW>
+134.0869
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium hydroxymethanesulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]S(=O)(=O)CO
+
+> <STRUCTURE_SMILES_Desalt>
+OCS(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

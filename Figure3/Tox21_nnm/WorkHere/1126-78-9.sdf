@@ -1,0 +1,94 @@
+1126-78-9
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.3076   -0.6697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3076   -2.0010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -2.6545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4614    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6071   -0.6697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7609    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9147   -0.6535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0685    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+10028
+
+> <Formula>
+C10H15N
+
+> <FW>
+149.2328
+
+> <DSSTox_CID>
+24370
+
+> <DSSTox_RID>
+80177
+
+> <DSSTox_GSID>
+44370
+
+> <DSSTox_FileID_Sort>
+4859
+
+> <TS_ChemName>
+N-Butylaniline
+
+> <TS_ChemName_Synonyms>
+N-Butylaniline (Benzenamine, N-butyl-)
+
+> <TS_CASRN>
+1126-78-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H15N
+
+> <STRUCTURE_MW>
+149.2328
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-butylaniline
+
+> <STRUCTURE_SMILES>
+CCCCNc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCNc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

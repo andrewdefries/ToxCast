@@ -1,0 +1,102 @@
+210880-92-5
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  2 V2000
+    2.6611   -2.3057    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0049   -1.1574    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9916   -2.3057    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0049   -3.4631    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6660   -3.4631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7712   -2.3877    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0379   -2.7887    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0379   -4.1192    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7712   -4.5384    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9966   -3.4631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1133   -2.0232    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6611   -4.6204    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6744   -1.1574    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3057    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <ID>
+6792
+
+> <Formula>
+C6H8ClN5O2S
+
+> <FW>
+249.678
+
+> <DSSTox_CID>
+14465
+
+> <DSSTox_RID>
+79156
+
+> <DSSTox_GSID>
+34465
+
+> <DSSTox_FileID_Sort>
+3838
+
+> <TS_ChemName>
+Clothianidin
+
+> <TS_ChemName_Synonyms>
+Clothianidin (TI 435) (guanidine, N-[(2-chloro-5-thiazolyl)methyl]-N'-methyl-N''-nitro-)
+
+> <TS_CASRN>
+210880-92-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8ClN5O2S
+
+> <STRUCTURE_MW>
+249.678
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-[(2-chloro-1,3-thiazol-5-yl)methyl]-3-methyl-2-nitroguanidine
+
+> <STRUCTURE_SMILES>
+Clc1ncc(CN/C(=N/[N+]([O-])=O)NC)s1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ncc(CN/C(=N/[N+]([O-])=O)NC)s1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

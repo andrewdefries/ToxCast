@@ -1,0 +1,112 @@
+207569-02-6
+ChemmineR-0915142007XD
+
+ 21 19  0  0  0  0  0  0  0  0  2 V2000
+    3.6356   -1.3896    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3411   -6.6895    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3411   -5.3645    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6356   -2.7146    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4884   -4.7182    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4884   -3.3771    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9767   -1.3896    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6823   -6.6895    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2945   -1.3896    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6895    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3411   -8.0306    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.6356   -0.0485    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.6356   -5.3645    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3411   -2.7146    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7828   -3.3771    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1939   -4.7020    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1939   -3.3771    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7828   -4.7020    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8277   -8.0791    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    5.0414    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    6.9076   -4.2415    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1  9  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  2 10  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 16  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 17  2  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+9980
+
+> <Formula>
+C10H8Na2O7S2
+
+> <FW>
+350.2759 (286.2821+22.9892+22.9892+18.0153)
+
+> <DSSTox_CID>
+24315
+
+> <DSSTox_RID>
+80148
+
+> <DSSTox_GSID>
+44315
+
+> <DSSTox_FileID_Sort>
+4830
+
+> <TS_ChemName>
+1,5-Naphthalenedisulfonic acid, disodium salt hydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+207569-02-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+CASRN is for a chemical containing x hydrates; structure shown monohydrate; parent [81-04-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H8Na2O7S2
+
+> <STRUCTURE_MW>
+350.2759
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt complex
+
+> <STRUCTURE_IUPAC>
+sodium naphthalene-1,5-disulfonate hydrate (2:1:1)
+
+> <STRUCTURE_SMILES>
+[Na+].[Na+].O.[O-]S(=O)(=O)c2cccc1c2cccc1S([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)c2cccc1c2cccc1S(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20090518
+
+$$$$

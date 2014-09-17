@@ -1,0 +1,107 @@
+723-46-6
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    8.8924    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3513   -1.2175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0526   -1.4971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9173   -2.8138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7629   -3.4812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -2.8138    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9411   -3.9682    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2759   -1.6594    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4541   -2.1464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3088   -2.8138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -2.1464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -0.8207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1533    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3088   -0.1533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4541   -0.8207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1258   -3.3549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0186   -2.3719    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+4521
+
+> <Formula>
+C10H11N3O3S
+
+> <FW>
+253.2776
+
+> <DSSTox_CID>
+6064
+
+> <DSSTox_RID>
+78001
+
+> <DSSTox_GSID>
+26064
+
+> <DSSTox_FileID_Sort>
+2684
+
+> <TS_ChemName>
+Sulfamethoxazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+723-46-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H11N3O3S
+
+> <STRUCTURE_MW>
+253.2776
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-N-(5-methyl-1,2-oxazol-3-yl)benzenesulfonamide
+
+> <STRUCTURE_SMILES>
+Cc2cc(NS(=O)(=O)c1ccc(N)cc1)no2
+
+> <STRUCTURE_SMILES_Desalt>
+Cc2cc(NS(=O)(=O)c1ccc(N)cc1)no2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

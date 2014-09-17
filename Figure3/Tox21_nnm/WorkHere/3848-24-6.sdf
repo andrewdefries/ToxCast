@@ -1,0 +1,87 @@
+3848-24-6
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1672   -1.9934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2996   -1.3578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4495   -1.9934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5993   -1.3578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7780   -1.9934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1672   -3.3512    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2996    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+12220
+
+> <Formula>
+C6H10O2
+
+> <FW>
+114.1424
+
+> <DSSTox_CID>
+27066
+
+> <DSSTox_RID>
+82082
+
+> <DSSTox_GSID>
+47066
+
+> <DSSTox_FileID_Sort>
+6763
+
+> <TS_ChemName>
+2,3-Hexanedione
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3848-24-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10O2
+
+> <STRUCTURE_MW>
+114.1424
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexane-2,3-dione
+
+> <STRUCTURE_SMILES>
+CC(=O)C(=O)CCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)C(=O)CCC
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

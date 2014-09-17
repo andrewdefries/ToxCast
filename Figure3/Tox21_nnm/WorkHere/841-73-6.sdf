@@ -1,0 +1,111 @@
+841-73-6
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    5.7514   -3.9799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9081   -4.6513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6189   -4.6513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9081   -5.9779    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7514   -6.6331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6189   -5.9779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0891   -4.0122    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4379   -3.9637    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7514   -2.6532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7514   -7.9597    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4702   -6.6493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6027   -1.9818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9081   -1.9980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -6.0102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1648   -6.6978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.0426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9081   -0.6714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6027   -0.6714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7514    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+13843
+
+> <Formula>
+C14H22N2O3
+
+> <FW>
+266.3361
+
+> <DSSTox_CID>
+28780
+
+> <DSSTox_RID>
+83049
+
+> <DSSTox_GSID>
+48854
+
+> <DSSTox_FileID_Sort>
+7726
+
+> <TS_ChemName>
+Bucolome
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+841-73-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H22N2O3
+
+> <STRUCTURE_MW>
+266.3361
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-butyl-1-cyclohexylpyrimidine-2,4,6(1H,3H,5H)-trione
+
+> <STRUCTURE_SMILES>
+O=C2C(CCCC)C(=O)NC(=O)N2C1CCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2C(CCCC)C(=O)NC(=O)N2C1CCCCC1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

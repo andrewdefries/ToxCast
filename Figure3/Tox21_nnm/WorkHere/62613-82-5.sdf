@@ -1,0 +1,94 @@
+62613-82-5
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    6.8831   -2.8771    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7336   -2.2095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7336   -0.8810    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5773   -2.8771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4278   -2.2095    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2095   -2.7532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3216   -1.7621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9066    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9892   -0.6126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2901   -0.8879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2744    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+10798
+
+> <Formula>
+C6H10N2O3
+
+> <FW>
+158.1552
+
+> <DSSTox_CID>
+25180
+
+> <DSSTox_RID>
+80728
+
+> <DSSTox_GSID>
+45180
+
+> <DSSTox_FileID_Sort>
+5409
+
+> <TS_ChemName>
+Oxiracetam
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+62613-82-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10N2O3
+
+> <STRUCTURE_MW>
+158.1552
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(4-hydroxy-2-oxopyrrolidin-1-yl)acetamide
+
+> <STRUCTURE_SMILES>
+OC1CC(=O)N(CC(=O)N)C1
+
+> <STRUCTURE_SMILES_Desalt>
+OC1CC(=O)N(CC(=O)N)C1
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

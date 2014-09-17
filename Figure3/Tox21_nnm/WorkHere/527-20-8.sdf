@@ -1,0 +1,96 @@
+527-20-8
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    3.4513   -3.3182    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2956   -3.9946    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4513   -1.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1398   -3.3182    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2956   -1.3315    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1398   -1.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6018   -3.9946    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2956   -5.3261    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9946    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3315    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2956    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6018   -1.3315    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3 12  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 10  1  0  0  0  0
+M  END
+> <ID>
+7351
+
+> <Formula>
+C6H2Cl5N
+
+> <FW>
+265.3518
+
+> <DSSTox_CID>
+17584
+
+> <DSSTox_RID>
+79345
+
+> <DSSTox_GSID>
+37584
+
+> <DSSTox_FileID_Sort>
+4027
+
+> <TS_ChemName>
+Pentachloroaniline
+
+> <TS_ChemName_Synonyms>
+Pentachloroaniline (2,3,4,5,6-pentachlorobenzenamine)
+
+> <TS_CASRN>
+527-20-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H2Cl5N
+
+> <STRUCTURE_MW>
+265.3518
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pentachloroaniline
+
+> <STRUCTURE_SMILES>
+Clc1c(N)c(Cl)c(Cl)c(Cl)c1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1c(N)c(Cl)c(Cl)c(Cl)c1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

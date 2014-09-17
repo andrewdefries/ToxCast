@@ -1,0 +1,115 @@
+2508-72-7
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  1 V2000
+    3.4658   -2.6660    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3105   -4.6695    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3105   -5.9944    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4658   -3.9909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0583   -4.2656    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6130   -2.0035    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3105   -2.0035    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7682   -2.6660    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0583   -6.4145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2747   -5.3239    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553   -2.6660    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3105   -0.6786    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9235   -2.0035    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7682   -3.9909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0035    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9235   -4.6695    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0787   -2.6660    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6786    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0787   -3.9909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2171   -5.2108    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 17 20  2  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <ID>
+12883
+
+> <Formula>
+C17H20ClN3
+
+> <FW>
+301.8138 (265.3529+36.4609)
+
+> <DSSTox_CID>
+27762
+
+> <DSSTox_RID>
+82539
+
+> <DSSTox_GSID>
+47782
+
+> <DSSTox_FileID_Sort>
+7220
+
+> <TS_ChemName>
+Antazoline hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2508-72-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [91-75-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H20ClN3
+
+> <STRUCTURE_MW>
+301.8138
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-benzyl-N-(4,5-dihydro-1H-imidazol-2-ylmethyl)aniline hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.C(c1ccccc1)N(CC2=NCCN2)c3ccccc3
+
+> <STRUCTURE_SMILES_Desalt>
+C(c1ccccc1)N(CC2=NCCN2)c3ccccc3
+
+> <Substance_modify_yyyymmdd>
+20110721
+
+$$$$

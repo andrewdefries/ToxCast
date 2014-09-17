@@ -1,0 +1,105 @@
+23422-53-9
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+   12.4120   -3.7484    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0232   -1.1791    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6702   -1.1543    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3264   -1.1915    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0124    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3086    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4807   -1.8618    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6350   -1.1915    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4807   -3.1775    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7893   -1.8618    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6350   -3.8477    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7893   -3.1775    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9561   -1.1915    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1104   -1.8618    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1104   -3.1775    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   10.2523   -1.1915    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   11.4066   -1.8618    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+6451
+
+> <Formula>
+C11H16ClN3O2
+
+> <FW>
+257.7166 (36.4609+221.2557)
+
+> <DSSTox_CID>
+12405
+
+> <DSSTox_RID>
+78939
+
+> <DSSTox_GSID>
+32405
+
+> <DSSTox_FileID_Sort>
+3621
+
+> <TS_ChemName>
+Formetanate hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+23422-53-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [22259-30-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H16ClN3O2
+
+> <STRUCTURE_MW>
+257.7166
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+3-{[(dimethylamino)methylidene]amino}phenyl methylcarbamate hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C(Oc1cccc(c1)/N=C/N(C)C)NC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Oc1cccc(c1)/N=C/N(C)C)NC
+
+> <Substance_modify_yyyymmdd>
+20081229
+
+$$$$

@@ -1,0 +1,104 @@
+86347-15-1
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    2.3165   -3.3416    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6130   -3.3283    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8844   -3.7277    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3165   -2.0103    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4747   -4.0073    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8844   -1.6109    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6566   -2.6360    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6130   -2.0103    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1582   -1.3380    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1582   -4.0073    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4747   -1.3380    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4747   -5.3386    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3283    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0103    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1582    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3528   -5.2121    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  7  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+11132
+
+> <Formula>
+C13H17ClN2
+
+> <FW>
+236.7405 (200.2795+36.4609)
+
+> <DSSTox_CID>
+25691
+
+> <DSSTox_RID>
+81063
+
+> <DSSTox_GSID>
+45691
+
+> <DSSTox_FileID_Sort>
+5744
+
+> <TS_ChemName>
+Medetomidine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+86347-15-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H17ClN2
+
+> <STRUCTURE_MW>
+236.7405
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-[1-(2,3-dimethylphenyl)ethyl]-1H-imidazole hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CC(c1cccc(C)c1C)c2cncn2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(c1cccc(C)c1C)c2cncn2
+
+> <Substance_modify_yyyymmdd>
+20110819
+
+$$$$

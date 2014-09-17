@@ -1,0 +1,105 @@
+53939-28-9
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+   14.8608    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7226   -0.6893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5683   -0.0321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4301   -0.7214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2759   -0.0641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1217   -0.7535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9835   -0.0962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8453   -0.7855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6750   -0.1282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5368   -0.8176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3665   -0.1603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2443   -0.8496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2604   -2.1642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1222   -2.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1382   -4.1681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.8574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0310   -0.6573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 17  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+6408
+
+> <Formula>
+C16H30O
+
+> <FW>
+238.4088
+
+> <DSSTox_CID>
+12303
+
+> <DSSTox_RID>
+78910
+
+> <DSSTox_GSID>
+32303
+
+> <DSSTox_FileID_Sort>
+3592
+
+> <TS_ChemName>
+(Z)-11-Hexadecenal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+53939-28-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H30O
+
+> <STRUCTURE_MW>
+238.4088
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(11Z)-hexadec-11-enal
+
+> <STRUCTURE_SMILES>
+CCCC\C=C/CCCCCCCCCC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC\C=C/CCCCCCCCCC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

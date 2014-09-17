@@ -1,0 +1,102 @@
+7779-31-9
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    5.9331   -3.3374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0868   -3.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2405   -3.3374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9331   -2.0024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7960   -3.9966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0868   -5.3233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6423   -3.3374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4886   -3.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3267   -3.3374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3267   -2.0024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4886   -1.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6423   -2.0024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6592   -4.4746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4886    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+M  END
+> <ID>
+10637
+
+> <Formula>
+C13H22O2
+
+> <FW>
+210.3126
+
+> <DSSTox_CID>
+24990
+
+> <DSSTox_RID>
+80636
+
+> <DSSTox_GSID>
+44990
+
+> <DSSTox_FileID_Sort>
+5318
+
+> <TS_ChemName>
+3,3,5-Trimethylcyclohexyl 2-methylprop-2-enoate
+
+> <TS_ChemName_Synonyms>
+3,3,5-Trimethylcyclohexyl 2-methylprop-2-enoate (2-Propenoic acid, 2-methyl-, 3,3,5-trimethylcyclohexyl ester)
+
+> <TS_CASRN>
+7779-31-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H22O2
+
+> <STRUCTURE_MW>
+210.3126
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3,5-trimethylcyclohexyl 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+O=C(OC1CC(C)CC(C)(C)C1)C(=C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OC1CC(C)CC(C)(C)C1)C(=C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

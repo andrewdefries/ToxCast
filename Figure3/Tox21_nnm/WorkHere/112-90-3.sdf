@@ -1,0 +1,109 @@
+112-90-3
+ChemmineR-0915142007XD
+
+ 19 18  0  0  0  0  0  0  0  0  1 V2000
+    1.1461    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3084   -0.6618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4545    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6167   -0.6618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7629    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9251   -0.6618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0712    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2174   -0.6618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3796    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5257   -0.6618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5257   -2.0017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6880   -2.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6880   -3.9872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8341   -4.6652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8341   -5.9889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9964   -6.6507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9964   -7.9744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1425   -8.6524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6618    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+4858
+
+> <Formula>
+C18H37N
+
+> <FW>
+267.4931
+
+> <DSSTox_CID>
+6933
+
+> <DSSTox_RID>
+78261
+
+> <DSSTox_GSID>
+26933
+
+> <DSSTox_FileID_Sort>
+2944
+
+> <TS_ChemName>
+9-Octadecen-1-amine, (9Z)-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+112-90-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H37N
+
+> <STRUCTURE_MW>
+267.4931
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(9Z)-octadec-9-en-1-amine
+
+> <STRUCTURE_SMILES>
+CCCCCCCC\C=C/CCCCCCCCN
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCC\C=C/CCCCCCCCN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

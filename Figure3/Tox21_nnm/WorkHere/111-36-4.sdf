@@ -1,0 +1,85 @@
+111-36-4
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    3.4514   -0.6696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6042    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7501   -0.6696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9029    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -0.6696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2987    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3254    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <ID>
+4827
+
+> <Formula>
+C5H9NO
+
+> <FW>
+99.1311
+
+> <DSSTox_CID>
+6872
+
+> <DSSTox_RID>
+78232
+
+> <DSSTox_GSID>
+26872
+
+> <DSSTox_FileID_Sort>
+2915
+
+> <TS_ChemName>
+Butyl isocyanate
+
+> <TS_ChemName_Synonyms>
+Butyl isocyanate (Butane, 1-isocyanato-)
+
+> <TS_CASRN>
+111-36-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H9NO
+
+> <STRUCTURE_MW>
+99.1311
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-isocyanatobutane
+
+> <STRUCTURE_SMILES>
+CCCC\N=C=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC\N=C=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

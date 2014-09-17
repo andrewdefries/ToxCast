@@ -1,0 +1,92 @@
+137-09-7
+ChemmineR-0915142007XD
+
+ 11  9  0  0  0  0  0  0  0  0  1 V2000
+    1.4150   -3.4983    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2586   -3.4338    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -1.9957    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -0.6683    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3045    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4568   -0.6683    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4568   -1.9957    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3045   -2.6594    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6091   -2.6594    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6594    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+386
+
+> <Formula>
+C6H10Cl2N2O
+
+> <FW>
+197.0624 (36.4609+36.4609+124.1405)
+
+> <DSSTox_CID>
+401
+
+> <DSSTox_RID>
+75564
+
+> <DSSTox_GSID>
+20401
+
+> <DSSTox_FileID_Sort>
+248
+
+> <TS_ChemName>
+2,4-Diaminophenol dihydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+137-09-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [95-86-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10Cl2N2O
+
+> <STRUCTURE_MW>
+197.0624
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2,4-diaminophenol dihydrochloride
+
+> <STRUCTURE_SMILES>
+Cl.Cl.Nc1ccc(O)c(N)c1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(O)c(N)c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

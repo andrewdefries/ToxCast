@@ -1,0 +1,96 @@
+2896-70-0
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  2 V2000
+    2.2944   -5.3234    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2944   -3.9925    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4496   -3.3165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1552   -3.3324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1392   -1.9856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4496   -1.9856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2944   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2944    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5994   -3.9766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5834   -2.6457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9766    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+10552
+
+> <Formula>
+C9H16NO2
+
+> <FW>
+170.2288
+
+> <DSSTox_CID>
+24905
+
+> <DSSTox_RID>
+80576
+
+> <DSSTox_GSID>
+44905
+
+> <DSSTox_FileID_Sort>
+5258
+
+> <TS_ChemName>
+(2,2,6,6-Tetramethyl-4-oxopiperidin-1-yl)oxidanyl
+
+> <TS_ChemName_Synonyms>
+1-Piperidinyloxy, 2,2,6,6-tetramethyl-4-oxo-
+
+> <TS_CASRN>
+2896-70-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+free radical
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H16NO2
+
+> <STRUCTURE_MW>
+170.2288
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2,2,6,6-tetramethyl-4-oxopiperidin-1-yl)oxidanyl
+
+> <STRUCTURE_SMILES>
+[O]N(C(C)(C)C1)C(C)(C)CC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+[O]N(C(C)(C)C1)C(C)(C)CC1=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

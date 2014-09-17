@@ -1,0 +1,103 @@
+133-32-4
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    3.5783   -0.2533    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3383   -1.3458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5783   -2.4066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3116   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3116   -0.6650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0220   -5.4545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4653   -6.7053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9166   -4.4333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0058   -3.6733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2962   -3.9266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7316   -5.1853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1558   -2.6600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1558    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+6547
+
+> <Formula>
+C12H13NO2
+
+> <FW>
+203.2371
+
+> <DSSTox_CID>
+12623
+
+> <DSSTox_RID>
+79010
+
+> <DSSTox_GSID>
+32623
+
+> <DSSTox_FileID_Sort>
+3692
+
+> <TS_ChemName>
+Indole-3-butyric acid
+
+> <TS_ChemName_Synonyms>
+Indole-3-butyric acid (IBA) (4-(1H-Indol-3-yl)-butyric acid)
+
+> <TS_CASRN>
+133-32-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H13NO2
+
+> <STRUCTURE_MW>
+203.2371
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(1H-indol-3-yl)butanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCCc2cnc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCCc2cnc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

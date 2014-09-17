@@ -1,0 +1,100 @@
+165252-70-0
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  2 V2000
+    5.5539   -3.3151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5539   -1.9875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7008   -3.9828    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3991   -3.9828    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8556   -3.3151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2444   -3.3151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6599   -5.5853    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.4306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9718   -5.2947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8798   -3.4408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0974   -3.9828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3991   -1.3276    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.3991    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.2444   -1.9875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <ID>
+6827
+
+> <Formula>
+C7H14N4O3
+
+> <FW>
+202.2111
+
+> <DSSTox_CID>
+14549
+
+> <DSSTox_RID>
+79166
+
+> <DSSTox_GSID>
+34549
+
+> <DSSTox_FileID_Sort>
+3848
+
+> <TS_ChemName>
+Dinotefuran
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+165252-70-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14N4O3
+
+> <STRUCTURE_MW>
+202.2111
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methyl-2-nitro-3-(tetrahydrofuran-3-ylmethyl)guanidine
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)/N=C(/NC)NCC1CCOC1
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)/N=C(/NC)NCC1CCOC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

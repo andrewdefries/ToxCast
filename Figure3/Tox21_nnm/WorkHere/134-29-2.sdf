@@ -1,0 +1,91 @@
+134-29-2
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    1.9962   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6570   -1.1540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9878   -1.1540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6532   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9878   -3.4573    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6570   -3.4573    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -2.3033    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4573    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7407   -4.5601    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+90
+
+> <Formula>
+C7H10ClNO
+
+> <FW>
+159.6134 (123.1525+36.4609)
+
+> <DSSTox_CID>
+92
+
+> <DSSTox_RID>
+75361
+
+> <DSSTox_GSID>
+20092
+
+> <DSSTox_FileID_Sort>
+45
+
+> <TS_ChemName>
+2-Methoxyaniline hydrochloride
+
+> <TS_ChemName_Synonyms>
+o-Anisidine hydrochloride
+
+> <TS_CASRN>
+134-29-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [90-04-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H10ClNO
+
+> <STRUCTURE_MW>
+159.6134
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-methoxyaniline hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Nc1ccccc1OC
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccccc1OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

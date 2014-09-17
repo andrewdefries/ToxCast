@@ -1,0 +1,96 @@
+29976-53-2
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    1.9903   -8.0577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6590   -6.9054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9903   -5.7532    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6590   -4.6009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9886   -4.6009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9903   -3.4568    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6590   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9903   -1.1523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6607   -1.1523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6607   -3.4568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+16106
+
+> <Formula>
+C8H13NO3
+
+> <FW>
+171.1937
+
+> <DSSTox_CID>
+31493
+
+> <DSSTox_RID>
+97378
+
+> <DSSTox_GSID>
+57704
+
+> <DSSTox_FileID_Sort>
+8445
+
+> <TS_ChemName>
+Ethyl 4-oxo-1-piperidinecarboxylate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+29976-53-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H13NO3
+
+> <STRUCTURE_MW>
+171.1937
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 4-oxopiperidine-1-carboxylate
+
+> <STRUCTURE_SMILES>
+O=C(OCC)N1CCC(=O)CC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)N1CCC(=O)CC1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

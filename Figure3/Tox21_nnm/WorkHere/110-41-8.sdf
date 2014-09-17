@@ -1,0 +1,97 @@
+110-41-8
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    1.1563   -1.9822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3126   -1.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4689   -1.9822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6379   -1.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7942   -1.9822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9123   -1.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0686   -1.9822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2376   -1.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3939   -1.9822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5502   -1.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7065   -1.9822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3215    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3126    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+12750
+
+> <Formula>
+C12H24O
+
+> <FW>
+184.3184
+
+> <DSSTox_CID>
+27629
+
+> <DSSTox_RID>
+82461
+
+> <DSSTox_GSID>
+47629
+
+> <DSSTox_FileID_Sort>
+7142
+
+> <TS_ChemName>
+2-Methylundecanal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+110-41-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H24O
+
+> <STRUCTURE_MW>
+184.3184
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylundecanal
+
+> <STRUCTURE_SMILES>
+CC(CCCCCCCCC)C=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CCCCCCCCC)C=O
+
+> <Substance_modify_yyyymmdd>
+20101214
+
+$$$$

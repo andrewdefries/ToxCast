@@ -1,0 +1,92 @@
+2398-81-4
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  2 V2000
+    1.1440   -4.0254    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.2933   -2.0367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4694   -1.3364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2933   -3.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1440   -5.3458    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.4694    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6134   -2.0047    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1440   -1.3685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+11773
+
+> <Formula>
+C6H5NO3
+
+> <FW>
+139.1088
+
+> <DSSTox_CID>
+26543
+
+> <DSSTox_RID>
+81707
+
+> <DSSTox_GSID>
+46543
+
+> <DSSTox_FileID_Sort>
+6388
+
+> <TS_ChemName>
+Nicotinic acid 1-oxide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2398-81-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H5NO3
+
+> <STRUCTURE_MW>
+139.1088
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pyridine-3-carboxylic acid 1-oxide
+
+> <STRUCTURE_SMILES>
+[O-][n+]1cccc(c1)C(O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O[n+]1cccc(c1)C(O)=O
+
+> <Substance_modify_yyyymmdd>
+20110811
+
+$$$$

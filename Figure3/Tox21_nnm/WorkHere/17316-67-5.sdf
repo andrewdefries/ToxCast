@@ -1,0 +1,95 @@
+17316-67-5
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    4.0026   -2.2975    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3395   -2.2975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3395   -3.6344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3395   -0.9846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6684   -2.2975    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6684   -3.6344    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0053   -2.2975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3462   -1.1608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0093   -1.1608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3369    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6684   -0.9846    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+13675
+
+> <Formula>
+C7H18NO2P
+
+> <FW>
+179.1971
+
+> <DSSTox_CID>
+28607
+
+> <DSSTox_RID>
+82877
+
+> <DSSTox_GSID>
+48681
+
+> <DSSTox_FileID_Sort>
+7554
+
+> <TS_ChemName>
+Butafosfan
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+17316-67-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H18NO2P
+
+> <STRUCTURE_MW>
+179.1971
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+[2-(butylamino)propan-2-yl]phosphinic acid
+
+> <STRUCTURE_SMILES>
+CCCCNC(C)(C)P(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCNC(C)(C)P(=O)O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

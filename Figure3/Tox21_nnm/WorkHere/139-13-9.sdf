@@ -1,0 +1,97 @@
+139-13-9
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -5.7554    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6641   -4.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922   -4.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6563   -3.4520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6563   -1.1487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -1.1487    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -3.4520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6546   -4.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9827   -4.6067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -5.7554    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+903
+
+> <Formula>
+C6H9NO6
+
+> <FW>
+191.1388
+
+> <DSSTox_CID>
+939
+
+> <DSSTox_RID>
+75878
+
+> <DSSTox_GSID>
+20939
+
+> <DSSTox_FileID_Sort>
+562
+
+> <TS_ChemName>
+Nitrilotriacetic acid
+
+> <TS_ChemName_Synonyms>
+Nitrilotriacetic acid (NTA)
+
+> <TS_CASRN>
+139-13-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H9NO6
+
+> <STRUCTURE_MW>
+191.1388
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2',2''-nitrilotriacetic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)CN(CC(=O)O)CC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)CN(CC(=O)O)CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

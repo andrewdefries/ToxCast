@@ -1,0 +1,99 @@
+374564-83-7
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  2 V2000
+    4.9320    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8239   -1.2807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4103   -2.5217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4842   -4.6138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6138   -5.2740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5501   -2.5217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1365   -1.2807    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.4842   -3.2933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6138   -6.5945    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3125   -6.6422    0.0000 B   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6422    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3125   -7.9548    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3125   -5.3217    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6330   -6.6422    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <ID>
+14149
+
+> <Formula>
+C6H11BF4N2O
+
+> <FW>
+213.9690 (127.1638+86.8052)
+
+> <DSSTox_CID>
+29142
+
+> <DSSTox_RID>
+83361
+
+> <DSSTox_GSID>
+49286
+
+> <DSSTox_FileID_Sort>
+8036
+
+> <TS_ChemName>
+1-(2-Hydroxyethyl)-3-methylimidazolium tetrafluoroborate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+374564-83-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H11BF4N2O
+
+> <STRUCTURE_MW>
+213.969
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-(2-hydroxyethyl)-3-methyl-1H-imidazol-3-ium tetrafluoroborate
+
+> <STRUCTURE_SMILES>
+C[n+]1ccn(CCO)c1.F[B-](F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+C[n+]1ccn(CCO)c1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

@@ -1,0 +1,90 @@
+2398-37-0
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    4.6111   -0.7974    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6111   -2.1380    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4150   -2.7216    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2998   -2.0398    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2998   -0.6992    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5132   -0.0982    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7784   -0.1502    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1788    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6356    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+10272
+
+> <Formula>
+C7H7BrO
+
+> <FW>
+187.0339
+
+> <DSSTox_CID>
+24618
+
+> <DSSTox_RID>
+80353
+
+> <DSSTox_GSID>
+44618
+
+> <DSSTox_FileID_Sort>
+5035
+
+> <TS_ChemName>
+1-Bromo-3-methoxybenzene
+
+> <TS_ChemName_Synonyms>
+3-bromophenyl methyl ether; Benzene, 1-bromo-3-methoxy-
+
+> <TS_CASRN>
+2398-37-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7BrO
+
+> <STRUCTURE_MW>
+187.0339
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromo-3-methoxybenzene
+
+> <STRUCTURE_SMILES>
+COc1cc(Br)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+COc1cc(Br)ccc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

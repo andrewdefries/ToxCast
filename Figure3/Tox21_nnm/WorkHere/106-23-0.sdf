@@ -1,0 +1,93 @@
+106-23-0
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    8.1038   -1.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9368   -1.9820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9820    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1577   -1.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7792   -1.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1038    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2615   -1.9820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3246   -1.9820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6307   -1.9820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4823   -1.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4823    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+8741
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+21790
+
+> <DSSTox_RID>
+79843
+
+> <DSSTox_GSID>
+41790
+
+> <DSSTox_FileID_Sort>
+4525
+
+> <TS_ChemName>
+Citronellal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+106-23-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture of (3R) [2385-77-5]; (3S) [5949-05-3] isomers; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,7-dimethyloct-6-enal
+
+> <STRUCTURE_SMILES>
+C\C(C)=C\CCC(C)CC=O
+
+> <STRUCTURE_SMILES_Desalt>
+C\C(C)=C\CCC(C)CC=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

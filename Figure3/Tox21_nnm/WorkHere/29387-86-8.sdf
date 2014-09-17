@@ -1,0 +1,89 @@
+29387-86-8
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    5.7025   -1.3172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8912   -1.9758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0317   -1.3172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7025    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5459   -1.9758    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4054   -1.3172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2489   -1.9758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0923   -1.3172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+6187
+
+> <Formula>
+C7H16O2
+
+> <FW>
+132.2007
+
+> <DSSTox_CID>
+9755
+
+> <DSSTox_RID>
+78819
+
+> <DSSTox_GSID>
+29755
+
+> <DSSTox_FileID_Sort>
+3501
+
+> <TS_ChemName>
+Propylene glycol monobutyl ether
+
+> <TS_ChemName_Synonyms>
+Propylene glycol monobutyl ether (Butoxypropan-1-ol)
+
+> <TS_CASRN>
+29387-86-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H16O2
+
+> <STRUCTURE_MW>
+132.2007
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-butoxypropan-1-ol
+
+> <STRUCTURE_SMILES>
+CCC(O)OCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(O)OCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

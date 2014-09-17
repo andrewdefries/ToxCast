@@ -1,0 +1,95 @@
+645-35-2
+ChemmineR-0915142007XD
+
+ 12 11  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -4.0974    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0861   -3.3075    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3939   -1.9808    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0861   -1.9808    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7402   -5.3747    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4134   -5.3747    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2276   -1.3267    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1474   -4.0974    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5417   -1.3267    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2276    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3939   -3.3075    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1708   -4.5355    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7 10  1  6  0  0  0
+M  END
+> <ID>
+671
+
+> <Formula>
+C6H10ClN3O2
+
+> <FW>
+191.6155 (155.1546+36.4609)
+
+> <DSSTox_CID>
+700
+
+> <DSSTox_RID>
+75744
+
+> <DSSTox_GSID>
+20700
+
+> <DSSTox_FileID_Sort>
+428
+
+> <TS_ChemName>
+l-Histidine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+645-35-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers; stereochem; parent [71-00-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10ClN3O2
+
+> <STRUCTURE_MW>
+191.6155
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+L-histidine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.N[C@@H](Cc1cncn1)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+N[C@@H](Cc1cncn1)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

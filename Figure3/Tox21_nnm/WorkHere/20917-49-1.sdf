@@ -1,0 +1,92 @@
+20917-49-1
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9372    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0397   -2.7471    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2655   -2.2546    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2655   -0.9358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2013    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5310    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4722   -0.9467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4722   -2.2819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5255   -3.2286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1848   -3.2286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+1003
+
+> <Formula>
+C7H14N2O
+
+> <FW>
+142.1989
+
+> <DSSTox_CID>
+1039
+
+> <DSSTox_RID>
+75919
+
+> <DSSTox_GSID>
+21039
+
+> <DSSTox_FileID_Sort>
+603
+
+> <TS_ChemName>
+Nitrosoheptamethyleneimine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+20917-49-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14N2O
+
+> <STRUCTURE_MW>
+142.1989
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-nitrosoazocane
+
+> <STRUCTURE_SMILES>
+O=NN1CCCCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=NN1CCCCCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

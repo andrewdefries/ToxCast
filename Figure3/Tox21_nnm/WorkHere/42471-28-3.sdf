@@ -1,0 +1,108 @@
+42471-28-3
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    1.1519   -2.0043    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8999   -2.6724    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0749   -2.0043    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3153   -2.6724    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4442   -2.0043    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0749   -0.6681    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7480   -2.0043    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3153   -0.0115    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -0.6681    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4442   -0.6681    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5846   -2.6724    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8999   -4.0086    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2037    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3153   -4.0086    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2268   -2.6724    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5191   -2.6263    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3671   -1.9928    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 13  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+10797
+
+> <Formula>
+C9H13ClN6O2
+
+> <FW>
+272.6915
+
+> <DSSTox_CID>
+25179
+
+> <DSSTox_RID>
+80727
+
+> <DSSTox_GSID>
+45179
+
+> <DSSTox_FileID_Sort>
+5408
+
+> <TS_ChemName>
+Nimustine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+42471-28-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H13ClN6O2
+
+> <STRUCTURE_MW>
+272.6915
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-1-(2-chloroethyl)-1-nitrosourea
+
+> <STRUCTURE_SMILES>
+Nc1nc(C)ncc1CNC(=O)N(CCCl)N=O
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1nc(C)ncc1CNC(=O)N(CCCl)N=O
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

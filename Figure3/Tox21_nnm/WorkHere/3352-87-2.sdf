@@ -1,0 +1,107 @@
+3352-87-2
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    3.4714   -1.3626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5907   -2.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7262   -1.3626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9266   -2.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1108   -1.3626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2463   -2.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3818   -1.3626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5822   -2.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7015   -1.3626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8370   -2.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0211   -1.3626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2215   -2.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4714    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3359   -2.0115    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1355   -1.3626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3359   -3.3579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4714   -4.0067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 14  1  0  0  0  0
+  1 13  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+10308
+
+> <Formula>
+C16H33NO
+
+> <FW>
+255.4393
+
+> <DSSTox_CID>
+24655
+
+> <DSSTox_RID>
+80379
+
+> <DSSTox_GSID>
+44655
+
+> <DSSTox_FileID_Sort>
+5061
+
+> <TS_ChemName>
+N,N-Diethyldodecanamide
+
+> <TS_ChemName_Synonyms>
+N,N-Diethyldodecanamide (Dodecanamide, N,N-diethyl-)
+
+> <TS_CASRN>
+3352-87-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H33NO
+
+> <STRUCTURE_MW>
+255.4393
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-diethyldodecanamide
+
+> <STRUCTURE_SMILES>
+CCN(CC)C(=O)CCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)C(=O)CCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

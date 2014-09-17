@@ -1,0 +1,107 @@
+58579-51-4
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    9.1429   -2.6606    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8080   -2.6606    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.0217   -1.5909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7600   -2.0023    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -1.3349    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4469   -2.0023    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4469   -3.3189    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -3.9954    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7600   -3.3189    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.0217   -3.7394    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3131   -3.9954    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -3.3189    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -2.0023    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3131   -1.3349    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3131    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3349    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2926   -4.2514    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+11919
+
+> <Formula>
+C10H8Cl3N3O
+
+> <FW>
+292.5490 (256.0881+36.4609)
+
+> <DSSTox_CID>
+26725
+
+> <DSSTox_RID>
+81855
+
+> <DSSTox_GSID>
+46725
+
+> <DSSTox_FileID_Sort>
+6536
+
+> <TS_ChemName>
+Anagrelide hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+58579-51-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [68475-42-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H8Cl3N3O
+
+> <STRUCTURE_MW>
+292.549
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+6,7-dichloro-5,10-dihydroimidazo[2,1-b]quinazolin-2-ol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Oc1cn2Cc3c(Nc2n1)ccc(Cl)c3Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1cn2Cc3c(Nc2n1)ccc(Cl)c3Cl
+
+> <Substance_modify_yyyymmdd>
+20110804
+
+$$$$

@@ -1,0 +1,93 @@
+25620-58-0
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3259    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1491   -0.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2983   -1.3259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4474   -0.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6046   -1.3259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7537   -0.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8868   -1.3259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0359   -0.6509    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2983   -2.6519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6046   -2.6519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6046    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+10541
+
+> <Formula>
+C9H22N2
+
+> <FW>
+158.2844
+
+> <DSSTox_CID>
+24894
+
+> <DSSTox_RID>
+80565
+
+> <DSSTox_GSID>
+44894
+
+> <DSSTox_FileID_Sort>
+5247
+
+> <TS_ChemName>
+Trimethylhexane-1,6-diamine
+
+> <TS_ChemName_Synonyms>
+Trimethylhexane-1,6-diamine (1,6-Hexanediamine, C,C,C-trimethyl-)
+
+> <TS_CASRN>
+25620-58-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 2,4,4- [3236-54-2] and 2,2,4-trimethylhexane-1,6-diamine [3236-53-1]; structure shown 2,4,4-trimethylhexane-1,6-diamine
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C9H22N2
+
+> <STRUCTURE_MW>
+158.2844
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4,4-trimethylhexane-1,6-diamine
+
+> <STRUCTURE_SMILES>
+CC(CC(C)(C)CCN)CN
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CC(C)(C)CCN)CN
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

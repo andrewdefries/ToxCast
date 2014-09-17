@@ -1,0 +1,97 @@
+7351-61-3
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    6.6574   -3.6360    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3240   -4.7788    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6572   -4.7788    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3240   -2.4846    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3242   -3.6360    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6574   -5.9302    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6662   -2.4846    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3330   -2.4846    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6578   -1.3332    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3332   -1.3332    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3332    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3332   -2.6578    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3332    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <ID>
+5321
+
+> <Formula>
+C7H11Cl3O2Si
+
+> <FW>
+261.6055
+
+> <DSSTox_CID>
+7647
+
+> <DSSTox_RID>
+78540
+
+> <DSSTox_GSID>
+27647
+
+> <DSSTox_FileID_Sort>
+3223
+
+> <TS_ChemName>
+3-(Trichlorosilyl)propyl methacrylate
+
+> <TS_ChemName_Synonyms>
+3-(Trichlorosilyl)propyl methacrylate (2-Propenoic acid, 2-methyl-, 3-(trichlorosilyl)propyl ester)
+
+> <TS_CASRN>
+7351-61-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H11Cl3O2Si
+
+> <STRUCTURE_MW>
+261.6055
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+3-(trichlorosilyl)propyl 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+Cl[Si](Cl)(Cl)CCCOC(=O)C(=C)C
+
+> <STRUCTURE_SMILES_Desalt>
+Cl[Si](Cl)(Cl)CCCOC(=O)C(=C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

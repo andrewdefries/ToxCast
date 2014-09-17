@@ -1,0 +1,115 @@
+483-84-1
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  2 V2000
+    1.9923   -5.7592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6618   -4.6058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9927   -4.6058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6542   -5.7592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9851   -5.7592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6546   -4.6058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9851   -3.4604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6542   -3.4604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9927   -2.3069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6618   -2.3069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9923   -3.4604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6614   -3.4604    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3069    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6058    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6542   -1.1535    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.9851   -1.1535    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.9927    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6546   -6.9127    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3160   -8.0661    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5011   -7.5822    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8080   -6.2513    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 21  2  0  0  0  0
+M  END
+> <ID>
+4058
+
+> <Formula>
+C10H6N2O8S
+
+> <FW>
+314.2282
+
+> <DSSTox_CID>
+5167
+
+> <DSSTox_RID>
+77695
+
+> <DSSTox_GSID>
+25167
+
+> <DSSTox_FileID_Sort>
+2378
+
+> <TS_ChemName>
+8-Hydroxy-5,7-dinitro-2-naphthalenesulfonic acid
+
+> <TS_ChemName_Synonyms>
+8-Hydroxy-5,7-dinitro-2-naphthalenesulfonic acid (2,4-Dinitro-1-naphtho-7-sulfonic acid)
+
+> <TS_CASRN>
+483-84-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H6N2O8S
+
+> <STRUCTURE_MW>
+314.2282
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+8-hydroxy-5,7-dinitronaphthalene-2-sulfonic acid
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c1cc(c2ccc(cc2c1O)S(=O)(=O)O)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c1cc(c2ccc(cc2c1O)S(=O)(=O)O)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,108 @@
+136-45-8
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    4.6225    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6225   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7850   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7850   -3.3216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9337   -3.9859    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0824   -3.3216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0824   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9337   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2450   -3.9859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2450   -5.3145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3937   -3.3216    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5285   -3.9859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6911   -3.3216    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8398   -3.9859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4738   -1.9929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3251   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1487   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+6507
+
+> <Formula>
+C13H17NO4
+
+> <FW>
+251.2784
+
+> <DSSTox_CID>
+12544
+
+> <DSSTox_RID>
+78975
+
+> <DSSTox_GSID>
+32544
+
+> <DSSTox_FileID_Sort>
+3657
+
+> <TS_ChemName>
+Dipropyl pyridine-2,5-dicarboxylate
+
+> <TS_ChemName_Synonyms>
+2,5-Pyridinedicarboxylic acid, dipropyl ester (Dipropyl isocinchomeronate)
+
+> <TS_CASRN>
+136-45-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H17NO4
+
+> <STRUCTURE_MW>
+251.2784
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dipropyl pyridine-2,5-dicarboxylate
+
+> <STRUCTURE_SMILES>
+O=C(OCCC)c1cnc(cc1)C(=O)OCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCCC)c1cnc(cc1)C(=O)OCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

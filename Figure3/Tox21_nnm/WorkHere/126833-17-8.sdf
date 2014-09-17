@@ -1,0 +1,111 @@
+126833-17-8
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    2.7411   -1.1589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0155   -2.2876    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7458   -2.2876    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7458   -0.0101    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0155   -0.0101    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0714   -1.1589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7365    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7365   -2.2876    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0769   -2.2876    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7521   -3.4667    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7521   -1.1589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -3.4667    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0924   -1.1589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.7676   -2.3179    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0769   -4.6156    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7374   -4.6156    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0777   -2.3179    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3962    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 18  1  0  0  0  0
+M  END
+> <ID>
+6511
+
+> <Formula>
+C14H17Cl2NO2
+
+> <FW>
+302.1963
+
+> <DSSTox_CID>
+12549
+
+> <DSSTox_RID>
+78978
+
+> <DSSTox_GSID>
+32549
+
+> <DSSTox_FileID_Sort>
+3660
+
+> <TS_ChemName>
+Fenhexamid
+
+> <TS_ChemName_Synonyms>
+Fenhexamid (Cyclohexanecarboxamide, N-(2,3-dichloro-4-hydroxyphenyl)-1-methyl-)
+
+> <TS_CASRN>
+126833-17-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H17Cl2NO2
+
+> <STRUCTURE_MW>
+302.1963
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(2,3-dichloro-4-hydroxyphenyl)-1-methylcyclohexanecarboxamide
+
+> <STRUCTURE_SMILES>
+O=C(Nc1ccc(O)c(Cl)c1Cl)C2(C)CCCCC2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Nc1ccc(O)c(Cl)c1Cl)C2(C)CCCCC2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

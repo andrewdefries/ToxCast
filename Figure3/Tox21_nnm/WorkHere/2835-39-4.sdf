@@ -1,0 +1,91 @@
+2835-39-4
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    4.6087    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6087   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7629   -1.9936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9171   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9171    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0713   -1.9936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4626   -1.9936    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3084   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -1.9936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+47
+
+> <Formula>
+C8H14O2
+
+> <FW>
+142.1956
+
+> <DSSTox_CID>
+48
+
+> <DSSTox_RID>
+79428
+
+> <DSSTox_GSID>
+39233
+
+> <DSSTox_FileID_Sort>
+4110
+
+> <TS_ChemName>
+Allyl isovalerate
+
+> <TS_ChemName_Synonyms>
+Allyl 3-methylbutanoate (Prop-2-en-1-yl 3-methylbutanoate) (Allyl isovalerate)
+
+> <TS_CASRN>
+2835-39-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14O2
+
+> <STRUCTURE_MW>
+142.1956
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+prop-2-en-1-yl 3-methylbutanoate
+
+> <STRUCTURE_SMILES>
+CC(C)CC(=O)OCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CC(=O)OCC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

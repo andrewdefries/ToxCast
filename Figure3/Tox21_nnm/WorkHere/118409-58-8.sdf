@@ -1,0 +1,102 @@
+118409-58-8
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    5.7540    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7540   -1.3297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6016   -1.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6016   -3.3202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7540   -3.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9064   -3.3202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9064   -1.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0588   -1.3297    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0588   -3.9891    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4572   -3.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3048   -3.3202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3048   -1.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3048   -0.6608    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524   -3.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6499    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  3  0  0  0  0
+ 14 15  3  0  0  0  0
+M  END
+> <ID>
+10825
+
+> <Formula>
+C10H6N2O3
+
+> <FW>
+202.1662
+
+> <DSSTox_CID>
+25216
+
+> <DSSTox_RID>
+80755
+
+> <DSSTox_GSID>
+45216
+
+> <DSSTox_FileID_Sort>
+5436
+
+> <TS_ChemName>
+Tyrphostin 25
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+118409-58-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H6N2O3
+
+> <STRUCTURE_MW>
+202.1662
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3,4,5-trihydroxybenzylidene)propanedinitrile
+
+> <STRUCTURE_SMILES>
+Oc1cc(\C=C(/C#N)C#N)cc(O)c1O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1cc(\C=C(/C#N)C#N)cc(O)c1O
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

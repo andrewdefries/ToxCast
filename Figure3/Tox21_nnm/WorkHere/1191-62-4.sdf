@@ -1,0 +1,91 @@
+1191-62-4
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    5.7790   -0.6560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6336    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4778   -0.6560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3220    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1558   -0.6560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9348    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0906   -0.6560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2464    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4127   -0.6560    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+12609
+
+> <Formula>
+C8H18S2
+
+> <FW>
+178.3585
+
+> <DSSTox_CID>
+27474
+
+> <DSSTox_RID>
+82372
+
+> <DSSTox_GSID>
+47474
+
+> <DSSTox_FileID_Sort>
+7053
+
+> <TS_ChemName>
+1,8-Octanedithiol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1191-62-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18S2
+
+> <STRUCTURE_MW>
+178.3585
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+octane-1,8-dithiol
+
+> <STRUCTURE_SMILES>
+SCCCCCCCCS
+
+> <STRUCTURE_SMILES_Desalt>
+SCCCCCCCCS
+
+> <Substance_modify_yyyymmdd>
+20100702
+
+$$$$

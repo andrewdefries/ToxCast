@@ -1,0 +1,85 @@
+18328-90-0
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    3.4400   -1.9985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5885   -1.3266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5885    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2857   -1.3266    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543   -1.9985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7429   -1.9985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+5405
+
+> <Formula>
+C6H13N
+
+> <FW>
+99.1741
+
+> <DSSTox_CID>
+7798
+
+> <DSSTox_RID>
+78571
+
+> <DSSTox_GSID>
+27798
+
+> <DSSTox_FileID_Sort>
+3254
+
+> <TS_ChemName>
+N-Ethyl-2-methyl-2-propen-1-amine
+
+> <TS_ChemName_Synonyms>
+N-Ethyl-2-methyl-2-propen-1-amine (Ethyl-(2-methyl-allyl)-amine)
+
+> <TS_CASRN>
+18328-90-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H13N
+
+> <STRUCTURE_MW>
+99.1741
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-ethyl-2-methylprop-2-en-1-amine
+
+> <STRUCTURE_SMILES>
+C=C(C)CNCC
+
+> <STRUCTURE_SMILES_Desalt>
+C=C(C)CNCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

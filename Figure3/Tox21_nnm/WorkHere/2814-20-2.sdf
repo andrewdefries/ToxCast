@@ -1,0 +1,94 @@
+2814-20-2
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    3.4483   -3.9952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2912   -2.0034    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2912   -3.3390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5997   -2.0034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5997   -3.3390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4483   -1.3298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4483    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7568   -3.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1571   -3.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1571   -5.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+5200
+
+> <Formula>
+C8H12N2O
+
+> <FW>
+152.1937
+
+> <DSSTox_CID>
+7502
+
+> <DSSTox_RID>
+78475
+
+> <DSSTox_GSID>
+27502
+
+> <DSSTox_FileID_Sort>
+3158
+
+> <TS_ChemName>
+2-Isopropyl-6-methyl-4-pyrimidone
+
+> <TS_ChemName_Synonyms>
+6-Methyl-2-(1-methylethyl)-4(1H)-pyrimidinone (IMP)  (2-isopropyl-6-methyl-4-pyrimidinol)
+
+> <TS_CASRN>
+2814-20-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12N2O
+
+> <STRUCTURE_MW>
+152.1937
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-methyl-2-(propan-2-yl)pyrimidin-4(1H)-one
+
+> <STRUCTURE_SMILES>
+O=C1C=C(C)NC(=N1)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C=C(C)NC(=N1)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

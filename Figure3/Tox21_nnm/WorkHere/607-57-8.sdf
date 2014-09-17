@@ -1,0 +1,106 @@
+607-57-8
+ChemmineR-0915142007XD
+
+ 16 18  0  0  0  0  0  0  0  0  2 V2000
+    4.3802   -1.8357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3802   -3.0898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2897   -1.1996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1901   -1.8357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1901   -3.0898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0996   -3.7259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0996   -1.1996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5794   -3.0989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4798   -3.7259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5794   -1.8357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4798   -1.1996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0875   -1.1814    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    7.7335   -1.1814    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    7.0519    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  2  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+935
+
+> <Formula>
+C13H9NO2
+
+> <FW>
+211.2161
+
+> <DSSTox_CID>
+971
+
+> <DSSTox_RID>
+75898
+
+> <DSSTox_GSID>
+20971
+
+> <DSSTox_FileID_Sort>
+582
+
+> <TS_ChemName>
+2-Nitrofluorene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+607-57-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H9NO2
+
+> <STRUCTURE_MW>
+211.2161
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-nitro-9H-fluorene
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c1ccc2c3ccccc3Cc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c1ccc2c3ccccc3Cc2c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

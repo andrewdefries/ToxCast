@@ -1,0 +1,107 @@
+101-70-2
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+   10.3664   -2.6607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2146   -1.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0628   -2.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9110   -1.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9110   -0.6681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7591    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073   -0.6681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073   -1.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -2.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -1.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -2.6607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -0.6681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0628    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2146   -0.6681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5183   -1.9927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+4013
+
+> <Formula>
+C14H15NO2
+
+> <FW>
+229.2744
+
+> <DSSTox_CID>
+5093
+
+> <DSSTox_RID>
+77662
+
+> <DSSTox_GSID>
+25093
+
+> <DSSTox_FileID_Sort>
+2345
+
+> <TS_ChemName>
+4,4'-Dimethoxydiphenylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+101-70-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H15NO2
+
+> <STRUCTURE_MW>
+229.2744
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methoxy-N-(4-methoxyphenyl)aniline
+
+> <STRUCTURE_SMILES>
+COc2ccc(Nc1ccc(OC)cc1)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+COc2ccc(Nc1ccc(OC)cc1)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

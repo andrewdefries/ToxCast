@@ -1,0 +1,97 @@
+1075-89-4
+ChemmineR-0915142007XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -4.6704    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6725   -3.5028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0223   -3.5028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6948   -2.3352    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2693   -3.4234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5536   -3.0077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5536   -1.6626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2693   -1.2470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0223   -1.1676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6725   -1.1676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3352    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+16022
+
+> <Formula>
+C9H13NO2
+
+> <FW>
+167.205
+
+> <DSSTox_CID>
+31405
+
+> <DSSTox_RID>
+97291
+
+> <DSSTox_GSID>
+57616
+
+> <DSSTox_FileID_Sort>
+8358
+
+> <TS_ChemName>
+3,3-Tetramethyleneglutarimide
+
+> <TS_ChemName_Synonyms>
+8-Azaspiro[4.5]decane-7,9-dione
+
+> <TS_CASRN>
+1075-89-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H13NO2
+
+> <STRUCTURE_MW>
+167.205
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+8-azaspiro[4.5]decane-7,9-dione
+
+> <STRUCTURE_SMILES>
+O=C2CC1(CCCC1)CC(=O)N2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2CC1(CCCC1)CC(=O)N2
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

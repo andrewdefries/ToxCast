@@ -1,0 +1,79 @@
+107-18-6
+ChemmineR-0915142007XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575   -0.6638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+43
+
+> <Formula>
+C3H6O
+
+> <FW>
+58.0791
+
+> <DSSTox_CID>
+44
+
+> <DSSTox_RID>
+75335
+
+> <DSSTox_GSID>
+20044
+
+> <DSSTox_FileID_Sort>
+19
+
+> <TS_ChemName>
+Allyl alcohol
+
+> <TS_ChemName_Synonyms>
+2-Propen-1-ol
+
+> <TS_CASRN>
+107-18-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H6O
+
+> <STRUCTURE_MW>
+58.0791
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+prop-2-en-1-ol
+
+> <STRUCTURE_SMILES>
+C=CCO
+
+> <STRUCTURE_SMILES_Desalt>
+C=CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

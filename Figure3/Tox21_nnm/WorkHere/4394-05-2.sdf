@@ -1,0 +1,109 @@
+4394-05-2
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    8.0591   -1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9067   -2.6595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9067   -3.9893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7542   -4.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6017   -3.9893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6017   -2.6595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7542   -1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7542   -0.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4574   -1.9906    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -2.6595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -3.9893    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -4.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -0.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+M  END
+> <ID>
+11135
+
+> <Formula>
+C14H14N2O2
+
+> <FW>
+242.2732
+
+> <DSSTox_CID>
+25694
+
+> <DSSTox_RID>
+81066
+
+> <DSSTox_GSID>
+45694
+
+> <DSSTox_FileID_Sort>
+5747
+
+> <TS_ChemName>
+Nixylic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4394-05-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H14N2O2
+
+> <STRUCTURE_MW>
+242.2732
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[(2,3-dimethylphenyl)amino]pyridine-3-carboxylic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)c2cccnc2Nc1cccc(C)c1C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)c2cccnc2Nc1cccc(C)c1C
+
+> <Substance_modify_yyyymmdd>
+20110819
+
+$$$$

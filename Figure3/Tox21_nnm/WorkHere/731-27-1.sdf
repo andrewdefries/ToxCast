@@ -1,0 +1,110 @@
+731-27-1
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    5.7612   -2.6609    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6026   -2.0056    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4679   -2.6609    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1060   -3.8195    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4324   -1.5262    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -2.0056    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6381   -3.1643    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9645   -0.8470    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1586   -1.3344    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1586    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0056    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9119   -3.3401    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4679   -3.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6026   -4.6665    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -4.6665    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6026   -6.0009    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -6.0009    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4679   -6.6562    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4679   -7.9906    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 13  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+9385
+
+> <Formula>
+C10H13Cl2FN2O2S2
+
+> <FW>
+347.2568
+
+> <DSSTox_CID>
+22478
+
+> <DSSTox_RID>
+80035
+
+> <DSSTox_GSID>
+42478
+
+> <DSSTox_FileID_Sort>
+4717
+
+> <TS_ChemName>
+Tolylfluanid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+731-27-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13Cl2FN2O2S2
+
+> <STRUCTURE_MW>
+347.2568
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-{[dichloro(fluoro)methyl]sulfanyl}-N',N'-dimethyl-N-(4-methylphenyl)sulfuric diamide
+
+> <STRUCTURE_SMILES>
+CN(C)S(=O)(=O)N(SC(Cl)(Cl)F)c1ccc(C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)S(=O)(=O)N(SC(Cl)(Cl)F)c1ccc(C)cc1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

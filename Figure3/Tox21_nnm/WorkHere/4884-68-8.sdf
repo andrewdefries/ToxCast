@@ -1,0 +1,105 @@
+4884-68-8
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    3.4512   -2.0087    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3189   -1.3417    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1633   -1.9932    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4512   -3.3426    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5913   -1.3417    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7391   -1.9932    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7391   -3.3581    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5913   -4.0096    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9955   -1.5899    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9955   -3.7537    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.7555   -2.6757    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1633   -3.3581    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3189   -4.0096    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3189    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2874    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1957   -5.0256    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  8  2  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+12953
+
+> <Formula>
+C11H14ClNO3
+
+> <FW>
+243.6868 (207.2258+36.4609)
+
+> <DSSTox_CID>
+27854
+
+> <DSSTox_RID>
+82607
+
+> <DSSTox_GSID>
+47878
+
+> <DSSTox_FileID_Sort>
+7284
+
+> <TS_ChemName>
+Hydrastinine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4884-68-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [6592-85-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H14ClNO3
+
+> <STRUCTURE_MW>
+243.6868
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+6-methyl-5,6,7,8-tetrahydro[1,3]dioxolo[4,5-g]isoquinolin-5-ol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CN1CCc2cc3OCOc3cc2C1O
+
+> <STRUCTURE_SMILES_Desalt>
+CN1CCc2cc3OCOc3cc2C1O
+
+> <Substance_modify_yyyymmdd>
+20110415
+
+$$$$

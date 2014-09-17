@@ -1,0 +1,114 @@
+6170-42-9
+ChemmineR-0915142007XD
+
+ 21 21  0  0  0  0  0  0  0  0  1 V2000
+    5.7698   -2.0028    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7698   -3.3311    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5764   -4.0056    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5764   -1.3594    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9217   -1.3283    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4556   -2.0028    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2047   -1.3075    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0735   -2.0028    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -3.3311    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0160    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3038   -1.3594    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4556   -3.3311    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -2.0028    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3038   -4.0056    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9009   -4.0056    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5764   -5.3132    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3773   -1.9821    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2047    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9009   -5.3132    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7698   -5.9877    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.0490   -4.6283    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  9 14  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+13848
+
+> <Formula>
+C16H21Cl2N3
+
+> <FW>
+326.2640 (289.8031+36.4609)
+
+> <DSSTox_CID>
+28785
+
+> <DSSTox_RID>
+83054
+
+> <DSSTox_GSID>
+48859
+
+> <DSSTox_FileID_Sort>
+7731
+
+> <TS_ChemName>
+Chloropyramine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6170-42-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H21Cl2N3
+
+> <STRUCTURE_MW>
+326.264
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-(4-chlorobenzyl)-N',N'-dimethyl-N-(pyridin-2-yl)ethane-1,2-diamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Clc1ccc(cc1)CN(CCN(C)C)c2ccccn2
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(cc1)CN(CCN(C)C)c2ccccn2
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

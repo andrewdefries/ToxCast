@@ -1,0 +1,112 @@
+842-07-9
+ChemmineR-0915142007XD
+
+ 19 21  0  0  0  0  0  0  0  0  1 V2000
+    4.6062    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -2.6532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6062   -2.6532    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7577   -1.9899    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9093   -2.6532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0608   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2124   -2.6532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2124   -3.9889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0608   -4.6522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9093   -3.9889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -3.9889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -4.6522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+1091
+
+> <Formula>
+C16H12N2O
+
+> <FW>
+248.2793
+
+> <DSSTox_CID>
+1135
+
+> <DSSTox_RID>
+75966
+
+> <DSSTox_GSID>
+21135
+
+> <DSSTox_FileID_Sort>
+650
+
+> <TS_ChemName>
+C.I. Solvent yellow 14
+
+> <TS_ChemName_Synonyms>
+C.I Solvent yellow 14 (1-Phenylazo-2-naphthol)
+
+> <TS_CASRN>
+842-07-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H12N2O
+
+> <STRUCTURE_MW>
+248.2793
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-[(E)-phenyldiazenyl]naphthalen-2-ol
+
+> <STRUCTURE_SMILES>
+Oc3ccc1ccccc1c3/N=N/c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+Oc3ccc1ccccc1c3/N=N/c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

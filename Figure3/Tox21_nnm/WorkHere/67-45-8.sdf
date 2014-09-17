@@ -1,0 +1,105 @@
+67-45-8
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  2 V2000
+    2.2621   -1.7066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9997   -1.3027    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    9.0179   -2.5549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9273   -1.7874    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3426   -0.9291    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6650   -2.1813    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6660   -2.9689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4130   -1.7066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6854   -1.3027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9990   -2.9689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7069    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   10.0984   -1.7874    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1813    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0179   -3.8879    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3514   -0.5150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6844   -0.5150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2 11  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 14  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 12 16  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+8932
+
+> <Formula>
+C8H7N3O5
+
+> <FW>
+225.1583
+
+> <DSSTox_CID>
+21997
+
+> <DSSTox_RID>
+79899
+
+> <DSSTox_GSID>
+41997
+
+> <DSSTox_FileID_Sort>
+4581
+
+> <TS_ChemName>
+Furazolidone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+67-45-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H7N3O5
+
+> <STRUCTURE_MW>
+225.1583
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-{(E)-[(5-nitrofuran-2-yl)methylidene]amino}-1,3-oxazolidin-2-one
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c2oc(/C=N/N1CCOC1=O)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c2oc(/C=N/N1CCOC1=O)cc2
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

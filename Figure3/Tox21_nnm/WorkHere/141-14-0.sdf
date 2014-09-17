@@ -1,0 +1,101 @@
+141-14-0
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    8.0404   -1.3295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8881   -2.0006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7486   -1.3295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5963   -2.0006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4441   -1.3295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3045   -2.0006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1522   -1.3295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2053   -2.0006    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7486   -0.0127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1522    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3575   -1.3295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5098   -2.0006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6620   -1.3295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3575   -0.0127    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+12334
+
+> <Formula>
+C13H24O2
+
+> <FW>
+212.3285
+
+> <DSSTox_CID>
+27187
+
+> <DSSTox_RID>
+82183
+
+> <DSSTox_GSID>
+47187
+
+> <DSSTox_FileID_Sort>
+6864
+
+> <TS_ChemName>
+Citronellyl propionate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+141-14-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H24O2
+
+> <STRUCTURE_MW>
+212.3285
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,7-dimethyloct-6-en-1-yl propanoate
+
+> <STRUCTURE_SMILES>
+C\C(C)=C\CCC(C)CCOC(=O)CC
+
+> <STRUCTURE_SMILES_Desalt>
+C\C(C)=C\CCC(C)CCOC(=O)CC
+
+> <Substance_modify_yyyymmdd>
+20100503
+
+$$$$

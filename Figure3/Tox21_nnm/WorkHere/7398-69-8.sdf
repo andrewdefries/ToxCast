@@ -1,0 +1,90 @@
+7398-69-8
+ChemmineR-0915142007XD
+
+ 10  8  0  0  0  0  0  0  0  0  2 V2000
+    3.1328   -1.3498    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2574    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2556   -0.2574    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8772   -1.3498    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2782   -2.4360    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0226   -2.4360    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3885   -1.3498    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2378   -0.1695    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5113    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0387   -2.9822    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+5323
+
+> <Formula>
+C8H16ClN
+
+> <FW>
+161.6723 (126.2188+35.4535)
+
+> <DSSTox_CID>
+7650
+
+> <DSSTox_RID>
+78541
+
+> <DSSTox_GSID>
+27650
+
+> <DSSTox_FileID_Sort>
+3224
+
+> <TS_ChemName>
+Dimethyldiallylammonium chloride
+
+> <TS_ChemName_Synonyms>
+Dimethyldiallylammonium chloride (2-Propen-1-aminium, N,N-dimethyl-N-2-propenyl-, chloride)
+
+> <TS_CASRN>
+7398-69-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [48042-45-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H16ClN
+
+> <STRUCTURE_MW>
+161.6723
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+N,N-dimethyl-N-(prop-2-en-1-yl)prop-2-en-1-aminium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C=CC[N+](C)(C)CC=C
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC[N+](C)(C)CC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

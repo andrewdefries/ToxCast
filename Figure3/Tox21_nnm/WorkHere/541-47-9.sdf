@@ -1,0 +1,85 @@
+541-47-9
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    3.4515   -1.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3010   -1.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1505   -1.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9973    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1505    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4515    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6020   -1.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+M  END
+> <ID>
+12294
+
+> <Formula>
+C5H8O2
+
+> <FW>
+100.1158
+
+> <DSSTox_CID>
+27145
+
+> <DSSTox_RID>
+82151
+
+> <DSSTox_GSID>
+47145
+
+> <DSSTox_FileID_Sort>
+6832
+
+> <TS_ChemName>
+3,3-Dimethylacrylic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+541-47-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8O2
+
+> <STRUCTURE_MW>
+100.1158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylbut-2-enoic acid
+
+> <STRUCTURE_SMILES>
+C\C(C)=C/C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+C\C(C)=C/C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20100502
+
+$$$$

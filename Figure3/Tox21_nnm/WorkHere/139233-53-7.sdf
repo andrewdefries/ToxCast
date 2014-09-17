@@ -1,0 +1,115 @@
+139233-53-7
+ChemmineR-0915142007XD
+
+ 21 22  0  0  1  0  0  0  0  0  1 V2000
+    1.1229   -2.0072    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580   -2.0072    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580   -3.3089    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2855   -1.3613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1229   -3.3089    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2855   -4.0244    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5709   -1.3613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5709   -4.0244    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7434   -3.3089    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7434   -2.0072    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9060   -1.3613    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5709    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1626   -7.3333    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2855   -7.9792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580   -7.3333    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580   -6.0217    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2855   -5.3360    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1626   -6.0217    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -7.9792    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2855   -9.3405    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7254   -9.9368    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 17  1  1  0  0  0
+  7 10  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+13809
+
+> <Formula>
+C15H16ClNO4
+
+> <FW>
+309.7448 (273.2839+36.4609)
+
+> <DSSTox_CID>
+28746
+
+> <DSSTox_RID>
+83015
+
+> <DSSTox_GSID>
+48820
+
+> <DSSTox_FileID_Sort>
+7692
+
+> <TS_ChemName>
+Zelandopam
+
+> <TS_ChemName_Synonyms>
+SELANDOPAM (ZELANDOPAM)
+
+> <TS_CASRN>
+139233-53-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H16ClNO4
+
+> <STRUCTURE_MW>
+309.7448
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(4R)-4-(3,4-dihydroxyphenyl)-1,2,3,4-tetrahydroisoquinoline-7,8-diol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Oc1ccc(cc1O)[C@H]3CNCc2c3ccc(O)c2O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1O)[C@H]3CNCc2c3ccc(O)c2O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

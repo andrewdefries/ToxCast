@@ -1,0 +1,87 @@
+10039-54-0
+ChemmineR-0915142007XD
+
+  9  6  0  0  0  0  0  0  0  0  2 V2000
+    1.3300   -0.1879    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1879    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3637   -2.2022    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0337   -2.2022    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4888   -2.6600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1588   -1.3300    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.8188   -1.3300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4888    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.4888   -1.3300    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4187
+
+> <Formula>
+H8N2O6S
+
+> <FW>
+164.1383 (34.0373+34.0373+96.0637)
+
+> <DSSTox_CID>
+5424
+
+> <DSSTox_RID>
+77780
+
+> <DSSTox_GSID>
+25424
+
+> <DSSTox_FileID_Sort>
+2463
+
+> <TS_ChemName>
+Hydroxylamine sulfate (2:1)
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+10039-54-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+H8N2O6S
+
+> <STRUCTURE_MW>
+164.1383
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+bis(hydroxyammonium) sulfate
+
+> <STRUCTURE_SMILES>
+[NH3+]O.[NH3+]O.[O-]S([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

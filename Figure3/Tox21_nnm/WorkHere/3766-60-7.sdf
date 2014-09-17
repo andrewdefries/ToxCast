@@ -1,0 +1,104 @@
+3766-60-7
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    2.3083   -5.3179    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -4.6605    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4625   -4.6605    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083   -6.6474    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -3.3164    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6166   -5.3179    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4625   -7.3048    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083   -2.6590    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6590    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6166   -6.6474    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083   -1.3295    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4625   -3.3164    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7635   -7.3048    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4625   -0.6574    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -0.6574    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6166    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6 10  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 14 16  3  0  0  0  0
+M  END
+> <ID>
+8655
+
+> <Formula>
+C12H13ClN2O
+
+> <FW>
+236.6974
+
+> <DSSTox_CID>
+21699
+
+> <DSSTox_RID>
+79825
+
+> <DSSTox_GSID>
+41699
+
+> <DSSTox_FileID_Sort>
+4507
+
+> <TS_ChemName>
+Buturon
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3766-60-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H13ClN2O
+
+> <STRUCTURE_MW>
+236.6974
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-but-3-yn-2-yl-3-(4-chlorophenyl)-1-methylurea
+
+> <STRUCTURE_SMILES>
+Clc1ccc(NC(=O)N(C)C(C)C#C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(NC(=O)N(C)C(C)C#C)cc1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

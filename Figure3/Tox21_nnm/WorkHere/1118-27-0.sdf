@@ -1,0 +1,105 @@
+1118-27-0
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+    8.0732   -2.2951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2380   -1.6377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3798   -2.2951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3798   -3.6329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0732   -3.6329    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9199   -1.6262    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5331   -1.6377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7781    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1207   -1.1418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7781   -2.2836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6132   -2.9525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4715   -2.2836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3182   -2.9409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1533   -2.2605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.9409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4355   -3.4369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1533   -0.9342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+M  END
+> <ID>
+12308
+
+> <Formula>
+C15H26O2
+
+> <FW>
+238.3657
+
+> <DSSTox_CID>
+27160
+
+> <DSSTox_RID>
+82161
+
+> <DSSTox_GSID>
+47160
+
+> <DSSTox_FileID_Sort>
+6842
+
+> <TS_ChemName>
+Linalyl isovalerate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1118-27-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H26O2
+
+> <STRUCTURE_MW>
+238.3657
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,7-dimethylocta-1,6-dien-3-yl 3-methylbutanoate
+
+> <STRUCTURE_SMILES>
+O=C(CC(C)C)OC(C)(CC\C=C(\C)C)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CC(C)C)OC(C)(CC\C=C(\C)C)C=C
+
+> <Substance_modify_yyyymmdd>
+20100502
+
+$$$$

@@ -1,0 +1,92 @@
+5117-12-4
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    2.3050   -1.9870    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -4.6754    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4598   -2.6556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1688   -2.6556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1688   -3.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4598   -3.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1548    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4598    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+10594
+
+> <Formula>
+C7H11NO2
+
+> <FW>
+141.1677
+
+> <DSSTox_CID>
+24947
+
+> <DSSTox_RID>
+80607
+
+> <DSSTox_GSID>
+44947
+
+> <DSSTox_FileID_Sort>
+5289
+
+> <TS_ChemName>
+1-(Morpholin-4-yl)prop-2-en-1-one
+
+> <TS_ChemName_Synonyms>
+Morpholine, 4-(1-oxo-2-propenyl)-
+
+> <TS_CASRN>
+5117-12-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H11NO2
+
+> <STRUCTURE_MW>
+141.1677
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(morpholin-4-yl)prop-2-en-1-one
+
+> <STRUCTURE_SMILES>
+O=C(C=C)N1CCOCC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C=C)N1CCOCC1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

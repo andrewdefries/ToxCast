@@ -1,0 +1,88 @@
+18598-63-5
+ChemmineR-0915142007XD
+
+  9  7  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -1.3316    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1529   -1.9888    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3231   -1.3316    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3231    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4587   -1.9888    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4587   -3.3319    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6116   -1.3316    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7645   -1.9888    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0549   -3.0610    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+11752
+
+> <Formula>
+C4H10ClNO2S
+
+> <FW>
+171.6457 (135.1848+36.4609)
+
+> <DSSTox_CID>
+26520
+
+> <DSSTox_RID>
+81686
+
+> <DSSTox_GSID>
+46520
+
+> <DSSTox_FileID_Sort>
+6367
+
+> <TS_ChemName>
+Methyl L-cysteinate hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+18598-63-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [2485-62-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10ClNO2S
+
+> <STRUCTURE_MW>
+171.6457
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+methyl L-cysteinate hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C(OC)[C@@H](N)CS
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OC)[C@@H](N)CS
+
+> <Substance_modify_yyyymmdd>
+20110811
+
+$$$$

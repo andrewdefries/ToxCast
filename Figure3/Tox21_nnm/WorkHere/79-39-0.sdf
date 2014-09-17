@@ -1,0 +1,83 @@
+79-39-0
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.1494   -1.3255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023   -1.9986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4518   -1.3255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1494    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9986    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023   -3.3241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+M  END
+> <ID>
+6066
+
+> <Formula>
+C4H7NO
+
+> <FW>
+85.1045
+
+> <DSSTox_CID>
+9600
+
+> <DSSTox_RID>
+78780
+
+> <DSSTox_GSID>
+29600
+
+> <DSSTox_FileID_Sort>
+3462
+
+> <TS_ChemName>
+Methacrylamide
+
+> <TS_ChemName_Synonyms>
+Methacrylamide (2-Propenamide, 2-methyl-)
+
+> <TS_CASRN>
+79-39-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H7NO
+
+> <STRUCTURE_MW>
+85.1045
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylprop-2-enamide
+
+> <STRUCTURE_SMILES>
+C=C(C)C(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+C=C(C)C(N)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

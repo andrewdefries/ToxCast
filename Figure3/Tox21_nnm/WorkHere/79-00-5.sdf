@@ -1,0 +1,81 @@
+79-00-5
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    3.4567   -1.9945    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.3308    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.9945    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3308    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+1326
+
+> <Formula>
+C2H3Cl3
+
+> <FW>
+133.4042
+
+> <DSSTox_CID>
+1380
+
+> <DSSTox_RID>
+76123
+
+> <DSSTox_GSID>
+21380
+
+> <DSSTox_FileID_Sort>
+807
+
+> <TS_ChemName>
+1,1,2-Trichloroethane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+79-00-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H3Cl3
+
+> <STRUCTURE_MW>
+133.4042
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1,2-trichloroethane
+
+> <STRUCTURE_SMILES>
+ClCC(Cl)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+ClCC(Cl)Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

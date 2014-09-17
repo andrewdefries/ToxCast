@@ -1,0 +1,115 @@
+125-79-1
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  1 V2000
+    5.7538   -4.2213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6749   -3.4829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0131   -2.3196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6749   -1.1633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0131    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6757    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6757   -2.3196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8382   -2.8072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0015   -3.4829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1578   -2.8072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1578   -1.4698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0015   -0.8080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8382   -1.4698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6950   -4.6462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3567   -5.8025    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6942   -5.8025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6950   -6.9658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3506   -4.6462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5185   -4.1447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3553   -4.8203    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 20 21  3  0  0  0  0
+M  END
+> <ID>
+13901
+
+> <Formula>
+C19H22N2
+
+> <FW>
+278.3914
+
+> <DSSTox_CID>
+28838
+
+> <DSSTox_RID>
+83107
+
+> <DSSTox_GSID>
+48912
+
+> <DSSTox_FileID_Sort>
+7784
+
+> <TS_ChemName>
+Premethadone
+
+> <TS_ChemName_Synonyms>
+(?)-4-Dimethylamino-2,2-diphenylvaleronitrile
+
+> <TS_CASRN>
+125-79-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C19H22N2
+
+> <STRUCTURE_MW>
+278.3914
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(dimethylamino)-2,2-diphenylpentanenitrile
+
+> <STRUCTURE_SMILES>
+CN(C)C(C)CC(C#N)(c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)C(C)CC(C#N)(c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

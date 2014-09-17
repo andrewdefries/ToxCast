@@ -1,0 +1,99 @@
+534-87-2
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    9.1948   -2.6573    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0454   -1.9861    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9145   -2.6573    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7559   -1.9861    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066   -2.6573    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066   -3.9905    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4572   -1.9861    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4572   -0.6620    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3079    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1493   -0.6620    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1493   -1.9861    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3079   -2.6573    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6573    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0206   -3.8434    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+10871
+
+> <Formula>
+C10H16ClNO2
+
+> <FW>
+217.6925 (181.2316+36.4609)
+
+> <DSSTox_CID>
+25322
+
+> <DSSTox_RID>
+80801
+
+> <DSSTox_GSID>
+45322
+
+> <DSSTox_FileID_Sort>
+5482
+
+> <TS_ChemName>
+Etilefrine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+534-87-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [709-55-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16ClNO2
+
+> <STRUCTURE_MW>
+217.6925
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+3-[2-(ethylamino)-1-hydroxyethyl]phenol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.OC(CNCC)c1cc(O)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(CNCC)c1cc(O)ccc1
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

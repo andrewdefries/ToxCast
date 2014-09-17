@@ -1,0 +1,97 @@
+2270-60-2
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    2.3125   -0.6771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1771    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2501   -0.7396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0939   -0.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4584   -0.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3125   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9272   -0.7083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6355   -0.6875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4168   -0.0729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2501   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7605   -0.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6355   -2.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+M  END
+> <ID>
+12550
+
+> <Formula>
+C11H20O2
+
+> <FW>
+184.2753
+
+> <DSSTox_CID>
+27408
+
+> <DSSTox_RID>
+82323
+
+> <DSSTox_GSID>
+47408
+
+> <DSSTox_FileID_Sort>
+7004
+
+> <TS_ChemName>
+Methyl citronellate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2270-60-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture of (3R,S) isomers; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H20O2
+
+> <STRUCTURE_MW>
+184.2753
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 3,7-dimethyloct-6-enoate
+
+> <STRUCTURE_SMILES>
+O=C(CC(C)CC\C=C(/C)C)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CC(C)CC\C=C(/C)C)OC
+
+> <Substance_modify_yyyymmdd>
+20100618
+
+$$$$

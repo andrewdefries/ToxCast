@@ -1,0 +1,93 @@
+5877-42-9
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.4651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3378   -3.4651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9957   -2.3028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3336   -2.3028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9769   -1.1624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3147   -1.1624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9726    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3104    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3378   -1.1624    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0061   -3.4651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3147   -3.4651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+10349
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+24697
+
+> <DSSTox_RID>
+80404
+
+> <DSSTox_GSID>
+44697
+
+> <DSSTox_FileID_Sort>
+5086
+
+> <TS_ChemName>
+4-Ethyloct-1-yn-3-ol
+
+> <TS_ChemName_Synonyms>
+4-Ethyloct-1-yn-3-ol (1-Octyn-3-ol, 4-ethyl-)
+
+> <TS_CASRN>
+5877-42-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-ethyloct-1-yn-3-ol
+
+> <STRUCTURE_SMILES>
+C#CC(O)C(CCCC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+C#CC(O)C(CCCC)CC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

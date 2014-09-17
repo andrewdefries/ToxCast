@@ -1,0 +1,105 @@
+72432-10-1
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    6.6706   -2.3585    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9841   -1.2408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0082   -2.3585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6729   -1.2408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6706   -0.0968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8002   -1.2408    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0217   -2.3673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0481   -0.0704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2745   -3.5905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0152   -1.1968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7017   -0.0704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6841   -2.3673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4482   -3.5817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6864   -1.1968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3570   -4.3561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  6  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <ID>
+10759
+
+> <Formula>
+C12H13NO3
+
+> <FW>
+219.2365
+
+> <DSSTox_CID>
+25128
+
+> <DSSTox_RID>
+80691
+
+> <DSSTox_GSID>
+45128
+
+> <DSSTox_FileID_Sort>
+5373
+
+> <TS_ChemName>
+Aniracetam
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+72432-10-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H13NO3
+
+> <STRUCTURE_MW>
+219.2365
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(4-methoxybenzoyl)pyrrolidin-2-one
+
+> <STRUCTURE_SMILES>
+O=C2CCCN2C(=O)c1ccc(OC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2CCCN2C(=O)c1ccc(OC)cc1
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

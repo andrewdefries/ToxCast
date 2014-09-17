@@ -1,0 +1,89 @@
+3052-50-4
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.3141   -1.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9606   -3.0065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2746   -3.0065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9422   -1.8660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9606   -0.7254    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2746   -0.7254    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5098    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2562   -1.8817    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+5892
+
+> <Formula>
+C5H6O4
+
+> <FW>
+130.0987
+
+> <DSSTox_CID>
+9251
+
+> <DSSTox_RID>
+78734
+
+> <DSSTox_GSID>
+29251
+
+> <DSSTox_FileID_Sort>
+3416
+
+> <TS_ChemName>
+2-Butenedioic acid (2Z)-, monomethyl ester
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3052-50-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H6O4
+
+> <STRUCTURE_MW>
+130.0987
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2Z)-4-methoxy-4-oxobut-2-enoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)/C=C\C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)/C=C\C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

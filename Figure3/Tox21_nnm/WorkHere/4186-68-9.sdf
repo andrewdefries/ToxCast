@@ -1,0 +1,89 @@
+4186-68-9
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  2 V2000
+    1.1592   -2.0077    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.2346   -2.7970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0789   -2.7970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8153   -4.0499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4834   -4.0499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1592   -0.6610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3284   -1.4010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9329   -1.7019    0.0000 I   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+13016
+
+> <Formula>
+C7H16IN
+
+> <FW>
+241.1131 (114.2081+126.9050)
+
+> <DSSTox_CID>
+27917
+
+> <DSSTox_RID>
+82670
+
+> <DSSTox_GSID>
+47941
+
+> <DSSTox_FileID_Sort>
+7347
+
+> <TS_ChemName>
+1-Ethyl-1-methylpyrrolidinium iodide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4186-68-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [15302-90-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H16IN
+
+> <STRUCTURE_MW>
+241.1131
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+1-ethyl-1-methylpyrrolidinium iodide
+
+> <STRUCTURE_SMILES>
+[I-].C[N+]1(CC)CCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+]1(CC)CCCC1
+
+> <Substance_modify_yyyymmdd>
+20110418
+
+$$$$

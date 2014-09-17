@@ -1,0 +1,98 @@
+1825-21-4
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    1.9920    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6560   -1.1545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -1.1545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6540   -2.3031    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -3.4576    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6560   -3.4576    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920   -2.3031    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6640   -2.3031    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4576    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920   -4.6062    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6540   -4.6062    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9820   -2.3031    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6540    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+1062
+
+> <Formula>
+C7H3Cl5O
+
+> <FW>
+280.3631
+
+> <DSSTox_CID>
+1103
+
+> <DSSTox_RID>
+75942
+
+> <DSSTox_GSID>
+21103
+
+> <DSSTox_FileID_Sort>
+626
+
+> <TS_ChemName>
+Pentachloroanisole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1825-21-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H3Cl5O
+
+> <STRUCTURE_MW>
+280.3631
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl pentachlorophenyl ether
+
+> <STRUCTURE_SMILES>
+Clc1c(OC)c(Cl)c(Cl)c(Cl)c1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1c(OC)c(Cl)c(Cl)c(Cl)c1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

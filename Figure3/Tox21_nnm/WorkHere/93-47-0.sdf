@@ -1,0 +1,115 @@
+93-47-0
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  1 V2000
+    1.1408   -0.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4535   -0.6637    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0789   -0.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2920    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0789   -1.9912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9174    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1408   -4.6565    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1408   -1.9912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9174   -2.6653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6047    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7662   -0.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7662   -1.9912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2301    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2301   -2.6653    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2920   -4.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2920   -2.6653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3709   -0.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3709   -1.9912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  6  2  0  0  0  0
+  3 14  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5 15  1  0  0  0  0
+  6 12  1  0  0  0  0
+  8 17  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <ID>
+10649
+
+> <Formula>
+C15H15N3O3
+
+> <FW>
+285.2979
+
+> <DSSTox_CID>
+25002
+
+> <DSSTox_RID>
+80645
+
+> <DSSTox_GSID>
+45002
+
+> <DSSTox_FileID_Sort>
+5327
+
+> <TS_ChemName>
+Verazide
+
+> <TS_ChemName_Synonyms>
+Verazide (Isonicotinic acid, veratrylidenehydrazide)
+
+> <TS_CASRN>
+93-47-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H15N3O3
+
+> <STRUCTURE_MW>
+285.2979
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N'-[(E)-(3,4-dimethoxyphenyl)methylidene]pyridine-4-carbohydrazide
+
+> <STRUCTURE_SMILES>
+O=C(N/N=C/c1ccc(OC)c(OC)c1)c2ccncc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(N/N=C/c1ccc(OC)c(OC)c1)c2ccncc2
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

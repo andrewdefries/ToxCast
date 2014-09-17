@@ -1,0 +1,98 @@
+4861-85-2
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    8.0654   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0654   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9121   -2.6616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7587   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6054   -2.6616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4601   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4601   -0.6694    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3067   -2.6616    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9121    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7587   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+4222
+
+> <Formula>
+C11H14O2
+
+> <FW>
+178.2277
+
+> <DSSTox_CID>
+5483
+
+> <DSSTox_RID>
+77805
+
+> <DSSTox_GSID>
+25483
+
+> <DSSTox_FileID_Sort>
+2488
+
+> <TS_ChemName>
+Isopropyl phenylacetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4861-85-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H14O2
+
+> <STRUCTURE_MW>
+178.2277
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+propan-2-yl phenylacetate
+
+> <STRUCTURE_SMILES>
+CC(C)OC(=O)Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)OC(=O)Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

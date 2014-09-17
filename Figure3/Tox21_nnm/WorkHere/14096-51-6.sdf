@@ -1,0 +1,86 @@
+14096-51-6
+ChemmineR-0915142007XD
+
+  7  7  0  0  0  0  0  0  0  0  2 V2000
+    0.1394   -1.8652    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.5410    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2114    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1795   -0.2058    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+    2.1075   -0.9890    0.0000 Pt   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3189   -1.5300    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+    1.4371   -2.1440    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+13975
+
+> <Formula>
+C2H6Cl2N2Pt
+
+> <FW>
+324.0735
+
+> <DSSTox_CID>
+28914
+
+> <DSSTox_RID>
+83182
+
+> <DSSTox_GSID>
+48988
+
+> <DSSTox_FileID_Sort>
+7858
+
+> <TS_ChemName>
+Dichloro(ethylenediamine)platinum(II)
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+14096-51-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H6Cl2N2Pt
+
+> <STRUCTURE_MW>
+324.0735
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+dichloro[ethane-1,2-diaminato(2-)-kappa~2~N,N']platinate(2-)
+
+> <STRUCTURE_SMILES>
+[Cl-][Pt]1([Cl-])NCCN1
+
+> <STRUCTURE_SMILES_Desalt>
+[Cl-][Pt]1([Cl-])NCCN1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

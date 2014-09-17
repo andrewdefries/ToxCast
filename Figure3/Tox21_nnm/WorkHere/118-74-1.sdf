@@ -1,0 +1,96 @@
+118-74-1
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3036    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -2.3036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901   -2.3036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -3.4581    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -3.4581    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -4.6072    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901   -4.6072    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -2.3036    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+653
+
+> <Formula>
+C6Cl6
+
+> <FW>
+284.7822
+
+> <DSSTox_CID>
+682
+
+> <DSSTox_RID>
+75730
+
+> <DSSTox_GSID>
+20682
+
+> <DSSTox_FileID_Sort>
+414
+
+> <TS_ChemName>
+Hexachlorobenzene
+
+> <TS_ChemName_Synonyms>
+Hexachlorobenzene  (HCB) (1,2,3,4,5,6-Hexachloro-benzene)
+
+> <TS_CASRN>
+118-74-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6Cl6
+
+> <STRUCTURE_MW>
+284.7822
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexachlorobenzene
+
+> <STRUCTURE_SMILES>
+Clc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

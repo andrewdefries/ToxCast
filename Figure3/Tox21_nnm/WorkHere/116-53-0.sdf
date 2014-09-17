@@ -1,0 +1,85 @@
+116-53-0
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3306   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9941   -3.4560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3247   -3.4560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9941   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3306    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3247   -1.1508    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <ID>
+1558
+
+> <Formula>
+C5H10O2
+
+> <FW>
+102.1317
+
+> <DSSTox_CID>
+1621
+
+> <DSSTox_RID>
+76241
+
+> <DSSTox_GSID>
+21621
+
+> <DSSTox_FileID_Sort>
+925
+
+> <TS_ChemName>
+2-Methylbutanoic acid
+
+> <TS_ChemName_Synonyms>
+2-Methylbutyric acid
+
+> <TS_CASRN>
+116-53-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of R,S isomers; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C5H10O2
+
+> <STRUCTURE_MW>
+102.1317
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylbutanoic acid
+
+> <STRUCTURE_SMILES>
+CC(CC)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CC)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

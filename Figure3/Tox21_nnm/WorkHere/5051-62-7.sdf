@@ -1,0 +1,100 @@
+5051-62-7
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1507    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3324   -1.1507    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9985    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9985   -2.3013    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3309   -2.3013    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6632   -2.3013    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9956   -2.3013    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6531   -1.1507    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9956    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9768   -1.1507    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6516   -2.3013    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9768   -3.4607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6531   -3.4607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9956   -4.6113    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+11110
+
+> <Formula>
+C8H8Cl2N4
+
+> <FW>
+231.0819
+
+> <DSSTox_CID>
+25666
+
+> <DSSTox_RID>
+81042
+
+> <DSSTox_GSID>
+45666
+
+> <DSSTox_FileID_Sort>
+5723
+
+> <TS_ChemName>
+Guanabenz
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5051-62-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8Cl2N4
+
+> <STRUCTURE_MW>
+231.0819
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(2,6-dichlorobenzylidene)hydrazinecarboximidamide
+
+> <STRUCTURE_SMILES>
+Clc1cccc(Cl)c1/C=N/NC(=N)N
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cccc(Cl)c1/C=N/NC(=N)N
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

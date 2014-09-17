@@ -1,0 +1,94 @@
+1918-13-4
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.7085   -2.3102    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9916   -3.4583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6842   -3.4583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3102    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6842   -1.1621    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9916   -1.1621    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0347   -2.3102    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6860   -3.4583    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6860   -1.1621    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6476    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6476   -4.6204    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+8735
+
+> <Formula>
+C7H5Cl2NS
+
+> <FW>
+206.0923
+
+> <DSSTox_CID>
+21783
+
+> <DSSTox_RID>
+79842
+
+> <DSSTox_GSID>
+41783
+
+> <DSSTox_FileID_Sort>
+4524
+
+> <TS_ChemName>
+Chlorthiamid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1918-13-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H5Cl2NS
+
+> <STRUCTURE_MW>
+206.0923
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,6-dichlorobenzenecarbothioamide
+
+> <STRUCTURE_SMILES>
+S=C(N)c1c(Cl)cccc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+S=C(N)c1c(Cl)cccc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

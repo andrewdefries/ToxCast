@@ -1,0 +1,102 @@
+618-88-2
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  2 V2000
+    5.7200   -1.3131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4306   -5.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5856   -2.0075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4306   -4.0012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5856   -3.3481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7200    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5856   -5.9744    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8750   -2.0075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2894   -5.9744    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4306   -1.3131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2894   -3.3481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2894   -2.0075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1206   -1.3131    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0075    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1206    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <ID>
+8506
+
+> <Formula>
+C8H5NO6
+
+> <FW>
+211.1284
+
+> <DSSTox_CID>
+21540
+
+> <DSSTox_RID>
+79770
+
+> <DSSTox_GSID>
+41540
+
+> <DSSTox_FileID_Sort>
+4452
+
+> <TS_ChemName>
+5-Nitroisophthalic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+618-88-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H5NO6
+
+> <STRUCTURE_MW>
+211.1284
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-nitrobenzene-1,3-dicarboxylic acid
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1cc(cc(c1)C(=O)O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1cc(cc(c1)C(=O)O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

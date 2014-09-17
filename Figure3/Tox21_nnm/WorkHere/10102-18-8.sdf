@@ -1,0 +1,81 @@
+10102-18-8
+ChemmineR-0915142007XD
+
+  6  3  0  0  0  0  0  0  0  0  2 V2000
+    3.9335   -2.7141    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    3.7407    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    1.3334   -1.4121    0.0000 Se   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4121    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9903   -2.5686    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.9903   -0.2596    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+> <ID>
+6391
+
+> <Formula>
+Na2O3Se
+
+> <FW>
+172.9377 (22.9892+22.9892+126.9593)
+
+> <DSSTox_CID>
+12077
+
+> <DSSTox_RID>
+78904
+
+> <DSSTox_GSID>
+32077
+
+> <DSSTox_FileID_Sort>
+3586
+
+> <TS_ChemName>
+Sodium selenite
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+10102-18-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+Na2O3Se
+
+> <STRUCTURE_MW>
+172.9377
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+disodium selenite
+
+> <STRUCTURE_SMILES>
+[Na+].[Na+].[O-][Se]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[Se](O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,89 @@
+6863-58-7
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -0.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2998    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -0.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -1.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2998   -2.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2998   -4.0071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -4.6649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -1.9966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+5313
+
+> <Formula>
+C8H18O
+
+> <FW>
+130.2279
+
+> <DSSTox_CID>
+7636
+
+> <DSSTox_RID>
+78536
+
+> <DSSTox_GSID>
+27636
+
+> <DSSTox_FileID_Sort>
+3219
+
+> <TS_ChemName>
+Bis(2-butyl) ether
+
+> <TS_ChemName_Synonyms>
+Bis(2-butyl) ether (Butane, 2,2'-oxybis-)
+
+> <TS_CASRN>
+6863-58-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18O
+
+> <STRUCTURE_MW>
+130.2279
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(butan-2-yloxy)butane
+
+> <STRUCTURE_SMILES>
+CC(CC)OC(C)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CC)OC(C)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,105 @@
+5234-68-4
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    2.3038   -2.6662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4717   -1.9816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5995   -2.6501    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3038   -3.9953    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4717   -0.6525    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6662    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7513   -1.9816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -0.6686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -4.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9032   -2.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7513   -0.6525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9032    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0551   -1.9816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0551   -0.6525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+3440
+
+> <Formula>
+C12H13NO2S
+
+> <FW>
+235.3021
+
+> <DSSTox_CID>
+3951
+
+> <DSSTox_RID>
+77240
+
+> <DSSTox_GSID>
+23951
+
+> <DSSTox_FileID_Sort>
+1923
+
+> <TS_ChemName>
+Carboxin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5234-68-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H13NO2S
+
+> <STRUCTURE_MW>
+235.3021
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-N-phenyl-5,6-dihydro-1,4-oxathiine-3-carboxamide
+
+> <STRUCTURE_SMILES>
+O=C(Nc1ccccc1)C=2SCCOC=2C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Nc1ccccc1)C=2SCCOC=2C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

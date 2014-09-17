@@ -1,0 +1,99 @@
+551-06-4
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    2.6638   -3.4542    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3319   -3.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4542    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3298   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6638   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3298    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6544    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3204   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6523   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3182   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6523   -3.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3204   -3.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6544   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+4356
+
+> <Formula>
+C11H7NS
+
+> <FW>
+185.245
+
+> <DSSTox_CID>
+5703
+
+> <DSSTox_RID>
+77886
+
+> <DSSTox_GSID>
+25703
+
+> <DSSTox_FileID_Sort>
+2569
+
+> <TS_ChemName>
+alpha-Naphylisothiocyanate
+
+> <TS_ChemName_Synonyms>
+alpha-Naphthylisothiocyanate (ANIT)
+
+> <TS_CASRN>
+551-06-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H7NS
+
+> <STRUCTURE_MW>
+185.245
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-isothiocyanatonaphthalene
+
+> <STRUCTURE_SMILES>
+S=C=N\c2cccc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+S=C=N\c2cccc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

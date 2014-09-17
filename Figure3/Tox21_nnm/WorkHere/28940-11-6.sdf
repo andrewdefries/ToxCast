@@ -1,0 +1,99 @@
+28940-11-6
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    4.4849   -3.0002    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4464   -2.1694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4464   -0.8385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4849    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7850   -0.3077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3620   -1.4924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7850   -2.6925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6929   -1.4924    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2925   -0.1616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1385   -0.8385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1385   -2.1694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2925   -2.8233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.8233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+12313
+
+> <Formula>
+C10H10O3
+
+> <FW>
+178.1846
+
+> <DSSTox_CID>
+27165
+
+> <DSSTox_RID>
+82166
+
+> <DSSTox_GSID>
+47165
+
+> <DSSTox_FileID_Sort>
+6847
+
+> <TS_ChemName>
+7-Methyl-2H-1,5-benzodioxepin-3(4H)-one
+
+> <TS_ChemName_Synonyms>
+7-Methyl-2H-1,5-benzodioxepin-3(4H)-one (Calone) (Watermelon Ketone)
+
+> <TS_CASRN>
+28940-11-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H10O3
+
+> <STRUCTURE_MW>
+178.1846
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+7-methyl-2H-1,5-benzodioxepin-3(4H)-one
+
+> <STRUCTURE_SMILES>
+Cc1cc2OCC(=O)COc2cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc2OCC(=O)COc2cc1
+
+> <Substance_modify_yyyymmdd>
+20100503
+
+$$$$

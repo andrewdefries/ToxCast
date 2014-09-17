@@ -1,0 +1,79 @@
+10043-35-3
+ChemmineR-0915142007XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    1.9950    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3292   -1.1518    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -2.3037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1518    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+M  END
+> <ID>
+190
+
+> <Formula>
+H3BO3
+
+> <FW>
+61.833
+
+> <DSSTox_CID>
+194
+
+> <DSSTox_RID>
+75425
+
+> <DSSTox_GSID>
+20194
+
+> <DSSTox_FileID_Sort>
+109
+
+> <TS_ChemName>
+Boric acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+10043-35-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+H3BO3
+
+> <STRUCTURE_MW>
+61.833
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+boric acid
+
+> <STRUCTURE_SMILES>
+OB(O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OB(O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

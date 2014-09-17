@@ -1,0 +1,94 @@
+2399-48-6
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    5.5467   -1.3337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6843   -2.0084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8454   -1.3337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5467    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3856   -2.0084    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2480   -1.3337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9457   -3.3108    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6276   -3.6010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0869   -2.0084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8708   -1.4592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+10531
+
+> <Formula>
+C8H12O3
+
+> <FW>
+156.1791
+
+> <DSSTox_CID>
+24884
+
+> <DSSTox_RID>
+80558
+
+> <DSSTox_GSID>
+44884
+
+> <DSSTox_FileID_Sort>
+5240
+
+> <TS_ChemName>
+Tetrahydrofurfuryl acrylate
+
+> <TS_ChemName_Synonyms>
+Tetrahydrofuran-2-ylmethyl prop-2-enoate (2-Propenoic acid, (tetrahydro-2-furanyl)methyl ester)
+
+> <TS_CASRN>
+2399-48-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12O3
+
+> <STRUCTURE_MW>
+156.1791
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tetrahydrofuran-2-ylmethyl prop-2-enoate
+
+> <STRUCTURE_SMILES>
+O=C(OCC1CCCO1)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC1CCCO1)C=C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

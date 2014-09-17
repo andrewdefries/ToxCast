@@ -1,0 +1,108 @@
+4574-04-3
+ChemmineR-0915142007XD
+
+ 19 17  0  0  0  0  0  0  0  0  2 V2000
+    5.3935   -1.8114    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5536   -1.1398    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6934   -1.8114    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.8535   -1.1398    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9932   -1.8114    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.1533   -1.1398    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.3134   -1.8114    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.4532   -1.1398    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   14.6133   -1.8114    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   15.7531   -1.1398    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   16.8928   -1.8114    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   18.0529   -1.1398    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   19.1927   -1.8114    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   20.3528   -1.1398    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2537   -1.1398    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    4.9050    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5821   -2.2999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1140   -0.4885    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1398    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+M  END
+> <ID>
+8258
+
+> <Formula>
+C17H38ClN
+
+> <FW>
+291.9433 (256.4898+35.4535)
+
+> <DSSTox_CID>
+21289
+
+> <DSSTox_RID>
+79679
+
+> <DSSTox_GSID>
+41289
+
+> <DSSTox_FileID_Sort>
+4361
+
+> <TS_ChemName>
+Myristyltrimethylammonium chlorideN,N,N-Trimethyltetradecan-1-aminium chloride
+
+> <TS_ChemName_Synonyms>
+N,N,N-Trimethyltetradecan-1-aminium chloride; 1-Tetradecanaminium, N,N,N-trimethyl-, chloride
+
+> <TS_CASRN>
+4574-04-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [10182-92-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H38ClN
+
+> <STRUCTURE_MW>
+291.9433
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+N,N,N-trimethyltetradecan-1-aminium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C[N+](C)(C)CCCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(C)CCCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

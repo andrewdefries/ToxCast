@@ -1,0 +1,97 @@
+10213-75-9
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    9.2133   -2.6626    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0616   -3.3260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9100   -3.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7583   -3.3260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066   -3.9894    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550   -3.3260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550   -1.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3033   -1.3267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -1.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -3.3260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066   -1.3267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+4131
+
+> <Formula>
+C11H21NO
+
+> <FW>
+183.2905
+
+> <DSSTox_CID>
+5303
+
+> <DSSTox_RID>
+77738
+
+> <DSSTox_GSID>
+25303
+
+> <DSSTox_FileID_Sort>
+2421
+
+> <TS_ChemName>
+3-((2-Ethylhexyl)oxy)propionitrile
+
+> <TS_ChemName_Synonyms>
+3-((Ethylhexyl)oxy)propionitrile
+
+> <TS_CASRN>
+10213-75-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H21NO
+
+> <STRUCTURE_MW>
+183.2905
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-[(2-ethylhexyl)oxy]propanenitrile
+
+> <STRUCTURE_SMILES>
+CCCCC(COCCC#N)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCC(COCCC#N)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

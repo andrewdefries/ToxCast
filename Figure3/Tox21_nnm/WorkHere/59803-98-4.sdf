@@ -1,0 +1,108 @@
+59803-98-4
+ChemmineR-0915142007XD
+
+ 17 19  0  0  0  0  0  0  0  0  1 V2000
+    5.5022    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5022   -1.3352    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6582   -2.0073    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8053   -1.3352    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9613   -2.0073    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9613   -3.3336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8053   -3.9878    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6582   -3.3336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5022   -3.9878    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3552   -3.3336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3552   -2.0073    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2171   -1.3352    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0521   -2.0073    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0521   -3.3336    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7707   -3.7189    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6436    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7886   -1.5682    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+10828
+
+> <Formula>
+C11H10BrN5
+
+> <FW>
+292.1346
+
+> <DSSTox_CID>
+25221
+
+> <DSSTox_RID>
+80758
+
+> <DSSTox_GSID>
+45221
+
+> <DSSTox_FileID_Sort>
+5439
+
+> <TS_ChemName>
+Brimonidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+59803-98-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H10BrN5
+
+> <STRUCTURE_MW>
+292.1346
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-bromo-N-(4,5-dihydro-1H-imidazol-2-yl)quinoxalin-6-amine
+
+> <STRUCTURE_SMILES>
+Brc2c3nccnc3ccc2NC1=NCCN1
+
+> <STRUCTURE_SMILES_Desalt>
+Brc2c3nccnc3ccc2NC1=NCCN1
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

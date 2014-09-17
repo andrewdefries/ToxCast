@@ -1,0 +1,85 @@
+2935-90-2
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    2.2709   -1.3338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4437   -2.0007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5878   -1.3338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2709    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1441   -2.0007    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7491   -2.0007    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+5206
+
+> <Formula>
+C4H8O2S
+
+> <FW>
+120.1701
+
+> <DSSTox_CID>
+7509
+
+> <DSSTox_RID>
+78480
+
+> <DSSTox_GSID>
+27509
+
+> <DSSTox_FileID_Sort>
+3163
+
+> <TS_ChemName>
+Methyl 3-sulfanylpropanoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2935-90-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8O2S
+
+> <STRUCTURE_MW>
+120.1701
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 3-sulfanylpropanoate
+
+> <STRUCTURE_SMILES>
+O=C(OC)CCS
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OC)CCS
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

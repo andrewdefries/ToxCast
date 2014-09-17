@@ -1,0 +1,108 @@
+1861-32-1
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    2.3118   -1.9749    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3118   -4.6302    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4611   -3.9762    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1559   -2.6288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1559   -3.9762    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4611   -2.6288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3118   -0.6407    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3118   -5.9644    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4611    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1559   -6.6051    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9749    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6302    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6169   -4.6302    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6169   -1.9749    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1559    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4611   -6.6051    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6169   -5.9181    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6869    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  6  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+3463
+
+> <Formula>
+C10H6Cl4O4
+
+> <FW>
+331.9642
+
+> <DSSTox_CID>
+4000
+
+> <DSSTox_RID>
+77254
+
+> <DSSTox_GSID>
+24000
+
+> <DSSTox_FileID_Sort>
+1937
+
+> <TS_ChemName>
+Chlorthal-dimethyl
+
+> <TS_ChemName_Synonyms>
+Chlorthal-dimethyl (Dacthal) (DCPA)
+
+> <TS_CASRN>
+1861-32-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H6Cl4O4
+
+> <STRUCTURE_MW>
+331.9642
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dimethyl 2,3,5,6-tetrachlorobenzene-1,4-dicarboxylate
+
+> <STRUCTURE_SMILES>
+Clc1c(C(=O)OC)c(Cl)c(Cl)c(C(=O)OC)c1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1c(C(=O)OC)c(Cl)c(Cl)c(C(=O)OC)c1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,91 @@
+760-67-8
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    5.9910    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3200   -1.1563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -1.1563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3130   -2.3065    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9890   -2.3065    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -3.4628    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4628    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9730   -2.3065    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3310    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0010    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+5067
+
+> <Formula>
+C8H15ClO
+
+> <FW>
+162.6571
+
+> <DSSTox_CID>
+7308
+
+> <DSSTox_RID>
+78399
+
+> <DSSTox_GSID>
+27308
+
+> <DSSTox_FileID_Sort>
+3082
+
+> <TS_ChemName>
+2-Ethylhexanoyl chloride
+
+> <TS_ChemName_Synonyms>
+Hexanoyl chloride, 2-ethyl-
+
+> <TS_CASRN>
+760-67-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H15ClO
+
+> <STRUCTURE_MW>
+162.6571
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethylhexanoyl chloride
+
+> <STRUCTURE_SMILES>
+CCCCC(CC)C(Cl)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCC(CC)C(Cl)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

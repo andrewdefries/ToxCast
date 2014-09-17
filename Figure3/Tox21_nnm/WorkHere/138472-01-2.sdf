@@ -1,0 +1,101 @@
+138472-01-2
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  2 V2000
+    1.1515   -2.0186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -2.6568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4615   -2.0186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6269   -2.6568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7853   -2.0186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9368   -2.6568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -0.6867    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6568    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6269   -3.9887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7853   -4.6754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -3.9887    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4754   -4.6754    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7853   -0.6867    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.6477    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.9368    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <ID>
+13228
+
+> <Formula>
+C8H13N3O4
+
+> <FW>
+215.2065
+
+> <DSSTox_CID>
+28141
+
+> <DSSTox_RID>
+82706
+
+> <DSSTox_GSID>
+48167
+
+> <DSSTox_FileID_Sort>
+7383
+
+> <TS_ChemName>
+FR900409
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+138472-01-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H13N3O4
+
+> <STRUCTURE_MW>
+215.2065
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E,3E)-4-ethyl-2-(hydroxyimino)-5-nitrohex-3-enamide
+
+> <STRUCTURE_SMILES>
+CC(C(=C/C(=N\O)C(=O)N)/CC)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C(=C/C(=N\O)C(=O)N)/CC)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20130910
+
+$$$$

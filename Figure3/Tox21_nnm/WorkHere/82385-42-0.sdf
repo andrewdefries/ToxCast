@@ -1,0 +1,99 @@
+82385-42-0
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  2 V2000
+    4.7210   -4.0832    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5706   -3.4156    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3009   -3.0043    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1504   -3.6719    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0043    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6750    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1504   -1.0133    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3009   -1.6750    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5706   -1.2637    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3514   -2.3426    0.0000 N    0  5  0  0  0  0  0  0  0  0  0  0
+    3.9759    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0281   -4.6316    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3963   -5.9609    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    1.0610   -5.9609    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+1844
+
+> <Formula>
+C7H6NNaO4S
+
+> <FW>
+223.1816 (182.1771+22.9892+18.0153)
+
+> <DSSTox_CID>
+1992
+
+> <DSSTox_RID>
+76445
+
+> <DSSTox_GSID>
+21992
+
+> <DSSTox_FileID_Sort>
+1129
+
+> <TS_ChemName>
+Sodium saccharin hydrate
+
+> <TS_ChemName_Synonyms>
+Saccharin sodium salt hydrate
+
+> <TS_CASRN>
+82385-42-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [81-07-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6NNaO4S
+
+> <STRUCTURE_MW>
+223.1816
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt complex
+
+> <STRUCTURE_IUPAC>
+sodium 3-oxo-3H-1,2-benzothiazol-2-ide 1,1-dioxide hydrate (1:1:1)
+
+> <STRUCTURE_SMILES>
+[Na+].O.O=C1[N-]S(=O)(=O)c2ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2NS(=O)(=O)c1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

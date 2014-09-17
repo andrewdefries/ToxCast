@@ -1,0 +1,97 @@
+122-20-3
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -5.7554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6641   -4.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922   -4.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6563   -3.4520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6563   -1.1487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -1.1487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -3.4520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6546   -4.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9827   -4.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -5.7554    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+1360
+
+> <Formula>
+C9H21NO3
+
+> <FW>
+191.2679
+
+> <DSSTox_CID>
+1415
+
+> <DSSTox_RID>
+76150
+
+> <DSSTox_GSID>
+21415
+
+> <DSSTox_FileID_Sort>
+834
+
+> <TS_ChemName>
+Triisopropanolamine
+
+> <TS_ChemName_Synonyms>
+Triisopropanolamine (Tris(2-hydroxypropyl)amine) (Tri-isopropanolamine)
+
+> <TS_CASRN>
+122-20-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H21NO3
+
+> <STRUCTURE_MW>
+191.2679
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1',1''-nitrilotripropan-2-ol
+
+> <STRUCTURE_SMILES>
+CC(O)CN(CC(C)O)CC(O)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)CN(CC(C)O)CC(O)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,86 @@
+6262-42-6
+ChemmineR-0915142007XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    0.6447    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3084   -1.1529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4614   -1.8166    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7926   -1.8166    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3084   -2.4803    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7635   -3.7319    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7117    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+1597
+
+> <Formula>
+C3Cl4
+
+> <FW>
+177.8441
+
+> <DSSTox_CID>
+1660
+
+> <DSSTox_RID>
+76272
+
+> <DSSTox_GSID>
+21660
+
+> <DSSTox_FileID_Sort>
+956
+
+> <TS_ChemName>
+Tetrachlorocyclopropene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6262-42-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3Cl4
+
+> <STRUCTURE_MW>
+177.8441
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tetrachlorocyclopropene
+
+> <STRUCTURE_SMILES>
+ClC1=C(Cl)C1(Cl)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+ClC1=C(Cl)C1(Cl)Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

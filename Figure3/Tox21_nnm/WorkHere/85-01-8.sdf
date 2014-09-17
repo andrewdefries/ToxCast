@@ -1,0 +1,102 @@
+85-01-8
+ChemmineR-0915142007XD
+
+ 14 16  0  0  0  0  0  0  0  0  1 V2000
+    2.3056   -2.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440   -2.0008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5996   -2.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -3.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440   -4.6629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5996   -3.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1499   -2.0008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440   -0.6727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7495   -2.0181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1499   -4.6629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5996    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7495   -0.6727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7 12  2  0  0  0  0
+  8 11  2  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+3585
+
+> <Formula>
+C14H10
+
+> <FW>
+178.2292
+
+> <DSSTox_CID>
+4254
+
+> <DSSTox_RID>
+77342
+
+> <DSSTox_GSID>
+24254
+
+> <DSSTox_FileID_Sort>
+2025
+
+> <TS_ChemName>
+Phenanthrene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+85-01-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H10
+
+> <STRUCTURE_MW>
+178.2292
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+phenanthrenato
+
+> <STRUCTURE_SMILES>
+c2cc3ccc1ccccc1c3cc2
+
+> <STRUCTURE_SMILES_Desalt>
+c2cc3ccc1ccccc1c3cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

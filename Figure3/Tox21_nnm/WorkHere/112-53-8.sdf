@@ -1,0 +1,97 @@
+112-53-8
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    1.1557    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2838   -0.6741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4257    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5813   -0.6741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7232    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8789   -0.6741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0345    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1764   -0.6741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4740   -0.6741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6021    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7578   -0.6741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6741    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+4848
+
+> <Formula>
+C12H26O
+
+> <FW>
+186.3342
+
+> <DSSTox_CID>
+6918
+
+> <DSSTox_RID>
+78253
+
+> <DSSTox_GSID>
+26918
+
+> <DSSTox_FileID_Sort>
+2936
+
+> <TS_ChemName>
+1-Dodecanol
+
+> <TS_ChemName_Synonyms>
+Lauryl alcohol
+
+> <TS_CASRN>
+112-53-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H26O
+
+> <STRUCTURE_MW>
+186.3342
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dodecan-1-ol
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCCCO
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

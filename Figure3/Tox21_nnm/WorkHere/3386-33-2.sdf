@@ -1,0 +1,109 @@
+3386-33-2
+ChemmineR-0915142007XD
+
+ 19 18  0  0  0  0  0  0  0  0  1 V2000
+    1.1525    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3256   -0.6792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4988    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5895   -0.6792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7627    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9358   -0.6792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0266    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1997   -0.6792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3522    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.4636   -0.6792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6161    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.7892   -0.6792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   14.8800    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   16.0531   -0.6792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   17.1645    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   18.3170   -0.6792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   19.4901    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   20.5809   -0.6792    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6792    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+5228
+
+> <Formula>
+C18H37Cl
+
+> <FW>
+288.9394
+
+> <DSSTox_CID>
+7536
+
+> <DSSTox_RID>
+78494
+
+> <DSSTox_GSID>
+27536
+
+> <DSSTox_FileID_Sort>
+3177
+
+> <TS_ChemName>
+Octadecane, 1-chloro-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3386-33-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H37Cl
+
+> <STRUCTURE_MW>
+288.9394
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chlorooctadecane
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCCCCCCCCCCl
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCCCCCCCCCCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

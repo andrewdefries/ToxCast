@@ -1,0 +1,90 @@
+17376-04-4
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -1.1548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -1.1548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3194    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9836   -1.1548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3194   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+4202
+
+> <Formula>
+C8H9I
+
+> <FW>
+232.0615
+
+> <DSSTox_CID>
+5447
+
+> <DSSTox_RID>
+77789
+
+> <DSSTox_GSID>
+25447
+
+> <DSSTox_FileID_Sort>
+2472
+
+> <TS_ChemName>
+2-Iodoethylbenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+17376-04-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9I
+
+> <STRUCTURE_MW>
+232.0615
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2-iodoethyl)benzene
+
+> <STRUCTURE_SMILES>
+ICCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+ICCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,92 @@
+55704-78-4
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.1512    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8112   -1.1563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1512   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8262   -2.3076    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -1.1563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8262    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9625   -1.8262    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4963    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9625   -0.4963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+M  END
+> <ID>
+12804
+
+> <Formula>
+C6H12O2S2
+
+> <FW>
+180.2883
+
+> <DSSTox_CID>
+27683
+
+> <DSSTox_RID>
+82500
+
+> <DSSTox_GSID>
+47683
+
+> <DSSTox_FileID_Sort>
+7181
+
+> <TS_ChemName>
+2,5-Dimethyl-1,4-dithiane-2,5-diol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+55704-78-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O2S2
+
+> <STRUCTURE_MW>
+180.2883
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,5-dimethyl-1,4-dithiane-2,5-diol
+
+> <STRUCTURE_SMILES>
+CC1(O)CSC(C)(O)CS1
+
+> <STRUCTURE_SMILES_Desalt>
+CC1(O)CSC(C)(O)CS1
+
+> <Substance_modify_yyyymmdd>
+20101215
+
+$$$$

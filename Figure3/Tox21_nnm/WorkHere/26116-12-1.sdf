@@ -1,0 +1,90 @@
+26116-12-1
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    4.0531   -3.6965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7521   -3.4168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3427   -2.1522    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1209   -1.0781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3427    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0741   -0.4134    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0741   -1.7429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.5251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1378   -3.8464    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+16100
+
+> <Formula>
+C7H16N2
+
+> <FW>
+128.2153
+
+> <DSSTox_CID>
+31487
+
+> <DSSTox_RID>
+97372
+
+> <DSSTox_GSID>
+57698
+
+> <DSSTox_FileID_Sort>
+8439
+
+> <TS_ChemName>
+1-Ethylpyrrolidin-2-ylmethylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+26116-12-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H16N2
+
+> <STRUCTURE_MW>
+128.2153
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(1-ethylpyrrolidin-2-yl)methanamine
+
+> <STRUCTURE_SMILES>
+NCC1CCCN1CC
+
+> <STRUCTURE_SMILES_Desalt>
+NCC1CCCN1CC
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

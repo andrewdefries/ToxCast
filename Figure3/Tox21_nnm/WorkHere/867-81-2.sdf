@@ -1,0 +1,102 @@
+867-81-2
+ChemmineR-0915142007XD
+
+ 16 14  0  0  1  0  0  0  0  0  2 V2000
+    4.4036   -1.3344    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5440   -2.0017    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7207   -1.3344    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8489   -2.0017    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.0256   -1.3344    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.1660   -2.0017    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.0256    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8489   -3.3361    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   11.3184   -2.6689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.8210   -0.8492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.4866   -3.1541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.1312   -0.8492    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2512   -2.0017    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2512   -3.3361    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1108   -1.3344    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1767    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  6  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+12320
+
+> <Formula>
+C9H16NNaO5
+
+> <FW>
+241.2168 (218.2276+22.9892)
+
+> <DSSTox_CID>
+27173
+
+> <DSSTox_RID>
+82171
+
+> <DSSTox_GSID>
+47173
+
+> <DSSTox_FileID_Sort>
+6852
+
+> <TS_ChemName>
+Sodium pantothenate
+
+> <TS_ChemName_Synonyms>
+D-Pantothenic Acid Sodium Salt
+
+> <TS_CASRN>
+867-81-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [79-83-4]; DL- parent [599-54-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H16NNaO5
+
+> <STRUCTURE_MW>
+241.2168
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 3-{[(2R)-2,4-dihydroxy-3,3-dimethylbutanoyl]amino}propanoate
+
+> <STRUCTURE_SMILES>
+[Na+].CC(C)(CO)[C@@H](O)C(=O)NCCC([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(CO)[C@@H](O)C(=O)NCCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20100503
+
+$$$$

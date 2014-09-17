@@ -1,0 +1,98 @@
+610-39-9
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  2 V2000
+    3.4459   -2.0016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5965   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5965   -3.9913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4459   -4.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2893   -3.9913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2893   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4459   -5.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4459   -0.6712    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.2893    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.5965    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1566   -2.0016    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6608    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1566   -0.6712    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <ID>
+5017
+
+> <Formula>
+C7H6N2O4
+
+> <FW>
+182.1335
+
+> <DSSTox_CID>
+7240
+
+> <DSSTox_RID>
+78364
+
+> <DSSTox_GSID>
+27240
+
+> <DSSTox_FileID_Sort>
+3047
+
+> <TS_ChemName>
+3,4-Dinitrotoluene
+
+> <TS_ChemName_Synonyms>
+Benzene, 4-methyl-1,2-dinitro-
+
+> <TS_CASRN>
+610-39-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6N2O4
+
+> <STRUCTURE_MW>
+182.1335
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methyl-1,2-dinitrobenzene
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1cc(C)ccc1[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1cc(C)ccc1[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

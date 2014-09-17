@@ -1,0 +1,90 @@
+95-77-2
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    4.6082   -2.6589    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -2.6589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6589    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -0.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+3965
+
+> <Formula>
+C6H4Cl2O
+
+> <FW>
+163.0014
+
+> <DSSTox_CID>
+5005
+
+> <DSSTox_RID>
+77623
+
+> <DSSTox_GSID>
+25005
+
+> <DSSTox_FileID_Sort>
+2306
+
+> <TS_ChemName>
+3,4-Dichlorophenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+95-77-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4Cl2O
+
+> <STRUCTURE_MW>
+163.0014
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,4-dichlorophenol
+
+> <STRUCTURE_SMILES>
+Oc1cc(Cl)c(Cl)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1cc(Cl)c(Cl)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

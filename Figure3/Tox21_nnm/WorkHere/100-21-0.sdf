@@ -1,0 +1,96 @@
+100-21-0
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    0.6711   -1.1561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9999   -1.1561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6577    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9866    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6577   -1.1561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9866   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6577   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9865   -1.1561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6443    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6443   -2.3056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+4530
+
+> <Formula>
+C8H6O4
+
+> <FW>
+166.1308
+
+> <DSSTox_CID>
+6080
+
+> <DSSTox_RID>
+78007
+
+> <DSSTox_GSID>
+26080
+
+> <DSSTox_FileID_Sort>
+2690
+
+> <TS_ChemName>
+Terephthalic acid
+
+> <TS_ChemName_Synonyms>
+Terephthalic Acid (TPA) (1,4-Benzenedicarboxylic acid)
+
+> <TS_CASRN>
+100-21-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H6O4
+
+> <STRUCTURE_MW>
+166.1308
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzene-1,4-dicarboxylic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1ccc(cc1)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1ccc(cc1)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

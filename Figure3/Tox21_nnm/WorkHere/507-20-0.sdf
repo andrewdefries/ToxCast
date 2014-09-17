@@ -1,0 +1,81 @@
+507-20-0
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+     2.660    -1.338     0.000 C    0  0  0  0  0  0  0  0  0  0  0  0
+     1.338    -2.660     0.000 C    0  0  0  0  0  0  0  0  0  0  0  0
+     0.000    -1.338     0.000 C    0  0  0  0  0  0  0  0  0  0  0  0
+     1.338    -1.338     0.000 C    0  0  0  0  0  0  0  0  0  0  0  0
+     1.338     0.000     0.000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+3433
+
+> <Formula>
+C4H9Cl
+
+> <FW>
+92.5673
+
+> <DSSTox_CID>
+3937
+
+> <DSSTox_RID>
+77236
+
+> <DSSTox_GSID>
+23937
+
+> <DSSTox_FileID_Sort>
+1919
+
+> <TS_ChemName>
+t-Butylchloride
+
+> <TS_ChemName_Synonyms>
+tert-Butylchloride
+
+> <TS_CASRN>
+507-20-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H9Cl
+
+> <STRUCTURE_MW>
+92.5673
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-2-methylpropane
+
+> <STRUCTURE_SMILES>
+CC(C)(C)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

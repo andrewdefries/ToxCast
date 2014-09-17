@@ -1,0 +1,90 @@
+3173-53-3
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    2.3037   -2.6607    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.9984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -1.9984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -0.6681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7591   -0.6681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7591   -1.9984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073   -2.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4211
+
+> <Formula>
+C7H11NO
+
+> <FW>
+125.1683
+
+> <DSSTox_CID>
+5464
+
+> <DSSTox_RID>
+77796
+
+> <DSSTox_GSID>
+25464
+
+> <DSSTox_FileID_Sort>
+2479
+
+> <TS_ChemName>
+Isocyanatocyclohexane
+
+> <TS_ChemName_Synonyms>
+Isocyanatocyclohexane (Cyclohexyl isocyanate)
+
+> <TS_CASRN>
+3173-53-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H11NO
+
+> <STRUCTURE_MW>
+125.1683
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+isocyanatocyclohexane
+
+> <STRUCTURE_SMILES>
+O=C=N/C1CCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C=N/C1CCCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

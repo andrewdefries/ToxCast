@@ -1,0 +1,98 @@
+527-07-1
+ChemmineR-0915142007XD
+
+ 14 12  0  0  1  0  0  0  0  0  2 V2000
+    2.0016   -1.2782    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3290   -1.2782    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.3274   -2.4300    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4300    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0016   -3.5818    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3290   -3.5818    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3274   -4.7336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.7336    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0016   -5.8854    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3290   -5.8854    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3274   -7.0232    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -7.0232    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3274   -0.1264    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8363    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1 13  2  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+4971
+
+> <Formula>
+C6H11NaO7
+
+> <FW>
+218.1371 (195.1479+22.9892)
+
+> <DSSTox_CID>
+7170
+
+> <DSSTox_RID>
+78333
+
+> <DSSTox_GSID>
+27170
+
+> <DSSTox_FileID_Sort>
+3016
+
+> <TS_ChemName>
+Sodium D-gluconate
+
+> <TS_ChemName_Synonyms>
+D-Gluconic acid, monosodium salt
+
+> <TS_CASRN>
+527-07-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [526-95-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H11NaO7
+
+> <STRUCTURE_MW>
+218.1371
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium D-gluconate
+
+> <STRUCTURE_SMILES>
+[Na+].O[C@H]([C@@H](O)C([O-])=O)[C@H](O)[C@H](O)CO
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@H]([C@@H](O)C(=O)O)[C@H](O)[C@H](O)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

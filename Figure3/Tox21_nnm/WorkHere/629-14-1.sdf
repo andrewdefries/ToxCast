@@ -1,0 +1,87 @@
+629-14-1
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    5.7651    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6105   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -0.6621    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9197   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0744    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+4119
+
+> <Formula>
+C6H14O2
+
+> <FW>
+118.1742
+
+> <DSSTox_CID>
+5285
+
+> <DSSTox_RID>
+77726
+
+> <DSSTox_GSID>
+25285
+
+> <DSSTox_FileID_Sort>
+2409
+
+> <TS_ChemName>
+Ethylene glycol diethyl ether
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+629-14-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O2
+
+> <STRUCTURE_MW>
+118.1742
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-diethoxyethane
+
+> <STRUCTURE_SMILES>
+CCOCCOCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCOCCOCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

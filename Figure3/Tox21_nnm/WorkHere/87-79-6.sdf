@@ -1,0 +1,95 @@
+87-79-6
+ChemmineR-0915142007XD
+
+ 12 11  0  0  1  0  0  0  0  0  1 V2000
+    2.3240   -1.3442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4738   -1.9839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6237   -1.3442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7735   -1.9839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9315   -1.3442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1660   -1.9839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4738   -3.3281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6237    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7735   -3.3281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0975   -1.9839    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3442    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3240    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  6  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  6  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  6  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+> <ID>
+13696
+
+> <Formula>
+C6H12O6
+
+> <FW>
+180.1559
+
+> <DSSTox_CID>
+28630
+
+> <DSSTox_RID>
+82900
+
+> <DSSTox_GSID>
+48704
+
+> <DSSTox_FileID_Sort>
+7577
+
+> <TS_ChemName>
+L-(-)-Sorbose
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+87-79-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O6
+
+> <STRUCTURE_MW>
+180.1559
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+L-sorbose
+
+> <STRUCTURE_SMILES>
+O[C@H](C(=O)CO)[C@H](O)[C@@H](O)CO
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@H](C(=O)CO)[C@H](O)[C@@H](O)CO
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

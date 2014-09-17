@@ -1,0 +1,95 @@
+60668-24-8
+ChemmineR-0915142007XD
+
+ 12 11  0  0  1  0  0  0  0  0  1 V2000
+    4.6094   -1.9824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1576   -1.3378    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4852   -2.4815    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6094   -3.3202    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4657   -1.3378    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8230   -0.1802    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6585    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7739   -1.3378    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3220   -1.9824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7739    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9315   -1.9824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3220   -3.3202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  1  0  0  0  0
+  5  9  1  0  0  0  0
+  8 10  1  1  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  1  0  0  0
+M  END
+> <ID>
+11640
+
+> <Formula>
+C5H13N2O4P
+
+> <FW>
+196.1415
+
+> <DSSTox_CID>
+26393
+
+> <DSSTox_RID>
+81573
+
+> <DSSTox_GSID>
+46393
+
+> <DSSTox_FileID_Sort>
+6254
+
+> <TS_ChemName>
+Alafosfalin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+60668-24-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H13N2O4P
+
+> <STRUCTURE_MW>
+196.1415
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-[(1R)-1-phosphonoethyl]-L-alaninamide
+
+> <STRUCTURE_SMILES>
+C[C@H](NC(=O)[C@H](C)N)P(=O)(O)O
+
+> <STRUCTURE_SMILES_Desalt>
+C[C@H](NC(=O)[C@H](C)N)P(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20110814
+
+$$$$

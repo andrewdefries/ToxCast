@@ -1,0 +1,95 @@
+1187-03-7
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    3.4537   -1.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4537    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5934   -1.9893    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3140   -1.9893    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5934   -3.3224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7538   -3.9855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7538   -1.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9073   -1.9893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3140   -3.3224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -3.9993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -1.3331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+10176
+
+> <Formula>
+C9H20N2O
+
+> <FW>
+172.2679
+
+> <DSSTox_CID>
+24522
+
+> <DSSTox_RID>
+80289
+
+> <DSSTox_GSID>
+44522
+
+> <DSSTox_FileID_Sort>
+4971
+
+> <TS_ChemName>
+Tetraethylurea
+
+> <TS_ChemName_Synonyms>
+Urea, tetraethyl-
+
+> <TS_CASRN>
+1187-03-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H20N2O
+
+> <STRUCTURE_MW>
+172.2679
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1,3,3-tetraethylurea
+
+> <STRUCTURE_SMILES>
+CCN(CC)C(=O)N(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)C(=O)N(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

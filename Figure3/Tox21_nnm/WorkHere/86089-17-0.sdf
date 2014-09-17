@@ -1,0 +1,99 @@
+86089-17-0
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6676    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1510    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3021   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4416    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5926   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7436    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8947   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0572    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2082   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2082   -2.0028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3593   -2.6589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3593    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5103   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3593   -3.9826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+6212
+
+> <Formula>
+C13H29N
+
+> <FW>
+199.3761
+
+> <DSSTox_CID>
+9815
+
+> <DSSTox_RID>
+78823
+
+> <DSSTox_GSID>
+29815
+
+> <DSSTox_FileID_Sort>
+3505
+
+> <TS_ChemName>
+Tridecylamine, branched and linear
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+86089-17-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of tridecylamines; structure shown branched
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C13H29N
+
+> <STRUCTURE_MW>
+199.3761
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+8-ethylundecan-1-amine
+
+> <STRUCTURE_SMILES>
+CCC(CCCCCCCN)CCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(CCCCCCCN)CCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

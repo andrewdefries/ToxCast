@@ -1,0 +1,92 @@
+6287-38-3
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -0.6681    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558   -0.6681    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558   -1.9986    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6078   -2.6610    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7597   -1.9986    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -2.6610    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -1.9986    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6610    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+3944
+
+> <Formula>
+C7H4Cl2O
+
+> <FW>
+175.0121
+
+> <DSSTox_CID>
+4971
+
+> <DSSTox_RID>
+77604
+
+> <DSSTox_GSID>
+24971
+
+> <DSSTox_FileID_Sort>
+2287
+
+> <TS_ChemName>
+3,4-Dichlorobenzaldehyde
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6287-38-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H4Cl2O
+
+> <STRUCTURE_MW>
+175.0121
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,4-dichlorobenzaldehyde
+
+> <STRUCTURE_SMILES>
+Clc1ccc(C=O)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(C=O)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

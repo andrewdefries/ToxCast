@@ -1,0 +1,93 @@
+91-17-8
+ChemmineR-0915142007XD
+
+ 10 11  0  0  0  0  0  0  0  0  1 V2000
+    2.3039   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6078   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6078   -1.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558   -2.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -1.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -2.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+3911
+
+> <Formula>
+C10H18
+
+> <FW>
+138.2499
+
+> <DSSTox_CID>
+4912
+
+> <DSSTox_RID>
+77576
+
+> <DSSTox_GSID>
+24912
+
+> <DSSTox_FileID_Sort>
+2259
+
+> <TS_ChemName>
+Decalin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+91-17-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18
+
+> <STRUCTURE_MW>
+138.2499
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+decahydronaphthalene
+
+> <STRUCTURE_SMILES>
+C1CCC2CCCCC2C1
+
+> <STRUCTURE_SMILES_Desalt>
+C1CCC2CCCCC2C1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

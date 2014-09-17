@@ -1,0 +1,106 @@
+393-75-9
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  2 V2000
+    0.6632   -3.4543    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6081    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3006    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.9966   -3.4543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6598   -2.3006    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9863   -2.3006    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6565   -3.4543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9863   -4.6081    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6565   -5.7549    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    5.9829   -5.7549    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9863   -6.9087    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.6598   -4.6081    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9966   -5.7549    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6565   -1.1538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5027   -0.4836    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3197    0.0000    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8033   -1.8170    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+M  END
+> <ID>
+3851
+
+> <Formula>
+C7H2ClF3N2O4
+
+> <FW>
+270.55
+
+> <DSSTox_CID>
+4781
+
+> <DSSTox_RID>
+77529
+
+> <DSSTox_GSID>
+24781
+
+> <DSSTox_FileID_Sort>
+2212
+
+> <TS_ChemName>
+2-Chloro-1,3-dinitro-5-(trifluoromethyl)benzene
+
+> <TS_ChemName_Synonyms>
+2-Chloro-1,3-dinitro-5-(trifluoromethyl)benzene (4-Chloro-3,5-dinitro-a,a,a-trifluorotoluene)
+
+> <TS_CASRN>
+393-75-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H2ClF3N2O4
+
+> <STRUCTURE_MW>
+270.55
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-1,3-dinitro-5-(trifluoromethyl)benzene
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1cc(cc([N+]([O-])=O)c1Cl)C(F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1cc(cc([N+]([O-])=O)c1Cl)C(F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,99 @@
+115-96-8
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    3.9465   -2.8373    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -3.9895    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7607   -3.3274    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7607   -1.9947    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -1.3327    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2706   -5.1416    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6033   -5.1416    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2653   -3.9895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5980   -3.9895    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4564   -4.6515    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -3.9895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -4.6515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9895    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+1356
+
+> <Formula>
+C6H12Cl3O4P
+
+> <FW>
+285.4898
+
+> <DSSTox_CID>
+1411
+
+> <DSSTox_RID>
+76147
+
+> <DSSTox_GSID>
+21411
+
+> <DSSTox_FileID_Sort>
+831
+
+> <TS_ChemName>
+Tris(2-chloroethyl) phosphate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+115-96-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12Cl3O4P
+
+> <STRUCTURE_MW>
+285.4898
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tris(2-chloroethyl) phosphate
+
+> <STRUCTURE_SMILES>
+ClCCOP(=O)(OCCCl)OCCCl
+
+> <STRUCTURE_SMILES_Desalt>
+ClCCOP(=O)(OCCCl)OCCCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

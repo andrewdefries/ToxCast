@@ -1,0 +1,101 @@
+7560-83-0
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    2.3082   -1.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3082   -3.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -3.9944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -1.3338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4623   -1.3338    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6164   -1.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7566   -1.3338    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9107   -1.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9107   -3.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7566   -3.9944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6164   -3.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4623    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+10379
+
+> <Formula>
+C13H25N
+
+> <FW>
+195.3443
+
+> <DSSTox_CID>
+24727
+
+> <DSSTox_RID>
+80426
+
+> <DSSTox_GSID>
+44727
+
+> <DSSTox_FileID_Sort>
+5108
+
+> <TS_ChemName>
+N-Cyclohexyl-N-methylcyclohexanamine
+
+> <TS_ChemName_Synonyms>
+N-Cyclohexyl-N-methylcyclohexanamine (Cyclohexanamine, N-cyclohexyl-N-methyl-)
+
+> <TS_CASRN>
+7560-83-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H25N
+
+> <STRUCTURE_MW>
+195.3443
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-cyclohexyl-N-methylcyclohexanamine
+
+> <STRUCTURE_SMILES>
+CN(C1CCCCC1)C2CCCCC2
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C1CCCCC1)C2CCCCC2
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,98 @@
+943-89-5
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1506   -3.9855    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3011   -3.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3011   -1.9974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4609   -1.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6115   -1.9974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7620   -1.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9126   -1.9974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0539   -1.3254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0539    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2045   -1.9974    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6115   -3.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4609   -3.9855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+11378
+
+> <Formula>
+C10H10O3
+
+> <FW>
+178.1846
+
+> <DSSTox_CID>
+26059
+
+> <DSSTox_RID>
+81310
+
+> <DSSTox_GSID>
+46059
+
+> <DSSTox_FileID_Sort>
+5991
+
+> <TS_ChemName>
+4-Methoxy-(2E)-cinnamic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+943-89-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H10O3
+
+> <STRUCTURE_MW>
+178.1846
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-3-(4-methoxyphenyl)prop-2-enoic acid
+
+> <STRUCTURE_SMILES>
+COc1ccc(/C=C/C(=O)O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(/C=C/C(=O)O)cc1
+
+> <Substance_modify_yyyymmdd>
+20110516
+
+$$$$

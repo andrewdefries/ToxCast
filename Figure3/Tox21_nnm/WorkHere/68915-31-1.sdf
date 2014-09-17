@@ -1,0 +1,91 @@
+68915-31-1
+ChemmineR-0915142007XD
+
+ 11  8  0  0  0  0  0  0  0  0  2 V2000
+    5.1325   -1.1574    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2900   -0.4793    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4357   -1.1574    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9868   -1.8239    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    5.7872   -2.3032    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4661    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1021    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7693   -2.3032    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5815   -1.8239    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8472    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+   11.6914   -1.1458    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3  9  1  0  0  0  0
+M  END
+> <ID>
+5732
+
+> <Formula>
+H2Na2O7P2
+
+> <FW>
+221.9387 (175.9603+22.9892+22.9892)
+
+> <DSSTox_CID>
+8842
+
+> <DSSTox_RID>
+78658
+
+> <DSSTox_GSID>
+28842
+
+> <DSSTox_FileID_Sort>
+3340
+
+> <TS_ChemName>
+Polyphosphoric acids, sodium salts
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+68915-31-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of phosphoric acids; structure shown di
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+H2Na2O7P2
+
+> <STRUCTURE_MW>
+221.9387
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+disodium dihydrogen diphosphate
+
+> <STRUCTURE_SMILES>
+[Na+].[Na+].[O-]P(=O)(O)OP([O-])(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=P(O)(O)OP(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

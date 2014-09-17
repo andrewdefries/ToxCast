@@ -1,0 +1,86 @@
+108-89-4
+ChemmineR-0915142007XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    3.9916   -1.1496    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -2.3032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9958   -2.3032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3292   -1.1496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9958    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+1770
+
+> <Formula>
+C6H7N
+
+> <FW>
+93.1265
+
+> <DSSTox_CID>
+1892
+
+> <DSSTox_RID>
+76389
+
+> <DSSTox_GSID>
+21892
+
+> <DSSTox_FileID_Sort>
+1073
+
+> <TS_ChemName>
+4-Methylpyridine
+
+> <TS_ChemName_Synonyms>
+4-Picoline
+
+> <TS_CASRN>
+108-89-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H7N
+
+> <STRUCTURE_MW>
+93.1265
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methylpyridine
+
+> <STRUCTURE_SMILES>
+Cc1ccncc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccncc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

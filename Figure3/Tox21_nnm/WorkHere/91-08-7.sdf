@@ -1,0 +1,98 @@
+91-08-7
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6614    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3022   -1.3261    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4533   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6044   -1.3261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9067   -1.3261    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0578   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2089   -2.6614    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -3.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6044   -3.9874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6044    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4533   -3.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <ID>
+4571
+
+> <Formula>
+C9H6N2O2
+
+> <FW>
+174.1561
+
+> <DSSTox_CID>
+6157
+
+> <DSSTox_RID>
+78039
+
+> <DSSTox_GSID>
+26157
+
+> <DSSTox_FileID_Sort>
+2722
+
+> <TS_ChemName>
+Toluene-2,6-diisocyanate
+
+> <TS_ChemName_Synonyms>
+Toluene-2,6-diisocyanate (2,6-Diisocyanatotoluene) (Benzene, 1,3-diisocyanato-2-methyl-)
+
+> <TS_CASRN>
+91-08-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H6N2O2
+
+> <STRUCTURE_MW>
+174.1561
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,3-diisocyanato-2-methylbenzene
+
+> <STRUCTURE_SMILES>
+O=C=N/c1cccc(/N=C=O)c1C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C=N/c1cccc(/N=C=O)c1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

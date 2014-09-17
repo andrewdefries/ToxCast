@@ -1,0 +1,97 @@
+110-42-9
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    2.2735   -1.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4482   -2.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5976   -1.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7218   -2.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9091   -1.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0332   -2.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1826   -1.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3068   -2.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4814   -1.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6308   -2.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2735    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1494   -2.0083    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  1 11  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+4821
+
+> <Formula>
+C11H22O2
+
+> <FW>
+186.2912
+
+> <DSSTox_CID>
+6842
+
+> <DSSTox_RID>
+78226
+
+> <DSSTox_GSID>
+26842
+
+> <DSSTox_FileID_Sort>
+2909
+
+> <TS_ChemName>
+Methyl decanoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+110-42-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H22O2
+
+> <STRUCTURE_MW>
+186.2912
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl decanoate
+
+> <STRUCTURE_SMILES>
+O=C(CCCCCCCCC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCCCCCC)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

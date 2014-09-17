@@ -1,0 +1,93 @@
+111-11-5
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    2.2867   -1.3512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4612   -2.0061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6046   -1.3512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7583   -2.0061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9328   -1.3512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0762   -2.0061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2195   -1.3512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3941   -2.0061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2867    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1433   -2.0061    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+4825
+
+> <Formula>
+C9H18O2
+
+> <FW>
+158.238
+
+> <DSSTox_CID>
+6864
+
+> <DSSTox_RID>
+78230
+
+> <DSSTox_GSID>
+26864
+
+> <DSSTox_FileID_Sort>
+2913
+
+> <TS_ChemName>
+Methyl octanoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+111-11-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18O2
+
+> <STRUCTURE_MW>
+158.238
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl octanoate
+
+> <STRUCTURE_SMILES>
+O=C(CCCCCCC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCCCC)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

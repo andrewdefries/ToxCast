@@ -1,0 +1,81 @@
+62-75-9
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    3.4567   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.3308    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.9945    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  2  0  0  0  0
+M  END
+> <ID>
+993
+
+> <Formula>
+C2H6N2O
+
+> <FW>
+74.0818
+
+> <DSSTox_CID>
+1029
+
+> <DSSTox_RID>
+75914
+
+> <DSSTox_GSID>
+21029
+
+> <DSSTox_FileID_Sort>
+598
+
+> <TS_ChemName>
+N-Nitrosodimethylamine
+
+> <TS_ChemName_Synonyms>
+N-Nitrosodimethylamine (DMN) (Dimethylnitrosamine)
+
+> <TS_CASRN>
+62-75-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H6N2O
+
+> <STRUCTURE_MW>
+74.0818
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-methyl-N-nitrosomethanamine
+
+> <STRUCTURE_SMILES>
+CN(C)N=O
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)N=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

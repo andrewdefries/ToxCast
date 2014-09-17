@@ -1,0 +1,83 @@
+760-23-6
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    3.3247    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9948    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3299   -1.1537    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1537    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9948   -2.3040    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3247   -2.3040    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+1954
+
+> <Formula>
+C4H6Cl2
+
+> <FW>
+124.9964
+
+> <DSSTox_CID>
+2113
+
+> <DSSTox_RID>
+76492
+
+> <DSSTox_GSID>
+22113
+
+> <DSSTox_FileID_Sort>
+1176
+
+> <TS_ChemName>
+3,4-Dichloro-1-butene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+760-23-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6Cl2
+
+> <STRUCTURE_MW>
+124.9964
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,4-dichlorobut-1-ene
+
+> <STRUCTURE_SMILES>
+C=CC(Cl)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(Cl)CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

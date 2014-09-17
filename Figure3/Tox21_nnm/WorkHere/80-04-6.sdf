@@ -1,0 +1,107 @@
+80-04-6
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    6.6290   -3.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3287   -4.2389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4494   -3.2393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8627   -1.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1705   -1.7136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0499   -2.7132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5158   -4.9604    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9921   -3.6452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7215   -2.3449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7211   -1.4581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9688   -1.8790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2468   -3.1792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2472   -4.0585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.5396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9684   -0.9921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9604   -0.0977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0815    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+10640
+
+> <Formula>
+C15H28O2
+
+> <FW>
+240.3816
+
+> <DSSTox_CID>
+24993
+
+> <DSSTox_RID>
+80638
+
+> <DSSTox_GSID>
+44993
+
+> <DSSTox_FileID_Sort>
+5320
+
+> <TS_ChemName>
+4,4'-Propane-2,2-diyldicyclohexanol
+
+> <TS_ChemName_Synonyms>
+4,4'-Propane-2,2-diyldicyclohexanol (Cyclohexanol, 4,4'-(1-methylethylidene)bis-)
+
+> <TS_CASRN>
+80-04-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+hydrogenated Bisphenol A
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H28O2
+
+> <STRUCTURE_MW>
+240.3816
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-propane-2,2-diyldicyclohexanol
+
+> <STRUCTURE_SMILES>
+OC1CCC(CC1)C(C)(C)C2CCC(O)CC2
+
+> <STRUCTURE_SMILES_Desalt>
+OC1CCC(CC1)C(C)(C)C2CCC(O)CC2
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

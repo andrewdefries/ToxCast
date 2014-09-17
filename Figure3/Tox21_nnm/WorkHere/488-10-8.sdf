@@ -1,0 +1,96 @@
+488-10-8
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    1.2701   -1.2701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0465   -2.3535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2701   -3.4309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6914    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6914   -4.7010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3768   -2.3535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0690   -3.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3752   -3.4911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0192   -2.3355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3571   -1.1737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+12243
+
+> <Formula>
+C11H16O
+
+> <FW>
+164.2441
+
+> <DSSTox_CID>
+27092
+
+> <DSSTox_RID>
+82104
+
+> <DSSTox_GSID>
+47092
+
+> <DSSTox_FileID_Sort>
+6785
+
+> <TS_ChemName>
+Jasmone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+488-10-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H16O
+
+> <STRUCTURE_MW>
+164.2441
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methyl-2-[(2Z)-pent-2-en-1-yl]cyclopent-2-en-1-one
+
+> <STRUCTURE_SMILES>
+CC=1CCC(=O)C=1C\C=C/CC
+
+> <STRUCTURE_SMILES_Desalt>
+CC=1CCC(=O)C=1C\C=C/CC
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

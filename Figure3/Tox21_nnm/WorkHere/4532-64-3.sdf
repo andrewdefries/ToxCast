@@ -1,0 +1,83 @@
+4532-64-3
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0159    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6711   -1.1671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9814   -1.1671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6366   -2.3342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3183    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6525   -0.0186    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+> <ID>
+12240
+
+> <Formula>
+C4H10S2
+
+> <FW>
+122.2522
+
+> <DSSTox_CID>
+27089
+
+> <DSSTox_RID>
+82101
+
+> <DSSTox_GSID>
+47089
+
+> <DSSTox_FileID_Sort>
+6782
+
+> <TS_ChemName>
+2,3-Butanedithiol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4532-64-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10S2
+
+> <STRUCTURE_MW>
+122.2522
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butane-2,3-dithiol
+
+> <STRUCTURE_SMILES>
+CC(S)C(C)S
+
+> <STRUCTURE_SMILES_Desalt>
+CC(S)C(C)S
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

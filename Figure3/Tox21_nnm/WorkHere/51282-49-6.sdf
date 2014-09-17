@@ -1,0 +1,100 @@
+51282-49-6
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  2 V2000
+    3.4340   -2.0101    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4340   -0.6641    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -2.6563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066   -2.6563    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1726   -2.0101    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -3.9724    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1726   -4.6664    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9724    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1726   -5.9826    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1726   -0.6641    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.3093    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7791   -2.0101    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <ID>
+10595
+
+> <Formula>
+C8H6ClNO4
+
+> <FW>
+215.5905
+
+> <DSSTox_CID>
+24948
+
+> <DSSTox_RID>
+80608
+
+> <DSSTox_GSID>
+44948
+
+> <DSSTox_FileID_Sort>
+5290
+
+> <TS_ChemName>
+Methyl 5-chloro-2-nitrobenzoate
+
+> <TS_ChemName_Synonyms>
+Methyl 5-chloro-2-nitrobenzoate (Benzoic acid, 5-chloro-2-nitro-, methyl ester)
+
+> <TS_CASRN>
+51282-49-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H6ClNO4
+
+> <STRUCTURE_MW>
+215.5905
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 5-chloro-2-nitrobenzoate
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccc(Cl)cc1C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccc(Cl)cc1C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

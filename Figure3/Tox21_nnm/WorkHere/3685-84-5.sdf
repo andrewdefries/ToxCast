@@ -1,0 +1,107 @@
+3685-84-5
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    6.8982   -1.3290    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8982    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5946   -1.3290    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7590   -1.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -1.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1645   -3.3415    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.4927   -1.3290    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0626   -1.9998    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9870    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2909   -1.3290    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -3.3415    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1645   -1.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2909   -3.9870    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2018   -1.3290    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3662   -1.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.4927    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6572   -1.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3032   -4.1642    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  2  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 14  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+10767
+
+> <Formula>
+C12H17Cl2NO3
+
+> <FW>
+294.1743 (257.7133+36.4609)
+
+> <DSSTox_CID>
+25141
+
+> <DSSTox_RID>
+80699
+
+> <DSSTox_GSID>
+45141
+
+> <DSSTox_FileID_Sort>
+5380
+
+> <TS_ChemName>
+Meclofenoxate hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3685-84-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [51-68-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H17Cl2NO3
+
+> <STRUCTURE_MW>
+294.1743
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-(dimethylamino)ethyl (4-chlorophenoxy)acetate hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Clc1ccc(OCC(=O)OCCN(C)C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(OCC(=O)OCCN(C)C)cc1
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

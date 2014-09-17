@@ -1,0 +1,94 @@
+2492-26-4
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  2 V2000
+    2.4128   -1.3441    0.0000 S    0  5  0  0  0  0  0  0  0  0  0  0
+    3.7407   -1.3441    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5261   -0.2753    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7892   -0.6720    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9470    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0968   -0.6720    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0968   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9470   -2.6719    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7892   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5261   -2.4128    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3926    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+4509
+
+> <Formula>
+C7H4NNaS2
+
+> <FW>
+189.2331 (166.2439+22.9892)
+
+> <DSSTox_CID>
+6035
+
+> <DSSTox_RID>
+77991
+
+> <DSSTox_GSID>
+26035
+
+> <DSSTox_FileID_Sort>
+2674
+
+> <TS_ChemName>
+Sodium 2-mercaptobenzothiolate
+
+> <TS_ChemName_Synonyms>
+Sodium 2-mercaptobenzothiolate (2(3H)-Benzothiazolethione, sodium salt)
+
+> <TS_CASRN>
+2492-26-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers;  parent [149-30-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H4NNaS2
+
+> <STRUCTURE_MW>
+189.2331
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 1,3-benzothiazole-2-thiolate
+
+> <STRUCTURE_SMILES>
+[Na+].[S-]c1nc2ccccc2s1
+
+> <STRUCTURE_SMILES_Desalt>
+Sc1nc2ccccc2s1
+
+> <Substance_modify_yyyymmdd>
+20100818
+
+$$$$

@@ -1,0 +1,92 @@
+501-30-4
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1615   -2.0226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3057   -2.6756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4499   -2.0226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1615   -0.6935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3057   -0.0347    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4499   -0.6935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3057   -4.0047    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7045    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6173    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7788   -0.6530    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+7623
+
+> <Formula>
+C6H6O4
+
+> <FW>
+142.1094
+
+> <DSSTox_CID>
+20236
+
+> <DSSTox_RID>
+79455
+
+> <DSSTox_GSID>
+40236
+
+> <DSSTox_FileID_Sort>
+4137
+
+> <TS_ChemName>
+Kojic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+501-30-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6O4
+
+> <STRUCTURE_MW>
+142.1094
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-hydroxy-2-(hydroxymethyl)-4H-pyran-4-one
+
+> <STRUCTURE_SMILES>
+O=C1C=C(CO)OC=C1O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C=C(CO)OC=C1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,110 @@
+84449-80-9
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.7421    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1232   -2.6560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   14.2798   -1.9992    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   11.9665   -1.9992    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.1232   -3.9841    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   10.8241   -2.6560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.9665   -0.6712    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.6674   -1.9992    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.8241    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.6674   -0.6712    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5108    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3541   -0.6712    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2117    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0693   -0.6712    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0693   -1.9992    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9127    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7560   -0.6712    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9127   -2.6560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7560   -1.9992    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+16239
+
+> <Formula>
+C14H20ClNO3
+
+> <FW>
+285.7665 (36.4609+249.3056)
+
+> <DSSTox_CID>
+31630
+
+> <DSSTox_RID>
+97514
+
+> <DSSTox_GSID>
+57841
+
+> <DSSTox_FileID_Sort>
+8581
+
+> <TS_ChemName>
+4-(2-Piperidinoethoxy)benzoic acid hydrochloride(1:1)
+
+> <TS_ChemName_Synonyms>
+1-[2-(4-Carboxyphenoxy)ethyl]piperidinium chloride
+
+> <TS_CASRN>
+84449-80-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20ClNO3
+
+> <STRUCTURE_MW>
+285.7665
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-[2-(piperidin-1-yl)ethoxy]benzoic acid hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C(O)c2ccc(OCCN1CCCCC1)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)c2ccc(OCCN1CCCCC1)cc2
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

@@ -1,0 +1,93 @@
+56578-18-8
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1455    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3367   -0.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4478    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5818   -0.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7273    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8727   -0.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0067    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1751   -0.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3091    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4545   -0.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6758    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+7029
+
+> <Formula>
+C10H20O
+
+> <FW>
+156.2652
+
+> <DSSTox_CID>
+15305
+
+> <DSSTox_RID>
+79256
+
+> <DSSTox_GSID>
+35305
+
+> <DSSTox_FileID_Sort>
+3938
+
+> <TS_ChemName>
+(E)-5-Decen-1-ol
+
+> <TS_ChemName_Synonyms>
+(E)-5-Decen-1-ol (trans-5-Decen-1-ol)
+
+> <TS_CASRN>
+56578-18-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20O
+
+> <STRUCTURE_MW>
+156.2652
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5E)-dec-5-en-1-ol
+
+> <STRUCTURE_SMILES>
+CCCC\C=C\CCCCO
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC\C=C\CCCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

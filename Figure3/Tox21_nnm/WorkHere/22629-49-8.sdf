@@ -1,0 +1,99 @@
+22629-49-8
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+   13.8106   -0.6733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6584   -0.0150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5213   -0.6733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3691   -0.0150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2170   -0.6733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0649    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8978   -0.6733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7457    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5935   -0.6733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4414    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -0.6733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -0.0150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9627   -1.3466    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 14  3  0  0  0  0
+  2  3  2  3  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+12788
+
+> <Formula>
+C13H23N
+
+> <FW>
+193.3284
+
+> <DSSTox_CID>
+27667
+
+> <DSSTox_RID>
+82488
+
+> <DSSTox_GSID>
+47667
+
+> <DSSTox_FileID_Sort>
+7169
+
+> <TS_ChemName>
+Tridec-2-enenitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+22629-49-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C13H23N
+
+> <STRUCTURE_MW>
+193.3284
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tridec-2-enenitrile
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCC=CC#N
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCC=CC#N
+
+> <Substance_modify_yyyymmdd>
+20101215
+
+$$$$

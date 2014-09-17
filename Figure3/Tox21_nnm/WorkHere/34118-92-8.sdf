@@ -1,0 +1,113 @@
+34118-92-8
+ChemmineR-0915142007XD
+
+ 21 20  0  0  0  0  0  0  0  0  1 V2000
+    6.9118   -1.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1451   -3.9871    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7530   -2.6626    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -4.6631    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9118   -0.6622    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1451   -2.6626    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0431   -2.6626    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7530   -3.9733    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6217   -1.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4628   -3.9871    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.4921   -1.9866    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6079   -4.6493    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4628   -2.6626    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1744   -1.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3470   -2.6626    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.4921   -0.6622    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6510   -2.6626    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6510    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.7961   -1.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1188   -4.3320    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2 15  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <ID>
+11160
+
+> <Formula>
+C15H24ClN3O2
+
+> <FW>
+313.8230 (277.3620+36.4609)
+
+> <DSSTox_CID>
+25748
+
+> <DSSTox_RID>
+81092
+
+> <DSSTox_GSID>
+45748
+
+> <DSSTox_FileID_Sort>
+5773
+
+> <TS_ChemName>
+Acecainide hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+34118-92-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [32795-44-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H24ClN3O2
+
+> <STRUCTURE_MW>
+313.823
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-(acetylamino)-N-[2-(diethylamino)ethyl]benzamide hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C(C)Nc1ccc(cc1)C(=O)NCCN(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)Nc1ccc(cc1)C(=O)NCCN(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20110826
+
+$$$$

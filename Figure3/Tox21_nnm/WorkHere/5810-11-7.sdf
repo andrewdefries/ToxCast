@@ -1,0 +1,91 @@
+5810-11-7
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    2.2787   -1.3465    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4584   -1.9910    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5920   -1.3465    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7544   -1.9910    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2787    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1451   -1.9910    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4584   -3.3318    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3465    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1451   -3.3318    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5920    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <ID>
+10144
+
+> <Formula>
+C6H10ClNO2
+
+> <FW>
+163.6021
+
+> <DSSTox_CID>
+24489
+
+> <DSSTox_RID>
+80265
+
+> <DSSTox_GSID>
+44489
+
+> <DSSTox_FileID_Sort>
+4947
+
+> <TS_ChemName>
+2-Chloro-N,N-dimethyl-3-oxobutanamide
+
+> <TS_ChemName_Synonyms>
+2-Chloro-N,N-dimethyl-3-oxobutanamide (Butanamide, 2-chloro-N,N-dimethyl-3-oxo-)
+
+> <TS_CASRN>
+5810-11-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10ClNO2
+
+> <STRUCTURE_MW>
+163.6021
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-N,N-dimethyl-3-oxobutanamide
+
+> <STRUCTURE_SMILES>
+O=C(C)C(Cl)C(=O)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)C(Cl)C(=O)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

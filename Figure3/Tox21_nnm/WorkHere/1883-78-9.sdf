@@ -1,0 +1,92 @@
+1883-78-9
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    4.4090   -1.7276    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0606   -0.4936    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4202   -2.5480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7476   -2.5347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1478   -1.2673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4151   -0.8471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6763   -1.3140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6701   -2.1811    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9298    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+12786
+
+> <Formula>
+C8H12OS
+
+> <FW>
+156.2453
+
+> <DSSTox_CID>
+27665
+
+> <DSSTox_RID>
+82487
+
+> <DSSTox_GSID>
+47665
+
+> <DSSTox_FileID_Sort>
+7168
+
+> <TS_ChemName>
+Furfuryl isopropyl sulfide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1883-78-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12OS
+
+> <STRUCTURE_MW>
+156.2453
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[(propan-2-ylsulfanyl)methyl]furan
+
+> <STRUCTURE_SMILES>
+CC(C)SCc1ccco1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)SCc1ccco1
+
+> <Substance_modify_yyyymmdd>
+20101215
+
+$$$$

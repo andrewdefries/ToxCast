@@ -1,0 +1,111 @@
+301-02-0
+ChemmineR-0915142007XD
+
+ 20 19  0  0  0  0  0  0  0  0  1 V2000
+    0.6643   -4.6141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9928   -4.6141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6571   -3.4650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9857   -3.4650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6500   -2.2981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9785   -2.2981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6428   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9714   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6536    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9822    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6285   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9570   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6393   -2.2981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9678   -2.2981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6142   -3.4650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9427   -3.4650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6250   -4.6141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9535   -4.6141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4650    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7631    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 20  1  0  0  0  0
+  1 19  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+4948
+
+> <Formula>
+C18H35NO
+
+> <FW>
+281.4766
+
+> <DSSTox_CID>
+7137
+
+> <DSSTox_RID>
+78321
+
+> <DSSTox_GSID>
+27137
+
+> <DSSTox_FileID_Sort>
+3004
+
+> <TS_ChemName>
+(9Z)-Octadec-9-enamide
+
+> <TS_ChemName_Synonyms>
+Oleamide
+
+> <TS_CASRN>
+301-02-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H35NO
+
+> <STRUCTURE_MW>
+281.4766
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(9Z)-octadec-9-enamide
+
+> <STRUCTURE_SMILES>
+NC(=O)CCCCCCC/C=C\CCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)CCCCCCC/C=C\CCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,92 @@
+3012-37-1
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.3173   -2.3077    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6527   -1.1539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9880    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6587    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9940   -1.1539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6587   -2.3077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9940   -3.4563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6647   -3.4563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6647   -1.1539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+153
+
+> <Formula>
+C8H7NS
+
+> <FW>
+149.2129
+
+> <DSSTox_CID>
+156
+
+> <DSSTox_RID>
+75408
+
+> <DSSTox_GSID>
+20156
+
+> <DSSTox_FileID_Sort>
+92
+
+> <TS_ChemName>
+Benzyl thiocyanate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3012-37-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H7NS
+
+> <STRUCTURE_MW>
+149.2129
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzyl thiocyanate
+
+> <STRUCTURE_SMILES>
+N#CSCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+N#CSCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

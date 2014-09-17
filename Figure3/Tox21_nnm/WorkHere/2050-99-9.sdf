@@ -1,0 +1,95 @@
+2050-99-9
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1346   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2691   -1.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4498   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5844   -1.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7467   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8905   -1.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0619   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2242   -1.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5844    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1346   -3.3207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0619   -3.3207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+M  END
+> <ID>
+8507
+
+> <Formula>
+C11H22O
+
+> <FW>
+170.2918
+
+> <DSSTox_CID>
+21541
+
+> <DSSTox_RID>
+79771
+
+> <DSSTox_GSID>
+41541
+
+> <DSSTox_FileID_Sort>
+4453
+
+> <TS_ChemName>
+5-Nonanone, 2,8-dimethyl-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2050-99-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H22O
+
+> <STRUCTURE_MW>
+170.2918
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,8-dimethylnonan-5-one
+
+> <STRUCTURE_SMILES>
+CC(C)CCC(=O)CCC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CCC(=O)CCC(C)C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,93 @@
+627-91-8
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    2.2688   -1.3281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4494   -1.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5838   -1.3281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7459   -1.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9264   -1.3281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0608   -1.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2688    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1344   -1.9922    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0608   -3.3203    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2229   -1.3281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+10108
+
+> <Formula>
+C7H12O4
+
+> <FW>
+160.1678
+
+> <DSSTox_CID>
+24451
+
+> <DSSTox_RID>
+80238
+
+> <DSSTox_GSID>
+44451
+
+> <DSSTox_FileID_Sort>
+4920
+
+> <TS_ChemName>
+Methyl hexanedioate
+
+> <TS_ChemName_Synonyms>
+Hexanedioic acid, monomethyl ester
+
+> <TS_CASRN>
+627-91-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H12O4
+
+> <STRUCTURE_MW>
+160.1678
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-methoxy-6-oxohexanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(CCCCC(=O)O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCC(=O)O)OC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

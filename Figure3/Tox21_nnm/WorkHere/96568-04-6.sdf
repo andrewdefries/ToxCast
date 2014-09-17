@@ -1,0 +1,106 @@
+96568-04-6
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3049    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3297   -2.3049    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3189   -4.6017    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9892   -2.3049    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9892   -4.6017    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9798   -5.7541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3203   -3.4573    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3203   -1.1524    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3203   -5.7541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3189   -6.9066    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9906   -5.7541    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9798   -8.0590    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3095   -5.7541    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9892   -6.9066    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9906   -3.4573    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9892    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9906   -1.1524    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7 15  2  0  0  0  0
+  8 16  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <ID>
+14243
+
+> <Formula>
+C10H8Cl2FNO3
+
+> <FW>
+280.0798
+
+> <DSSTox_CID>
+29338
+
+> <DSSTox_RID>
+83454
+
+> <DSSTox_GSID>
+49379
+
+> <DSSTox_FileID_Sort>
+8129
+
+> <TS_ChemName>
+3-Pyridinepropanoicacid, 2,6-dichloro-5-fluoro-b-oxo-, ethyl ester
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+96568-04-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H8Cl2FNO3
+
+> <STRUCTURE_MW>
+280.0798
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 3-(2,6-dichloro-5-fluoropyridin-3-yl)-3-oxopropanoate
+
+> <STRUCTURE_SMILES>
+Fc1cc(C(=O)CC(=O)OCC)c(Cl)nc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Fc1cc(C(=O)CC(=O)OCC)c(Cl)nc1Cl
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

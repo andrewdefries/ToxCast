@@ -1,0 +1,88 @@
+460-00-4
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1534   -1.3288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3069   -1.9826    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3069   -3.3115    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534   -3.9865    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3115    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9826    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534   -5.3154    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+4959
+
+> <Formula>
+C6H4BrF
+
+> <FW>
+174.9984
+
+> <DSSTox_CID>
+7153
+
+> <DSSTox_RID>
+78327
+
+> <DSSTox_GSID>
+27153
+
+> <DSSTox_FileID_Sort>
+3010
+
+> <TS_ChemName>
+1-Bromo-4-fluorobenzene
+
+> <TS_ChemName_Synonyms>
+p-Bromofluorobenzene
+
+> <TS_CASRN>
+460-00-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4BrF
+
+> <STRUCTURE_MW>
+174.9984
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromo-4-fluorobenzene
+
+> <STRUCTURE_SMILES>
+Fc1ccc(Br)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Fc1ccc(Br)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

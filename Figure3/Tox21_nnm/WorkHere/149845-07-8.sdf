@@ -1,0 +1,108 @@
+149845-07-8
+ChemmineR-0915142007XD
+
+ 19 17  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -2.3803    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6801   -1.2091    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0554   -1.2091    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7506   -2.3803    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0554   -3.5743    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6801   -3.5743    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7506   -4.7682    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1259   -4.7682    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8060   -3.5743    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8060   -5.9471    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1259   -2.3803    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1259   -7.1561    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8337   -2.9622    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    5.8337   -4.1713    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8337   -5.3803    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8337   -6.5441    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    7.5566   -2.9622    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    7.5566   -6.7934    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  2  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+M  END
+> <ID>
+13618
+
+> <Formula>
+C7H7ClNa2O6P2S
+
+> <FW>
+362.5719 (316.5935+22.9892+22.9892)
+
+> <DSSTox_CID>
+28547
+
+> <DSSTox_RID>
+82819
+
+> <DSSTox_GSID>
+48621
+
+> <DSSTox_FileID_Sort>
+7496
+
+> <TS_ChemName>
+Tiludronate disodium
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+149845-07-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [89987-06-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7ClNa2O6P2S
+
+> <STRUCTURE_MW>
+362.5719
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+disodium {[(4-chlorophenyl)sulfanyl]methanediyl}bis[hydrogen (phosphonate)]
+
+> <STRUCTURE_SMILES>
+[Na+].[Na+].Clc1ccc(SC(P([O-])(=O)O)P([O-])(=O)O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(SC(P(=O)(O)O)P(=O)(O)O)cc1
+
+> <Substance_modify_yyyymmdd>
+20111015
+
+$$$$

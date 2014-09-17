@@ -1,0 +1,92 @@
+622-78-6
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    7.3155   -2.3044    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9841   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6526   -2.3044    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9869   -1.1558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6628   -1.1558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6657   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6657    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+152
+
+> <Formula>
+C8H7NS
+
+> <FW>
+149.2129
+
+> <DSSTox_CID>
+155
+
+> <DSSTox_RID>
+75407
+
+> <DSSTox_GSID>
+20155
+
+> <DSSTox_FileID_Sort>
+91
+
+> <TS_ChemName>
+Benzyl isothiocyanate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+622-78-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H7NS
+
+> <STRUCTURE_MW>
+149.2129
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(isothiocyanatomethyl)benzene
+
+> <STRUCTURE_SMILES>
+S=C=N\Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+S=C=N\Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

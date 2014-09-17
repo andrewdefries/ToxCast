@@ -1,0 +1,85 @@
+638-45-9
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3288   -3.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9932   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3280   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9924   -1.1492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3212   -1.1492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9856    0.0000    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+14205
+
+> <Formula>
+C6H13I
+
+> <FW>
+212.0719
+
+> <DSSTox_CID>
+29298
+
+> <DSSTox_RID>
+83416
+
+> <DSSTox_GSID>
+49341
+
+> <DSSTox_FileID_Sort>
+8091
+
+> <TS_ChemName>
+Hexane,1-iodo-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+638-45-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H13I
+
+> <STRUCTURE_MW>
+212.0719
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-iodohexane
+
+> <STRUCTURE_SMILES>
+CCCCCCI
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCI
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

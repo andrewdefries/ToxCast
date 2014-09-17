@@ -1,0 +1,96 @@
+33996-58-6
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    3.0154   -5.3559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6817   -5.3559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2693   -4.0865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3405   -3.3206    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4331   -4.0865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.6902    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3405   -2.0031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4974   -1.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6489   -2.0031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2051   -1.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0482   -2.0031    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2051    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+11745
+
+> <Formula>
+C8H14N2O2
+
+> <FW>
+170.209
+
+> <DSSTox_CID>
+26510
+
+> <DSSTox_RID>
+81679
+
+> <DSSTox_GSID>
+46510
+
+> <DSSTox_FileID_Sort>
+6360
+
+> <TS_ChemName>
+Etiracetam
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+33996-58-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14N2O2
+
+> <STRUCTURE_MW>
+170.209
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(2-oxopyrrolidin-1-yl)butanamide
+
+> <STRUCTURE_SMILES>
+O=C1CCCN1C(CC)C(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCN1C(CC)C(N)=O
+
+> <Substance_modify_yyyymmdd>
+20110812
+
+$$$$

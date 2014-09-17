@@ -1,0 +1,98 @@
+59-26-7
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    5.7583    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6108   -0.6636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6108   -1.9909    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7583   -2.6614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9127   -1.9909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4564   -2.6614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4564   -3.9886    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -1.9909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -2.6614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -0.6636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+11755
+
+> <Formula>
+C10H14N2O
+
+> <FW>
+178.231
+
+> <DSSTox_CID>
+26524
+
+> <DSSTox_RID>
+81689
+
+> <DSSTox_GSID>
+46524
+
+> <DSSTox_FileID_Sort>
+6370
+
+> <TS_ChemName>
+N,N-Diethylnicotinamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+59-26-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14N2O
+
+> <STRUCTURE_MW>
+178.231
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-diethylpyridine-3-carboxamide
+
+> <STRUCTURE_SMILES>
+O=C(N(CC)CC)c1cccnc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(N(CC)CC)c1cccnc1
+
+> <Substance_modify_yyyymmdd>
+20110811
+
+$$$$

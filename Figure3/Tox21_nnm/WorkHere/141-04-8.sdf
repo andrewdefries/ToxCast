@@ -1,0 +1,107 @@
+141-04-8
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    4.5831   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7326   -2.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8821   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0465   -2.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1960   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3455   -2.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5831    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4336   -2.0004    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3455   -3.3291    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4950   -1.3286    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2990   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1495   -2.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1495   -3.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6295   -2.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7790   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7790    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9285   -2.0004    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+7159
+
+> <Formula>
+C14H26O4
+
+> <FW>
+258.3538
+
+> <DSSTox_CID>
+16690
+
+> <DSSTox_RID>
+79291
+
+> <DSSTox_GSID>
+36690
+
+> <DSSTox_FileID_Sort>
+3973
+
+> <TS_ChemName>
+Diisobutyl adipate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+141-04-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H26O4
+
+> <STRUCTURE_MW>
+258.3538
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+bis(2-methylpropyl) hexanedioate
+
+> <STRUCTURE_SMILES>
+CC(C)COC(=O)CCCCC(=O)OCC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)COC(=O)CCCCC(=O)OCC(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

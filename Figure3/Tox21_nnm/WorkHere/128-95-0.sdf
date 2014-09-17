@@ -1,0 +1,110 @@
+128-95-0
+ChemmineR-0915142007XD
+
+ 18 20  0  0  0  0  0  0  0  0  1 V2000
+    3.4737   -3.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4737   -1.3355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3181   -2.0136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3181   -3.3353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6016   -2.0136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6016   -3.3353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4737    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4737   -5.3281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7641   -3.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7641   -1.3562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1556   -3.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1556   -1.3355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9196   -2.0136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9196   -3.3353    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7641   -0.0208    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7641   -5.3281    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3 12  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 16  2  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+8225
+
+> <Formula>
+C14H10N2O2
+
+> <FW>
+238.2414
+
+> <DSSTox_CID>
+21252
+
+> <DSSTox_RID>
+79664
+
+> <DSSTox_GSID>
+41252
+
+> <DSSTox_FileID_Sort>
+4346
+
+> <TS_ChemName>
+1,4-Diaminoanthraquinone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+128-95-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+C.I. 61100
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H10N2O2
+
+> <STRUCTURE_MW>
+238.2414
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-diaminoanthracene-9,10-dione
+
+> <STRUCTURE_SMILES>
+O=C2c1ccccc1C(=O)c3c2c(N)ccc3N
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2c1ccccc1C(=O)c3c2c(N)ccc3N
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

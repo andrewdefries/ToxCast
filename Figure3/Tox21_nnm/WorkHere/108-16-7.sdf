@@ -1,0 +1,85 @@
+108-16-7
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    2.3090   -1.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4634   -1.3346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4634    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6179   -1.9903    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1545   -1.3346    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1545    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+6316
+
+> <Formula>
+C5H13NO
+
+> <FW>
+103.1628
+
+> <DSSTox_CID>
+11210
+
+> <DSSTox_RID>
+78867
+
+> <DSSTox_GSID>
+31210
+
+> <DSSTox_FileID_Sort>
+3549
+
+> <TS_ChemName>
+Dimepranol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+108-16-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H13NO
+
+> <STRUCTURE_MW>
+103.1628
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(dimethylamino)propan-2-ol
+
+> <STRUCTURE_SMILES>
+CN(C)CC(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CC(C)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

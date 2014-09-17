@@ -1,0 +1,93 @@
+1120-21-4
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1505    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3010   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4515    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6020   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7525    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9029   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0534    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2039   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3544    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5049   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+1626
+
+> <Formula>
+C11H24
+
+> <FW>
+156.3083
+
+> <DSSTox_CID>
+1689
+
+> <DSSTox_RID>
+76285
+
+> <DSSTox_GSID>
+21689
+
+> <DSSTox_FileID_Sort>
+969
+
+> <TS_ChemName>
+Undecane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1120-21-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H24
+
+> <STRUCTURE_MW>
+156.3083
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+undecane
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

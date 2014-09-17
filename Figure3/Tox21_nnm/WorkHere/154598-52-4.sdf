@@ -1,0 +1,116 @@
+154598-52-4
+ChemmineR-0915142007XD
+
+ 21 23  0  0  1  0  0  0  0  0  1 V2000
+    1.1542   -0.6739    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -2.0217    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083   -2.6569    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547   -0.6739    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547   -2.0217    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6089   -2.6569    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7630   -2.0217    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7630   -0.6739    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6089    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9172    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6569    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2673   -3.8265    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9412   -4.9807    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6074   -6.1349    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.7460   -6.7855    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6074   -7.4594    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9350   -3.8265    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0891   -4.4849    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2843   -4.9807    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8041   -3.1526    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 13  1  1  0  0  0
+  7 18  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 13 14  3  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 18 21  1  0  0  0  0
+M  END
+> <ID>
+11366
+
+> <Formula>
+C14H9ClF3NO2
+
+> <FW>
+315.675
+
+> <DSSTox_CID>
+26029
+
+> <DSSTox_RID>
+81298
+
+> <DSSTox_GSID>
+46029
+
+> <DSSTox_FileID_Sort>
+5979
+
+> <TS_ChemName>
+Efavirenz
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+154598-52-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H9ClF3NO2
+
+> <STRUCTURE_MW>
+315.675
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(4S)-6-chloro-4-(cyclopropylethynyl)-4-(trifluoromethyl)-1,4-dihydro-2H-3,1-benzoxazin-2-one
+
+> <STRUCTURE_SMILES>
+FC(F)(F)[C@@]3(C#CC1CC1)OC(=O)Nc2ccc(Cl)cc23
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)(F)[C@@]3(C#CC1CC1)OC(=O)Nc2ccc(Cl)cc23
+
+> <Substance_modify_yyyymmdd>
+20110824
+
+$$$$

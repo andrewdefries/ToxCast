@@ -1,0 +1,94 @@
+1335-66-6
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.2905   -2.0027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4477   -2.6622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4477   -3.9934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2905   -4.6649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1392   -3.9934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1392   -2.6622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2905   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1392    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5990   -2.0027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2905   -5.9960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+10195
+
+> <Formula>
+C10H16O
+
+> <FW>
+152.2334
+
+> <DSSTox_CID>
+24541
+
+> <DSSTox_RID>
+80302
+
+> <DSSTox_GSID>
+44541
+
+> <DSSTox_FileID_Sort>
+4984
+
+> <TS_ChemName>
+Isocyclocitral
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1335-66-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 2,4,6- [1423-46-7] and 3,5,6-trimethylcyclohex-3-ene-1-carbaldehyde [67634-07-5]; structure shown 2,4,6-
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C10H16O
+
+> <STRUCTURE_MW>
+152.2334
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4,6-trimethylcyclohex-3-ene-1-carbaldehyde
+
+> <STRUCTURE_SMILES>
+CC1CC(C)=CC(C)C1C=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC1CC(C)=CC(C)C1C=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

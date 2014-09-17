@@ -1,0 +1,92 @@
+60-31-1
+ChemmineR-0915142007XD
+
+ 11  9  0  0  0  0  0  0  0  0  2 V2000
+    1.1577   -2.0728    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    5.7746   -2.0728    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7746   -3.4038    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6239   -1.4142    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4662   -2.0728    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3085   -1.4142    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4991   -0.9359    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8301   -3.2305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7452    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9323   -1.4142    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9757    0.0000    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+13966
+
+> <Formula>
+C7H16ClNO2
+
+> <FW>
+181.6604 (146.2069+35.4535)
+
+> <DSSTox_CID>
+28904
+
+> <DSSTox_RID>
+83172
+
+> <DSSTox_GSID>
+48978
+
+> <DSSTox_FileID_Sort>
+7849
+
+> <TS_ChemName>
+Acetylcholine chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+60-31-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H16ClNO2
+
+> <STRUCTURE_MW>
+181.6604
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+2-(acetyloxy)-N,N,N-trimethylethanaminium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C[N+](C)(C)CCOC(=O)C
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(C)CCOC(=O)C
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

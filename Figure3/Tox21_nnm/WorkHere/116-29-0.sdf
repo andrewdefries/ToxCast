@@ -1,0 +1,111 @@
+116-29-0
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    1.5115   -3.9448    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6636   -4.6084    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8157   -5.2720    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3272   -3.4563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6636   -2.3042    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3272   -1.1521    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6545   -1.1521    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3181   -2.3042    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6545   -3.4563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3181   -4.6084    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3181    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6636    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -5.7605    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6636   -6.9126    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -8.0647    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6636   -8.0647    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.9126    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6636   -5.7605    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -9.2167    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2 13  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+1263
+
+> <Formula>
+C12H6Cl4O2S
+
+> <FW>
+356.0518
+
+> <DSSTox_CID>
+1316
+
+> <DSSTox_RID>
+76076
+
+> <DSSTox_GSID>
+21316
+
+> <DSSTox_FileID_Sort>
+760
+
+> <TS_ChemName>
+Tetradifon
+
+> <TS_ChemName_Synonyms>
+Tetradiafon (2,4,5,4'-Tetrachlorodiphenyl sulfone)
+
+> <TS_CASRN>
+116-29-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H6Cl4O2S
+
+> <STRUCTURE_MW>
+356.0518
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-chlorophenyl 2,4,5-trichlorophenyl sulfone
+
+> <STRUCTURE_SMILES>
+Clc1cc(c(Cl)cc1Cl)S(=O)(=O)c2ccc(Cl)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(c(Cl)cc1Cl)S(=O)(=O)c2ccc(Cl)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

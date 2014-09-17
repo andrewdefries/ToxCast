@@ -1,0 +1,112 @@
+33229-34-4
+ChemmineR-0915142007XD
+
+ 20 20  0  0  0  0  0  0  0  0  2 V2000
+    5.9907   -2.2984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6504   -3.4476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9907   -4.6074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6606   -4.6074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9903   -3.4476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6606   -2.2984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6602   -3.4476    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9898   -4.6074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6597   -4.6074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7566    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9898   -2.2984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6597   -2.2984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4476    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9805   -3.4476    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6509   -4.6074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9703   -4.6074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6407   -5.7566    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6504   -1.1492    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.9907    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    7.9805   -1.1492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <ID>
+189
+
+> <Formula>
+C12H19N3O5
+
+> <FW>
+285.2964
+
+> <DSSTox_CID>
+193
+
+> <DSSTox_RID>
+75424
+
+> <DSSTox_GSID>
+20193
+
+> <DSSTox_FileID_Sort>
+108
+
+> <TS_ChemName>
+HC Blue 2
+
+> <TS_ChemName_Synonyms>
+HC Blue No. 2
+
+> <TS_CASRN>
+33229-34-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H19N3O5
+
+> <STRUCTURE_MW>
+285.2964
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-({4-[(2-hydroxyethyl)amino]-3-nitrophenyl}imino)diethanol
+
+> <STRUCTURE_SMILES>
+OCCN(CCO)c1ccc(NCCO)c(c1)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+OCCN(CCO)c1ccc(NCCO)c(c1)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

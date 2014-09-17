@@ -1,0 +1,96 @@
+96-96-8
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  2 V2000
+    3.4554   -1.3258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -1.9976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -3.3294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -3.9833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -3.3114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -1.9856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4734    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -5.3270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -5.9989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.3258    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.1518    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9856    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+10401
+
+> <Formula>
+C7H8N2O3
+
+> <FW>
+168.15
+
+> <DSSTox_CID>
+24750
+
+> <DSSTox_RID>
+80443
+
+> <DSSTox_GSID>
+44750
+
+> <DSSTox_FileID_Sort>
+5125
+
+> <TS_ChemName>
+4-Methoxy-2-nitroaniline
+
+> <TS_ChemName_Synonyms>
+4-methoxy-2-nitroaniline (Benzenamine, 4-methoxy-2-nitro-)
+
+> <TS_CASRN>
+96-96-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H8N2O3
+
+> <STRUCTURE_MW>
+168.15
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methoxy-2-nitroaniline
+
+> <STRUCTURE_SMILES>
+COc1ccc(N)c(c1)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(N)c(c1)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

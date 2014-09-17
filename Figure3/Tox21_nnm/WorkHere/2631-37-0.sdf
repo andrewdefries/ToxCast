@@ -1,0 +1,102 @@
+2631-37-0
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    4.6086   -1.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3080   -5.3120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656   -3.3191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656   -1.9929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3080   -3.9859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4656   -5.9568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086   -5.2974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7663   -1.9856    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086   -3.9785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -5.9934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7663   -5.9788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9240   -1.2895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -7.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+M  END
+> <ID>
+7366
+
+> <Formula>
+C12H17NO2
+
+> <FW>
+207.2689
+
+> <DSSTox_CID>
+17617
+
+> <DSSTox_RID>
+79349
+
+> <DSSTox_GSID>
+37617
+
+> <DSSTox_FileID_Sort>
+4031
+
+> <TS_ChemName>
+Promecarb
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2631-37-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H17NO2
+
+> <STRUCTURE_MW>
+207.2689
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methyl-5-(propan-2-yl)phenyl methylcarbamate
+
+> <STRUCTURE_SMILES>
+O=C(Oc1cc(C)cc(c1)C(C)C)NC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Oc1cc(C)cc(c1)C(C)C)NC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

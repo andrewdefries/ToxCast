@@ -1,0 +1,89 @@
+638-03-9
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    2.3040   -2.6588    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -2.6588    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6588    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2902   -3.4145    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+1310
+
+> <Formula>
+C7H10ClN
+
+> <FW>
+143.6140 (107.1531+36.4609)
+
+> <DSSTox_CID>
+1363
+
+> <DSSTox_RID>
+76109
+
+> <DSSTox_GSID>
+21363
+
+> <DSSTox_FileID_Sort>
+793
+
+> <TS_ChemName>
+3-Methylaniline hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+638-03-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [108-44-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H10ClN
+
+> <STRUCTURE_MW>
+143.614
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+3-methylaniline hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Cc1cc(N)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(N)ccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

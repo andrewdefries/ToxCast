@@ -1,0 +1,112 @@
+196597-26-9
+ChemmineR-0915142007XD
+
+ 19 21  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -4.9817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2859   -4.6374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6302   -3.3515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6885   -2.4098    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9161   -3.0072    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8578   -3.9489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1538   -3.6755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5690   -2.4098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7893   -1.3264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5690   -0.2531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8346   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9889    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1331   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1331   -1.9947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1254   -2.8857    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5887   -4.1008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2623   -3.9590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9889   -2.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8346   -1.9947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+11315
+
+> <Formula>
+C16H21NO2
+
+> <FW>
+259.3434
+
+> <DSSTox_CID>
+25951
+
+> <DSSTox_RID>
+81247
+
+> <DSSTox_GSID>
+45951
+
+> <DSSTox_FileID_Sort>
+5928
+
+> <TS_ChemName>
+Ramelteon
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+196597-26-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H21NO2
+
+> <STRUCTURE_MW>
+259.3434
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-[2-(1,6,7,8-tetrahydro-2H-indeno[5,4-b]furan-8-yl)ethyl]propanamide
+
+> <STRUCTURE_SMILES>
+CCC(=O)NCCC3CCc2ccc1OCCc1c23
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(=O)NCCC3CCc2ccc1OCCc1c23
+
+> <Substance_modify_yyyymmdd>
+20110930
+
+$$$$

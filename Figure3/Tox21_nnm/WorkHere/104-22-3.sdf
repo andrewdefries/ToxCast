@@ -1,0 +1,109 @@
+104-22-3
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    9.2745   -3.8118    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1244   -3.1533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9651   -3.8118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8151   -3.1533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8151   -1.8085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9651   -1.1593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1244   -1.8085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6651   -1.1593    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5057   -0.5008    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3143    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9880   -2.3093    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6618   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9847   -3.4594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6618   -4.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9847   -5.7687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6770   -5.7687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6770   -3.4594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+11415
+
+> <Formula>
+C13H14N2O2S
+
+> <FW>
+262.3275
+
+> <DSSTox_CID>
+26110
+
+> <DSSTox_RID>
+81347
+
+> <DSSTox_GSID>
+46110
+
+> <DSSTox_FileID_Sort>
+6028
+
+> <TS_ChemName>
+Benzylsulfamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+104-22-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H14N2O2S
+
+> <STRUCTURE_MW>
+262.3275
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-N-benzylbenzenesulfonamide
+
+> <STRUCTURE_SMILES>
+Nc1ccc(cc1)S(=O)(=O)NCc2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1)S(=O)(=O)NCc2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

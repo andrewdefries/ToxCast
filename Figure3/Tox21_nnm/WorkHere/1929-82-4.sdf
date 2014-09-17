@@ -1,0 +1,94 @@
+1929-82-4
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.1507   -1.1507    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577   -1.1794    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3071   -1.8238    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6026   -1.8353    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4833   -2.3071    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4775    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8238    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7533   -1.1507    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3071   -3.1528    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577   -3.8259    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6026   -3.1643    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  2  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+3565
+
+> <Formula>
+C6H3Cl4N
+
+> <FW>
+230.9067
+
+> <DSSTox_CID>
+4216
+
+> <DSSTox_RID>
+77330
+
+> <DSSTox_GSID>
+24216
+
+> <DSSTox_FileID_Sort>
+2013
+
+> <TS_ChemName>
+Nitrapyrin
+
+> <TS_ChemName_Synonyms>
+Nitrapyrin (2-Chloro-6-(trichloromethyl)pyridine)
+
+> <TS_CASRN>
+1929-82-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H3Cl4N
+
+> <STRUCTURE_MW>
+230.9067
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-6-(trichloromethyl)pyridine
+
+> <STRUCTURE_SMILES>
+ClC(Cl)(Cl)c1cccc(Cl)n1
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)(Cl)c1cccc(Cl)n1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

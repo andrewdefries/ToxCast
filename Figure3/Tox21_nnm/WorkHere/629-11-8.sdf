@@ -1,0 +1,87 @@
+629-11-8
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    1.1732    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3382   -0.6436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4788    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6357   -0.6436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8089    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9740   -0.6436    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6436    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1472    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+5032
+
+> <Formula>
+C6H14O2
+
+> <FW>
+118.1742
+
+> <DSSTox_CID>
+7265
+
+> <DSSTox_RID>
+78376
+
+> <DSSTox_GSID>
+27265
+
+> <DSSTox_FileID_Sort>
+3059
+
+> <TS_ChemName>
+1,6-Hexanediol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+629-11-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O2
+
+> <STRUCTURE_MW>
+118.1742
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexane-1,6-diol
+
+> <STRUCTURE_SMILES>
+OCCCCCCO
+
+> <STRUCTURE_SMILES_Desalt>
+OCCCCCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

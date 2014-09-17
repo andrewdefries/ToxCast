@@ -1,0 +1,102 @@
+26896-48-0
+ChemmineR-0915142007XD
+
+ 14 16  0  0  0  0  0  0  0  0  1 V2000
+    3.3386   -3.0465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9146   -2.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9245   -1.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5573   -2.4205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6658    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1681   -2.0199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7007   -3.0131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1049   -1.1351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0199   -1.6276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1785   -2.8128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2270   -3.6976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3220    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4118   -1.6443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3466   -2.5123    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+10547
+
+> <Formula>
+C12H20O2
+
+> <FW>
+196.286
+
+> <DSSTox_CID>
+24900
+
+> <DSSTox_RID>
+80571
+
+> <DSSTox_GSID>
+44900
+
+> <DSSTox_FileID_Sort>
+5253
+
+> <TS_ChemName>
+Tricyclodecanedimethanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+26896-48-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H20O2
+
+> <STRUCTURE_MW>
+196.286
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+octahydro-1H-4,7-methanoindene-1,5-diyldimethanol
+
+> <STRUCTURE_SMILES>
+OCC2CCC3C1CC(CC1CO)C23
+
+> <STRUCTURE_SMILES_Desalt>
+OCC2CCC3C1CC(CC1CO)C23
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

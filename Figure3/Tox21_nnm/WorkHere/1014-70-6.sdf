@@ -1,0 +1,100 @@
+1014-70-6
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    4.5922   -4.6566    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4418   -2.6596    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7425   -2.6596    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4418   -3.9848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7425   -3.9848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5922   -1.9970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -4.6566    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9021   -4.6566    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5922   -0.6718    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -3.9848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0524   -3.9848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7425    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2028   -4.6566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <ID>
+7356
+
+> <Formula>
+C8H15N5S
+
+> <FW>
+213.3032
+
+> <DSSTox_CID>
+17596
+
+> <DSSTox_RID>
+79347
+
+> <DSSTox_GSID>
+37596
+
+> <DSSTox_FileID_Sort>
+4029
+
+> <TS_ChemName>
+Simetryn
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1014-70-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H15N5S
+
+> <STRUCTURE_MW>
+213.3032
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N'-diethyl-6-(methylsulfanyl)-1,3,5-triazine-2,4-diamine
+
+> <STRUCTURE_SMILES>
+CSc1nc(NCC)nc(NCC)n1
+
+> <STRUCTURE_SMILES_Desalt>
+CSc1nc(NCC)nc(NCC)n1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

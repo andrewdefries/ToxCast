@@ -1,0 +1,83 @@
+79-43-6
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    3.3250   -1.1509    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -1.1509    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307   -2.3053    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -3.4563    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3053    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+M  END
+> <ID>
+412
+
+> <Formula>
+C2H2Cl2O2
+
+> <FW>
+128.9421
+
+> <DSSTox_CID>
+428
+
+> <DSSTox_RID>
+75580
+
+> <DSSTox_GSID>
+20428
+
+> <DSSTox_FileID_Sort>
+264
+
+> <TS_ChemName>
+Dichloroacetic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+79-43-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H2Cl2O2
+
+> <STRUCTURE_MW>
+128.9421
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dichloroacetic acid
+
+> <STRUCTURE_SMILES>
+ClC(Cl)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

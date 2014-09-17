@@ -1,0 +1,94 @@
+7227-91-0
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6748   -1.1609    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0170   -1.1609    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2432   -1.1609    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5782   -1.1609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2530    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5953    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2555   -1.1609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5953   -2.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2530   -2.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+1084
+
+> <Formula>
+C8H11N3
+
+> <FW>
+149.193
+
+> <DSSTox_CID>
+1128
+
+> <DSSTox_RID>
+75959
+
+> <DSSTox_GSID>
+21128
+
+> <DSSTox_FileID_Sort>
+643
+
+> <TS_ChemName>
+1-Phenyl-3,3-dimethyltriazene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7227-91-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H11N3
+
+> <STRUCTURE_MW>
+149.193
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3-dimethyl-1-phenyltriaz-1-ene
+
+> <STRUCTURE_SMILES>
+CN(C)/N=N/c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)/N=N/c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

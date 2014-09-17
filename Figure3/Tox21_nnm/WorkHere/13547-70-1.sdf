@@ -1,0 +1,87 @@
+13547-70-1
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6588   -2.3075    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9872   -2.3075    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3193   -2.3075    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4649    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6588    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9872   -3.6396    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9872   -0.9791    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+M  END
+> <ID>
+5365
+
+> <Formula>
+C6H11ClO
+
+> <FW>
+134.6039
+
+> <DSSTox_CID>
+7749
+
+> <DSSTox_RID>
+78555
+
+> <DSSTox_GSID>
+27749
+
+> <DSSTox_FileID_Sort>
+3238
+
+> <TS_ChemName>
+1-Chloro-3,3-dimethyl-butan-2-one
+
+> <TS_ChemName_Synonyms>
+1-Chloro-3,3-dimethyl-butan-2-one (1-Chloropinacolone)
+
+> <TS_CASRN>
+13547-70-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H11ClO
+
+> <STRUCTURE_MW>
+134.6039
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-3,3-dimethylbutan-2-one
+
+> <STRUCTURE_SMILES>
+CC(C)(C)C(=O)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)C(=O)CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

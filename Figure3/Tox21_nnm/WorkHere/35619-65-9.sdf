@@ -1,0 +1,113 @@
+35619-65-9
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    6.9054   -5.9806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7559   -6.6461    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6065   -5.9806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570   -6.6461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570   -7.9771    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2989   -8.6425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2989   -5.9806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2989   -4.6497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570   -3.9928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6065   -4.6497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570   -2.6619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6065   -1.9964    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2989   -1.9964    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1495   -2.6619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6655    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1495    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2989   -0.6655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1495   -6.6461    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 19  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+11493
+
+> <Formula>
+C14H19NO4S
+
+> <FW>
+297.37
+
+> <DSSTox_CID>
+26195
+
+> <DSSTox_RID>
+81426
+
+> <DSSTox_GSID>
+46195
+
+> <DSSTox_FileID_Sort>
+6107
+
+> <TS_ChemName>
+Tritiozine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+35619-65-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H19NO4S
+
+> <STRUCTURE_MW>
+297.37
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+morpholin-4-yl(3,4,5-trimethoxyphenyl)methanethione
+
+> <STRUCTURE_SMILES>
+S=C(c1cc(OC)c(OC)c(OC)c1)N2CCOCC2
+
+> <STRUCTURE_SMILES_Desalt>
+S=C(c1cc(OC)c(OC)c(OC)c1)N2CCOCC2
+
+> <Substance_modify_yyyymmdd>
+20110817
+
+$$$$

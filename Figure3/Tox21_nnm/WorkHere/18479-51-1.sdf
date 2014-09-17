@@ -1,0 +1,93 @@
+18479-51-1
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1390   -2.0053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2941   -1.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4492   -2.0053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6043   -1.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7433   -2.0053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8824   -1.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0214   -2.0053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2941    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2941   -2.6631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8824    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+M  END
+> <ID>
+10458
+
+> <Formula>
+C10H20O
+
+> <FW>
+156.2652
+
+> <DSSTox_CID>
+24809
+
+> <DSSTox_RID>
+80492
+
+> <DSSTox_GSID>
+44809
+
+> <DSSTox_FileID_Sort>
+5174
+
+> <TS_ChemName>
+3,7-Dimethyloct-6-en-3-ol
+
+> <TS_ChemName_Synonyms>
+3,7-Dimethyloct-6-en-3-ol (6-Octen-3-ol, 3,7-dimethyl-) (Tetrahydromyrcenol)
+
+> <TS_CASRN>
+18479-51-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20O
+
+> <STRUCTURE_MW>
+156.2652
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,7-dimethyloct-6-en-3-ol
+
+> <STRUCTURE_SMILES>
+CCC(C)(O)CC\C=C(\C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(C)(O)CC\C=C(\C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

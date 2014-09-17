@@ -1,0 +1,83 @@
+107-96-0
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.1553   -1.3355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3105   -1.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4658   -1.3355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6211   -1.9917    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+> <ID>
+4800
+
+> <Formula>
+C3H6O2S
+
+> <FW>
+106.1435
+
+> <DSSTox_CID>
+6775
+
+> <DSSTox_RID>
+78211
+
+> <DSSTox_GSID>
+26775
+
+> <DSSTox_FileID_Sort>
+2894
+
+> <TS_ChemName>
+3-Mercaptopropanoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+107-96-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H6O2S
+
+> <STRUCTURE_MW>
+106.1435
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-sulfanylpropanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCS
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCS
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

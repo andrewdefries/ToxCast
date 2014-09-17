@@ -1,0 +1,115 @@
+65733-16-6
+ChemmineR-0915142007XD
+
+ 22 21  0  0  1  0  0  0  0  0  1 V2000
+    3.4528   -1.9662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5877   -2.6535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7546   -1.9662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8735   -2.6535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0404   -1.9662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1594   -2.6535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2943   -1.9662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4452   -2.6535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5802   -1.9662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7471   -2.6535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8820   -1.9662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9850   -2.6535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4528   -0.6234    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2858   -2.6535    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8820   -0.6234    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7471    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7546   -0.6234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2943   -0.6234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8820   -3.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1669   -1.9662    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1669   -0.6874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 14  1  0  0  0  0
+  1 13  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 18  1  1  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+M  END
+> <ID>
+7078
+
+> <Formula>
+C19H34O3
+
+> <FW>
+310.4715
+
+> <DSSTox_CID>
+15783
+
+> <DSSTox_RID>
+79269
+
+> <DSSTox_GSID>
+35783
+
+> <DSSTox_FileID_Sort>
+3951
+
+> <TS_ChemName>
+S-Methoprene
+
+> <TS_ChemName_Synonyms>
+S-Methoprene (Isopropyl (2E,4E,7S)-11-methoxy-3,7,11-trimethyl-2,4-dodecadienoate)
+
+> <TS_CASRN>
+65733-16-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C19H34O3
+
+> <STRUCTURE_MW>
+310.4715
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+propan-2-yl (2E,4E,7S)-11-methoxy-3,7,11-trimethyldodeca-2,4-dienoate
+
+> <STRUCTURE_SMILES>
+CC(C)OC(=O)\C=C(/C)\C=C\C[C@@H](C)CCCC(C)(C)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)OC(=O)\C=C(/C)\C=C\C[C@@H](C)CCCC(C)(C)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

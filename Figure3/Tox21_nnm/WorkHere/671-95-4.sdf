@@ -1,0 +1,102 @@
+671-95-4
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    5.7747   -1.1577    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1438   -1.1577    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5823   -1.8232    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4315   -1.1577    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2877   -1.8232    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5823   -3.1473    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1022    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4263   -2.3501    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7955   -0.0139    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4922   -2.3015    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9324   -0.5061    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4922    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2877   -3.1265    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4315   -3.8128    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7400   -3.8128    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1  8  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  9  2  0  0  0  0
+  2 10  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6 14  2  0  0  0  0
+  6 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+11452
+
+> <Formula>
+C6H7ClN2O4S2
+
+> <FW>
+270.7138
+
+> <DSSTox_CID>
+26153
+
+> <DSSTox_RID>
+81384
+
+> <DSSTox_GSID>
+46153
+
+> <DSSTox_FileID_Sort>
+6065
+
+> <TS_ChemName>
+Clofenamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+671-95-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H7ClN2O4S2
+
+> <STRUCTURE_MW>
+270.7138
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-chlorobenzene-1,3-disulfonamide
+
+> <STRUCTURE_SMILES>
+O=S(N)(=O)c1cc(ccc1Cl)S(N)(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(N)(=O)c1cc(ccc1Cl)S(N)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

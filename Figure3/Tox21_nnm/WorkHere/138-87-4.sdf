@@ -1,0 +1,94 @@
+138-87-4
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    3.8093   -1.1538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1368   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8090   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -1.1538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8090    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1368    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1429   -1.1538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7981    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7981   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8264    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+8182
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+21209
+
+> <DSSTox_RID>
+79649
+
+> <DSSTox_GSID>
+41209
+
+> <DSSTox_FileID_Sort>
+4331
+
+> <TS_ChemName>
+beta-Terpineol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+138-87-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methyl-4-(prop-1-en-2-yl)cyclohexanol
+
+> <STRUCTURE_SMILES>
+CC1(O)CCC(CC1)C(=C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC1(O)CCC(CC1)C(=C)C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

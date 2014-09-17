@@ -1,0 +1,107 @@
+5436-43-1
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    4.6099   -1.3250    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4597   -1.9875    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4597   -3.3309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3003   -1.3250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3003   -3.9842    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1502   -1.9875    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1502   -3.3309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7416   -1.9875    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9010   -1.3250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7416   -3.3309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0511   -1.9875    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9010   -3.9842    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0511   -3.3309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9010    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2013   -3.9842    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3003    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9842    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 16  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+6257
+
+> <Formula>
+C12H6Br4O
+
+> <FW>
+485.7914
+
+> <DSSTox_CID>
+10056
+
+> <DSSTox_RID>
+78835
+
+> <DSSTox_GSID>
+30056
+
+> <DSSTox_FileID_Sort>
+3517
+
+> <TS_ChemName>
+2,2'4,4'-Tetrabromodiphenyl ether
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5436-43-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+PBDE 47
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H6Br4O
+
+> <STRUCTURE_MW>
+485.7914
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+bis(2,4-dibromophenyl) ether
+
+> <STRUCTURE_SMILES>
+Brc2cc(Br)ccc2Oc1ccc(Br)cc1Br
+
+> <STRUCTURE_SMILES_Desalt>
+Brc2cc(Br)ccc2Oc1ccc(Br)cc1Br
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

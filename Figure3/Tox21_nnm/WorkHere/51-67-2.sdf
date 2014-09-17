@@ -1,0 +1,92 @@
+51-67-2
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.3252   -1.1641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9975   -1.1641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3214    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9987    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9987   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1641    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9962    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3227   -1.1641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2 10  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+9705
+
+> <Formula>
+C8H11NO
+
+> <FW>
+137.179
+
+> <DSSTox_CID>
+23874
+
+> <DSSTox_RID>
+80079
+
+> <DSSTox_GSID>
+43874
+
+> <DSSTox_FileID_Sort>
+4761
+
+> <TS_ChemName>
+Tyramine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+51-67-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H11NO
+
+> <STRUCTURE_MW>
+137.179
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(2-aminoethyl)phenol
+
+> <STRUCTURE_SMILES>
+Oc1ccc(CCN)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(CCN)cc1
+
+> <Substance_modify_yyyymmdd>
+20081229
+
+$$$$

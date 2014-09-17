@@ -1,0 +1,97 @@
+28094-15-7
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    3.4535   -3.9854    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9071   -2.6592    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7536   -1.9892    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6070   -2.6592    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4535   -1.9892    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3001   -2.6592    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -1.9892    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3001    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4535   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6070    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6592    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+11232
+
+> <Formula>
+C8H12ClNO3
+
+> <FW>
+205.6388 (36.4609+169.1778)
+
+> <DSSTox_CID>
+25838
+
+> <DSSTox_RID>
+81164
+
+> <DSSTox_GSID>
+45838
+
+> <DSSTox_FileID_Sort>
+5845
+
+> <TS_ChemName>
+Oxidopamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+28094-15-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [1199-18-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12ClNO3
+
+> <STRUCTURE_MW>
+205.6388
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+5-(2-aminoethyl)benzene-1,2,4-triol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Oc1cc(CCN)c(O)cc1O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1cc(CCN)c(O)cc1O
+
+> <Substance_modify_yyyymmdd>
+20110922
+
+$$$$

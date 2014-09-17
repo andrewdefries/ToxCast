@@ -1,0 +1,95 @@
+124-76-5
+ChemmineR-0915142007XD
+
+ 11 12  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -3.8819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5565   -2.8775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5292   -2.1853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1673   -3.2801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -0.9456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7282   -2.8910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2757   -3.8502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9455    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2534   -0.0905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1673   -4.5243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5199   -3.6692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  1  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 11  1  1  0  0  0
+M  END
+> <ID>
+8992
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+22060
+
+> <DSSTox_RID>
+79910
+
+> <DSSTox_GSID>
+42060
+
+> <DSSTox_FileID_Sort>
+4592
+
+> <TS_ChemName>
+Isoborneol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+124-76-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1R,2R,4R)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-ol
+
+> <STRUCTURE_SMILES>
+C[C@]12CC[C@H](C[C@H]1O)C2(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C[C@]12CC[C@H](C[C@H]1O)C2(C)C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,114 @@
+91618-36-9
+ChemmineR-0915142007XD
+
+ 20 22  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1492   -4.6526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1492   -5.9854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064   -6.6477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -5.9854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6047   -6.6477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6047   -7.9805    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7619   -5.9854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7619   -4.6526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6047   -3.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -4.6526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064   -3.9902    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064   -2.6575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -1.9951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -0.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6047    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6047   -2.6575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7619   -1.9951    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9111   -6.6477    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+16251
+
+> <Formula>
+C15H14FNO3
+
+> <FW>
+275.275
+
+> <DSSTox_CID>
+31642
+
+> <DSSTox_RID>
+97526
+
+> <DSSTox_GSID>
+57853
+
+> <DSSTox_FileID_Sort>
+8593
+
+> <TS_ChemName>
+Ibafloxacine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+91618-36-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H14FNO3
+
+> <STRUCTURE_MW>
+275.275
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+9-fluoro-5,8-dimethyl-1-oxo-6,7-dihydro-1H,5H-pyrido[3,2,1-ij]quinoline-2-carboxylic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)C3=CN1c2c(cc(F)c(C)c2CCC1C)C3=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)C3=CN1c2c(cc(F)c(C)c2CCC1C)C3=O
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

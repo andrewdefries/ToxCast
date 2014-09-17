@@ -1,0 +1,111 @@
+2386-87-0
+ChemmineR-0915142007XD
+
+ 18 21  0  0  0  0  0  0  0  0  1 V2000
+    1.1526   -1.9833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3052   -1.3187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4578   -1.9833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4578   -3.3124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3052   -3.9769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -3.3124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6478    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6104   -1.3187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6104    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7733   -1.9833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9259   -1.3187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2311   -3.9769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0785   -3.3124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0785   -1.9833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2311   -1.3187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3837   -1.9833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3837   -3.3124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3837   -4.6415    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+5177
+
+> <Formula>
+C14H20O4
+
+> <FW>
+252.3062
+
+> <DSSTox_CID>
+7466
+
+> <DSSTox_RID>
+78463
+
+> <DSSTox_GSID>
+27466
+
+> <DSSTox_FileID_Sort>
+3146
+
+> <TS_ChemName>
+3,4-Epoxycyclohexylmethyl 3,4-epoxycyclohexanecarboxylate
+
+> <TS_ChemName_Synonyms>
+3,4-Epoxycyclohexylmethyl 3,4-epoxycyclohexanecarboxylate (7-Oxabicyclo[4.1.0]heptane-3-carboxylic acid, 7-oxabicyclo[4.1.0]hept-3-ylmethyl ester)
+
+> <TS_CASRN>
+2386-87-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20O4
+
+> <STRUCTURE_MW>
+252.3062
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+7-oxabicyclo[4.1.0]hept-3-ylmethyl 7-oxabicyclo[4.1.0]heptane-3-carboxylate
+
+> <STRUCTURE_SMILES>
+O=C(OCC1CC2OC2CC1)C3CCC4OC4C3
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC1CC2OC2CC1)C3CCC4OC4C3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

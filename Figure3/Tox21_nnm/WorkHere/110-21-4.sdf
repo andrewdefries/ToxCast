@@ -1,0 +1,87 @@
+110-21-4
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    4.6103    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577   -1.9939    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -1.3312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -3.3252    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7628   -1.9939    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+3776
+
+> <Formula>
+C2H6N4O2
+
+> <FW>
+118.0946
+
+> <DSSTox_CID>
+4628
+
+> <DSSTox_RID>
+77474
+
+> <DSSTox_GSID>
+24628
+
+> <DSSTox_FileID_Sort>
+2157
+
+> <TS_ChemName>
+Biurea
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+110-21-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H6N4O2
+
+> <STRUCTURE_MW>
+118.0946
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hydrazine-1,2-dicarboxamide
+
+> <STRUCTURE_SMILES>
+NC(=O)NNC(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)NNC(N)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

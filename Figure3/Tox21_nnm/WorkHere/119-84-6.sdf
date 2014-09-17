@@ -1,0 +1,95 @@
+119-84-6
+ChemmineR-0915142007XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -2.6606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -0.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6071    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7589   -0.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7589   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6071   -2.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -0.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+458
+
+> <Formula>
+C9H8O2
+
+> <FW>
+148.1586
+
+> <DSSTox_CID>
+474
+
+> <DSSTox_RID>
+75613
+
+> <DSSTox_GSID>
+20474
+
+> <DSSTox_FileID_Sort>
+297
+
+> <TS_ChemName>
+3,4-Dihydrocoumarin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+119-84-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H8O2
+
+> <STRUCTURE_MW>
+148.1586
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,4-dihydro-2H-chromen-2-one
+
+> <STRUCTURE_SMILES>
+O=C1CCc2ccccc2O1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCc2ccccc2O1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

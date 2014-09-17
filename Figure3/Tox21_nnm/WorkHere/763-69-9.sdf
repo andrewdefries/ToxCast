@@ -1,0 +1,91 @@
+763-69-9
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    3.4519   -1.3326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6079   -2.0069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7317   -1.3326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4519    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2959   -2.0069    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8877   -2.0069    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0276   -1.3165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0276    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1399   -1.3326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+5068
+
+> <Formula>
+C7H14O3
+
+> <FW>
+146.1843
+
+> <DSSTox_CID>
+7309
+
+> <DSSTox_RID>
+78400
+
+> <DSSTox_GSID>
+27309
+
+> <DSSTox_FileID_Sort>
+3083
+
+> <TS_ChemName>
+Ethyl 3-ethoxypropionate
+
+> <TS_ChemName_Synonyms>
+Propanoic acid, 3-ethoxy-, ethyl ester
+
+> <TS_CASRN>
+763-69-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O3
+
+> <STRUCTURE_MW>
+146.1843
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 3-ethoxypropanoate
+
+> <STRUCTURE_SMILES>
+CCOCCC(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCOCCC(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

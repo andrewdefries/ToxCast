@@ -1,0 +1,87 @@
+106-36-5
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    2.3205   -1.3369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3205    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4634   -1.9949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -1.3369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7701   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9268   -1.3369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+9259
+
+> <Formula>
+C6H12O2
+
+> <FW>
+116.1583
+
+> <DSSTox_CID>
+22337
+
+> <DSSTox_RID>
+79999
+
+> <DSSTox_GSID>
+42337
+
+> <DSSTox_FileID_Sort>
+4681
+
+> <TS_ChemName>
+Propyl propionate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+106-36-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O2
+
+> <STRUCTURE_MW>
+116.1583
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+propyl propanoate
+
+> <STRUCTURE_SMILES>
+CCC(=O)OCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(=O)OCCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,107 @@
+102-16-9
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    2.6584   -1.1484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877   -1.1484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6576   -2.2969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9868   -2.2969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6461   -3.4560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9753   -3.4560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6346   -2.2969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9639   -2.2969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6338   -3.4560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9639   -4.6044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6346   -4.6044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877   -3.4560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9992   -2.2969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6699   -2.2969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6699    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9992    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  1 17  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+3754
+
+> <Formula>
+C15H14O2
+
+> <FW>
+226.2705
+
+> <DSSTox_CID>
+4597
+
+> <DSSTox_RID>
+77461
+
+> <DSSTox_GSID>
+24597
+
+> <DSSTox_FileID_Sort>
+2144
+
+> <TS_ChemName>
+Benzyl phenylacetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+102-16-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H14O2
+
+> <STRUCTURE_MW>
+226.2705
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzyl phenylacetate
+
+> <STRUCTURE_SMILES>
+O=C(OCc1ccccc1)Cc2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCc1ccccc1)Cc2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

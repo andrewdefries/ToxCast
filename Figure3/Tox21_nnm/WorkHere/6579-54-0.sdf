@@ -1,0 +1,96 @@
+6579-54-0
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    3.3260    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9947    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9894   -1.1517    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313   -1.1517    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3260   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9947   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1517    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9894   -3.4550    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1797   -2.7916    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4830   -4.1229    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6634   -4.6066    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313   -3.4550    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+14210
+
+> <Formula>
+C6H3Cl3O2S
+
+> <FW>
+245.5108
+
+> <DSSTox_CID>
+29303
+
+> <DSSTox_RID>
+83421
+
+> <DSSTox_GSID>
+49346
+
+> <DSSTox_FileID_Sort>
+8096
+
+> <TS_ChemName>
+2,6-Dichlorobenzenesulfonylchloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6579-54-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H3Cl3O2S
+
+> <STRUCTURE_MW>
+245.5108
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,6-dichlorobenzenesulfonyl chloride
+
+> <STRUCTURE_SMILES>
+O=S(Cl)(=O)c1c(Cl)cccc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(Cl)(=O)c1c(Cl)cccc1Cl
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

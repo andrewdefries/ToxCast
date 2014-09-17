@@ -1,0 +1,87 @@
+110-17-8
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7628   -1.9939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -3.3252    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <ID>
+1458
+
+> <Formula>
+C4H4O4
+
+> <FW>
+116.0722
+
+> <DSSTox_CID>
+1518
+
+> <DSSTox_RID>
+76195
+
+> <DSSTox_GSID>
+21518
+
+> <DSSTox_FileID_Sort>
+879
+
+> <TS_ChemName>
+Fumaric acid
+
+> <TS_ChemName_Synonyms>
+Fumaric acid ((2E)-2-Butenedioic acid) (trans-Butenedioic acid)
+
+> <TS_CASRN>
+110-17-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H4O4
+
+> <STRUCTURE_MW>
+116.0722
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-but-2-enedioic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)/C=C/C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)/C=C/C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

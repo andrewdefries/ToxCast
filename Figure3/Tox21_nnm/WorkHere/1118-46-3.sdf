@@ -1,0 +1,87 @@
+1118-46-3
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    3.9892   -1.3297    0.0000 Sn   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6595   -1.3297    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9839   -2.4839    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6595   -2.4839    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.6381    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9892   -2.6595    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9892    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3189   -1.3297    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+5858
+
+> <Formula>
+C4H9Cl3Sn
+
+> <FW>
+282.1833
+
+> <DSSTox_CID>
+9210
+
+> <DSSTox_RID>
+78710
+
+> <DSSTox_GSID>
+29210
+
+> <DSSTox_FileID_Sort>
+3392
+
+> <TS_ChemName>
+Butyltin trichloride
+
+> <TS_ChemName_Synonyms>
+Butyltin trichloride (Monobutyltin trichloride) (Stannane, butyltrichloro-)
+
+> <TS_CASRN>
+1118-46-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H9Cl3Sn
+
+> <STRUCTURE_MW>
+282.1833
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+butyl(trichloro)stannane
+
+> <STRUCTURE_SMILES>
+CCCC[Sn](Cl)(Cl)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC[Sn](Cl)(Cl)Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

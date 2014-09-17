@@ -1,0 +1,93 @@
+36727-29-4
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.2621    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0295    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1634   -2.7852    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7698   -1.4948    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8839   -2.3621    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0768   -2.4044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0896   -0.6981    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0896   -1.8403    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0639   -1.8403    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.0511   -2.4044    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0639   -0.6981    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+14147
+
+> <Formula>
+C9H17ClO
+
+> <FW>
+176.6837
+
+> <DSSTox_CID>
+29140
+
+> <DSSTox_RID>
+83359
+
+> <DSSTox_GSID>
+49284
+
+> <DSSTox_FileID_Sort>
+8034
+
+> <TS_ChemName>
+Hexanoylchloride,3,5,5-trimethyl-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+36727-29-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H17ClO
+
+> <STRUCTURE_MW>
+176.6837
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5,5-trimethylhexanoyl chloride
+
+> <STRUCTURE_SMILES>
+CC(CC(C)(C)C)CC(Cl)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CC(C)(C)C)CC(Cl)=O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

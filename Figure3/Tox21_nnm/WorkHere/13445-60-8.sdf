@@ -1,0 +1,107 @@
+13445-60-8
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    4.6129   -5.5880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6129   -4.2602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4579   -3.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3030   -4.2602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3030   -5.5880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1550   -6.2450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.5880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.2602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1550   -3.5893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7609   -3.5893    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9159   -4.2602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7609   -2.2615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6129   -1.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3957   -2.1439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5105   -1.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1675    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4677   -0.2766    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+16127
+
+> <Formula>
+C15H19NO
+
+> <FW>
+229.3175
+
+> <DSSTox_CID>
+31516
+
+> <DSSTox_RID>
+97401
+
+> <DSSTox_GSID>
+57727
+
+> <DSSTox_FileID_Sort>
+8468
+
+> <TS_ChemName>
+Furfenorex
+
+> <TS_ChemName_Synonyms>
+dl-Furfenorex
+
+> <TS_CASRN>
+13445-60-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of isomers
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C15H19NO
+
+> <STRUCTURE_MW>
+229.3175
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(2-furylmethyl)-N-methyl-1-phenylpropan-2-amine
+
+> <STRUCTURE_SMILES>
+CN(Cc1ccco1)C(C)Cc2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CN(Cc1ccco1)C(C)Cc2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

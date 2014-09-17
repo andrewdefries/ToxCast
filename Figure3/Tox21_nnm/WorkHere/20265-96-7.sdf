@@ -1,0 +1,89 @@
+20265-96-7
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    2.7877   -3.2027    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -1.1491    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -2.3036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -2.3036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1491    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+287
+
+> <Formula>
+C6H7Cl2N
+
+> <FW>
+164.0325 (36.4609+127.5715)
+
+> <DSSTox_CID>
+296
+
+> <DSSTox_RID>
+75496
+
+> <DSSTox_GSID>
+20296
+
+> <DSSTox_FileID_Sort>
+180
+
+> <TS_ChemName>
+4-Chloroaniline hydrochloride
+
+> <TS_ChemName_Synonyms>
+4-Chloroaniline hydrochloride (p-Chloroaniline hydrochloride)
+
+> <TS_CASRN>
+20265-96-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [106-47-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H7Cl2N
+
+> <STRUCTURE_MW>
+164.0325
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-chloroaniline hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Nc1ccc(Cl)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(Cl)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

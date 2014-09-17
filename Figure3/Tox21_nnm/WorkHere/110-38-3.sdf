@@ -1,0 +1,99 @@
+110-38-3
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    3.4578   -1.3087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6012   -1.9838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7584   -1.3087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8881   -1.9838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0177   -1.3087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1749   -1.9838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3183   -1.3087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4755   -1.9838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6189   -1.3087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7761   -1.9838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4578    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3006   -1.9838    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1572   -1.3087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  1 11  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+10021
+
+> <Formula>
+C12H24O2
+
+> <FW>
+200.3178
+
+> <DSSTox_CID>
+24363
+
+> <DSSTox_RID>
+80171
+
+> <DSSTox_GSID>
+44363
+
+> <DSSTox_FileID_Sort>
+4853
+
+> <TS_ChemName>
+Ethyl decanoate
+
+> <TS_ChemName_Synonyms>
+Ethyl decanoate (Decanoic acid, ethyl ester)
+
+> <TS_CASRN>
+110-38-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H24O2
+
+> <STRUCTURE_MW>
+200.3178
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl decanoate
+
+> <STRUCTURE_SMILES>
+O=C(CCCCCCCCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCCCCCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

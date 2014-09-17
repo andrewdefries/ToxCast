@@ -1,0 +1,106 @@
+4093-31-6
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    4.6534   -8.0648    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9921   -6.9116    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6534   -5.7583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9841   -5.7583    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9921   -4.6050    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6534   -3.4598    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9841   -3.4598    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6535   -2.3065    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9921   -2.3065    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6614   -2.3065    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920   -1.1533    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6613   -1.1533    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3065    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920   -3.4598    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6614   -4.6050    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6613   -3.4598    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+16140
+
+> <Formula>
+C11H12ClNO4
+
+> <FW>
+257.6703
+
+> <DSSTox_CID>
+31529
+
+> <DSSTox_RID>
+97414
+
+> <DSSTox_GSID>
+57740
+
+> <DSSTox_FileID_Sort>
+8481
+
+> <TS_ChemName>
+Methyl 4-acetamido-5-chloro-o-anisate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4093-31-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H12ClNO4
+
+> <STRUCTURE_MW>
+257.6703
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 4-acetamido-5-chloro-2-methoxybenzoate
+
+> <STRUCTURE_SMILES>
+Clc1cc(c(cc1NC(C)=O)OC)C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(c(cc1NC(C)=O)OC)C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

@@ -1,0 +1,95 @@
+1195-79-5
+ChemmineR-0915142007XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    3.2964   -3.7546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7429   -1.6549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1309   -1.2768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9263   -2.0686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0607   -2.5713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4077   -1.8595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1951   -0.9920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4486   -2.3177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6238    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3746   -2.6959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+4143
+
+> <Formula>
+C10H16O
+
+> <FW>
+152.2334
+
+> <DSSTox_CID>
+5324
+
+> <DSSTox_RID>
+77748
+
+> <DSSTox_GSID>
+25324
+
+> <DSSTox_FileID_Sort>
+2431
+
+> <TS_ChemName>
+alpha-Fenchone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1195-79-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16O
+
+> <STRUCTURE_MW>
+152.2334
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,3,3-trimethylbicyclo[2.2.1]heptan-2-one
+
+> <STRUCTURE_SMILES>
+CC2(C)C(=O)C1(C)CCC2C1
+
+> <STRUCTURE_SMILES_Desalt>
+CC2(C)C(=O)C1(C)CCC2C1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

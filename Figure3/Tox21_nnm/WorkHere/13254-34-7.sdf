@@ -1,0 +1,91 @@
+13254-34-7
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1426   -0.6717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3059    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4623   -0.6717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6187    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7820   -0.6717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9246    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8212   -1.8004    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4847   -1.8142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7820   -1.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+M  END
+> <ID>
+8390
+
+> <Formula>
+C9H20O
+
+> <FW>
+144.2545
+
+> <DSSTox_CID>
+21424
+
+> <DSSTox_RID>
+79728
+
+> <DSSTox_GSID>
+41424
+
+> <DSSTox_FileID_Sort>
+4410
+
+> <TS_ChemName>
+2,6-Dimethyl-2-heptanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13254-34-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H20O
+
+> <STRUCTURE_MW>
+144.2545
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,6-dimethylheptan-2-ol
+
+> <STRUCTURE_SMILES>
+CC(C)(O)CCCC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(O)CCCC(C)C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

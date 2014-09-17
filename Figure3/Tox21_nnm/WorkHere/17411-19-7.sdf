@@ -1,0 +1,104 @@
+17411-19-7
+ChemmineR-0915142007XD
+
+ 15 17  0  0  0  0  0  0  0  0  1 V2000
+    7.0071   -2.2782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6024   -1.0042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3134   -0.7120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1228   -3.2450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8113   -2.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4291   -1.7087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7471   -3.7471    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6829   -2.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0876   -1.7087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1808   -0.7120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8918   -1.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4871   -2.2782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3714   -3.2450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4942    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+11491
+
+> <Formula>
+C13H18N2
+
+> <FW>
+202.2954
+
+> <DSSTox_CID>
+26193
+
+> <DSSTox_RID>
+81424
+
+> <DSSTox_GSID>
+46193
+
+> <DSSTox_FileID_Sort>
+6105
+
+> <TS_ChemName>
+Dicarbine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+17411-19-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H18N2
+
+> <STRUCTURE_MW>
+202.2954
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,8-dimethyl-2,3,4,4a,5,9b-hexahydro-1H-pyrido[4,3-b]indole
+
+> <STRUCTURE_SMILES>
+Cc3cc1c(NC2CCN(C)CC12)cc3
+
+> <STRUCTURE_SMILES_Desalt>
+Cc3cc1c(NC2CCN(C)CC12)cc3
+
+> <Substance_modify_yyyymmdd>
+20110817
+
+$$$$

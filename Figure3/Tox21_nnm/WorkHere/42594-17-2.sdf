@@ -1,0 +1,118 @@
+42594-17-2
+ChemmineR-0915142007XD
+
+ 22 24  0  0  0  0  0  0  0  0  1 V2000
+    4.4359   -4.0898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0257   -3.0257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0641   -2.2949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6795   -3.4487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7949   -0.9744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3334   -3.0385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8590   -4.0641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6667   -4.8205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6539   -4.2821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4487   -3.1795    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3590   -2.2308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6282   -2.5256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5385   -1.5641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8206   -1.8590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1539   -0.3077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8718    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4872   -5.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2051   -4.6282    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2564   -5.5513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.1923    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5769   -6.8205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8462   -7.1923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+M  END
+> <ID>
+10587
+
+> <Formula>
+C18H24O4
+
+> <FW>
+304.3808
+
+> <DSSTox_CID>
+24940
+
+> <DSSTox_RID>
+80604
+
+> <DSSTox_GSID>
+44940
+
+> <DSSTox_FileID_Sort>
+5286
+
+> <TS_ChemName>
+Octahydro-1H-4,7-methanoindene-1,5-diyldimethanediyl bisprop-2-enoate
+
+> <TS_ChemName_Synonyms>
+Octahydro-1H-4,7-methanoindene-1,5-diyldimethanediyl bisprop-2-enoate (2-Propenoic acid, (octahydro-4,7-methano-1H-indene-5,?-diyl)bis(methylene) ester)
+
+> <TS_CASRN>
+42594-17-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H24O4
+
+> <STRUCTURE_MW>
+304.3808
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+octahydro-1H-4,7-methanoindene-1,5-diyldimethanediyl bisprop-2-enoate
+
+> <STRUCTURE_SMILES>
+C=CC(=O)OCC2CCC3C1CC(CC1COC(=O)C=C)C23
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(=O)OCC2CCC3C1CC(CC1COC(=O)C=C)C23
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

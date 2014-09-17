@@ -1,0 +1,81 @@
+75-69-4
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+      1.33     -2.66      0.00 F    0  0  0  0  0  0  0  0  0  0  0  0
+      1.33     -1.33      0.00 C    0  0  0  0  0  0  0  0  0  0  0  0
+      0.00     -1.33      0.00 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+      1.33      0.00      0.00 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+      2.66     -1.33      0.00 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <ID>
+1329
+
+> <Formula>
+CCl3F
+
+> <FW>
+137.3681
+
+> <DSSTox_CID>
+1384
+
+> <DSSTox_RID>
+76126
+
+> <DSSTox_GSID>
+21384
+
+> <DSSTox_FileID_Sort>
+810
+
+> <TS_ChemName>
+Trichlorofluoromethane
+
+> <TS_ChemName_Synonyms>
+Trichlorofluoromethane (CFC-11)
+
+> <TS_CASRN>
+75-69-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CCl3F
+
+> <STRUCTURE_MW>
+137.3681
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+trichloro(fluoro)methane
+
+> <STRUCTURE_SMILES>
+ClC(Cl)(Cl)F
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)(Cl)F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

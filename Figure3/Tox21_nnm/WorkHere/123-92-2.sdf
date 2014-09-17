@@ -1,0 +1,89 @@
+123-92-2
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    3.4545   -1.3334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552   -1.3334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9090   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -1.9967    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -1.3334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+M  END
+> <ID>
+4206
+
+> <Formula>
+C7H14O2
+
+> <FW>
+130.1849
+
+> <DSSTox_CID>
+5453
+
+> <DSSTox_RID>
+77792
+
+> <DSSTox_GSID>
+25453
+
+> <DSSTox_FileID_Sort>
+2475
+
+> <TS_ChemName>
+3-Methylbutyl acetate
+
+> <TS_ChemName_Synonyms>
+3-Methylbutyl acetate (Isoamyl acetate)
+
+> <TS_CASRN>
+123-92-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O2
+
+> <STRUCTURE_MW>
+130.1849
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylbutyl acetate
+
+> <STRUCTURE_SMILES>
+CC(=O)OCCC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)OCCC(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

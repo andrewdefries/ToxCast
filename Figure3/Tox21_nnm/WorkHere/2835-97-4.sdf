@@ -1,0 +1,90 @@
+2835-97-4
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    3.4574   -3.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -3.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -3.3138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -1.3279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -1.9859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4574   -1.3279    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+14124
+
+> <Formula>
+C7H9NO
+
+> <FW>
+123.1525
+
+> <DSSTox_CID>
+29117
+
+> <DSSTox_RID>
+83336
+
+> <DSSTox_GSID>
+49261
+
+> <DSSTox_FileID_Sort>
+8011
+
+> <TS_ChemName>
+2-Amino-m-cresol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2835-97-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H9NO
+
+> <STRUCTURE_MW>
+123.1525
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-amino-3-methylphenol
+
+> <STRUCTURE_SMILES>
+Cc1cccc(O)c1N
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cccc(O)c1N
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

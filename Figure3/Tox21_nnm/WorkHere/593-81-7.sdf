@@ -1,0 +1,80 @@
+593-81-7
+ChemmineR-0915142007XD
+
+  5  3  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1545    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6180   -1.1545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2880   -1.1545    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6276    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6276   -2.3090    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+M  END
+> <ID>
+5010
+
+> <Formula>
+C3H10ClN
+
+> <FW>
+95.5712 (36.4609+59.1103)
+
+> <DSSTox_CID>
+7229
+
+> <DSSTox_RID>
+78359
+
+> <DSSTox_GSID>
+27229
+
+> <DSSTox_FileID_Sort>
+3042
+
+> <TS_ChemName>
+N,N-Dimethylmethanamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+593-81-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [75-50-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H10ClN
+
+> <STRUCTURE_MW>
+95.5712
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N,N-dimethylmethanamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CN(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

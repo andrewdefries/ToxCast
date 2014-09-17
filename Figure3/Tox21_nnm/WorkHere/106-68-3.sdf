@@ -1,0 +1,89 @@
+106-68-3
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    2.3204    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3204   -1.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4765   -1.9808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6246   -1.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1561   -1.9808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7807   -1.9808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9449   -1.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0849   -1.9808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+8889
+
+> <Formula>
+C8H16O
+
+> <FW>
+128.212
+
+> <DSSTox_CID>
+21954
+
+> <DSSTox_RID>
+79883
+
+> <DSSTox_GSID>
+41954
+
+> <DSSTox_FileID_Sort>
+4565
+
+> <TS_ChemName>
+3-Octanone
+
+> <TS_ChemName_Synonyms>
+Ethyl pentyl ketone; Ethyl amyl ketone
+
+> <TS_CASRN>
+106-68-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H16O
+
+> <STRUCTURE_MW>
+128.212
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+octan-3-one
+
+> <STRUCTURE_SMILES>
+CCC(=O)CCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(=O)CCCCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

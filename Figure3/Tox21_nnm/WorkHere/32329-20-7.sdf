@@ -1,0 +1,95 @@
+32329-20-7
+ChemmineR-0915142007XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    3.4552   -2.6503    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6165   -2.0064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6165   -0.6496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2939   -0.6496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2939   -2.0064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1613   -2.6503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1613    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7490    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+10562
+
+> <Formula>
+C9H11NO
+
+> <FW>
+149.1897
+
+> <DSSTox_CID>
+24915
+
+> <DSSTox_RID>
+80583
+
+> <DSSTox_GSID>
+44915
+
+> <DSSTox_FileID_Sort>
+5265
+
+> <TS_ChemName>
+3-Methyl-3,4-dihydro-2H-1,4-benzoxazine
+
+> <TS_ChemName_Synonyms>
+3-Methyl-3,4-dihydro-2H-1,4-benzoxazine (2H-1,4-Benzoxazine, 3,4-dihydro-3-methyl-)
+
+> <TS_CASRN>
+32329-20-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11NO
+
+> <STRUCTURE_MW>
+149.1897
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methyl-3,4-dihydro-2H-1,4-benzoxazine
+
+> <STRUCTURE_SMILES>
+CC1Nc2ccccc2OC1
+
+> <STRUCTURE_SMILES_Desalt>
+CC1Nc2ccccc2OC1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

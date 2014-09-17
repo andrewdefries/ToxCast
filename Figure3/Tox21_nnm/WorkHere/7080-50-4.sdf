@@ -1,0 +1,100 @@
+7080-50-4
+ChemmineR-0915142007XD
+
+ 16 12  0  0  0  0  0  0  0  0  2 V2000
+    4.6171   -1.3267    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2804   -2.4788    0.0000 N    0  5  0  0  0  0  0  0  0  0  0  0
+    3.4650   -1.9900    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9451   -0.1571    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7605   -0.6459    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4650   -3.3079    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3129   -1.3267    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6158   -2.4788    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1608   -1.9987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3129   -3.9625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1608   -3.3079    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9887    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2543   -3.9887    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    8.6669    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.7280   -2.4613    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6669   -4.7742    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  6 10  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+7969
+
+> <Formula>
+C7H13ClNNaO5S
+
+> <FW>
+281.6896 (204.6545+22.9892+18.0153+18.0153+18.0153)
+
+> <DSSTox_CID>
+20795
+
+> <DSSTox_RID>
+79603
+
+> <DSSTox_GSID>
+40795
+
+> <DSSTox_FileID_Sort>
+4285
+
+> <TS_ChemName>
+Chloramine-T trihydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7080-50-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [144-86-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H13ClNNaO5S
+
+> <STRUCTURE_MW>
+281.6896
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt complex
+
+> <STRUCTURE_IUPAC>
+sodium chloro[(4-methylphenyl)sulfonyl]azanide hydrate (1:1:3)
+
+> <STRUCTURE_SMILES>
+[Na+].O.O.O.Cc1ccc(cc1)S(=O)(=O)[N-]Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)S(=O)(=O)NCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

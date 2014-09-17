@@ -1,0 +1,87 @@
+1118-12-3
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.0001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -1.3288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3082   -2.0001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4623   -1.3288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1152   -2.4829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7864   -0.1747    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5980   -0.6713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+> <ID>
+10023
+
+> <Formula>
+C5H12N2O
+
+> <FW>
+116.1616
+
+> <DSSTox_CID>
+24365
+
+> <DSSTox_RID>
+80173
+
+> <DSSTox_GSID>
+44365
+
+> <DSSTox_FileID_Sort>
+4855
+
+> <TS_ChemName>
+(1,1-Dimethylethyl)urea
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1118-12-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H12N2O
+
+> <STRUCTURE_MW>
+116.1616
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-tert-butylurea
+
+> <STRUCTURE_SMILES>
+CC(C)(C)NC(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)NC(N)=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

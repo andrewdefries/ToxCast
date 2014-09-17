@@ -1,0 +1,83 @@
+110-61-2
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3297   -1.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6593   -1.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3302    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6598    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9895    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  3  0  0  0  0
+M  END
+> <ID>
+4519
+
+> <Formula>
+C4H4N2
+
+> <FW>
+80.088
+
+> <DSSTox_CID>
+6059
+
+> <DSSTox_RID>
+77999
+
+> <DSSTox_GSID>
+26059
+
+> <DSSTox_FileID_Sort>
+2682
+
+> <TS_ChemName>
+Succinonitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+110-61-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H4N2
+
+> <STRUCTURE_MW>
+80.088
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butanedinitrile
+
+> <STRUCTURE_SMILES>
+N#CCCC#N
+
+> <STRUCTURE_SMILES_Desalt>
+N#CCCC#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

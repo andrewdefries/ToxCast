@@ -1,0 +1,91 @@
+102-70-5
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    3.3305   -3.4623    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0007   -3.4623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3298   -4.6124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9895   -4.6124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3193   -4.6124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9902   -5.7685    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9895   -2.3062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3305   -1.1561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9895    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+4578
+
+> <Formula>
+C9H15N
+
+> <FW>
+137.2221
+
+> <DSSTox_CID>
+6174
+
+> <DSSTox_RID>
+78046
+
+> <DSSTox_GSID>
+26174
+
+> <DSSTox_FileID_Sort>
+2729
+
+> <TS_ChemName>
+Triallylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+102-70-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H15N
+
+> <STRUCTURE_MW>
+137.2221
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-di(prop-2-en-1-yl)prop-2-en-1-amine
+
+> <STRUCTURE_SMILES>
+C=CCN(CC=C)CC=C
+
+> <STRUCTURE_SMILES_Desalt>
+C=CCN(CC=C)CC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

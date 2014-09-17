@@ -1,0 +1,88 @@
+105-60-2
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.4934    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3279   -1.4934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9049   -0.2927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2031    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2426   -0.8273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2426   -2.1595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2031   -2.9868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9049   -2.6898    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+236
+
+> <Formula>
+C6H11NO
+
+> <FW>
+113.1576
+
+> <DSSTox_CID>
+240
+
+> <DSSTox_RID>
+75454
+
+> <DSSTox_GSID>
+20240
+
+> <DSSTox_FileID_Sort>
+138
+
+> <TS_ChemName>
+Caprolactam
+
+> <TS_ChemName_Synonyms>
+Caprolactam (2H-Azepin-2-one, hexahydro-)
+
+> <TS_CASRN>
+105-60-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H11NO
+
+> <STRUCTURE_MW>
+113.1576
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+azepan-2-one
+
+> <STRUCTURE_SMILES>
+O=C1CCCCCN1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCCCN1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

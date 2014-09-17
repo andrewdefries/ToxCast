@@ -1,0 +1,93 @@
+106-25-2
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    2.6651   -4.6056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0007   -4.6056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6535   -3.4497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0007   -2.2938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6651   -2.2938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9884   -1.1559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6588   -1.1559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9884   -5.7615    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9891   -3.4497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+M  END
+> <ID>
+4786
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+6728
+
+> <DSSTox_RID>
+78203
+
+> <DSSTox_GSID>
+26728
+
+> <DSSTox_FileID_Sort>
+2886
+
+> <TS_ChemName>
+(2Z)-3,7-Dimethylocta-2,6-dien-1-ol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+106-25-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2Z)-3,7-dimethylocta-2,6-dien-1-ol
+
+> <STRUCTURE_SMILES>
+C\C(C)=C\CCC(/C)=C\CO
+
+> <STRUCTURE_SMILES_Desalt>
+C\C(C)=C\CCC(/C)=C\CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

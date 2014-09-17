@@ -1,0 +1,107 @@
+110-40-7
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+   16.0803   -3.3125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0803   -1.9940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9386   -1.3186    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7808   -1.9940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7808   -3.3125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6391   -1.3186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4813   -1.9940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3396   -1.3186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1819   -1.9940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0402   -1.3186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8985   -1.9940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7407   -1.3186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5990   -1.9940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4412   -1.3186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4412    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2995   -1.9940    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1417   -1.3186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+1788
+
+> <Formula>
+C14H26O4
+
+> <FW>
+258.3538
+
+> <DSSTox_CID>
+1915
+
+> <DSSTox_RID>
+76399
+
+> <DSSTox_GSID>
+21915
+
+> <DSSTox_FileID_Sort>
+1083
+
+> <TS_ChemName>
+Diethyl decanedioate
+
+> <TS_ChemName_Synonyms>
+Diethyl decanedioate (diethyl sebacate)
+
+> <TS_CASRN>
+110-40-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H26O4
+
+> <STRUCTURE_MW>
+258.3538
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diethyl decanedioate
+
+> <STRUCTURE_SMILES>
+O=C(CCCCCCCCC(=O)OCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCCCCCC(=O)OCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

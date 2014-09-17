@@ -1,0 +1,99 @@
+23783-42-8
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1491    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2983   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4325    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5816   -0.6716    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7308    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8799   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0440    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1931   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3422    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4914   -0.6716    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6256    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7747   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9238    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+5434
+
+> <Formula>
+C9H20O5
+
+> <FW>
+208.2521
+
+> <DSSTox_CID>
+7829
+
+> <DSSTox_RID>
+78580
+
+> <DSSTox_GSID>
+27829
+
+> <DSSTox_FileID_Sort>
+3263
+
+> <TS_ChemName>
+2,5,8,11-Tetraoxatridecan-13-ol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+23783-42-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H20O5
+
+> <STRUCTURE_MW>
+208.2521
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,5,8,11-tetraoxatridecan-13-ol
+
+> <STRUCTURE_SMILES>
+COCCOCCOCCOCCO
+
+> <STRUCTURE_SMILES_Desalt>
+COCCOCCOCCOCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

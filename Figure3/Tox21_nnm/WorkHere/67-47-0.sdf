@@ -1,0 +1,90 @@
+67-47-0
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    3.3452    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2814   -0.7761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6828   -2.0339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0075   -2.0339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4424   -0.7761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6868   -0.3680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6903   -1.2578    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0035   -0.3680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2578    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+6271
+
+> <Formula>
+C6H6O3
+
+> <FW>
+126.11
+
+> <DSSTox_CID>
+10428
+
+> <DSSTox_RID>
+78848
+
+> <DSSTox_GSID>
+30428
+
+> <DSSTox_FileID_Sort>
+3530
+
+> <TS_ChemName>
+5-(Hydroxymethyl)-2-furfural
+
+> <TS_ChemName_Synonyms>
+5-(Hydroxymethyl)-2-furfural (HMF)
+
+> <TS_CASRN>
+67-47-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6O3
+
+> <STRUCTURE_MW>
+126.11
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-(hydroxymethyl)furan-2-carbaldehyde
+
+> <STRUCTURE_SMILES>
+O=Cc1ccc(CO)o1
+
+> <STRUCTURE_SMILES_Desalt>
+O=Cc1ccc(CO)o1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

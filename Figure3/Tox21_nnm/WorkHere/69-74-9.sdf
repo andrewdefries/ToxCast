@@ -1,0 +1,108 @@
+69-74-9
+ChemmineR-0915142007XD
+
+ 18 18  0  0  1  0  0  0  0  0  1 V2000
+    4.2840   -5.8255    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3326   -3.8864    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2130   -3.2292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2130   -1.9391    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3326   -1.2901    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3326    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4523   -1.9391    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4523   -3.2292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0933   -3.8864    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2373   -5.0710    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1907   -5.8255    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.9574   -5.4361    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.3042    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5963   -7.0588    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8945   -7.0507    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6572   -8.1054    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8418   -8.1136    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.0345   -4.7383    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  1  0  0  0
+  1 10  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  1  6  0  0  0
+ 15 16  1  1  0  0  0
+M  END
+> <ID>
+3903
+
+> <Formula>
+C9H14ClN3O5
+
+> <FW>
+279.6776 (243.2166+36.4609)
+
+> <DSSTox_CID>
+4891
+
+> <DSSTox_RID>
+77571
+
+> <DSSTox_GSID>
+24891
+
+> <DSSTox_FileID_Sort>
+2254
+
+> <TS_ChemName>
+Cytarabine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+69-74-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [147-94-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H14ClN3O5
+
+> <STRUCTURE_MW>
+279.6776
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-amino-1-(beta-D-arabinofuranosyl)pyrimidin-2(1H)-one hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O
+
+> <STRUCTURE_SMILES_Desalt>
+NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

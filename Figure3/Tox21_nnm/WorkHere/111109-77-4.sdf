@@ -1,0 +1,93 @@
+111109-77-4
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1505    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3125   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4399    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6019   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7524    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9029   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0649    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1923   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3543    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5048   -0.6673    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+9249
+
+> <Formula>
+C8H18O3
+
+> <FW>
+162.2267
+
+> <DSSTox_CID>
+22327
+
+> <DSSTox_RID>
+79997
+
+> <DSSTox_GSID>
+42327
+
+> <DSSTox_FileID_Sort>
+4679
+
+> <TS_ChemName>
+Di(propylene glycol) dimethyl ether
+
+> <TS_ChemName_Synonyms>
+Di(propylene glycol) dimethyl ether (Propane, oxybis[methoxy-)
+
+> <TS_CASRN>
+111109-77-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of isomers; structure shown 1-methoxy-3-(3-methoxypropoxy)propane
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C8H18O3
+
+> <STRUCTURE_MW>
+162.2267
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methoxy-3-(3-methoxypropoxy)propane
+
+> <STRUCTURE_SMILES>
+COCCCOCCCOC
+
+> <STRUCTURE_SMILES_Desalt>
+COCCCOCCCOC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

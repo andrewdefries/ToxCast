@@ -1,0 +1,99 @@
+101-26-8
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  2 V2000
+    1.1541   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3014    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -1.9904    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6096   -2.6607    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7569   -1.9904    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9110   -2.6607    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7569   -0.6635    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9110    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6096    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3014   -2.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -1.9904    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -3.9876    0.0000 Br   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+3168
+
+> <Formula>
+C9H13BrN2O2
+
+> <FW>
+261.1157 (181.2112+79.9045)
+
+> <DSSTox_CID>
+3540
+
+> <DSSTox_RID>
+77069
+
+> <DSSTox_GSID>
+23540
+
+> <DSSTox_FileID_Sort>
+1752
+
+> <TS_ChemName>
+Pyridostigmine bromide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+101-26-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [155-97-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H13BrN2O2
+
+> <STRUCTURE_MW>
+261.1157
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+3-[(dimethylcarbamoyl)oxy]-1-methylpyridinium bromide
+
+> <STRUCTURE_SMILES>
+[Br-].O=C(Oc1ccc[n+](C)c1)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Oc1ccc[n+](C)c1)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

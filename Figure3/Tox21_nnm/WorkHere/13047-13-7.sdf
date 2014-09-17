@@ -1,0 +1,103 @@
+13047-13-7
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    4.0280   -1.9257    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2577   -3.0009    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0060   -1.2678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2577   -0.8505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0060   -2.5837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9147   -3.3700    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6740   -1.2678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1123    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5887    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659   -3.0812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0239   -1.9257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3659   -0.7703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0340   -0.7703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3760   -1.9257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0340   -3.0812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+10444
+
+> <Formula>
+C11H14N2O2
+
+> <FW>
+206.2411
+
+> <DSSTox_CID>
+24794
+
+> <DSSTox_RID>
+80481
+
+> <DSSTox_GSID>
+44794
+
+> <DSSTox_FileID_Sort>
+5163
+
+> <TS_ChemName>
+4-(Hydroxymethyl)-4-methyl-1-phenylpyrazolidin-3-one
+
+> <TS_ChemName_Synonyms>
+4-(Hydroxymethyl)-4-methyl-1-phenylpyrazolidin-3-one (3-Pyrazolidinone, 4-(hydroxymethyl)-4-methyl-1-phenyl-)
+
+> <TS_CASRN>
+13047-13-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H14N2O2
+
+> <STRUCTURE_MW>
+206.2411
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(hydroxymethyl)-4-methyl-1-phenylpyrazolidin-3-one
+
+> <STRUCTURE_SMILES>
+O=C1NN(CC1(C)CO)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1NN(CC1(C)CO)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

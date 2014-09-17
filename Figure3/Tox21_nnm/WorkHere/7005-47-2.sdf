@@ -1,0 +1,87 @@
+7005-47-2
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    1.3298   -0.6749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3298   -2.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6635   -1.9887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1757    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3298   -3.3184    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1597   -3.9773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4678   -3.9933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+10373
+
+> <Formula>
+C6H15NO
+
+> <FW>
+117.1894
+
+> <DSSTox_CID>
+24721
+
+> <DSSTox_RID>
+80421
+
+> <DSSTox_GSID>
+44721
+
+> <DSSTox_FileID_Sort>
+5103
+
+> <TS_ChemName>
+2-(Dimethylamino)-2-methylpropan-1-ol
+
+> <TS_ChemName_Synonyms>
+2-(Dimethylamino)-2-methylpropan-1-ol (1-Propanol, 2-(dimethylamino)-2-methyl-)
+
+> <TS_CASRN>
+7005-47-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H15NO
+
+> <STRUCTURE_MW>
+117.1894
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(dimethylamino)-2-methylpropan-1-ol
+
+> <STRUCTURE_SMILES>
+CN(C)C(C)(C)CO
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)C(C)(C)CO
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

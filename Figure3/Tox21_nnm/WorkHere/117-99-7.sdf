@@ -1,0 +1,103 @@
+117-99-7
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    4.6206   -1.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7706   -1.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9275   -1.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9275   -3.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7706   -3.9764    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6206   -3.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4637   -1.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4637    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3068   -1.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3068   -3.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -3.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -1.3301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7706    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+12954
+
+> <Formula>
+C13H10O2
+
+> <FW>
+198.2173
+
+> <DSSTox_CID>
+27855
+
+> <DSSTox_RID>
+82608
+
+> <DSSTox_GSID>
+47879
+
+> <DSSTox_FileID_Sort>
+7285
+
+> <TS_ChemName>
+2-Hydroxybenzophenone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+117-99-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H10O2
+
+> <STRUCTURE_MW>
+198.2173
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2-hydroxyphenyl)(phenyl)methanone
+
+> <STRUCTURE_SMILES>
+O=C(c1ccccc1O)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(c1ccccc1O)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20110415
+
+$$$$

@@ -1,0 +1,93 @@
+7785-26-4
+ChemmineR-0915142007XD
+
+ 10 11  0  0  1  0  0  0  0  0  1 V2000
+    2.0011   -1.7243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7552   -3.0272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8994   -2.3417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3028   -2.3417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0772   -0.9963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5296   -1.7371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1751   -3.4742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2576   -0.8132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4896    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  6  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+5927
+
+> <Formula>
+C10H16
+
+> <FW>
+136.234
+
+> <DSSTox_CID>
+9290
+
+> <DSSTox_RID>
+78752
+
+> <DSSTox_GSID>
+29290
+
+> <DSSTox_FileID_Sort>
+3434
+
+> <TS_ChemName>
+(-)-alpha-Pinene
+
+> <TS_ChemName_Synonyms>
+(1S,5S)-2,6,6-Trimethylbicyclo[3.1.1]hept-2-ene (2-Pinene, (1S,5S)-(-)-) (l-alpha-Pinene)
+
+> <TS_CASRN>
+7785-26-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16
+
+> <STRUCTURE_MW>
+136.234
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1S,5S)-2,6,6-trimethylbicyclo[3.1.1]hept-2-ene
+
+> <STRUCTURE_SMILES>
+CC2(C)[C@H]1CC=C(C)[C@@H]2C1
+
+> <STRUCTURE_SMILES_Desalt>
+CC2(C)[C@H]1CC=C(C)[C@@H]2C1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

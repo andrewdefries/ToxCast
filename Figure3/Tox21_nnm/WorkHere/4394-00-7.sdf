@@ -1,0 +1,113 @@
+4394-00-7
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    3.3225   -4.6095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9898   -4.6095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3327   -3.4594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9898   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3327   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9898    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3225   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9888   -1.1592    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3215   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9787    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3113    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9776   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3113   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9776   -3.4594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6440   -4.6095    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8276   -4.1257    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1277   -2.7931    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9787   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9888   -3.4594    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 20  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 20  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 19  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+M  END
+> <ID>
+3021
+
+> <Formula>
+C13H9F3N2O2
+
+> <FW>
+282.218
+
+> <DSSTox_CID>
+3368
+
+> <DSSTox_RID>
+76996
+
+> <DSSTox_GSID>
+23368
+
+> <DSSTox_FileID_Sort>
+1680
+
+> <TS_ChemName>
+Niflumic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4394-00-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H9F3N2O2
+
+> <STRUCTURE_MW>
+282.218
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-{[3-(trifluoromethyl)phenyl]amino}pyridine-3-carboxylic acid
+
+> <STRUCTURE_SMILES>
+FC(F)(F)c1cc(ccc1)Nc2ncccc2C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)(F)c1cc(ccc1)Nc2ncccc2C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

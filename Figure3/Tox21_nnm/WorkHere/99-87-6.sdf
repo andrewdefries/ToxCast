@@ -1,0 +1,92 @@
+99-87-6
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    4.6590   -1.1393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0054   -2.2965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6683   -2.2965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9907   -1.1393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6683    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0054    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9961   -1.1393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6596   -1.1393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+4750
+
+> <Formula>
+C10H14
+
+> <FW>
+134.2182
+
+> <DSSTox_CID>
+6645
+
+> <DSSTox_RID>
+78172
+
+> <DSSTox_GSID>
+26645
+
+> <DSSTox_FileID_Sort>
+2855
+
+> <TS_ChemName>
+p-Cymene
+
+> <TS_ChemName_Synonyms>
+Benzene, 1-methyl-4-(1-methylethyl)-; 1-isopropyl-4-methylbenzene
+
+> <TS_CASRN>
+99-87-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14
+
+> <STRUCTURE_MW>
+134.2182
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methyl-4-(propan-2-yl)benzene
+
+> <STRUCTURE_SMILES>
+Cc1ccc(cc1)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

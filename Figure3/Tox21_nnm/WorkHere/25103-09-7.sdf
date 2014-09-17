@@ -1,0 +1,97 @@
+25103-09-7
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    9.9850   -5.7613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3260   -4.6031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9980   -4.6031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3190   -3.4448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9910   -3.4448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3320   -2.2965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9940   -2.2965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2965    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3280   -2.2965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9870   -1.1583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -1.1583    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3280    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9850   -3.4448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+5444
+
+> <Formula>
+C10H20O2S
+
+> <FW>
+204.3296
+
+> <DSSTox_CID>
+7841
+
+> <DSSTox_RID>
+78587
+
+> <DSSTox_GSID>
+27841
+
+> <DSSTox_FileID_Sort>
+3270
+
+> <TS_ChemName>
+Acetic acid, mercapto-, isooctyl ester
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+25103-09-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of isooctyl isomers; structure shown 6-methylheptyl
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C10H20O2S
+
+> <STRUCTURE_MW>
+204.3296
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-methylheptyl sulfanylacetate
+
+> <STRUCTURE_SMILES>
+CC(C)CCCCCOC(=O)CS
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CCCCCOC(=O)CS
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

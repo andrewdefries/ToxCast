@@ -1,0 +1,93 @@
+1694-31-1
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    3.4603   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4603    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5977   -2.0059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3230   -2.0059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7557   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7557    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8931   -2.0059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8931   -0.6755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+10059
+
+> <Formula>
+C8H14O3
+
+> <FW>
+158.195
+
+> <DSSTox_CID>
+24402
+
+> <DSSTox_RID>
+80203
+
+> <DSSTox_GSID>
+44402
+
+> <DSSTox_FileID_Sort>
+4885
+
+> <TS_ChemName>
+tert-Butyl 3-oxobutanoate
+
+> <TS_ChemName_Synonyms>
+tert-Butyl 3-oxobutanoate (Butanoic acid, 3-oxo-, 1,1-dimethylethyl ester)
+
+> <TS_CASRN>
+1694-31-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14O3
+
+> <STRUCTURE_MW>
+158.195
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tert-butyl 3-oxobutanoate
+
+> <STRUCTURE_SMILES>
+CC(C)(C)OC(=O)CC(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)OC(=O)CC(C)=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

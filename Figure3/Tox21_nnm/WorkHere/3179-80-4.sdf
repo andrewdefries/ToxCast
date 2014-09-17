@@ -1,0 +1,111 @@
+3179-80-4
+ChemmineR-0915142007XD
+
+ 20 19  0  0  0  0  0  0  0  0  1 V2000
+    6.9094   -1.9965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0642   -1.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2191   -1.9965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3543   -1.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5092   -1.9965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6640   -1.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8188   -1.9965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9541   -1.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1089   -1.9965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2637   -1.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3990   -1.9965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5734   -1.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9094   -3.3275    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7546   -1.3310    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6193   -1.9965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4645   -1.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3097   -1.9965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1744   -1.3310    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1744    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 14  1  0  0  0  0
+  1 13  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <ID>
+10560
+
+> <Formula>
+C17H36N2O
+
+> <FW>
+284.4805
+
+> <DSSTox_CID>
+24913
+
+> <DSSTox_RID>
+80581
+
+> <DSSTox_GSID>
+44913
+
+> <DSSTox_FileID_Sort>
+5263
+
+> <TS_ChemName>
+N-[3-(Dimethylamino)propyl]dodecanamide
+
+> <TS_ChemName_Synonyms>
+N-[3-(Dimethylamino)propyl]dodecanamide (Dodecanamide, N-[3-(dimethylamino)propyl]-)
+
+> <TS_CASRN>
+3179-80-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H36N2O
+
+> <STRUCTURE_MW>
+284.4805
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-[3-(dimethylamino)propyl]dodecanamide
+
+> <STRUCTURE_SMILES>
+CN(C)CCCNC(=O)CCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCCNC(=O)CCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

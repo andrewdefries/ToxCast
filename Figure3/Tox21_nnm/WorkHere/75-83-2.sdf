@@ -1,0 +1,83 @@
+75-83-2
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    3.4542   -1.1537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -0.4870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -1.1537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8169   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4870    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+> <ID>
+4022
+
+> <Formula>
+C6H14
+
+> <FW>
+86.1754
+
+> <DSSTox_CID>
+5111
+
+> <DSSTox_RID>
+77669
+
+> <DSSTox_GSID>
+25111
+
+> <DSSTox_FileID_Sort>
+2352
+
+> <TS_ChemName>
+2,2-Dimethylbutane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+75-83-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14
+
+> <STRUCTURE_MW>
+86.1754
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2-dimethylbutane
+
+> <STRUCTURE_SMILES>
+CC(C)(C)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

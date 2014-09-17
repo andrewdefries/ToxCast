@@ -1,0 +1,125 @@
+129630-19-9
+ChemmineR-0915142007XD
+
+ 26 27  0  0  0  0  0  0  0  0  1 V2000
+   10.9876   -4.1637    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.9876   -2.8336    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   12.1441   -4.8287    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.8310   -4.8287    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6888   -4.1637    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5323   -4.8287    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5323   -6.1588    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3757   -4.1637    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3757   -6.8239    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2191   -4.8287    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2191   -6.1588    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6888   -6.8239    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8625   -4.6986    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9662   -3.7011    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9468   -2.8625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6457   -2.5734    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0770   -4.1637    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9299   -1.9517    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1108   -1.3590    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7662   -1.2144    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2458    0.0000    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2987    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -3.8746    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0770   -6.8239    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+   13.3441   -4.2505    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   14.4573   -5.0022    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 24  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <ID>
+6936
+
+> <Formula>
+C15H13Cl2F3N2O4
+
+> <FW>
+413.1759
+
+> <DSSTox_CID>
+14871
+
+> <DSSTox_RID>
+79213
+
+> <DSSTox_GSID>
+34871
+
+> <DSSTox_FileID_Sort>
+3895
+
+> <TS_ChemName>
+Pyraflufen-ethyl
+
+> <TS_ChemName_Synonyms>
+Pyraflufen-ethyl (Ethyl 2-chloro-5-[4-chloro-(5-difluoromethoxy)-1-methyl-1H-pyrazol-3-yl]-4-fluorophenoxyacetate)
+
+> <TS_CASRN>
+129630-19-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H13Cl2F3N2O4
+
+> <STRUCTURE_MW>
+413.1759
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl {2-chloro-5-[4-chloro-5-(difluoromethoxy)-1-methyl-1H-pyrazol-3-yl]-4-fluorophenoxy}acetate
+
+> <STRUCTURE_SMILES>
+Cn2nc(c1cc(OCC(=O)OCC)c(Cl)cc1F)c(Cl)c2OC(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+Cn2nc(c1cc(OCC(=O)OCC)c(Cl)cc1F)c(Cl)c2OC(F)F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

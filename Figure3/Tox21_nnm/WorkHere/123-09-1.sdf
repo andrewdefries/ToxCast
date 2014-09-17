@@ -1,0 +1,90 @@
+123-09-1
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.6597   -1.1395    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0061   -2.2969    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6687   -2.2969    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6598   -1.1395    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9910   -1.1395    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0061    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6687    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9971   -1.1395    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+3447
+
+> <Formula>
+C7H7ClS
+
+> <FW>
+158.6485
+
+> <DSSTox_CID>
+3973
+
+> <DSSTox_RID>
+77244
+
+> <DSSTox_GSID>
+23973
+
+> <DSSTox_FileID_Sort>
+1927
+
+> <TS_ChemName>
+4-Chlorophenyl methyl sulfide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+123-09-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7ClS
+
+> <STRUCTURE_MW>
+158.6485
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-4-(methylsulfanyl)benzene
+
+> <STRUCTURE_SMILES>
+CSc1ccc(Cl)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CSc1ccc(Cl)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

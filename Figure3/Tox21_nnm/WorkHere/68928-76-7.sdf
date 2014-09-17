@@ -1,0 +1,125 @@
+68928-76-7
+ChemmineR-0915142007XD
+
+ 27 26  0  0  0  0  0  0  0  0  1 V2000
+    9.3143   -2.4897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6470   -2.4897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.9651   -2.4897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6388   -3.6320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.9715   -3.6320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   14.6451   -4.7890    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6406   -3.6320    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6406   -1.3327    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6470   -3.8077    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   14.6451   -2.4897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6470   -1.1570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.7893   -0.4833    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3308   -2.4897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9835   -2.4897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6508   -2.4897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0064   -1.3327    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6737   -1.3327    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1757    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9899   -3.6320    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9899   -1.3327    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9835   -1.1570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9835   -3.8077    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8265   -4.4668    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3079   -1.3327    0.0000 Sn   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3079    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3079   -2.6654    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  8 25  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 13 19  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 21  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 22  1  0  0  0  0
+ 20 25  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+M  END
+> <ID>
+10625
+
+> <Formula>
+C22H44O4Sn
+
+> <FW>
+491.2924
+
+> <DSSTox_CID>
+24978
+
+> <DSSTox_RID>
+80627
+
+> <DSSTox_GSID>
+44978
+
+> <DSSTox_FileID_Sort>
+5309
+
+> <TS_ChemName>
+Bis[(2-ethyl-2,5-dimethylhexanoyl)oxy](dimethyl)stannane
+
+> <TS_ChemName_Synonyms>
+Bis[(2-ethyl-2,5-dimethylhexanoyl)oxy](dimethyl)stannane (Stannane, dimethylbis[(1-oxoneodecyl)oxy]-)
+
+> <TS_CASRN>
+68928-76-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of tertiary decanyl isomers; structure shown 2-ethyl-2,5-dimethylhexanoic
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C22H44O4Sn
+
+> <STRUCTURE_MW>
+491.2924
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+bis[(2-ethyl-2,5-dimethylhexanoyl)oxy](dimethyl)stannane
+
+> <STRUCTURE_SMILES>
+C[Sn](C)(OC(=O)C(C)(CC)CCC(C)C)OC(=O)C(C)(CC)CCC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C[Sn](C)(OC(=O)C(C)(CC)CCC(C)C)OC(=O)C(C)(CC)CCC(C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

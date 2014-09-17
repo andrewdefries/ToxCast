@@ -1,0 +1,86 @@
+19767-45-4
+ChemmineR-0915142007XD
+
+  8  6  0  0  0  0  0  0  0  0  2 V2000
+    2.3030   -1.8194    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4545   -1.1515    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1177   -2.3030    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7912    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6060   -0.4882    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.1515   -1.1515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8194    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2615   -3.6341    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+775
+
+> <Formula>
+C2H5NaO3S2
+
+> <FW>
+164.1791 (141.1898+22.9892)
+
+> <DSSTox_CID>
+809
+
+> <DSSTox_RID>
+75800
+
+> <DSSTox_GSID>
+20809
+
+> <DSSTox_FileID_Sort>
+484
+
+> <TS_ChemName>
+Sodium 2-mercaptoethanesulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+19767-45-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [3375-50-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H5NaO3S2
+
+> <STRUCTURE_MW>
+164.1791
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 2-sulfanylethanesulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]S(=O)(=O)CCS
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)CCS
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,94 @@
+51-36-5
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.4577    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655   -2.3036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1541    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -2.3036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6573   -1.1541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -1.1541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6537    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6537   -2.3036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -3.4577    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6537   -4.6072    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6573   -3.4577    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+3950
+
+> <Formula>
+C7H4Cl2O2
+
+> <FW>
+191.0115
+
+> <DSSTox_CID>
+4981
+
+> <DSSTox_RID>
+77610
+
+> <DSSTox_GSID>
+24981
+
+> <DSSTox_FileID_Sort>
+2293
+
+> <TS_ChemName>
+3,5-Dichlorobenzoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+51-36-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H4Cl2O2
+
+> <STRUCTURE_MW>
+191.0115
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5-dichlorobenzoic acid
+
+> <STRUCTURE_SMILES>
+Clc1cc(cc(Cl)c1)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(cc(Cl)c1)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

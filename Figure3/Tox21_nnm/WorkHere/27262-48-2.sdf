@@ -1,0 +1,116 @@
+27262-48-2
+ChemmineR-0915142007XD
+
+ 22 22  0  0  1  0  0  0  0  0  1 V2000
+    5.7347   -4.6227    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9019   -3.9886    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9019   -2.6560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5951   -6.6445    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7347   -5.9553    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5951   -3.9886    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7347   -1.9667    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0414   -1.9667    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4463   -5.9553    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5951   -7.9587    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9019    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9019   -6.6445    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0414   -0.6525    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7347   -0.6525    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5951   -2.6560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1902   -2.6560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2884   -6.6445    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1396   -5.9553    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7347   -8.6112    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9019   -7.9587    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6445    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5377   -5.1833    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  5  1  1  6  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 12  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 20  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+11387
+
+> <Formula>
+C18H29ClN2O
+
+> <FW>
+324.8887 (288.4277+36.4609)
+
+> <DSSTox_CID>
+26071
+
+> <DSSTox_RID>
+81319
+
+> <DSSTox_GSID>
+46071
+
+> <DSSTox_FileID_Sort>
+6000
+
+> <TS_ChemName>
+Levobupivacaine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+27262-48-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [27262-47-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H29ClN2O
+
+> <STRUCTURE_MW>
+324.8887
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(2S)-1-butyl-N-(2,6-dimethylphenyl)piperidine-2-carboxamide hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Cc2cccc(C)c2NC(=O)[C@@H]1CCCCN1CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+Cc2cccc(C)c2NC(=O)[C@@H]1CCCCN1CCCC
+
+> <Substance_modify_yyyymmdd>
+20110930
+
+$$$$

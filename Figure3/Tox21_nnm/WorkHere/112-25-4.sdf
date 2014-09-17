@@ -1,0 +1,91 @@
+112-25-4
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    1.1365    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2833   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6716    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4405    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5874   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7445    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8914   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0485    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1954   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3319    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+4843
+
+> <Formula>
+C8H18O2
+
+> <FW>
+146.2273
+
+> <DSSTox_CID>
+6908
+
+> <DSSTox_RID>
+78248
+
+> <DSSTox_GSID>
+26908
+
+> <DSSTox_FileID_Sort>
+2931
+
+> <TS_ChemName>
+2-(Hexyloxy)ethanol
+
+> <TS_ChemName_Synonyms>
+2-(Hexyloxy)ethanol (Ethylene glycol monohexyl ether)
+
+> <TS_CASRN>
+112-25-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18O2
+
+> <STRUCTURE_MW>
+146.2273
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(hexyloxy)ethanol
+
+> <STRUCTURE_SMILES>
+OCCOCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+OCCOCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

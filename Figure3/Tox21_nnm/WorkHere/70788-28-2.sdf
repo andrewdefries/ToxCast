@@ -1,0 +1,100 @@
+70788-28-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    7.3196   -2.6562    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3196   -1.3324    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3196    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6521   -1.3324    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9872   -1.3324    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210   -2.4831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9872   -3.6339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9973   -2.4831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3310   -3.6339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9986   -3.6339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3324   -2.4831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4831    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9986   -1.3324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3310   -1.3324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+11100
+
+> <Formula>
+C7H9FN3O2P
+
+> <FW>
+217.1374
+
+> <DSSTox_CID>
+25654
+
+> <DSSTox_RID>
+81032
+
+> <DSSTox_GSID>
+45654
+
+> <DSSTox_FileID_Sort>
+5713
+
+> <TS_ChemName>
+Flurofamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+70788-28-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H9FN3O2P
+
+> <STRUCTURE_MW>
+217.1374
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(diaminophosphoryl)-4-fluorobenzamide
+
+> <STRUCTURE_SMILES>
+O=C(NP(N)(N)=O)c1ccc(F)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NP(N)(N)=O)c1ccc(F)cc1
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

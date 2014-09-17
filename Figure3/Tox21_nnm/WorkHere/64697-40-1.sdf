@@ -1,0 +1,101 @@
+64697-40-1
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  2 V2000
+    9.1424   -1.7317    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   11.2051   -1.0696    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+   10.4284   -2.1392    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1551   -0.4202    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.4284    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.5421   -1.0696    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0728   -2.5339    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8632   -1.9864    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7936   -2.7758    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5712   -2.2410    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5143   -3.0177    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2920   -2.4830    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2224   -3.2724    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7376    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.7331   -2.7122    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+12948
+
+> <Formula>
+C12H23ClN2
+
+> <FW>
+230.7774 (195.3239+35.4535)
+
+> <DSSTox_CID>
+27849
+
+> <DSSTox_RID>
+82602
+
+> <DSSTox_GSID>
+47873
+
+> <DSSTox_FileID_Sort>
+7279
+
+> <TS_ChemName>
+1-Methyl-3-octylimidazolium chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+64697-40-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [178631-03-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H23ClN2
+
+> <STRUCTURE_MW>
+230.7774
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+3-methyl-1-octyl-1H-imidazol-3-ium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C[n+]1ccn(CCCCCCCC)c1
+
+> <STRUCTURE_SMILES_Desalt>
+C[n+]1ccn(CCCCCCCC)c1
+
+> <Substance_modify_yyyymmdd>
+20110419
+
+$$$$

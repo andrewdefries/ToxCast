@@ -1,0 +1,93 @@
+872-10-6
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1455   -0.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2795    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4479   -0.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5819    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7274   -0.6758    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8729    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0069   -0.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1753    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3093   -0.6758    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4548    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+9195
+
+> <Formula>
+C10H22S
+
+> <FW>
+174.3467
+
+> <DSSTox_CID>
+22266
+
+> <DSSTox_RID>
+79982
+
+> <DSSTox_GSID>
+42266
+
+> <DSSTox_FileID_Sort>
+4664
+
+> <TS_ChemName>
+Pentyl sulfide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+872-10-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H22S
+
+> <STRUCTURE_MW>
+174.3467
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dipentyl sulfide
+
+> <STRUCTURE_SMILES>
+CCCCCSCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCSCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

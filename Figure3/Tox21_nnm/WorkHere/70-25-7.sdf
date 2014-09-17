@@ -1,0 +1,91 @@
+70-25-7
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  2 V2000
+    3.4535    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4535   -1.3261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6069   -1.9961    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7535   -1.3261    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9070   -1.9961    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6069   -3.3223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3000   -1.9961    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -1.3261    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.1535    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9961    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+812
+
+> <Formula>
+C2H5N5O3
+
+> <FW>
+147.0928
+
+> <DSSTox_CID>
+846
+
+> <DSSTox_RID>
+75825
+
+> <DSSTox_GSID>
+20846
+
+> <DSSTox_FileID_Sort>
+509
+
+> <TS_ChemName>
+N-Methyl-N'-nitro-N-nitrosoguanidine
+
+> <TS_ChemName_Synonyms>
+N-Methyl-N'-nitro-N-nitrosoguanidine (1-Methyl-3-nitro-1-nitroso-guanidine)
+
+> <TS_CASRN>
+70-25-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H5N5O3
+
+> <STRUCTURE_MW>
+147.0928
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methyl-3-nitro-1-nitrosoguanidine
+
+> <STRUCTURE_SMILES>
+N=C(N[N+](=O)[O-])N(C)N=O
+
+> <STRUCTURE_SMILES_Desalt>
+N=C(N[N+](=O)[O-])N(C)N=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

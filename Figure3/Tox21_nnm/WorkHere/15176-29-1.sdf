@@ -1,0 +1,109 @@
+15176-29-1
+ChemmineR-0915142007XD
+
+ 18 19  0  0  1  0  0  0  0  0  1 V2000
+    4.3822   -3.7805    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4635   -3.1382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4635   -1.8943    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3822   -5.7968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2765   -3.1220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2765   -1.8943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3822   -1.2439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3252   -5.0244    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9675   -7.0732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2358   -5.7968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6504   -7.0732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5529   -3.8130    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3822    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1301   -1.2114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8781   -8.1302    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9919   -5.4066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.2684    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0407   -1.8455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  4  1  1  1  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 16  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 11 15  1  6  0  0  0
+ 14 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+11272
+
+> <Formula>
+C11H16N2O5
+
+> <FW>
+256.2551
+
+> <DSSTox_CID>
+25890
+
+> <DSSTox_RID>
+81204
+
+> <DSSTox_GSID>
+45890
+
+> <DSSTox_FileID_Sort>
+5885
+
+> <TS_ChemName>
+Edoxudine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+15176-29-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H16N2O5
+
+> <STRUCTURE_MW>
+256.2551
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2'-deoxy-5-ethyluridine
+
+> <STRUCTURE_SMILES>
+CCC1=CN(C(=O)NC1=O)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+> <STRUCTURE_SMILES_Desalt>
+CCC1=CN(C(=O)NC1=O)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+> <Substance_modify_yyyymmdd>
+20110922
+
+$$$$

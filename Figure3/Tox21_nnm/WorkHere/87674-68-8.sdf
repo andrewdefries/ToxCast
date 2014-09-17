@@ -1,0 +1,106 @@
+87674-68-8
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    2.2408   -4.3221    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5334   -5.6253    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.9775   -3.9098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2382   -3.4311    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.7875    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6493   -3.8433    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2504   -5.1133    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5788   -3.0587    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5016   -3.8433    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9205   -5.1133    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5788   -1.7288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1359   -6.1839    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9656   -2.1278    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6956   -1.7155    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4230   -0.4189    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1596    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9431   -1.2301    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+6440
+
+> <Formula>
+C12H18ClNO2S
+
+> <FW>
+275.7948
+
+> <DSSTox_CID>
+12376
+
+> <DSSTox_RID>
+78930
+
+> <DSSTox_GSID>
+32376
+
+> <DSSTox_FileID_Sort>
+3612
+
+> <TS_ChemName>
+Dimethenamid
+
+> <TS_ChemName_Synonyms>
+Dimethenamid (BAS 565 H)
+
+> <TS_CASRN>
+87674-68-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture of (R,S) isomers; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H18ClNO2S
+
+> <STRUCTURE_MW>
+275.7948
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-N-(2,4-dimethylthiophen-3-yl)-N-(1-methoxypropan-2-yl)acetamide
+
+> <STRUCTURE_SMILES>
+Cc1csc(C)c1N(C(C)COC)C(=O)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1csc(C)c1N(C(C)COC)C(=O)CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,95 @@
+693-67-4
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -5.7512    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3333   -5.7512    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9886   -4.5987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3219   -4.5987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9885   -3.4462    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3218   -3.4462    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9771   -2.2937    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3104   -2.2937    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9770   -1.1412    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3103   -1.1412    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9657    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.2989    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+14213
+
+> <Formula>
+C11H23Br
+
+> <FW>
+235.2043
+
+> <DSSTox_CID>
+29308
+
+> <DSSTox_RID>
+83424
+
+> <DSSTox_GSID>
+49349
+
+> <DSSTox_FileID_Sort>
+8099
+
+> <TS_ChemName>
+1-Bromoundecane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+693-67-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H23Br
+
+> <STRUCTURE_MW>
+235.2043
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromoundecane
+
+> <STRUCTURE_SMILES>
+BrCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+BrCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

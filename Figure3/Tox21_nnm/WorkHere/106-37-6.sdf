@@ -1,0 +1,88 @@
+106-37-6
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1558   -5.3261    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3115   -2.0079    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3115   -3.3181    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1558   -1.3315    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1558   -3.9945    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0079    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3181    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1558    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+3467
+
+> <Formula>
+C6H4Br2
+
+> <FW>
+235.904
+
+> <DSSTox_CID>
+4012
+
+> <DSSTox_RID>
+77257
+
+> <DSSTox_GSID>
+24012
+
+> <DSSTox_FileID_Sort>
+1940
+
+> <TS_ChemName>
+1,4-Dibromobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+106-37-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4Br2
+
+> <STRUCTURE_MW>
+235.904
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-dibromobenzene
+
+> <STRUCTURE_SMILES>
+Brc1ccc(Br)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Brc1ccc(Br)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

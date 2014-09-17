@@ -1,0 +1,95 @@
+770-05-8
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    2.3090   -2.0171    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4505   -2.6787    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1480   -2.6592    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090   -0.6745    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090   -4.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4505   -4.0148    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1480   -3.9823    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6745    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4505    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090   -5.9995    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1480   -0.0130    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4859   -2.4646    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+6646
+
+> <Formula>
+C8H12ClNO2
+
+> <FW>
+189.6394 (153.1784+36.4609)
+
+> <DSSTox_CID>
+13803
+
+> <DSSTox_RID>
+79096
+
+> <DSSTox_GSID>
+33803
+
+> <DSSTox_FileID_Sort>
+3778
+
+> <TS_ChemName>
+Octopamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+770-05-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+racemic mixture; structure shown without stereochem; parent [104-14-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12ClNO2
+
+> <STRUCTURE_MW>
+189.6394
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-(2-amino-1-hydroxyethyl)phenol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.OC(CN)c1ccc(O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(CN)c1ccc(O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

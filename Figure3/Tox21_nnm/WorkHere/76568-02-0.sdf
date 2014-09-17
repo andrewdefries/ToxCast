@@ -1,0 +1,105 @@
+76568-02-0
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    5.7480   -2.0211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6162   -1.3824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7480   -3.3388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4520   -2.0211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6162   -4.0260    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4520   -3.3388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9040   -1.3501    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3202   -4.0260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3202   -1.3824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6162   -0.0323    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9040    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1641   -3.3388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1641   -2.0211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6162   -5.3438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0260    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0844   -2.0211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 16  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 13  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+13822
+
+> <Formula>
+C11H10FNO2S
+
+> <FW>
+239.266
+
+> <DSSTox_CID>
+28759
+
+> <DSSTox_RID>
+83028
+
+> <DSSTox_GSID>
+48833
+
+> <DSSTox_FileID_Sort>
+7705
+
+> <TS_ChemName>
+Flosequinan
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+76568-02-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H10FNO2S
+
+> <STRUCTURE_MW>
+239.266
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+7-fluoro-1-methyl-3-(methylsulfinyl)quinolin-4(1H)-one
+
+> <STRUCTURE_SMILES>
+CS(=O)C2=CN(C)c1cc(F)ccc1C2=O
+
+> <STRUCTURE_SMILES_Desalt>
+CS(=O)C2=CN(C)c1cc(F)ccc1C2=O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

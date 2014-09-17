@@ -1,0 +1,100 @@
+1746-81-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    5.7493   -1.9994    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7493   -0.6726    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9102   -2.6627    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5976   -2.6627    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4459   -1.9994    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2942   -2.6627    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4459   -0.6726    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1333   -1.9994    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2942    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1333   -0.6726    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0619   -1.9994    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2137   -2.6627    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9102   -3.9895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+7346
+
+> <Formula>
+C9H11ClN2O2
+
+> <FW>
+214.6488
+
+> <DSSTox_CID>
+17576
+
+> <DSSTox_RID>
+79340
+
+> <DSSTox_GSID>
+37576
+
+> <DSSTox_FileID_Sort>
+4022
+
+> <TS_ChemName>
+Monolinuron
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1746-81-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11ClN2O2
+
+> <STRUCTURE_MW>
+214.6488
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(4-chlorophenyl)-1-methoxy-1-methylurea
+
+> <STRUCTURE_SMILES>
+Clc1ccc(NC(=O)N(C)OC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(NC(=O)N(C)OC)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

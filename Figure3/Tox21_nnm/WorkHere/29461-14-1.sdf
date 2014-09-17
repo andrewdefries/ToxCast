@@ -1,0 +1,110 @@
+29461-14-1
+ChemmineR-0915142007XD
+
+ 18 20  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -1.2439    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4145   -0.8841    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8658   -1.9329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8658   -3.2255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9755   -1.2926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9755   -3.8779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7438   -3.8779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7438   -1.2926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6219   -1.9329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6219   -3.2255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0974   -3.2255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0974   -1.9329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3719   -3.2255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9755    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3841   -0.1707    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0914   -0.1707    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3353   -4.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6279   -4.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  3  2  1  1  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+ 13  4  1  1  0  0  0
+  5 12  1  0  0  0  0
+  5 14  2  0  0  0  0
+  6 11  1  0  0  0  0
+  6 17  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 13  9  1  1  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+12316
+
+> <Formula>
+C15H24O
+
+> <FW>
+220.3505
+
+> <DSSTox_CID>
+27168
+
+> <DSSTox_RID>
+82169
+
+> <DSSTox_GSID>
+47168
+
+> <DSSTox_FileID_Sort>
+6850
+
+> <TS_ChemName>
+Isolongifolanone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+29461-14-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H24O
+
+> <STRUCTURE_MW>
+220.3505
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2S,4aS,8aS)-1,1,5,5-tetramethylhexahydro-2H-2,4a-methanonaphthalen-8(5H)-one
+
+> <STRUCTURE_SMILES>
+CC3(C)C1CC2(CC1)[C@H]3C(=O)CCC2(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC3(C)C1CC2(CC1)[C@H]3C(=O)CCC2(C)C
+
+> <Substance_modify_yyyymmdd>
+20100503
+
+$$$$

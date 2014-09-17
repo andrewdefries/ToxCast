@@ -1,0 +1,105 @@
+119-93-7
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    3.4404   -2.6848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5899   -2.0096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2909   -2.0096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7475   -2.6848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1495   -2.6848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9130   -2.0096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1495   -4.0112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9130   -0.6752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4404   -4.0112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5899   -0.6752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2909   -4.6784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7475    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6784    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0384   -0.0161    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0384   -2.6688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  5 15  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+3485
+
+> <Formula>
+C14H16N2
+
+> <FW>
+212.2902
+
+> <DSSTox_CID>
+4059
+
+> <DSSTox_RID>
+77273
+
+> <DSSTox_GSID>
+24059
+
+> <DSSTox_FileID_Sort>
+1956
+
+> <TS_ChemName>
+3,3'-Dimethylbenzidine
+
+> <TS_ChemName_Synonyms>
+3,3'-Dimethylbenzidine (o-Tolidine)
+
+> <TS_CASRN>
+119-93-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H16N2
+
+> <STRUCTURE_MW>
+212.2902
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3'-dimethylbiphenyl-4,4'-diamine
+
+> <STRUCTURE_SMILES>
+Cc1cc(ccc1N)c2ccc(N)c(C)c2
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(ccc1N)c2ccc(N)c(C)c2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

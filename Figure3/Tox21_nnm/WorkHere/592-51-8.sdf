@@ -1,0 +1,83 @@
+592-51-8
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.1375   -0.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3095   -1.3328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4527   -0.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6074   -1.3328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7449   -0.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <ID>
+5009
+
+> <Formula>
+C5H7N
+
+> <FW>
+81.1158
+
+> <DSSTox_CID>
+7228
+
+> <DSSTox_RID>
+78358
+
+> <DSSTox_GSID>
+27228
+
+> <DSSTox_FileID_Sort>
+3041
+
+> <TS_ChemName>
+4-Pentenenitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+592-51-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H7N
+
+> <STRUCTURE_MW>
+81.1158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pent-4-enenitrile
+
+> <STRUCTURE_SMILES>
+C=CCCC#N
+
+> <STRUCTURE_SMILES_Desalt>
+C=CCCC#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

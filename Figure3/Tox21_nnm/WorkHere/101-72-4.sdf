@@ -1,0 +1,107 @@
+101-72-4
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    3.4505    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3003   -0.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3003   -1.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1502   -2.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1502    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6006   -0.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7611    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9113   -0.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9113   -1.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7611   -2.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6006   -1.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0614   -2.6630    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2116   -1.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2116   -0.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3618   -2.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+4224
+
+> <Formula>
+C15H18N2
+
+> <FW>
+226.3168
+
+> <DSSTox_CID>
+5485
+
+> <DSSTox_RID>
+77806
+
+> <DSSTox_GSID>
+25485
+
+> <DSSTox_FileID_Sort>
+2489
+
+> <TS_ChemName>
+N-Isopropyl-N'-phenyl-p-phenylenediamine
+
+> <TS_ChemName_Synonyms>
+N-Phenyl-N'-(propan-2-yl)benzene-1,4-diamine (N-Isopropyl-N'-phenyl-p-phenylenediamine) (1,4-Benzenediamine, N-(1-methylethyl)-N'-phenyl-)
+
+> <TS_CASRN>
+101-72-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H18N2
+
+> <STRUCTURE_MW>
+226.3168
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-phenyl-N'-(propan-2-yl)benzene-1,4-diamine
+
+> <STRUCTURE_SMILES>
+CC(C)Nc1ccc(cc1)Nc2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)Nc1ccc(cc1)Nc2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

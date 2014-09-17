@@ -1,0 +1,92 @@
+1321-74-0
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.4568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -3.4568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -2.3081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -1.1541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887   -1.1541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239   -2.3081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887   -3.4568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3182   -3.4568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+4085
+
+> <Formula>
+C10H10
+
+> <FW>
+130.1864
+
+> <DSSTox_CID>
+5216
+
+> <DSSTox_RID>
+77703
+
+> <DSSTox_GSID>
+25216
+
+> <DSSTox_FileID_Sort>
+2386
+
+> <TS_ChemName>
+Divinylbenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1321-74-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H10
+
+> <STRUCTURE_MW>
+130.1864
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-diethenylbenzene
+
+> <STRUCTURE_SMILES>
+C=Cc1ccccc1C=C
+
+> <STRUCTURE_SMILES_Desalt>
+C=Cc1ccccc1C=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,93 @@
+315-30-0
+ChemmineR-0915142007XD
+
+ 10 11  0  0  0  0  0  0  0  0  1 V2000
+    3.2927   -3.4349    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1418   -4.1014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9865   -3.4349    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9865   -2.1062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1418   -1.4397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2927   -2.1062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4436   -1.4397    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8618   -0.1422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5421    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2175    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+2332
+
+> <Formula>
+C5H4N4O
+
+> <FW>
+136.1115
+
+> <DSSTox_CID>
+2573
+
+> <DSSTox_RID>
+76636
+
+> <DSSTox_GSID>
+22573
+
+> <DSSTox_FileID_Sort>
+1320
+
+> <TS_ChemName>
+Allopurinol
+
+> <TS_ChemName_Synonyms>
+Allopurinol (4-Hydroxypyrazolo[3,4-d]pyrimidine)
+
+> <TS_CASRN>
+315-30-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H4N4O
+
+> <STRUCTURE_MW>
+136.1115
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1H-pyrazolo[3,4-d]pyrimidin-4-ol
+
+> <STRUCTURE_SMILES>
+Oc2ncnc1nncc12
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ncnc1nncc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

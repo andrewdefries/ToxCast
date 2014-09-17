@@ -1,0 +1,92 @@
+1745-81-9
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.9872   -3.4546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6581   -3.4546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9935   -2.3051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6583   -2.3051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9937   -3.4546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6646   -3.4546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6646   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9937   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6583    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+2003
+
+> <Formula>
+C9H10O
+
+> <FW>
+134.1751
+
+> <DSSTox_CID>
+2164
+
+> <DSSTox_RID>
+76510
+
+> <DSSTox_GSID>
+22164
+
+> <DSSTox_FileID_Sort>
+1194
+
+> <TS_ChemName>
+2-Allylphenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1745-81-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10O
+
+> <STRUCTURE_MW>
+134.1751
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(prop-2-en-1-yl)phenol
+
+> <STRUCTURE_SMILES>
+Oc1ccccc1CC=C
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccccc1CC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,109 @@
+95266-40-3
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    3.6844   -2.5433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4096   -3.7037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7248   -3.7037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4597   -2.5433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7248   -1.3732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4096   -1.3732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3112   -2.5433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6246   -1.3442    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6246   -3.7037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8135   -2.5433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4904   -1.3442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6702   -0.6672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4904    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4904   -3.7230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3920   -4.8835    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3920   -0.1837    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5415   -3.7037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 15  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 16  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+6502
+
+> <Formula>
+C13H16O5
+
+> <FW>
+252.2631
+
+> <DSSTox_CID>
+12535
+
+> <DSSTox_RID>
+78972
+
+> <DSSTox_GSID>
+32535
+
+> <DSSTox_FileID_Sort>
+3654
+
+> <TS_ChemName>
+Trinexapac-ethyl
+
+> <TS_ChemName_Synonyms>
+Trinexapac-ethyl (Cimecticarb)
+
+> <TS_CASRN>
+95266-40-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H16O5
+
+> <STRUCTURE_MW>
+252.2631
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 4-[cyclopropyl(hydroxy)methylidene]-3,5-dioxocyclohexanecarboxylate
+
+> <STRUCTURE_SMILES>
+O=C(OCC)C1CC(=O)/C(C(=O)C1)=C(/O)C2CC2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)C1CC(=O)/C(C(=O)C1)=C(/O)C2CC2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,79 @@
+107-19-7
+ChemmineR-0915142007XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    0.6652   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3260   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  3  0  0  0  0
+M  END
+> <ID>
+1763
+
+> <Formula>
+C3H4O
+
+> <FW>
+56.0633
+
+> <DSSTox_CID>
+1883
+
+> <DSSTox_RID>
+76383
+
+> <DSSTox_GSID>
+21883
+
+> <DSSTox_FileID_Sort>
+1067
+
+> <TS_ChemName>
+Propargyl alcohol
+
+> <TS_ChemName_Synonyms>
+2-Propyn-1-ol
+
+> <TS_CASRN>
+107-19-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H4O
+
+> <STRUCTURE_MW>
+56.0633
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+prop-2-yn-1-ol
+
+> <STRUCTURE_SMILES>
+C#CCO
+
+> <STRUCTURE_SMILES_Desalt>
+C#CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

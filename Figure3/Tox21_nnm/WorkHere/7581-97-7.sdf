@@ -1,0 +1,83 @@
+7581-97-7
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    3.3250   -1.1509    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -1.1509    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307   -2.3053    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -3.4563    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3053    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+M  END
+> <ID>
+1504
+
+> <Formula>
+C4H8Cl2
+
+> <FW>
+127.0123
+
+> <DSSTox_CID>
+1565
+
+> <DSSTox_RID>
+76214
+
+> <DSSTox_GSID>
+21565
+
+> <DSSTox_FileID_Sort>
+898
+
+> <TS_ChemName>
+2,3-Dichlorobutane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7581-97-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8Cl2
+
+> <STRUCTURE_MW>
+127.0123
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,3-dichlorobutane
+
+> <STRUCTURE_SMILES>
+CC(Cl)C(C)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+CC(Cl)C(C)Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

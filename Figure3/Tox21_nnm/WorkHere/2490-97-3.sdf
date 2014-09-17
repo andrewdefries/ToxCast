@@ -1,0 +1,97 @@
+2490-97-3
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    4.6204   -3.3257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7775   -1.3351    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6204   -1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9346   -1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1571   -1.3351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7775   -3.9811    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0917   -1.3351    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1571    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4713   -1.3351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3142   -1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9906    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4713   -3.9811    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9346   -3.3257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4 13  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+13947
+
+> <Formula>
+C7H12N2O4
+
+> <FW>
+188.1812
+
+> <DSSTox_CID>
+28885
+
+> <DSSTox_RID>
+83153
+
+> <DSSTox_GSID>
+48959
+
+> <DSSTox_FileID_Sort>
+7830
+
+> <TS_ChemName>
+Nalpha-Acetyl-L-glutamine
+
+> <TS_ChemName_Synonyms>
+N?-Acetyl-L-glutamine
+
+> <TS_CASRN>
+2490-97-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H12N2O4
+
+> <STRUCTURE_MW>
+188.1812
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N~2~-acetylglutamine
+
+> <STRUCTURE_SMILES>
+O=C(C)NC(CCC(N)=O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)NC(CCC(N)=O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

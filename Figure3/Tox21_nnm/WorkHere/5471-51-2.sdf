@@ -1,0 +1,96 @@
+5471-51-2
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    6.9211   -3.9895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9211   -2.6570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7662   -2.0028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6114   -2.6570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0759   -2.0028    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3097    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549   -0.6703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549   -2.0028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3097   -2.6570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4646   -2.0028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4646   -0.6703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4 10  1  0  0  0  0
+  6 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+10149
+
+> <Formula>
+C10H12O2
+
+> <FW>
+164.2011
+
+> <DSSTox_CID>
+24495
+
+> <DSSTox_RID>
+80270
+
+> <DSSTox_GSID>
+44495
+
+> <DSSTox_FileID_Sort>
+4952
+
+> <TS_ChemName>
+4-(4-Hydroxyphenyl)butan-2-one
+
+> <TS_ChemName_Synonyms>
+4-(4-Hydroxyphenyl)butan-2-one (2-Butanone, 4-(4-hydroxyphenyl)-) (Raspberry ketone)
+
+> <TS_CASRN>
+5471-51-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12O2
+
+> <STRUCTURE_MW>
+164.2011
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(4-hydroxyphenyl)butan-2-one
+
+> <STRUCTURE_SMILES>
+Oc1ccc(CCC(C)=O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(CCC(C)=O)cc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

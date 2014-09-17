@@ -1,0 +1,91 @@
+126-11-4
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  2 V2000
+    2.0017   -0.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0017   -1.9857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3295   -1.9857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8493    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9874   -3.1381    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0017   -3.3136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8493   -3.9874    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6739   -1.9857    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1381    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8334    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <ID>
+4894
+
+> <Formula>
+C4H9NO5
+
+> <FW>
+151.118
+
+> <DSSTox_CID>
+7034
+
+> <DSSTox_RID>
+78284
+
+> <DSSTox_GSID>
+27034
+
+> <DSSTox_FileID_Sort>
+2967
+
+> <TS_ChemName>
+2-(Hydroxymethyl)-2-nitro-1,3-propanediol
+
+> <TS_ChemName_Synonyms>
+2-(Hydroxymethyl)-2-nitro-1,3-propanediol (Tris(hydroxymethyl)nitromethane)
+
+> <TS_CASRN>
+126-11-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H9NO5
+
+> <STRUCTURE_MW>
+151.118
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(hydroxymethyl)-2-nitropropane-1,3-diol
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])C(CO)(CO)CO
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])C(CO)(CO)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

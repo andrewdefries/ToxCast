@@ -1,0 +1,92 @@
+6228-25-7
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    0.6754   -0.8513    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6754   -3.1454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0063   -3.1454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6658   -2.0063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0063   -0.8513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8208   -2.6658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8208   -3.9966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8208   -1.3309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8208    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+10614
+
+> <Formula>
+C6H12O4
+
+> <FW>
+148.1571
+
+> <DSSTox_CID>
+24967
+
+> <DSSTox_RID>
+80620
+
+> <DSSTox_GSID>
+44967
+
+> <DSSTox_FileID_Sort>
+5302
+
+> <TS_ChemName>
+1,3-Dioxane-5,5-diyldimethanol
+
+> <TS_ChemName_Synonyms>
+1,3-Dioxane-5,5-dimethanol
+
+> <TS_CASRN>
+6228-25-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O4
+
+> <STRUCTURE_MW>
+148.1571
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,3-dioxane-5,5-diyldimethanol
+
+> <STRUCTURE_SMILES>
+OCC1(CO)COCOC1
+
+> <STRUCTURE_SMILES_Desalt>
+OCC1(CO)COCOC1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

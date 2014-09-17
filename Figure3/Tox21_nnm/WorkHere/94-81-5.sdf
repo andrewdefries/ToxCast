@@ -1,0 +1,102 @@
+94-81-5
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    1.1401   -5.3123    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3206   -5.9673    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4445   -5.3123    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6170   -5.9673    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.0077    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1401   -3.9944    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7651   -5.3123    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7651   -3.9701    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9295   -3.3071    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6170   -3.3313    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9295   -1.9891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6170   -1.9891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7894   -1.3180    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7894    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0857   -3.9701    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+3553
+
+> <Formula>
+C11H13ClO3
+
+> <FW>
+228.6721
+
+> <DSSTox_CID>
+4193
+
+> <DSSTox_RID>
+77322
+
+> <DSSTox_GSID>
+24193
+
+> <DSSTox_FileID_Sort>
+2005
+
+> <TS_ChemName>
+4-(2-Methyl-4-chlorophenoxy)butyric acid
+
+> <TS_ChemName_Synonyms>
+4-(2-Methyl-4-chlorophenoxy)butyric acid (MCPB)
+
+> <TS_CASRN>
+94-81-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H13ClO3
+
+> <STRUCTURE_MW>
+228.6721
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(4-chloro-2-methylphenoxy)butanoic acid
+
+> <STRUCTURE_SMILES>
+Clc1cc(C)c(OCCCC(=O)O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(C)c(OCCCC(=O)O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

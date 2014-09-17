@@ -1,0 +1,99 @@
+502-59-0
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    3.9873   -5.7563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210   -5.7563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9844   -6.9104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9844   -4.6092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210   -3.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9844   -2.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9844    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9873   -1.1540    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239   -2.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -2.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3268   -3.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -4.6092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+16156
+
+> <Formula>
+C13H29N
+
+> <FW>
+199.3761
+
+> <DSSTox_CID>
+31545
+
+> <DSSTox_RID>
+97430
+
+> <DSSTox_GSID>
+57756
+
+> <DSSTox_FileID_Sort>
+8497
+
+> <TS_ChemName>
+Octamylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+502-59-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H29N
+
+> <STRUCTURE_MW>
+199.3761
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-methyl-N-(3-methylbutyl)heptan-2-amine
+
+> <STRUCTURE_SMILES>
+CC(C)CCNC(C)CCCC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CCNC(C)CCCC(C)C
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

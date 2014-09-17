@@ -1,0 +1,94 @@
+83-41-0
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  2 V2000
+    4.6557    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -1.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6557   -2.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -3.4545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6584   -3.4545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9973   -2.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6584   -1.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9973    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6658   -2.3046    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4545    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+4032
+
+> <Formula>
+C8H9NO2
+
+> <FW>
+151.1626
+
+> <DSSTox_CID>
+5132
+
+> <DSSTox_RID>
+77676
+
+> <DSSTox_GSID>
+25132
+
+> <DSSTox_FileID_Sort>
+2359
+
+> <TS_ChemName>
+1,2-Dimethyl-3-nitrobenzene
+
+> <TS_ChemName_Synonyms>
+3-Nitro-o-xylene
+
+> <TS_CASRN>
+83-41-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9NO2
+
+> <STRUCTURE_MW>
+151.1626
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-dimethyl-3-nitrobenzene
+
+> <STRUCTURE_SMILES>
+Cc1c(C)cccc1[N+](=O)[O-]
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1c(C)cccc1[N+](=O)[O-]
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

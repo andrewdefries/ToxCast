@@ -1,0 +1,97 @@
+29911-28-2
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    9.2500   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3933   -1.9863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3933   -3.3258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5481   -1.3280    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0952   -1.9863    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9289   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7740   -1.9863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6192   -1.3280    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4529   -1.9863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2981   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1433   -1.9863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+5536
+
+> <Formula>
+C10H22O3
+
+> <FW>
+190.2799
+
+> <DSSTox_CID>
+7959
+
+> <DSSTox_RID>
+78623
+
+> <DSSTox_GSID>
+27959
+
+> <DSSTox_FileID_Sort>
+3305
+
+> <TS_ChemName>
+1-(2-Butoxy-1-methylethoxy)propan-2-ol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+29911-28-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H22O3
+
+> <STRUCTURE_MW>
+190.2799
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-[(1-butoxypropan-2-yl)oxy]propan-2-ol
+
+> <STRUCTURE_SMILES>
+OC(C)COC(C)COCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+OC(C)COC(C)COCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

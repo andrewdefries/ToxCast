@@ -1,0 +1,87 @@
+123-76-2
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7628   -1.9939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -3.3252    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <ID>
+1585
+
+> <Formula>
+C5H8O3
+
+> <FW>
+116.1152
+
+> <DSSTox_CID>
+1648
+
+> <DSSTox_RID>
+76262
+
+> <DSSTox_GSID>
+21648
+
+> <DSSTox_FileID_Sort>
+946
+
+> <TS_ChemName>
+4-Oxopentanoic acid
+
+> <TS_ChemName_Synonyms>
+4-Oxopentanoic acid (Levulinic acid)
+
+> <TS_CASRN>
+123-76-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8O3
+
+> <STRUCTURE_MW>
+116.1152
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-oxopentanoic acid
+
+> <STRUCTURE_SMILES>
+CC(=O)CCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)CCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

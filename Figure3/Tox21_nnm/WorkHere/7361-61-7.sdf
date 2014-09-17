@@ -1,0 +1,103 @@
+7361-61-7
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    2.3041   -1.9928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6152   -2.0066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4597   -1.3285    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -3.3351    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1555   -1.3285    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6152   -3.3213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7638   -1.3423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1555   -3.9994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9193   -3.3074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9193   -2.0204    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7638   -3.9855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4597   -3.9994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7638    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 12  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <ID>
+7848
+
+> <Formula>
+C12H16N2S
+
+> <FW>
+220.3338
+
+> <DSSTox_CID>
+20643
+
+> <DSSTox_RID>
+79519
+
+> <DSSTox_GSID>
+40643
+
+> <DSSTox_FileID_Sort>
+4201
+
+> <TS_ChemName>
+Xylazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7361-61-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H16N2S
+
+> <STRUCTURE_MW>
+220.3338
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(2,6-dimethylphenyl)-5,6-dihydro-4H-1,3-thiazin-2-amine
+
+> <STRUCTURE_SMILES>
+Cc2cccc(C)c2NC1=NCCCS1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc2cccc(C)c2NC1=NCCCS1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

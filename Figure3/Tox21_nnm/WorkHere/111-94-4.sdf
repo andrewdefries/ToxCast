@@ -1,0 +1,89 @@
+111-94-4
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1545   -0.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3089    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4634   -0.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0812   -0.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9268    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7723   -0.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2357   -1.3299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6179    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  3  0  0  0  0
+  6  7  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+8430
+
+> <Formula>
+C6H9N3
+
+> <FW>
+123.1558
+
+> <DSSTox_CID>
+21464
+
+> <DSSTox_RID>
+79743
+
+> <DSSTox_GSID>
+41464
+
+> <DSSTox_FileID_Sort>
+4425
+
+> <TS_ChemName>
+3,3'-Iminobispropanenitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+111-94-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H9N3
+
+> <STRUCTURE_MW>
+123.1558
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3'-iminodipropanenitrile
+
+> <STRUCTURE_SMILES>
+N#CCCNCCC#N
+
+> <STRUCTURE_SMILES_Desalt>
+N#CCCNCCC#N
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

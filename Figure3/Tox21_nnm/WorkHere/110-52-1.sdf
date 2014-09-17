@@ -1,0 +1,83 @@
+110-52-1
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.1480   -0.6716    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2960    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440   -0.6716    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5920    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7400   -0.6716    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+M  END
+> <ID>
+10022
+
+> <Formula>
+C4H8Br2
+
+> <FW>
+215.9143
+
+> <DSSTox_CID>
+24364
+
+> <DSSTox_RID>
+80172
+
+> <DSSTox_GSID>
+44364
+
+> <DSSTox_FileID_Sort>
+4854
+
+> <TS_ChemName>
+1,4-Dibromobutane
+
+> <TS_ChemName_Synonyms>
+1,4-Dibromobutane (Butane, 1,4-dibromo-)
+
+> <TS_CASRN>
+110-52-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8Br2
+
+> <STRUCTURE_MW>
+215.9143
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-dibromobutane
+
+> <STRUCTURE_SMILES>
+BrCCCCBr
+
+> <STRUCTURE_SMILES_Desalt>
+BrCCCCBr
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

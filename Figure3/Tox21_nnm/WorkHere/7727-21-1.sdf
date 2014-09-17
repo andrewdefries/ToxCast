@@ -1,0 +1,93 @@
+7727-21-1
+ChemmineR-0915142007XD
+
+ 12  9  0  0  0  0  0  0  0  0  2 V2000
+    2.6101   -1.8253    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7564   -1.1640    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -1.8253    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0667   -1.1640    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2131   -0.4938    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.9488   -0.6613    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.2803   -2.9716    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4638   -2.4867    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4054    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7369   -2.3103    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4938    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+    8.8179   -0.4497    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1  8  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  2  0  0  0  0
+  4 10  2  0  0  0  0
+M  END
+> <ID>
+6133
+
+> <Formula>
+K2O8S2
+
+> <FW>
+270.3218 (192.1263+39.0978+39.0978)
+
+> <DSSTox_CID>
+9690
+
+> <DSSTox_RID>
+78809
+
+> <DSSTox_GSID>
+29690
+
+> <DSSTox_FileID_Sort>
+3491
+
+> <TS_ChemName>
+Potassium persulfate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7727-21-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+K2O8S2
+
+> <STRUCTURE_MW>
+270.3218
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+dipotassium [(sulfonatoperoxy)sulfonyl]oxidanide
+
+> <STRUCTURE_SMILES>
+[K+].[K+].O=S(=O)([O-])OOS([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(O)(=O)OOS(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

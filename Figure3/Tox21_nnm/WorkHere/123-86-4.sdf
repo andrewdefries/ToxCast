@@ -1,0 +1,87 @@
+123-86-4
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    3.9913    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6555   -1.1549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9839   -1.1549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9913   -2.3038    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9926   -1.1549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6642   -1.1549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+1839
+
+> <Formula>
+C6H12O2
+
+> <FW>
+116.1583
+
+> <DSSTox_CID>
+1982
+
+> <DSSTox_RID>
+76441
+
+> <DSSTox_GSID>
+21982
+
+> <DSSTox_FileID_Sort>
+1125
+
+> <TS_ChemName>
+Butyl acetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+123-86-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O2
+
+> <STRUCTURE_MW>
+116.1583
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butyl acetate
+
+> <STRUCTURE_SMILES>
+CC(=O)OCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)OCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

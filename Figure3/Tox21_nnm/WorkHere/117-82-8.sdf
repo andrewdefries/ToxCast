@@ -1,0 +1,112 @@
+117-82-8
+ChemmineR-0915142007XD
+
+ 20 20  0  0  0  0  0  0  0  0  1 V2000
+    3.9961   -5.7693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6622   -6.9197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9961   -8.0701    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6641   -8.0701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9981   -6.9197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6660   -6.9197    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9856   -6.9197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6516   -5.7693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9836   -5.7693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6496   -6.9197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9836   -8.0701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9856   -4.6103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6516   -3.4599    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6622   -4.6103    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9961   -3.4599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6622   -2.3095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9961   -1.1591    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6622    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6516   -8.0701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 20  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+4014
+
+> <Formula>
+C14H18O6
+
+> <FW>
+282.2891
+
+> <DSSTox_CID>
+5094
+
+> <DSSTox_RID>
+77663
+
+> <DSSTox_GSID>
+25094
+
+> <DSSTox_FileID_Sort>
+2346
+
+> <TS_ChemName>
+Di(2-methoxyethyl) phthalate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+117-82-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H18O6
+
+> <STRUCTURE_MW>
+282.2891
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+bis(2-methoxyethyl) benzene-1,2-dicarboxylate
+
+> <STRUCTURE_SMILES>
+O=C(OCCOC)c1ccccc1C(=O)OCCOC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCCOC)c1ccccc1C(=O)OCCOC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

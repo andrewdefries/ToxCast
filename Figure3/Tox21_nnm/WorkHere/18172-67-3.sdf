@@ -1,0 +1,93 @@
+18172-67-3
+ChemmineR-0915142007XD
+
+ 10 11  0  0  1  0  0  0  0  0  1 V2000
+    1.8777   -0.9095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7009   -2.2675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8165   -1.5466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568   -1.5466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9263   -0.1593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4242   -0.9263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568   -2.6028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568   -3.6422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1912    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  1  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  7  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+8157
+
+> <Formula>
+C10H16
+
+> <FW>
+136.234
+
+> <DSSTox_CID>
+21184
+
+> <DSSTox_RID>
+79640
+
+> <DSSTox_GSID>
+41184
+
+> <DSSTox_FileID_Sort>
+4322
+
+> <TS_ChemName>
+(1S,5S)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane
+
+> <TS_ChemName_Synonyms>
+(-)-beta-Pinene
+
+> <TS_CASRN>
+18172-67-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16
+
+> <STRUCTURE_MW>
+136.234
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1S,5S)-6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane
+
+> <STRUCTURE_SMILES>
+CC2(C)[C@H]1CCC(=C)[C@@H]2C1
+
+> <STRUCTURE_SMILES_Desalt>
+CC2(C)[C@H]1CCC(=C)[C@@H]2C1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

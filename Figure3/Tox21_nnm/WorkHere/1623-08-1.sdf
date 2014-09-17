@@ -1,0 +1,111 @@
+1623-08-1
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    5.9906   -2.3077    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9906   -0.9805    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3178   -2.3077    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6633   -2.3077    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9906   -3.6350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9755   -1.1479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3027   -1.1479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9723    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9723   -2.3077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2996    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2996   -2.3077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9572   -1.1479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9818   -1.1479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6545   -1.1479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9849   -2.3077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9849    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6576   -2.3077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6576    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+6622
+
+> <Formula>
+C14H15O4P
+
+> <FW>
+278.2403
+
+> <DSSTox_CID>
+13402
+
+> <DSSTox_RID>
+79072
+
+> <DSSTox_GSID>
+33402
+
+> <DSSTox_FileID_Sort>
+3754
+
+> <TS_ChemName>
+Dibenzyl phosphate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1623-08-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H15O4P
+
+> <STRUCTURE_MW>
+278.2403
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dibenzyl hydrogen phosphate
+
+> <STRUCTURE_SMILES>
+O=P(O)(OCc1ccccc1)OCc2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=P(O)(OCc1ccccc1)OCc2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

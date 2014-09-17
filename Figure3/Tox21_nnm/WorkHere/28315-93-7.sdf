@@ -1,0 +1,97 @@
+28315-93-7
+ChemmineR-0915142007XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    1.1545    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1545   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1545   -3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -3.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -3.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580   -3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580   -5.3201    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+16102
+
+> <Formula>
+C10H10O2
+
+> <FW>
+162.1852
+
+> <DSSTox_CID>
+31489
+
+> <DSSTox_RID>
+97374
+
+> <DSSTox_GSID>
+57700
+
+> <DSSTox_FileID_Sort>
+8441
+
+> <TS_ChemName>
+5-Hydroxy-1-tetralone
+
+> <TS_ChemName_Synonyms>
+3,4-Dihydro-5-hydroxy-1(2h)-naphthalenone
+
+> <TS_CASRN>
+28315-93-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H10O2
+
+> <STRUCTURE_MW>
+162.1852
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-hydroxy-3,4-dihydronaphthalen-1(2H)-one
+
+> <STRUCTURE_SMILES>
+Oc2cccc1c2CCCC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2cccc1c2CCCC1=O
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

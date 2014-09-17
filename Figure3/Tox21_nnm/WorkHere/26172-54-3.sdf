@@ -1,0 +1,87 @@
+26172-54-3
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    2.3336   -1.3273    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4216   -2.1106    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6809   -3.3726    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0082   -3.3726    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2620   -2.1106    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6918    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3336    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4397   -2.0018    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+7935
+
+> <Formula>
+C4H6ClNOS
+
+> <FW>
+151.6145 (115.1536+36.4609)
+
+> <DSSTox_CID>
+20740
+
+> <DSSTox_RID>
+79583
+
+> <DSSTox_GSID>
+40740
+
+> <DSSTox_FileID_Sort>
+4265
+
+> <TS_ChemName>
+2-Methyl-4-isothiazolin-3-one hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+26172-54-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [2682-20-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6ClNOS
+
+> <STRUCTURE_MW>
+151.6145
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-methyl-1,2-thiazol-3(2H)-one hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C1C=CSN1C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C=CSN1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

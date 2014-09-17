@@ -1,0 +1,92 @@
+102-27-2
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    6.9112   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7570   -1.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6098   -2.6608    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4556   -1.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3014   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -1.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3014    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4556   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+1736
+
+> <Formula>
+C9H13N
+
+> <FW>
+135.2062
+
+> <DSSTox_CID>
+1848
+
+> <DSSTox_RID>
+76364
+
+> <DSSTox_GSID>
+21848
+
+> <DSSTox_FileID_Sort>
+1048
+
+> <TS_ChemName>
+N-Ethyl-3-methylaniline
+
+> <TS_ChemName_Synonyms>
+N-Ethyl-3-methylaniline (benzenamine, N-ethyl-3-methyl-)
+
+> <TS_CASRN>
+102-27-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H13N
+
+> <STRUCTURE_MW>
+135.2062
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-ethyl-3-methylaniline
+
+> <STRUCTURE_SMILES>
+CCNc1cc(C)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCNc1cc(C)ccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

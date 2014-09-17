@@ -1,0 +1,97 @@
+4418-26-2
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  2 V2000
+    6.8719   -0.2611    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    3.9857   -4.6042    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3260   -3.4497    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9860   -3.4497    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3263   -2.3021    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9860   -1.1476    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3021    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9857   -2.3021    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3260   -1.1476    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9857    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3120   -2.3021    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9855   -1.1476    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    5.9855   -3.4497    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+4506
+
+> <Formula>
+C8H7NaO4
+
+> <FW>
+190.1285 (22.9892+167.1393)
+
+> <DSSTox_CID>
+6029
+
+> <DSSTox_RID>
+77988
+
+> <DSSTox_GSID>
+26029
+
+> <DSSTox_FileID_Sort>
+2671
+
+> <TS_ChemName>
+Sodium dehydroacetate
+
+> <TS_ChemName_Synonyms>
+Sodium dehydroacetate (3-Acetyl-6-methyl-2H-pyran-2,4(3H)-dione sodium)
+
+> <TS_CASRN>
+4418-26-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [520-45-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H7NaO4
+
+> <STRUCTURE_MW>
+190.1285
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium (1E)-1-(6-methyl-2,4-dioxo-2H-pyran-3(4H)-ylidene)ethanolate
+
+> <STRUCTURE_SMILES>
+[Na+].C/C([O-])=C1/C(=O)C=C(C)OC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+O/C(C)=C1\C(=O)C=C(C)OC1=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

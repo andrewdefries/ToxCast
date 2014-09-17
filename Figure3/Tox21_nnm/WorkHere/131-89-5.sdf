@@ -1,0 +1,111 @@
+131-89-5
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  2 V2000
+    2.3045   -2.6590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1522   -1.9902    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.4567   -5.9948    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.4567   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3045   -3.9885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -4.6653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6089   -2.6590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6089   -4.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1522   -0.6607    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.6089   -6.6636    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3045   -6.6636    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7612   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -0.6688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7612   -0.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9054   -2.6590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0576   -1.9741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9054    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0576   -0.6688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 12  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7  8  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+3488
+
+> <Formula>
+C12H14N2O5
+
+> <FW>
+266.25
+
+> <DSSTox_CID>
+4064
+
+> <DSSTox_RID>
+77276
+
+> <DSSTox_GSID>
+24064
+
+> <DSSTox_FileID_Sort>
+1959
+
+> <TS_ChemName>
+Dinex
+
+> <TS_ChemName_Synonyms>
+Dinex (4,6-Dinitro-o-cyclohexylphenol) (DN)
+
+> <TS_CASRN>
+131-89-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H14N2O5
+
+> <STRUCTURE_MW>
+266.25
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-cyclohexyl-4,6-dinitrophenol
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c1cc(c(O)c(c1)[N+]([O-])=O)C2CCCCC2
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c1cc(c(O)c(c1)[N+]([O-])=O)C2CCCCC2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

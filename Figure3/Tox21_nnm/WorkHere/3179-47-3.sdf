@@ -1,0 +1,103 @@
+3179-47-3
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1550   -1.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3099   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4649   -1.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6199   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7748   -1.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9298   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0698   -1.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2248   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3797   -1.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5347   -1.9949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6897   -1.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6897    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8446   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9996   -1.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8446   -3.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <ID>
+3913
+
+> <Formula>
+C14H26O2
+
+> <FW>
+226.355
+
+> <DSSTox_CID>
+4915
+
+> <DSSTox_RID>
+77578
+
+> <DSSTox_GSID>
+24915
+
+> <DSSTox_FileID_Sort>
+2261
+
+> <TS_ChemName>
+Decyl methacrylate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3179-47-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H26O2
+
+> <STRUCTURE_MW>
+226.355
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+decyl 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+C=C(C)C(=O)OCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+C=C(C)C(=O)OCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

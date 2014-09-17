@@ -1,0 +1,104 @@
+7413-36-7
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  2 V2000
+    1.1384   -1.3351    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.2872   -1.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9871    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1384    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5951   -3.3325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0621   -3.9948    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2872   -3.3325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4463   -1.3351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9030   -3.3325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5951   -1.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4463   -3.9948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7542   -3.9948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7542   -5.3196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2109   -3.3325    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3493   -3.9948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2109   -1.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  2  0  0  0  0
+  5 10  2  0  0  0  0
+  5 12  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <ID>
+13686
+
+> <Formula>
+C11H16N2O3
+
+> <FW>
+224.2563
+
+> <DSSTox_CID>
+28619
+
+> <DSSTox_RID>
+82889
+
+> <DSSTox_GSID>
+48693
+
+> <DSSTox_FileID_Sort>
+7566
+
+> <TS_ChemName>
+Nifenalol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7413-36-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H16N2O3
+
+> <STRUCTURE_MW>
+224.2563
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(4-nitrophenyl)-2-(propan-2-ylamino)ethanol
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccc(cc1)C(O)CNC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccc(cc1)C(O)CNC(C)C
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

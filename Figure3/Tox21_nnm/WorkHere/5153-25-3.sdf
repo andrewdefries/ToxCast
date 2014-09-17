@@ -1,0 +1,108 @@
+5153-25-3
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    4.6024   -4.6542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4518   -3.9908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -4.6542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1506   -3.9908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1506   -2.6536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4518   -2.6536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9902    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7633   -3.9908    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9139   -4.6542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0645   -3.9908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2151   -4.6542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3657   -3.9908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0645   -2.6536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2151   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2151   -0.6634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3657    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6024   -5.9810    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 18  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+2292
+
+> <Formula>
+C15H22O3
+
+> <FW>
+250.3334
+
+> <DSSTox_CID>
+2525
+
+> <DSSTox_RID>
+76612
+
+> <DSSTox_GSID>
+22525
+
+> <DSSTox_FileID_Sort>
+1296
+
+> <TS_ChemName>
+2-Ethylhexylparaben
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5153-25-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H22O3
+
+> <STRUCTURE_MW>
+250.3334
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethylhexyl 4-hydroxybenzoate
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1)C(=O)OCC(CC)CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1)C(=O)OCC(CC)CCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

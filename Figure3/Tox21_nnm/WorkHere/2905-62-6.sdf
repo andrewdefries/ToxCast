@@ -1,0 +1,94 @@
+2905-62-6
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    3.4476    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2937   -0.6560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1399    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2937   -1.9913    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4476   -2.6613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1399   -2.6613    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4476   -3.9966    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1399   -3.9966    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2937   -4.6526    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6060   -4.6526    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6526    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+5203
+
+> <Formula>
+C7H3Cl3O
+
+> <FW>
+209.4571
+
+> <DSSTox_CID>
+7506
+
+> <DSSTox_RID>
+78478
+
+> <DSSTox_GSID>
+27506
+
+> <DSSTox_FileID_Sort>
+3161
+
+> <TS_ChemName>
+3,5-Dichlorobenzoyl chloride
+
+> <TS_ChemName_Synonyms>
+3,5-Dichlorobenzoyl chloride (Benzoyl chloride, 3,5-dichloro-)
+
+> <TS_CASRN>
+2905-62-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H3Cl3O
+
+> <STRUCTURE_MW>
+209.4571
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5-dichlorobenzoyl chloride
+
+> <STRUCTURE_SMILES>
+Clc1cc(cc(Cl)c1)C(Cl)=O
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(cc(Cl)c1)C(Cl)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

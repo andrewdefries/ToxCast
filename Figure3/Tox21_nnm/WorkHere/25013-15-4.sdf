@@ -1,0 +1,90 @@
+25013-15-4
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    3.3309   -1.1528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9844   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3097   -3.4584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9816   -3.4584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3281   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9816   -1.1528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9844    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3125    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+1379
+
+> <Formula>
+C9H10
+
+> <FW>
+118.1757
+
+> <DSSTox_CID>
+1436
+
+> <DSSTox_RID>
+78088
+
+> <DSSTox_GSID>
+26292
+
+> <DSSTox_FileID_Sort>
+2771
+
+> <TS_ChemName>
+Vinyltoluene
+
+> <TS_ChemName_Synonyms>
+Benzene, ethenylmethyl-; Methylstyrene
+
+> <TS_CASRN>
+25013-15-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 1-methyl-(3- [100-80-1] and 4- [622-97-9]) vinylbenzene; structure shown 1-methyl-3-vinylbenzene
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C9H10
+
+> <STRUCTURE_MW>
+118.1757
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-ethenyl-3-methylbenzene
+
+> <STRUCTURE_SMILES>
+Cc1cccc(C=C)c1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cccc(C=C)c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

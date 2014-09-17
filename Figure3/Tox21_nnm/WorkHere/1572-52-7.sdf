@@ -1,0 +1,87 @@
+1572-52-7
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    1.1559   -0.6714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -1.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4609   -0.6714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6168   -1.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7658   -0.6714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9217    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -2.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  3  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  7  3  0  0  0  0
+M  END
+> <ID>
+5146
+
+> <Formula>
+C6H6N2
+
+> <FW>
+106.1252
+
+> <DSSTox_CID>
+7418
+
+> <DSSTox_RID>
+78448
+
+> <DSSTox_GSID>
+27418
+
+> <DSSTox_FileID_Sort>
+3131
+
+> <TS_ChemName>
+2-Methylenepentanedinitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1572-52-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6N2
+
+> <STRUCTURE_MW>
+106.1252
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylidenepentanedinitrile
+
+> <STRUCTURE_SMILES>
+N#CC(=C)CCC#N
+
+> <STRUCTURE_SMILES_Desalt>
+N#CC(=C)CCC#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

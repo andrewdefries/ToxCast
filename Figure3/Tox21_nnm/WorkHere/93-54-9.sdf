@@ -1,0 +1,92 @@
+93-54-9
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.4539   -1.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6051   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7564   -1.3412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4539    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -3.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -1.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3026   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3026   -3.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+10131
+
+> <Formula>
+C9H12O
+
+> <FW>
+136.191
+
+> <DSSTox_CID>
+24474
+
+> <DSSTox_RID>
+80256
+
+> <DSSTox_GSID>
+44474
+
+> <DSSTox_FileID_Sort>
+4938
+
+> <TS_ChemName>
+1-Phenyl-1-propanol
+
+> <TS_ChemName_Synonyms>
+1-Phenylpropan-1-ol (1-Propanol, phenyl-)
+
+> <TS_CASRN>
+93-54-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12O
+
+> <STRUCTURE_MW>
+136.191
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-phenylpropan-1-ol
+
+> <STRUCTURE_SMILES>
+OC(CC)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(CC)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,95 @@
+13946-02-6
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    1.1438    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1438   -1.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4591   -1.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6214   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7652   -1.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7652    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9182   -1.9924    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0805   -1.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0805    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2243   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+11542
+
+> <Formula>
+C11H25N
+
+> <FW>
+171.3229
+
+> <DSSTox_CID>
+26248
+
+> <DSSTox_RID>
+81475
+
+> <DSSTox_GSID>
+46248
+
+> <DSSTox_FileID_Sort>
+6156
+
+> <TS_ChemName>
+Iproheptine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13946-02-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H25N
+
+> <STRUCTURE_MW>
+171.3229
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-methyl-N-(propan-2-yl)heptan-2-amine
+
+> <STRUCTURE_SMILES>
+CC(C)NC(C)CCCC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)NC(C)CCCC(C)C
+
+> <Substance_modify_yyyymmdd>
+20110817
+
+$$$$

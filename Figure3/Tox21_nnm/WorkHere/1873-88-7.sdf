@@ -1,0 +1,95 @@
+1873-88-7
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    1.1731   -1.3318    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3255   -2.0081    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4503   -1.3318    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6027   -2.0081    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7482   -1.3318    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0081    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1731    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1731   -2.6637    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4365   -0.0345    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9007   -2.0081    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7482    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7482   -2.6637    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+M  END
+> <ID>
+7497
+
+> <Formula>
+C7H22O2Si3
+
+> <FW>
+222.5049
+
+> <DSSTox_CID>
+18795
+
+> <DSSTox_RID>
+79394
+
+> <DSSTox_GSID>
+38795
+
+> <DSSTox_FileID_Sort>
+4076
+
+> <TS_ChemName>
+1,1,1,3,5,5,5-Heptamethyltrisiloxane
+
+> <TS_ChemName_Synonyms>
+Trisiloxane, 1,1,1,3,5,5,5-heptamethyl-
+
+> <TS_CASRN>
+1873-88-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H22O2Si3
+
+> <STRUCTURE_MW>
+222.5049
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+1,1,1,3,5,5,5-heptamethyltrisiloxane
+
+> <STRUCTURE_SMILES>
+C[Si](C)(C)O[SiH](C)O[Si](C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C[Si](C)(C)O[SiH](C)O[Si](C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

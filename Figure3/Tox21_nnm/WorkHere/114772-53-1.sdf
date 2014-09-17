@@ -1,0 +1,103 @@
+114772-53-1
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    5.3199   -6.9090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6566   -5.7552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3199   -4.6083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6566   -3.4545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3232   -3.4545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -4.6083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3232   -5.7552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -2.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3232   -1.1538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3265    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6633   -1.1538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3265   -2.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6633   -3.4545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6083    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  3  0  0  0  0
+M  END
+> <ID>
+16028
+
+> <Formula>
+C14H11N
+
+> <FW>
+193.2438
+
+> <DSSTox_CID>
+31412
+
+> <DSSTox_RID>
+97298
+
+> <DSSTox_GSID>
+57623
+
+> <DSSTox_FileID_Sort>
+8365
+
+> <TS_ChemName>
+4'-Methylbiphenyl-2-carbonitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+114772-53-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H11N
+
+> <STRUCTURE_MW>
+193.2438
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4'-methylbiphenyl-2-carbonitrile
+
+> <STRUCTURE_SMILES>
+Cc1ccc(cc1)c2ccccc2C#N
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)c2ccccc2C#N
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

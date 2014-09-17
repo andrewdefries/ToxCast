@@ -1,0 +1,108 @@
+113852-37-2
+ChemmineR-0915142007XD
+
+ 18 18  0  0  1  0  0  0  0  0  1 V2000
+    3.4576   -1.9988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4576   -3.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -1.3218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -3.9895    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -1.9988    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -3.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -5.3193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4576   -5.9883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4576   -7.3181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6020   -5.3193    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6020   -7.9790    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7545   -5.9883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9070   -5.3193    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0596   -5.9883    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9070   -3.9895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7545   -4.6504    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  6  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 15 18  1  0  0  0  0
+M  END
+> <ID>
+9572
+
+> <Formula>
+C8H14N3O6P
+
+> <FW>
+279.187
+
+> <DSSTox_CID>
+23734
+
+> <DSSTox_RID>
+80069
+
+> <DSSTox_GSID>
+43734
+
+> <DSSTox_FileID_Sort>
+4751
+
+> <TS_ChemName>
+Cidofovir
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+113852-37-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14N3O6P
+
+> <STRUCTURE_MW>
+279.187
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+({[(2S)-1-(4-amino-2-oxopyrimidin-1(2H)-yl)-3-hydroxypropan-2-yl]oxy}methyl)phosphonic acid
+
+> <STRUCTURE_SMILES>
+O=P(O)(O)CO[C@@H](CN1C=CC(N)=NC1=O)CO
+
+> <STRUCTURE_SMILES_Desalt>
+O=P(O)(O)CO[C@@H](CN1C=CC(N)=NC1=O)CO
+
+> <Substance_modify_yyyymmdd>
+20081229
+
+$$$$

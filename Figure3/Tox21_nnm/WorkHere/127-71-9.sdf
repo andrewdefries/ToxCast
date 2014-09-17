@@ -1,0 +1,111 @@
+127-71-9
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    9.2729   -3.8112    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1230   -3.1528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9639   -3.8112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8141   -3.1528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8141   -1.8082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9639   -1.1591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1230   -1.8082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6643   -1.1591    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5051   -0.5007    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3134    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9873   -2.3089    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6613   -2.3089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9844   -1.1591    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9844   -3.4588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6613   -4.6179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9844   -5.7677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6769   -5.7677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6769   -3.4588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+10853
+
+> <Formula>
+C13H12N2O3S
+
+> <FW>
+276.311
+
+> <DSSTox_CID>
+25287
+
+> <DSSTox_RID>
+80783
+
+> <DSSTox_GSID>
+45287
+
+> <DSSTox_FileID_Sort>
+5464
+
+> <TS_ChemName>
+Sulfabenzamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+127-71-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H12N2O3S
+
+> <STRUCTURE_MW>
+276.311
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-[(4-aminophenyl)sulfonyl]benzamide
+
+> <STRUCTURE_SMILES>
+Nc1ccc(cc1)S(=O)(=O)NC(=O)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1)S(=O)(=O)NC(=O)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

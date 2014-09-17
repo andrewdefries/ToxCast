@@ -1,0 +1,101 @@
+1852-04-6
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    1.1585   -1.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3032   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4618   -1.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6065   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7650   -1.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8959   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0269   -1.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1854   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3301   -1.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4886   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6334   -1.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1585    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9860    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6334    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7919   -1.9860    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  1 12  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 14  2  0  0  0  0
+M  END
+> <ID>
+10509
+
+> <Formula>
+C11H20O4
+
+> <FW>
+216.2741
+
+> <DSSTox_CID>
+24862
+
+> <DSSTox_RID>
+80539
+
+> <DSSTox_GSID>
+44862
+
+> <DSSTox_FileID_Sort>
+5221
+
+> <TS_ChemName>
+Undecanedioic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1852-04-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H20O4
+
+> <STRUCTURE_MW>
+216.2741
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+undecanedioic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCCCCCCCCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCCCCCCCCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

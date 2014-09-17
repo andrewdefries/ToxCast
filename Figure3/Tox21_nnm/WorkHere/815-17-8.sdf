@@ -1,0 +1,89 @@
+815-17-8
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1541   -1.3289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083   -2.0048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440   -1.3289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5982   -0.6759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0048    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7865   -0.1793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1154   -2.4830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083   -3.3337    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+M  END
+> <ID>
+5071
+
+> <Formula>
+C6H10O3
+
+> <FW>
+130.1418
+
+> <DSSTox_CID>
+7314
+
+> <DSSTox_RID>
+78403
+
+> <DSSTox_GSID>
+27314
+
+> <DSSTox_FileID_Sort>
+3086
+
+> <TS_ChemName>
+Butanoic acid, 3,3-dimethyl-2-oxo-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+815-17-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10O3
+
+> <STRUCTURE_MW>
+130.1418
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3-dimethyl-2-oxobutanoic acid
+
+> <STRUCTURE_SMILES>
+CC(C)(C)C(=O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)C(=O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

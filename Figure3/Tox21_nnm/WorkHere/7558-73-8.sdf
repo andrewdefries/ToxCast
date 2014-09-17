@@ -1,0 +1,110 @@
+7558-73-8
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    2.3036   -2.0007    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5701   -2.4137    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3594   -1.3216    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5701   -0.2478    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -0.6700    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1564    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6700    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0007    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1564   -2.6524    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9739   -3.6803    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2864   -3.9556    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6902   -5.2129    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8091   -6.1950    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2038   -7.4615    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3227   -8.4527    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9842   -5.4883    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8837   -4.4971    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1777   -4.7816    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8558   -8.0672    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+13886
+
+> <Formula>
+C16H25ClN2
+
+> <FW>
+280.8361 (244.3752+36.4609)
+
+> <DSSTox_CID>
+28823
+
+> <DSSTox_RID>
+83092
+
+> <DSSTox_GSID>
+48897
+
+> <DSSTox_FileID_Sort>
+7769
+
+> <TS_ChemName>
+N,N-Dipropyltryptamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7558-73-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H25ClN2
+
+> <STRUCTURE_MW>
+280.8361
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-[2-(1H-indol-3-yl)ethyl]-N-propylpropan-1-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CCCN(CCC)CCc2cnc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+CCCN(CCC)CCc2cnc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

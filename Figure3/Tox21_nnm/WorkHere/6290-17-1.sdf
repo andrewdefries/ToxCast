@@ -1,0 +1,98 @@
+6290-17-1
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    5.3958   -0.9771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4697   -0.1937    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7919   -2.2446    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5348   -0.9771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1211   -2.2446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8023   -0.5633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4804    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4452   -1.9101    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1688   -1.5668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2270   -2.5175    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9418   -2.1654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8343   -0.2905    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+12672
+
+> <Formula>
+C9H16O4
+
+> <FW>
+188.2209
+
+> <DSSTox_CID>
+27549
+
+> <DSSTox_RID>
+82412
+
+> <DSSTox_GSID>
+47549
+
+> <DSSTox_FileID_Sort>
+7093
+
+> <TS_ChemName>
+Ethyl 2,4-dimethyl-1,3-dioxolane-2-acetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6290-17-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H16O4
+
+> <STRUCTURE_MW>
+188.2209
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl (2,4-dimethyl-1,3-dioxolan-2-yl)acetate
+
+> <STRUCTURE_SMILES>
+O=C(OCC)CC1(C)OCC(C)O1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)CC1(C)OCC(C)O1
+
+> <Substance_modify_yyyymmdd>
+20100929
+
+$$$$

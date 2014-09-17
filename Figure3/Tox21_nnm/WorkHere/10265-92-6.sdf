@@ -1,0 +1,85 @@
+10265-92-6
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.9962   -1.3252    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6710   -1.3252    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3381   -1.3252    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -2.6538    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1479   -3.3114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+3548
+
+> <Formula>
+C2H8NO2PS
+
+> <FW>
+141.1292
+
+> <DSSTox_CID>
+4177
+
+> <DSSTox_RID>
+77318
+
+> <DSSTox_GSID>
+24177
+
+> <DSSTox_FileID_Sort>
+2001
+
+> <TS_ChemName>
+Methamidophos
+
+> <TS_ChemName_Synonyms>
+Methamidophos (Tamaron)
+
+> <TS_CASRN>
+10265-92-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H8NO2PS
+
+> <STRUCTURE_MW>
+141.1292
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O,S-dimethyl phosphoramidothioate
+
+> <STRUCTURE_SMILES>
+NP(=O)(OC)SC
+
+> <STRUCTURE_SMILES_Desalt>
+NP(=O)(OC)SC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

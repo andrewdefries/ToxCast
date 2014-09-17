@@ -1,0 +1,98 @@
+96-98-0
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  2 V2000
+    1.1547    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3025   -0.6569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3025   -1.9845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4572   -2.6552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6119   -1.9845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6119   -0.6569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4572    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7597   -2.6552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9145   -1.9845    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7597   -3.9827    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1547   -2.6552    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9845    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1547   -3.9827    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <ID>
+4318
+
+> <Formula>
+C8H7NO4
+
+> <FW>
+181.1455
+
+> <DSSTox_CID>
+5642
+
+> <DSSTox_RID>
+77867
+
+> <DSSTox_GSID>
+25642
+
+> <DSSTox_FileID_Sort>
+2550
+
+> <TS_ChemName>
+4-Methyl-3-nitrobenzoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+96-98-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H7NO4
+
+> <STRUCTURE_MW>
+181.1455
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methyl-3-nitrobenzoic acid
+
+> <STRUCTURE_SMILES>
+Cc1ccc(cc1[N+](=O)[O-])C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1[N+](=O)[O-])C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

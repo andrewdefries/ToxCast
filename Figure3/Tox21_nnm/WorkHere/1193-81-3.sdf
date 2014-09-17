@@ -1,0 +1,90 @@
+1193-81-3
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    3.4472   -1.3347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6024   -1.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4472    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3104   -1.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3104   -3.3229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1552   -3.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1552   -1.3347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+12764
+
+> <Formula>
+C8H16O
+
+> <FW>
+128.212
+
+> <DSSTox_CID>
+27643
+
+> <DSSTox_RID>
+82470
+
+> <DSSTox_GSID>
+47643
+
+> <DSSTox_FileID_Sort>
+7151
+
+> <TS_ChemName>
+1-Cyclohexylethanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1193-81-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H16O
+
+> <STRUCTURE_MW>
+128.212
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-cyclohexylethanol
+
+> <STRUCTURE_SMILES>
+CC(O)C1CCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)C1CCCCC1
+
+> <Substance_modify_yyyymmdd>
+20101214
+
+$$$$

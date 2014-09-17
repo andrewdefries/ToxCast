@@ -1,0 +1,95 @@
+1118-92-9
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    2.2553   -1.2814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4136   -1.9887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5413   -1.2814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6689   -1.9887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8375   -1.2814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9651   -1.9887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0928   -1.2814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2512   -1.9887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2553    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1276   -1.9887    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1276   -3.2701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1  9  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+5112
+
+> <Formula>
+C10H21NO
+
+> <FW>
+171.2798
+
+> <DSSTox_CID>
+7364
+
+> <DSSTox_RID>
+78425
+
+> <DSSTox_GSID>
+27364
+
+> <DSSTox_FileID_Sort>
+3108
+
+> <TS_ChemName>
+N,N-Dimethyloctanamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1118-92-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H21NO
+
+> <STRUCTURE_MW>
+171.2798
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-dimethyloctanamide
+
+> <STRUCTURE_SMILES>
+CN(C)C(=O)CCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)C(=O)CCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

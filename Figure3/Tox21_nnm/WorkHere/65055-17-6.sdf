@@ -1,0 +1,94 @@
+65055-17-6
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    0.6621   -2.3029    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6598   -3.4543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920   -2.3029    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920   -4.6058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6621   -4.6058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6598   -1.1514    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6598   -5.7572    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9898   -1.1514    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7572    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  2  0  0  0  0
+M  END
+> <ID>
+14208
+
+> <Formula>
+C7H3Cl2FO
+
+> <FW>
+193.0025
+
+> <DSSTox_CID>
+29301
+
+> <DSSTox_RID>
+83419
+
+> <DSSTox_GSID>
+49344
+
+> <DSSTox_FileID_Sort>
+8094
+
+> <TS_ChemName>
+3-Chloro-4-fluorobenzoyl chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+65055-17-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H3Cl2FO
+
+> <STRUCTURE_MW>
+193.0025
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-chloro-4-fluorobenzoyl chloride
+
+> <STRUCTURE_SMILES>
+Fc1ccc(cc1Cl)C(Cl)=O
+
+> <STRUCTURE_SMILES_Desalt>
+Fc1ccc(cc1Cl)C(Cl)=O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

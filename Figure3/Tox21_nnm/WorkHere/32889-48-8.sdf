@@ -1,0 +1,107 @@
+32889-48-8
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    3.9825   -4.8059    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3316   -5.9355    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0008   -5.9355    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307   -4.8059    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0008   -3.6379    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3316   -3.6379    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9825   -7.0748    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9825   -2.4987    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3316   -1.3403    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1732   -0.6701    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3316    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.8059    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4708   -8.9033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3316   -8.2331    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1732   -7.5726    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6387   -9.5734    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6614   -9.4011    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  3  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+M  END
+> <ID>
+6926
+
+> <Formula>
+C10H13ClN6
+
+> <FW>
+252.7034
+
+> <DSSTox_CID>
+14844
+
+> <DSSTox_RID>
+79209
+
+> <DSSTox_GSID>
+34844
+
+> <DSSTox_FileID_Sort>
+3891
+
+> <TS_ChemName>
+Procyazine
+
+> <TS_ChemName_Synonyms>
+Procyazine (Procyanazine)
+
+> <TS_CASRN>
+32889-48-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13ClN6
+
+> <STRUCTURE_MW>
+252.7034
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-{[4-chloro-6-(cyclopropylamino)-1,3,5-triazin-2-yl]amino}-2-methylpropanenitrile
+
+> <STRUCTURE_SMILES>
+Clc2nc(NC1CC1)nc(NC(C)(C)C#N)n2
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2nc(NC1CC1)nc(NC(C)(C)C#N)n2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

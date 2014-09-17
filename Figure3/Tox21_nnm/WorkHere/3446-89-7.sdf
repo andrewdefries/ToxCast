@@ -1,0 +1,92 @@
+3446-89-7
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.9737   -1.1562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6449   -2.3058    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6448   -1.1562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9869   -2.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9869    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6579   -2.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9868   -1.1562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6578   -1.1562    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+6594
+
+> <Formula>
+C8H8OS
+
+> <FW>
+152.2135
+
+> <DSSTox_CID>
+13047
+
+> <DSSTox_RID>
+79047
+
+> <DSSTox_GSID>
+33047
+
+> <DSSTox_FileID_Sort>
+3729
+
+> <TS_ChemName>
+4-(Methylthio)benzaldehyde
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3446-89-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8OS
+
+> <STRUCTURE_MW>
+152.2135
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(methylsulfanyl)benzaldehyde
+
+> <STRUCTURE_SMILES>
+CSc1ccc(C=O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CSc1ccc(C=O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

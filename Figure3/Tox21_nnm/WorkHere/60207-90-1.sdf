@@ -1,0 +1,118 @@
+60207-90-1
+ChemmineR-0915142007XD
+
+ 22 24  0  0  0  0  0  0  0  0  1 V2000
+    5.4149   -4.4296    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0658   -5.5686    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0658   -3.2634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6375   -3.3448    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6104   -5.5053    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3947   -5.5686    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4059   -6.7257    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4059   -2.1153    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3719   -3.7516    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3719   -5.0895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0546   -6.7257    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0546   -4.4024    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0658   -7.8738    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9212   -0.8859    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0861   -1.9707    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3052   -2.9651    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3947   -7.8738    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9539    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7968   -0.6870    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0667   -3.4985    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0817   -9.0399    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7120    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 17  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 19  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 22  1  0  0  0  0
+M  END
+> <ID>
+3599
+
+> <Formula>
+C15H17Cl2N3O2
+
+> <FW>
+342.2204
+
+> <DSSTox_CID>
+4280
+
+> <DSSTox_RID>
+77353
+
+> <DSSTox_GSID>
+24280
+
+> <DSSTox_FileID_Sort>
+2036
+
+> <TS_ChemName>
+Propiconazole
+
+> <TS_ChemName_Synonyms>
+Propiconazole (ppz)
+
+> <TS_CASRN>
+60207-90-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture of stereoisomers; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H17Cl2N3O2
+
+> <STRUCTURE_MW>
+342.2204
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-{[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl}-1H-1,2,4-triazole
+
+> <STRUCTURE_SMILES>
+Clc1ccc(c(Cl)c1)C3(Cn2ncnc2)OCC(CCC)O3
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(c(Cl)c1)C3(Cn2ncnc2)OCC(CCC)O3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

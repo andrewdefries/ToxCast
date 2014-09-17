@@ -1,0 +1,87 @@
+100-36-7
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.6655   -3.4534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9966   -3.4534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6575   -2.3038    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9886   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6541   -1.1496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9966   -1.1496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655   -1.1496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+16012
+
+> <Formula>
+C6H16N2
+
+> <FW>
+116.2046
+
+> <DSSTox_CID>
+31395
+
+> <DSSTox_RID>
+97281
+
+> <DSSTox_GSID>
+57606
+
+> <DSSTox_FileID_Sort>
+8348
+
+> <TS_ChemName>
+2-Aminoethyldiethylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+100-36-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H16N2
+
+> <STRUCTURE_MW>
+116.2046
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-diethylethane-1,2-diamine
+
+> <STRUCTURE_SMILES>
+CCN(CC)CCN
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)CCN
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

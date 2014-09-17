@@ -1,0 +1,118 @@
+32887-01-7
+ChemmineR-0915142007XD
+
+ 22 24  0  0  1  0  0  0  0  0  1 V2000
+   10.2546   -4.7649    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5992   -3.4816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8826   -3.1370    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6130   -2.5904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3059   -2.8637    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1533   -3.5291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8087   -4.8124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4879   -2.3765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2046   -2.0319    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2658   -2.9706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9825   -2.6260    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1151   -3.6123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7842   -3.6123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.5191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3446   -1.2358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5804   -0.6773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7211   -1.3427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6405   -1.7111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5317   -0.7248    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7437   -1.2596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1596    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0508   -1.5447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  4  2  1  6  0  0  0
+  4  5  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  8 18  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  1  1  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+M  END
+> <ID>
+2341
+
+> <Formula>
+C15H23N3O3S
+
+> <FW>
+325.4264
+
+> <DSSTox_CID>
+2584
+
+> <DSSTox_RID>
+76643
+
+> <DSSTox_GSID>
+22584
+
+> <DSSTox_FileID_Sort>
+1327
+
+> <TS_ChemName>
+Amdinocillin
+
+> <TS_ChemName_Synonyms>
+Amdinocillin (mecillinam)
+
+> <TS_CASRN>
+32887-01-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H23N3O3S
+
+> <STRUCTURE_MW>
+325.4264
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2S,5R,6R)-6-[(E)-(azepan-1-ylmethylidene)amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)[C@@H]2N3C(=O)[C@@H](/N=C/N1CCCCCC1)[C@H]3SC2(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)[C@@H]2N3C(=O)[C@@H](/N=C/N1CCCCCC1)[C@H]3SC2(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

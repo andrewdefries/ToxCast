@@ -1,0 +1,114 @@
+61129-30-4
+ChemmineR-0915142007XD
+
+ 22 20  0  0  0  0  0  0  0  0  1 V2000
+    4.2275   -1.4307    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9007   -2.7321    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4515    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3118   -0.6709    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1559    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3118   -2.0046    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4515   -2.6836    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4515   -4.0173    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6317   -4.6721    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7714   -4.0173    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9273   -4.6721    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9273   -6.0058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0832   -6.6686    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7714   -6.6686    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6317   -6.0058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3118   -4.6721    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3118   -6.0058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1559   -6.6686    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.0058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6721    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1559   -4.0173    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8083   -3.4515    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+M  END
+> <ID>
+11220
+
+> <Formula>
+C16H21BrCl2N2O
+
+> <FW>
+408.1607 (36.4609+36.4609+317.2236+18.0153)
+
+> <DSSTox_CID>
+25815
+
+> <DSSTox_RID>
+81152
+
+> <DSSTox_GSID>
+45815
+
+> <DSSTox_FileID_Sort>
+5833
+
+> <TS_ChemName>
+Zimeldine dihydrochloride hydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+61129-30-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [56775-88-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H21BrCl2N2O
+
+> <STRUCTURE_MW>
+408.1607
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(2Z)-3-(4-bromophenyl)-N,N-dimethyl-3-(pyridin-3-yl)prop-2-en-1-amine dihydrochloride hydrate
+
+> <STRUCTURE_SMILES>
+Cl.Cl.O.Brc1ccc(cc1)C(=C\CN(C)C)\c2cccnc2
+
+> <STRUCTURE_SMILES_Desalt>
+Brc1ccc(cc1)C(=C\CN(C)C)\c2cccnc2
+
+> <Substance_modify_yyyymmdd>
+20120519
+
+$$$$

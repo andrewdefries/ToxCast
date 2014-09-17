@@ -1,0 +1,90 @@
+622-96-8
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    3.9905   -1.1529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3155   -2.3059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9833   -2.3059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3322   -1.1529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9833    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3155    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3167   -1.1529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9738    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+5847
+
+> <Formula>
+C9H12
+
+> <FW>
+120.1916
+
+> <DSSTox_CID>
+9194
+
+> <DSSTox_RID>
+78704
+
+> <DSSTox_GSID>
+29194
+
+> <DSSTox_FileID_Sort>
+3386
+
+> <TS_ChemName>
+4-Ethyltoluene
+
+> <TS_ChemName_Synonyms>
+4-Ethyltoluene (p-Ethyltoluene) (Benzene, 1-ethyl-4-methyl-)
+
+> <TS_CASRN>
+622-96-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12
+
+> <STRUCTURE_MW>
+120.1916
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-ethyl-4-methylbenzene
+
+> <STRUCTURE_SMILES>
+Cc1ccc(CC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(CC)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

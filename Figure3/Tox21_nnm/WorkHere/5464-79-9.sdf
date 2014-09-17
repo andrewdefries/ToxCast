@@ -1,0 +1,97 @@
+5464-79-9
+ChemmineR-0915142007XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    1.3295   -3.4554    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9942   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3295   -1.1518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9942    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3237    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9885   -1.1518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2917   -1.4282    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4299   -2.7511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5817   -3.4159    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2123   -3.2908    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3237   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+3705
+
+> <Formula>
+C8H8N2OS
+
+> <FW>
+180.2269
+
+> <DSSTox_CID>
+4484
+
+> <DSSTox_RID>
+77421
+
+> <DSSTox_GSID>
+24484
+
+> <DSSTox_FileID_Sort>
+2104
+
+> <TS_ChemName>
+2-Amino-4-methoxybenzothiazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5464-79-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8N2OS
+
+> <STRUCTURE_MW>
+180.2269
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methoxy-1,3-benzothiazol-2-amine
+
+> <STRUCTURE_SMILES>
+COc1cccc2sc(N)nc12
+
+> <STRUCTURE_SMILES_Desalt>
+COc1cccc2sc(N)nc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

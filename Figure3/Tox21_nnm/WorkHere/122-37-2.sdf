@@ -1,0 +1,101 @@
+122-37-2
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    2.6596   -4.6019    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9906   -3.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6609   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9906   -5.7543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6609   -3.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6596   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9906   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6596   -6.9068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6609   -5.7543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9906   -8.0593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.9068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6609   -8.0593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4 10  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+7421
+
+> <Formula>
+C12H11NO
+
+> <FW>
+185.2218
+
+> <DSSTox_CID>
+17739
+
+> <DSSTox_RID>
+79369
+
+> <DSSTox_GSID>
+37739
+
+> <DSSTox_FileID_Sort>
+4051
+
+> <TS_ChemName>
+4-Anilinophenol
+
+> <TS_ChemName_Synonyms>
+4-Anilinophenol (phenol,4-(phenylamino)-)
+
+> <TS_CASRN>
+122-37-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H11NO
+
+> <STRUCTURE_MW>
+185.2218
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(phenylamino)phenol
+
+> <STRUCTURE_SMILES>
+Oc2ccc(Nc1ccccc1)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccc(Nc1ccccc1)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

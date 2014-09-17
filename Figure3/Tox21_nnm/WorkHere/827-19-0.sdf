@@ -1,0 +1,97 @@
+827-19-0
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  2 V2000
+    2.7239   -2.6600    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8783   -3.3197    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8783   -4.6497    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7239   -5.3200    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5694   -4.6497    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5694   -3.3197    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7239   -1.3300    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0539   -1.3300    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3938   -1.3300    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.7239    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4150   -2.6600    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0168   -5.3200    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.9150    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <ID>
+10232
+
+> <Formula>
+C8H9NaO3S
+
+> <FW>
+208.2100 (185.2208+22.9892)
+
+> <DSSTox_CID>
+24578
+
+> <DSSTox_RID>
+80327
+
+> <DSSTox_GSID>
+44578
+
+> <DSSTox_FileID_Sort>
+5009
+
+> <TS_ChemName>
+Sodium 2,5-dimethylbenzenesulfonate
+
+> <TS_ChemName_Synonyms>
+Sodium 2,5-dimethylbenzenesulfonate (Benzenesulfonic acid, 2,5-dimethyl-, sodium salt)
+
+> <TS_CASRN>
+827-19-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [609-54-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9NaO3S
+
+> <STRUCTURE_MW>
+208.21
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 2,5-dimethylbenzenesulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].Cc1ccc(C)cc1S(=O)([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(C)cc1S(O)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,87 @@
+4300-97-4
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    2.4876   -3.9929    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -3.3341    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -2.0045    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -0.6748    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1917   -3.9929    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4876    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0045    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6633   -2.0045    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+M  END
+> <ID>
+5254
+
+> <Formula>
+C5H8Cl2O
+
+> <FW>
+155.0224
+
+> <DSSTox_CID>
+7567
+
+> <DSSTox_RID>
+78507
+
+> <DSSTox_GSID>
+27567
+
+> <DSSTox_FileID_Sort>
+3190
+
+> <TS_ChemName>
+3-Chloro-2,2-dimethylpropanoyl chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4300-97-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8Cl2O
+
+> <STRUCTURE_MW>
+155.0224
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-chloro-2,2-dimethylpropanoyl chloride
+
+> <STRUCTURE_SMILES>
+CC(C)(CCl)C(Cl)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(CCl)C(Cl)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

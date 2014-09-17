@@ -1,0 +1,96 @@
+118-88-7
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.3072   -2.6580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4608   -3.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4608   -4.6462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -5.3161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -4.6462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -3.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -1.3290    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6362   -1.3290    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9782   -1.3290    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6090   -5.3161    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <ID>
+10177
+
+> <Formula>
+C7H9NO3S
+
+> <FW>
+187.2163
+
+> <DSSTox_CID>
+24523
+
+> <DSSTox_RID>
+80290
+
+> <DSSTox_GSID>
+44523
+
+> <DSSTox_FileID_Sort>
+4972
+
+> <TS_ChemName>
+5-Amino-2-methylbenzenesulfonic acid
+
+> <TS_ChemName_Synonyms>
+5-Amino-2-methylbenzenesulfonic acid (Benzenesulfonic acid, 5-amino-2-methyl-)
+
+> <TS_CASRN>
+118-88-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H9NO3S
+
+> <STRUCTURE_MW>
+187.2163
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-amino-2-methylbenzenesulfonic acid
+
+> <STRUCTURE_SMILES>
+Cc1ccc(N)cc1S(O)(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(N)cc1S(O)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

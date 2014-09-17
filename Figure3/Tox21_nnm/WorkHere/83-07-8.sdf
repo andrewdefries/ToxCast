@@ -1,0 +1,103 @@
+83-07-8
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    4.8267   -3.5044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0912   -3.0998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8773   -1.3440    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0319   -2.4350    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0912   -1.7775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4149   -4.7978    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7313   -2.4350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2256   -3.6634    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5088    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1172   -1.0911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0449   -3.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0159   -1.2645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6864   -1.2645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6720   -3.5695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+13849
+
+> <Formula>
+C11H13N3O
+
+> <FW>
+203.2404
+
+> <DSSTox_CID>
+28786
+
+> <DSSTox_RID>
+83055
+
+> <DSSTox_GSID>
+48860
+
+> <DSSTox_FileID_Sort>
+7732
+
+> <TS_ChemName>
+Ampyrone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+83-07-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H13N3O
+
+> <STRUCTURE_MW>
+203.2404
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-1,5-dimethyl-2-phenyl-1,2-dihydro-3H-pyrazol-3-one
+
+> <STRUCTURE_SMILES>
+O=C2C(N)=C(C)N(C)N2c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2C(N)=C(C)N(C)N2c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

@@ -1,0 +1,98 @@
+40876-98-0
+ChemmineR-0915142007XD
+
+ 14 12  0  0  0  0  0  0  0  0  2 V2000
+    3.0310   -3.5897    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    3.4552   -1.2931    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6345   -1.9862    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7414   -1.2931    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9207   -1.9862    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3276   -1.9862    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9207   -3.2793    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0483   -1.2931    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6345   -3.2793    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.1586   -1.2931    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9862    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2173   -1.9862    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3449   -1.2931    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+5583
+
+> <Formula>
+C8H13NaO5
+
+> <FW>
+212.1756 (22.9892+189.1864)
+
+> <DSSTox_CID>
+8010
+
+> <DSSTox_RID>
+78638
+
+> <DSSTox_GSID>
+28010
+
+> <DSSTox_FileID_Sort>
+3320
+
+> <TS_ChemName>
+Sodium malate
+
+> <TS_ChemName_Synonyms>
+Sodium malate (Butanedioic acid, oxo-, diethyl ester, ion(1-), sodium)
+
+> <TS_CASRN>
+40876-98-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H13NaO5
+
+> <STRUCTURE_MW>
+212.1756
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 1,4-diethoxy-1,4-dioxobutan-2-olate
+
+> <STRUCTURE_SMILES>
+[Na+].O=C(OCC)C([O-])CC(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+OC(CC(=O)OCC)C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

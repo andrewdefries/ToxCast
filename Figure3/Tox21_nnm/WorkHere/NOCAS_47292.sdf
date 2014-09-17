@@ -1,0 +1,104 @@
+NOCAS_47292
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    2.0061   -2.6605    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6605   -3.8129    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8465   -2.0061    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1585   -2.0061    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3303   -3.8129    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9908   -3.8129    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8465   -0.6758    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1585   -0.6758    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.8129    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7733   -4.8871    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7733   -2.7388    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0061    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0253   -4.4745    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0253   -3.1442    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1137   -5.2570    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5366   -5.0294    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+12434
+
+> <Formula>
+C10H18ClN3O2
+
+> <FW>
+247.7218 (211.2609+36.4609)
+
+> <DSSTox_CID>
+27292
+
+> <DSSTox_RID>
+82246
+
+> <DSSTox_GSID>
+47292
+
+> <DSSTox_FileID_Sort>
+6927
+
+> <TS_ChemName>
+PharmaCode_0200347
+
+> <TS_ChemName_Synonyms>
+3-{[1-(aminomethyl)cyclohexyl]methyl}-1,2,4-oxadiazol-5(4H)-one hydrochloride
+
+> <TS_CASRN>
+NOCAS_47292
+
+> <CASRN_ChemName_Relationship>
+no CAS assigned
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18ClN3O2
+
+> <STRUCTURE_MW>
+247.7218
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+3-{[1-(aminomethyl)cyclohexyl]methyl}-1,2,4-oxadiazol-5(4H)-one hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.NCC1(CCCCC1)CC=2NC(=O)ON=2
+
+> <STRUCTURE_SMILES_Desalt>
+NCC1(CCCCC1)CC=2NC(=O)ON=2
+
+> <Substance_modify_yyyymmdd>
+20130910
+
+$$$$

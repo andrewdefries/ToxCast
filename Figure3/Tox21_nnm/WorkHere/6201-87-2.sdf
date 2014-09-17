@@ -1,0 +1,102 @@
+6201-87-2
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -1.9948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -3.3247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -3.9896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4576   -3.3247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -3.9896    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4576   -1.9948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -1.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -1.3299    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7583   -1.9948    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -5.3194    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -6.6493    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9708   -5.3194    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6305   -5.3194    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  2  0  0  0  0
+M  END
+> <ID>
+3723
+
+> <Formula>
+C7H7NO6S
+
+> <FW>
+233.1986
+
+> <DSSTox_CID>
+4507
+
+> <DSSTox_RID>
+77436
+
+> <DSSTox_GSID>
+24507
+
+> <DSSTox_FileID_Sort>
+2119
+
+> <TS_ChemName>
+5-Amino-3-sulfosalicylic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6201-87-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7NO6S
+
+> <STRUCTURE_MW>
+233.1986
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-amino-2-hydroxy-3-sulfobenzoic acid
+
+> <STRUCTURE_SMILES>
+Oc1c(cc(N)cc1S(O)(=O)=O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1c(cc(N)cc1S(O)(=O)=O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

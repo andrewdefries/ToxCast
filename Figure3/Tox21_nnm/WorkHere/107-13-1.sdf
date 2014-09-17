@@ -1,0 +1,79 @@
+107-13-1
+ChemmineR-0915142007XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6652   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3260   -1.1508    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  3  0  0  0  0
+M  END
+> <ID>
+29
+
+> <Formula>
+C3H3N
+
+> <FW>
+53.0626
+
+> <DSSTox_CID>
+29
+
+> <DSSTox_RID>
+75329
+
+> <DSSTox_GSID>
+20029
+
+> <DSSTox_FileID_Sort>
+13
+
+> <TS_ChemName>
+Acrylonitrile
+
+> <TS_ChemName_Synonyms>
+2-Propenenitrile
+
+> <TS_CASRN>
+107-13-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H3N
+
+> <STRUCTURE_MW>
+53.0626
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+prop-2-enenitrile
+
+> <STRUCTURE_SMILES>
+C=CC#N
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

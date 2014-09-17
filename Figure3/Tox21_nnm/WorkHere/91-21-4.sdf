@@ -1,0 +1,93 @@
+91-21-4
+ChemmineR-0915142007XD
+
+ 10 11  0  0  0  0  0  0  0  0  1 V2000
+    4.6078   -1.9952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6078   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -1.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -2.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558   -2.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+4549
+
+> <Formula>
+C9H11N
+
+> <FW>
+133.1903
+
+> <DSSTox_CID>
+6115
+
+> <DSSTox_RID>
+78022
+
+> <DSSTox_GSID>
+26115
+
+> <DSSTox_FileID_Sort>
+2705
+
+> <TS_ChemName>
+1,2,3,4-Tetrahydroisoquinoline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+91-21-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11N
+
+> <STRUCTURE_MW>
+133.1903
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2,3,4-tetrahydroisoquinoline
+
+> <STRUCTURE_SMILES>
+c1ccc2CCNCc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccc2CCNCc2c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

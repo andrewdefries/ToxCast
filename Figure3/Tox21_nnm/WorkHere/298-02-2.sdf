@@ -1,0 +1,97 @@
+298-02-2
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    4.6591   -1.1561    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9836   -2.3052    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3138    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6604   -2.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8083   -1.8107    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5031   -0.4805    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9988   -3.4404    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6755   -3.4404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3539   -1.1561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8083   -3.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.5965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9643   -3.8095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1979   -0.4805    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+6465
+
+> <Formula>
+C7H17O2PS3
+
+> <FW>
+260.3774
+
+> <DSSTox_CID>
+12459
+
+> <DSSTox_RID>
+78949
+
+> <DSSTox_GSID>
+32459
+
+> <DSSTox_FileID_Sort>
+3631
+
+> <TS_ChemName>
+Phorate
+
+> <TS_ChemName_Synonyms>
+BAS 225 I
+
+> <TS_CASRN>
+298-02-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H17O2PS3
+
+> <STRUCTURE_MW>
+260.3774
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O,O-diethyl S-[(ethylsulfanyl)methyl] phosphorodithioate
+
+> <STRUCTURE_SMILES>
+CCSCSP(=S)(OCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCSCSP(=S)(OCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

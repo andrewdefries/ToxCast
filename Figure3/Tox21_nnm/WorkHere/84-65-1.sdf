@@ -1,0 +1,106 @@
+84-65-1
+ChemmineR-0915142007XD
+
+ 16 18  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -4.6544    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -3.9895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3006   -4.6544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4576   -3.9895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6079   -4.6544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6079   -5.9842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4576   -6.6491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3006   -5.9842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4576   -2.6597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6079   -1.9947    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3006   -1.9947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -2.6597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3006   -0.6649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+93
+
+> <Formula>
+C14H8O2
+
+> <FW>
+208.2121
+
+> <DSSTox_CID>
+95
+
+> <DSSTox_RID>
+75364
+
+> <DSSTox_GSID>
+20095
+
+> <DSSTox_FileID_Sort>
+48
+
+> <TS_ChemName>
+Anthraquinone
+
+> <TS_ChemName_Synonyms>
+9,10-Anthraquinone
+
+> <TS_CASRN>
+84-65-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H8O2
+
+> <STRUCTURE_MW>
+208.2121
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+anthracene-9,10-dione
+
+> <STRUCTURE_SMILES>
+O=C2c1ccccc1C(=O)c3ccccc23
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2c1ccccc1C(=O)c3ccccc23
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

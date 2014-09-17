@@ -1,0 +1,90 @@
+3238-60-6
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    1.1453    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2907   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4648    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2907   -2.0202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6102   -0.6676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -0.0288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1453   -2.6706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+11997
+
+> <Formula>
+C8H17N
+
+> <FW>
+127.2273
+
+> <DSSTox_CID>
+26821
+
+> <DSSTox_RID>
+81933
+
+> <DSSTox_GSID>
+46821
+
+> <DSSTox_FileID_Sort>
+6614
+
+> <TS_ChemName>
+dl-Coniine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3238-60-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H17N
+
+> <STRUCTURE_MW>
+127.2273
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-propylpiperidine
+
+> <STRUCTURE_SMILES>
+CCCC1CCCCN1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC1CCCCN1
+
+> <Substance_modify_yyyymmdd>
+20110801
+
+$$$$

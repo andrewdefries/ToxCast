@@ -1,0 +1,105 @@
+50505-91-4
+ChemmineR-0915142007XD
+
+ 17 16  0  0  1  0  0  0  0  0  1 V2000
+    4.6095   -2.0020    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6095   -3.3340    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4632   -1.3320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4632   -3.9879    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3088   -2.0020    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3088   -3.3340    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -3.9879    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -1.3320    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7639   -1.3320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9183   -1.9859    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7639   -3.9879    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7639   -5.3199    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0727   -1.3320    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9183   -3.3179    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3179    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4147   -5.0131    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 14  1  1  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+13877
+
+> <Formula>
+C13H22ClNO2
+
+> <FW>
+259.7723 (223.3113+36.4609)
+
+> <DSSTox_CID>
+28814
+
+> <DSSTox_RID>
+83083
+
+> <DSSTox_GSID>
+48888
+
+> <DSSTox_FileID_Sort>
+7760
+
+> <TS_ChemName>
+(+)-2,5-Dimethoxy-4-ethylamphetamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+50505-91-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H22ClNO2
+
+> <STRUCTURE_MW>
+259.7723
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(2S)-1-(4-ethyl-2,5-dimethoxyphenyl)propan-2-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.COc1cc(CC)c(cc1C[C@H](C)N)OC
+
+> <STRUCTURE_SMILES_Desalt>
+COc1cc(CC)c(cc1C[C@H](C)N)OC
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

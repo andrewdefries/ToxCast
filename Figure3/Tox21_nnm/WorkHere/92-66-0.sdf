@@ -1,0 +1,99 @@
+92-66-0
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1562    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3316   -1.1562    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9935    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3251    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9869   -1.1562    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3251   -2.3044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9935   -2.3044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186   -1.1562    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9804    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3120    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9739   -1.1562    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3120   -2.3044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9804   -2.3044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+3782
+
+> <Formula>
+C12H9Br
+
+> <FW>
+233.1039
+
+> <DSSTox_CID>
+4640
+
+> <DSSTox_RID>
+77479
+
+> <DSSTox_GSID>
+24640
+
+> <DSSTox_FileID_Sort>
+2162
+
+> <TS_ChemName>
+4-Bromobiphenyl
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+92-66-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H9Br
+
+> <STRUCTURE_MW>
+233.1039
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-bromobiphenyl
+
+> <STRUCTURE_SMILES>
+Brc1ccc(cc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+Brc1ccc(cc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

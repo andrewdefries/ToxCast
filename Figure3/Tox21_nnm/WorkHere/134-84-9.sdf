@@ -1,0 +1,103 @@
+134-84-9
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    4.6019   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7544   -1.3298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9069   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9069   -3.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7544   -3.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6019   -3.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575   -1.3298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -3.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -3.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -1.3298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0594   -3.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+7422
+
+> <Formula>
+C14H12O
+
+> <FW>
+196.2445
+
+> <DSSTox_CID>
+17741
+
+> <DSSTox_RID>
+79370
+
+> <DSSTox_GSID>
+37741
+
+> <DSSTox_FileID_Sort>
+4052
+
+> <TS_ChemName>
+4-Methylbenzophenone
+
+> <TS_ChemName_Synonyms>
+4-Methylbenzophenone ((4-Methyphenyl)(phenyl)methanone)
+
+> <TS_CASRN>
+134-84-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H12O
+
+> <STRUCTURE_MW>
+196.2445
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(4-methylphenyl)(phenyl)methanone
+
+> <STRUCTURE_SMILES>
+Cc1ccc(cc1)C(=O)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)C(=O)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

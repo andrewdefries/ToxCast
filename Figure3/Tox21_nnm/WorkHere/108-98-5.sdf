@@ -1,0 +1,86 @@
+108-98-5
+ChemmineR-0915142007XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    1.1527   -1.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -2.0023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -3.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -3.9886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+4811
+
+> <Formula>
+C6H6S
+
+> <FW>
+110.1768
+
+> <DSSTox_CID>
+6811
+
+> <DSSTox_RID>
+78220
+
+> <DSSTox_GSID>
+26811
+
+> <DSSTox_FileID_Sort>
+2903
+
+> <TS_ChemName>
+Benzenethiol
+
+> <TS_ChemName_Synonyms>
+Benzenethiol (Thiophenol)
+
+> <TS_CASRN>
+108-98-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6S
+
+> <STRUCTURE_MW>
+110.1768
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzenethiol
+
+> <STRUCTURE_SMILES>
+Sc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Sc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

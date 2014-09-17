@@ -1,0 +1,109 @@
+15619-48-4
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  2 V2000
+    3.4536   -3.9903    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    4.6163   -4.6507    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6163   -5.9923    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2910   -4.6507    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7171   -3.9903    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7171   -6.6527    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4536   -6.6527    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2910   -5.9923    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8798   -5.9923    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8798   -4.6507    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4536   -2.6625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1627    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6261    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0020    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1283   -2.6625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2910   -2.0020    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2910   -0.6605    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6370   -1.9057    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  2  0  0  0  0
+  5 10  2  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+10247
+
+> <Formula>
+C16H14ClN
+
+> <FW>
+255.7421 (220.2885+35.4535)
+
+> <DSSTox_CID>
+24593
+
+> <DSSTox_RID>
+80338
+
+> <DSSTox_GSID>
+44593
+
+> <DSSTox_FileID_Sort>
+5020
+
+> <TS_ChemName>
+1-Benzylquinolinium chloride
+
+> <TS_ChemName_Synonyms>
+Quinolinium, 1-(phenylmethyl)-, chloride
+
+> <TS_CASRN>
+15619-48-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [27926-80-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H14ClN
+
+> <STRUCTURE_MW>
+255.7421
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+1-benzylquinolinium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].c2cccc3ccc[n+](Cc1ccccc1)c23
+
+> <STRUCTURE_SMILES_Desalt>
+c2cccc3ccc[n+](Cc1ccccc1)c23
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

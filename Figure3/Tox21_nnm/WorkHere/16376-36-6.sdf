@@ -1,0 +1,107 @@
+16376-36-6
+ChemmineR-0915142007XD
+
+ 17 18  0  0  1  0  0  0  0  0  1 V2000
+    6.7532   -2.3384    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9872   -3.4270    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9670   -1.2599    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7172   -3.0138    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7172   -1.6732    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4371   -3.4270    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4573   -1.2700    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3803    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0938   -2.3384    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.7389   -1.1793    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.7591   -3.4673    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   10.0795   -1.1591    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6711   -2.3384    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3406   -2.3384    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3384    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3506   -3.6790    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3506   -1.0382    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  1  0  0  0
+  1  3  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  1  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  6  0  0  0
+  5  7  1  6  0  0  0
+  6 13  1  0  0  0  0
+  7 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  1  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+M  END
+> <ID>
+11800
+
+> <Formula>
+C8H11Cl3O6
+
+> <FW>
+309.5283
+
+> <DSSTox_CID>
+26575
+
+> <DSSTox_RID>
+81734
+
+> <DSSTox_GSID>
+46575
+
+> <DSSTox_FileID_Sort>
+6415
+
+> <TS_ChemName>
+beta-Chloralose
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+16376-36-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H11Cl3O6
+
+> <STRUCTURE_MW>
+309.5283
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-O-[(1S)-2,2,2-trichloroethylidene]-alpha-D-glucofuranose
+
+> <STRUCTURE_SMILES>
+OC[C@@H](O)[C@H]1O[C@@H]2O[C@H](O[C@@H]2[C@H]1O)C(Cl)(Cl)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+OC[C@@H](O)[C@H]1O[C@@H]2O[C@H](O[C@@H]2[C@H]1O)C(Cl)(Cl)Cl
+
+> <Substance_modify_yyyymmdd>
+20110810
+
+$$$$

@@ -1,0 +1,90 @@
+21732-17-2
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    3.3870   -4.9590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9754   -3.6945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8681   -2.7076    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6762   -3.4168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2646   -2.1522    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0481   -1.0761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2646    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4116    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.7406    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+16088
+
+> <Formula>
+C3H4N4O2
+
+> <FW>
+128.0895
+
+> <DSSTox_CID>
+31475
+
+> <DSSTox_RID>
+97360
+
+> <DSSTox_GSID>
+57686
+
+> <DSSTox_FileID_Sort>
+8427
+
+> <TS_ChemName>
+1H-Tetrazol-1-acetic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+21732-17-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H4N4O2
+
+> <STRUCTURE_MW>
+128.0895
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1H-tetrazol-1-ylacetic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)Cn1cnnn1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)Cn1cnnn1
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

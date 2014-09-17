@@ -1,0 +1,95 @@
+3817-11-6
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    1.9982   -5.7596    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6620   -4.6118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9982   -3.4571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6620   -2.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9982   -1.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6620    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6620   -6.9143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9895   -6.9143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6602   -5.7596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9878   -5.7596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6638   -5.7596    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6118    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+206
+
+> <Formula>
+C8H18N2O2
+
+> <FW>
+174.2407
+
+> <DSSTox_CID>
+210
+
+> <DSSTox_RID>
+75435
+
+> <DSSTox_GSID>
+20210
+
+> <DSSTox_FileID_Sort>
+119
+
+> <TS_ChemName>
+Butyl-N-(4-hydroxybutyl)nitrosamine
+
+> <TS_ChemName_Synonyms>
+n-Butyl-N-(4-hydroxybutyl)nitrosamine
+
+> <TS_CASRN>
+3817-11-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18N2O2
+
+> <STRUCTURE_MW>
+174.2407
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-[butyl(nitroso)amino]butan-1-ol
+
+> <STRUCTURE_SMILES>
+O=NN(CCCC)CCCCO
+
+> <STRUCTURE_SMILES_Desalt>
+O=NN(CCCC)CCCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

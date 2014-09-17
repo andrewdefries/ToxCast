@@ -1,0 +1,96 @@
+119-10-8
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  2 V2000
+    1.1524   -3.9884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3047   -1.9823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3047   -3.3138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524   -5.3139    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9707    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4571   -3.9884    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.4571   -5.3139    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.6094   -3.3138    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+5815
+
+> <Formula>
+C8H9NO3
+
+> <FW>
+167.162
+
+> <DSSTox_CID>
+9152
+
+> <DSSTox_RID>
+78685
+
+> <DSSTox_GSID>
+29152
+
+> <DSSTox_FileID_Sort>
+3367
+
+> <TS_ChemName>
+1-Methoxy-4-methyl-2-nitrobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+119-10-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9NO3
+
+> <STRUCTURE_MW>
+167.162
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methoxy-4-methyl-2-nitrobenzene
+
+> <STRUCTURE_SMILES>
+COc1ccc(C)cc1[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(C)cc1[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

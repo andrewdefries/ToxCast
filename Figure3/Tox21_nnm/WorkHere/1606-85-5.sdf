@@ -1,0 +1,95 @@
+1606-85-5
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    1.3284    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9987   -1.1489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6396   -4.6077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9693   -3.4588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9680   -4.6077    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9827   -2.2979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6422   -2.2979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3138   -2.2979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9853   -2.2979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6409   -3.4588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3271   -1.1489    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  3  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+8864
+
+> <Formula>
+C8H14O4
+
+> <FW>
+174.1944
+
+> <DSSTox_CID>
+21918
+
+> <DSSTox_RID>
+79878
+
+> <DSSTox_GSID>
+41918
+
+> <DSSTox_FileID_Sort>
+4560
+
+> <TS_ChemName>
+1,4-Bis(2-hydroxyethoxy)-2-butyne
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1606-85-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14O4
+
+> <STRUCTURE_MW>
+174.1944
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-[but-2-yne-1,4-diylbis(oxy)]diethanol
+
+> <STRUCTURE_SMILES>
+OCCOCC#CCOCCO
+
+> <STRUCTURE_SMILES_Desalt>
+OCCOCC#CCOCCO
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

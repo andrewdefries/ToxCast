@@ -1,0 +1,109 @@
+112-69-6
+ChemmineR-0915142007XD
+
+ 19 18  0  0  0  0  0  0  0  0  1 V2000
+    2.2881    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4716   -0.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5959    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7794   -0.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9629    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0872   -0.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2707    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4345   -0.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5588    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7620   -0.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8666    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0501   -0.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2336    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3579   -0.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5414    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7249   -0.6509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1046   -0.6509    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1046   -1.9725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <ID>
+4851
+
+> <Formula>
+C18H39N
+
+> <FW>
+269.509
+
+> <DSSTox_CID>
+6924
+
+> <DSSTox_RID>
+78256
+
+> <DSSTox_GSID>
+26924
+
+> <DSSTox_FileID_Sort>
+2939
+
+> <TS_ChemName>
+1-Hexadecanamine, N,N-dimethyl-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+112-69-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H39N
+
+> <STRUCTURE_MW>
+269.509
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-dimethylhexadecan-1-amine
+
+> <STRUCTURE_SMILES>
+CN(C)CCCCCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCCCCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

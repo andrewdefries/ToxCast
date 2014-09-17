@@ -1,0 +1,91 @@
+555-77-1
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    3.4276   -1.9822    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7540   -0.6194    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8827   -2.6499    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7118    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5839   -2.6774    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4276   -0.6814    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2988   -2.6774    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7127   -1.9822    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1563   -2.0304    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5701    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+13735
+
+> <Formula>
+C6H12Cl3N
+
+> <FW>
+204.5252
+
+> <DSSTox_CID>
+28670
+
+> <DSSTox_RID>
+82940
+
+> <DSSTox_GSID>
+48744
+
+> <DSSTox_FileID_Sort>
+7617
+
+> <TS_ChemName>
+Trichlomethine
+
+> <TS_ChemName_Synonyms>
+TRICHLORMETHINE
+
+> <TS_CASRN>
+555-77-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12Cl3N
+
+> <STRUCTURE_MW>
+204.5252
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-N,N-bis(2-chloroethyl)ethanamine
+
+> <STRUCTURE_SMILES>
+ClCCN(CCCl)CCCl
+
+> <STRUCTURE_SMILES_Desalt>
+ClCCN(CCCl)CCCl
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

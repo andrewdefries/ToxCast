@@ -1,0 +1,93 @@
+5146-66-7
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    8.0869   -1.3309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9316   -1.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7856   -1.3309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6303   -1.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4751   -1.3309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3105   -1.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553   -1.3309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2422   -0.6562    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7856    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  3  0  0  0  0
+  2  3  2  3  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+M  END
+> <ID>
+7106
+
+> <Formula>
+C10H15N
+
+> <FW>
+149.2328
+
+> <DSSTox_CID>
+16286
+
+> <DSSTox_RID>
+79276
+
+> <DSSTox_GSID>
+36286
+
+> <DSSTox_FileID_Sort>
+3958
+
+> <TS_ChemName>
+2,6-Octadienenitrile, 3,7-dimethyl-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5146-66-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z [31983-27-4], E [5585-39-7] isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C10H15N
+
+> <STRUCTURE_MW>
+149.2328
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,7-dimethylocta-2,6-dienenitrile
+
+> <STRUCTURE_SMILES>
+C\C(C)=C\CCC(C)=CC#N
+
+> <STRUCTURE_SMILES_Desalt>
+C\C(C)=C\CCC(C)=CC#N
+
+> <Substance_modify_yyyymmdd>
+20110425
+
+$$$$

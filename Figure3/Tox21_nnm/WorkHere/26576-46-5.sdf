@@ -1,0 +1,107 @@
+26576-46-5
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    7.9740   -2.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1295   -2.6542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2850   -2.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4405   -2.6542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9740   -0.6635    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8300   -2.6542    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1165   -2.4025    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1165   -0.2517    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3271   -1.3271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3864   -2.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3864   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5304    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6859   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6859   -2.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5304   -2.6542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3271    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2850   -0.6521    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 17  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 16  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+10285
+
+> <Formula>
+C11H11N3O3
+
+> <FW>
+233.2233
+
+> <DSSTox_CID>
+24631
+
+> <DSSTox_RID>
+80364
+
+> <DSSTox_GSID>
+44631
+
+> <DSSTox_FileID_Sort>
+5046
+
+> <TS_ChemName>
+3-Oxo-N-(2-oxo-2,3-dihydro-1H-benzimidazol-5-yl)butanamide
+
+> <TS_ChemName_Synonyms>
+Butanamide, N-(2,3-dihydro-2-oxo-1H-benzimidazol-5-yl)-3-oxo-
+
+> <TS_CASRN>
+26576-46-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H11N3O3
+
+> <STRUCTURE_MW>
+233.2233
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-oxo-N-(2-oxo-2,3-dihydro-1H-benzimidazol-5-yl)butanamide
+
+> <STRUCTURE_SMILES>
+CC(=O)CC(=O)Nc1ccc2NC(=O)Nc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)CC(=O)Nc1ccc2NC(=O)Nc2c1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

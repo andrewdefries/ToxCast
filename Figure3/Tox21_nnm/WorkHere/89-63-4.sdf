@@ -1,0 +1,94 @@
+89-63-4
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  2 V2000
+    1.1562   -4.0034    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3066   -3.3304    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3066   -2.0017    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4455   -4.0034    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4455   -1.3287    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5959   -3.3304    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5959   -2.0017    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7520   -1.3460    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1562   -1.3287    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0017    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.1562    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+6269
+
+> <Formula>
+C6H5ClN2O2
+
+> <FW>
+172.5691
+
+> <DSSTox_CID>
+10384
+
+> <DSSTox_RID>
+78846
+
+> <DSSTox_GSID>
+30384
+
+> <DSSTox_FileID_Sort>
+3528
+
+> <TS_ChemName>
+4-Chloro-2-nitroaniline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+89-63-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H5ClN2O2
+
+> <STRUCTURE_MW>
+172.5691
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-chloro-2-nitroaniline
+
+> <STRUCTURE_SMILES>
+Nc1ccc(Cl)cc1[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(Cl)cc1[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

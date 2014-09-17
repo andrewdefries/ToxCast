@@ -1,0 +1,95 @@
+5205-93-6
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    6.9268   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0813   -1.9857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0813   -3.3249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9268    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7631   -1.9857    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6179   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4727   -1.9857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3089   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1545   -1.9857    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1545   -3.3249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2358   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+7595
+
+> <Formula>
+C9H18N2O
+
+> <FW>
+170.252
+
+> <DSSTox_CID>
+20154
+
+> <DSSTox_RID>
+79451
+
+> <DSSTox_GSID>
+40154
+
+> <DSSTox_FileID_Sort>
+4133
+
+> <TS_ChemName>
+N-[3-(Dimethylamino)propyl]methacrylamide
+
+> <TS_ChemName_Synonyms>
+N-[3-(Dimethylamino)propyl]methacrylamide (2-Propenamide, N-(3-(dimethylamino)propyl)-2-methyl- )
+
+> <TS_CASRN>
+5205-93-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18N2O
+
+> <STRUCTURE_MW>
+170.252
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-[3-(dimethylamino)propyl]-2-methylprop-2-enamide
+
+> <STRUCTURE_SMILES>
+CN(C)CCCNC(=O)C(=C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCCNC(=O)C(=C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,98 @@
+710-04-3
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    2.3051    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4524   -0.6719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4524   -2.0053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -2.6565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1474   -2.0053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1474   -0.6719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5998    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7472   -0.6719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9049    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0316   -0.6719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1893    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3367   -0.6719    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+12250
+
+> <Formula>
+C11H20O2
+
+> <FW>
+184.2753
+
+> <DSSTox_CID>
+27099
+
+> <DSSTox_RID>
+82110
+
+> <DSSTox_GSID>
+47099
+
+> <DSSTox_FileID_Sort>
+6791
+
+> <TS_ChemName>
+Undecanoic delta-lactone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+710-04-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H20O2
+
+> <STRUCTURE_MW>
+184.2753
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-hexyltetrahydro-2H-pyran-2-one
+
+> <STRUCTURE_SMILES>
+O=C1CCCC(CCCCCC)O1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCC(CCCCCC)O1
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

@@ -1,0 +1,87 @@
+557-34-6
+ChemmineR-0915142007XD
+
+  9  6  0  0  0  0  0  0  0  0  2 V2000
+    1.1674   -0.7978    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1674   -2.1306    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3154   -0.1459    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1459    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5433   -0.9340    0.0000 Zn   0  2  0  0  0  0  0  0  0  0  0  0
+    8.5807   -0.6616    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5807   -1.9847    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.7287    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    7.4133    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <ID>
+7490
+
+> <Formula>
+C4H6O4Zn
+
+> <FW>
+183.4970 (59.0446+65.4079+59.0446)
+
+> <DSSTox_CID>
+18770
+
+> <DSSTox_RID>
+79392
+
+> <DSSTox_GSID>
+38770
+
+> <DSSTox_FileID_Sort>
+4074
+
+> <TS_ChemName>
+Zinc acetate
+
+> <TS_ChemName_Synonyms>
+Zinc acetate (ZnOAc2)
+
+> <TS_CASRN>
+557-34-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [64-19-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6O4Zn
+
+> <STRUCTURE_MW>
+183.497
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+zinc diacetate
+
+> <STRUCTURE_SMILES>
+[Zn+2].[O-]C(C)=O.[O-]C(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

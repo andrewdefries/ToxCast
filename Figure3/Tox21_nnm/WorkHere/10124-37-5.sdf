@@ -1,0 +1,87 @@
+10124-37-5
+ChemmineR-0915142007XD
+
+  9  6  0  0  0  0  0  0  0  0  2 V2000
+    3.5888   -1.3091    0.0000 Ca   0  2  0  0  0  0  0  0  0  0  0  0
+    1.3269   -1.1488    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    1.9859   -2.3064    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.9948    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1577    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    8.2373   -1.2734    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    8.9052   -2.4222    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    6.9104   -1.2734    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9052   -0.1158    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <ID>
+7561
+
+> <Formula>
+CaN2O6
+
+> <FW>
+164.0878 (40.0769+62.0054+62.0054)
+
+> <DSSTox_CID>
+19719
+
+> <DSSTox_RID>
+79435
+
+> <DSSTox_GSID>
+39719
+
+> <DSSTox_FileID_Sort>
+4117
+
+> <TS_ChemName>
+Calcium nitrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+10124-37-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CaN2O6
+
+> <STRUCTURE_MW>
+164.0878
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+calcium dinitrate
+
+> <STRUCTURE_SMILES>
+[Ca+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

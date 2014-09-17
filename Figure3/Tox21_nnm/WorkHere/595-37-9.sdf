@@ -1,0 +1,87 @@
+595-37-9
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    1.1547   -1.3295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -1.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4456   -2.6589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6002   -1.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1547    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9873    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6331   -3.1420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9672   -0.8326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+6585
+
+> <Formula>
+C6H12O2
+
+> <FW>
+116.1583
+
+> <DSSTox_CID>
+12811
+
+> <DSSTox_RID>
+79038
+
+> <DSSTox_GSID>
+32811
+
+> <DSSTox_FileID_Sort>
+3720
+
+> <TS_ChemName>
+2,2-Dimethylbutanoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+595-37-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O2
+
+> <STRUCTURE_MW>
+116.1583
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2-dimethylbutanoic acid
+
+> <STRUCTURE_SMILES>
+CC(C)(CC)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(CC)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

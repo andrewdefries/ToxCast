@@ -1,0 +1,101 @@
+2425-54-9
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    1.1557   -0.6741    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2953    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4349   -0.6741    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5745    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7301   -0.6741    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8697    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0254   -0.6741    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1811    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3207   -0.6741    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.4763    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6159   -0.6741    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.7555    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   14.8951   -0.6741    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   16.0508    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+5180
+
+> <Formula>
+C14H29Cl
+
+> <FW>
+232.8331
+
+> <DSSTox_CID>
+7471
+
+> <DSSTox_RID>
+78465
+
+> <DSSTox_GSID>
+27471
+
+> <DSSTox_FileID_Sort>
+3148
+
+> <TS_ChemName>
+1-Chlorotetradecane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2425-54-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H29Cl
+
+> <STRUCTURE_MW>
+232.8331
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chlorotetradecane
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCCCCCCl
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCCCCCCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,83 @@
+115-17-3
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.4870    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -1.1537    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8169   -2.3040    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8169    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -0.4870    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4542   -1.1537    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+1604
+
+> <Formula>
+C2HBr3O
+
+> <FW>
+280.7407
+
+> <DSSTox_CID>
+1667
+
+> <DSSTox_RID>
+76275
+
+> <DSSTox_GSID>
+21667
+
+> <DSSTox_FileID_Sort>
+959
+
+> <TS_ChemName>
+Tribromoacetaldehyde
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+115-17-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2HBr3O
+
+> <STRUCTURE_MW>
+280.7407
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tribromoacetaldehyde
+
+> <STRUCTURE_SMILES>
+BrC(Br)(Br)C=O
+
+> <STRUCTURE_SMILES_Desalt>
+BrC(Br)(Br)C=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

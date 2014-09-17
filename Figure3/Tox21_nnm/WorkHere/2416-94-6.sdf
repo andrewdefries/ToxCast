@@ -1,0 +1,92 @@
+2416-94-6
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.3296    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -1.1541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239   -1.1541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887   -2.3081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3182   -2.3081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239   -3.4568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -3.4568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -2.3081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+2026
+
+> <Formula>
+C9H12O
+
+> <FW>
+136.191
+
+> <DSSTox_CID>
+2187
+
+> <DSSTox_RID>
+76518
+
+> <DSSTox_GSID>
+22187
+
+> <DSSTox_FileID_Sort>
+1202
+
+> <TS_ChemName>
+2,3,6-Trimethylphenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2416-94-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12O
+
+> <STRUCTURE_MW>
+136.191
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,3,6-trimethylphenol
+
+> <STRUCTURE_SMILES>
+Cc1ccc(C)c(O)c1C
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(C)c(O)c1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

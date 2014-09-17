@@ -1,0 +1,104 @@
+299-84-3
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    5.7627   -2.3083    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4625   -2.3083    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083   -2.9621    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086   -2.9621    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083   -0.3067    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4625   -0.9766    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -2.3083    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -0.9766    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4407   -3.4625    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1090   -1.1542    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9169   -1.6384    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086   -0.3067    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3067    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.9621    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7627    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0710   -2.3083    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  2  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 13  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+M  END
+> <ID>
+6941
+
+> <Formula>
+C8H8Cl3O3PS
+
+> <FW>
+321.5451
+
+> <DSSTox_CID>
+14885
+
+> <DSSTox_RID>
+79218
+
+> <DSSTox_GSID>
+34885
+
+> <DSSTox_FileID_Sort>
+3900
+
+> <TS_ChemName>
+Fenchlorphos
+
+> <TS_ChemName_Synonyms>
+Fenchlorphos (Ronnel)
+
+> <TS_CASRN>
+299-84-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8Cl3O3PS
+
+> <STRUCTURE_MW>
+321.5451
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O,O-dimethyl O-(2,4,5-trichlorophenyl) phosphorothioate
+
+> <STRUCTURE_SMILES>
+Clc1cc(OP(=S)(OC)OC)c(Cl)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(OP(=S)(OC)OC)c(Cl)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

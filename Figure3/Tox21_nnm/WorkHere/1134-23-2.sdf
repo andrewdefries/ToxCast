@@ -1,0 +1,100 @@
+1134-23-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    3.4577   -1.3132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5962   -1.9999    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3071   -1.9999    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5962   -3.3191    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7347   -4.0059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7347   -5.3371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5962   -6.0238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577   -5.3371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577   -4.0059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7347   -1.3132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7347    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1385   -1.3132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+6430
+
+> <Formula>
+C11H21NOS
+
+> <FW>
+215.3555
+
+> <DSSTox_CID>
+12356
+
+> <DSSTox_RID>
+78923
+
+> <DSSTox_GSID>
+32356
+
+> <DSSTox_FileID_Sort>
+3605
+
+> <TS_ChemName>
+Cycloate
+
+> <TS_ChemName_Synonyms>
+Cycloate (Ethyl cyclohexylethylthiocarbamate)
+
+> <TS_CASRN>
+1134-23-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H21NOS
+
+> <STRUCTURE_MW>
+215.3555
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+S-ethyl cyclohexyl(ethyl)carbamothioate
+
+> <STRUCTURE_SMILES>
+CCN(C(=O)SCC)C1CCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(C(=O)SCC)C1CCCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

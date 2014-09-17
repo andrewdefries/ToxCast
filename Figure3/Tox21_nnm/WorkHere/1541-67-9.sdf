@@ -1,0 +1,109 @@
+1541-67-9
+ChemmineR-0915142007XD
+
+ 19 18  0  0  0  0  0  0  0  0  1 V2000
+   14.9197   -1.3344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7782   -1.9775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9197    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9197   -5.3055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9197   -3.9872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0772   -5.9646    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7782   -3.3119    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6367   -3.9872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4952   -3.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3377   -3.9872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1962   -3.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0386   -3.9872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8811   -3.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7396   -3.9872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5820   -3.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4566   -3.9872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2990   -3.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1576   -3.9872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+9022
+
+> <Formula>
+C16H35NO2
+
+> <FW>
+273.4546
+
+> <DSSTox_CID>
+22090
+
+> <DSSTox_RID>
+79923
+
+> <DSSTox_GSID>
+42090
+
+> <DSSTox_FileID_Sort>
+4605
+
+> <TS_ChemName>
+Lauryldiethanolamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1541-67-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H35NO2
+
+> <STRUCTURE_MW>
+273.4546
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-(dodecylimino)diethanol
+
+> <STRUCTURE_SMILES>
+OCCN(CCCCCCCCCCCC)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+OCCN(CCCCCCCCCCCC)CCO
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

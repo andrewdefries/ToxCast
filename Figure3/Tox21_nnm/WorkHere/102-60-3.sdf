@@ -1,0 +1,111 @@
+102-60-3
+ChemmineR-0915142007XD
+
+ 20 19  0  0  0  0  0  0  0  0  1 V2000
+    1.1362   -3.9888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1362   -5.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2885   -5.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9953    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9059   -3.3361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9059   -2.0065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7536   -1.3296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0582   -1.3296    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2885   -2.0065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1362   -1.3296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1362    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7536   -5.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9059   -5.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0582   -5.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9059   -7.3249    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6012   -3.3361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4409   -3.9888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7536   -3.9888    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2885   -3.3361    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <ID>
+4763
+
+> <Formula>
+C14H32N2O4
+
+> <FW>
+292.4149
+
+> <DSSTox_CID>
+6689
+
+> <DSSTox_RID>
+78183
+
+> <DSSTox_GSID>
+26689
+
+> <DSSTox_FileID_Sort>
+2866
+
+> <TS_ChemName>
+N,N,N',N'-Tetrakis(2-Hydroxypropyl)ethylenediamine
+
+> <TS_ChemName_Synonyms>
+1,1',1'',1'''-(Ethane-1,2-diyldinitrilo)tetrapropan-2-ol
+
+> <TS_CASRN>
+102-60-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H32N2O4
+
+> <STRUCTURE_MW>
+292.4149
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1',1'',1'''-(ethane-1,2-diyldinitrilo)tetrapropan-2-ol
+
+> <STRUCTURE_SMILES>
+CC(O)CN(CC(C)O)CCN(CC(C)O)CC(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)CN(CC(C)O)CCN(CC(C)O)CC(C)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,97 @@
+6911-51-9
+ChemmineR-0915142007XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    2.2745   -3.2745    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5817   -3.2745    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1307   -0.9020    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1438    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5948   -2.1111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2745   -1.9869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5817   -4.5687    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8563   -5.8759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2615   -4.4249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7255   -5.6471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7125   -6.5360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+12610
+
+> <Formula>
+C8H6S4
+
+> <FW>
+230.3932
+
+> <DSSTox_CID>
+27476
+
+> <DSSTox_RID>
+82373
+
+> <DSSTox_GSID>
+47476
+
+> <DSSTox_FileID_Sort>
+7054
+
+> <TS_ChemName>
+2-Thienyl disulfide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6911-51-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H6S4
+
+> <STRUCTURE_MW>
+230.3932
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-disulfanediyldithiophene
+
+> <STRUCTURE_SMILES>
+s1cccc1SSc2cccs2
+
+> <STRUCTURE_SMILES_Desalt>
+s1cccc1SSc2cccs2
+
+> <Substance_modify_yyyymmdd>
+20100702
+
+$$$$

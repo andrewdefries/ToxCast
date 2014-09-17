@@ -1,0 +1,110 @@
+25377-73-5
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9112    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3258   -1.7735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9801   -0.6199    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2715   -0.8954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2701    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2039   -2.7549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4264   -2.2039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5628   -2.8755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6993   -2.2039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8701   -2.8755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0237   -2.2039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1773   -2.8755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3138   -2.2039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4674   -2.8755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6210   -2.2039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7746   -2.8755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9110   -2.2039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0647   -2.8755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2183   -2.2039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  3  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+5461
+
+> <Formula>
+C16H26O3
+
+> <FW>
+266.3758
+
+> <DSSTox_CID>
+7870
+
+> <DSSTox_RID>
+78597
+
+> <DSSTox_GSID>
+27870
+
+> <DSSTox_FileID_Sort>
+3280
+
+> <TS_ChemName>
+3-(Dodecenyl)dihydro-2,5-furandione
+
+> <TS_ChemName_Synonyms>
+2,5-Furandione, 3-(dodecenyl)dihydro-
+
+> <TS_CASRN>
+25377-73-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C16H26O3
+
+> <STRUCTURE_MW>
+266.3758
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(dodec-1-en-1-yl)dihydrofuran-2,5-dione
+
+> <STRUCTURE_SMILES>
+O=C1OC(=O)CC1C=CCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1OC(=O)CC1C=CCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,100 @@
+56038-89-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    1.9861   -3.4601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6573   -4.6158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9861   -5.7645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6574   -5.7645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6158    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6574   -3.4601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6573   -2.3044    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9860   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6434   -1.1557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9860    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6434   -3.4601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9721   -3.4601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.9202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6573   -6.9202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+5611
+
+> <Formula>
+C13H21N
+
+> <FW>
+191.3125
+
+> <DSSTox_CID>
+8040
+
+> <DSSTox_RID>
+78647
+
+> <DSSTox_GSID>
+28040
+
+> <DSSTox_FileID_Sort>
+3329
+
+> <TS_ChemName>
+Benzenamine, N-(1-ethylpropyl)-4,5-dimethyl-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+56038-89-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H21N
+
+> <STRUCTURE_MW>
+191.3125
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,4-dimethyl-N-(pentan-3-yl)aniline
+
+> <STRUCTURE_SMILES>
+CCC(CC)Nc1cc(C)c(C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(CC)Nc1cc(C)c(C)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

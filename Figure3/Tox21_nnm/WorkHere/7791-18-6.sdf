@@ -1,0 +1,83 @@
+7791-18-6
+ChemmineR-0915142007XD
+
+  9  2  0  0  0  0  0  0  0  0  1 V2000
+    2.4368   -0.6649    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2832    0.0000    0.0000 Mg   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1330   -0.6649    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3297   -1.9946    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9946    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6595   -1.9946    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3297   -3.3244    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3244    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6595   -3.3244    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+> <ID>
+756
+
+> <Formula>
+H12Cl2MgO6
+
+> <FW>
+203.3027 (95.2110+18.0153+18.0153+18.0153+18.0153+18.0153+18.0153)
+
+> <DSSTox_CID>
+789
+
+> <DSSTox_RID>
+75789
+
+> <DSSTox_GSID>
+20789
+
+> <DSSTox_FileID_Sort>
+473
+
+> <TS_ChemName>
+Magnesium chloride hexahydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7791-18-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+H12Cl2MgO6
+
+> <STRUCTURE_MW>
+203.3027
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+dichloromagnesium hexahydrate
+
+> <STRUCTURE_SMILES>
+O.O.O.O.O.O.Cl[Mg]Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Cl[Mg]Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

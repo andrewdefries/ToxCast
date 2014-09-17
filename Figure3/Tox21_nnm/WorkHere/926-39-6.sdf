@@ -1,0 +1,87 @@
+926-39-6
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    2.3067   -1.1533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1533   -0.4959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1533    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6133   -1.1533    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2707    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9386   -2.3067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4600   -0.4959    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7666   -1.8280    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+M  END
+> <ID>
+10126
+
+> <Formula>
+C2H7NO4S
+
+> <FW>
+141.1463
+
+> <DSSTox_CID>
+24469
+
+> <DSSTox_RID>
+80251
+
+> <DSSTox_GSID>
+44469
+
+> <DSSTox_FileID_Sort>
+4933
+
+> <TS_ChemName>
+2-Aminoethyl hydrogen sulfate
+
+> <TS_ChemName_Synonyms>
+Ethanol, 2-amino-, hydrogen sulfate (ester)
+
+> <TS_CASRN>
+926-39-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H7NO4S
+
+> <STRUCTURE_MW>
+141.1463
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-aminoethyl hydrogen sulfate
+
+> <STRUCTURE_SMILES>
+O=S(=O)(O)OCCN
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)OCCN
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

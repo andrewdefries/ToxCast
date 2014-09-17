@@ -1,0 +1,79 @@
+123-38-6
+ChemmineR-0915142007XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575   -0.6638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+M  END
+> <ID>
+1595
+
+> <Formula>
+C3H6O
+
+> <FW>
+58.0791
+
+> <DSSTox_CID>
+1658
+
+> <DSSTox_RID>
+76270
+
+> <DSSTox_GSID>
+21658
+
+> <DSSTox_FileID_Sort>
+954
+
+> <TS_ChemName>
+Propanal
+
+> <TS_ChemName_Synonyms>
+Propanal (Propionaldehyde)
+
+> <TS_CASRN>
+123-38-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H6O
+
+> <STRUCTURE_MW>
+58.0791
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+propanal
+
+> <STRUCTURE_SMILES>
+CCC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

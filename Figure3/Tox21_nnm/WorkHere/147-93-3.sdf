@@ -1,0 +1,92 @@
+147-93-3
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    2.3137   -1.9911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4706   -1.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4706    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3137   -3.3231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6090   -1.9911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4706   -3.9822    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -1.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -3.9822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+14016
+
+> <Formula>
+C7H6O2S
+
+> <FW>
+154.1863
+
+> <DSSTox_CID>
+28958
+
+> <DSSTox_RID>
+83223
+
+> <DSSTox_GSID>
+49032
+
+> <DSSTox_FileID_Sort>
+7899
+
+> <TS_ChemName>
+2-Thiosalicylic acid
+
+> <TS_ChemName_Synonyms>
+Thiosalicylic acid
+
+> <TS_CASRN>
+147-93-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6O2S
+
+> <STRUCTURE_MW>
+154.1863
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-sulfanylbenzoic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1ccccc1S
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1ccccc1S
+
+> <Substance_modify_yyyymmdd>
+20120529
+
+$$$$

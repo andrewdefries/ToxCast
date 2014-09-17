@@ -1,0 +1,90 @@
+103-69-5
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    1.9925   -1.1548    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -1.1548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3194    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9836   -1.1548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3194   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4113
+
+> <Formula>
+C8H11N
+
+> <FW>
+121.1796
+
+> <DSSTox_CID>
+5271
+
+> <DSSTox_RID>
+77721
+
+> <DSSTox_GSID>
+25271
+
+> <DSSTox_FileID_Sort>
+2404
+
+> <TS_ChemName>
+N-Ethylaniline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+103-69-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H11N
+
+> <STRUCTURE_MW>
+121.1796
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-ethylaniline
+
+> <STRUCTURE_SMILES>
+CCNc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCNc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

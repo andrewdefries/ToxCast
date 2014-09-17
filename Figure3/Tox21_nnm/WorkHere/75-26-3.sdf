@@ -1,0 +1,79 @@
+75-26-3
+ChemmineR-0915142007XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1581   -0.6608    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1581   -1.9961    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+M  END
+> <ID>
+6264
+
+> <Formula>
+C3H7Br
+
+> <FW>
+122.9917
+
+> <DSSTox_CID>
+10197
+
+> <DSSTox_RID>
+78840
+
+> <DSSTox_GSID>
+30197
+
+> <DSSTox_FileID_Sort>
+3522
+
+> <TS_ChemName>
+2-Bromopropane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+75-26-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H7Br
+
+> <STRUCTURE_MW>
+122.9917
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-bromopropane
+
+> <STRUCTURE_SMILES>
+BrC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+BrC(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

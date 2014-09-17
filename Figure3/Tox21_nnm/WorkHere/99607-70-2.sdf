@@ -1,0 +1,119 @@
+99607-70-2
+ChemmineR-0915142007XD
+
+ 23 24  0  0  0  0  0  0  0  0  1 V2000
+    2.3084   -2.6678    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3084   -3.9810    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4419   -1.9905    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1611   -1.9905    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4419   -4.6583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1611   -4.6583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031   -2.6678    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4419   -0.6635    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6678    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031   -3.9810    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4419   -5.9992    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9810    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7504   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9115    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7504   -1.9905    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0726   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2199    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0726   -1.9905    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3811   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5284    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6618   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.8230    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+M  END
+> <ID>
+8745
+
+> <Formula>
+C18H22ClNO3
+
+> <FW>
+335.8252
+
+> <DSSTox_CID>
+21794
+
+> <DSSTox_RID>
+79845
+
+> <DSSTox_GSID>
+41794
+
+> <DSSTox_FileID_Sort>
+4527
+
+> <TS_ChemName>
+Cloquintocet-mexyl
+
+> <TS_ChemName_Synonyms>
+Cloquintocet-mexyl (Acetic acid, {(5-chloro-8-quinolinyl)oxy}-, 1-methylhexyl ester)
+
+> <TS_CASRN>
+99607-70-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H22ClNO3
+
+> <STRUCTURE_MW>
+335.8252
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+heptan-2-yl [(5-chloroquinolin-8-yl)oxy]acetate
+
+> <STRUCTURE_SMILES>
+CC(CCCCC)OC(=O)COc1ccc(Cl)c2cccnc12
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CCCCC)OC(=O)COc1ccc(Cl)c2cccnc12
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

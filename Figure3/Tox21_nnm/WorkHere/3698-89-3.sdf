@@ -1,0 +1,99 @@
+3698-89-3
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    2.2983   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4325    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5816   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7308    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8799   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0440    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1931   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3422    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4914   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6256    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7747   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9238    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1491    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+10576
+
+> <Formula>
+C13H28S
+
+> <FW>
+216.4264
+
+> <DSSTox_CID>
+24929
+
+> <DSSTox_RID>
+80594
+
+> <DSSTox_GSID>
+44929
+
+> <DSSTox_FileID_Sort>
+5276
+
+> <TS_ChemName>
+1-(Methylsulfanyl)dodecane
+
+> <TS_ChemName_Synonyms>
+Dodecane, 1-(methylthio)-
+
+> <TS_CASRN>
+3698-89-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H28S
+
+> <STRUCTURE_MW>
+216.4264
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dodecyl methyl sulfide
+
+> <STRUCTURE_SMILES>
+CSCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CSCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

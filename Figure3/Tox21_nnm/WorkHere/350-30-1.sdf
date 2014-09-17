@@ -1,0 +1,94 @@
+350-30-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  2 V2000
+    5.6524   -1.5770    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6453    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2666   -2.6171    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1361   -1.9557    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4028   -0.6500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4028   -1.9557    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2666    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1361   -0.6500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5333   -2.6171    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    4.5333   -3.9228    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+14141
+
+> <Formula>
+C6H3ClFNO2
+
+> <FW>
+175.5449
+
+> <DSSTox_CID>
+29134
+
+> <DSSTox_RID>
+83353
+
+> <DSSTox_GSID>
+49278
+
+> <DSSTox_FileID_Sort>
+8028
+
+> <TS_ChemName>
+2-Chloro-1-fluoro-4-nitrobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+350-30-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H3ClFNO2
+
+> <STRUCTURE_MW>
+175.5449
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-1-fluoro-4-nitrobenzene
+
+> <STRUCTURE_SMILES>
+Fc1ccc(cc1Cl)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+Fc1ccc(cc1Cl)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

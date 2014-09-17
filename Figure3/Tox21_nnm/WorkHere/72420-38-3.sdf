@@ -1,0 +1,105 @@
+72420-38-3
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    2.3071   -2.2358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5202   -1.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5984   -0.9276    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6688   -1.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2565   -2.9731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9245   -2.9731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1396   -4.0514    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9373   -1.2923    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2069    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9283   -2.1882    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8542   -0.5550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3071   -3.5678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1496   -1.5857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1496   -4.2417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.5678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  1 13  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+11126
+
+> <Formula>
+C12H10O4
+
+> <FW>
+218.2054
+
+> <DSSTox_CID>
+25685
+
+> <DSSTox_RID>
+81057
+
+> <DSSTox_GSID>
+45685
+
+> <DSSTox_FileID_Sort>
+5738
+
+> <TS_ChemName>
+Acifran
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+72420-38-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10O4
+
+> <STRUCTURE_MW>
+218.2054
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-methyl-4-oxo-5-phenyl-4,5-dihydrofuran-2-carboxylic acid
+
+> <STRUCTURE_SMILES>
+CC1(OC(=CC1=O)C(=O)O)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CC1(OC(=CC1=O)C(=O)O)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

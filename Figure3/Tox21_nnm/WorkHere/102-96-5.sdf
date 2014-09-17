@@ -1,0 +1,94 @@
+102-96-5
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  2 V2000
+    3.4349   -3.9734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4349   -5.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6078   -5.9841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7447   -5.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7447   -3.9734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6078   -3.3272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3099   -3.3272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3099   -2.0107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1370   -1.3165    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0107    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1370    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  3  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+13217
+
+> <Formula>
+C8H7NO2
+
+> <FW>
+149.1467
+
+> <DSSTox_CID>
+28130
+
+> <DSSTox_RID>
+77922
+
+> <DSSTox_GSID>
+25789
+
+> <DSSTox_FileID_Sort>
+2605
+
+> <TS_ChemName>
+beta-Nitrostyrene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+102-96-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E [5153-67-3] isomers; structure shown E; stereochem
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C8H7NO2
+
+> <STRUCTURE_MW>
+149.1467
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2-nitroethenyl)benzene
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)C=Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)C=Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

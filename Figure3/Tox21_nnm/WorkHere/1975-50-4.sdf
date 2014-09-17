@@ -1,0 +1,98 @@
+1975-50-4
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  2 V2000
+    4.6088   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3009   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -2.6602    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.1539   -3.9869    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9900    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.3009   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6088   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548   -3.9869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7558   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9097   -1.9900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7558   -3.9869    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <ID>
+4313
+
+> <Formula>
+C8H7NO4
+
+> <FW>
+181.1455
+
+> <DSSTox_CID>
+5637
+
+> <DSSTox_RID>
+77863
+
+> <DSSTox_GSID>
+25637
+
+> <DSSTox_FileID_Sort>
+2546
+
+> <TS_ChemName>
+2-Methyl-3-nitrobenzoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1975-50-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H7NO4
+
+> <STRUCTURE_MW>
+181.1455
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-3-nitrobenzoic acid
+
+> <STRUCTURE_SMILES>
+Cc1c(cccc1[N+](=O)[O-])C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1c(cccc1[N+](=O)[O-])C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

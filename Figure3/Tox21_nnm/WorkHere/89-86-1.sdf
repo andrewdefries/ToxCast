@@ -1,0 +1,94 @@
+89-86-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    5.3194   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9835   -1.1488    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9835   -3.4525    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -3.4525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -3.4525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+4003
+
+> <Formula>
+C7H6O4
+
+> <FW>
+154.1201
+
+> <DSSTox_CID>
+5074
+
+> <DSSTox_RID>
+77652
+
+> <DSSTox_GSID>
+25074
+
+> <DSSTox_FileID_Sort>
+2335
+
+> <TS_ChemName>
+2,4-Dihydroxybenzoic acid
+
+> <TS_ChemName_Synonyms>
+2,4-Dihydroxybenzoic acid (beta-Resorcylic acid)
+
+> <TS_CASRN>
+89-86-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6O4
+
+> <STRUCTURE_MW>
+154.1201
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-dihydroxybenzoic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1ccc(O)cc1O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1ccc(O)cc1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

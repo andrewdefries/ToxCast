@@ -1,0 +1,105 @@
+1210-39-5
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    1.1554   -3.9921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -4.6494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4593   -3.9921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6494    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6148   -4.6494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7633   -3.9921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6148   -5.9778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9187   -4.6494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7633   -6.6489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9187   -5.9778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4593   -2.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -1.9857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6148   -1.9857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -0.6573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6148   -0.6573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4593    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+14073
+
+> <Formula>
+C15H12O
+
+> <FW>
+208.2552
+
+> <DSSTox_CID>
+29066
+
+> <DSSTox_RID>
+83285
+
+> <DSSTox_GSID>
+49210
+
+> <DSSTox_FileID_Sort>
+7960
+
+> <TS_ChemName>
+2-Propenal,3,3-diphenyl-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1210-39-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H12O
+
+> <STRUCTURE_MW>
+208.2552
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3-diphenylprop-2-enal
+
+> <STRUCTURE_SMILES>
+O=C\C=C(/c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C\C=C(/c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

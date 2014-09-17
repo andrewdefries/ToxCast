@@ -1,0 +1,85 @@
+17102-64-6
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.1597    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3334   -0.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4931    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6529   -0.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8266    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9863   -0.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6427    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+12752
+
+> <Formula>
+C6H10O
+
+> <FW>
+98.143
+
+> <DSSTox_CID>
+27631
+
+> <DSSTox_RID>
+82463
+
+> <DSSTox_GSID>
+47631
+
+> <DSSTox_FileID_Sort>
+7144
+
+> <TS_ChemName>
+(2E,4E)-Hexa-2,4-dien-1-ol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+17102-64-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10O
+
+> <STRUCTURE_MW>
+98.143
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E,4E)-hexa-2,4-dien-1-ol
+
+> <STRUCTURE_SMILES>
+C\C=C\C=C\CO
+
+> <STRUCTURE_SMILES_Desalt>
+C\C=C\C=C\CO
+
+> <Substance_modify_yyyymmdd>
+20101214
+
+$$$$

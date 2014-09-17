@@ -1,0 +1,93 @@
+7789-12-0
+ChemmineR-0915142007XD
+
+ 13  8  0  0  0  0  0  0  0  0  2 V2000
+    4.6654   -1.4211    0.0000 Cr   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8231   -0.7556    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    4.0069   -0.2634    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5008   -2.0797    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3171   -2.5719    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3501   -1.4073    0.0000 Cr   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6846   -2.5580    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0225   -0.2634    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2062   -0.7418    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    6.9323   -0.1386    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    1.7123   -4.1039    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4436   -4.1039    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <ID>
+6389
+
+> <Formula>
+H4Cr2Na2O9
+
+> <FW>
+297.9981 (215.9891+22.9892+22.9892+18.0153+18.0153)
+
+> <DSSTox_CID>
+12061
+
+> <DSSTox_RID>
+78903
+
+> <DSSTox_GSID>
+32061
+
+> <DSSTox_FileID_Sort>
+3585
+
+> <TS_ChemName>
+Sodium dichromate(VI) dihydrate
+
+> <TS_ChemName_Synonyms>
+Sodium dichromate(VI) dihydrate  (Dichromic acid, (H2Cr2O7), disodium salt, dihydrate)
+
+> <TS_CASRN>
+7789-12-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+H4Cr2Na2O9
+
+> <STRUCTURE_MW>
+297.9981
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+sodium dichromate dihydrate
+
+> <STRUCTURE_SMILES>
+[Na+].[Na+].O.O.[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O[Cr](=O)(=O)O[Cr](O)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

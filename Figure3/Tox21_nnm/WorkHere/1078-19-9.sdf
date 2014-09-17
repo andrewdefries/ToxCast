@@ -1,0 +1,99 @@
+1078-19-9
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -5.3211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9908    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -3.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3035   -3.9908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552   -3.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3035   -1.3303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6070   -1.3303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6070    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7587   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7587   -3.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6070   -3.9908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+16023
+
+> <Formula>
+C11H12O2
+
+> <FW>
+176.2118
+
+> <DSSTox_CID>
+31406
+
+> <DSSTox_RID>
+97292
+
+> <DSSTox_GSID>
+57617
+
+> <DSSTox_FileID_Sort>
+8359
+
+> <TS_ChemName>
+6-?Methoxy-?1-?tetralone
+
+> <TS_ChemName_Synonyms>
+6-Methoxy-1,2,3,4-tetrahydro-1-naphthone
+
+> <TS_CASRN>
+1078-19-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H12O2
+
+> <STRUCTURE_MW>
+176.2118
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-methoxy-3,4-dihydronaphthalen-1(2H)-one
+
+> <STRUCTURE_SMILES>
+COc2ccc1c(CCCC1=O)c2
+
+> <STRUCTURE_SMILES_Desalt>
+COc2ccc1c(CCCC1=O)c2
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

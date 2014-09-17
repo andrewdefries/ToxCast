@@ -1,0 +1,90 @@
+99-00-3
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    3.9806   -1.1340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6506   -1.1340    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1340    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6665   -2.3006    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6665    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0113   -2.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0113    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6860   -2.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6860    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3  8  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+8248
+
+> <Formula>
+C5H10N2S2
+
+> <FW>
+162.2763
+
+> <DSSTox_CID>
+21279
+
+> <DSSTox_RID>
+79677
+
+> <DSSTox_GSID>
+41279
+
+> <DSSTox_FileID_Sort>
+4359
+
+> <TS_ChemName>
+1-Piperazinecarbodithioic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+99-00-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10N2S2
+
+> <STRUCTURE_MW>
+162.2763
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+piperazine-1-carbodithioic acid
+
+> <STRUCTURE_SMILES>
+S=C(S)N1CCNCC1
+
+> <STRUCTURE_SMILES_Desalt>
+S=C(S)N1CCNCC1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

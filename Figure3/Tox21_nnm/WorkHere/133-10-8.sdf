@@ -1,0 +1,95 @@
+133-10-8
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  2 V2000
+    3.4540   -2.0017    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -1.3470    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5978   -1.3470    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540   -3.3261    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -2.0017    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5978    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -3.3261    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -3.9958    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7492   -2.0017    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9958    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5251   -1.0535    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 11  1  0  0  0  0
+M  END
+> <ID>
+11384
+
+> <Formula>
+C7H6NNaO3
+
+> <FW>
+175.1172 (152.1280+22.9892)
+
+> <DSSTox_CID>
+26066
+
+> <DSSTox_RID>
+81316
+
+> <DSSTox_GSID>
+46066
+
+> <DSSTox_FileID_Sort>
+5997
+
+> <TS_ChemName>
+Sodium 4-aminosalicylate
+
+> <TS_ChemName_Synonyms>
+Aminosalicylic acid; Na salt
+
+> <TS_CASRN>
+133-10-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [65-49-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6NNaO3
+
+> <STRUCTURE_MW>
+175.1172
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 4-amino-2-hydroxybenzoate
+
+> <STRUCTURE_SMILES>
+[Na+].O=C([O-])c1ccc(N)cc1O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1ccc(N)cc1O
+
+> <Substance_modify_yyyymmdd>
+20110819
+
+$$$$

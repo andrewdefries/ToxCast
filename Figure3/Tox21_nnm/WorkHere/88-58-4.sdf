@@ -1,0 +1,104 @@
+88-58-4
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    3.4724   -1.3361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6345   -1.9971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6345   -3.3401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4724   -4.0151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3103   -3.3401    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3103   -1.9971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4724    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4724   -5.3582    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1482   -1.3361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4871   -2.4982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8232   -0.1740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7966   -4.0151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4715   -2.8530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4417   -5.1355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9586   -4.6832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+M  END
+> <ID>
+8221
+
+> <Formula>
+C14H22O2
+
+> <FW>
+222.3233
+
+> <DSSTox_CID>
+21248
+
+> <DSSTox_RID>
+79662
+
+> <DSSTox_GSID>
+41248
+
+> <DSSTox_FileID_Sort>
+4344
+
+> <TS_ChemName>
+2,5-Di-tert-butylbenzene-1,4-diol
+
+> <TS_ChemName_Synonyms>
+2,5-Di-tert-butylbenzene-1,4-diol (1,4-Benzenediol, 2,5-bis(1,1-dimethylethyl)-) (2,5-Di-tert-butylhydroquinone)
+
+> <TS_CASRN>
+88-58-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H22O2
+
+> <STRUCTURE_MW>
+222.3233
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,5-di-tert-butylbenzene-1,4-diol
+
+> <STRUCTURE_SMILES>
+CC(C)(C)c1cc(O)c(cc1O)C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c1cc(O)c(cc1O)C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,98 @@
+2882-19-1
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.0097    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3603    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1415   -4.0034    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2991   -3.3603    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2991   -2.0097    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1415   -1.3505    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4246   -1.3505    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5822   -2.0097    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7398   -1.3505    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5822   -3.3281    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4246    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8974   -2.0097    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0389   -1.3184    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+8886
+
+> <Formula>
+C10H11BrO2
+
+> <FW>
+243.0971
+
+> <DSSTox_CID>
+21951
+
+> <DSSTox_RID>
+79882
+
+> <DSSTox_GSID>
+41951
+
+> <DSSTox_FileID_Sort>
+4564
+
+> <TS_ChemName>
+Ethyl bromophenylacetate
+
+> <TS_ChemName_Synonyms>
+Ethyl bromophenylacetate (Ethyl .alpha.-bromophenylacetate)
+
+> <TS_CASRN>
+2882-19-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H11BrO2
+
+> <STRUCTURE_MW>
+243.0971
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl bromo(phenyl)acetate
+
+> <STRUCTURE_SMILES>
+O=C(OCC)C(Br)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)C(Br)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

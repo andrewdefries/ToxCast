@@ -1,0 +1,101 @@
+110958-19-5
+ChemmineR-0915142007XD
+
+ 14 15  0  0  1  0  0  0  0  0  1 V2000
+    2.3121   -1.9962    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3121   -3.3472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1493   -3.9857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1493   -1.3577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547   -1.3577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7452   -3.3136    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6040   -1.9962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8273   -1.4652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7212   -2.4398    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0491   -3.5891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5935   -4.8124    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+ 10  7  1  1  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+13844
+
+> <Formula>
+C10H16N2O2
+
+> <FW>
+196.2462
+
+> <DSSTox_CID>
+28781
+
+> <DSSTox_RID>
+83050
+
+> <DSSTox_GSID>
+48855
+
+> <DSSTox_FileID_Sort>
+7727
+
+> <TS_ChemName>
+Fasoracetam
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+110958-19-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16N2O2
+
+> <STRUCTURE_MW>
+196.2462
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5R)-5-(piperidin-1-ylcarbonyl)pyrrolidin-2-one
+
+> <STRUCTURE_SMILES>
+O=C([C@H]1CCC(=O)N1)N2CCCCC2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C([C@H]1CCC(=O)N1)N2CCCCC2
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

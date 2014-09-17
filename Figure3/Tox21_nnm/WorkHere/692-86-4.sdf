@@ -1,0 +1,101 @@
+692-86-4
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    3.4505   -1.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6006   -1.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7508   -1.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9159   -1.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0212   -1.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1863   -1.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3365   -1.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4866   -1.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6368   -1.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7869   -1.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9371   -1.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3003   -1.9866    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4505    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1502   -1.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+10476
+
+> <Formula>
+C13H24O2
+
+> <FW>
+212.3285
+
+> <DSSTox_CID>
+24828
+
+> <DSSTox_RID>
+80509
+
+> <DSSTox_GSID>
+44828
+
+> <DSSTox_FileID_Sort>
+5191
+
+> <TS_ChemName>
+Ethyl undec-10-enoate
+
+> <TS_ChemName_Synonyms>
+Ethyl undecylenate
+
+> <TS_CASRN>
+692-86-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H24O2
+
+> <STRUCTURE_MW>
+212.3285
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl undec-10-enoate
+
+> <STRUCTURE_SMILES>
+O=C(CCCCCCCCC=C)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCCCCCC=C)OCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

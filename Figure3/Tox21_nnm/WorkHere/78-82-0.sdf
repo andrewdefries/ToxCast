@@ -1,0 +1,81 @@
+78-82-0
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    1.1488   -0.6693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3011   -1.3420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4500   -0.6693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3011   -2.6668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  3  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <ID>
+4691
+
+> <Formula>
+C4H7N
+
+> <FW>
+69.1051
+
+> <DSSTox_CID>
+6461
+
+> <DSSTox_RID>
+78119
+
+> <DSSTox_GSID>
+26461
+
+> <DSSTox_FileID_Sort>
+2802
+
+> <TS_ChemName>
+2-Methylpropanenitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+78-82-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H7N
+
+> <STRUCTURE_MW>
+69.1051
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylpropanenitrile
+
+> <STRUCTURE_SMILES>
+CC(C)C#N
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)C#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

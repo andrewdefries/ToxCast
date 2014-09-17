@@ -1,0 +1,87 @@
+123-42-2
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    2.3044   -1.9956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1522   -1.3319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1522    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4566   -1.3319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7929   -0.1797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6088   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1203   -2.4842    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+> <ID>
+3915
+
+> <Formula>
+C6H12O2
+
+> <FW>
+116.1583
+
+> <DSSTox_CID>
+4917
+
+> <DSSTox_RID>
+77580
+
+> <DSSTox_GSID>
+24917
+
+> <DSSTox_FileID_Sort>
+2263
+
+> <TS_ChemName>
+Diacetone alcohol
+
+> <TS_ChemName_Synonyms>
+Diacetone alcohol (4-Hydroxy-4-methyl-2-pentanone)
+
+> <TS_CASRN>
+123-42-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O2
+
+> <STRUCTURE_MW>
+116.1583
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-hydroxy-4-methylpentan-2-one
+
+> <STRUCTURE_SMILES>
+CC(=O)CC(C)(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)CC(C)(C)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

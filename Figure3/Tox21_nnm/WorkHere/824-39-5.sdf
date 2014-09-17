@@ -1,0 +1,93 @@
+824-39-5
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  2 V2000
+    2.4816   -1.8924    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4816   -0.5713    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.6420   -2.5768    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3390   -2.5768    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3390   -3.8979    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6420   -3.8979    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4816   -4.5823    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8025   -1.9222    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    4.8025   -0.6070    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    5.9510   -2.5946    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <ID>
+7047
+
+> <Formula>
+C6H4NNaO3
+
+> <FW>
+161.0906 (138.1014+22.9892)
+
+> <DSSTox_CID>
+15616
+
+> <DSSTox_RID>
+79264
+
+> <DSSTox_GSID>
+35616
+
+> <DSSTox_FileID_Sort>
+3946
+
+> <TS_ChemName>
+Sodium 2-nitrophenolate
+
+> <TS_ChemName_Synonyms>
+Sodium 2-nitrophenolate (Sodium o-nitrophenolate)
+
+> <TS_CASRN>
+824-39-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [88-75-5 ]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4NNaO3
+
+> <STRUCTURE_MW>
+161.0906
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 2-nitrophenolate
+
+> <STRUCTURE_SMILES>
+[Na+].O=[N+]([O-])c1ccccc1[O-]
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccccc1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

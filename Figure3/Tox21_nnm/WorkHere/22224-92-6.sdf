@@ -1,0 +1,110 @@
+22224-92-6
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    3.3148   -3.3239    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9889   -3.3239    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3148   -4.6499    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6408   -3.3239    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6216   -7.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7750   -6.6660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4773   -6.6660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4773   -5.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3148   -1.9980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7750   -5.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9375   -7.3381    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6216   -4.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3169   -2.1705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6216   -8.6549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0818   -6.6751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4682   -1.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9889   -1.0172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4682    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  8  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 10  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+M  END
+> <ID>
+3502
+
+> <Formula>
+C13H22NO3PS
+
+> <FW>
+303.3574
+
+> <DSSTox_CID>
+4102
+
+> <DSSTox_RID>
+77289
+
+> <DSSTox_GSID>
+24102
+
+> <DSSTox_FileID_Sort>
+1972
+
+> <TS_ChemName>
+Fenamiphos
+
+> <TS_ChemName_Synonyms>
+Fenamiphos (Phenamiphos)
+
+> <TS_CASRN>
+22224-92-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H22NO3PS
+
+> <STRUCTURE_MW>
+303.3574
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 3-methyl-4-(methylsulfanyl)phenyl propan-2-ylphosphoramidate
+
+> <STRUCTURE_SMILES>
+Cc1cc(ccc1SC)OP(=O)(NC(C)C)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(ccc1SC)OP(=O)(NC(C)C)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

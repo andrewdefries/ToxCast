@@ -1,0 +1,113 @@
+5053-08-7
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    7.6868   -3.3608    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.8027    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0699   -2.9886    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0699   -1.6513    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3258   -1.2327    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9072   -2.3258    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5701   -1.1629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9191   -1.1629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5935   -2.3258    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9425   -2.3258    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6054   -1.1629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9427   -1.1629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.6288    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.9661    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.6290   -1.1629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.9661   -2.3258    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.6288   -2.3258    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9191   -3.4771    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5701   -3.4771    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3258   -3.4189    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 19  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+11180
+
+> <Formula>
+C15H21ClN2O2
+
+> <FW>
+296.7924 (36.4609+260.3315)
+
+> <DSSTox_CID>
+25770
+
+> <DSSTox_RID>
+81112
+
+> <DSSTox_GSID>
+45770
+
+> <DSSTox_FileID_Sort>
+5793
+
+> <TS_ChemName>
+Fenspiride hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5053-08-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [5053-06-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H21ClN2O2
+
+> <STRUCTURE_MW>
+296.7924
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+8-(2-phenylethyl)-1-oxa-3,8-diazaspiro[4.5]decan-2-one hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C3NCC1(CCN(CC1)CCc2ccccc2)O3
+
+> <STRUCTURE_SMILES_Desalt>
+O=C3NCC1(CCN(CC1)CCc2ccccc2)O3
+
+> <Substance_modify_yyyymmdd>
+20110902
+
+$$$$

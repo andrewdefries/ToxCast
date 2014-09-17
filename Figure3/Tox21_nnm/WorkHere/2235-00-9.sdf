@@ -1,0 +1,92 @@
+2235-00-9
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.4129   -1.9662    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6183   -2.5343    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9592   -3.8533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1786   -4.8611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8942   -4.9402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2618   -2.5491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6557   -1.6747    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4129   -0.6521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2421    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+8389
+
+> <Formula>
+C8H13NO
+
+> <FW>
+139.1949
+
+> <DSSTox_CID>
+21423
+
+> <DSSTox_RID>
+79727
+
+> <DSSTox_GSID>
+41423
+
+> <DSSTox_FileID_Sort>
+4409
+
+> <TS_ChemName>
+1-Ethenylazepan-2-one
+
+> <TS_ChemName_Synonyms>
+N-Vinylcaprolactam
+
+> <TS_CASRN>
+2235-00-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H13NO
+
+> <STRUCTURE_MW>
+139.1949
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-ethenylazepan-2-one
+
+> <STRUCTURE_SMILES>
+C=CN1CCCCCC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+C=CN1CCCCCC1=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

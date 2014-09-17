@@ -1,0 +1,111 @@
+54029-12-8
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1483   -1.9770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1483   -3.3050    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9840    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3065   -3.9840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3065   -5.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548   -5.9809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6130   -5.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8711   -5.7213    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6599   -4.6529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8711   -3.5846    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6130   -3.9840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548   -3.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9879   -4.6529    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6569   -3.5047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9849   -3.5047    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9879   -2.3464    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6599   -2.3464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+16167
+
+> <Formula>
+C12H15N3O3S
+
+> <FW>
+281.3308
+
+> <DSSTox_CID>
+31557
+
+> <DSSTox_RID>
+97442
+
+> <DSSTox_GSID>
+57768
+
+> <DSSTox_FileID_Sort>
+8509
+
+> <TS_ChemName>
+Albendazole oxide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+54029-12-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H15N3O3S
+
+> <STRUCTURE_MW>
+281.3308
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl [5-(propylsulfinyl)-1H-benzimidazol-2-yl]carbamate
+
+> <STRUCTURE_SMILES>
+CCCS(=O)c1cc2nc(NC(=O)OC)nc2cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCS(=O)c1cc2nc(NC(=O)OC)nc2cc1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

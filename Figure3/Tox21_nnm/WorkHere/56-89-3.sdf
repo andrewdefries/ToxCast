@@ -1,0 +1,99 @@
+56-89-3
+ChemmineR-0915142007XD
+
+ 14 13  0  0  1  0  0  0  0  0  1 V2000
+    2.3046   -3.3323    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3046   -1.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4568   -1.3288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6091   -1.9827    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7510   -1.3288    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9033   -1.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0555   -1.3288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0555    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2286   -1.9827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2286   -3.3323    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3809   -1.3288    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -1.3288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9827    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <ID>
+11662
+
+> <Formula>
+C6H12N2O4S2
+
+> <FW>
+240.3005
+
+> <DSSTox_CID>
+26418
+
+> <DSSTox_RID>
+81596
+
+> <DSSTox_GSID>
+46418
+
+> <DSSTox_FileID_Sort>
+6277
+
+> <TS_ChemName>
+L-Cystine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+56-89-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12N2O4S2
+
+> <STRUCTURE_MW>
+240.3005
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+L-cystine
+
+> <STRUCTURE_SMILES>
+N[C@@H](CSSC[C@H](N)C(=O)O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+N[C@@H](CSSC[C@H](N)C(=O)O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20110813
+
+$$$$

@@ -1,0 +1,103 @@
+25371-96-4
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.7105    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530   -3.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8170   -2.2275    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4890   -4.5275    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3060   -4.0446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4530   -3.3745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6060   -4.0446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6060   -5.3726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4530   -6.0367    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3060   -5.3726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4530   -2.0464    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3784   -1.2677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7889    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1230    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5335   -1.2677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+10826
+
+> <Formula>
+C10H7F3N2
+
+> <FW>
+212.1712
+
+> <DSSTox_CID>
+25217
+
+> <DSSTox_RID>
+80756
+
+> <DSSTox_GSID>
+45217
+
+> <DSSTox_FileID_Sort>
+5437
+
+> <TS_ChemName>
+1-[2-(Trifluoromethyl)phenyl]-1H-imidazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+25371-96-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H7F3N2
+
+> <STRUCTURE_MW>
+212.1712
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-[2-(trifluoromethyl)phenyl]-1H-imidazole
+
+> <STRUCTURE_SMILES>
+FC(F)(F)c1ccccc1n2ccnc2
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)(F)c1ccccc1n2ccnc2
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

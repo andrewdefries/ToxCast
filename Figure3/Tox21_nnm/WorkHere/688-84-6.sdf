@@ -1,0 +1,99 @@
+688-84-6
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    5.7601   -1.3311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9137   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0673   -1.3311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7601    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6064   -1.9926    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9137   -3.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4609   -1.3311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3073   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3073   -3.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -3.9933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -5.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -1.3311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+5056
+
+> <Formula>
+C12H22O2
+
+> <FW>
+198.3019
+
+> <DSSTox_CID>
+7293
+
+> <DSSTox_RID>
+78391
+
+> <DSSTox_GSID>
+27293
+
+> <DSSTox_FileID_Sort>
+3074
+
+> <TS_ChemName>
+2-Ethylhexyl methacrylate
+
+> <TS_ChemName_Synonyms>
+2-Propenoic acid, 2-methyl-, 2-ethylhexyl ester
+
+> <TS_CASRN>
+688-84-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H22O2
+
+> <STRUCTURE_MW>
+198.3019
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethylhexyl 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+O=C(OCC(CCCC)CC)C(=C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC(CCCC)CC)C(=C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

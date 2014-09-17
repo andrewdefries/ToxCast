@@ -1,0 +1,94 @@
+432-25-7
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.3049   -1.9859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -0.6580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524   -2.6598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4573   -2.6598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4573   -3.9877    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4573    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8264   -3.8122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4985   -3.8122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+12292
+
+> <Formula>
+C10H16O
+
+> <FW>
+152.2334
+
+> <DSSTox_CID>
+27142
+
+> <DSSTox_RID>
+82149
+
+> <DSSTox_GSID>
+47142
+
+> <DSSTox_FileID_Sort>
+6830
+
+> <TS_ChemName>
+beta-Cyclocitral
+
+> <TS_ChemName_Synonyms>
+beta-Cyclocitral (2,6,6-Trimethyl-1-cyclohexene-1-carbaldehyde)
+
+> <TS_CASRN>
+432-25-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16O
+
+> <STRUCTURE_MW>
+152.2334
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,6,6-trimethylcyclohex-1-ene-1-carbaldehyde
+
+> <STRUCTURE_SMILES>
+CC=1CCCC(C)(C)C=1C=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC=1CCCC(C)(C)C=1C=O
+
+> <Substance_modify_yyyymmdd>
+20100502
+
+$$$$

@@ -1,0 +1,116 @@
+478-43-3
+ChemmineR-0915142007XD
+
+ 21 23  0  0  0  0  0  0  0  0  1 V2000
+    5.7594    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7594   -1.3270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9113   -1.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0632   -1.3270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0632    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2151   -1.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2151   -3.3267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0632   -3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9113   -3.3267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7594   -3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7594   -5.3171    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6076   -3.3267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4557   -3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3038   -3.3267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3038   -1.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4557   -1.3270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4557    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6076   -1.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -5.3171    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3267    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+M  END
+> <ID>
+4496
+
+> <Formula>
+C15H8O6
+
+> <FW>
+284.2204
+
+> <DSSTox_CID>
+6000
+
+> <DSSTox_RID>
+77984
+
+> <DSSTox_GSID>
+26000
+
+> <DSSTox_FileID_Sort>
+2667
+
+> <TS_ChemName>
+Rhein
+
+> <TS_ChemName_Synonyms>
+Rhein (1,8-dihydroxy-3-carboxyl anthraquinone)
+
+> <TS_CASRN>
+478-43-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H8O6
+
+> <STRUCTURE_MW>
+284.2204
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,5-dihydroxy-9,10-dioxo-9,10-dihydroanthracene-2-carboxylic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)c3cc2C(=O)c1cccc(O)c1C(=O)c2c(O)c3
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)c3cc2C(=O)c1cccc(O)c1C(=O)c2c(O)c3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

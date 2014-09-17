@@ -1,0 +1,107 @@
+50-06-6
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    5.0813   -3.9882    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0813   -2.6588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9218   -2.0015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6293   -1.7578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7652   -2.7844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4653   -2.5628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8641   -0.2880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1640   -0.5096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9218   -0.6721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7696    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0813    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2335   -0.6721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3856    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2335   -2.0015    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4786   -3.2349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1640   -3.4786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+1078
+
+> <Formula>
+C12H12N2O3
+
+> <FW>
+232.2353
+
+> <DSSTox_CID>
+1122
+
+> <DSSTox_RID>
+75953
+
+> <DSSTox_GSID>
+21122
+
+> <DSSTox_FileID_Sort>
+637
+
+> <TS_ChemName>
+Phenobarbital
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+50-06-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H12N2O3
+
+> <STRUCTURE_MW>
+232.2353
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-ethyl-5-phenylpyrimidine-2,4,6(1H,3H,5H)-trione
+
+> <STRUCTURE_SMILES>
+O=C1NC(=O)NC(=O)C1(CC)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1NC(=O)NC(=O)C1(CC)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

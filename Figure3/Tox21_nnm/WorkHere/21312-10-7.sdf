@@ -1,0 +1,113 @@
+21312-10-7
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    5.9761   -4.8021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3204   -5.9550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9876   -5.9550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3213   -4.8021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9876   -3.6492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3204   -3.6492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9885   -4.8021    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3327   -3.6492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.6492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9885   -2.4962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3089   -4.8021    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3089   -3.4693    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4618   -2.8030    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6099   -1.4914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9003   -1.1952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4503    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5773   -2.3482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6782   -3.3424    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3089   -6.1348    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6416   -4.8021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 19  2  0  0  0  0
+ 11 20  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+14028
+
+> <Formula>
+C12H13N3O4S
+
+> <FW>
+295.3143
+
+> <DSSTox_CID>
+28970
+
+> <DSSTox_RID>
+83235
+
+> <DSSTox_GSID>
+49044
+
+> <DSSTox_FileID_Sort>
+7910
+
+> <TS_ChemName>
+N-Acetyl sulfamethoxazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+21312-10-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H13N3O4S
+
+> <STRUCTURE_MW>
+295.3143
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-{4-[(5-methyl-1,2-oxazol-3-yl)sulfamoyl]phenyl}acetamide
+
+> <STRUCTURE_SMILES>
+Cc2cc(NS(=O)(=O)c1ccc(NC(C)=O)cc1)no2
+
+> <STRUCTURE_SMILES_Desalt>
+Cc2cc(NS(=O)(=O)c1ccc(NC(C)=O)cc1)no2
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

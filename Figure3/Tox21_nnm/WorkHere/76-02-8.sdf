@@ -1,0 +1,85 @@
+76-02-8
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.1587   -2.0001    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -1.3380    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4485   -2.0001    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8208   -3.1588    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6760    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5000   -0.8552    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+M  END
+> <ID>
+6657
+
+> <Formula>
+C2Cl4O
+
+> <FW>
+181.8328
+
+> <DSSTox_CID>
+14070
+
+> <DSSTox_RID>
+79109
+
+> <DSSTox_GSID>
+34070
+
+> <DSSTox_FileID_Sort>
+3791
+
+> <TS_ChemName>
+Trichloroacetyl chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+76-02-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2Cl4O
+
+> <STRUCTURE_MW>
+181.8328
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+trichloroacetyl chloride
+
+> <STRUCTURE_SMILES>
+ClC(Cl)(Cl)C(Cl)=O
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)(Cl)C(Cl)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

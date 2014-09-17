@@ -1,0 +1,112 @@
+82248-59-7
+ChemmineR-0915142007XD
+
+ 20 20  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -1.9983    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3243    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1603   -3.9874    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3022   -3.3243    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3022   -1.9983    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1603   -1.3261    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4625   -1.3261    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6043   -1.9983    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7646   -1.3261    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6043   -3.3243    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7646   -3.9874    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7646   -5.3134    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6043   -5.9857    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4625   -5.3134    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4625   -3.9874    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1603    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9065   -1.9983    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0668   -1.3261    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2087   -1.9983    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4314   -3.1402    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  6  0  0  0
+  8  9  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+9947
+
+> <Formula>
+C17H22ClNO
+
+> <FW>
+291.8157 (255.3547+36.4609)
+
+> <DSSTox_CID>
+24266
+
+> <DSSTox_RID>
+80136
+
+> <DSSTox_GSID>
+44266
+
+> <DSSTox_FileID_Sort>
+4818
+
+> <TS_ChemName>
+Atomoxetine hydrochloride
+
+> <TS_ChemName_Synonyms>
+Atomoxetine hydrochloride (Strattera)
+
+> <TS_CASRN>
+82248-59-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [83015-26-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H22ClNO
+
+> <STRUCTURE_MW>
+291.8157
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(3R)-N-methyl-3-(2-methylphenoxy)-3-phenylpropan-1-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Cc2ccccc2O[C@H](CCNC)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc2ccccc2O[C@H](CCNC)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20090302
+
+$$$$

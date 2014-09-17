@@ -1,0 +1,114 @@
+486-67-9
+ChemmineR-0915142007XD
+
+ 21 21  0  0  0  0  0  0  0  0  1 V2000
+    5.7563   -3.9549    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7563   -2.6193    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5968   -1.9775    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8952   -4.6175    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1936   -1.9464    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0340   -3.9549    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8952   -1.9464    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1936   -0.6108    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0340   -2.6090    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4579    0.0000    0.0000 Hg   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4579   -2.6193    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3191   -1.9982    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3191   -0.6626    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3531   -2.6090    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5968   -4.6279    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5968   -0.7144    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1596   -2.6711    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8952   -5.9634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9982    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5968   -5.9634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7563   -6.6260    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 15  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 18  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6  9  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 20 21  2  0  0  0  0
+M  END
+> <ID>
+12063
+
+> <Formula>
+C13H17HgNO6
+
+> <FW>
+483.8672
+
+> <DSSTox_CID>
+26902
+
+> <DSSTox_RID>
+82001
+
+> <DSSTox_GSID>
+46902
+
+> <DSSTox_FileID_Sort>
+6682
+
+> <TS_ChemName>
+Mersalyl acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+486-67-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H17HgNO6
+
+> <STRUCTURE_MW>
+483.8672
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+(3-{[2-(carboxymethoxy)benzoyl]amino}-2-methoxypropyl)(hydroxy)mercury
+
+> <STRUCTURE_SMILES>
+O[Hg]CC(OC)CNC(=O)c1ccccc1OCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O[Hg]CC(OC)CNC(=O)c1ccccc1OCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20110727
+
+$$$$

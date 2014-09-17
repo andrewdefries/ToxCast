@@ -1,0 +1,111 @@
+27661-27-4
+ChemmineR-0915142007XD
+
+ 19 20  0  0  1  0  0  0  0  0  1 V2000
+    3.4330   -1.1753    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -1.8351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -3.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4536   -3.8351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2990   -3.1753    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2990   -1.8557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1547   -3.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1547   -1.9794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0206   -1.3196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8763   -1.9794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8763   -3.3093    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0206   -3.9794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3093   -3.9794    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0206    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3093   -1.3196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7526   -1.1650    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -3.8454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1340   -5.1753    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1959    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2 16  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 17  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 15  1  1  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+M  END
+> <ID>
+11408
+
+> <Formula>
+C12H15NO6
+
+> <FW>
+269.2506
+
+> <DSSTox_CID>
+26102
+
+> <DSSTox_RID>
+81340
+
+> <DSSTox_GSID>
+46102
+
+> <DSSTox_FileID_Sort>
+6021
+
+> <TS_ChemName>
+Benaxibine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+27661-27-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H15NO6
+
+> <STRUCTURE_MW>
+269.2506
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(4-carboxyphenyl)-D-xylopyranosylamine
+
+> <STRUCTURE_SMILES>
+O=C(O)c1ccc(cc1)NC2OC[C@@H](O)[C@H](O)[C@H]2O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)c1ccc(cc1)NC2OC[C@@H](O)[C@H](O)[C@H]2O
+
+> <Substance_modify_yyyymmdd>
+20110819
+
+$$$$

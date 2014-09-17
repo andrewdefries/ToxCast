@@ -1,0 +1,97 @@
+120-58-1
+ChemmineR-0915142007XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    7.8057   -2.6695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6504   -2.0139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5108   -2.6695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3556   -2.0139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1925   -2.6695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0373   -2.0139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0373   -0.6791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1925    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3556   -0.6791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7884   -0.2576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7884   -2.4120    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  3  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+737
+
+> <Formula>
+C10H10O2
+
+> <FW>
+162.1852
+
+> <DSSTox_CID>
+767
+
+> <DSSTox_RID>
+75780
+
+> <DSSTox_GSID>
+20767
+
+> <DSSTox_FileID_Sort>
+464
+
+> <TS_ChemName>
+Isosafrole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+120-58-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C10H10O2
+
+> <STRUCTURE_MW>
+162.1852
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-(prop-1-en-1-yl)-1,3-benzodioxole
+
+> <STRUCTURE_SMILES>
+CC=Cc1ccc2OCOc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+CC=Cc1ccc2OCOc2c1
+
+> <Substance_modify_yyyymmdd>
+20110517
+
+$$$$

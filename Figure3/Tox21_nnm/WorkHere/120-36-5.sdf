@@ -1,0 +1,100 @@
+120-36-5
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    2.3046    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3046   -1.3296    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4569   -1.9984    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4569   -3.3280    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3046   -3.9888    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -3.3280    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -1.9984    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9888    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6012   -1.3296    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7535   -1.9984    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9058   -1.3296    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9058    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0581   -1.9984    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7535   -3.3280    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+424
+
+> <Formula>
+C9H8Cl2O3
+
+> <FW>
+235.064
+
+> <DSSTox_CID>
+440
+
+> <DSSTox_RID>
+75589
+
+> <DSSTox_GSID>
+20440
+
+> <DSSTox_FileID_Sort>
+273
+
+> <TS_ChemName>
+Dichlorprop
+
+> <TS_ChemName_Synonyms>
+Dichlorprop (alpha-(2,4-Dichlorophenoxy)propionic acid)  (2-4-DP)
+
+> <TS_CASRN>
+120-36-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of (2R) [15165-67-0], (2S) [15165-69-2]; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C9H8Cl2O3
+
+> <STRUCTURE_MW>
+235.064
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(2,4-dichlorophenoxy)propanoic acid
+
+> <STRUCTURE_SMILES>
+Clc1cc(Cl)ccc1OC(C)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(Cl)ccc1OC(C)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

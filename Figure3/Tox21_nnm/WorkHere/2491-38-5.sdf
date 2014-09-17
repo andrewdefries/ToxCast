@@ -1,0 +1,94 @@
+2491-38-5
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.1741   -2.0028    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1741   -3.3357    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2998   -4.0125    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4531   -3.3357    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4531   -2.0028    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2998   -1.3329    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6065   -1.3329    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7667   -1.9890    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6065    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9062   -1.3329    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0125    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+6835
+
+> <Formula>
+C8H7BrO2
+
+> <FW>
+215.044
+
+> <DSSTox_CID>
+14576
+
+> <DSSTox_RID>
+79168
+
+> <DSSTox_GSID>
+34576
+
+> <DSSTox_FileID_Sort>
+3850
+
+> <TS_ChemName>
+2-Bromo-4-hydroxyacetophenone
+
+> <TS_ChemName_Synonyms>
+2-Bromo-4-hydroxyacetophenone (Ethanone, 2-bromo-1-(4-hydroxyphenyl)-)
+
+> <TS_CASRN>
+2491-38-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H7BrO2
+
+> <STRUCTURE_MW>
+215.044
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-bromo-1-(4-hydroxyphenyl)ethanone
+
+> <STRUCTURE_SMILES>
+O=C(CBr)c1ccc(O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CBr)c1ccc(O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,88 @@
+822-87-7
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3027    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3289   -2.3027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9954   -1.1533    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3289    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3243   -1.1533    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9907   -2.3027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3243   -3.4560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9954   -3.4560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+1469
+
+> <Formula>
+C6H9ClO
+
+> <FW>
+132.5881
+
+> <DSSTox_CID>
+1530
+
+> <DSSTox_RID>
+76200
+
+> <DSSTox_GSID>
+21530
+
+> <DSSTox_FileID_Sort>
+884
+
+> <TS_ChemName>
+2-Chlorocyclohexanone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+822-87-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H9ClO
+
+> <STRUCTURE_MW>
+132.5881
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chlorocyclohexanone
+
+> <STRUCTURE_SMILES>
+O=C1CCCCC1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCCC1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

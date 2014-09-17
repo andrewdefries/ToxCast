@@ -1,0 +1,101 @@
+3979-76-8
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    2.3032   -2.6563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4588   -0.6581    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4588   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3032    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3032   -3.9885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1556   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6144   -2.6563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1556   -4.6465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8828   -6.6929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2069   -6.6929    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2069   -5.3688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2069   -8.0251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5391   -6.6929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+M  END
+> <ID>
+13797
+
+> <Formula>
+C8H14N2O4S
+
+> <FW>
+234.2728 (136.1943+98.0785)
+
+> <DSSTox_CID>
+28734
+
+> <DSSTox_RID>
+83003
+
+> <DSSTox_GSID>
+48808
+
+> <DSSTox_FileID_Sort>
+7680
+
+> <TS_ChemName>
+Mebanazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3979-76-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14N2O4S
+
+> <STRUCTURE_MW>
+234.2728
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(1-phenylethyl)hydrazine sulfate (1:1)
+
+> <STRUCTURE_SMILES>
+NNC(C)c1ccccc1.O=S(=O)(O)O
+
+> <STRUCTURE_SMILES_Desalt>
+NNC(C)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

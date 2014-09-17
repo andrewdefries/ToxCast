@@ -1,0 +1,98 @@
+830-13-7
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    3.4852   -0.6820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4852   -2.0271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6563   -2.6903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6563   -4.0402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4852   -4.7034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3188   -4.0402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1664   -4.7034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1664   -2.0271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1664   -0.6820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3188    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5246   -0.1599    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  1 13  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+5077
+
+> <Formula>
+C12H22O
+
+> <FW>
+182.3025
+
+> <DSSTox_CID>
+7322
+
+> <DSSTox_RID>
+78407
+
+> <DSSTox_GSID>
+27322
+
+> <DSSTox_FileID_Sort>
+3090
+
+> <TS_ChemName>
+Cyclododecanone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+830-13-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H22O
+
+> <STRUCTURE_MW>
+182.3025
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+cyclododecanone
+
+> <STRUCTURE_SMILES>
+O=C1CCCCCCCCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCCCCCCCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

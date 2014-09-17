@@ -1,0 +1,111 @@
+500-62-9
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    8.0679   -2.6627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0679   -3.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7542   -3.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9110   -1.9846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7542   -2.6627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9110   -4.6473    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5974   -4.6473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5974   -5.9836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2147   -4.6473    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4505   -6.6518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9110   -0.6582    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568   -7.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4505   -7.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3137   -5.9836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568   -6.6518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3137   -8.6463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -8.6463    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0679    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -9.9726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  5  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <ID>
+6663
+
+> <Formula>
+C15H14O4
+
+> <FW>
+258.2693
+
+> <DSSTox_CID>
+14102
+
+> <DSSTox_RID>
+79115
+
+> <DSSTox_GSID>
+34102
+
+> <DSSTox_FileID_Sort>
+3797
+
+> <TS_ChemName>
+Yangonin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+500-62-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H14O4
+
+> <STRUCTURE_MW>
+258.2693
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methoxy-6-[(E)-2-(4-methoxyphenyl)ethenyl]-2H-pyran-2-one
+
+> <STRUCTURE_SMILES>
+COC=2C=C(/C=C/c1ccc(OC)cc1)OC(=O)C=2
+
+> <STRUCTURE_SMILES_Desalt>
+COC=2C=C(/C=C/c1ccc(OC)cc1)OC(=O)C=2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

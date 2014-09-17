@@ -1,0 +1,98 @@
+40187-51-7
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    3.9912   -5.7564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6554   -4.6075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9838   -4.6075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -3.4527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6554   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -1.1489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6568   -1.1489    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9926    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9926   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6568   -3.4527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6642   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1489    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <ID>
+16136
+
+> <Formula>
+C9H9NO3
+
+> <FW>
+179.1727
+
+> <DSSTox_CID>
+31525
+
+> <DSSTox_RID>
+97410
+
+> <DSSTox_GSID>
+57736
+
+> <DSSTox_FileID_Sort>
+8477
+
+> <TS_ChemName>
+5-Acetylsalicylamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+40187-51-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H9NO3
+
+> <STRUCTURE_MW>
+179.1727
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-acetyl-2-hydroxybenzamide
+
+> <STRUCTURE_SMILES>
+O=C(N)c1cc(ccc1O)C(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(N)c1cc(ccc1O)C(C)=O
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

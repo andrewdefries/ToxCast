@@ -1,0 +1,98 @@
+501-68-8
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    3.9915   -8.0636    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6527   -6.9105    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9915   -5.7574    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6527   -4.6043    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9832   -4.6043    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9915   -3.4593    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6610   -3.4593    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9917   -2.3062    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6610   -1.1531    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9917    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6612    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1531    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6612   -2.3062    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+16155
+
+> <Formula>
+C10H12ClNO
+
+> <FW>
+197.6614
+
+> <DSSTox_CID>
+31544
+
+> <DSSTox_RID>
+97429
+
+> <DSSTox_GSID>
+57755
+
+> <DSSTox_FileID_Sort>
+8496
+
+> <TS_ChemName>
+Beclamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+501-68-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12ClNO
+
+> <STRUCTURE_MW>
+197.6614
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-benzyl-3-chloropropanamide
+
+> <STRUCTURE_SMILES>
+ClCCC(=O)NCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+ClCCC(=O)NCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

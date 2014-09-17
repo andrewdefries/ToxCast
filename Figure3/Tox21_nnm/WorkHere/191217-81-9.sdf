@@ -1,0 +1,104 @@
+191217-81-9
+ChemmineR-0915142007XD
+
+ 17 15  0  0  1  0  0  0  0  0  1 V2000
+    6.9093   -1.9946    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9093   -0.6580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1842   -2.4059    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7578   -2.6527    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7578    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1842   -0.2468    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9451   -1.3161    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5959   -1.9946    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5959   -0.6580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.2817   -1.3161    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -0.6580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1413    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1668   -3.7734    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9866   -3.7734    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8682   -3.6911    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+9920
+
+> <Formula>
+C10H21Cl2N3OS
+
+> <FW>
+302.2642 (211.3271+36.4609+36.4609+18.0153)
+
+> <DSSTox_CID>
+24227
+
+> <DSSTox_RID>
+80129
+
+> <DSSTox_GSID>
+44227
+
+> <DSSTox_FileID_Sort>
+4811
+
+> <TS_ChemName>
+Pramipexole dihydrochloride monohydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+191217-81-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H21Cl2N3OS
+
+> <STRUCTURE_MW>
+302.2642
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(6S)-N~6~-propyl-4,5,6,7-tetrahydro-1,3-benzothiazole-2,6-diamine dihydrochloride hydrate
+
+> <STRUCTURE_SMILES>
+Cl.Cl.O.CCCN[C@@H]1Cc2sc(N)nc2CC1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCN[C@@H]1Cc2sc(N)nc2CC1
+
+> <Substance_modify_yyyymmdd>
+20090302
+
+$$$$

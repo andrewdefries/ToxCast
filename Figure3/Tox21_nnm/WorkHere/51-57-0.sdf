@@ -1,0 +1,95 @@
+51-57-0
+ChemmineR-0915142007XD
+
+ 12 11  0  0  1  0  0  0  0  0  1 V2000
+    5.7429    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4549    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2879   -0.6756    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066   -0.6756    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9098   -0.6756    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2879   -2.0039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066   -2.0039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6756    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -2.6565    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6776   -2.5413    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  1  1  0  0  0
+  6 10  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+13853
+
+> <Formula>
+C10H16ClN
+
+> <FW>
+185.6937 (149.2328+36.4609)
+
+> <DSSTox_CID>
+28790
+
+> <DSSTox_RID>
+83059
+
+> <DSSTox_GSID>
+48864
+
+> <DSSTox_FileID_Sort>
+7736
+
+> <TS_ChemName>
+S-(+)-Methamphetamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+51-57-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16ClN
+
+> <STRUCTURE_MW>
+185.6937
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(2S)-N-methyl-1-phenylpropan-2-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.C[C@H](NC)Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+C[C@H](NC)Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

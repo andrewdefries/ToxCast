@@ -1,0 +1,104 @@
+33045-52-2
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    5.3217   -5.9284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6492   -4.7734    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217   -3.6184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6521   -3.6184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6492   -2.4854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6521   -1.3304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3100   -0.1754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6492   -0.1754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3334   -0.1754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6608   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3334   -2.4854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.3304    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -2.6608    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  2  0  0  0  0
+M  END
+> <ID>
+16119
+
+> <Formula>
+C9H11NO5S
+
+> <FW>
+245.2523
+
+> <DSSTox_CID>
+31507
+
+> <DSSTox_RID>
+97392
+
+> <DSSTox_GSID>
+57718
+
+> <DSSTox_FileID_Sort>
+8459
+
+> <TS_ChemName>
+Methyl 5-sulfamoyl-o-anisate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+33045-52-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11NO5S
+
+> <STRUCTURE_MW>
+245.2523
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 2-methoxy-5-sulfamoylbenzoate
+
+> <STRUCTURE_SMILES>
+O=S(N)(=O)c1cc(c(OC)cc1)C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(N)(=O)c1cc(c(OC)cc1)C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

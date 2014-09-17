@@ -1,0 +1,91 @@
+10281-55-7
+ChemmineR-0915142007XD
+
+ 10  9  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -1.3255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1327   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2975   -1.3255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4462   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6190   -1.3255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7517   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9004   -1.3255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0331   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2975    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9004    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  1  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+M  END
+> <ID>
+12379
+
+> <Formula>
+C10H18
+
+> <FW>
+138.2499
+
+> <DSSTox_CID>
+27236
+
+> <DSSTox_RID>
+82201
+
+> <DSSTox_GSID>
+47236
+
+> <DSSTox_FileID_Sort>
+6882
+
+> <TS_ChemName>
+(S)-Citronellene
+
+> <TS_ChemName_Synonyms>
+(+)-beta-Ciitronellene
+
+> <TS_CASRN>
+10281-55-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18
+
+> <STRUCTURE_MW>
+138.2499
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3S)-3,7-dimethylocta-1,6-diene
+
+> <STRUCTURE_SMILES>
+C=C[C@@H](C)CC\C=C(\C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C=C[C@@H](C)CC\C=C(\C)C
+
+> <Substance_modify_yyyymmdd>
+20100504
+
+$$$$

@@ -1,0 +1,91 @@
+39255-32-8
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    3.4612   -1.3456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6123   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7796   -1.3456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9387   -1.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1060   -1.3456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4612    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3264   -1.9860    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6123   -3.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1673   -1.3456    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+12344
+
+> <Formula>
+C8H16O2
+
+> <FW>
+144.2114
+
+> <DSSTox_CID>
+27198
+
+> <DSSTox_RID>
+82193
+
+> <DSSTox_GSID>
+47198
+
+> <DSSTox_FileID_Sort>
+6874
+
+> <TS_ChemName>
+Ethyl 2-methylpentanoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+39255-32-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H16O2
+
+> <STRUCTURE_MW>
+144.2114
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 2-methylpentanoate
+
+> <STRUCTURE_SMILES>
+CCCC(C)C(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC(C)C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20100503
+
+$$$$

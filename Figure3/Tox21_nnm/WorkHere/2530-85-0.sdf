@@ -1,0 +1,103 @@
+2530-85-0
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    6.4335   -2.9909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.7968   -2.8972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3763   -1.7468    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7092   -1.8576    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8370   -4.1583    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5211   -4.0049    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5077   -4.2350    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7834   -3.1017    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4541   -3.1869    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7298   -2.0536    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6361   -0.7073    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4346   -0.1108    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3920   -2.1303    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.2295    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9228   -1.4060    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9739    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+5880
+
+> <Formula>
+C10H20O5Si
+
+> <FW>
+248.3483
+
+> <DSSTox_CID>
+9237
+
+> <DSSTox_RID>
+78725
+
+> <DSSTox_GSID>
+29237
+
+> <DSSTox_FileID_Sort>
+3407
+
+> <TS_ChemName>
+3-(Trimethoxysilyl)propyl methacrylate
+
+> <TS_ChemName_Synonyms>
+2-Propenoic acid, 2-methyl-, 3-(trimethoxysilyl)propyl ester
+
+> <TS_CASRN>
+2530-85-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20O5Si
+
+> <STRUCTURE_MW>
+248.3483
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+3-(trimethoxysilyl)propyl 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+CO[Si](CCCOC(=O)C(=C)C)(OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CO[Si](CCCOC(=O)C(=C)C)(OC)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

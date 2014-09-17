@@ -1,0 +1,104 @@
+6152-33-6
+ChemmineR-0915142007XD
+
+ 18 14  0  0  0  0  0  0  0  0  2 V2000
+    5.6668   -4.7825    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    4.9943    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    4.3342   -1.1458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9943   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3342   -3.4499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0015   -3.4499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3414   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0015   -1.1458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3269   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9870   -1.1458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3196   -1.1458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9922   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3196   -3.4499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9870   -3.4499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6975    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0015    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   12.4047   -0.7971    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   12.4545   -3.0015    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+7968
+
+> <Formula>
+C12H17NaO5
+
+> <FW>
+264.2501 (22.9892+169.1998+18.0153+18.0153+18.0153+18.0153)
+
+> <DSSTox_CID>
+20794
+
+> <DSSTox_RID>
+79602
+
+> <DSSTox_GSID>
+40794
+
+> <DSSTox_FileID_Sort>
+4284
+
+> <TS_ChemName>
+Sodium 2-phenylphenate tetrahydrate
+
+> <TS_ChemName_Synonyms>
+2-Phenylphenol sodium salt tetrahydrate
+
+> <TS_CASRN>
+6152-33-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [90-43-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H17NaO5
+
+> <STRUCTURE_MW>
+264.2501
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt complex
+
+> <STRUCTURE_IUPAC>
+sodium biphenyl-2-olate hydrate (1:1:4)
+
+> <STRUCTURE_SMILES>
+[Na+].O.O.O.O.[O-]c2ccccc2c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccccc2c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,84 @@
+120-92-3
+ChemmineR-0915142007XD
+
+  6  6  0  0  0  0  0  0  0  0  1 V2000
+    0.8951   -1.2979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1138   -1.8418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9692   -3.1534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6713   -3.4426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6231    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+5817
+
+> <Formula>
+C5H8O
+
+> <FW>
+84.1164
+
+> <DSSTox_CID>
+9154
+
+> <DSSTox_RID>
+78687
+
+> <DSSTox_GSID>
+29154
+
+> <DSSTox_FileID_Sort>
+3369
+
+> <TS_ChemName>
+Cyclopentanone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+120-92-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8O
+
+> <STRUCTURE_MW>
+84.1164
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+cyclopentanone
+
+> <STRUCTURE_SMILES>
+O=C1CCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

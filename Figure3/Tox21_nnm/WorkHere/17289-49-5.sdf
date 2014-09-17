@@ -1,0 +1,97 @@
+17289-49-5
+ChemmineR-0915142007XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    3.3573   -2.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0948   -2.4175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3573   -0.6737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5122   -2.6722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3248   -1.3474    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6928   -3.6800    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0948   -0.2604    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5122    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6615   -2.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3850   -3.9687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6615   -0.6737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <ID>
+11431
+
+> <Formula>
+C9H15N3
+
+> <FW>
+165.2355
+
+> <DSSTox_CID>
+26130
+
+> <DSSTox_RID>
+81363
+
+> <DSSTox_GSID>
+46130
+
+> <DSSTox_FileID_Sort>
+6044
+
+> <TS_ChemName>
+Tetridamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+17289-49-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H15N3
+
+> <STRUCTURE_MW>
+165.2355
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,2-dimethyl-4,5,6,7-tetrahydro-2H-indazol-3-amine
+
+> <STRUCTURE_SMILES>
+CNc1c2CCCCc2nn1C
+
+> <STRUCTURE_SMILES_Desalt>
+CNc1c2CCCCc2nn1C
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

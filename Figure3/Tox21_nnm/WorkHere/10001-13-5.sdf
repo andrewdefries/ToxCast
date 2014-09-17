@@ -1,0 +1,103 @@
+10001-13-5
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    8.0594   -3.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9069   -3.3285    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7544   -3.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6019   -3.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6019   -1.9987    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7544   -1.3298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9069   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575   -1.3298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -3.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -3.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -1.3298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+11581
+
+> <Formula>
+C12H22N2O
+
+> <FW>
+210.3159
+
+> <DSSTox_CID>
+26288
+
+> <DSSTox_RID>
+81514
+
+> <DSSTox_GSID>
+46288
+
+> <DSSTox_FileID_Sort>
+6195
+
+> <TS_ChemName>
+Pexantel
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+10001-13-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H22N2O
+
+> <STRUCTURE_MW>
+210.3159
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+cyclohexyl(4-methylpiperazin-1-yl)methanone
+
+> <STRUCTURE_SMILES>
+O=C(N1CCN(C)CC1)C2CCCCC2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(N1CCN(C)CC1)C2CCCCC2
+
+> <Substance_modify_yyyymmdd>
+20110815
+
+$$$$

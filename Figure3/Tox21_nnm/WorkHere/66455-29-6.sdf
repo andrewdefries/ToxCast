@@ -1,0 +1,109 @@
+66455-29-6
+ChemmineR-0915142007XD
+
+ 19 18  0  0  0  0  0  0  0  0  2 V2000
+    4.5748   -0.6340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7057   -1.3193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8537   -0.6340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9845   -1.3193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1497   -0.6340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2805   -1.3193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4285   -0.6340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5594   -1.3193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7074   -0.6340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8382   -1.3193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0033   -0.6340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1342   -1.3193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4268   -1.3193    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.2960   -0.6340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1309   -1.3193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6340    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1309   -2.6387    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.4268   -2.6387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4268    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+8238
+
+> <Formula>
+C16H33NO2
+
+> <FW>
+271.4387
+
+> <DSSTox_CID>
+21266
+
+> <DSSTox_RID>
+82033
+
+> <DSSTox_GSID>
+46978
+
+> <DSSTox_FileID_Sort>
+6714
+
+> <TS_ChemName>
+N-(Alkyl C10-C16)-N,N-dimethylglycine betaine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+66455-29-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of alkyl dimethyl betaines; stucture shown C12; ammonium
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C16H33NO2
+
+> <STRUCTURE_MW>
+271.4387
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+[dodecyl(dimethyl)ammonio]acetate
+
+> <STRUCTURE_SMILES>
+C[N+](C)(CCCCCCCCCCCC)CC([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(CCCCCCCCCCCC)CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20100220
+
+$$$$

@@ -1,0 +1,107 @@
+13331-52-7
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    3.9929   -3.9929    0.0000 Sn   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6593   -3.9929    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9885   -5.1509    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6548   -5.1509    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.2849    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9929   -5.3266    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1349   -5.9814    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1349   -7.3150    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2849   -7.9859    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9929   -2.6593    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8350   -1.9885    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8350   -0.6548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6850    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9814   -2.8350    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3150   -2.8350    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3266   -1.6850    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9814   -0.5271    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3266   -3.9929    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+10446
+
+> <Formula>
+C15H30O2Sn
+
+> <FW>
+361.1075
+
+> <DSSTox_CID>
+24796
+
+> <DSSTox_RID>
+80482
+
+> <DSSTox_GSID>
+44796
+
+> <DSSTox_FileID_Sort>
+5164
+
+> <TS_ChemName>
+(Acryloyloxy)(tributyl)stannane
+
+> <TS_ChemName_Synonyms>
+Tributyltin acrylate
+
+> <TS_CASRN>
+13331-52-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H30O2Sn
+
+> <STRUCTURE_MW>
+361.1075
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+(acryloyloxy)(tributyl)stannane
+
+> <STRUCTURE_SMILES>
+CCCC[Sn](CCCC)(OC(=O)C=C)CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC[Sn](CCCC)(OC(=O)C=C)CCCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

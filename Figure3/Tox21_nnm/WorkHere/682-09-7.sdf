@@ -1,0 +1,101 @@
+682-09-7
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    5.2339   -3.5009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8154   -2.3029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4086   -1.1166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6875    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9550   -4.6058    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0018   -2.8845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1300   -2.1633    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3163   -2.7565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4445   -2.0238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6309   -2.6169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6291   -1.7097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5125   -2.4425    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3145   -1.8609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2096   -2.5821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+10623
+
+> <Formula>
+C12H22O3
+
+> <FW>
+214.3013
+
+> <DSSTox_CID>
+24976
+
+> <DSSTox_RID>
+80626
+
+> <DSSTox_GSID>
+44976
+
+> <DSSTox_FileID_Sort>
+5308
+
+> <TS_ChemName>
+2,2-Bis[(prop-2-en-1-yloxy)methyl]butan-1-ol
+
+> <TS_ChemName_Synonyms>
+2,2-Bis[(prop-2-en-1-yloxy)methyl]butan-1-ol (1-Butanol, 2,2-bis[(2-propenyloxy)methyl]-)
+
+> <TS_CASRN>
+682-09-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H22O3
+
+> <STRUCTURE_MW>
+214.3013
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2-bis[(prop-2-en-1-yloxy)methyl]butan-1-ol
+
+> <STRUCTURE_SMILES>
+C=CCOCC(COCC=C)(CC)CO
+
+> <STRUCTURE_SMILES_Desalt>
+C=CCOCC(COCC=C)(CC)CO
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

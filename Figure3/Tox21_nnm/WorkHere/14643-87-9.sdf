@@ -1,0 +1,91 @@
+14643-87-9
+ChemmineR-0915142007XD
+
+ 11  8  0  0  0  0  0  0  0  0  2 V2000
+    2.1861   -1.0082    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8763   -0.7161    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.7055    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5818   -2.2426    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0812    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    4.4287   -1.1778    0.0000 Zn   0  2  0  0  0  0  0  0  0  0  0  0
+    7.1236   -1.7055    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.2826   -2.3840    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.4227   -1.7055    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1236   -0.3863    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9646   -2.3840    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+5378
+
+> <Formula>
+C6H6O4Zn
+
+> <FW>
+207.5184 (71.0553+65.4079+71.0553)
+
+> <DSSTox_CID>
+7768
+
+> <DSSTox_RID>
+78559
+
+> <DSSTox_GSID>
+27768
+
+> <DSSTox_FileID_Sort>
+3242
+
+> <TS_ChemName>
+Zinc diacrylate
+
+> <TS_ChemName_Synonyms>
+Zinc diacrylate (2-Propenoic acid, zinc salt)
+
+> <TS_CASRN>
+14643-87-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6O4Zn
+
+> <STRUCTURE_MW>
+207.5184
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+zinc diprop-2-enoate
+
+> <STRUCTURE_SMILES>
+[Zn+2].C=CC(=O)[O-].[O-]C(=O)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,115 @@
+70-30-4
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  1 V2000
+    2.3028   -5.3074    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028   -3.9830    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1465   -3.3208    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1465   -1.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028   -1.3244    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4493   -1.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4493   -3.3208    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9417   -4.1807    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4341   -3.3208    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4341   -1.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5805   -1.3244    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.7369   -1.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.7369   -3.3208    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5805   -3.9830    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5805   -5.3074    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8833   -3.9830    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5805    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4655   -1.3936    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1115   -1.5912    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9830    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 20  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 19  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+661
+
+> <Formula>
+C13H6Cl6O2
+
+> <FW>
+406.9035
+
+> <DSSTox_CID>
+690
+
+> <DSSTox_RID>
+75738
+
+> <DSSTox_GSID>
+20690
+
+> <DSSTox_FileID_Sort>
+422
+
+> <TS_ChemName>
+Hexachlorophene
+
+> <TS_ChemName_Synonyms>
+Hexachlorophene (2,2'-Methylene bis(3,4,6-trichlorophenol))
+
+> <TS_CASRN>
+70-30-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H6Cl6O2
+
+> <STRUCTURE_MW>
+406.9035
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-methanediylbis(3,4,6-trichlorophenol)
+
+> <STRUCTURE_SMILES>
+Clc2c(Cc1c(O)c(Cl)cc(Cl)c1Cl)c(O)c(Cl)cc2Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2c(Cc1c(O)c(Cl)cc(Cl)c1Cl)c(O)c(Cl)cc2Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

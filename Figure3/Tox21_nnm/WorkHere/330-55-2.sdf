@@ -1,0 +1,102 @@
+330-55-2
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    5.8018   -0.6726    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6512    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3499   -2.6497    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8018   -2.0015    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4762   -2.0015    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4762   -0.6726    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9687    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1912   -1.9772    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1912   -0.6807    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3499   -3.9867    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3499   -0.0081    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6254    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9606   -2.6497    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6512   -2.6659    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1031   -1.9772    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3 10  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 11  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+3538
+
+> <Formula>
+C9H10Cl2N2O2
+
+> <FW>
+249.0939
+
+> <DSSTox_CID>
+4163
+
+> <DSSTox_RID>
+77311
+
+> <DSSTox_GSID>
+24163
+
+> <DSSTox_FileID_Sort>
+1994
+
+> <TS_ChemName>
+Linuron
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+330-55-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10Cl2N2O2
+
+> <STRUCTURE_MW>
+249.0939
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(3,4-dichlorophenyl)-1-methoxy-1-methylurea
+
+> <STRUCTURE_SMILES>
+Clc1ccc(NC(=O)N(C)OC)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(NC(=O)N(C)OC)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

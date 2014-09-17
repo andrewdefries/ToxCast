@@ -1,0 +1,87 @@
+110-13-4
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1508   -1.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3016   -1.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4524   -1.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031   -1.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7539   -1.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1508   -3.3258    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+M  END
+> <ID>
+6260
+
+> <Formula>
+C6H10O2
+
+> <FW>
+114.1424
+
+> <DSSTox_CID>
+10138
+
+> <DSSTox_RID>
+78837
+
+> <DSSTox_GSID>
+30138
+
+> <DSSTox_FileID_Sort>
+3519
+
+> <TS_ChemName>
+2,5-Hexanedione
+
+> <TS_ChemName_Synonyms>
+2,5-Hexanedione (Acetonylacetone)
+
+> <TS_CASRN>
+110-13-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10O2
+
+> <STRUCTURE_MW>
+114.1424
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexane-2,5-dione
+
+> <STRUCTURE_SMILES>
+CC(=O)CCC(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)CCC(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

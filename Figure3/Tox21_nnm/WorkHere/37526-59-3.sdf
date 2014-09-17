@@ -1,0 +1,102 @@
+37526-59-3
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    4.0548   -2.2546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7366   -3.4089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0548   -4.5272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7450   -4.5272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0693   -3.4089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7450   -2.2546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7007   -1.1184    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9805   -1.8300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5823   -0.4725    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3346    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1171   -1.1184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6937   -1.1483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0478    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2846    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3277   -2.3025    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7  9  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+M  END
+> <ID>
+10577
+
+> <Formula>
+C7H6F3NO3S
+
+> <FW>
+241.1876
+
+> <DSSTox_CID>
+24930
+
+> <DSSTox_RID>
+80595
+
+> <DSSTox_GSID>
+44930
+
+> <DSSTox_FileID_Sort>
+5277
+
+> <TS_ChemName>
+2-(Trifluoromethoxy)benzenesulfonamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+37526-59-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+metabolite of flucarbazone-sodium [18124-17-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6F3NO3S
+
+> <STRUCTURE_MW>
+241.1876
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(trifluoromethoxy)benzenesulfonamide
+
+> <STRUCTURE_SMILES>
+O=S(N)(=O)c1ccccc1OC(F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(N)(=O)c1ccccc1OC(F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

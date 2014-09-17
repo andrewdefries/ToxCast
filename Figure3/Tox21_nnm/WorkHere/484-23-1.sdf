@@ -1,0 +1,101 @@
+484-23-1
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    3.4580   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -2.6600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580   -4.6551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3009   -3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1505   -4.6551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1505   -5.9851    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6501    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9901    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1505   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1505   -0.6650    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3009   -2.6600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+2643
+
+> <Formula>
+C8H10N6
+
+> <FW>
+190.2052
+
+> <DSSTox_CID>
+2935
+
+> <DSSTox_RID>
+76795
+
+> <DSSTox_GSID>
+22935
+
+> <DSSTox_FileID_Sort>
+1479
+
+> <TS_ChemName>
+Dihydralazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+484-23-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10N6
+
+> <STRUCTURE_MW>
+190.2052
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-dihydrazinylphthalazine
+
+> <STRUCTURE_SMILES>
+NNc2nnc(NN)c1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+NNc2nnc(NN)c1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

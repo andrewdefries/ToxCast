@@ -1,0 +1,90 @@
+87-61-6
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3037    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -2.3037    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -1.1518    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3265   -1.1518    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9899   -2.3037    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3265   -3.4555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -3.4555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -4.6073    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4586
+
+> <Formula>
+C6H3Cl3
+
+> <FW>
+181.447
+
+> <DSSTox_CID>
+6193
+
+> <DSSTox_RID>
+78052
+
+> <DSSTox_GSID>
+26193
+
+> <DSSTox_FileID_Sort>
+2735
+
+> <TS_ChemName>
+1,2,3-Trichlorobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+87-61-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H3Cl3
+
+> <STRUCTURE_MW>
+181.447
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2,3-trichlorobenzene
+
+> <STRUCTURE_SMILES>
+Clc1cccc(Cl)c1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cccc(Cl)c1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

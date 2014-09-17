@@ -1,0 +1,132 @@
+68359-37-5
+ChemmineR-0915142007XD
+
+ 29 31  0  0  0  0  0  0  0  0  1 V2000
+    4.1830   -1.0416    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4886   -2.2320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8278   -2.2320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0348   -2.8934    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3478   -2.8934    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2087   -2.2320    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   11.8381   -2.2486    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2070   -2.2320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3495   -5.4230    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    9.5234   -2.2320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6642   -2.9430    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3495   -2.8934    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3495   -4.1830    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.0285   -2.9099    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0348   -4.1830    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   11.8381   -0.9259    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.5234   -0.9259    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6642   -0.2149    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8278    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6374    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2070   -0.8763    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.8438    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2024   -2.2320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.0616   -0.2149    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+   14.2024   -0.9259    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   15.3432   -2.9099    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   16.5336   -2.2486    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   15.2936   -0.2645    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   16.5336   -0.8928    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1 19  1  0  0  0  0
+  1 20  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 15  2  0  0  0  0
+  5  8  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7 11  2  0  0  0  0
+  7 14  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 21  1  0  0  0  0
+  8 22  1  0  0  0  0
+  9 13  3  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 24  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 23 26  2  0  0  0  0
+ 25 28  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 29  2  0  0  0  0
+ 28 29  1  0  0  0  0
+M  END
+> <ID>
+13166
+
+> <Formula>
+C22H18Cl2FNO3
+
+> <FW>
+434.2876
+
+> <DSSTox_CID>
+28078
+
+> <DSSTox_RID>
+79271
+
+> <DSSTox_GSID>
+35957
+
+> <DSSTox_FileID_Sort>
+3953
+
+> <TS_ChemName>
+Cyfluthrin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+68359-37-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of 4 pairs of diastereoisomers; I (1R,3R,alpha R + 1S,3S,alpha S); II (1R,3R,alphaS + 1S,3S,alpha R); III (1R,3S,alphaR + 1S,3R,alpha S); IV (1R,3S,alphaS + 1S,3R,alpha R); each pair in approx 1:1 ratio. Cyfluthrin has approx ratio of isomeric pai
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C22H18Cl2FNO3
+
+> <STRUCTURE_MW>
+434.2876
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+cyano(4-fluoro-3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropanecarboxylate
+
+> <STRUCTURE_SMILES>
+Cl\C(Cl)=C/C3C(C(=O)OC(C#N)c2ccc(F)c(Oc1ccccc1)c2)C3(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+Cl\C(Cl)=C/C3C(C(=O)OC(C#N)c2ccc(F)c(Oc1ccccc1)c2)C3(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

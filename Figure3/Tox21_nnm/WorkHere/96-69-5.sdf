@@ -1,0 +1,123 @@
+96-69-5
+ChemmineR-0915142007XD
+
+ 25 26  0  0  0  0  0  0  0  0  1 V2000
+    0.1773   -4.1192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3301   -3.4582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9911   -4.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3212   -4.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9902   -5.7556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3212   -6.9083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9911   -6.9083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3301   -5.7556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7556    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9902   -8.0611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3203   -5.7556    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9813   -4.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3203   -3.4582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9813   -2.3055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3114   -2.3055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9805   -3.4582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3114   -4.6029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9805   -5.7556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9805   -1.1527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3203   -1.1527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1676   -1.8137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6512    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4730   -0.4837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6610   -2.3055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4828   -2.7891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 24  1  0  0  0  0
+  2 25  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 23  1  0  0  0  0
+M  END
+> <ID>
+1288
+
+> <Formula>
+C22H30O2S
+
+> <FW>
+358.5374
+
+> <DSSTox_CID>
+1341
+
+> <DSSTox_RID>
+76095
+
+> <DSSTox_GSID>
+21341
+
+> <DSSTox_FileID_Sort>
+779
+
+> <TS_ChemName>
+4,4'-Thiobis(6-tert-butyl-m-cresol)
+
+> <TS_ChemName_Synonyms>
+4,4'-Thiobis(6-tert-butyl-m-cresol) (4,4'-sulfanediylbis(2-tert-butyl-5-methylphenol)) (4,4'-sulfanediylbis(2-tert-butyl-5-methylphenol)) (Phenol, 4,4'-thiobis[2-(1,1-dimethylethyl)-5-methyl-)
+
+> <TS_CASRN>
+96-69-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C22H30O2S
+
+> <STRUCTURE_MW>
+358.5374
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-sulfanediylbis(2-tert-butyl-5-methylphenol)
+
+> <STRUCTURE_SMILES>
+CC(C)(C)c2cc(Sc1cc(c(O)cc1C)C(C)(C)C)c(C)cc2O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c2cc(Sc1cc(c(O)cc1C)C(C)(C)C)c(C)cc2O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

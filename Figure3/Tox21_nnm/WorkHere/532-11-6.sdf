@@ -1,0 +1,101 @@
+532-11-6
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    9.1218   -0.3193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4468   -1.4686    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1150   -1.4686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4583   -0.3193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1265   -0.3193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4606   -1.4595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1173   -2.6088    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4583   -2.6271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1288   -1.4595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3443   -0.3831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0764   -0.8027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0764   -2.1163    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3443   -2.5267    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+11860
+
+> <Formula>
+C10H8OS3
+
+> <FW>
+240.3649
+
+> <DSSTox_CID>
+26651
+
+> <DSSTox_RID>
+81795
+
+> <DSSTox_GSID>
+46651
+
+> <DSSTox_FileID_Sort>
+6476
+
+> <TS_ChemName>
+Anethole trithione
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+532-11-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H8OS3
+
+> <STRUCTURE_MW>
+240.3649
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-(4-methoxyphenyl)-3H-1,2-dithiole-3-thione
+
+> <STRUCTURE_SMILES>
+COc1ccc(cc1)C2=CC(=S)SS2
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(cc1)C2=CC(=S)SS2
+
+> <Substance_modify_yyyymmdd>
+20110808
+
+$$$$

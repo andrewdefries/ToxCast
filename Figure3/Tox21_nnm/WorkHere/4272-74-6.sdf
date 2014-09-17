@@ -1,0 +1,115 @@
+4272-74-6
+ChemmineR-0915142007XD
+
+ 22 21  0  0  1  0  0  0  0  0  1 V2000
+    6.0993   -6.6482    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0011    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -4.0011    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9884   -2.8423    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3180   -2.8423    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9645   -4.0011    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3180   -5.1478    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9884   -5.1478    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186   -4.0011    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186   -5.3186    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6482   -4.0011    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186   -2.6837    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4531   -2.0006    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5997   -2.6837    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.7464   -2.0006    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9053   -2.6837    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.0519   -2.0006    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.1986   -2.6837    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4531   -0.6709    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5997    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1597   -0.6709    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 13 12  1  6  0  0  0
+ 13 14  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <ID>
+11213
+
+> <Formula>
+C14H22Cl2N2O3S
+
+> <FW>
+369.3071 (36.4609+332.8461)
+
+> <DSSTox_CID>
+25807
+
+> <DSSTox_RID>
+81145
+
+> <DSSTox_GSID>
+45807
+
+> <DSSTox_FileID_Sort>
+5826
+
+> <TS_ChemName>
+N-alpha-p-Tosyl-L-lysine chloromethyl ketone hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4272-74-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [2364-87-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H22Cl2N2O3S
+
+> <STRUCTURE_MW>
+369.3071
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-[(3S)-7-amino-1-chloro-2-oxoheptan-3-yl]-4-methylbenzenesulfonamide hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Cc1ccc(cc1)S(=O)(=O)N[C@@H](CCCCN)C(=O)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)S(=O)(=O)N[C@@H](CCCCN)C(=O)CCl
+
+> <Substance_modify_yyyymmdd>
+20110909
+
+$$$$

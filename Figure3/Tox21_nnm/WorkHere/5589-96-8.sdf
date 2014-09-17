@@ -1,0 +1,83 @@
+5589-96-8
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.3307    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -1.1509    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307   -2.3053    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -3.4563    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3053    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -1.1509    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+M  END
+> <ID>
+3784
+
+> <Formula>
+C2H2BrClO2
+
+> <FW>
+173.3931
+
+> <DSSTox_CID>
+4642
+
+> <DSSTox_RID>
+77481
+
+> <DSSTox_GSID>
+24642
+
+> <DSSTox_FileID_Sort>
+2164
+
+> <TS_ChemName>
+Bromochloroacetic acid
+
+> <TS_ChemName_Synonyms>
+Bromochloroacetic acid (BCA)
+
+> <TS_CASRN>
+5589-96-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H2BrClO2
+
+> <STRUCTURE_MW>
+173.3931
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+bromo(chloro)acetic acid
+
+> <STRUCTURE_SMILES>
+BrC(Cl)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+BrC(Cl)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

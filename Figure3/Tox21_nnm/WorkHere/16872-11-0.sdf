@@ -1,0 +1,82 @@
+16872-11-0
+ChemmineR-0915142007XD
+
+  6  4  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -1.3300    0.0000 H   0  3  0  0  0  0  0  0  0  0  0  0
+    3.6513   -1.3300    0.0000 B   0  5  0  0  0  0  0  0  0  0  0  0
+    2.3213   -1.3300    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6513   -2.6600    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6513    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9813   -1.3300    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+M  END
+> <ID>
+6174
+
+> <Formula>
+HBF4
+
+> <FW>
+87.8126 (1.0074+86.8052)
+
+> <DSSTox_CID>
+9739
+
+> <DSSTox_RID>
+78818
+
+> <DSSTox_GSID>
+29739
+
+> <DSSTox_FileID_Sort>
+3500
+
+> <TS_ChemName>
+Borate(1-), tetrafluoro-, hydrogen
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+16872-11-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+HBF4
+
+> <STRUCTURE_MW>
+87.8126
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+hydrogen tetrafluoroborate
+
+> <STRUCTURE_SMILES>
+[H+].F[B-](F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+F[B-](F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

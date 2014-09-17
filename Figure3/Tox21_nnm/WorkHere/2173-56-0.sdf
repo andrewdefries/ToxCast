@@ -1,0 +1,95 @@
+2173-56-0
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    4.5927   -1.2536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5927    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6981   -1.9032    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5328   -1.9032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4046   -1.2992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2194   -2.0513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8377   -1.2194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9660   -1.9032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1284   -1.2194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2566   -1.9032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3962   -1.2194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+9147
+
+> <Formula>
+C10H20O2
+
+> <FW>
+172.2646
+
+> <DSSTox_CID>
+22218
+
+> <DSSTox_RID>
+79962
+
+> <DSSTox_GSID>
+42218
+
+> <DSSTox_FileID_Sort>
+4644
+
+> <TS_ChemName>
+Pentyl valerate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2173-56-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20O2
+
+> <STRUCTURE_MW>
+172.2646
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pentyl pentanoate
+
+> <STRUCTURE_SMILES>
+O=C(CCCC)OCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCC)OCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

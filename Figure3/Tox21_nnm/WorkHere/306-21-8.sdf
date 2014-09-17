@@ -1,0 +1,95 @@
+306-21-8
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    3.4555   -3.9876    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -1.9904    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -0.6635    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3014   -2.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -1.9904    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6096    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7569   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9110    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7569   -1.9904    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6096   -2.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+11325
+
+> <Formula>
+C9H14BrNO
+
+> <FW>
+232.1176 (80.9119+151.2056)
+
+> <DSSTox_CID>
+25961
+
+> <DSSTox_RID>
+81257
+
+> <DSSTox_GSID>
+45961
+
+> <DSSTox_FileID_Sort>
+5938
+
+> <TS_ChemName>
+Hydroxyamphetamine hydrobromide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+306-21-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [103-86-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H14BrNO
+
+> <STRUCTURE_MW>
+232.1176
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-(2-aminopropyl)phenol hydrobromide (1:1)
+
+> <STRUCTURE_SMILES>
+Br.Oc1ccc(CC(C)N)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(CC(C)N)cc1
+
+> <Substance_modify_yyyymmdd>
+20110930
+
+$$$$

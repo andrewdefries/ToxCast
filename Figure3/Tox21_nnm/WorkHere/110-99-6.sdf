@@ -1,0 +1,89 @@
+110-99-6
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    5.7589   -0.6706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7589   -1.9911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9134    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5974    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1545   -0.6706    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1545   -1.9911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3160    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -0.6706    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+8540
+
+> <Formula>
+C4H6O5
+
+> <FW>
+134.0874
+
+> <DSSTox_CID>
+21575
+
+> <DSSTox_RID>
+79779
+
+> <DSSTox_GSID>
+41575
+
+> <DSSTox_FileID_Sort>
+4461
+
+> <TS_ChemName>
+Diglycolic acid
+
+> <TS_ChemName_Synonyms>
+Diglycolic acid (Acetic acid, 2,2'-oxybis-)
+
+> <TS_CASRN>
+110-99-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6O5
+
+> <STRUCTURE_MW>
+134.0874
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-oxydiacetic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)COCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)COCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

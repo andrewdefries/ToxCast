@@ -1,0 +1,97 @@
+92-43-3
+ChemmineR-0915142007XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    3.9923   -1.4446    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6615   -1.4446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9855   -2.5975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6547   -2.5975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6547   -0.2918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9855   -0.2918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7751   -0.3701    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0418   -0.7686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1164    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0418   -2.0993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7751   -2.5192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+14297
+
+> <Formula>
+C9H10N2O
+
+> <FW>
+162.1885
+
+> <DSSTox_CID>
+29393
+
+> <DSSTox_RID>
+83508
+
+> <DSSTox_GSID>
+49433
+
+> <DSSTox_FileID_Sort>
+8183
+
+> <TS_ChemName>
+3-Pyrazolidinone,1-phenyl-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+92-43-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10N2O
+
+> <STRUCTURE_MW>
+162.1885
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-phenylpyrazolidin-3-one
+
+> <STRUCTURE_SMILES>
+O=C1CCN(N1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCN(N1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

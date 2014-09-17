@@ -1,0 +1,113 @@
+134-09-8
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    1.1513   -3.9772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3187   -3.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -5.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3187   -1.9645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4539   -3.9772    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3187   -5.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -1.3284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7323   -3.9772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8997   -3.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0510   -3.9772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0510   -5.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8997   -5.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7323   -5.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5971   -3.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5971   -1.9645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8997   -1.9645    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+12970
+
+> <Formula>
+C17H25NO2
+
+> <FW>
+275.3859
+
+> <DSSTox_CID>
+27871
+
+> <DSSTox_RID>
+82624
+
+> <DSSTox_GSID>
+47895
+
+> <DSSTox_FileID_Sort>
+7301
+
+> <TS_ChemName>
+Menthyl anthranilate
+
+> <TS_ChemName_Synonyms>
+Menthyl anthranilate (Cyclohexanol, 5-methyl-2-(1-methylethyl)-, 2-aminobenzoate)
+
+> <TS_CASRN>
+134-09-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H25NO2
+
+> <STRUCTURE_MW>
+275.3859
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-methyl-2-(propan-2-yl)cyclohexyl 2-aminobenzoate
+
+> <STRUCTURE_SMILES>
+O=C(OC1CC(C)CCC1C(C)C)c2ccccc2N
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OC1CC(C)CCC1C(C)C)c2ccccc2N
+
+> <Substance_modify_yyyymmdd>
+
+
+$$$$

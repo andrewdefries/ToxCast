@@ -1,0 +1,89 @@
+126-85-2
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  2 V2000
+    3.4581   -1.1568    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    4.1252   -2.3074    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4533   -2.3074    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1205   -1.1568    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3074   -1.8178    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1507   -1.1568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8178    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7909    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6087   -0.4896    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+940
+
+> <Formula>
+C5H11Cl2NO
+
+> <FW>
+172.0529
+
+> <DSSTox_CID>
+976
+
+> <DSSTox_RID>
+97533
+
+> <DSSTox_GSID>
+20976
+
+> <DSSTox_FileID_Sort>
+8307
+
+> <TS_ChemName>
+Nitrogen mustard N-oxide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+126-85-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H11Cl2NO
+
+> <STRUCTURE_MW>
+172.0529
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+bis(2-chloroethyl)methylamine oxide
+
+> <STRUCTURE_SMILES>
+[O-][N+](C)(CCCl)CCCl
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](C)(CCCl)CCCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,109 @@
+23847-08-7
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    6.4428   -2.6221    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5010   -1.8448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8120   -2.1445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3646   -3.3057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7933   -4.4950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4916   -4.8321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4241   -3.9425    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2013   -0.5525    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9217   -2.1632    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8635   -2.9405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5525   -2.6408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5525   -0.2809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8635    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9217   -0.8428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1445   -4.2796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1017   -2.7625    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2442   -2.0696    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+10137
+
+> <Formula>
+C12H20N2O2S2
+
+> <FW>
+288.4294
+
+> <DSSTox_CID>
+24481
+
+> <DSSTox_RID>
+80259
+
+> <DSSTox_GSID>
+44481
+
+> <DSSTox_FileID_Sort>
+4941
+
+> <TS_ChemName>
+1,1'-Disulfanediyldiazepan-2-one
+
+> <TS_ChemName_Synonyms>
+1,1'-Disulfanediyldiazepan-2-one (2H-Azepin-2-one, 1,1'-dithiobis[hexahydro-)
+
+> <TS_CASRN>
+23847-08-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H20N2O2S2
+
+> <STRUCTURE_MW>
+288.4294
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1'-disulfanediyldiazepan-2-one
+
+> <STRUCTURE_SMILES>
+O=C2CCCCCN2SSN1CCCCCC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2CCCCCN2SSN1CCCCCC1=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

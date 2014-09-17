@@ -1,0 +1,80 @@
+7631-99-4
+ChemmineR-0915142007XD
+
+  5  3  0  0  0  0  0  0  0  0  2 V2000
+    3.3246    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6597   -1.1536    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    3.3246   -2.3039    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.3298   -1.1536    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1071    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+M  END
+> <ID>
+901
+
+> <Formula>
+NNaO3
+
+> <FW>
+84.9947 (62.0054+22.9892)
+
+> <DSSTox_CID>
+937
+
+> <DSSTox_RID>
+75877
+
+> <DSSTox_GSID>
+20937
+
+> <DSSTox_FileID_Sort>
+561
+
+> <TS_ChemName>
+Sodium nitrate
+
+> <TS_ChemName_Synonyms>
+Sodium nitrate (Nitrate, sodium)
+
+> <TS_CASRN>
+7631-99-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+NNaO3
+
+> <STRUCTURE_MW>
+84.9947
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+sodium nitrate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-][N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,86 @@
+10004-44-1
+ChemmineR-0915142007XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    4.6755   -1.6364    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4085   -1.2484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3518   -2.0666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2671   -1.3138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6318   -0.0327    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9643    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.7440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+6546
+
+> <Formula>
+C4H5NO2
+
+> <FW>
+99.088
+
+> <DSSTox_CID>
+12622
+
+> <DSSTox_RID>
+79009
+
+> <DSSTox_GSID>
+32622
+
+> <DSSTox_FileID_Sort>
+3691
+
+> <TS_ChemName>
+Hymexazol
+
+> <TS_ChemName_Synonyms>
+Hymexazol (5-Methyl-isoxazol-3-ol)
+
+> <TS_CASRN>
+10004-44-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H5NO2
+
+> <STRUCTURE_MW>
+99.088
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-methyl-1,2-oxazol-3(2H)-one
+
+> <STRUCTURE_SMILES>
+CC1=CC(=O)NO1
+
+> <STRUCTURE_SMILES_Desalt>
+CC1=CC(=O)NO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

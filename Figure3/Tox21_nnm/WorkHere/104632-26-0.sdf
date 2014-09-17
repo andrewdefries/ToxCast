@@ -1,0 +1,101 @@
+104632-26-0
+ChemmineR-0915142007XD
+
+ 14 15  0  0  1  0  0  0  0  0  1 V2000
+    6.9159   -1.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9159   -0.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1818   -2.3979    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7736   -2.6552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7736    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1818   -0.2470    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9537   -1.3173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6003   -1.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6003   -0.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2916   -1.3173    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4477    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3053   -0.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 11  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+3133
+
+> <Formula>
+C10H17N3S
+
+> <FW>
+211.3271
+
+> <DSSTox_CID>
+3496
+
+> <DSSTox_RID>
+77054
+
+> <DSSTox_GSID>
+23496
+
+> <DSSTox_FileID_Sort>
+1737
+
+> <TS_ChemName>
+Pramipexole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+104632-26-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H17N3S
+
+> <STRUCTURE_MW>
+211.3271
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(6S)-N~6~-propyl-4,5,6,7-tetrahydro-1,3-benzothiazole-2,6-diamine
+
+> <STRUCTURE_SMILES>
+CCCN[C@@H]1Cc2sc(N)nc2CC1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCN[C@@H]1Cc2sc(N)nc2CC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

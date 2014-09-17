@@ -1,0 +1,110 @@
+139-88-8
+ChemmineR-0915142007XD
+
+ 20 18  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -2.0173    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1412   -2.6743    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2939   -2.0173    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4467   -2.6743    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6109   -2.0173    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7637   -2.6743    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9164   -2.0173    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0807   -2.6743    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2334   -2.0173    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3861   -2.6743    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5273   -2.0173    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4467   -4.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9164   -0.6801    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7637    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1412   -4.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6109   -4.6801    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9539   -5.8328    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2795   -3.5158    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7637   -5.3372    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    7.3199   -5.3717    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 19  1  0  0  0  0
+M  END
+> <ID>
+8496
+
+> <Formula>
+C14H29NaO4S
+
+> <FW>
+316.4324 (293.4432+22.9892)
+
+> <DSSTox_CID>
+21530
+
+> <DSSTox_RID>
+79769
+
+> <DSSTox_GSID>
+41530
+
+> <DSSTox_FileID_Sort>
+4451
+
+> <TS_ChemName>
+4-Undecanol, 7-ethyl-2-methyl-, hydrogen sulfate, sodium salt
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+139-88-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [300-52-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H29NaO4S
+
+> <STRUCTURE_MW>
+316.4324
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 7-ethyl-2-methylundecan-4-yl sulfate
+
+> <STRUCTURE_SMILES>
+[Na+].CC(C)CC(CCC(CCCC)CC)OS([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+OS(=O)(=O)OC(CCC(CCCC)CC)CC(C)C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

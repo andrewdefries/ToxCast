@@ -1,0 +1,106 @@
+532-03-6
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    9.2079   -1.9887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2079   -0.6629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3576    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3576   -2.6619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3576   -3.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2079   -4.6506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0582   -3.9877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0582   -2.6619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9085   -1.9887    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7588   -2.6619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5988   -1.9887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5988   -0.6629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4491   -2.6619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2994   -1.9887    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1497   -2.6619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9887    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1497   -3.9877    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <ID>
+2951
+
+> <Formula>
+C11H15NO5
+
+> <FW>
+241.2405
+
+> <DSSTox_CID>
+3286
+
+> <DSSTox_RID>
+76958
+
+> <DSSTox_GSID>
+23286
+
+> <DSSTox_FileID_Sort>
+1642
+
+> <TS_ChemName>
+Methocarbamol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+532-03-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H15NO5
+
+> <STRUCTURE_MW>
+241.2405
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-hydroxy-3-(2-methoxyphenoxy)propyl carbamate
+
+> <STRUCTURE_SMILES>
+NC(=O)OCC(O)COc1ccccc1OC
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)OCC(O)COc1ccccc1OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

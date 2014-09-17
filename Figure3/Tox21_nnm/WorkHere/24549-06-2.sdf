@@ -1,0 +1,92 @@
+24549-06-2
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.4642   -1.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5978   -2.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5978   -3.3376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4642   -3.9936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3076   -3.3376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3076   -2.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4642    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1567   -1.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7545   -1.3350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+5438
+
+> <Formula>
+C9H13N
+
+> <FW>
+135.2062
+
+> <DSSTox_CID>
+7833
+
+> <DSSTox_RID>
+78583
+
+> <DSSTox_GSID>
+27833
+
+> <DSSTox_FileID_Sort>
+3266
+
+> <TS_ChemName>
+2-Ethyl-6-methylaniline
+
+> <TS_ChemName_Synonyms>
+2-Ethyl-6-methylaniline (Benzenamine, 2-ethyl-6-methyl-) (2-Ethyl-6-methyl-phenylamine)
+
+> <TS_CASRN>
+24549-06-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H13N
+
+> <STRUCTURE_MW>
+135.2062
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethyl-6-methylaniline
+
+> <STRUCTURE_SMILES>
+CCc1cccc(C)c1N
+
+> <STRUCTURE_SMILES_Desalt>
+CCc1cccc(C)c1N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

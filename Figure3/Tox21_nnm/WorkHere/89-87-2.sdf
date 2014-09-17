@@ -1,0 +1,94 @@
+89-87-2
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -3.4525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -3.4525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3194   -2.3037    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.9835   -3.4525    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.9835   -1.1488    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <ID>
+4035
+
+> <Formula>
+C8H9NO2
+
+> <FW>
+151.1626
+
+> <DSSTox_CID>
+5135
+
+> <DSSTox_RID>
+77679
+
+> <DSSTox_GSID>
+25135
+
+> <DSSTox_FileID_Sort>
+2362
+
+> <TS_ChemName>
+1,3-Dimethyl-4-nitrobenzene
+
+> <TS_ChemName_Synonyms>
+1,3-Dimethyl-4-nitrobenzene (4-Nitro-m-xylene)
+
+> <TS_CASRN>
+89-87-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9NO2
+
+> <STRUCTURE_MW>
+151.1626
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-dimethyl-1-nitrobenzene
+
+> <STRUCTURE_SMILES>
+Cc1cc(C)ccc1[N+](=O)[O-]
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(C)ccc1[N+](=O)[O-]
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

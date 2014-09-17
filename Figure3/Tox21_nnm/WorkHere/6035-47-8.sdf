@@ -1,0 +1,85 @@
+6035-47-8
+ChemmineR-0915142007XD
+
+  8  5  0  0  0  0  0  0  0  0  1 V2000
+    4.2134   -2.3005    0.0000 Na   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8862   -2.3005    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2036   -1.1503    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8764   -1.1503    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2107    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2107   -2.3005    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9859    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6249   -3.9859    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+M  END
+> <ID>
+14014
+
+> <Formula>
+CH7NaO5S
+
+> <FW>
+154.1180 (118.0875+18.0153+18.0153)
+
+> <DSSTox_CID>
+28956
+
+> <DSSTox_RID>
+83221
+
+> <DSSTox_GSID>
+49030
+
+> <DSSTox_FileID_Sort>
+7897
+
+> <TS_ChemName>
+Hydroxymethanesulfinic acid monosodium salt dihydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6035-47-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH7NaO5S
+
+> <STRUCTURE_MW>
+154.118
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+[(hydroxy-kappaO)methanesulfinato]sodium dihydrate
+
+> <STRUCTURE_SMILES>
+O.O.[Na]OCS(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+[Na]OCS(=O)O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

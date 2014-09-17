@@ -1,0 +1,104 @@
+89-08-7
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    3.2675   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9914   -3.4468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2675   -4.5842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9716   -4.5842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2822   -3.4468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9716   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9293   -1.1374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2736   -1.1374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2400    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3442   -1.1374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0336    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3442   -5.7561    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1792   -5.0668    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4817   -6.4110    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6894   -6.8936    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+M  END
+> <ID>
+4715
+
+> <Formula>
+C8H6O7S
+
+> <FW>
+246.194
+
+> <DSSTox_CID>
+6535
+
+> <DSSTox_RID>
+78141
+
+> <DSSTox_GSID>
+26535
+
+> <DSSTox_FileID_Sort>
+2824
+
+> <TS_ChemName>
+1,2-Benzenedicarboxylic acid, 4-sulfo-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+89-08-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H6O7S
+
+> <STRUCTURE_MW>
+246.194
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-sulfobenzene-1,2-dicarboxylic acid
+
+> <STRUCTURE_SMILES>
+OS(=O)(=O)c1cc(c(cc1)C(=O)O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OS(=O)(=O)c1cc(c(cc1)C(=O)O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

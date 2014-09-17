@@ -1,0 +1,104 @@
+73218-79-8
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    7.8605   -3.9931    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7050   -3.3407    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5495   -3.9931    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3940   -3.3171    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3940   -2.0044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2385   -1.3284    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0988   -1.9887    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8804   -1.4463    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4368    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6603   -3.5923    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9573   -3.3171    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5495   -1.3284    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7050   -2.0044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5495    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2543   -3.9931    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0813   -5.1015    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+11161
+
+> <Formula>
+C9H11Cl3N4
+
+> <FW>
+281.5694 (245.1085+36.4609)
+
+> <DSSTox_CID>
+25749
+
+> <DSSTox_RID>
+81093
+
+> <DSSTox_GSID>
+45749
+
+> <DSSTox_FileID_Sort>
+5774
+
+> <TS_ChemName>
+Apraclonidine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+73218-79-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [66711-21-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11Cl3N4
+
+> <STRUCTURE_MW>
+281.5694
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2,6-dichloro-N~1~-(4,5-dihydro-1H-imidazol-2-yl)benzene-1,4-diamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Clc2cc(N)cc(Cl)c2NC1=NCCN1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2cc(N)cc(Cl)c2NC1=NCCN1
+
+> <Substance_modify_yyyymmdd>
+20110826
+
+$$$$

@@ -1,0 +1,98 @@
+80-39-7
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    6.6472    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3126   -1.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6472   -2.3035    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3163   -2.3035    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3163   -3.6344    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3163   -0.9726    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9854   -2.3035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3273   -3.4589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -3.4589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3309   -2.3035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -1.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3273   -1.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+4138
+
+> <Formula>
+C9H13NO2S
+
+> <FW>
+199.27
+
+> <DSSTox_CID>
+5310
+
+> <DSSTox_RID>
+77744
+
+> <DSSTox_GSID>
+25310
+
+> <DSSTox_FileID_Sort>
+2427
+
+> <TS_ChemName>
+N-Ethyl-4-methylbenzenesulfonamide
+
+> <TS_ChemName_Synonyms>
+N-Ethyl-4-methylbenzenesulfonamide (N-Ethyl-p-toluenesulfonamide)
+
+> <TS_CASRN>
+80-39-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H13NO2S
+
+> <STRUCTURE_MW>
+199.27
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-ethyl-4-methylbenzenesulfonamide
+
+> <STRUCTURE_SMILES>
+Cc1ccc(cc1)S(=O)(=O)NCC
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)S(=O)(=O)NCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

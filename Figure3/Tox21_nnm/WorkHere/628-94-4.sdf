@@ -1,0 +1,91 @@
+628-94-4
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    8.0713   -1.9936    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9171   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9171    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7629   -1.9936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6087   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4626   -1.9936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3084   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -1.9936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -3.3254    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3318    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+32
+
+> <Formula>
+C6H12N2O2
+
+> <FW>
+144.1717
+
+> <DSSTox_CID>
+32
+
+> <DSSTox_RID>
+75331
+
+> <DSSTox_GSID>
+20032
+
+> <DSSTox_FileID_Sort>
+15
+
+> <TS_ChemName>
+Adipamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+628-94-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12N2O2
+
+> <STRUCTURE_MW>
+144.1717
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexanediamide
+
+> <STRUCTURE_SMILES>
+O=C(N)CCCCC(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(N)CCCCC(N)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

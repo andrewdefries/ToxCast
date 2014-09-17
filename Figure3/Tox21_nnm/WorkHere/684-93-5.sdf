@@ -1,0 +1,85 @@
+684-93-5
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.3291    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -1.1495    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3247   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -2.3029    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3291   -2.3029    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3029    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+970
+
+> <Formula>
+C2H5N3O2
+
+> <FW>
+103.08
+
+> <DSSTox_CID>
+1006
+
+> <DSSTox_RID>
+75909
+
+> <DSSTox_GSID>
+21006
+
+> <DSSTox_FileID_Sort>
+593
+
+> <TS_ChemName>
+N-Nitroso-N-methylurea
+
+> <TS_ChemName_Synonyms>
+N-Nitroso-N-methylurea (NMU)
+
+> <TS_CASRN>
+684-93-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H5N3O2
+
+> <STRUCTURE_MW>
+103.08
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methyl-1-nitrosourea
+
+> <STRUCTURE_SMILES>
+NC(=O)N(C)N=O
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)N(C)N=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

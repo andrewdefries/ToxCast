@@ -1,0 +1,86 @@
+142-64-3
+ChemmineR-0915142007XD
+
+  8  6  0  0  0  0  0  0  0  0  1 V2000
+    2.3061   -1.9844    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531   -2.6571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9844    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6559    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061   -0.6559    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9856   -0.3050    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1778   -2.1139    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+12247
+
+> <Formula>
+C4H12Cl2N2
+
+> <FW>
+159.0575 (86.1356+36.4609+36.4609)
+
+> <DSSTox_CID>
+27096
+
+> <DSSTox_RID>
+82108
+
+> <DSSTox_GSID>
+47096
+
+> <DSSTox_FileID_Sort>
+6789
+
+> <TS_ChemName>
+Piperazine dihydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+142-64-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [110-85-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H12Cl2N2
+
+> <STRUCTURE_MW>
+159.0575
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+piperazine dihydrochloride
+
+> <STRUCTURE_SMILES>
+Cl.Cl.C1CNCCN1
+
+> <STRUCTURE_SMILES_Desalt>
+C1CNCCN1
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

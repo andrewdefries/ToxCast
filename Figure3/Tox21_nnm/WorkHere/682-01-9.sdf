@@ -1,0 +1,105 @@
+682-01-9
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+    3.9925   -2.6696    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9925   -5.2834    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2994   -3.9765    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6696   -3.9765    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9925   -3.9765    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1320   -2.0002    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1320   -0.6614    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2955    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9528   -5.1320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2916   -5.1320    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9690   -6.2955    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8370   -5.9528    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8370   -7.2916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6735   -7.9531    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0162   -2.8210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6774   -2.8210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6576    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 15  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+9301
+
+> <Formula>
+C12H28O4Si
+
+> <FW>
+264.4338
+
+> <DSSTox_CID>
+22382
+
+> <DSSTox_RID>
+80010
+
+> <DSSTox_GSID>
+42382
+
+> <DSSTox_FileID_Sort>
+4692
+
+> <TS_ChemName>
+Tetrapropyl orthosilicate
+
+> <TS_ChemName_Synonyms>
+Tetrapropyl orthosilicate (Silicic acid (H4SiO4), tetrapropyl ester)
+
+> <TS_CASRN>
+682-01-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H28O4Si
+
+> <STRUCTURE_MW>
+264.4338
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+tetrapropyl orthosilicate
+
+> <STRUCTURE_SMILES>
+CCCO[Si](OCCC)(OCCC)OCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCO[Si](OCCC)(OCCC)OCCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

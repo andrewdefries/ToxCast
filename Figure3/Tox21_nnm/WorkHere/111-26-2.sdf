@@ -1,0 +1,85 @@
+111-26-2
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1548    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6122   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7601    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9149   -0.6638    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+1801
+
+> <Formula>
+C6H15N
+
+> <FW>
+101.19
+
+> <DSSTox_CID>
+1930
+
+> <DSSTox_RID>
+76409
+
+> <DSSTox_GSID>
+21930
+
+> <DSSTox_FileID_Sort>
+1093
+
+> <TS_ChemName>
+Hexylamine
+
+> <TS_ChemName_Synonyms>
+1-Hexanamine (Hexylamine)
+
+> <TS_CASRN>
+111-26-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H15N
+
+> <STRUCTURE_MW>
+101.19
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexan-1-amine
+
+> <STRUCTURE_SMILES>
+CCCCCCN
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,115 @@
+5026-74-4
+ChemmineR-0915142007XD
+
+ 20 23  0  0  0  0  0  0  0  0  1 V2000
+    2.4784   -3.8089    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6372   -3.1437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6372   -1.8132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7852   -3.8089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7852   -1.1588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9440   -3.1437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9440   -1.8132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0920   -1.1588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2507   -1.8132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3988   -1.1588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0533    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7292   -1.1588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -3.1437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.8132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6759   -0.6545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0064   -0.6545    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4784   -5.1393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -5.8045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6759   -6.9525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.8045    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+5269
+
+> <Formula>
+C15H19NO4
+
+> <FW>
+277.3157
+
+> <DSSTox_CID>
+7585
+
+> <DSSTox_RID>
+78514
+
+> <DSSTox_GSID>
+27585
+
+> <DSSTox_FileID_Sort>
+3197
+
+> <TS_ChemName>
+Oxiranemethanamine, N-[4-(oxiranylmethoxy)phenyl]-N-(oxiranylmethyl)-
+
+> <TS_ChemName_Synonyms>
+4-(Oxiran-2-ylmethoxy)-N,N-bis(oxiran-2-ylmethyl)aniline (Oxiranemethanamine, N-[4-(oxiranylmethoxy)phenyl]-N-(oxiranylmethyl)-)
+
+> <TS_CASRN>
+5026-74-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H19NO4
+
+> <STRUCTURE_MW>
+277.3157
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(oxiran-2-ylmethoxy)-N,N-bis(oxiran-2-ylmethyl)aniline
+
+> <STRUCTURE_SMILES>
+c2cc(OCC1CO1)ccc2N(CC3CO3)CC4CO4
+
+> <STRUCTURE_SMILES_Desalt>
+c2cc(OCC1CO1)ccc2N(CC3CO3)CC4CO4
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

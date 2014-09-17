@@ -1,0 +1,107 @@
+1609-66-1
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -5.7582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6649   -4.6079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9947   -4.6079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6597   -5.7582    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6597   -3.4576    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9947   -2.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6597   -1.1503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9947    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6649    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6649   -2.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9895   -3.4576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6544   -4.6079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9842   -4.6079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6491   -3.4576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9842   -2.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6544   -2.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+16061
+
+> <Formula>
+C14H20N2O
+
+> <FW>
+232.3214
+
+> <DSSTox_CID>
+31446
+
+> <DSSTox_RID>
+97332
+
+> <DSSTox_GSID>
+57657
+
+> <DSSTox_FileID_Sort>
+8399
+
+> <TS_ChemName>
+Norfentanyl
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1609-66-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20N2O
+
+> <STRUCTURE_MW>
+232.3214
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-phenyl-N-(piperidin-4-yl)propanamide
+
+> <STRUCTURE_SMILES>
+O=C(CC)N(C1CCNCC1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CC)N(C1CCNCC1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

@@ -1,0 +1,96 @@
+705-86-2
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.3117   -2.6524    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4629   -2.0077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4629   -0.6723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3117    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1512   -0.6539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1512   -1.9893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6524    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6049   -2.6616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7469   -2.0077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8982   -2.6801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0586   -2.0077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2099   -2.6801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+10150
+
+> <Formula>
+C10H18O2
+
+> <FW>
+170.2487
+
+> <DSSTox_CID>
+24496
+
+> <DSSTox_RID>
+80271
+
+> <DSSTox_GSID>
+44496
+
+> <DSSTox_FileID_Sort>
+4953
+
+> <TS_ChemName>
+6-Pentyltetrahydro-2H-pyran-2-one
+
+> <TS_ChemName_Synonyms>
+6-Pentyltetrahydro-2H-pyran-2-one (2H-Pyran-2-one, tetrahydro-6-pentyl-)
+
+> <TS_CASRN>
+705-86-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O2
+
+> <STRUCTURE_MW>
+170.2487
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-pentyltetrahydro-2H-pyran-2-one
+
+> <STRUCTURE_SMILES>
+O=C1CCCC(CCCCC)O1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCC(CCCCC)O1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

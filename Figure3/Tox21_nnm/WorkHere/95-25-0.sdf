@@ -1,0 +1,95 @@
+95-25-0
+ChemmineR-0915142007XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    5.6790   -0.6629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6790   -1.9955    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8340   -2.6584    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5309   -2.6584    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3760   -1.9955    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3760   -0.6629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5309    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1117   -0.2529    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3326   -1.3258    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3258    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1117   -2.4056    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+2544
+
+> <Formula>
+C7H4ClNO2
+
+> <FW>
+169.5652
+
+> <DSSTox_CID>
+2813
+
+> <DSSTox_RID>
+76739
+
+> <DSSTox_GSID>
+22813
+
+> <DSSTox_FileID_Sort>
+1423
+
+> <TS_ChemName>
+Chlorzoxazone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+95-25-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H4ClNO2
+
+> <STRUCTURE_MW>
+169.5652
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-chloro-1,3-benzoxazol-2(3H)-one
+
+> <STRUCTURE_SMILES>
+Clc1cc2NC(=O)Oc2cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc2NC(=O)Oc2cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

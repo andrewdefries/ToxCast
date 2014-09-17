@@ -1,0 +1,112 @@
+84-69-5
+ChemmineR-0915142007XD
+
+ 20 20  0  0  0  0  0  0  0  0  1 V2000
+    5.3176   -5.7600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9904   -4.6080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3176   -3.4560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -3.4560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3270   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -1.1520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3270    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3176   -1.1520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9904   -2.3040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3175   -4.6080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9810   -5.7600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3175   -6.9120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9904   -6.9120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -5.7600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3270   -6.9120    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9999   -6.9120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3271   -8.0640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9999   -9.2159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -8.0640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3270   -4.6080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 13  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 20  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <ID>
+2289
+
+> <Formula>
+C16H22O4
+
+> <FW>
+278.3435
+
+> <DSSTox_CID>
+2522
+
+> <DSSTox_RID>
+76609
+
+> <DSSTox_GSID>
+22522
+
+> <DSSTox_FileID_Sort>
+1293
+
+> <TS_ChemName>
+Diisobutyl phthalate
+
+> <TS_ChemName_Synonyms>
+Diisobutyl phthalate (di-l-butyl phthalate) (DIBP)
+
+> <TS_CASRN>
+84-69-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H22O4
+
+> <STRUCTURE_MW>
+278.3435
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+bis(2-methylpropyl) benzene-1,2-dicarboxylate
+
+> <STRUCTURE_SMILES>
+CC(C)COC(=O)c1ccccc1C(=O)OCC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)COC(=O)c1ccccc1C(=O)OCC(C)C
+
+> <Substance_modify_yyyymmdd>
+20131118
+
+$$$$

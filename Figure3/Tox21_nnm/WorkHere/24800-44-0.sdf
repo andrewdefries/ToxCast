@@ -1,0 +1,97 @@
+24800-44-0
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    8.0935   -1.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2245   -1.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3763   -1.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0935    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2828   -1.9611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2828   -3.3100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6071   -1.9611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7692   -1.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6071   -3.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553   -1.3178    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9210   -1.9922    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <ID>
+5442
+
+> <Formula>
+C9H20O4
+
+> <FW>
+192.2527
+
+> <DSSTox_CID>
+7837
+
+> <DSSTox_RID>
+78586
+
+> <DSSTox_GSID>
+27837
+
+> <DSSTox_FileID_Sort>
+3269
+
+> <TS_ChemName>
+Tripropylene glycol
+
+> <TS_ChemName_Synonyms>
+Tripropylene glycol (Propanol, [(1-methyl-1,2-ethanediyl)bis(oxy)]bis-)
+
+> <TS_CASRN>
+24800-44-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of propylene glycol ethers; structure shown 1,1'-[propane-1,2-diylbis(oxy)]dipropan-1-ol
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C9H20O4
+
+> <STRUCTURE_MW>
+192.2527
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1'-[propane-1,2-diylbis(oxy)]dipropan-1-ol
+
+> <STRUCTURE_SMILES>
+OC(OC(C)COC(O)CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+OC(OC(C)COC(O)CC)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

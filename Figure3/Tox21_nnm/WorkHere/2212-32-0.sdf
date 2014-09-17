@@ -1,0 +1,91 @@
+2212-32-0
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    6.9031   -1.9735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7512   -1.3130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0550   -1.3130    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5994   -1.9896    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4395   -1.3130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2876   -1.9896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1358   -1.3291    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1358    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5994   -3.3186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+10522
+
+> <Formula>
+C7H18N2O
+
+> <FW>
+146.2306
+
+> <DSSTox_CID>
+24875
+
+> <DSSTox_RID>
+80549
+
+> <DSSTox_GSID>
+44875
+
+> <DSSTox_FileID_Sort>
+5231
+
+> <TS_ChemName>
+2-{[2-(Dimethylamino)ethyl](methyl)amino}ethanol
+
+> <TS_ChemName_Synonyms>
+Ethanol, 2-[[2-(dimethylamino)ethyl]methylamino]-
+
+> <TS_CASRN>
+2212-32-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H18N2O
+
+> <STRUCTURE_MW>
+146.2306
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-{[2-(dimethylamino)ethyl](methyl)amino}ethanol
+
+> <STRUCTURE_SMILES>
+CN(C)CCN(C)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCN(C)CCO
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

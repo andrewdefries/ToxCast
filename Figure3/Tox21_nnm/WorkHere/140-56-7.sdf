@@ -1,0 +1,103 @@
+140-56-7
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  2 V2000
+    8.6468   -1.3225    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3130   -1.3225    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9793   -1.3225    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6455   -1.3225    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -2.4754    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6562   -2.4754    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9893   -1.3225    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6562   -0.1695    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -0.1695    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6556   -1.3225    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4754    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1695    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6468    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6468   -2.6562    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9692   -1.3225    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+   11.3030   -1.2885    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  2  0  0  0  0
+  1 14  2  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+594
+
+> <Formula>
+C8H10N3NaO3S
+
+> <FW>
+251.2381 (228.2488+22.9892)
+
+> <DSSTox_CID>
+619
+
+> <DSSTox_RID>
+79487
+
+> <DSSTox_GSID>
+40371
+
+> <DSSTox_FileID_Sort>
+4169
+
+> <TS_ChemName>
+Fenaminosulf
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+140-56-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [150-70-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10N3NaO3S
+
+> <STRUCTURE_MW>
+251.2381
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium [4-(dimethylamino)phenyl]diazenesulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].CN(C)c1ccc(/N=N/S([O-])(=O)=O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)c1ccc(/N=N/S(=O)(=O)O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

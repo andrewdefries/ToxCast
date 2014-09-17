@@ -1,0 +1,93 @@
+680-31-9
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    1.3337   -1.9906    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3337   -0.6569    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3337   -3.3243    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6634   -1.9906    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9906    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1752   -3.9812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4882    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4723   -3.9812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3402   -3.1610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1911    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3402   -0.8520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+M  END
+> <ID>
+665
+
+> <Formula>
+C6H18N3OP
+
+> <FW>
+179.2004
+
+> <DSSTox_CID>
+694
+
+> <DSSTox_RID>
+75740
+
+> <DSSTox_GSID>
+20694
+
+> <DSSTox_FileID_Sort>
+424
+
+> <TS_ChemName>
+Hexamethylphosphoramide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+680-31-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H18N3OP
+
+> <STRUCTURE_MW>
+179.2004
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N,N',N',N'',N''-hexamethylphosphoric triamide
+
+> <STRUCTURE_SMILES>
+CN(C)P(=O)(N(C)C)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)P(=O)(N(C)C)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

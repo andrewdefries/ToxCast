@@ -1,0 +1,98 @@
+10469-09-7
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    3.3276   -3.4532    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9989   -3.4532    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9859   -2.3042    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3276   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286   -2.3042    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9989   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3145   -2.3042    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9848   -3.4532    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9848   -1.1491    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9859    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3042    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286   -4.6083    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 12  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+10163
+
+> <Formula>
+C6HCl4NO2
+
+> <FW>
+260.8896
+
+> <DSSTox_CID>
+24509
+
+> <DSSTox_RID>
+80279
+
+> <DSSTox_GSID>
+44509
+
+> <DSSTox_FileID_Sort>
+4961
+
+> <TS_ChemName>
+3,4,5,6-Tetrachloropyridine-2-carboxylic acid
+
+> <TS_ChemName_Synonyms>
+3,4,5,6-Tetrachloropyridine-2-carboxylic acid (2-Pyridinecarboxylic acid, 3,4,5,6-tetrachloro-)
+
+> <TS_CASRN>
+10469-09-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6HCl4NO2
+
+> <STRUCTURE_MW>
+260.8896
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,4,5,6-tetrachloropyridine-2-carboxylic acid
+
+> <STRUCTURE_SMILES>
+Clc1c(Cl)c(nc(Cl)c1Cl)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1c(Cl)c(nc(Cl)c1Cl)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

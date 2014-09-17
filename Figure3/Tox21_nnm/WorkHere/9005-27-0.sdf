@@ -1,0 +1,102 @@
+9005-27-0
+ChemmineR-0915142007XD
+
+ 15 15  0  0  1  0  0  0  0  0  1 V2000
+    4.6103   -0.6718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103   -2.0061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4601   -0.0184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4601   -2.6779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3006   -0.6718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3006   -2.0061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7606    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7606   -2.6779    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4601   -4.0030    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -2.6779    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -0.0184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6718    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9109   -2.0061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0520   -2.6779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2023   -2.0061    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  6  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  6  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  1  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  1  0  0  0
+  6 10  1  6  0  0  0
+  8 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+12004
+
+> <Formula>
+C8H16O7
+
+> <FW>
+224.2084
+
+> <DSSTox_CID>
+26829
+
+> <DSSTox_RID>
+81941
+
+> <DSSTox_GSID>
+46829
+
+> <DSSTox_FileID_Sort>
+6622
+
+> <TS_ChemName>
+Hydroxyethyl glucose
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+9005-27-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+polymer
+
+> <ChemNote>
+complex mixture of on average1 hydroxyethyl groups/ 10 glucose units
+
+> <STRUCTURE_Shown>
+monomer of polymer
+
+> <STRUCTURE_Formula>
+C8H16O7
+
+> <STRUCTURE_MW>
+224.2084
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-O-(2-hydroxyethyl)-alpha-D-glucopyranose
+
+> <STRUCTURE_SMILES>
+O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1OCCO
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1OCCO
+
+> <Substance_modify_yyyymmdd>
+20110731
+
+$$$$

@@ -1,0 +1,94 @@
+116-25-6
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.0526   -2.0215    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1331   -2.7971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7299   -4.0741    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4063   -4.0896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0030   -2.7971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4257   -2.3938    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0526   -0.6773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5997   -5.1702    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4860   -1.5666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.5881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1848    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+M  END
+> <ID>
+6995
+
+> <Formula>
+C6H10N2O3
+
+> <FW>
+158.1552
+
+> <DSSTox_CID>
+15152
+
+> <DSSTox_RID>
+79240
+
+> <DSSTox_GSID>
+35152
+
+> <DSSTox_FileID_Sort>
+3922
+
+> <TS_ChemName>
+1-(Hydroxymethyl)-5,5-dimethylhydantoin
+
+> <TS_ChemName_Synonyms>
+2,4-Imidazolidinedione, 1-(hydroxymethyl)-5,5-dimethyl-
+
+> <TS_CASRN>
+116-25-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10N2O3
+
+> <STRUCTURE_MW>
+158.1552
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(hydroxymethyl)-5,5-dimethylimidazolidine-2,4-dione
+
+> <STRUCTURE_SMILES>
+CC1(C)C(=O)NC(=O)N1CO
+
+> <STRUCTURE_SMILES_Desalt>
+CC1(C)C(=O)NC(=O)N1CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

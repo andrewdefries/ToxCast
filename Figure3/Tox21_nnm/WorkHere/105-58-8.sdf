@@ -1,0 +1,87 @@
+105-58-8
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    3.4577    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103   -1.9939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7628   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7628    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -1.9939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+3982
+
+> <Formula>
+C5H10O3
+
+> <FW>
+118.1311
+
+> <DSSTox_CID>
+5041
+
+> <DSSTox_RID>
+77636
+
+> <DSSTox_GSID>
+25041
+
+> <DSSTox_FileID_Sort>
+2319
+
+> <TS_ChemName>
+Diethyl carbonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+105-58-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10O3
+
+> <STRUCTURE_MW>
+118.1311
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diethyl carbonate
+
+> <STRUCTURE_SMILES>
+O=C(OCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

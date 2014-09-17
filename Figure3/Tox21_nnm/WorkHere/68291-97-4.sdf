@@ -1,0 +1,101 @@
+68291-97-4
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    5.2920   -3.9591    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5698   -2.4151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3484   -1.3197    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9921   -3.6820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3161   -1.9928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5698   -0.2573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3161   -0.6599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5824   -2.6526    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0215   -5.2458    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5986   -4.2297    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1613   -2.6526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1613    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6599    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  2  0  0  0  0
+  1  9  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+11364
+
+> <Formula>
+C8H8N2O3S
+
+> <FW>
+212.2257
+
+> <DSSTox_CID>
+26023
+
+> <DSSTox_RID>
+81296
+
+> <DSSTox_GSID>
+46023
+
+> <DSSTox_FileID_Sort>
+5977
+
+> <TS_ChemName>
+Zonisamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+68291-97-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8N2O3S
+
+> <STRUCTURE_MW>
+212.2257
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(1,2-benzoxazol-3-yl)methanesulfonamide
+
+> <STRUCTURE_SMILES>
+NS(=O)(=O)Cc2noc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+NS(=O)(=O)Cc2noc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20110824
+
+$$$$

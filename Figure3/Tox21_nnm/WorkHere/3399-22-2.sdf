@@ -1,0 +1,100 @@
+3399-22-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  1  0  0  0  0  0  1 V2000
+    6.0131   -1.1391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3315   -2.2969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0056   -2.2969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3427   -1.1391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0056    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3315    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3483   -1.1391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0018   -2.2969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0018    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0075   -1.1391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3352    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3352   -2.2969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3370    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  1  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+5896
+
+> <Formula>
+C10H16O4
+
+> <FW>
+200.2316
+
+> <DSSTox_CID>
+9255
+
+> <DSSTox_RID>
+78736
+
+> <DSSTox_GSID>
+29255
+
+> <DSSTox_FileID_Sort>
+3418
+
+> <TS_ChemName>
+Dimethyl trans-cyclohexane-1,4-dicarboxylate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3399-22-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16O4
+
+> <STRUCTURE_MW>
+200.2316
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dimethyl trans-cyclohexane-1,4-dicarboxylate
+
+> <STRUCTURE_SMILES>
+COC(=O)[C@H]1CC[C@@H](CC1)C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+COC(=O)[C@H]1CC[C@@H](CC1)C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

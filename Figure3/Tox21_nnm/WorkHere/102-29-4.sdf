@@ -1,0 +1,94 @@
+102-29-4
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    6.9056   -2.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7524   -2.0026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7524   -0.6560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5991   -2.6587    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4459   -2.0026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4459   -0.6560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2927    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -0.6560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -2.0026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2927   -2.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6587    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+11281
+
+> <Formula>
+C8H8O3
+
+> <FW>
+152.1473
+
+> <DSSTox_CID>
+25901
+
+> <DSSTox_RID>
+81213
+
+> <DSSTox_GSID>
+45901
+
+> <DSSTox_FileID_Sort>
+5894
+
+> <TS_ChemName>
+Resorcinol monoacetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+102-29-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8O3
+
+> <STRUCTURE_MW>
+152.1473
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-hydroxyphenyl acetate
+
+> <STRUCTURE_SMILES>
+O=C(C)Oc1cccc(O)c1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)Oc1cccc(O)c1
+
+> <Substance_modify_yyyymmdd>
+20110922
+
+$$$$

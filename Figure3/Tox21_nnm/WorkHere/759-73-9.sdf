@@ -1,0 +1,87 @@
+759-73-9
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    3.4566    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3044   -0.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1522    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3044   -1.9956    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4566   -2.6593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6088   -1.9956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1522   -2.6593    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9956    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+568
+
+> <Formula>
+C3H7N3O2
+
+> <FW>
+117.1066
+
+> <DSSTox_CID>
+593
+
+> <DSSTox_RID>
+75678
+
+> <DSSTox_GSID>
+20593
+
+> <DSSTox_FileID_Sort>
+362
+
+> <TS_ChemName>
+1-Ethyl-1-nitrosourea
+
+> <TS_ChemName_Synonyms>
+ENU
+
+> <TS_CASRN>
+759-73-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H7N3O2
+
+> <STRUCTURE_MW>
+117.1066
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-ethyl-1-nitrosourea
+
+> <STRUCTURE_SMILES>
+NC(=O)N(CC)N=O
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)N(CC)N=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

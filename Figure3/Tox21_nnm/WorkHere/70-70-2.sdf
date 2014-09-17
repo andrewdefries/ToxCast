@@ -1,0 +1,94 @@
+70-70-2
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.9925   -3.4525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3194   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9835   -3.4525    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9835   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3194    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -3.4525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+3073
+
+> <Formula>
+C9H10O2
+
+> <FW>
+150.1745
+
+> <DSSTox_CID>
+3426
+
+> <DSSTox_RID>
+77023
+
+> <DSSTox_GSID>
+23426
+
+> <DSSTox_FileID_Sort>
+1707
+
+> <TS_ChemName>
+Paroxypropione
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+70-70-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10O2
+
+> <STRUCTURE_MW>
+150.1745
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(4-hydroxyphenyl)propan-1-one
+
+> <STRUCTURE_SMILES>
+O=C(CC)c1ccc(O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CC)c1ccc(O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

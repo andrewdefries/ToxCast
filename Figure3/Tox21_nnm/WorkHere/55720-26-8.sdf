@@ -1,0 +1,94 @@
+55720-26-8
+ChemmineR-0915142007XD
+
+ 12 10  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -1.4861    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8464   -1.3303    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.6839   -1.9895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5333   -1.3303    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3708   -1.9895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.8464    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   11.9850   -1.9895    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.6839   -3.3198    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2202   -1.3303    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0577   -1.9895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9071   -1.3303    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7446   -1.9895    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  1  0  0  0
+  4  5  2  0  0  0  0
+  5  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+6707
+
+> <Formula>
+C6H13ClN2O3
+
+> <FW>
+196.6320 (36.4609+160.1711)
+
+> <DSSTox_CID>
+14266
+
+> <DSSTox_RID>
+79135
+
+> <DSSTox_GSID>
+34266
+
+> <DSSTox_FileID_Sort>
+3817
+
+> <TS_ChemName>
+Aviglycine hydrochloride
+
+> <TS_ChemName_Synonyms>
+3-Butenoic acid, 2-amino-4-(2-aminoethoxy)-, monohydrochloride, (S-(E))-
+
+> <TS_CASRN>
+55720-26-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [49669-74-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H13ClN2O3
+
+> <STRUCTURE_MW>
+196.632
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(2S,3E)-2-amino-4-(2-aminoethoxy)but-3-enoic acid hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.N[C@@H](/C=C/OCCN)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+N[C@@H](/C=C/OCCN)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

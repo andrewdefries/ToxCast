@@ -1,0 +1,96 @@
+87-82-1
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    4.6072   -1.3300    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -3.9900    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3089   -5.3201    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9900    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3300    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3089    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580   -1.9897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580   -3.3197    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3089   -1.3300    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3089   -3.9900    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1491   -1.9897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1491   -3.3197    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+3520
+
+> <Formula>
+C6Br6
+
+> <FW>
+551.4882
+
+> <DSSTox_CID>
+4128
+
+> <DSSTox_RID>
+77302
+
+> <DSSTox_GSID>
+24128
+
+> <DSSTox_FileID_Sort>
+1985
+
+> <TS_ChemName>
+Hexabromobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+87-82-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6Br6
+
+> <STRUCTURE_MW>
+551.4882
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexabromobenzene
+
+> <STRUCTURE_SMILES>
+Brc1c(Br)c(Br)c(Br)c(Br)c1Br
+
+> <STRUCTURE_SMILES_Desalt>
+Brc1c(Br)c(Br)c(Br)c(Br)c1Br
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

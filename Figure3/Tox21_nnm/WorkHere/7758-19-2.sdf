@@ -1,0 +1,78 @@
+7758-19-2
+ChemmineR-0915142007XD
+
+  4  2  0  0  0  0  0  0  0  0  2 V2000
+    1.1525   -0.6638    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.4890   -2.2036    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+M  END
+> <ID>
+1223
+
+> <Formula>
+ClNaO2
+
+> <FW>
+90.4416 (67.4523+22.9892)
+
+> <DSSTox_CID>
+1272
+
+> <DSSTox_RID>
+76050
+
+> <DSSTox_GSID>
+21272
+
+> <DSSTox_FileID_Sort>
+734
+
+> <TS_ChemName>
+Sodium chlorite
+
+> <TS_ChemName_Synonyms>
+Sodium chlorite (Chlorous acid, sodium salt)
+
+> <TS_CASRN>
+7758-19-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+ClNaO2
+
+> <STRUCTURE_MW>
+90.4416
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+sodium chlorite
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]Cl=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=ClO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,78 @@
+506-59-2
+ChemmineR-0915142007XD
+
+  4  2  0  0  0  0  0  0  0  0  1 V2000
+    1.4369   -2.2185    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6690    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1495    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2990   -0.6690    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+4965
+
+> <Formula>
+C2H8ClN
+
+> <FW>
+81.5446 (36.4609+45.0837)
+
+> <DSSTox_CID>
+7163
+
+> <DSSTox_RID>
+78330
+
+> <DSSTox_GSID>
+27163
+
+> <DSSTox_FileID_Sort>
+3013
+
+> <TS_ChemName>
+N-Methylmethanamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+506-59-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [124-40-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H8ClN
+
+> <STRUCTURE_MW>
+81.5446
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-methylmethanamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CNC
+
+> <STRUCTURE_SMILES_Desalt>
+CNC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

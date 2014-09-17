@@ -1,0 +1,88 @@
+100-74-3
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    4.6531   -1.1540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -1.1540    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+4140
+
+> <Formula>
+C6H13NO
+
+> <FW>
+115.1735
+
+> <DSSTox_CID>
+5312
+
+> <DSSTox_RID>
+77745
+
+> <DSSTox_GSID>
+25312
+
+> <DSSTox_FileID_Sort>
+2428
+
+> <TS_ChemName>
+N-Ethylmorpholine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+100-74-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H13NO
+
+> <STRUCTURE_MW>
+115.1735
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-ethylmorpholine
+
+> <STRUCTURE_SMILES>
+CCN1CCOCC1
+
+> <STRUCTURE_SMILES_Desalt>
+CCN1CCOCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

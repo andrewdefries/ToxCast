@@ -1,0 +1,111 @@
+70-18-8
+ChemmineR-0915142007XD
+
+ 20 19  0  0  1  0  0  0  0  0  1 V2000
+    3.9946   -4.6085    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6631   -4.6085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9973   -3.4586    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6631   -2.3086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9973   -1.1586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6658   -1.1586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6631    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9973   -5.7672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6631   -6.9171    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9946   -6.9171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6518   -8.0671    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6518   -5.7672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9833   -5.7672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6491   -6.9171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9833   -8.0671    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9807   -6.9171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6464   -8.0671    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6464   -5.7672    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6658   -5.7672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.9171    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  8  9  1  1  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  1  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+2786
+
+> <Formula>
+C10H17N3O6S
+
+> <FW>
+307.3235
+
+> <DSSTox_CID>
+3101
+
+> <DSSTox_RID>
+76875
+
+> <DSSTox_GSID>
+23101
+
+> <DSSTox_FileID_Sort>
+1559
+
+> <TS_ChemName>
+Glutathione
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+70-18-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H17N3O6S
+
+> <STRUCTURE_MW>
+307.3235
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+L-gamma-glutamyl-L-cysteinylglycine
+
+> <STRUCTURE_SMILES>
+O=C(NCC(=O)O)[C@@H](NC(=O)CC[C@H](N)C(=O)O)CS
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NCC(=O)O)[C@@H](NC(=O)CC[C@H](N)C(=O)O)CS
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

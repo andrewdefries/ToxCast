@@ -1,0 +1,94 @@
+13491-79-7
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.0013   -1.1643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6988   -2.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0013   -3.4445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6975   -3.4445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6975   -1.1643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6505    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0240   -2.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6839   -1.1321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6839   -3.4606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3653   -2.2964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+10449
+
+> <Formula>
+C10H20O
+
+> <FW>
+156.2652
+
+> <DSSTox_CID>
+24799
+
+> <DSSTox_RID>
+80484
+
+> <DSSTox_GSID>
+44799
+
+> <DSSTox_FileID_Sort>
+5166
+
+> <TS_ChemName>
+2-tert-Butylcyclohexanol
+
+> <TS_ChemName_Synonyms>
+2-tert-Butylcyclohexanol (Cyclohexanol, 2-(1,1-dimethylethyl)-)
+
+> <TS_CASRN>
+13491-79-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20O
+
+> <STRUCTURE_MW>
+156.2652
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-tert-butylcyclohexanol
+
+> <STRUCTURE_SMILES>
+CC(C)(C)C1CCCCC1O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)C1CCCCC1O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

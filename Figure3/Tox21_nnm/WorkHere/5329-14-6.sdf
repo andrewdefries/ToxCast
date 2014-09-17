@@ -1,0 +1,81 @@
+5329-14-6
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    1.1574   -1.1574    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8178    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4832    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3010   -1.8178    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4832   -2.3010    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+M  END
+> <ID>
+6655
+
+> <Formula>
+H3NO3S
+
+> <FW>
+97.0937
+
+> <DSSTox_CID>
+14005
+
+> <DSSTox_RID>
+79107
+
+> <DSSTox_GSID>
+34005
+
+> <DSSTox_FileID_Sort>
+3789
+
+> <TS_ChemName>
+Sulfamic acid
+
+> <TS_ChemName_Synonyms>
+Sulfamic acid (Imidosulfonic acid)
+
+> <TS_CASRN>
+5329-14-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+H3NO3S
+
+> <STRUCTURE_MW>
+97.0937
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+sulfamic acid
+
+> <STRUCTURE_SMILES>
+NS(=O)(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+NS(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

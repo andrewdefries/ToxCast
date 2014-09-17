@@ -1,0 +1,107 @@
+13171-21-6
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    3.3246   -1.9839    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9916   -1.9839    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9916   -3.3168    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1463   -3.9755    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2855   -3.3168    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4402   -3.9755    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4402   -5.3084    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5949   -3.3168    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5949   -1.9839    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.7496   -1.3097    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.7496   -3.9755    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.7496   -5.3084    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2855   -1.9839    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1463   -5.3084    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6742   -1.9839    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1386    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9916   -0.6587    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1463    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  3  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+1112
+
+> <Formula>
+C10H19ClNO5P
+
+> <FW>
+299.6883
+
+> <DSSTox_CID>
+1156
+
+> <DSSTox_RID>
+75980
+
+> <DSSTox_GSID>
+21156
+
+> <DSSTox_FileID_Sort>
+664
+
+> <TS_ChemName>
+Phosphamidon
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13171-21-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C10H19ClNO5P
+
+> <STRUCTURE_MW>
+299.6883
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-chloro-4-(diethylamino)-4-oxobut-2-en-2-yl dimethyl phosphate
+
+> <STRUCTURE_SMILES>
+COP(=O)(OC)OC(C)=C(Cl)C(=O)N(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+COP(=O)(OC)OC(C)=C(Cl)C(=O)N(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20110518
+
+$$$$

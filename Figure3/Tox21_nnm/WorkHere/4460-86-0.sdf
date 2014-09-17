@@ -1,0 +1,100 @@
+4460-86-0
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    4.6558   -3.4539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9821   -3.4539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6452   -4.6074    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9858   -4.6074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6558   -5.7541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9858   -6.9077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6595   -4.6074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9963   -3.4539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6631   -3.4539    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6595   -2.3003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9963   -1.1536    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6595    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9858   -2.3003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+2055
+
+> <Formula>
+C10H12O4
+
+> <FW>
+196.1999
+
+> <DSSTox_CID>
+2217
+
+> <DSSTox_RID>
+76523
+
+> <DSSTox_GSID>
+22217
+
+> <DSSTox_FileID_Sort>
+1207
+
+> <TS_ChemName>
+2,4,5-Trimethoxybenzaldehyde
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4460-86-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12O4
+
+> <STRUCTURE_MW>
+196.1999
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4,5-trimethoxybenzaldehyde
+
+> <STRUCTURE_SMILES>
+COc1cc(OC)c(cc1OC)C=O
+
+> <STRUCTURE_SMILES_Desalt>
+COc1cc(OC)c(cc1OC)C=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

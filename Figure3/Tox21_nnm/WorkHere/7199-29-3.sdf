@@ -1,0 +1,110 @@
+7199-29-3
+ChemmineR-0915142007XD
+
+ 18 20  0  0  0  0  0  0  0  0  1 V2000
+    4.8678    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7445   -0.7189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5612   -0.0899    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7445   -2.0445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9427   -2.6211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9238   -1.7075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1819   -2.1119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4890   -3.4075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5154   -4.2987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2498   -3.9167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4185   -4.9577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0855   -4.9577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2542   -3.9317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9885   -4.3211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3070   -2.1269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5652   -1.7225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5462   -2.6361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+11778
+
+> <Formula>
+C16H15NO
+
+> <FW>
+237.2964
+
+> <DSSTox_CID>
+26551
+
+> <DSSTox_RID>
+81712
+
+> <DSSTox_GSID>
+46551
+
+> <DSSTox_FileID_Sort>
+6393
+
+> <TS_ChemName>
+Cyheptamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7199-29-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H15NO
+
+> <STRUCTURE_MW>
+237.2964
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+10,11-dihydro-5H-dibenzo[a,d][7]annulene-5-carboxamide
+
+> <STRUCTURE_SMILES>
+NC(=O)C2c3ccccc3CCc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)C2c3ccccc3CCc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20110811
+
+$$$$

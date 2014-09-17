@@ -1,0 +1,90 @@
+5794-24-1
+ChemmineR-0915142007XD
+
+ 10  8  0  0  1  0  0  0  0  0  1 V2000
+    3.4422   -1.3275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -1.3275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5915   -1.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3044   -1.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5915   -3.3272    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7465   -1.3275    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3044   -3.3272    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9998    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2754   -0.0919    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  1  0  0  0
+M  END
+> <ID>
+13672
+
+> <Formula>
+C4H10N2O4
+
+> <FW>
+150.1332 (132.1179+18.0153)
+
+> <DSSTox_CID>
+28604
+
+> <DSSTox_RID>
+82874
+
+> <DSSTox_GSID>
+48678
+
+> <DSSTox_FileID_Sort>
+7551
+
+> <TS_ChemName>
+D-Asparagine hydrate
+
+> <TS_ChemName_Synonyms>
+D-ASPARAGINE
+
+> <TS_CASRN>
+5794-24-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+absolute stereochem; parent [2058-58-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10N2O4
+
+> <STRUCTURE_MW>
+150.1332
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+D-asparagine hydrate (1:1)
+
+> <STRUCTURE_SMILES>
+O.NC(=O)C[C@@H](N)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)C[C@@H](N)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20111210
+
+$$$$

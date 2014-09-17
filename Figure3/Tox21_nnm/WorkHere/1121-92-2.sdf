@@ -1,0 +1,88 @@
+1121-92-2
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    3.2111   -2.2703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2703   -3.2111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9409   -3.2111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.9409    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9409    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2703    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2111   -0.9409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+651
+
+> <Formula>
+C7H15N
+
+> <FW>
+113.2007
+
+> <DSSTox_CID>
+680
+
+> <DSSTox_RID>
+75728
+
+> <DSSTox_GSID>
+20680
+
+> <DSSTox_FileID_Sort>
+412
+
+> <TS_ChemName>
+Heptamethyleneimine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1121-92-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H15N
+
+> <STRUCTURE_MW>
+113.2007
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+azocane
+
+> <STRUCTURE_SMILES>
+C1CCCCCCN1
+
+> <STRUCTURE_SMILES_Desalt>
+C1CCCCCCN1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

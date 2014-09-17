@@ -1,0 +1,84 @@
+53226-35-0
+ChemmineR-0915142007XD
+
+  7  5  0  0  0  0  0  0  0  0  1 V2000
+    3.2998   -0.4285    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9927   -0.4285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3285   -1.5999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.5999    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9710   -1.3142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9710    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1424   -1.9927    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+12977
+
+> <Formula>
+C3H9NO3
+
+> <FW>
+107.1085 (61.0831+46.0254)
+
+> <DSSTox_CID>
+27878
+
+> <DSSTox_RID>
+82631
+
+> <DSSTox_GSID>
+47902
+
+> <DSSTox_FileID_Sort>
+7308
+
+> <TS_ChemName>
+2-Hydroxyethylammonium formate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+53226-35-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [141-43-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H9NO3
+
+> <STRUCTURE_MW>
+107.1085
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+formic acid - 2-aminoethanol (1:1)
+
+> <STRUCTURE_SMILES>
+O=CO.NCCO
+
+> <STRUCTURE_SMILES_Desalt>
+NCCO
+
+> <Substance_modify_yyyymmdd>
+20110417
+
+$$$$

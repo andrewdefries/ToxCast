@@ -1,0 +1,98 @@
+1918-00-9
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    2.3116   -1.9938    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4501   -2.6353    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3116   -0.6588    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1732   -2.6353    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4501   -3.9703    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1732    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1732   -3.9703    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3116   -4.6406    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4501    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6233   -1.9591    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9591    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6233   -4.6580    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7791   -2.6179    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5  8  1  0  0  0  0
+  7  8  2  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <ID>
+3470
+
+> <Formula>
+C8H6Cl2O3
+
+> <FW>
+221.0374
+
+> <DSSTox_CID>
+4018
+
+> <DSSTox_RID>
+77260
+
+> <DSSTox_GSID>
+24018
+
+> <DSSTox_FileID_Sort>
+1943
+
+> <TS_ChemName>
+Dicamba
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1918-00-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H6Cl2O3
+
+> <STRUCTURE_MW>
+221.0374
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,6-dichloro-2-methoxybenzoic acid
+
+> <STRUCTURE_SMILES>
+COc1c(c(Cl)ccc1Cl)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+COc1c(c(Cl)ccc1Cl)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

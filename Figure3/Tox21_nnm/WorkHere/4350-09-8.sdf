@@ -1,0 +1,105 @@
+4350-09-8
+ChemmineR-0915142007XD
+
+ 16 17  0  0  1  0  0  0  0  0  1 V2000
+    4.7598   -2.3964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5038   -1.9833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7598   -0.2562    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5118   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9497   -5.1730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2060   -3.6690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5038   -0.6528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5034   -3.9335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3386   -2.6609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2636   -5.4126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3386    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1817   -1.9833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3628   -2.9170    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1068   -6.1811    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1817   -0.6528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6774    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 13  1  6  0  0  0
+  9 12  2  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+M  END
+> <ID>
+4197
+
+> <Formula>
+C11H12N2O3
+
+> <FW>
+220.2246
+
+> <DSSTox_CID>
+5437
+
+> <DSSTox_RID>
+77786
+
+> <DSSTox_GSID>
+25437
+
+> <DSSTox_FileID_Sort>
+2469
+
+> <TS_ChemName>
+L-5-Hydroxytryptophan
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4350-09-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H12N2O3
+
+> <STRUCTURE_MW>
+220.2246
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-hydroxy-L-tryptophan
+
+> <STRUCTURE_SMILES>
+O=C(O)[C@@H](N)Cc2cnc1ccc(O)cc12
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)[C@@H](N)Cc2cnc1ccc(O)cc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

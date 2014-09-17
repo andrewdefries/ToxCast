@@ -1,0 +1,90 @@
+120-82-1
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    4.6082    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -0.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082   -2.6589    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -2.6589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6589    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+1827
+
+> <Formula>
+C6H3Cl3
+
+> <FW>
+181.447
+
+> <DSSTox_CID>
+1965
+
+> <DSSTox_RID>
+76431
+
+> <DSSTox_GSID>
+21965
+
+> <DSSTox_FileID_Sort>
+1115
+
+> <TS_ChemName>
+1,2,4-Trichlorobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+120-82-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H3Cl3
+
+> <STRUCTURE_MW>
+181.447
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2,4-trichlorobenzene
+
+> <STRUCTURE_SMILES>
+Clc1cc(Cl)c(Cl)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(Cl)c(Cl)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

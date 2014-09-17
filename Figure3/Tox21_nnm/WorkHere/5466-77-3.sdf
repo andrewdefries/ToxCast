@@ -1,0 +1,114 @@
+5466-77-3
+ChemmineR-0915142007XD
+
+ 21 21  0  0  0  0  0  0  0  0  1 V2000
+   16.1138   -1.9014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0408   -1.2891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8806   -1.9659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7204   -1.2891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0408    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1687   -1.9659    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5924   -1.9659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4322   -1.2891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5924   -3.2872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -1.9659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4322   -3.9479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -3.2872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3128   -1.2891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1441   -3.9479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.2711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4730   -1.9498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6332   -1.2730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7934   -1.9337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9536   -1.2408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4891   -3.2872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6654   -3.9479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  3  0  0  0
+  4  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <ID>
+4130
+
+> <Formula>
+C18H26O3
+
+> <FW>
+290.3972
+
+> <DSSTox_CID>
+5302
+
+> <DSSTox_RID>
+77737
+
+> <DSSTox_GSID>
+25302
+
+> <DSSTox_FileID_Sort>
+2420
+
+> <TS_ChemName>
+2-Ethylhexyl-4-methoxycinnamate
+
+> <TS_ChemName_Synonyms>
+2-ethylhexyl 3-(4-methoxyphenyl)prop-2-enoate (2-Ethylhexyl-p-methoxycinnamate)
+
+> <TS_CASRN>
+5466-77-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C18H26O3
+
+> <STRUCTURE_MW>
+290.3972
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethylhexyl 3-(4-methoxyphenyl)prop-2-enoate
+
+> <STRUCTURE_SMILES>
+COc1ccc(C=CC(=O)OCC(CC)CCCC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(C=CC(=O)OCC(CC)CCCC)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

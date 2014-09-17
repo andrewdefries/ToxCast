@@ -1,0 +1,100 @@
+121-60-8
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    8.6445   -1.3313    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9906   -1.3313    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3164   -2.4896    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9851   -2.4896    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3281   -1.3313    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9851   -0.1815    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3164   -0.1815    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3133   -1.3313    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3133   -2.6625    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3133    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9969   -1.3313    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313   -2.4896    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9969   -3.6220    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4896    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+4875
+
+> <Formula>
+C8H8ClNO3S
+
+> <FW>
+233.672
+
+> <DSSTox_CID>
+6981
+
+> <DSSTox_RID>
+78273
+
+> <DSSTox_GSID>
+26981
+
+> <DSSTox_FileID_Sort>
+2956
+
+> <TS_ChemName>
+Benzenesulfonyl chloride, 4-(acetylamino)-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+121-60-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8ClNO3S
+
+> <STRUCTURE_MW>
+233.672
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(acetylamino)benzenesulfonyl chloride
+
+> <STRUCTURE_SMILES>
+O=S(Cl)(=O)c1ccc(NC(C)=O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(Cl)(=O)c1ccc(NC(C)=O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

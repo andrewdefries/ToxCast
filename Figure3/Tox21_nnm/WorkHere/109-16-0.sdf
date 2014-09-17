@@ -1,0 +1,111 @@
+109-16-0
+ChemmineR-0915142007XD
+
+ 20 19  0  0  0  0  0  0  0  0  1 V2000
+    3.4535   -2.6462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6046   -1.9734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023   -1.9734    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7558   -2.6462    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9070   -1.9734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0432   -2.6462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1943   -1.9734    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3455   -2.6462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4967   -1.9734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6478   -2.6462    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1512   -2.6462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1512   -3.9767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9734    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023   -4.6345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7990   -1.9734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7990   -0.6578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9501   -2.6462    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9501    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6478    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 17 20  1  0  0  0  0
+M  END
+> <ID>
+6070
+
+> <Formula>
+C14H22O6
+
+> <FW>
+286.3209
+
+> <DSSTox_CID>
+9607
+
+> <DSSTox_RID>
+78784
+
+> <DSSTox_GSID>
+29607
+
+> <DSSTox_FileID_Sort>
+3466
+
+> <TS_ChemName>
+Triethylene glycol dimethacrylate
+
+> <TS_ChemName_Synonyms>
+Triethylene glycol dimethacrylate (2-Propenoic acid, 2-methyl-, 1,2-ethanediylbis(oxy-2,1-ethanediyl) ester)
+
+> <TS_CASRN>
+109-16-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H22O6
+
+> <STRUCTURE_MW>
+286.3209
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethane-1,2-diylbis(oxyethane-2,1-diyl) bis(2-methylprop-2-enoate)
+
+> <STRUCTURE_SMILES>
+O=C(OCCOCCOCCOC(=O)C(=C)C)C(=C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCCOCCOCCOC(=O)C(=C)C)C(=C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

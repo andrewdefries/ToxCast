@@ -1,0 +1,97 @@
+16728-49-7
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    1.1657   -0.6661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -0.0139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -0.6661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3461    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6212    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7730   -0.6661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9387   -0.0139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1044   -0.6661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2562   -0.0139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4219   -0.6661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5737   -0.0139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7117   -0.6661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8774   -0.0139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+10253
+
+> <Formula>
+C11H21NO
+
+> <FW>
+183.2905
+
+> <DSSTox_CID>
+24599
+
+> <DSSTox_RID>
+80342
+
+> <DSSTox_GSID>
+44599
+
+> <DSSTox_FileID_Sort>
+5024
+
+> <TS_ChemName>
+3-(Octyloxy)propanenitrile
+
+> <TS_ChemName_Synonyms>
+3-(Octyloxy)propanenitrile (Propanenitrile, 3-(octyloxy)-)
+
+> <TS_CASRN>
+16728-49-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H21NO
+
+> <STRUCTURE_MW>
+183.2905
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(octyloxy)propanenitrile
+
+> <STRUCTURE_SMILES>
+CCCCCCCCOCCC#N
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCOCCC#N
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,92 @@
+55117-15-2
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.3325   -1.1810    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0444   -2.3134    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3325   -3.4620    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0384   -3.4620    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3265   -2.3134    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0384   -1.1810    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9958   -0.0162    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3751   -0.0162    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0485    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3134    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+7525
+
+> <Formula>
+C7H5Cl2F
+
+> <FW>
+179.019
+
+> <DSSTox_CID>
+18855
+
+> <DSSTox_RID>
+79409
+
+> <DSSTox_GSID>
+38855
+
+> <DSSTox_FileID_Sort>
+4091
+
+> <TS_ChemName>
+1-Chloro-2-(chloromethyl)-3-fluorobenzene
+
+> <TS_ChemName_Synonyms>
+Benzene, 1-chloro-2-(chloromethyl)-3-fluoro-
+
+> <TS_CASRN>
+55117-15-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H5Cl2F
+
+> <STRUCTURE_MW>
+179.019
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-2-(chloromethyl)-3-fluorobenzene
+
+> <STRUCTURE_SMILES>
+ClCc1c(F)cccc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+ClCc1c(F)cccc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

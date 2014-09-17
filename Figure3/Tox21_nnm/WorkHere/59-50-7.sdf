@@ -1,0 +1,90 @@
+59-50-7
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    4.6082   -2.6589    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -2.6589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -0.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+1648
+
+> <Formula>
+C7H7ClO
+
+> <FW>
+142.5829
+
+> <DSSTox_CID>
+1717
+
+> <DSSTox_RID>
+76291
+
+> <DSSTox_GSID>
+21717
+
+> <DSSTox_FileID_Sort>
+975
+
+> <TS_ChemName>
+4-Chloro-3-methylphenol
+
+> <TS_ChemName_Synonyms>
+4-Chloro-3-methylphenol (4-Chloro-m-cresol)
+
+> <TS_CASRN>
+59-50-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7ClO
+
+> <STRUCTURE_MW>
+142.5829
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-chloro-3-methylphenol
+
+> <STRUCTURE_SMILES>
+Oc1ccc(Cl)c(C)c1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(Cl)c(C)c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

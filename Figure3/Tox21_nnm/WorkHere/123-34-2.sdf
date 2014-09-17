@@ -1,0 +1,89 @@
+123-34-2
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1491    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2822   -0.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4313    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2822   -2.0009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5885   -0.6750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7376    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8867   -0.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0359    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+10033
+
+> <Formula>
+C6H12O3
+
+> <FW>
+132.1577
+
+> <DSSTox_CID>
+24375
+
+> <DSSTox_RID>
+80181
+
+> <DSSTox_GSID>
+44375
+
+> <DSSTox_FileID_Sort>
+4863
+
+> <TS_ChemName>
+1,2-Propanediol, 3-(2-propenyloxy)-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+123-34-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O3
+
+> <STRUCTURE_MW>
+132.1577
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(prop-2-en-1-yloxy)propane-1,2-diol
+
+> <STRUCTURE_SMILES>
+OCC(O)COCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+OCC(O)COCC=C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

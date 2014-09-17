@@ -1,0 +1,95 @@
+5138-18-1
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    3.4314   -1.3370    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4314   -2.6567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3067   -3.3395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5962   -3.3395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1419   -2.6567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7683   -1.3370    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1116   -1.3370    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4314    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7381   -2.6567    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5962   -4.6593    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1419   -1.3370    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3395    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5 11  2  0  0  0  0
+  5 12  1  0  0  0  0
+M  END
+> <ID>
+9339
+
+> <Formula>
+C4H6O7S
+
+> <FW>
+198.1512
+
+> <DSSTox_CID>
+22426
+
+> <DSSTox_RID>
+80022
+
+> <DSSTox_GSID>
+42426
+
+> <DSSTox_FileID_Sort>
+4704
+
+> <TS_ChemName>
+Sulfosuccinic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5138-18-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6O7S
+
+> <STRUCTURE_MW>
+198.1512
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-sulfobutanedioic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)CC(C(=O)O)S(=O)(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)CC(C(=O)O)S(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

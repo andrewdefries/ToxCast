@@ -1,0 +1,83 @@
+996-35-0
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    2.0016   -1.1510    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6725   -1.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582   -2.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+M  END
+> <ID>
+6626
+
+> <Formula>
+C5H13N
+
+> <FW>
+87.1634
+
+> <DSSTox_CID>
+13447
+
+> <DSSTox_RID>
+79075
+
+> <DSSTox_GSID>
+33447
+
+> <DSSTox_FileID_Sort>
+3757
+
+> <TS_ChemName>
+Dimethylisopropylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+996-35-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H13N
+
+> <STRUCTURE_MW>
+87.1634
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-dimethylpropan-2-amine
+
+> <STRUCTURE_SMILES>
+CC(C)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,91 @@
+96-80-0
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    5.7564   -1.3297    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6051   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4538   -1.3297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3025   -1.9975    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3025   -3.3272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -3.9892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4538   -3.9892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -1.3297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+1716
+
+> <Formula>
+C8H19NO
+
+> <FW>
+145.2426
+
+> <DSSTox_CID>
+1822
+
+> <DSSTox_RID>
+76349
+
+> <DSSTox_GSID>
+21822
+
+> <DSSTox_FileID_Sort>
+1033
+
+> <TS_ChemName>
+2-(Diisopropylamino)ethanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+96-80-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H19NO
+
+> <STRUCTURE_MW>
+145.2426
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[di(propan-2-yl)amino]ethanol
+
+> <STRUCTURE_SMILES>
+CC(C)N(CCO)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)N(CCO)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

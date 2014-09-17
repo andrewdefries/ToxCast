@@ -1,0 +1,93 @@
+111-17-1
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1313   -1.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2902   -1.9959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4399   -1.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1313    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9959    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0478   -1.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8981   -1.9959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7392   -1.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0478    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1975   -1.9959    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5896   -1.9959    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+9896
+
+> <Formula>
+C6H10O4S
+
+> <FW>
+178.2062
+
+> <DSSTox_CID>
+24200
+
+> <DSSTox_RID>
+80113
+
+> <DSSTox_GSID>
+44200
+
+> <DSSTox_FileID_Sort>
+4795
+
+> <TS_ChemName>
+Bis(2-carboxyethyl) sulfide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+111-17-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10O4S
+
+> <STRUCTURE_MW>
+178.2062
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3'-sulfanediyldipropanoic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)CCSCCC(O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)CCSCCC(O)=O
+
+> <Substance_modify_yyyymmdd>
+20090302
+
+$$$$

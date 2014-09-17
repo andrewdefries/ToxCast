@@ -1,0 +1,113 @@
+89-46-3
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    2.2981   -4.0096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -4.6652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2981   -2.6777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -5.9972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4506   -4.6652    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -2.0014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2981   -6.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031   -3.9958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7487   -4.6652    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031   -2.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4506   -2.0014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7487   -2.0014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4506   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7487   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9012   -2.6639    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+11998
+
+> <Formula>
+C17H24O3
+
+> <FW>
+276.3707
+
+> <DSSTox_CID>
+26822
+
+> <DSSTox_RID>
+81934
+
+> <DSSTox_GSID>
+46822
+
+> <DSSTox_FileID_Sort>
+6615
+
+> <TS_ChemName>
+Menthyl salicylate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+89-46-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of menthol isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C17H24O3
+
+> <STRUCTURE_MW>
+276.3707
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-methyl-2-(propan-2-yl)cyclohexyl 2-hydroxybenzoate
+
+> <STRUCTURE_SMILES>
+O=C(OC1CC(C)CCC1C(C)C)c2ccccc2O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OC1CC(C)CCC1C(C)C)c2ccccc2O
+
+> <Substance_modify_yyyymmdd>
+20110801
+
+$$$$

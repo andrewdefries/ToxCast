@@ -1,0 +1,89 @@
+123-05-7
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.9942   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6589   -1.1498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9942    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6647   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6589   -3.4553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9943   -3.4553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6590   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9885   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4121
+
+> <Formula>
+C8H16O
+
+> <FW>
+128.212
+
+> <DSSTox_CID>
+5291
+
+> <DSSTox_RID>
+77728
+
+> <DSSTox_GSID>
+25291
+
+> <DSSTox_FileID_Sort>
+2411
+
+> <TS_ChemName>
+2-Ethylhexanal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+123-05-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H16O
+
+> <STRUCTURE_MW>
+128.212
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethylhexanal
+
+> <STRUCTURE_SMILES>
+CCC(CCCC)C=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(CCCC)C=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

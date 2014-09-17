@@ -1,0 +1,94 @@
+13816-33-6
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.1625   -0.6681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0134    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1625   -2.0244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0134   -2.6792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3117   -2.6925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0134   -4.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3117   -4.0154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1625   -4.6702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1492   -6.0131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2983   -6.6812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+12581
+
+> <Formula>
+C10H11N
+
+> <FW>
+145.201
+
+> <DSSTox_CID>
+27440
+
+> <DSSTox_RID>
+82349
+
+> <DSSTox_GSID>
+47440
+
+> <DSSTox_FileID_Sort>
+7030
+
+> <TS_ChemName>
+4-Isopropylbenzonitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13816-33-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H11N
+
+> <STRUCTURE_MW>
+145.201
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(propan-2-yl)benzonitrile
+
+> <STRUCTURE_SMILES>
+CC(C)c1ccc(C#N)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)c1ccc(C#N)cc1
+
+> <Substance_modify_yyyymmdd>
+20100620
+
+$$$$

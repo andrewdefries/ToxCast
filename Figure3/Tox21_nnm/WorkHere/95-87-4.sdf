@@ -1,0 +1,90 @@
+95-87-4
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -0.6636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082   -2.6589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -2.6589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+M  END
+> <ID>
+4044
+
+> <Formula>
+C8H10O
+
+> <FW>
+122.1644
+
+> <DSSTox_CID>
+5145
+
+> <DSSTox_RID>
+77686
+
+> <DSSTox_GSID>
+25145
+
+> <DSSTox_FileID_Sort>
+2369
+
+> <TS_ChemName>
+2,5-Dimethylphenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+95-87-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10O
+
+> <STRUCTURE_MW>
+122.1644
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,5-dimethylphenol
+
+> <STRUCTURE_SMILES>
+Cc1cc(O)c(C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(O)c(C)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,106 @@
+1643-19-2
+ChemmineR-0915142007XD
+
+ 18 16  0  0  0  0  0  0  0  0  2 V2000
+    5.2770   -3.4786    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6263   -2.3190    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2770   -1.1595    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6263    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6263   -4.6263    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    5.7621   -5.2888    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9216   -4.6263    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0930   -5.2888    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2525   -4.6263    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4667   -3.9755    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -4.6263    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1595   -3.9755    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6263    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9637   -5.7858    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6263   -6.9453    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9637   -8.0930    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6263   -9.2525    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.8319   -4.6263    0.0000 Br   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+10057
+
+> <Formula>
+C16H36BrN
+
+> <FW>
+322.3677 (242.4632+79.9045)
+
+> <DSSTox_CID>
+24400
+
+> <DSSTox_RID>
+80201
+
+> <DSSTox_GSID>
+44400
+
+> <DSSTox_FileID_Sort>
+4883
+
+> <TS_ChemName>
+Tetrabutylammonium bromide
+
+> <TS_ChemName_Synonyms>
+1-Butanaminium, N,N,N-tributyl-, bromide
+
+> <TS_CASRN>
+1643-19-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [10549-76-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H36BrN
+
+> <STRUCTURE_MW>
+322.3677
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+N,N,N-tributylbutan-1-aminium bromide
+
+> <STRUCTURE_SMILES>
+[Br-].CCCC[N+](CCCC)(CCCC)CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC[N+](CCCC)(CCCC)CCCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

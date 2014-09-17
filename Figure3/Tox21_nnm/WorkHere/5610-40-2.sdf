@@ -1,0 +1,109 @@
+5610-40-2
+ChemmineR-0915142007XD
+
+ 17 20  0  0  1  0  0  0  0  0  1 V2000
+    3.2964   -3.0734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5438   -3.3627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2719   -5.2067    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2719   -3.8809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8327   -4.6041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2000   -1.7838    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2964   -6.0263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3992   -1.2957    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2067   -2.2538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1103   -4.5438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5438   -5.7250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7668    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1329   -5.8696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1329   -3.2361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.2188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.8809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2719   -2.6034    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  6  0  0  0
+  1  6  1  0  0  0  0
+  2  9  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 17  1  1  0  0  0
+  7  5  1  6  0  0  0
+  6  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+11310
+
+> <Formula>
+C13H15NO2
+
+> <FW>
+217.2637
+
+> <DSSTox_CID>
+25944
+
+> <DSSTox_RID>
+81242
+
+> <DSSTox_GSID>
+45944
+
+> <DSSTox_FileID_Sort>
+5923
+
+> <TS_ChemName>
+Securinine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5610-40-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H15NO2
+
+> <STRUCTURE_MW>
+217.2637
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(6S,11aR,11bS)-9,10,11,11a-tetrahydro-8H-6,11b-methanofuro[2,3-c]pyrido[1,2-a]azepin-2(6H)-one
+
+> <STRUCTURE_SMILES>
+O=C1C=C2C=C[C@@H]3C[C@@]2(O1)[C@H]4CCCCN34
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C=C2C=C[C@@H]3C[C@@]2(O1)[C@H]4CCCCN34
+
+> <Substance_modify_yyyymmdd>
+20110930
+
+$$$$

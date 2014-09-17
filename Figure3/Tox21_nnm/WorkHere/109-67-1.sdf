@@ -1,0 +1,81 @@
+109-67-1
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    1.1525    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+M  END
+> <ID>
+4434
+
+> <Formula>
+C5H10
+
+> <FW>
+70.1329
+
+> <DSSTox_CID>
+5849
+
+> <DSSTox_RID>
+77945
+
+> <DSSTox_GSID>
+25849
+
+> <DSSTox_FileID_Sort>
+2628
+
+> <TS_ChemName>
+1-Pentene
+
+> <TS_ChemName_Synonyms>
+1-Pentene (1-n-Pentene)
+
+> <TS_CASRN>
+109-67-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10
+
+> <STRUCTURE_MW>
+70.1329
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pent-1-ene
+
+> <STRUCTURE_SMILES>
+CCCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

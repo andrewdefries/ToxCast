@@ -1,0 +1,79 @@
+10024-93-8
+ChemmineR-0915142007XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    2.3023   -1.9961    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1512   -1.3261    0.0000 Nd   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1512    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9961    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+M  END
+> <ID>
+10411
+
+> <Formula>
+Cl3Nd
+
+> <FW>
+250.601
+
+> <DSSTox_CID>
+24760
+
+> <DSSTox_RID>
+80453
+
+> <DSSTox_GSID>
+44760
+
+> <DSSTox_FileID_Sort>
+5135
+
+> <TS_ChemName>
+Neodymium(III) chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+10024-93-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+Cl3Nd
+
+> <STRUCTURE_MW>
+250.601
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+neodymium trichloride
+
+> <STRUCTURE_SMILES>
+Cl[Nd](Cl)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Cl[Nd](Cl)Cl
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

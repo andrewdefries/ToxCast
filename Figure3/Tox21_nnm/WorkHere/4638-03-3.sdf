@@ -1,0 +1,89 @@
+4638-03-3
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    4.6246    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7645   -0.6630    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9288    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7645   -1.9808    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4765   -0.6630    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1561   -0.6630    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3204    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0849   -0.6630    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+8233
+
+> <Formula>
+C6H11ClO2
+
+> <FW>
+150.6033
+
+> <DSSTox_CID>
+21261
+
+> <DSSTox_RID>
+79667
+
+> <DSSTox_GSID>
+41261
+
+> <DSSTox_FileID_Sort>
+4349
+
+> <TS_ChemName>
+1-Allyloxy-3-chloro-2-propanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4638-03-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H11ClO2
+
+> <STRUCTURE_MW>
+150.6033
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-3-(prop-2-en-1-yloxy)propan-2-ol
+
+> <STRUCTURE_SMILES>
+ClCC(O)COCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+ClCC(O)COCC=C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,83 @@
+6940-78-9
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.9950   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -2.3036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3036    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3200    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+M  END
+> <ID>
+14214
+
+> <Formula>
+C4H8BrCl
+
+> <FW>
+171.4633
+
+> <DSSTox_CID>
+29309
+
+> <DSSTox_RID>
+83425
+
+> <DSSTox_GSID>
+49350
+
+> <DSSTox_FileID_Sort>
+8100
+
+> <TS_ChemName>
+1-Bromo-4-chlorobutane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6940-78-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8BrCl
+
+> <STRUCTURE_MW>
+171.4633
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromo-4-chlorobutane
+
+> <STRUCTURE_SMILES>
+BrCCCCCl
+
+> <STRUCTURE_SMILES_Desalt>
+BrCCCCCl
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

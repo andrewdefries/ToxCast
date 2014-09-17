@@ -1,0 +1,106 @@
+14261-75-7
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    8.0188   -2.0909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8814   -1.4016    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7441   -2.0449    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0188   -3.4120    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5723   -2.7112    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1906   -1.4360    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4465   -2.0334    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1603   -0.6663    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3091   -0.0230    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1373   -1.9989    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4694   -0.7008    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2747   -2.6882    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3874   -3.2167    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0893   -0.9076    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3279   -2.1253    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.4882   -1.4705    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 12  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+13783
+
+> <Formula>
+C13H18ClNO2
+
+> <FW>
+255.7405
+
+> <DSSTox_CID>
+28720
+
+> <DSSTox_RID>
+82989
+
+> <DSSTox_GSID>
+48794
+
+> <DSSTox_FileID_Sort>
+7666
+
+> <TS_ChemName>
+Cloforex
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+14261-75-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H18ClNO2
+
+> <STRUCTURE_MW>
+255.7405
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl [1-(4-chlorophenyl)-2-methylpropan-2-yl]carbamate
+
+> <STRUCTURE_SMILES>
+Clc1ccc(CC(C)(C)NC(=O)OCC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(CC(C)(C)NC(=O)OCC)cc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

@@ -1,0 +1,93 @@
+120-29-6
+ChemmineR-0915142007XD
+
+ 10 11  0  0  1  0  0  0  0  0  1 V2000
+    0.6844   -1.3225    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4443    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8103   -2.8298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0993   -2.8298    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6283   -0.5584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9096   -1.8180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2813   -0.5584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8641   -1.6332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1985   -2.0531    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  3  1  1  1  0  0  0
+  1  9  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 10  1  6  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+14263
+
+> <Formula>
+C8H15NO
+
+> <FW>
+141.2108
+
+> <DSSTox_CID>
+29358
+
+> <DSSTox_RID>
+83474
+
+> <DSSTox_GSID>
+49399
+
+> <DSSTox_FileID_Sort>
+8149
+
+> <TS_ChemName>
+Tropine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+120-29-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H15NO
+
+> <STRUCTURE_MW>
+141.2108
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3-endo)-8-methyl-8-azabicyclo[3.2.1]octan-3-ol
+
+> <STRUCTURE_SMILES>
+CN2[C@H]1CC[C@@H]2C[C@H](O)C1
+
+> <STRUCTURE_SMILES_Desalt>
+CN2[C@H]1CC[C@@H]2C[C@H](O)C1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

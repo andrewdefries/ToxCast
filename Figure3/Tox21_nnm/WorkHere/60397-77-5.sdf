@@ -1,0 +1,94 @@
+60397-77-5
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.3320   -3.4543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4543    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9980   -2.3053    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3206   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9866   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3206   -3.4543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9886   -3.4543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3299   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9886   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3299    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3185   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+7402
+
+> <Formula>
+C9H11NO
+
+> <FW>
+149.1897
+
+> <DSSTox_CID>
+17697
+
+> <DSSTox_RID>
+79356
+
+> <DSSTox_GSID>
+37697
+
+> <DSSTox_FileID_Sort>
+4038
+
+> <TS_ChemName>
+N-(2,4-Dimethylphenyl)formamide
+
+> <TS_ChemName_Synonyms>
+N-(2,4-dimethylphenyl)formamide (CL204258)
+
+> <TS_CASRN>
+60397-77-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11NO
+
+> <STRUCTURE_MW>
+149.1897
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(2,4-dimethylphenyl)formamide
+
+> <STRUCTURE_SMILES>
+O=CNc1ccc(C)cc1C
+
+> <STRUCTURE_SMILES_Desalt>
+O=CNc1ccc(C)cc1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

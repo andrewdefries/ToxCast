@@ -1,0 +1,92 @@
+123-11-5
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.9892   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6621   -2.2984    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6568   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9973   -2.2984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9973    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6648   -2.2984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6648    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6595   -1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+4880
+
+> <Formula>
+C8H8O2
+
+> <FW>
+136.1479
+
+> <DSSTox_CID>
+6997
+
+> <DSSTox_RID>
+78277
+
+> <DSSTox_GSID>
+26997
+
+> <DSSTox_FileID_Sort>
+2960
+
+> <TS_ChemName>
+4-Methoxybenzaldehyde
+
+> <TS_ChemName_Synonyms>
+4-Methoxybenzaldehyde (4-Anisaldehyde) (p-Anisaldehyde)
+
+> <TS_CASRN>
+123-11-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8O2
+
+> <STRUCTURE_MW>
+136.1479
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methoxybenzaldehyde
+
+> <STRUCTURE_SMILES>
+COc1ccc(C=O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(C=O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

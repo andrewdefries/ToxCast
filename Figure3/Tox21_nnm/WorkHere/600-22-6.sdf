@@ -1,0 +1,85 @@
+600-22-6
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.4524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6594   -2.3131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9920   -2.3131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1565    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6652   -3.4524    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6652   -1.1565    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+M  END
+> <ID>
+14190
+
+> <Formula>
+C4H6O3
+
+> <FW>
+102.0886
+
+> <DSSTox_CID>
+29282
+
+> <DSSTox_RID>
+83401
+
+> <DSSTox_GSID>
+49326
+
+> <DSSTox_FileID_Sort>
+8076
+
+> <TS_ChemName>
+Methylpyruvate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+600-22-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+R,S mixture; CAS for mixture of isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C4H6O3
+
+> <STRUCTURE_MW>
+102.0886
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 2-oxopropanoate
+
+> <STRUCTURE_SMILES>
+CC(=O)C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

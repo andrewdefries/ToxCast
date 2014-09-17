@@ -1,0 +1,95 @@
+78-07-9
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    1.9848   -3.3302    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6594   -3.3302    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.4825    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9848   -4.6623    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1371   -5.3283    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1371   -6.6604    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9848   -1.9981    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8459   -1.3321    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8459    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3302   -3.3302    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9896   -4.4825    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3150   -4.4825    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+8897
+
+> <Formula>
+C8H20O3Si
+
+> <FW>
+192.3281
+
+> <DSSTox_CID>
+21962
+
+> <DSSTox_RID>
+79887
+
+> <DSSTox_GSID>
+41962
+
+> <DSSTox_FileID_Sort>
+4569
+
+> <TS_ChemName>
+Ethyltriethoxysilane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+78-07-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H20O3Si
+
+> <STRUCTURE_MW>
+192.3281
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+triethoxy(ethyl)silane
+
+> <STRUCTURE_SMILES>
+CCO[Si](OCC)(OCC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CCO[Si](OCC)(OCC)CC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

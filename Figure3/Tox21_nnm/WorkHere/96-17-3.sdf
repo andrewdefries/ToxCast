@@ -1,0 +1,83 @@
+96-17-3
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    2.6616    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952   -1.1492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6616   -2.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -2.3025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6664   -1.1492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+1713
+
+> <Formula>
+C5H10O
+
+> <FW>
+86.1323
+
+> <DSSTox_CID>
+1818
+
+> <DSSTox_RID>
+76346
+
+> <DSSTox_GSID>
+21818
+
+> <DSSTox_FileID_Sort>
+1030
+
+> <TS_ChemName>
+2-Methylbutanal
+
+> <TS_ChemName_Synonyms>
+2-Methylbutanal (Butanal, 2-methyl-) (2-Methylbutyraldehyde)
+
+> <TS_CASRN>
+96-17-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10O
+
+> <STRUCTURE_MW>
+86.1323
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylbutanal
+
+> <STRUCTURE_SMILES>
+CC(CC)C=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CC)C=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

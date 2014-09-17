@@ -1,0 +1,96 @@
+150-30-1
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    0.6649   -2.3072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6649    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9947    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6597   -1.1569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9895   -1.1569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6544   -2.3072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9895   -3.4576    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9842   -2.3072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6491   -3.4576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6491   -1.1569    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9947   -2.3072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+3105
+
+> <Formula>
+C9H11NO2
+
+> <FW>
+165.1891
+
+> <DSSTox_CID>
+3463
+
+> <DSSTox_RID>
+77037
+
+> <DSSTox_GSID>
+23463
+
+> <DSSTox_FileID_Sort>
+1721
+
+> <TS_ChemName>
+Phenylalanine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+150-30-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11NO2
+
+> <STRUCTURE_MW>
+165.1891
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+phenylalanine
+
+> <STRUCTURE_SMILES>
+NC(Cc1ccccc1)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+NC(Cc1ccccc1)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

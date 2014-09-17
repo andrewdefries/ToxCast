@@ -1,0 +1,93 @@
+1002-69-3
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1390   -0.6673    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2895    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4400   -0.6673    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6019    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7524   -0.6673    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9029    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0649   -0.6673    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2154    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3659   -0.6673    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5049    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+5100
+
+> <Formula>
+C10H21Cl
+
+> <FW>
+176.7267
+
+> <DSSTox_CID>
+7352
+
+> <DSSTox_RID>
+78420
+
+> <DSSTox_GSID>
+27352
+
+> <DSSTox_FileID_Sort>
+3103
+
+> <TS_ChemName>
+1-Chlorodecane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1002-69-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H21Cl
+
+> <STRUCTURE_MW>
+176.7267
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chlorodecane
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCCl
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

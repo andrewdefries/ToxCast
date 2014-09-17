@@ -1,0 +1,106 @@
+70018-51-8
+ChemmineR-0915142007XD
+
+ 16 18  0  0  1  0  0  0  0  0  1 V2000
+    1.6908   -0.3190    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1135   -1.5951    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3736   -2.0018    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5221   -1.3399    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6705   -2.0018    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8270   -1.3399    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8270    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9754   -2.0018    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9754   -3.3417    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8270   -3.9957    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6705   -3.3417    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5221   -3.9957    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3736   -3.3417    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1135   -3.7405    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3239   -2.6718    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6718    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+11203
+
+> <Formula>
+C11H10ClN3O
+
+> <FW>
+235.6696
+
+> <DSSTox_CID>
+25795
+
+> <DSSTox_RID>
+81135
+
+> <DSSTox_GSID>
+45795
+
+> <DSSTox_FileID_Sort>
+5816
+
+> <TS_ChemName>
+Quazinone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+70018-51-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H10ClN3O
+
+> <STRUCTURE_MW>
+235.6696
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3R)-6-chloro-3-methyl-5,10-dihydroimidazo[2,1-b]quinazolin-2(3H)-one
+
+> <STRUCTURE_SMILES>
+C[C@@H]1C(=O)N=C2Nc3cccc(Cl)c3CN12
+
+> <STRUCTURE_SMILES_Desalt>
+C[C@@H]1C(=O)N=C2Nc3cccc(Cl)c3CN12
+
+> <Substance_modify_yyyymmdd>
+20110902
+
+$$$$

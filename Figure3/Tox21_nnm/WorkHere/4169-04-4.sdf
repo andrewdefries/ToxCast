@@ -1,0 +1,94 @@
+4169-04-4
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.1583   -2.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3107   -1.3324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3107    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3324    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4510   -2.0046    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4510   -3.3370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6033   -3.9971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3107   -3.9971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6033   -5.3295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3107   -5.3295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4510   -6.0017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+6114
+
+> <Formula>
+C9H12O2
+
+> <FW>
+152.1904
+
+> <DSSTox_CID>
+9665
+
+> <DSSTox_RID>
+78801
+
+> <DSSTox_GSID>
+29665
+
+> <DSSTox_FileID_Sort>
+3483
+
+> <TS_ChemName>
+2-Phenoxypropan-1-ol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4169-04-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12O2
+
+> <STRUCTURE_MW>
+152.1904
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-phenoxypropan-1-ol
+
+> <STRUCTURE_SMILES>
+CC(CO)Oc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CO)Oc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

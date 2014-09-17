@@ -1,0 +1,88 @@
+54-96-6
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3027    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3289   -2.3027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9954   -1.1533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3243   -1.1533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9907   -2.3027    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3243   -3.4560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9954   -3.4560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+11911
+
+> <Formula>
+C5H7N3
+
+> <FW>
+109.1292
+
+> <DSSTox_CID>
+26715
+
+> <DSSTox_RID>
+81847
+
+> <DSSTox_GSID>
+46715
+
+> <DSSTox_FileID_Sort>
+6528
+
+> <TS_ChemName>
+3,4-Diaminopyridine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+54-96-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H7N3
+
+> <STRUCTURE_MW>
+109.1292
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pyridine-3,4-diamine
+
+> <STRUCTURE_SMILES>
+Nc1ccncc1N
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccncc1N
+
+> <Substance_modify_yyyymmdd>
+20110804
+
+$$$$

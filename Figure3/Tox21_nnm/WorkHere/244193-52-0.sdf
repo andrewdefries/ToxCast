@@ -1,0 +1,109 @@
+244193-52-0
+ChemmineR-0915142007XD
+
+ 19 18  0  0  0  0  0  0  0  0  2 V2000
+   13.9616   -3.4560    0.0000 B   0  5  0  0  0  0  0  0  0  0  0  0
+   12.6312   -3.4560    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9616   -4.7864    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9616   -2.1256    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2920   -3.4560    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1599   -1.7433    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2091   -1.0704    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   10.4292   -2.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1752   -0.4129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4445    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5548   -1.0857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0895   -2.5232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8661   -1.9727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7957   -2.7526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5876   -2.2021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5172   -2.9819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2938   -2.4467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2234   -3.2266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+13018
+
+> <Formula>
+C12H23BF4N2
+
+> <FW>
+282.1290 (86.8052+195.3239)
+
+> <DSSTox_CID>
+27919
+
+> <DSSTox_RID>
+82672
+
+> <DSSTox_GSID>
+47943
+
+> <DSSTox_FileID_Sort>
+7349
+
+> <TS_ChemName>
+1-Methyl-3-octylimidazolium tetrafluoroborate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+244193-52-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [178631-03-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H23BF4N2
+
+> <STRUCTURE_MW>
+282.129
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+3-methyl-1-octyl-1H-imidazol-3-ium tetrafluoroborate
+
+> <STRUCTURE_SMILES>
+F[B-](F)(F)F.C[n+]1ccn(CCCCCCCC)c1
+
+> <STRUCTURE_SMILES_Desalt>
+C[n+]1ccn(CCCCCCCC)c1
+
+> <Substance_modify_yyyymmdd>
+20110418
+
+$$$$

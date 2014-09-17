@@ -1,0 +1,100 @@
+121-17-5
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -1.9902    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -2.6606    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    1.1541   -3.9874    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.3012   -1.9902    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6093   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6093   -1.9902    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7565   -2.6606    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9105   -3.3240    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0931   -3.8077    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4268   -1.5065    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553   -2.6606    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <ID>
+3859
+
+> <Formula>
+C7H3ClF3NO2
+
+> <FW>
+225.5524
+
+> <DSSTox_CID>
+4799
+
+> <DSSTox_RID>
+77537
+
+> <DSSTox_GSID>
+24799
+
+> <DSSTox_FileID_Sort>
+2220
+
+> <TS_ChemName>
+1-Chloro-2-nitro-4-(trifluoromethyl)benzene
+
+> <TS_ChemName_Synonyms>
+1-chloro-2-nitro-4-(trifluoromethyl)benzene (4-Chloro-3-nitro-a,a,a-trifluorotoluene)
+
+> <TS_CASRN>
+121-17-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H3ClF3NO2
+
+> <STRUCTURE_MW>
+225.5524
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-2-nitro-4-(trifluoromethyl)benzene
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1cc(ccc1Cl)C(F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1cc(ccc1Cl)C(F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

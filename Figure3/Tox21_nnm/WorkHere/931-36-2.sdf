@@ -1,0 +1,88 @@
+931-36-2
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    2.3009    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9816   -2.0590    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4035   -0.7763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1982   -0.7763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6033   -2.0590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6186   -0.4050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6256   -1.2658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+10396
+
+> <Formula>
+C6H10N2
+
+> <FW>
+110.157
+
+> <DSSTox_CID>
+24744
+
+> <DSSTox_RID>
+80438
+
+> <DSSTox_GSID>
+44744
+
+> <DSSTox_FileID_Sort>
+5120
+
+> <TS_ChemName>
+2-Ethyl-4-methyl-1H-imidazole
+
+> <TS_ChemName_Synonyms>
+2-Ethyl-4-methyl-1H-imidazole (1H-Imidazole, 2-ethyl-4-methyl-)
+
+> <TS_CASRN>
+931-36-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10N2
+
+> <STRUCTURE_MW>
+110.157
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethyl-4-methyl-1H-imidazole
+
+> <STRUCTURE_SMILES>
+Cc1cnc(CC)n1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cnc(CC)n1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

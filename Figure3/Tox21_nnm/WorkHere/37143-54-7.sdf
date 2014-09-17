@@ -1,0 +1,83 @@
+37143-54-7
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.9850   -1.1519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3123   -1.1519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9860    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9860   -2.3039    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3273    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+5981
+
+> <Formula>
+C4H11NO
+
+> <FW>
+89.1362
+
+> <DSSTox_CID>
+9359
+
+> <DSSTox_RID>
+78770
+
+> <DSSTox_GSID>
+29359
+
+> <DSSTox_FileID_Sort>
+3452
+
+> <TS_ChemName>
+1-Methoxy-2-propylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+37143-54-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H11NO
+
+> <STRUCTURE_MW>
+89.1362
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methoxypropan-2-amine
+
+> <STRUCTURE_SMILES>
+CC(N)COC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(N)COC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

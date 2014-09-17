@@ -1,0 +1,82 @@
+110-00-9
+ChemmineR-0915142007XD
+
+  5  5  0  0  0  0  0  0  0  0  1 V2000
+    1.7409    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1519   -1.2653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0760   -2.0465    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2653    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4110    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <ID>
+621
+
+> <Formula>
+C4H4O
+
+> <FW>
+68.074
+
+> <DSSTox_CID>
+646
+
+> <DSSTox_RID>
+75708
+
+> <DSSTox_GSID>
+20646
+
+> <DSSTox_FileID_Sort>
+392
+
+> <TS_ChemName>
+Furan
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+110-00-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H4O
+
+> <STRUCTURE_MW>
+68.074
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+furan
+
+> <STRUCTURE_SMILES>
+c1ccco1
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccco1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

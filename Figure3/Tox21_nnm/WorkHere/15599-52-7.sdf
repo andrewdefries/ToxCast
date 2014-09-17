@@ -1,0 +1,101 @@
+15599-52-7
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    4.6117   -3.9894    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7801   -3.3187    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7801   -1.9912    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6117   -1.3344    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570   -3.3187    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570   -1.9912    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3024   -1.3344    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -1.9912    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -3.3187    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3024   -3.9894    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3024    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3344    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3024   -5.3169    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9141   -1.3344    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <ID>
+11529
+
+> <Formula>
+C10H7Br2NO
+
+> <FW>
+316.9767
+
+> <DSSTox_CID>
+26235
+
+> <DSSTox_RID>
+81462
+
+> <DSSTox_GSID>
+46235
+
+> <DSSTox_FileID_Sort>
+6143
+
+> <TS_ChemName>
+Broquinaldol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+15599-52-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H7Br2NO
+
+> <STRUCTURE_MW>
+316.9767
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5,7-dibromo-2-methylquinolin-8-ol
+
+> <STRUCTURE_SMILES>
+Oc1c(Br)cc(Br)c2ccc(C)nc12
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1c(Br)cc(Br)c2ccc(C)nc12
+
+> <Substance_modify_yyyymmdd>
+20110817
+
+$$$$

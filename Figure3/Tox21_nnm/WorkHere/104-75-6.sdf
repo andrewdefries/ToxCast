@@ -1,0 +1,89 @@
+104-75-6
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    5.7598    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6120   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6120   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4573   -2.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3025   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1547   -2.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7598   -2.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9145   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4126
+
+> <Formula>
+C8H19N
+
+> <FW>
+129.2432
+
+> <DSSTox_CID>
+5298
+
+> <DSSTox_RID>
+77733
+
+> <DSSTox_GSID>
+25298
+
+> <DSSTox_FileID_Sort>
+2416
+
+> <TS_ChemName>
+2-Ethylhexylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+104-75-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H19N
+
+> <STRUCTURE_MW>
+129.2432
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethylhexan-1-amine
+
+> <STRUCTURE_SMILES>
+CCC(CCCC)CN
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(CCCC)CN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

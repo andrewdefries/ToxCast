@@ -1,0 +1,113 @@
+59669-26-0
+ChemmineR-0915142007XD
+
+ 21 20  0  0  0  0  0  0  0  0  1 V2000
+    5.7711   -3.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7711   -1.9929    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9336   -1.3286    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0823   -1.9929    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2310   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2310    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3797   -1.9929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5283   -1.3286    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6909   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8395   -1.3286    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8395    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6909   -3.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0823   -3.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6224   -1.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6224    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4599   -1.9929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3112   -1.3286    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1487   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3286    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1487   -3.3215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+6527
+
+> <Formula>
+C10H18N4O4S3
+
+> <FW>
+354.4693
+
+> <DSSTox_CID>
+12578
+
+> <DSSTox_RID>
+78993
+
+> <DSSTox_GSID>
+32578
+
+> <DSSTox_FileID_Sort>
+3675
+
+> <TS_ChemName>
+Thiodicarb
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+59669-26-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18N4O4S3
+
+> <STRUCTURE_MW>
+354.4693
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dimethyl (1E,1'E)-N,N'-{sulfanediylbis[(methylcarbamoyl)oxy]}diethanimidothioate
+
+> <STRUCTURE_SMILES>
+CN(SN(C)C(=O)O\N=C(/C)SC)C(=O)O\N=C(/C)SC
+
+> <STRUCTURE_SMILES_Desalt>
+CN(SN(C)C(=O)O\N=C(/C)SC)C(=O)O\N=C(/C)SC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

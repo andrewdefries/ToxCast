@@ -1,0 +1,90 @@
+5451-09-2
+ChemmineR-0915142007XD
+
+ 10  8  0  0  0  0  0  0  0  0  1 V2000
+    3.4545   -4.6566    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9090   -1.9967    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552   -1.3334    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -1.9967    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -3.3301    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4545   -1.3334    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -1.9967    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -1.3334    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9967    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <ID>
+11290
+
+> <Formula>
+C5H10ClNO3
+
+> <FW>
+167.5908 (36.4609+131.1299)
+
+> <DSSTox_CID>
+25914
+
+> <DSSTox_RID>
+81222
+
+> <DSSTox_GSID>
+45914
+
+> <DSSTox_FileID_Sort>
+5903
+
+> <TS_ChemName>
+Aminolevulinic acid hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5451-09-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [106-60-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10ClNO3
+
+> <STRUCTURE_MW>
+167.5908
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+5-amino-4-oxopentanoic acid hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.NCC(=O)CCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+NCC(=O)CCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20110930
+
+$$$$

@@ -1,0 +1,112 @@
+80288-49-9
+ChemmineR-0915142007XD
+
+ 19 21  0  0  0  0  0  0  0  0  1 V2000
+    4.6690   -5.4674    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5663   -6.4484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8895   -7.6042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5968   -7.3153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4523   -5.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1406   -3.3535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1406   -2.0075    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3117   -1.3307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3117   -3.9922    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4523   -3.3535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4523   -2.0075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7146   -1.6045    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5055   -2.6615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7146   -3.7565    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8362   -2.6615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3117    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9922    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3117   -5.3230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 16  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+10776
+
+> <Formula>
+C12H12N4O3
+
+> <FW>
+260.2487
+
+> <DSSTox_CID>
+25153
+
+> <DSSTox_RID>
+80707
+
+> <DSSTox_GSID>
+45153
+
+> <DSSTox_FileID_Sort>
+5388
+
+> <TS_ChemName>
+Furafylline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+80288-49-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H12N4O3
+
+> <STRUCTURE_MW>
+260.2487
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(furan-2-ylmethyl)-1,8-dimethyl-3,7-dihydro-1H-purine-2,6-dione
+
+> <STRUCTURE_SMILES>
+Cc2nc3N(Cc1ccco1)C(=O)N(C)C(=O)c3n2
+
+> <STRUCTURE_SMILES_Desalt>
+Cc2nc3N(Cc1ccco1)C(=O)N(C)C(=O)c3n2
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

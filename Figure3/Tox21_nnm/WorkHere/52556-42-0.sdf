@@ -1,0 +1,96 @@
+52556-42-0
+ChemmineR-0915142007XD
+
+ 13 11  0  0  0  0  0  0  0  0  2 V2000
+    3.9842   -0.5021    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1413   -1.1571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2874   -0.5021    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8381   -1.1571    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6810   -1.8338    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.5039   -2.3141    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1722    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1413   -2.4888    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4445   -1.1571    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6015   -0.5021    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.7586   -1.1571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.9156   -0.5021    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8993    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+5600
+
+> <Formula>
+C6H11NaO5S
+
+> <FW>
+218.2033 (195.2141+22.9892)
+
+> <DSSTox_CID>
+8028
+
+> <DSSTox_RID>
+78643
+
+> <DSSTox_GSID>
+28028
+
+> <DSSTox_FileID_Sort>
+3325
+
+> <TS_ChemName>
+1-Propanesulfonic acid, 2-hydroxy-3-(2-propenyloxy)-, monosodium salt
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+52556-42-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H11NaO5S
+
+> <STRUCTURE_MW>
+218.2033
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 2-hydroxy-3-(prop-2-en-1-yloxy)propane-1-sulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]S(=O)(=O)CC(O)COCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+OC(COCC=C)CS(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

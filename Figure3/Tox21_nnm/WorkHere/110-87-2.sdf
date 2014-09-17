@@ -1,0 +1,84 @@
+110-87-2
+ChemmineR-0915142007XD
+
+  6  6  0  0  0  0  0  0  0  0  1 V2000
+    1.1166    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3144   -0.5976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3144   -1.9422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1978   -2.6211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+8392
+
+> <Formula>
+C5H8O
+
+> <FW>
+84.1164
+
+> <DSSTox_CID>
+21426
+
+> <DSSTox_RID>
+79730
+
+> <DSSTox_GSID>
+41426
+
+> <DSSTox_FileID_Sort>
+4412
+
+> <TS_ChemName>
+3,4-Dihydro-2H-pyran
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+110-87-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8O
+
+> <STRUCTURE_MW>
+84.1164
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,4-dihydro-2H-pyran
+
+> <STRUCTURE_SMILES>
+C1=CCCCO1
+
+> <STRUCTURE_SMILES_Desalt>
+C1=CCCCO1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,94 @@
+608-93-5
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    3.4504   -0.6579    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4504   -2.0104    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3141    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3141   -2.6683    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1501   -0.6579    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1501   -2.0104    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6683    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3141   -3.9932    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6005   -2.6683    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6005    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+3581
+
+> <Formula>
+C6HCl5
+
+> <FW>
+250.3371
+
+> <DSSTox_CID>
+4247
+
+> <DSSTox_RID>
+77341
+
+> <DSSTox_GSID>
+24247
+
+> <DSSTox_FileID_Sort>
+2024
+
+> <TS_ChemName>
+Pentachlorobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+608-93-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6HCl5
+
+> <STRUCTURE_MW>
+250.3371
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2,3,4,5-pentachlorobenzene
+
+> <STRUCTURE_SMILES>
+Clc1cc(Cl)c(Cl)c(Cl)c1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(Cl)c(Cl)c(Cl)c1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

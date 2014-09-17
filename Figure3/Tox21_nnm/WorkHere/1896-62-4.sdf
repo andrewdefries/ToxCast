@@ -1,0 +1,94 @@
+1896-62-4
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3047    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6708   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9992   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6567   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9850   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6559   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9842   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6417   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9842   -3.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6559   -3.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+6347
+
+> <Formula>
+C10H10O
+
+> <FW>
+146.1858
+
+> <DSSTox_CID>
+11626
+
+> <DSSTox_RID>
+78888
+
+> <DSSTox_GSID>
+31626
+
+> <DSSTox_FileID_Sort>
+3570
+
+> <TS_ChemName>
+Methyl trans-styryl ketone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1896-62-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H10O
+
+> <STRUCTURE_MW>
+146.1858
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3E)-4-phenylbut-3-en-2-one
+
+> <STRUCTURE_SMILES>
+CC(=O)/C=C/c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)/C=C/c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

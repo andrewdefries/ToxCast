@@ -1,0 +1,94 @@
+587-65-5
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    5.7663   -2.6582    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6033   -2.0005    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6033   -0.6645    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4612   -2.6582    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3190   -2.0005    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -0.6784    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1560    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6645    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0005    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1560   -2.6582    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9223   -2.0005    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+8375
+
+> <Formula>
+C8H8ClNO
+
+> <FW>
+169.6082
+
+> <DSSTox_CID>
+21409
+
+> <DSSTox_RID>
+79717
+
+> <DSSTox_GSID>
+41409
+
+> <DSSTox_FileID_Sort>
+4399
+
+> <TS_ChemName>
+2-Chloro-N-phenylacetamide
+
+> <TS_ChemName_Synonyms>
+2-Chloroacetanilide (2-Chloro-N-phenylacetamide)
+
+> <TS_CASRN>
+587-65-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8ClNO
+
+> <STRUCTURE_MW>
+169.6082
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-N-phenylacetamide
+
+> <STRUCTURE_SMILES>
+O=C(Nc1ccccc1)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Nc1ccccc1)CCl
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

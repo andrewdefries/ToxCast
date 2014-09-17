@@ -1,0 +1,94 @@
+50-79-3
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    0.6656   -2.3039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4583    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1543    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9968   -2.3039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6577   -1.1543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9889   -1.1543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6544    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6544   -2.3039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9889   -3.4583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6577   -3.4583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9968   -4.6079    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+3947
+
+> <Formula>
+C7H4Cl2O2
+
+> <FW>
+191.0115
+
+> <DSSTox_CID>
+4978
+
+> <DSSTox_RID>
+77607
+
+> <DSSTox_GSID>
+24978
+
+> <DSSTox_FileID_Sort>
+2290
+
+> <TS_ChemName>
+2,5-Dichlorobenzoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+50-79-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H4Cl2O2
+
+> <STRUCTURE_MW>
+191.0115
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,5-dichlorobenzoic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1cc(Cl)ccc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1cc(Cl)ccc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

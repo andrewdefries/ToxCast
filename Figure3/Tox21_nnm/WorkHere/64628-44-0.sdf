@@ -1,0 +1,121 @@
+64628-44-0
+ChemmineR-0915142007XD
+
+ 24 25  0  0  0  0  0  0  0  0  1 V2000
+    3.4519   -2.6563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6068   -1.9890    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7617   -2.6563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3098   -1.9890    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5106   -5.9799    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8910   -1.9890    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549   -2.6563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4519   -3.9909    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5106   -4.6453    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7617   -3.9909    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   12.8323   -5.9799    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+   10.1760   -5.9799    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5106   -7.3016    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0459   -2.6563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3557   -3.9909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549   -3.9909    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3098   -0.6673    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2008   -1.9890    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0459   -3.9909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3557   -2.6563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2008   -4.6453    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9890    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6673    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 17  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 22  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 19  2  0  0  0  0
+ 15 21  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 17 23  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 21  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 24  2  0  0  0  0
+M  END
+> <ID>
+6750
+
+> <Formula>
+C15H10ClF3N2O3
+
+> <FW>
+358.6997
+
+> <DSSTox_CID>
+14355
+
+> <DSSTox_RID>
+79145
+
+> <DSSTox_GSID>
+34355
+
+> <DSSTox_FileID_Sort>
+3827
+
+> <TS_ChemName>
+Triflumuron
+
+> <TS_ChemName_Synonyms>
+Triflumuron (Benzamide, 2-chloro-N-(((4-(trifluoromethoxy)phenyl)amino)carbonyl)-)
+
+> <TS_CASRN>
+64628-44-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H10ClF3N2O3
+
+> <STRUCTURE_MW>
+358.6997
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-N-{[4-(trifluoromethoxy)phenyl]carbamoyl}benzamide
+
+> <STRUCTURE_SMILES>
+O=C(NC(=O)Nc1ccc(OC(F)(F)F)cc1)c2ccccc2Cl
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NC(=O)Nc1ccc(OC(F)(F)F)cc1)c2ccccc2Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

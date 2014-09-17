@@ -1,0 +1,81 @@
+79-20-9
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    3.4567   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.9945    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+1675
+
+> <Formula>
+C3H6O2
+
+> <FW>
+74.0785
+
+> <DSSTox_CID>
+1767
+
+> <DSSTox_RID>
+76314
+
+> <DSSTox_GSID>
+21767
+
+> <DSSTox_FileID_Sort>
+998
+
+> <TS_ChemName>
+Methyl acetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+79-20-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H6O2
+
+> <STRUCTURE_MW>
+74.0785
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl acetate
+
+> <STRUCTURE_SMILES>
+CC(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

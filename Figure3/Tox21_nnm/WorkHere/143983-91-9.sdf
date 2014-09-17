@@ -1,0 +1,81 @@
+143983-91-9
+ChemmineR-0915142007XD
+
+  6  3  0  0  0  0  0  0  0  0  1 V2000
+    0.3220   -2.9816    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9888    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1628   -1.3298    0.0000 In   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1628    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3108   -1.9888    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7759   -2.9697    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+M  END
+> <ID>
+12639
+
+> <Formula>
+H4Cl3InO2
+
+> <FW>
+257.2076 (18.0153+221.1770+18.0153)
+
+> <DSSTox_CID>
+27512
+
+> <DSSTox_RID>
+82389
+
+> <DSSTox_GSID>
+47512
+
+> <DSSTox_FileID_Sort>
+7070
+
+> <TS_ChemName>
+Indium(III) chloride hydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+143983-91-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+CAS is for a compound containg xH2O; structure shown dihydrate
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+H4Cl3InO2
+
+> <STRUCTURE_MW>
+257.2076
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+trichloroindium dihydrate
+
+> <STRUCTURE_SMILES>
+O.O.Cl[In](Cl)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Cl[In](Cl)Cl
+
+> <Substance_modify_yyyymmdd>
+20100704
+
+$$$$

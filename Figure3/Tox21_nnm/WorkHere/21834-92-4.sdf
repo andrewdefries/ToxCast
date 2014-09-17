@@ -1,0 +1,100 @@
+21834-92-4
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    5.7592   -4.6516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6037   -3.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4483   -4.6516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2929   -3.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1554   -4.6516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7592   -5.9867    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1554   -5.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4483   -0.6585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6037    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7592   -0.6585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7592   -1.9876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6037   -2.6641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4483   -1.9876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  2  3  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  9 14  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+12561
+
+> <Formula>
+C13H16O
+
+> <FW>
+188.2655
+
+> <DSSTox_CID>
+27419
+
+> <DSSTox_RID>
+82333
+
+> <DSSTox_GSID>
+47419
+
+> <DSSTox_FileID_Sort>
+7014
+
+> <TS_ChemName>
+5-Methyl-2-phenyl-2-hexenal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+21834-92-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H16O
+
+> <STRUCTURE_MW>
+188.2655
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-methyl-2-phenylhex-2-enal
+
+> <STRUCTURE_SMILES>
+CC(C)CC=C(C=O)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CC=C(C=O)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20100619
+
+$$$$

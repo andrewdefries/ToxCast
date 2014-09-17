@@ -1,0 +1,100 @@
+56375-79-2
+ChemmineR-0915142007XD
+
+ 15 13  0  0  0  0  0  0  0  0  2 V2000
+    5.3230   -3.9882    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9783   -5.1471    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3131   -5.1471    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9924   -6.3060    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -3.9882    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    2.6695   -3.9882    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9901   -5.1311    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6794   -5.1471    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.2900    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -2.6535    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8453   -1.9981    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8453   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6864    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -5.3230    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8505   -2.3018    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+10100
+
+> <Formula>
+C13H30ClN
+
+> <FW>
+235.8370 (200.3835+35.4535)
+
+> <DSSTox_CID>
+24443
+
+> <DSSTox_RID>
+80232
+
+> <DSSTox_GSID>
+44443
+
+> <DSSTox_FileID_Sort>
+4914
+
+> <TS_ChemName>
+N,N-Dibutyl-N-methylbutan-1-aminium chloride
+
+> <TS_ChemName_Synonyms>
+N,N-Dibutyl-N-methylbutan-1-aminium chloride (1-Butanaminium, N,N-dibutyl-N-methyl-, chloride)
+
+> <TS_CASRN>
+56375-79-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [29814-63-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H30ClN
+
+> <STRUCTURE_MW>
+235.837
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+N,N-dibutyl-N-methylbutan-1-aminium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].CCCC[N+](C)(CCCC)CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC[N+](C)(CCCC)CCCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

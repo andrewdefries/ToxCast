@@ -1,0 +1,109 @@
+97-39-2
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    4.6062   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6062   -0.6725    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7577   -2.6716    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546   -2.6716    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9092   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9092   -0.6725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0608   -2.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0608   -0.0184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2123   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2123   -0.6725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -2.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -0.6725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -3.9982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0608   -3.9982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 18  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+4736
+
+> <Formula>
+C15H17N3
+
+> <FW>
+239.3156
+
+> <DSSTox_CID>
+6606
+
+> <DSSTox_RID>
+78160
+
+> <DSSTox_GSID>
+26606
+
+> <DSSTox_FileID_Sort>
+2843
+
+> <TS_ChemName>
+1,3-Bis(2-methylphenyl)guanidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+97-39-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H17N3
+
+> <STRUCTURE_MW>
+239.3156
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,3-bis(2-methylphenyl)guanidine
+
+> <STRUCTURE_SMILES>
+Cc2ccccc2NC(=N)Nc1ccccc1C
+
+> <STRUCTURE_SMILES_Desalt>
+Cc2ccccc2NC(=N)Nc1ccccc1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

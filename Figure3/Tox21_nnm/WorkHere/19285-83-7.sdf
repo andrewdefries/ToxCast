@@ -1,0 +1,92 @@
+19285-83-7
+ChemmineR-0915142007XD
+
+ 11  9  0  0  0  0  0  0  0  0  1 V2000
+    3.4643   -3.3377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4643   -2.0026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3076   -3.9937    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5980   -1.3293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1567   -3.3377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3076   -5.3230    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7546   -2.0026    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5980    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1567   -2.0026    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9937    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2425   -5.6280    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+M  END
+> <ID>
+14102
+
+> <Formula>
+C5H11NO5
+
+> <FW>
+165.1445 (147.1293+18.0153)
+
+> <DSSTox_CID>
+29095
+
+> <DSSTox_RID>
+83314
+
+> <DSSTox_GSID>
+49239
+
+> <DSSTox_FileID_Sort>
+7989
+
+> <TS_ChemName>
+DL-Glutamic acid monohydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+19285-83-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H11NO5
+
+> <STRUCTURE_MW>
+165.1445
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+glutamic acid hydrate (1:1)
+
+> <STRUCTURE_SMILES>
+O.OC(=O)CCC(N)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)CCC(N)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20111206
+
+$$$$

@@ -1,0 +1,109 @@
+957-51-7
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    3.4481   -1.9999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4481   -3.3447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2964   -1.3310    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5998   -1.3172    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5998   -4.0067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2964   -4.0067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2964    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -1.9999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5998   -5.3377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2964   -5.3377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7445   -3.3447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -3.3447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8962   -4.0067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7445   -6.0066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -6.0066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8962   -5.3377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6 10  2  0  0  0  0
+  6 12  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+3491
+
+> <Formula>
+C16H17NO
+
+> <FW>
+239.3123
+
+> <DSSTox_CID>
+4072
+
+> <DSSTox_RID>
+77279
+
+> <DSSTox_GSID>
+24072
+
+> <DSSTox_FileID_Sort>
+1962
+
+> <TS_ChemName>
+Diphenamid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+957-51-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H17NO
+
+> <STRUCTURE_MW>
+239.3123
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-dimethyl-2,2-diphenylacetamide
+
+> <STRUCTURE_SMILES>
+O=C(C(c1ccccc1)c2ccccc2)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C(c1ccccc1)c2ccccc2)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

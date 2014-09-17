@@ -1,0 +1,110 @@
+66532-85-2
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    9.9117   -8.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5982   -8.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9314   -6.8604    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5982   -5.7187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1036   -5.7187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6078   -6.8604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9409   -5.7187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6078   -4.5668    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6275   -5.7187    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9606   -4.5668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6275   -3.4251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9606   -2.2834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6573   -2.2834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9904   -1.1417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6668   -1.1417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2834    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9904   -3.4251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6573   -4.5668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+16198
+
+> <Formula>
+C14H20N2O3
+
+> <FW>
+264.3202
+
+> <DSSTox_CID>
+31589
+
+> <DSSTox_RID>
+97473
+
+> <DSSTox_GSID>
+57800
+
+> <DSSTox_FileID_Sort>
+8540
+
+> <TS_ChemName>
+Propacetamol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+66532-85-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20N2O3
+
+> <STRUCTURE_MW>
+264.3202
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-acetamidophenyl N,N-diethylglycinate
+
+> <STRUCTURE_SMILES>
+O=C(Oc1ccc(cc1)NC(C)=O)CN(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Oc1ccc(cc1)NC(C)=O)CN(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

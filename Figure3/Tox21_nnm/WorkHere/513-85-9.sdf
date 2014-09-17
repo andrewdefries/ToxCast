@@ -1,0 +1,83 @@
+513-85-9
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0159    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6711   -1.1671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9814   -1.1671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6366   -2.3342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3183    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6525   -0.0186    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+> <ID>
+8287
+
+> <Formula>
+C4H10O2
+
+> <FW>
+90.121
+
+> <DSSTox_CID>
+21321
+
+> <DSSTox_RID>
+79687
+
+> <DSSTox_GSID>
+41321
+
+> <DSSTox_FileID_Sort>
+4369
+
+> <TS_ChemName>
+2,3-Butanediol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+513-85-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture of (R,R)- [24347-58-8] (S,S)- [19132-06-0] and (R,S)- [5341-95-7] isomers; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10O2
+
+> <STRUCTURE_MW>
+90.121
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butane-2,3-diol
+
+> <STRUCTURE_SMILES>
+CC(O)C(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)C(C)O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

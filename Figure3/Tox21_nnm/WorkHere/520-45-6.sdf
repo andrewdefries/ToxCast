@@ -1,0 +1,96 @@
+520-45-6
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    1.9922   -4.6067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6563   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6563   -1.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9922    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -1.1547    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6546   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9827   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6641   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4580    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+14
+
+> <Formula>
+C8H8O4
+
+> <FW>
+168.1467
+
+> <DSSTox_CID>
+14
+
+> <DSSTox_RID>
+75321
+
+> <DSSTox_GSID>
+20014
+
+> <DSSTox_FileID_Sort>
+5
+
+> <TS_ChemName>
+Dehydroacetic acid
+
+> <TS_ChemName_Synonyms>
+3-Acetyl-6-methyl-2H-pyran-2,4(3H)-dione; 3-Acetyl-6-methyl-2,4-pyrandione; 3-Acetyl-6-methyl-2H-pyran-2,4(3H)-dione
+
+> <TS_CASRN>
+520-45-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8O4
+
+> <STRUCTURE_MW>
+168.1467
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-acetyl-6-methyl-2H-pyran-2,4(3H)-dione
+
+> <STRUCTURE_SMILES>
+O=C(C)C1C(=O)C=C(C)OC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)C1C(=O)C=C(C)OC1=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

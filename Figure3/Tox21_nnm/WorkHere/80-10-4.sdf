@@ -1,0 +1,103 @@
+80-10-4
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    3.4883   -0.7565    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2905   -0.2031    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5670    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6651   -1.4009    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8069   -0.7075    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6511   -2.6898    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9907   -1.3519    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559   -3.3833    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.0047   -2.6898    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3396   -1.4500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3256   -2.7248    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1628   -0.8055    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1768   -3.4183    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0140   -1.4990    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7739    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+4696
+
+> <Formula>
+C12H10Cl2Si
+
+> <FW>
+253.1993
+
+> <DSSTox_CID>
+6494
+
+> <DSSTox_RID>
+78122
+
+> <DSSTox_GSID>
+26494
+
+> <DSSTox_FileID_Sort>
+2805
+
+> <TS_ChemName>
+Dichlorodiphenylsilane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+80-10-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10Cl2Si
+
+> <STRUCTURE_MW>
+253.1993
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+dichloro(diphenyl)silane
+
+> <STRUCTURE_SMILES>
+Cl[Si](Cl)(c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+Cl[Si](Cl)(c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

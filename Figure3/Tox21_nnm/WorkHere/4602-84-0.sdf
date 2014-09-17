@@ -1,0 +1,103 @@
+4602-84-0
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+   12.5283   -1.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3943   -2.0220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2604   -1.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0991   -2.0220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9651   -1.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8311   -2.0220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7382   -1.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5632   -2.0220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4019   -1.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2679   -2.0220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1340   -1.3389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6623   -2.0220    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2604    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7382    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1340    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+M  END
+> <ID>
+6444
+
+> <Formula>
+C15H26O
+
+> <FW>
+222.3663
+
+> <DSSTox_CID>
+12389
+
+> <DSSTox_RID>
+78934
+
+> <DSSTox_GSID>
+32389
+
+> <DSSTox_FileID_Sort>
+3616
+
+> <TS_ChemName>
+Farnesol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4602-84-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of  (2E,6E)- [106-28-5] and (2E,6Z)- [3790-71-4] isomers; structure shown  (2E,6E); stereochem
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C15H26O
+
+> <STRUCTURE_MW>
+222.3663
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-ol
+
+> <STRUCTURE_SMILES>
+C/C(C)=C\CCC(\C)=C\CCC(\C)=C\CO
+
+> <STRUCTURE_SMILES_Desalt>
+C/C(C)=C\CCC(\C)=C\CCC(\C)=C\CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

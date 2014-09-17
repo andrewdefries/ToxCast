@@ -1,0 +1,113 @@
+116287-13-9
+ChemmineR-0915142007XD
+
+ 20 21  0  0  1  0  0  0  0  0  1 V2000
+    9.4984    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0235   -1.7866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0235   -3.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8588   -1.1308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8588   -3.8220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7507   -1.7866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7507   -3.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1430   -1.1308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8327   -2.2955    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3077   -0.4749    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5860   -3.8220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5860   -5.1337    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4100   -3.1209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4100   -1.7866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2566   -3.8220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0919   -3.1209    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8820   -3.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9562   -1.8205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7011   -1.5378    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+13845
+
+> <Formula>
+C15H18F3NO
+
+> <FW>
+285.3047
+
+> <DSSTox_CID>
+28782
+
+> <DSSTox_RID>
+83051
+
+> <DSSTox_GSID>
+48856
+
+> <DSSTox_FileID_Sort>
+7728
+
+> <TS_ChemName>
+Lanperisone hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+116287-13-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H18F3NO
+
+> <STRUCTURE_MW>
+285.3047
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2R)-2-methyl-3-(pyrrolidin-1-yl)-1-[4-(trifluoromethyl)phenyl]propan-1-one
+
+> <STRUCTURE_SMILES>
+C[C@H](CN1CCCC1)C(=O)c2ccc(cc2)C(F)(F)F
+
+> <STRUCTURE_SMILES_Desalt>
+C[C@H](CN1CCCC1)C(=O)c2ccc(cc2)C(F)(F)F
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

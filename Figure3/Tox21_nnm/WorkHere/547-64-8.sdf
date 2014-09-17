@@ -1,0 +1,85 @@
+547-64-8
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.9848   -1.1524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3293   -1.1524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0015    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3285    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3445   -2.2889    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9855   -2.3049    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+4988
+
+> <Formula>
+C4H8O3
+
+> <FW>
+104.1045
+
+> <DSSTox_CID>
+7197
+
+> <DSSTox_RID>
+78344
+
+> <DSSTox_GSID>
+27197
+
+> <DSSTox_FileID_Sort>
+3027
+
+> <TS_ChemName>
+Methyl 2-hydroxypropanoate
+
+> <TS_ChemName_Synonyms>
+Propanoic acid, 2-hydroxy-, methyl ester
+
+> <TS_CASRN>
+547-64-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8O3
+
+> <STRUCTURE_MW>
+104.1045
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 2-hydroxypropanoate
+
+> <STRUCTURE_SMILES>
+CC(O)C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,89 @@
+59-88-1
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1540    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -1.1540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6531   -1.1540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4890   -2.8663    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+1104
+
+> <Formula>
+C6H9ClN2
+
+> <FW>
+144.6021 (108.1411+36.4609)
+
+> <DSSTox_CID>
+1148
+
+> <DSSTox_RID>
+75976
+
+> <DSSTox_GSID>
+21148
+
+> <DSSTox_FileID_Sort>
+660
+
+> <TS_ChemName>
+Phenylhydrazine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+59-88-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [100-63-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H9ClN2
+
+> <STRUCTURE_MW>
+144.6021
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+phenylhydrazine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.NNc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+NNc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

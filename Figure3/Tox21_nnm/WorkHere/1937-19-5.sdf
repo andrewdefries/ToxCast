@@ -1,0 +1,82 @@
+1937-19-5
+ChemmineR-0915142007XD
+
+  6  4  0  0  0  0  0  0  0  0  1 V2000
+    1.1541   -1.8126    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -0.4817    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3116   -2.4710    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4710    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4657   -1.8126    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0637    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+M  END
+> <ID>
+10062
+
+> <Formula>
+CH7ClN4
+
+> <FW>
+110.5461 (74.0851+36.4609)
+
+> <DSSTox_CID>
+24405
+
+> <DSSTox_RID>
+80205
+
+> <DSSTox_GSID>
+44405
+
+> <DSSTox_FileID_Sort>
+4887
+
+> <TS_ChemName>
+Aminoguanidine hydrochloride
+
+> <TS_ChemName_Synonyms>
+Hydrazinecarboximidamide, monohydrochloride
+
+> <TS_CASRN>
+1937-19-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [79-17-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH7ClN4
+
+> <STRUCTURE_MW>
+110.5461
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+hydrazinecarboximidamide hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.N=C(N)NN
+
+> <STRUCTURE_SMILES_Desalt>
+N=C(N)NN
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

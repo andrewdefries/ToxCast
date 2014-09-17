@@ -1,0 +1,115 @@
+51-56-9
+ChemmineR-0915142007XD
+
+ 21 22  0  0  1  0  0  0  0  0  1 V2000
+    4.4066   -5.3462    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4066   -6.6992    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5623   -4.7167    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5623   -7.3757    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2510   -7.3757    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7274   -6.6992    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5623   -8.7287    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7274   -9.3958    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9019   -7.3757    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9019   -8.7287    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5127   -2.1329    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2510   -3.4107    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4053   -2.7342    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8268   -2.7342    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6201   -1.4282    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2228   -2.1422    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.8993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0054   -3.2791    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2510   -4.4536    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5731   -0.0846    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9543    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1 19  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 15  1  6  0  0  0
+ 11 16  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 19  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  1  0  0  0
+ 14 17  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+10738
+
+> <Formula>
+C16H22BrNO3
+
+> <FW>
+356.2548 (275.3428+80.9119)
+
+> <DSSTox_CID>
+25099
+
+> <DSSTox_RID>
+80669
+
+> <DSSTox_GSID>
+45099
+
+> <DSSTox_FileID_Sort>
+5351
+
+> <TS_ChemName>
+Homatropine HBr
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+51-56-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+relative stereochem; parent [87-00-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H22BrNO3
+
+> <STRUCTURE_MW>
+356.2548
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(3-endo)-8-methyl-8-azabicyclo[3.2.1]oct-3-yl hydroxy(phenyl)acetate hydrobromide (1:1)
+
+> <STRUCTURE_SMILES>
+Br.CN3[C@@H]1CC[C@H]3C[C@H](C1)OC(=O)C(O)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CN3[C@@H]1CC[C@H]3C[C@H](C1)OC(=O)C(O)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20110608
+
+$$$$

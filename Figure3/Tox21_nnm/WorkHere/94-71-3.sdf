@@ -1,0 +1,92 @@
+94-71-3
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1686   -1.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1859    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3255   -2.0074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0174   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3082   -3.3321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1396   -3.9916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4767   -1.3652    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6337   -2.0363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7849   -1.3768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+9204
+
+> <Formula>
+C8H10O2
+
+> <FW>
+138.1638
+
+> <DSSTox_CID>
+22276
+
+> <DSSTox_RID>
+79985
+
+> <DSSTox_GSID>
+42276
+
+> <DSSTox_FileID_Sort>
+4667
+
+> <TS_ChemName>
+2-Ethoxyphenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+94-71-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10O2
+
+> <STRUCTURE_MW>
+138.1638
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethoxyphenol
+
+> <STRUCTURE_SMILES>
+CCOc1ccccc1O
+
+> <STRUCTURE_SMILES_Desalt>
+CCOc1ccccc1O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,91 @@
+616-91-1
+ChemmineR-0915142007XD
+
+ 10  9  0  0  1  0  0  0  0  0  1 V2000
+    2.3100   -1.9854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4651   -1.3307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -3.3213    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4651   -3.9920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4651    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4651   -5.3227    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6148   -1.9854    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9854    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1710   -1.3307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6148   -3.3213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  1  0  0  0
+  1  9  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+21
+
+> <Formula>
+C5H9NO3S
+
+> <FW>
+163.1949
+
+> <DSSTox_CID>
+21
+
+> <DSSTox_RID>
+75324
+
+> <DSSTox_GSID>
+20021
+
+> <DSSTox_FileID_Sort>
+8
+
+> <TS_ChemName>
+N-Acetyl-L-cysteine
+
+> <TS_ChemName_Synonyms>
+N-Acetylcysteine; NAC
+
+> <TS_CASRN>
+616-91-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H9NO3S
+
+> <STRUCTURE_MW>
+163.1949
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-acetyl-L-cysteine
+
+> <STRUCTURE_SMILES>
+CC(=O)N[C@@H](CS)C(O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)N[C@@H](CS)C(O)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

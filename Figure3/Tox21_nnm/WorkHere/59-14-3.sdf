@@ -1,0 +1,107 @@
+59-14-3
+ChemmineR-0915142007XD
+
+ 17 18  0  0  1  0  0  0  0  0  1 V2000
+    4.3995   -5.3237    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3995   -3.9947    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3225   -4.5217    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9641   -6.5916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2385   -3.3378    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5529   -3.3378    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2456   -5.2932    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6351   -6.5764    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2385   -2.0088    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1005   -3.9947    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5529   -2.0088    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.9929   -4.8654    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8484   -7.6380    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3995   -1.3290    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6909   -1.3290    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7285    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3995    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  1  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 11  2  0  0  0  0
+  7 12  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8 13  1  6  0  0  0
+  9 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+M  END
+> <ID>
+6598
+
+> <Formula>
+C9H11BrN2O5
+
+> <FW>
+307.098
+
+> <DSSTox_CID>
+13105
+
+> <DSSTox_RID>
+79051
+
+> <DSSTox_GSID>
+33105
+
+> <DSSTox_FileID_Sort>
+3733
+
+> <TS_ChemName>
+5-Bromo-2'-deoxyuridine
+
+> <TS_ChemName_Synonyms>
+5-Bromo-2'-deoxyuridine (BRDU)
+
+> <TS_CASRN>
+59-14-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11BrN2O5
+
+> <STRUCTURE_MW>
+307.098
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-bromo-2'-deoxyuridine
+
+> <STRUCTURE_SMILES>
+BrC1=CN(C(=O)NC1=O)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+> <STRUCTURE_SMILES_Desalt>
+BrC1=CN(C(=O)NC1=O)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

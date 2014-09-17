@@ -1,0 +1,88 @@
+123-30-8
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1545    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -1.1545    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+3715
+
+> <Formula>
+C6H7NO
+
+> <FW>
+109.1259
+
+> <DSSTox_CID>
+4499
+
+> <DSSTox_RID>
+77429
+
+> <DSSTox_GSID>
+24499
+
+> <DSSTox_FileID_Sort>
+2112
+
+> <TS_ChemName>
+4-Aminophenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+123-30-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H7NO
+
+> <STRUCTURE_MW>
+109.1259
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-aminophenol
+
+> <STRUCTURE_SMILES>
+Nc1ccc(O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

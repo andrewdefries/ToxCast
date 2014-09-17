@@ -1,0 +1,99 @@
+17369-59-4
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    6.9376   -3.9822    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6749   -3.5659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5927   -4.3499    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5173   -3.5659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9336   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2676   -1.1516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9336    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2587    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9247   -1.1516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2547   -3.9822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2626   -3.0872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2587   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+4486
+
+> <Formula>
+C11H10O2
+
+> <FW>
+174.1959
+
+> <DSSTox_CID>
+5972
+
+> <DSSTox_RID>
+77977
+
+> <DSSTox_GSID>
+25972
+
+> <DSSTox_FileID_Sort>
+2660
+
+> <TS_ChemName>
+3-Propylidenephthalide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+17369-59-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H10O2
+
+> <STRUCTURE_MW>
+174.1959
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3E)-3-propylidene-2-benzofuran-1(3H)-one
+
+> <STRUCTURE_SMILES>
+CC\C=C1\OC(=O)c2ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+CC\C=C1\OC(=O)c2ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

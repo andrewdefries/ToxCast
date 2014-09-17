@@ -1,0 +1,99 @@
+139-66-2
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    4.6172   -0.6576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7663    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9224   -0.6576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9224   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7663   -2.6582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6172   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3052   -0.6576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3052   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1560   -2.6582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1560    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4612    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+10040
+
+> <Formula>
+C12H10S
+
+> <FW>
+186.2728
+
+> <DSSTox_CID>
+24383
+
+> <DSSTox_RID>
+80187
+
+> <DSSTox_GSID>
+44383
+
+> <DSSTox_FileID_Sort>
+4869
+
+> <TS_ChemName>
+Diphenyl sulfide
+
+> <TS_ChemName_Synonyms>
+Diphenyl sulfide (Benzene, 1,1'-thiobis-)
+
+> <TS_CASRN>
+139-66-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10S
+
+> <STRUCTURE_MW>
+186.2728
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diphenyl sulfide
+
+> <STRUCTURE_SMILES>
+c1ccccc1Sc2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccccc1Sc2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

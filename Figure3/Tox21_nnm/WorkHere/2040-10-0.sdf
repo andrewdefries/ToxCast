@@ -1,0 +1,102 @@
+2040-10-0
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    1.1407   -7.3121    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2960   -6.6540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2960   -5.3232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440   -4.6505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440   -3.3197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2960   -2.6616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1407   -3.3197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1407   -4.6505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2960   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6268   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9652   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2960    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5993   -5.3232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440   -7.3121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <ID>
+12270
+
+> <Formula>
+C14H20O
+
+> <FW>
+204.308
+
+> <DSSTox_CID>
+27120
+
+> <DSSTox_RID>
+82128
+
+> <DSSTox_GSID>
+47120
+
+> <DSSTox_FileID_Sort>
+6809
+
+> <TS_ChemName>
+4'-tert-Butyl-2',6'-dimethylacetophenone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2040-10-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20O
+
+> <STRUCTURE_MW>
+204.308
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(4-tert-butyl-2,6-dimethylphenyl)ethanone
+
+> <STRUCTURE_SMILES>
+Cc1cc(cc(C)c1C(=O)C)C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(cc(C)c1C(=O)C)C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

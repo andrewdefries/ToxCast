@@ -1,0 +1,103 @@
+71526-07-3
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    3.4375   -0.0805    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7022   -0.4829    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7022   -1.8165    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4375   -2.2304    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6500   -1.1554    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9889   -2.3109    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6611   -2.3109    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1554    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6611    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9889    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.0179   -3.4835    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7360   -3.7709    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9204   -4.4780    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2195   -4.2078    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5008   -5.7484    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+10229
+
+> <Formula>
+C10H15Cl2NO2
+
+> <FW>
+252.1376
+
+> <DSSTox_CID>
+24575
+
+> <DSSTox_RID>
+80324
+
+> <DSSTox_GSID>
+44575
+
+> <DSSTox_FileID_Sort>
+5006
+
+> <TS_ChemName>
+2,2-Dichloro-1-(1-oxa-4-azaspiro[4.5]dec-4-yl)ethanone
+
+> <TS_ChemName_Synonyms>
+2,2-Dichloro-1-(1-oxa-4-azaspiro[4.5]dec-4-yl)ethanone (1-Oxa-4-azaspiro[4.5]decane, 4-(dichloroacetyl)-)
+
+> <TS_CASRN>
+71526-07-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H15Cl2NO2
+
+> <STRUCTURE_MW>
+252.1376
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2-dichloro-1-(1-oxa-4-azaspiro[4.5]dec-4-yl)ethanone
+
+> <STRUCTURE_SMILES>
+ClC(Cl)C(=O)N2CCOC12CCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)C(=O)N2CCOC12CCCCC1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

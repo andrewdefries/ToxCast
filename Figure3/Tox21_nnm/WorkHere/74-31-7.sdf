@@ -1,0 +1,114 @@
+74-31-7
+ChemmineR-0915142007XD
+
+ 20 22  0  0  0  0  0  0  0  0  1 V2000
+    8.0649   -2.6614    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9128   -1.9932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7606   -2.6614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -1.9932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7606    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9128   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4564    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -1.9932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -2.6614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2170   -1.9932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2170   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3692    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5213   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5213   -1.9932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3692   -2.6614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <ID>
+517
+
+> <Formula>
+C18H16N2
+
+> <FW>
+260.333
+
+> <DSSTox_CID>
+538
+
+> <DSSTox_RID>
+75647
+
+> <DSSTox_GSID>
+20538
+
+> <DSSTox_FileID_Sort>
+331
+
+> <TS_ChemName>
+N,N'-Diphenyl-p-phenylenediamine
+
+> <TS_ChemName_Synonyms>
+N,N'-Diphenyl-p-phenylenediamine (Diphenyl-p-phenylenediamine)
+
+> <TS_CASRN>
+74-31-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H16N2
+
+> <STRUCTURE_MW>
+260.333
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N'-diphenylbenzene-1,4-diamine
+
+> <STRUCTURE_SMILES>
+c1ccccc1Nc2ccc(cc2)Nc3ccccc3
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccccc1Nc2ccc(cc2)Nc3ccccc3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,99 @@
+919-31-3
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    1.3350   -2.1664    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6620   -2.1664    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3415   -3.3175    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1664    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6685   -3.3175    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6685   -4.6526    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8117   -5.3241    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8117   -6.6431    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6685   -1.9905    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5174   -1.3270    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5174    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0036   -3.3175    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6591   -4.4767    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9941   -4.4767    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+5084
+
+> <Formula>
+C9H19NO3Si
+
+> <FW>
+217.3376
+
+> <DSSTox_CID>
+7334
+
+> <DSSTox_RID>
+78412
+
+> <DSSTox_GSID>
+27334
+
+> <DSSTox_FileID_Sort>
+3095
+
+> <TS_ChemName>
+3-(Triethoxysilyl)propionitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+919-31-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H19NO3Si
+
+> <STRUCTURE_MW>
+217.3376
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+3-(triethoxysilyl)propanenitrile
+
+> <STRUCTURE_SMILES>
+CCO[Si](OCC)(OCC)CCC#N
+
+> <STRUCTURE_SMILES_Desalt>
+CCO[Si](OCC)(OCC)CCC#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

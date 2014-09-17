@@ -1,0 +1,115 @@
+1225-55-4
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  1 V2000
+    4.7248   -5.1876    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7946   -2.9956    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0872   -2.7074    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7641   -2.1571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1046   -0.3144    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8208    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6810   -1.5196    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7641   -0.8297    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.9607   -4.1309    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4890   -4.2881    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8120   -3.8252    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5938   -2.8122    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6287   -0.1572    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9998   -1.4410    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2445   -3.7466    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.2139    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2226   -4.6724    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1570   -3.7292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4585   -2.1309    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4759   -0.7947    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.7334   -2.5239    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  8  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  2  0  0  0  0
+ 12 19  2  0  0  0  0
+ 13 20  2  0  0  0  0
+ 14 21  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+12110
+
+> <Formula>
+C19H22ClN
+
+> <FW>
+299.8377 (36.4609+263.3767)
+
+> <DSSTox_CID>
+26951
+
+> <DSSTox_RID>
+82027
+
+> <DSSTox_GSID>
+46951
+
+> <DSSTox_FileID_Sort>
+6708
+
+> <TS_ChemName>
+Protriptyline hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1225-55-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [438-60-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C19H22ClN
+
+> <STRUCTURE_MW>
+299.8377
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+3-(5H-dibenzo[a,d][7]annulen-5-yl)-N-methylpropan-1-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CNCCCC2c3ccccc3C=Cc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+CNCCCC2c3ccccc3C=Cc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

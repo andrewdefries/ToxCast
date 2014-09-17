@@ -1,0 +1,88 @@
+123-33-1
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1545    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -1.1545    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -2.3036    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -2.3036    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+759
+
+> <Formula>
+C4H4N2O2
+
+> <FW>
+112.0868
+
+> <DSSTox_CID>
+792
+
+> <DSSTox_RID>
+75792
+
+> <DSSTox_GSID>
+20792
+
+> <DSSTox_FileID_Sort>
+476
+
+> <TS_ChemName>
+Maleic hydrazide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+123-33-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H4N2O2
+
+> <STRUCTURE_MW>
+112.0868
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-dihydropyridazine-3,6-dione
+
+> <STRUCTURE_SMILES>
+O=C1C=CC(=O)NN1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C=CC(=O)NN1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

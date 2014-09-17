@@ -1,0 +1,95 @@
+103-09-3
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    1.1568   -4.6548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568   -5.9917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3136   -3.9968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4704   -4.6548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6271   -3.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6271   -2.6668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7839   -1.9880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7839   -0.6581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9269    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7839   -4.6548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9269   -3.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+4765
+
+> <Formula>
+C10H20O2
+
+> <FW>
+172.2646
+
+> <DSSTox_CID>
+6694
+
+> <DSSTox_RID>
+78185
+
+> <DSSTox_GSID>
+26694
+
+> <DSSTox_FileID_Sort>
+2868
+
+> <TS_ChemName>
+2-Ethylhexyl acetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+103-09-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20O2
+
+> <STRUCTURE_MW>
+172.2646
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethylhexyl acetate
+
+> <STRUCTURE_SMILES>
+O=C(C)OCC(CCCC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)OCC(CCCC)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

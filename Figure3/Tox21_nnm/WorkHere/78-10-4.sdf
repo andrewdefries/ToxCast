@@ -1,0 +1,97 @@
+78-10-4
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    3.3298   -3.3298    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9979   -3.3298    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3319   -2.1777    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1777    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3298   -1.9979    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1777   -1.3319    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1777    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3298   -4.6617    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4685   -5.3276    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4685   -6.6595    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6617   -3.3298    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3143   -4.4819    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6462   -4.4819    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+4689
+
+> <Formula>
+C8H20O4Si
+
+> <FW>
+208.3275
+
+> <DSSTox_CID>
+6450
+
+> <DSSTox_RID>
+78117
+
+> <DSSTox_GSID>
+26450
+
+> <DSSTox_FileID_Sort>
+2800
+
+> <TS_ChemName>
+Tetraethyl orthosilicate
+
+> <TS_ChemName_Synonyms>
+Tetraethyl orthosilicate (Silicic acid (H4SiO4), tetraethyl ester)
+
+> <TS_CASRN>
+78-10-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H20O4Si
+
+> <STRUCTURE_MW>
+208.3275
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+tetraethyl orthosilicate
+
+> <STRUCTURE_SMILES>
+CCO[Si](OCC)(OCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCO[Si](OCC)(OCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

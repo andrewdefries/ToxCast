@@ -1,0 +1,82 @@
+3724-43-4
+ChemmineR-0915142007XD
+
+  6  4  0  0  0  0  0  0  0  0  2 V2000
+    3.3196   -1.1549    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9893   -1.1549    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    1.3303    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3303   -2.3098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0466   -1.1549    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+10080
+
+> <Formula>
+C3H7Cl2N
+
+> <FW>
+128.0004 (92.5468+35.4535)
+
+> <DSSTox_CID>
+24423
+
+> <DSSTox_RID>
+80216
+
+> <DSSTox_GSID>
+44423
+
+> <DSSTox_FileID_Sort>
+4898
+
+> <TS_ChemName>
+N-(Chloromethylidene)-N-methylmethanaminium chloride
+
+> <TS_ChemName_Synonyms>
+N-(Chloromethylidene)-N-methylmethanaminium chloride (Methanaminium, N-(chloromethylene)-N-methyl-, chloride)
+
+> <TS_CASRN>
+3724-43-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [44205-36-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H7Cl2N
+
+> <STRUCTURE_MW>
+128.0004
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+chloro-N,N-dimethylmethaniminium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C/[N+](C)=C\Cl
+
+> <STRUCTURE_SMILES_Desalt>
+C/[N+](C)=C\Cl
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

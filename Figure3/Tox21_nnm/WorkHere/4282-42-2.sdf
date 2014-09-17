@@ -1,0 +1,91 @@
+4282-42-2
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    9.0865    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9634   -0.6942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8098    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6867   -0.6942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5637    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3998   -0.6942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2767    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -0.6942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2095   -0.6942    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+14164
+
+> <Formula>
+C9H19I
+
+> <FW>
+254.1516
+
+> <DSSTox_CID>
+29157
+
+> <DSSTox_RID>
+83376
+
+> <DSSTox_GSID>
+49301
+
+> <DSSTox_FileID_Sort>
+8051
+
+> <TS_ChemName>
+Nonane,1-iodo-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4282-42-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H19I
+
+> <STRUCTURE_MW>
+254.1516
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-iodononane
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCI
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCI
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

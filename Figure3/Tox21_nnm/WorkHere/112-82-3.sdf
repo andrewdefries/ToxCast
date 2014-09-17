@@ -1,0 +1,105 @@
+112-82-3
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+   17.6126   -0.6210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   16.4271    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   15.2981   -0.6210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   14.1126    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.9083   -0.6210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.7229    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.5939   -0.6210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.4084    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.2230   -0.6210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.0187    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8332   -0.6210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7042    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5187   -0.6210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3145    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2043   -0.6210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   18.8168    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+14261
+
+> <Formula>
+C16H33Br
+
+> <FW>
+305.3372
+
+> <DSSTox_CID>
+29356
+
+> <DSSTox_RID>
+83472
+
+> <DSSTox_GSID>
+49397
+
+> <DSSTox_FileID_Sort>
+8147
+
+> <TS_ChemName>
+Hexadecane,1-bromo-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+112-82-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H33Br
+
+> <STRUCTURE_MW>
+305.3372
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromohexadecane
+
+> <STRUCTURE_SMILES>
+BrCCCCCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+BrCCCCCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

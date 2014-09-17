@@ -1,0 +1,99 @@
+147-47-7
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    1.3315   -2.6579    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4831   -1.9947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6346   -2.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3315   -3.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4831   -0.6632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7862   -1.9947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6346   -3.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4831   -4.6525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7862   -0.6632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6346    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6632   -5.1409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7862   -4.6525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+4000
+
+> <Formula>
+C12H15N
+
+> <FW>
+173.2542
+
+> <DSSTox_CID>
+5070
+
+> <DSSTox_RID>
+77650
+
+> <DSSTox_GSID>
+25070
+
+> <DSSTox_FileID_Sort>
+2333
+
+> <TS_ChemName>
+1,2-Dihydro-2,2,4-trimethylquinoline
+
+> <TS_ChemName_Synonyms>
+1,2-Dihydro-2,2,4-trimethylquinoline (monomer)
+
+> <TS_CASRN>
+147-47-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H15N
+
+> <STRUCTURE_MW>
+173.2542
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2,4-trimethyl-1,2-dihydroquinoline
+
+> <STRUCTURE_SMILES>
+CC2=CC(C)(C)Nc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+CC2=CC(C)(C)Nc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

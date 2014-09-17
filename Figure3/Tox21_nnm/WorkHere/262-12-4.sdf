@@ -1,0 +1,102 @@
+262-12-4
+ChemmineR-0915142007XD
+
+ 14 16  0  0  0  0  0  0  0  0  1 V2000
+    3.4545    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552   -2.6600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9090   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9090   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4545   -2.6600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -2.6600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+395
+
+> <Formula>
+C12H8O2
+
+> <FW>
+184.1907
+
+> <DSSTox_CID>
+410
+
+> <DSSTox_RID>
+75569
+
+> <DSSTox_GSID>
+20410
+
+> <DSSTox_FileID_Sort>
+253
+
+> <TS_ChemName>
+Dibenzo-p-dioxin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+262-12-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H8O2
+
+> <STRUCTURE_MW>
+184.1907
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+oxanthrene
+
+> <STRUCTURE_SMILES>
+c1ccc2Oc3ccccc3Oc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccc2Oc3ccccc3Oc2c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

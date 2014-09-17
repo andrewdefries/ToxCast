@@ -1,0 +1,97 @@
+143314-16-3
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  2 V2000
+    2.5671   -5.1176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8569    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4160   -4.4468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7370   -1.0765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3395   -2.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4843   -2.3435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0702   -1.0765    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.4160   -3.1136    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3332   -6.9476    0.0000 B   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.9476    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3332   -8.2808    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3332   -5.6144    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -6.9476    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+M  END
+> <ID>
+14081
+
+> <Formula>
+C6H11BF4N2
+
+> <FW>
+197.9696 (111.1644+86.8052)
+
+> <DSSTox_CID>
+29074
+
+> <DSSTox_RID>
+83293
+
+> <DSSTox_GSID>
+49218
+
+> <DSSTox_FileID_Sort>
+7968
+
+> <TS_ChemName>
+1-Ethyl-3-methylimidazolium tetrafluoroborate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+143314-16-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H11BF4N2
+
+> <STRUCTURE_MW>
+197.9696
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-ethyl-3-methyl-1H-imidazol-3-ium tetrafluoroborate
+
+> <STRUCTURE_SMILES>
+F[B-](F)(F)F.C[n+]1ccn(CC)c1
+
+> <STRUCTURE_SMILES_Desalt>
+C[n+]1ccn(CC)c1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

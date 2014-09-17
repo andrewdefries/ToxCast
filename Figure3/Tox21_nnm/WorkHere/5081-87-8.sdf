@@ -1,0 +1,103 @@
+5081-87-8
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3301    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -1.9991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -1.3301    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4582   -1.9991    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4582   -3.3292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -3.9902    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6028   -3.9902    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -3.3292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -1.9991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9083   -1.3301    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0610   -1.9991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0610   -3.3292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9083   -3.9902    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6028   -1.3301    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6028    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+16157
+
+> <Formula>
+C10H9ClN2O2
+
+> <FW>
+224.6437
+
+> <DSSTox_CID>
+31546
+
+> <DSSTox_RID>
+97431
+
+> <DSSTox_GSID>
+57757
+
+> <DSSTox_FileID_Sort>
+8498
+
+> <TS_ChemName>
+3-(2-Chloroethyl)quinazoline-2,4(1H,3H)-dione
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5081-87-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H9ClN2O2
+
+> <STRUCTURE_MW>
+224.6437
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(2-chloroethyl)quinazoline-2,4(1H,3H)-dione
+
+> <STRUCTURE_SMILES>
+O=C1c2ccccc2NC(=O)N1CCCl
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1c2ccccc2NC(=O)N1CCCl
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

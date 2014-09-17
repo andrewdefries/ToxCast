@@ -1,0 +1,106 @@
+20662-53-7
+ChemmineR-0915142007XD
+
+ 16 18  0  0  0  0  0  0  0  0  1 V2000
+    5.6794   -4.8734    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3526   -4.8734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5714   -5.9461    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3065   -5.5368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3065   -4.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -3.5403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.5368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -6.2003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5714   -3.7946    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9806   -2.5297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2826   -2.2507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6918   -0.9858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7990    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5031   -0.2790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0877   -1.5439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+16081
+
+> <Formula>
+C12H15N3O
+
+> <FW>
+217.267
+
+> <DSSTox_CID>
+31468
+
+> <DSSTox_RID>
+97353
+
+> <DSSTox_GSID>
+57679
+
+> <DSSTox_FileID_Sort>
+8420
+
+> <TS_ChemName>
+Benzimidazolone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+20662-53-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H15N3O
+
+> <STRUCTURE_MW>
+217.267
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(piperidin-4-yl)-1,3-dihydro-2H-benzimidazol-2-one
+
+> <STRUCTURE_SMILES>
+O=C2Nc1ccccc1N2C3CCNCC3
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2Nc1ccccc1N2C3CCNCC3
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

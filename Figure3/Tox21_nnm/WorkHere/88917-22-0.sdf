@@ -1,0 +1,97 @@
+88917-22-0
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    6.8970   -3.3197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0464   -3.9910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1959   -3.3197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8970   -1.9955    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7475   -3.9910    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5980   -3.3197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4485   -3.9910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2990   -3.3197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1495   -3.9910    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0464   -1.3242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0464    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1959   -1.9955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+5779
+
+> <Formula>
+C9H18O4
+
+> <FW>
+190.2368
+
+> <DSSTox_CID>
+9062
+
+> <DSSTox_RID>
+78666
+
+> <DSSTox_GSID>
+29062
+
+> <DSSTox_FileID_Sort>
+3348
+
+> <TS_ChemName>
+Propanol, 1(or 2)-(2-methoxymethylethoxy)-, acetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+88917-22-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 1- and 2- derivatives; structure shown 1-
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C9H18O4
+
+> <STRUCTURE_MW>
+190.2368
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(3-methoxypropoxy)propyl acetate
+
+> <STRUCTURE_SMILES>
+O=C(C)OC(CC)OCCCOC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C)OC(CC)OCCCOC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

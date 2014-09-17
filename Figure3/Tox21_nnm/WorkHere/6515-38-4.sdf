@@ -1,0 +1,92 @@
+6515-38-4
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    2.3058   -2.6562    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1529   -1.9829    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4586   -1.9829    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3058    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1529   -0.6548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4586   -0.6548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6562    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6115   -2.6562    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6115    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+M  END
+> <ID>
+7449
+
+> <Formula>
+C5H2Cl3NO
+
+> <FW>
+198.4345
+
+> <DSSTox_CID>
+18317
+
+> <DSSTox_RID>
+79381
+
+> <DSSTox_GSID>
+38317
+
+> <DSSTox_FileID_Sort>
+4063
+
+> <TS_ChemName>
+3,5,6-Trichloro-2-pyridinol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6515-38-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H2Cl3NO
+
+> <STRUCTURE_MW>
+198.4345
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5,6-trichloropyridin-2-ol
+
+> <STRUCTURE_SMILES>
+Clc1cc(Cl)c(Cl)nc1O
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(Cl)c(Cl)nc1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

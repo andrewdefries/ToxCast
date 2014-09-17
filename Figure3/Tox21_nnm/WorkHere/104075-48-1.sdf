@@ -1,0 +1,107 @@
+104075-48-1
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    5.4834   -3.9865    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4834   -2.6656    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7482   -2.2334    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5246   -3.3221    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7482   -4.4027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5542   -0.9126    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3387   -1.9772    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5542   -3.0659    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2974   -1.3288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2974   -2.6656    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1447   -3.3221    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6656    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1447   -0.6564    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4994   -1.3288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4994    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0049   -1.4649    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+13582
+
+> <Formula>
+C14H17ClN2
+
+> <FW>
+248.7512 (212.2902+36.4609)
+
+> <DSSTox_CID>
+28509
+
+> <DSSTox_RID>
+82781
+
+> <DSSTox_GSID>
+48583
+
+> <DSSTox_FileID_Sort>
+7458
+
+> <TS_ChemName>
+Atipamezole hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+104075-48-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers; parent [104054-27-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H17ClN2
+
+> <STRUCTURE_MW>
+248.7512
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+5-(2-ethyl-2,3-dihydro-1H-inden-2-yl)-1H-imidazole hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CCC1(Cc2ccccc2C1)c3cncn3
+
+> <STRUCTURE_SMILES_Desalt>
+CCC1(Cc2ccccc2C1)c3cncn3
+
+> <Substance_modify_yyyymmdd>
+20111014
+
+$$$$

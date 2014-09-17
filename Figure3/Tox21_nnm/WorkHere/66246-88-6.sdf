@@ -1,0 +1,109 @@
+66246-88-6
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    2.0287   -4.6021    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2773   -5.7010    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.2972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9729    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2773   -3.5502    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3812   -4.6021    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0292   -3.4469    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3812   -2.3199    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0292   -1.1552    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3812    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3723   -3.4469    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0767   -4.6021    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0391   -2.3199    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3822   -4.6021    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3822   -2.3199    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0678   -3.4657    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3723   -5.7668    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3921   -3.4657    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+9189
+
+> <Formula>
+C13H15Cl2N3
+
+> <FW>
+284.1843
+
+> <DSSTox_CID>
+22260
+
+> <DSSTox_RID>
+79978
+
+> <DSSTox_GSID>
+42260
+
+> <DSSTox_FileID_Sort>
+4660
+
+> <TS_ChemName>
+Penconazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+66246-88-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H15Cl2N3
+
+> <STRUCTURE_MW>
+284.1843
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-[2-(2,4-dichlorophenyl)pentyl]-1H-1,2,4-triazole
+
+> <STRUCTURE_SMILES>
+Clc2ccc(C(CCC)Cn1cncn1)c(Cl)c2
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2ccc(C(CCC)Cn1cncn1)c(Cl)c2
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

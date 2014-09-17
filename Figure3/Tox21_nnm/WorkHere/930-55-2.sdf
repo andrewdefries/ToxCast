@@ -1,0 +1,86 @@
+930-55-2
+ChemmineR-0915142007XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.5998    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -2.2653    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -1.5998    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4416   -0.2777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7417    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4072   -1.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5169   -2.1419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+1026
+
+> <Formula>
+C4H8N2O
+
+> <FW>
+100.1191
+
+> <DSSTox_CID>
+1062
+
+> <DSSTox_RID>
+75925
+
+> <DSSTox_GSID>
+21062
+
+> <DSSTox_FileID_Sort>
+609
+
+> <TS_ChemName>
+N-Nitrosopyrrolidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+930-55-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8N2O
+
+> <STRUCTURE_MW>
+100.1191
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-nitrosopyrrolidine
+
+> <STRUCTURE_SMILES>
+O=NN1CCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=NN1CCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

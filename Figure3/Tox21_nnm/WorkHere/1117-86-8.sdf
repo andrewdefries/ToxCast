@@ -1,0 +1,91 @@
+1117-86-8
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    1.1514    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3306   -0.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4634    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6148   -0.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7940    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9546   -0.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1060    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2852   -0.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3306   -1.9778    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+7151
+
+> <Formula>
+C8H18O2
+
+> <FW>
+146.2273
+
+> <DSSTox_CID>
+16646
+
+> <DSSTox_RID>
+79289
+
+> <DSSTox_GSID>
+36646
+
+> <DSSTox_FileID_Sort>
+3971
+
+> <TS_ChemName>
+1,2-Octanediol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1117-86-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18O2
+
+> <STRUCTURE_MW>
+146.2273
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+octane-1,2-diol
+
+> <STRUCTURE_SMILES>
+OCC(O)CCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+OCC(O)CCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

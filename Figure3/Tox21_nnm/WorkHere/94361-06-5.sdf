@@ -1,0 +1,114 @@
+94361-06-5
+ChemmineR-0915142007XD
+
+ 20 22  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -8.2359    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6753   -7.0993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9463    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6753   -4.7933    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0013   -4.7933    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6602   -5.9463    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0013   -7.0993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6602   -3.6403    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0013   -2.4872    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9862   -3.6403    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6615   -4.7933    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9792   -4.9168    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2510   -6.2345    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1145   -6.8934    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1179   -6.0122    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3355   -2.4872    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6602   -1.3260    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5072   -0.6753    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6602    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6615   -2.4872    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+6537
+
+> <Formula>
+C15H18ClN3O
+
+> <FW>
+291.7759
+
+> <DSSTox_CID>
+12601
+
+> <DSSTox_RID>
+79000
+
+> <DSSTox_GSID>
+32601
+
+> <DSSTox_FileID_Sort>
+3682
+
+> <TS_ChemName>
+Cyproconazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+94361-06-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture of stereoisomers, (2RS,3RS;2RS,3SR) approx 1:1; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H18ClN3O
+
+> <STRUCTURE_MW>
+291.7759
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(4-chlorophenyl)-3-cyclopropyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol
+
+> <STRUCTURE_SMILES>
+OC(Cn1cncn1)(C(C)C2CC2)c3ccc(Cl)cc3
+
+> <STRUCTURE_SMILES_Desalt>
+OC(Cn1cncn1)(C(C)C2CC2)c3ccc(Cl)cc3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,101 @@
+103-30-0
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    2.6619   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -2.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655   -2.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9928   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6497   -2.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9806   -2.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6461   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9770   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6425   -2.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9770   -3.4570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6461   -3.4570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+4517
+
+> <Formula>
+C14H12
+
+> <FW>
+180.2451
+
+> <DSSTox_CID>
+6050
+
+> <DSSTox_RID>
+77995
+
+> <DSSTox_GSID>
+26050
+
+> <DSSTox_FileID_Sort>
+2678
+
+> <TS_ChemName>
+trans-Stilbene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+103-30-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H12
+
+> <STRUCTURE_MW>
+180.2451
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1'-(E)-ethene-1,2-diyldibenzene
+
+> <STRUCTURE_SMILES>
+C(=C/c1ccccc1)\c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+C(=C/c1ccccc1)\c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

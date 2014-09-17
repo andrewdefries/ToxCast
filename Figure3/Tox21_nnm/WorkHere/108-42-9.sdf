@@ -1,0 +1,88 @@
+108-42-9
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6588    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -0.6635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -2.6588    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -2.6588    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <ID>
+3841
+
+> <Formula>
+C6H6ClN
+
+> <FW>
+127.5715
+
+> <DSSTox_CID>
+4761
+
+> <DSSTox_RID>
+77521
+
+> <DSSTox_GSID>
+24761
+
+> <DSSTox_FileID_Sort>
+2204
+
+> <TS_ChemName>
+3-Chloroaniline
+
+> <TS_ChemName_Synonyms>
+3-Chloroaniline (m-Chloroaniline) (3-Chlorophenylamine)
+
+> <TS_CASRN>
+108-42-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6ClN
+
+> <STRUCTURE_MW>
+127.5715
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-chloroaniline
+
+> <STRUCTURE_SMILES>
+Nc1cc(Cl)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1cc(Cl)ccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

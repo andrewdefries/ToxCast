@@ -1,0 +1,96 @@
+149-91-7
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.4520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6701   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1487    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9982   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6563   -3.4520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9964   -3.4520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6545   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9964   -1.1487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6563   -1.1487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6545    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9827   -2.3033    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6545   -4.6067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+625
+
+> <Formula>
+C7H6O5
+
+> <FW>
+170.1195
+
+> <DSSTox_CID>
+650
+
+> <DSSTox_RID>
+75711
+
+> <DSSTox_GSID>
+20650
+
+> <DSSTox_FileID_Sort>
+395
+
+> <TS_ChemName>
+Gallic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+149-91-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6O5
+
+> <STRUCTURE_MW>
+170.1195
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,4,5-trihydroxybenzoic acid
+
+> <STRUCTURE_SMILES>
+Oc1cc(cc(O)c1O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1cc(cc(O)c1O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

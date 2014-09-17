@@ -1,0 +1,88 @@
+108-55-4
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    2.0157   -1.1778    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7240   -2.3071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0157   -3.4525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7083   -3.4525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7083   -1.1778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0648    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0475   -2.3071    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+10020
+
+> <Formula>
+C5H6O3
+
+> <FW>
+114.0993
+
+> <DSSTox_CID>
+24362
+
+> <DSSTox_RID>
+80170
+
+> <DSSTox_GSID>
+44362
+
+> <DSSTox_FileID_Sort>
+4852
+
+> <TS_ChemName>
+Glutaric anhydride
+
+> <TS_ChemName_Synonyms>
+Glutaric anhydride (2H-Pyran-2,6(3H)-dione, dihydro-)
+
+> <TS_CASRN>
+108-55-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H6O3
+
+> <STRUCTURE_MW>
+114.0993
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dihydro-2H-pyran-2,6(3H)-dione
+
+> <STRUCTURE_SMILES>
+O=C1CCCC(=O)O1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCC(=O)O1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,101 @@
+2425-79-8
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    2.4760   -3.1482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6300   -2.4872    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7839   -3.1482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9379   -2.4872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0807   -3.1482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2346   -2.4872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3886   -3.1482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5426   -2.4872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5426   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8703    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2036    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3332   -2.4872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6610   -1.3332    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+3801
+
+> <Formula>
+C10H18O4
+
+> <FW>
+202.2475
+
+> <DSSTox_CID>
+4667
+
+> <DSSTox_RID>
+77493
+
+> <DSSTox_GSID>
+24667
+
+> <DSSTox_FileID_Sort>
+2176
+
+> <TS_ChemName>
+1,4-Butanediol diglycidyl ether
+
+> <TS_ChemName_Synonyms>
+1,4-Butanediol diglycidyl ether (Oxirane, 2,2-[1,4-butanediylbis(oxymethylene)]bis-)
+
+> <TS_CASRN>
+2425-79-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O4
+
+> <STRUCTURE_MW>
+202.2475
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-[butane-1,4-diylbis(oxymethanediyl)]dioxirane
+
+> <STRUCTURE_SMILES>
+C(CCCOCC1CO1)OCC2CO2
+
+> <STRUCTURE_SMILES_Desalt>
+C(CCCOCC1CO1)OCC2CO2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,92 @@
+4621-04-9
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1573   -1.3371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2965   -1.9907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2965   -3.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1573   -4.0054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1573    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1573   -5.3365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2965   -5.9961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+12297
+
+> <Formula>
+C9H18O
+
+> <FW>
+142.2386
+
+> <DSSTox_CID>
+27149
+
+> <DSSTox_RID>
+82153
+
+> <DSSTox_GSID>
+47149
+
+> <DSSTox_FileID_Sort>
+6834
+
+> <TS_ChemName>
+4-Isopropylcyclohexanol
+
+> <TS_ChemName_Synonyms>
+4-iso-Propylcyclohexanol
+
+> <TS_CASRN>
+4621-04-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18O
+
+> <STRUCTURE_MW>
+142.2386
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(propan-2-yl)cyclohexanol
+
+> <STRUCTURE_SMILES>
+CC(C)C1CCC(O)CC1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)C1CCC(O)CC1
+
+> <Substance_modify_yyyymmdd>
+20100502
+
+$$$$

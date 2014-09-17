@@ -1,0 +1,82 @@
+57-57-8
+ChemmineR-0915142007XD
+
+  5  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.9406    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3291   -0.9406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2697    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2103   -0.9406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2697   -1.8812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+1151
+
+> <Formula>
+C3H4O2
+
+> <FW>
+72.0627
+
+> <DSSTox_CID>
+1197
+
+> <DSSTox_RID>
+76006
+
+> <DSSTox_GSID>
+21197
+
+> <DSSTox_FileID_Sort>
+690
+
+> <TS_ChemName>
+beta-Propiolactone
+
+> <TS_ChemName_Synonyms>
+beta-Propiolactone (Propiolactone)
+
+> <TS_CASRN>
+57-57-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H4O2
+
+> <STRUCTURE_MW>
+72.0627
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+oxetan-2-one
+
+> <STRUCTURE_SMILES>
+O=C1CCO1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

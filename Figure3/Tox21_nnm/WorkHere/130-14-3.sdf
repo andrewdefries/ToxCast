@@ -1,0 +1,102 @@
+130-14-3
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  2 V2000
+    1.4879   -0.4464    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    2.3063   -3.3266    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063   -4.6604    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531   -2.6570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531   -5.3140    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4594   -5.3140    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4594   -2.6570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073   -3.3106    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073   -4.6604    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6604    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3266    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4594   -1.3285    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7879   -1.3285    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1309   -1.3285    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.4594    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 10  2  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+M  END
+> <ID>
+9313
+
+> <Formula>
+C10H7NaO3S
+
+> <FW>
+230.2155 (22.9892+207.2263)
+
+> <DSSTox_CID>
+22394
+
+> <DSSTox_RID>
+80012
+
+> <DSSTox_GSID>
+42394
+
+> <DSSTox_FileID_Sort>
+4694
+
+> <TS_ChemName>
+Sodium 1-naphthalenesulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+130-14-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [85-47-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H7NaO3S
+
+> <STRUCTURE_MW>
+230.2155
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium naphthalene-1-sulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]S(=O)(=O)c2cccc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)c2cccc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

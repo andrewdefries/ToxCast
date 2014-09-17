@@ -1,0 +1,102 @@
+6319-06-8
+ChemmineR-0915142007XD
+
+ 14 16  0  0  1  0  0  0  0  0  1 V2000
+    2.3140   -1.6575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3140   -2.9984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1500   -1.0057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1500   -3.6503    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.9984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5711   -1.2618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3347   -2.3280    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5711   -3.3942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3140   -0.3352    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3140   -4.3207    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4992   -2.2814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9715    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9715   -4.6560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  6  0  0  0
+  2  4  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  6  0  0  0
+  3  5  1  0  0  0  0
+  3 12  1  1  0  0  0
+  4  6  1  0  0  0  0
+  4 12  1  1  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 14  2  0  0  0  0
+M  END
+> <ID>
+11590
+
+> <Formula>
+C9H9NO2
+
+> <FW>
+163.1733
+
+> <DSSTox_CID>
+26298
+
+> <DSSTox_RID>
+81523
+
+> <DSSTox_GSID>
+46298
+
+> <DSSTox_FileID_Sort>
+6204
+
+> <TS_ChemName>
+Noreximide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6319-06-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H9NO2
+
+> <STRUCTURE_MW>
+163.1733
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3aR,4R,7S,7aS)-3a,4,7,7a-tetrahydro-1H-4,7-methanoisoindole-1,3(2H)-dione
+
+> <STRUCTURE_SMILES>
+O=C2NC(=O)[C@@H]3[C@H]1C=C[C@H](C1)[C@H]23
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2NC(=O)[C@@H]3[C@H]1C=C[C@H](C1)[C@H]23
+
+> <Substance_modify_yyyymmdd>
+20110815
+
+$$$$

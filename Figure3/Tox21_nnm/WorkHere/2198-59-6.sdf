@@ -1,0 +1,102 @@
+2198-59-6
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    8.0593   -2.6596    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9068   -1.9987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7543   -2.6596    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6019   -1.9987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6019   -0.6689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7543    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9068   -0.6689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4574    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -1.9987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -2.6596    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5058   -3.0464    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+1088
+
+> <Formula>
+C12H13ClN2
+
+> <FW>
+220.6980 (184.2371+36.4609)
+
+> <DSSTox_CID>
+1132
+
+> <DSSTox_RID>
+75963
+
+> <DSSTox_GSID>
+21132
+
+> <DSSTox_FileID_Sort>
+647
+
+> <TS_ChemName>
+N-Phenyl-1,4-benzenediamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+N-Phenyl-p-phenylenediamine hydrochloride
+
+> <TS_CASRN>
+2198-59-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [101-54-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H13ClN2
+
+> <STRUCTURE_MW>
+220.698
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-phenylbenzene-1,4-diamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Nc2ccc(Nc1ccccc1)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Nc2ccc(Nc1ccccc1)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

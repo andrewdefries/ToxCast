@@ -1,0 +1,107 @@
+58-93-5
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    2.0037   -3.6827    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -2.6601    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2971   -3.6827    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3008   -1.9968    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3008   -0.6702    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086   -0.6702    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6086   -1.9968    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547   -2.6601    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -2.6601    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0922   -3.8140    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4257   -1.5132    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9094   -3.3303    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6702    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9968    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2 17  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+683
+
+> <Formula>
+C7H8ClN3O4S2
+
+> <FW>
+297.7391
+
+> <DSSTox_CID>
+713
+
+> <DSSTox_RID>
+75752
+
+> <DSSTox_GSID>
+20713
+
+> <DSSTox_FileID_Sort>
+436
+
+> <TS_ChemName>
+Hydrochlorothiazide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+58-93-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H8ClN3O4S2
+
+> <STRUCTURE_MW>
+297.7391
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-chloro-3,4-dihydro-2H-1,2,4-benzothiadiazine-7-sulfonamide 1,1-dioxide
+
+> <STRUCTURE_SMILES>
+NS(=O)(=O)c2cc1c(NCNS1(=O)=O)cc2Cl
+
+> <STRUCTURE_SMILES_Desalt>
+NS(=O)(=O)c2cc1c(NCNS1(=O)=O)cc2Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

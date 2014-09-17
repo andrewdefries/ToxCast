@@ -1,0 +1,108 @@
+1143-38-0
+ChemmineR-0915142007XD
+
+ 17 19  0  0  0  0  0  0  0  0  1 V2000
+    3.4559    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4559   -1.3271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6102   -1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7576   -1.3271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7576    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9118   -1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9118   -3.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7576   -3.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6102   -3.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4559   -3.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3016   -3.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543   -3.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543   -1.3271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3016   -1.9906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <ID>
+3736
+
+> <Formula>
+C14H10O3
+
+> <FW>
+226.2274
+
+> <DSSTox_CID>
+4538
+
+> <DSSTox_RID>
+77448
+
+> <DSSTox_GSID>
+24538
+
+> <DSSTox_FileID_Sort>
+2131
+
+> <TS_ChemName>
+Anthralin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1143-38-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H10O3
+
+> <STRUCTURE_MW>
+226.2274
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,8-dihydroxyanthracen-9(10H)-one
+
+> <STRUCTURE_SMILES>
+Oc2cccc1Cc3cccc(O)c3C(=O)c12
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2cccc1Cc3cccc(O)c3C(=O)c12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,100 @@
+94-60-0
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    5.9923   -1.1538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3130   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9917   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3311   -1.1538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9917    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3130    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3229   -1.1538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9742   -2.3076    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9742    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0005   -1.1538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3306    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3306   -2.3076    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3048    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+4728
+
+> <Formula>
+C10H16O4
+
+> <FW>
+200.2316
+
+> <DSSTox_CID>
+6566
+
+> <DSSTox_RID>
+78154
+
+> <DSSTox_GSID>
+26566
+
+> <DSSTox_FileID_Sort>
+2837
+
+> <TS_ChemName>
+Dimethyl hexahydroterephthalate
+
+> <TS_ChemName_Synonyms>
+1,4-Cyclohexanedicarboxylic acid, dimethyl ester
+
+> <TS_CASRN>
+94-60-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C10H16O4
+
+> <STRUCTURE_MW>
+200.2316
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dimethyl cyclohexane-1,4-dicarboxylate
+
+> <STRUCTURE_SMILES>
+COC(=O)C1CCC(CC1)C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+COC(=O)C1CCC(CC1)C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

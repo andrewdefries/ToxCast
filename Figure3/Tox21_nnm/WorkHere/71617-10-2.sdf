@@ -1,0 +1,108 @@
+71617-10-2
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    8.0457   -1.3548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8983   -2.0460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7371   -1.3548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0457   -0.0553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1932   -2.0460    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5897   -2.0460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -1.3548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5897   -3.3455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3225   -2.0460    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -4.0090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3225   -3.3455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3267   -1.3548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5156   -2.0183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6631   -1.3271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8243   -2.0045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6492    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1612   -4.0229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  3  0  0  0
+  3  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+11377
+
+> <Formula>
+C15H20O3
+
+> <FW>
+248.3175
+
+> <DSSTox_CID>
+26055
+
+> <DSSTox_RID>
+81309
+
+> <DSSTox_GSID>
+46055
+
+> <DSSTox_FileID_Sort>
+5990
+
+> <TS_ChemName>
+Amiloxate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+71617-10-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H20O3
+
+> <STRUCTURE_MW>
+248.3175
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylbutyl 3-(4-methoxyphenyl)prop-2-enoate
+
+> <STRUCTURE_SMILES>
+COc1ccc(C=CC(=O)OCCC(C)C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(C=CC(=O)OCCC(C)C)cc1
+
+> <Substance_modify_yyyymmdd>
+20110603
+
+$$$$

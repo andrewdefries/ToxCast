@@ -1,0 +1,111 @@
+631-27-6
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    9.3313   -2.4831    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6579   -2.7552    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.3382   -1.6327    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.4311   -0.6463    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1839   -1.1678    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4355   -1.8481    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5693   -1.1678    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7485   -0.4989    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8823   -1.1678    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0388   -0.4989    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4355   -3.1747    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3130   -3.8096    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1338   -3.1747    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1338   -1.8481    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3130   -1.1678    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.8096    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2496   -2.3470    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9344    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8823   -2.4831    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 15  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 17  2  0  0  0  0
+  7 18  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 19  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+13811
+
+> <Formula>
+C11H14ClN3O3S
+
+> <FW>
+303.7652
+
+> <DSSTox_CID>
+28748
+
+> <DSSTox_RID>
+83017
+
+> <DSSTox_GSID>
+48822
+
+> <DSSTox_FileID_Sort>
+7694
+
+> <TS_ChemName>
+Glyclopyramide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+631-27-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H14ClN3O3S
+
+> <STRUCTURE_MW>
+303.7652
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-chloro-N-(pyrrolidin-1-ylcarbamoyl)benzenesulfonamide
+
+> <STRUCTURE_SMILES>
+O=C(NS(=O)(=O)c1ccc(Cl)cc1)NN2CCCC2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NS(=O)(=O)c1ccc(Cl)cc1)NN2CCCC2
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

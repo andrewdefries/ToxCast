@@ -1,0 +1,92 @@
+99-98-9
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    0.6640   -1.1546    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9921   -1.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6561    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6542   -1.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9822   -1.1546    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901   -2.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6561   -2.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+4046
+
+> <Formula>
+C8H12N2
+
+> <FW>
+136.1943
+
+> <DSSTox_CID>
+5149
+
+> <DSSTox_RID>
+77688
+
+> <DSSTox_GSID>
+25149
+
+> <DSSTox_FileID_Sort>
+2371
+
+> <TS_ChemName>
+N,N-Dimethyl-p-phenylenediamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+99-98-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12N2
+
+> <STRUCTURE_MW>
+136.1943
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-dimethylbenzene-1,4-diamine
+
+> <STRUCTURE_SMILES>
+Nc1ccc(cc1)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

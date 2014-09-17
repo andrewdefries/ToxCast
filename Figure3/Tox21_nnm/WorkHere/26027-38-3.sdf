@@ -1,0 +1,116 @@
+26027-38-3
+ChemmineR-0915142007XD
+
+ 22 22  0  0  0  0  0  0  0  0  1 V2000
+   10.3747   -0.6640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3747   -1.9919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2127    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2127   -2.6559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0715   -0.6640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0715   -1.9919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9095   -2.6559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7476   -1.9919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6064   -2.6559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4444   -1.9919    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3032   -2.6559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1620   -1.9919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5366    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6779   -0.6640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8191    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9810   -0.6640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1222    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2842   -0.6640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4462    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5874   -0.6640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7494    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <ID>
+7144
+
+> <Formula>
+C19H32O3
+
+> <FW>
+308.4556
+
+> <DSSTox_CID>
+16588
+
+> <DSSTox_RID>
+79288
+
+> <DSSTox_GSID>
+36588
+
+> <DSSTox_FileID_Sort>
+3970
+
+> <TS_ChemName>
+Polyoxyethylene(10)nonylphenyl ether
+
+> <TS_ChemName_Synonyms>
+Decaethylene glycol p-nonylphenyl ether (nonyl straight chain)
+
+> <TS_CASRN>
+26027-38-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+polymer
+
+> <ChemNote>
+mixture of ethoxylated nonylphenols with an average of 1.5 ethoxy groups; structure shown with 2 ethoxy groups
+
+> <STRUCTURE_Shown>
+monomer of polymer
+
+> <STRUCTURE_Formula>
+C19H32O3
+
+> <STRUCTURE_MW>
+308.4556
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[2-(4-nonylphenoxy)ethoxy]ethanol
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCc1ccc(OCCOCCO)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCc1ccc(OCCOCCO)cc1
+
+> <Substance_modify_yyyymmdd>
+20130902
+
+$$$$

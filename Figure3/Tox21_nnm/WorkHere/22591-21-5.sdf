@@ -1,0 +1,89 @@
+22591-21-5
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1541   -1.3289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083   -2.0048    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440   -1.3289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5982   -0.6759    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083   -3.3337    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0048    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1154   -2.4830    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7865   -0.1793    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+M  END
+> <ID>
+5427
+
+> <Formula>
+C6H10Cl2O
+
+> <FW>
+169.049
+
+> <DSSTox_CID>
+7822
+
+> <DSSTox_RID>
+78577
+
+> <DSSTox_GSID>
+27822
+
+> <DSSTox_FileID_Sort>
+3260
+
+> <TS_ChemName>
+1,1-Dichloro-3,3-dimethylbutan-2-one
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+22591-21-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10Cl2O
+
+> <STRUCTURE_MW>
+169.049
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1-dichloro-3,3-dimethylbutan-2-one
+
+> <STRUCTURE_SMILES>
+CC(C)(C)C(=O)C(Cl)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)C(=O)C(Cl)Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

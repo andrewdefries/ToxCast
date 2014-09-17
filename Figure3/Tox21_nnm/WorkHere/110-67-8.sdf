@@ -1,0 +1,83 @@
+110-67-8
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.1360   -0.6598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2778   -1.3311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4310   -0.6598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5670   -1.3311    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7374   -0.6426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+4823
+
+> <Formula>
+C4H7NO
+
+> <FW>
+85.1045
+
+> <DSSTox_CID>
+6851
+
+> <DSSTox_RID>
+78228
+
+> <DSSTox_GSID>
+26851
+
+> <DSSTox_FileID_Sort>
+2911
+
+> <TS_ChemName>
+3-Methoxypropionitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+110-67-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H7NO
+
+> <STRUCTURE_MW>
+85.1045
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methoxypropanenitrile
+
+> <STRUCTURE_SMILES>
+N#CCCOC
+
+> <STRUCTURE_SMILES_Desalt>
+N#CCCOC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,91 @@
+97-88-1
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    4.6578   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9924    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9924   -2.3023    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6616   -2.3023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9885   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6539    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6539   -2.3023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <ID>
+3815
+
+> <Formula>
+C8H14O2
+
+> <FW>
+142.1956
+
+> <DSSTox_CID>
+4696
+
+> <DSSTox_RID>
+77503
+
+> <DSSTox_GSID>
+24696
+
+> <DSSTox_FileID_Sort>
+2186
+
+> <TS_ChemName>
+Butyl methacrylate
+
+> <TS_ChemName_Synonyms>
+Butyl methacrylate (2-Propenoic acid, 2-methyl-, butyl ester)
+
+> <TS_CASRN>
+97-88-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14O2
+
+> <STRUCTURE_MW>
+142.1956
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butyl 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+CC(=C)C(=O)OCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=C)C(=O)OCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

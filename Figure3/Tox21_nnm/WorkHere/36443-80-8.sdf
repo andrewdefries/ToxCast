@@ -1,0 +1,100 @@
+36443-80-8
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  2 V2000
+    4.3876   -1.0905    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    2.3551   -1.7421    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6004   -2.1486    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6521    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3680   -0.4000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2195   -2.4519    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1872   -3.7811    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0323   -4.4199    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3229   -4.4651    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3035   -5.8136    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1356   -6.4524    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7168   -1.0905    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4524   -2.6907    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+13004
+
+> <Formula>
+C11H13ClN2
+
+> <FW>
+208.6873 (173.2338+35.4535)
+
+> <DSSTox_CID>
+27905
+
+> <DSSTox_RID>
+82658
+
+> <DSSTox_GSID>
+47929
+
+> <DSSTox_FileID_Sort>
+7335
+
+> <TS_ChemName>
+1-Benzyl-3-methylimidazolium chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+36443-80-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [52461-82-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H13ClN2
+
+> <STRUCTURE_MW>
+208.6873
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+1-benzyl-3-methyl-1H-imidazol-3-ium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C[n+]2ccn(Cc1ccccc1)c2
+
+> <STRUCTURE_SMILES_Desalt>
+C[n+]2ccn(Cc1ccccc1)c2
+
+> <Substance_modify_yyyymmdd>
+20110418
+
+$$$$

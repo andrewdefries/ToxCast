@@ -1,0 +1,116 @@
+6928-67-2
+ChemmineR-0915142007XD
+
+ 22 22  0  0  0  0  0  0  0  0  1 V2000
+    3.4639   -3.3258    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3032   -3.9891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -3.3258    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -1.9991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3032   -1.3266    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639   -1.9991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6155   -3.9891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6155   -5.3157    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7487   -3.3258    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6155   -1.3266    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6155    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7487   -1.9991    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3032    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3266    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9891    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3032   -5.3157    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9095   -3.9891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0610   -3.3258    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2126   -3.9891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9095   -1.3266    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0610   -1.9991    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2126   -1.3266    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <ID>
+10371
+
+> <Formula>
+C14H14Cl4O4
+
+> <FW>
+388.0706
+
+> <DSSTox_CID>
+24719
+
+> <DSSTox_RID>
+80419
+
+> <DSSTox_GSID>
+44719
+
+> <DSSTox_FileID_Sort>
+5101
+
+> <TS_ChemName>
+Dipropyl 3,4,5,6-tetrachlorobenzene-1,2-dicarboxylate
+
+> <TS_ChemName_Synonyms>
+Dipropyl 3,4,5,6-tetrachlorobenzene-1,2-dicarboxylate (1,2-Benzenedicarboxylic acid, 3,4,5,6-tetrachloro-, dipropyl ester)
+
+> <TS_CASRN>
+6928-67-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H14Cl4O4
+
+> <STRUCTURE_MW>
+388.0706
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dipropyl 3,4,5,6-tetrachlorobenzene-1,2-dicarboxylate
+
+> <STRUCTURE_SMILES>
+Clc1c(c(c(Cl)c(Cl)c1Cl)C(=O)OCCC)C(=O)OCCC
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1c(c(c(Cl)c(Cl)c1Cl)C(=O)OCCC)C(=O)OCCC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

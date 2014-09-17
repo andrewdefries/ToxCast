@@ -1,0 +1,96 @@
+344-04-7
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.3075   -1.3292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4613   -1.9832    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4613   -3.3124    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3075   -3.9877    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -3.3124    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -1.9832    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3075    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3292    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9877    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3075   -5.3169    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6098   -3.9877    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6098   -1.3292    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+12286
+
+> <Formula>
+C6BrF5
+
+> <FW>
+246.9602
+
+> <DSSTox_CID>
+27136
+
+> <DSSTox_RID>
+82143
+
+> <DSSTox_GSID>
+47136
+
+> <DSSTox_FileID_Sort>
+6824
+
+> <TS_ChemName>
+Bromopentafluorobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+344-04-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6BrF5
+
+> <STRUCTURE_MW>
+246.9602
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromo-2,3,4,5,6-pentafluorobenzene
+
+> <STRUCTURE_SMILES>
+Fc1c(F)c(F)c(F)c(Br)c1F
+
+> <STRUCTURE_SMILES_Desalt>
+Fc1c(F)c(F)c(F)c(Br)c1F
+
+> <Substance_modify_yyyymmdd>
+20100502
+
+$$$$

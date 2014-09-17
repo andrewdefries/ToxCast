@@ -1,0 +1,90 @@
+95-78-3
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6589    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -0.6636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082   -2.6589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -2.6589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+M  END
+> <ID>
+4645
+
+> <Formula>
+C8H11N
+
+> <FW>
+121.1796
+
+> <DSSTox_CID>
+6306
+
+> <DSSTox_RID>
+78096
+
+> <DSSTox_GSID>
+26306
+
+> <DSSTox_FileID_Sort>
+2779
+
+> <TS_ChemName>
+2,5-Dimethylaniline
+
+> <TS_ChemName_Synonyms>
+2,5-Dimethylaniline (2,5-Xylidine)
+
+> <TS_CASRN>
+95-78-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H11N
+
+> <STRUCTURE_MW>
+121.1796
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,5-dimethylaniline
+
+> <STRUCTURE_SMILES>
+Cc1cc(N)c(C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(N)c(C)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

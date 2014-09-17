@@ -1,0 +1,97 @@
+370865-89-7
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  2 V2000
+    4.3495   -1.0608    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.3146   -1.7263    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5780   -2.1506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5780    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3146   -0.3954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2344   -2.5171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6611   -1.0608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3132   -2.4689    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9823   -2.4689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6514   -2.4689    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+    8.9690   -1.3116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6441   -0.1543    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  3  0  0  0  0
+M  END
+> <ID>
+13038
+
+> <Formula>
+C8H11N5
+
+> <FW>
+177.2064 (111.1644+66.0420)
+
+> <DSSTox_CID>
+27940
+
+> <DSSTox_RID>
+82692
+
+> <DSSTox_GSID>
+47964
+
+> <DSSTox_FileID_Sort>
+7369
+
+> <TS_ChemName>
+1-Ethyl-3-methylimidazolium dicyanamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+370865-89-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [65039-03-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H11N5
+
+> <STRUCTURE_MW>
+177.2064
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+1-ethyl-3-methyl-1H-imidazol-3-ium [(cyanoimino)methylidene]azanide
+
+> <STRUCTURE_SMILES>
+C[n+]1ccn(CC)c1.N#C\N=C=[N-]
+
+> <STRUCTURE_SMILES_Desalt>
+C[n+]1ccn(CC)c1
+
+> <Substance_modify_yyyymmdd>
+20110418
+
+$$$$

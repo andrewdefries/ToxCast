@@ -1,0 +1,96 @@
+7473-98-5
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.3048   -1.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524   -2.0052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4955   -0.8528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3048    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8265   -3.1576    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7620   -2.0052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7620   -3.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6096   -3.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4572   -3.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4572   -2.0052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6096   -1.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  7 12  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+10478
+
+> <Formula>
+C10H12O2
+
+> <FW>
+164.2011
+
+> <DSSTox_CID>
+24830
+
+> <DSSTox_RID>
+80511
+
+> <DSSTox_GSID>
+44830
+
+> <DSSTox_FileID_Sort>
+5193
+
+> <TS_ChemName>
+Propylene glycol diacetate
+
+> <TS_ChemName_Synonyms>
+2-Hydroxy-2-methyl-1-phenylpropan-1-one (1-Propanone, 2-hydroxy-2-methyl-1-phenyl-) (2-Hydroxy-2-methylpropiophenone)
+
+> <TS_CASRN>
+7473-98-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12O2
+
+> <STRUCTURE_MW>
+164.2011
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-hydroxy-2-methyl-1-phenylpropan-1-one
+
+> <STRUCTURE_SMILES>
+O=C(c1ccccc1)C(C)(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(c1ccccc1)C(C)(C)O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,106 @@
+62140-67-4
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    6.6420   -5.7586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3136   -5.7586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6561   -4.6096    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5070   -5.2804    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8118   -3.9520    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9852   -3.4538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6561   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9852   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6568   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9992    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6708    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9992   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6568   -3.4538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6708   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1491    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4538    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6708   -4.6096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+16186
+
+> <Formula>
+C11H14O5S
+
+> <FW>
+258.2909
+
+> <DSSTox_CID>
+31576
+
+> <DSSTox_RID>
+97461
+
+> <DSSTox_GSID>
+57787
+
+> <DSSTox_FileID_Sort>
+8528
+
+> <TS_ChemName>
+Methyl 5-(ethylsulfonyl)-o-anisate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+62140-67-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H14O5S
+
+> <STRUCTURE_MW>
+258.2909
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 5-(ethylsulfonyl)-2-methoxybenzoate
+
+> <STRUCTURE_SMILES>
+O=S(=O)(CC)c1cc(c(OC)cc1)C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(CC)c1cc(c(OC)cc1)C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

@@ -1,0 +1,91 @@
+1067-25-0
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    3.5037   -2.6964    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6646   -2.0315    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3217   -0.6965    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5037    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1609   -2.6964    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0157    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3217   -2.0315    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3376   -3.2610    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2084   -3.9364    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2242   -5.2766    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+9400
+
+> <Formula>
+C6H16O3Si
+
+> <FW>
+164.2749
+
+> <DSSTox_CID>
+22494
+
+> <DSSTox_RID>
+80038
+
+> <DSSTox_GSID>
+42494
+
+> <DSSTox_FileID_Sort>
+4720
+
+> <TS_ChemName>
+Trimethoxypropylsilane
+
+> <TS_ChemName_Synonyms>
+n-Propyltrimethoxysilane
+
+> <TS_CASRN>
+1067-25-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H16O3Si
+
+> <STRUCTURE_MW>
+164.2749
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+trimethoxy(propyl)silane
+
+> <STRUCTURE_SMILES>
+CO[Si](CCC)(OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CO[Si](CCC)(OC)OC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

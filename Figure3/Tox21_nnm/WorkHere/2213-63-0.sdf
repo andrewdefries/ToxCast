@@ -1,0 +1,97 @@
+2213-63-0
+ChemmineR-0915142007XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    5.7584   -2.6604    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6067   -1.9982    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4551   -2.6604    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3034   -1.9982    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -2.6604    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9982    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3034   -0.6680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4551    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6067   -0.6680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7584    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+3969
+
+> <Formula>
+C8H4Cl2N2
+
+> <FW>
+199.0368
+
+> <DSSTox_CID>
+5013
+
+> <DSSTox_RID>
+77627
+
+> <DSSTox_GSID>
+25013
+
+> <DSSTox_FileID_Sort>
+2310
+
+> <TS_ChemName>
+2,3-Dichloroquinoxaline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2213-63-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H4Cl2N2
+
+> <STRUCTURE_MW>
+199.0368
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,3-dichloroquinoxaline
+
+> <STRUCTURE_SMILES>
+Clc1nc2ccccc2nc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1nc2ccccc2nc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

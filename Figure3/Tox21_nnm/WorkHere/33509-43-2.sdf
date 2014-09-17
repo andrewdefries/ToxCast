@@ -1,0 +1,98 @@
+33509-43-2
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    3.4571   -3.3175    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4571   -4.6471    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3069   -5.3186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568   -4.6471    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568   -3.3175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3069   -2.6593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6593    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3186    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3069   -1.3297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9773   -1.3297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6366   -1.3297    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3069    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3069   -6.6483    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <ID>
+5555
+
+> <Formula>
+C7H12N4OS
+
+> <FW>
+200.2614
+
+> <DSSTox_CID>
+7981
+
+> <DSSTox_RID>
+78630
+
+> <DSSTox_GSID>
+27981
+
+> <DSSTox_FileID_Sort>
+3312
+
+> <TS_ChemName>
+1,2,4-Triazin-5(2H)-one, 4-amino-6-(1,1-dimethylethyl)-3,4-dihydro-3-thioxo-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+33509-43-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H12N4OS
+
+> <STRUCTURE_MW>
+200.2614
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-6-tert-butyl-3-thioxo-3,4-dihydro-1,2,4-triazin-5(2H)-one
+
+> <STRUCTURE_SMILES>
+O=C1N(N)C(=S)NN=C1C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1N(N)C(=S)NN=C1C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

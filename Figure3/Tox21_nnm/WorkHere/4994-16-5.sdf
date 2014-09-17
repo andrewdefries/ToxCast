@@ -1,0 +1,97 @@
+4994-16-5
+ChemmineR-0915142007XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    6.6447   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9736   -2.3057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6447   -2.3057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9868   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6447    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9736    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6578   -2.3057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6578    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6579   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9868   -2.3057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7 12  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+12323
+
+> <Formula>
+C12H14
+
+> <FW>
+158.2396
+
+> <DSSTox_CID>
+27176
+
+> <DSSTox_RID>
+82173
+
+> <DSSTox_GSID>
+47176
+
+> <DSSTox_FileID_Sort>
+6854
+
+> <TS_ChemName>
+4-Phenyl-1-cyclohexene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4994-16-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H14
+
+> <STRUCTURE_MW>
+158.2396
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+cyclohex-3-en-1-ylbenzene
+
+> <STRUCTURE_SMILES>
+c1cc(ccc1)C2CC=CCC2
+
+> <STRUCTURE_SMILES_Desalt>
+c1cc(ccc1)C2CC=CCC2
+
+> <Substance_modify_yyyymmdd>
+20100503
+
+$$$$

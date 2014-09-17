@@ -1,0 +1,90 @@
+104-91-6
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6638   -1.1542    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9915   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6554    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9890    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6529   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9806   -1.1542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9890   -2.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6554   -2.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+4492
+
+> <Formula>
+C6H5NO2
+
+> <FW>
+123.1094
+
+> <DSSTox_CID>
+5991
+
+> <DSSTox_RID>
+77981
+
+> <DSSTox_GSID>
+25991
+
+> <DSSTox_FileID_Sort>
+2664
+
+> <TS_ChemName>
+4-Nitrosophenol
+
+> <TS_ChemName_Synonyms>
+4-Nitrosophenol (p-Quinone monoxime)
+
+> <TS_CASRN>
+104-91-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H5NO2
+
+> <STRUCTURE_MW>
+123.1094
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-nitrosophenol
+
+> <STRUCTURE_SMILES>
+O=Nc1ccc(O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=Nc1ccc(O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,98 @@
+20098-14-0
+ChemmineR-0915142007XD
+
+ 12 14  0  0  0  0  0  0  0  0  1 V2000
+    1.7647    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9222   -1.9563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0433   -2.6776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5624   -2.0704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0433   -0.9944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5624   -0.6236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9222   -0.6725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3434   -3.1259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8136   -2.5676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0755   -0.0163    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0922   -4.0103    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  7 11  2  0  0  0  0
+M  END
+> <ID>
+11806
+
+> <Formula>
+C10H14O2
+
+> <FW>
+166.217
+
+> <DSSTox_CID>
+26581
+
+> <DSSTox_RID>
+81740
+
+> <DSSTox_GSID>
+46581
+
+> <DSSTox_FileID_Sort>
+6421
+
+> <TS_ChemName>
+Idramantone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+20098-14-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14O2
+
+> <STRUCTURE_MW>
+166.217
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-hydroxytricyclo[3.3.1.1~3,7~]decan-2-one
+
+> <STRUCTURE_SMILES>
+O=C3C1CC2CC(O)(C1)CC3C2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C3C1CC2CC(O)(C1)CC3C2
+
+> <Substance_modify_yyyymmdd>
+20110810
+
+$$$$

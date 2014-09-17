@@ -1,0 +1,92 @@
+5930-28-9
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    2.2931   -1.3332    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2931    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4396   -1.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1465   -1.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1465   -3.3329    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4396   -3.3329    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2931   -3.9995    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2931   -5.3327    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6128   -1.3332    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3598    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+7916
+
+> <Formula>
+C6H5Cl2NO
+
+> <FW>
+178.016
+
+> <DSSTox_CID>
+20720
+
+> <DSSTox_RID>
+79567
+
+> <DSSTox_GSID>
+40720
+
+> <DSSTox_FileID_Sort>
+4249
+
+> <TS_ChemName>
+4-Amino-2,6-dichlorophenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5930-28-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H5Cl2NO
+
+> <STRUCTURE_MW>
+178.016
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-2,6-dichlorophenol
+
+> <STRUCTURE_SMILES>
+Clc1cc(N)cc(Cl)c1O
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(N)cc(Cl)c1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

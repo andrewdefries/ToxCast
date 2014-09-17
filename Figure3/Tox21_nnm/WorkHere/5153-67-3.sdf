@@ -1,0 +1,94 @@
+5153-67-3
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  2 V2000
+    3.4408   -3.9793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4408   -5.3257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6076   -5.9839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7446   -5.3257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7446   -3.9793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6076   -3.3211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3038   -3.3211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3038   -2.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1369   -1.3165    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0046    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1369    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+1235
+
+> <Formula>
+C8H7NO2
+
+> <FW>
+149.1467
+
+> <DSSTox_CID>
+1285
+
+> <DSSTox_RID>
+79057
+
+> <DSSTox_GSID>
+33247
+
+> <DSSTox_FileID_Sort>
+3739
+
+> <TS_ChemName>
+(E)-beta-Nitrostyrene
+
+> <TS_ChemName_Synonyms>
+beta-Nitrostyrene
+
+> <TS_CASRN>
+5153-67-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H7NO2
+
+> <STRUCTURE_MW>
+149.1467
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+[(E)-2-nitroethenyl]benzene
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)/C=C/c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)/C=C/c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

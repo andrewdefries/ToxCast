@@ -1,0 +1,96 @@
+42228-92-2
+ChemmineR-0915142007XD
+
+ 12 12  0  0  1  0  0  0  0  0  1 V2000
+    3.6557   -1.7689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7294   -0.9744    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0467   -3.0723    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8156   -1.7689    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4122   -3.0723    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3399   -1.3655    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2066   -4.1584    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3399    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1855   -2.0482    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1855   -3.3950    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3655    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9109   -2.5013    0.0000 H    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  6  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  1  0  0  0
+  6  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+11354
+
+> <Formula>
+C5H7ClN2O3
+
+> <FW>
+178.5737
+
+> <DSSTox_CID>
+26010
+
+> <DSSTox_RID>
+81286
+
+> <DSSTox_GSID>
+46010
+
+> <DSSTox_FileID_Sort>
+5967
+
+> <TS_ChemName>
+Acivicin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+42228-92-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H7ClN2O3
+
+> <STRUCTURE_MW>
+178.5737
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2S)-amino[(5S)-3-chloro-4,5-dihydro-1,2-oxazol-5-yl]acetic acid
+
+> <STRUCTURE_SMILES>
+N[C@H](C(=O)O)[C@@H]1CC(Cl)=NO1
+
+> <STRUCTURE_SMILES_Desalt>
+N[C@H](C(=O)O)[C@@H]1CC(Cl)=NO1
+
+> <Substance_modify_yyyymmdd>
+20110824
+
+$$$$

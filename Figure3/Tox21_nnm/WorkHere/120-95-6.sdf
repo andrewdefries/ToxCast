@@ -1,0 +1,106 @@
+120-95-6
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    2.0046   -1.3409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0046    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1779   -2.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8515   -2.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8515   -3.3589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1779   -3.3589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0046   -4.0294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3378   -1.3409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0082   -2.4940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3424   -2.4940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7813   -0.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4976   -0.6704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0046   -5.3635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6704   -5.3635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.2104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3589   -5.3635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0046   -6.7044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+4872
+
+> <Formula>
+C16H26O
+
+> <FW>
+234.377
+
+> <DSSTox_CID>
+6974
+
+> <DSSTox_RID>
+78270
+
+> <DSSTox_GSID>
+26974
+
+> <DSSTox_FileID_Sort>
+2953
+
+> <TS_ChemName>
+2,4-Bis(2-methylbutan-2-yl)phenol
+
+> <TS_ChemName_Synonyms>
+2,4-Bis(2-methylbutan-2-yl)phenol (Phenol, 2,4-bis(1,1-dimethylpropyl)-) (2,4-Di-tert-amylphenol)
+
+> <TS_CASRN>
+120-95-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H26O
+
+> <STRUCTURE_MW>
+234.377
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-bis(2-methylbutan-2-yl)phenol
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1C(C)(C)CC)C(C)(C)CC
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1C(C)(C)CC)C(C)(C)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

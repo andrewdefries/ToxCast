@@ -1,0 +1,111 @@
+1824-58-4
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    5.6252   -1.2571    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5038   -1.9082    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1486   -1.1938    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7647   -1.8901    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2790   -1.8901    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5038   -3.2105    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4095   -1.2571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6252   -3.8707    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2790   -3.2105    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4095   -3.8707    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7647   -3.2105    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6666   -0.0543    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4572    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8178   -0.0814    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4431   -2.3242    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.5245    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1486   -3.8979    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8952   -3.8979    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.0437   -3.2829    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 12  2  0  0  0  0
+  1 13  2  0  0  0  0
+  2  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 14  2  0  0  0  0
+  3 15  2  0  0  0  0
+  3 16  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+11510
+
+> <Formula>
+C9H12ClN3O4S2
+
+> <FW>
+325.7923
+
+> <DSSTox_CID>
+26215
+
+> <DSSTox_RID>
+81443
+
+> <DSSTox_GSID>
+46215
+
+> <DSSTox_FileID_Sort>
+6124
+
+> <TS_ChemName>
+Ethiazide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1824-58-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12ClN3O4S2
+
+> <STRUCTURE_MW>
+325.7923
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-chloro-3-ethyl-3,4-dihydro-2H-1,2,4-benzothiadiazine-7-sulfonamide 1,1-dioxide
+
+> <STRUCTURE_SMILES>
+NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)CC)cc2Cl
+
+> <STRUCTURE_SMILES_Desalt>
+NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)CC)cc2Cl
+
+> <Substance_modify_yyyymmdd>
+20110817
+
+$$$$

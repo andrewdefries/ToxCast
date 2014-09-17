@@ -1,0 +1,90 @@
+8021-39-4
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    3.9905   -1.1501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6563   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -3.4550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -3.4550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6659   -2.3049    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -1.1501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+2795
+
+> <Formula>
+C7H8O2
+
+> <FW>
+124.1372
+
+> <DSSTox_CID>
+3113
+
+> <DSSTox_RID>
+77552
+
+> <DSSTox_GSID>
+24853
+
+> <DSSTox_FileID_Sort>
+2235
+
+> <TS_ChemName>
+Creosote, wood
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+8021-39-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+composed chiefly of guaiacol [90-05-1] and cresol [93-51-6]; structure shown guaiacol
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C7H8O2
+
+> <STRUCTURE_MW>
+124.1372
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methoxyphenol
+
+> <STRUCTURE_SMILES>
+Oc1ccccc1OC
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccccc1OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,95 @@
+90-15-3
+ChemmineR-0915142007XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    3.4555    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073   -3.3265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -3.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -3.3265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -3.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+1693
+
+> <Formula>
+C10H8O
+
+> <FW>
+144.1699
+
+> <DSSTox_CID>
+1793
+
+> <DSSTox_RID>
+76330
+
+> <DSSTox_GSID>
+21793
+
+> <DSSTox_FileID_Sort>
+1014
+
+> <TS_ChemName>
+1-Naphthol
+
+> <TS_ChemName_Synonyms>
+1-naphthalenol
+
+> <TS_CASRN>
+90-15-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H8O
+
+> <STRUCTURE_MW>
+144.1699
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+naphthalen-1-ol
+
+> <STRUCTURE_SMILES>
+Oc2cccc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2cccc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

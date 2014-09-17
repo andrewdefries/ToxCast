@@ -1,0 +1,111 @@
+463-40-1
+ChemmineR-0915142007XD
+
+ 20 19  0  0  0  0  0  0  0  0  1 V2000
+    1.1516   -1.3288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3033   -1.9996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4549   -1.3288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066   -1.9996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7582   -1.3288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8972   -1.9996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0488   -1.3288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2005   -1.9996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3521   -1.3288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5038   -1.9996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5038   -3.3284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6554   -3.9865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6554   -5.3153    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5038   -5.9860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5038   -7.3148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3521   -7.9729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2005   -7.3148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0488   -7.9729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9996    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 20  1  0  0  0  0
+  1 19  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+4237
+
+> <Formula>
+C18H30O2
+
+> <FW>
+278.4296
+
+> <DSSTox_CID>
+5506
+
+> <DSSTox_RID>
+77815
+
+> <DSSTox_GSID>
+25506
+
+> <DSSTox_FileID_Sort>
+2498
+
+> <TS_ChemName>
+Linolenic acid
+
+> <TS_ChemName_Synonyms>
+Linolenic acid ((9Z,12Z,15Z)-Octadeca-9,12,15-trienoic acid)
+
+> <TS_CASRN>
+463-40-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H30O2
+
+> <STRUCTURE_MW>
+278.4296
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(9Z,12Z,15Z)-octadeca-9,12,15-trienoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCCCCCC/C=C\C/C=C\C/C=C\CC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCCCCCC/C=C\C/C=C\C/C=C\CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

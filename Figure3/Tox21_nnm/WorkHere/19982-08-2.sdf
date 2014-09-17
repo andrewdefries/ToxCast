@@ -1,0 +1,100 @@
+19982-08-2
+ChemmineR-0915142007XD
+
+ 13 15  0  0  0  0  0  0  0  0  1 V2000
+    2.2805   -0.8843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5015   -2.9897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9876   -3.0930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4814   -3.7394    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9876   -1.5622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5015   -1.5802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3119   -3.6047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4814   -1.9528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8910   -4.2152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3906   -4.2152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2805    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4891   -3.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+M  END
+> <ID>
+10793
+
+> <Formula>
+C12H21N
+
+> <FW>
+179.3018
+
+> <DSSTox_CID>
+25174
+
+> <DSSTox_RID>
+80723
+
+> <DSSTox_GSID>
+45174
+
+> <DSSTox_FileID_Sort>
+5404
+
+> <TS_ChemName>
+Memantine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+19982-08-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H21N
+
+> <STRUCTURE_MW>
+179.3018
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5-dimethyltricyclo[3.3.1.1~3,7~]decan-1-amine
+
+> <STRUCTURE_SMILES>
+CC13CC2(C)CC(N)(C1)CC(C2)C3
+
+> <STRUCTURE_SMILES_Desalt>
+CC13CC2(C)CC(N)(C1)CC(C2)C3
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

@@ -1,0 +1,111 @@
+61213-25-0
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    4.3380   -3.4667    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5519   -4.5275    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5519   -2.3774    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2732   -4.1107    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2732   -2.7752    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9497   -5.7872    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2029   -4.9064    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2029   -2.0080    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.5574    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6641   -3.4667    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3366   -2.3016    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3366   -4.6033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6626   -2.3016    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6626   -4.6033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3351   -3.4667    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3351   -1.1650    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9887    0.0000    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1701   -0.4736    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    9.4717   -1.7996    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+M  END
+> <ID>
+8922
+
+> <Formula>
+C12H10Cl2F3NO
+
+> <FW>
+312.1151
+
+> <DSSTox_CID>
+21987
+
+> <DSSTox_RID>
+79897
+
+> <DSSTox_GSID>
+41987
+
+> <DSSTox_FileID_Sort>
+4579
+
+> <TS_ChemName>
+Flurochloridone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+61213-25-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10Cl2F3NO
+
+> <STRUCTURE_MW>
+312.1151
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-chloro-4-(chloromethyl)-1-[3-(trifluoromethyl)phenyl]pyrrolidin-2-one
+
+> <STRUCTURE_SMILES>
+FC(F)(F)c1cccc(c1)N2CC(CCl)C(Cl)C2=O
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)(F)c1cccc(c1)N2CC(CCl)C(Cl)C2=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

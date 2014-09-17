@@ -1,0 +1,79 @@
+106-95-6
+ChemmineR-0915142007XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -0.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575   -0.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+M  END
+> <ID>
+3675
+
+> <Formula>
+C3H5Br
+
+> <FW>
+120.9758
+
+> <DSSTox_CID>
+4442
+
+> <DSSTox_RID>
+77398
+
+> <DSSTox_GSID>
+24442
+
+> <DSSTox_FileID_Sort>
+2081
+
+> <TS_ChemName>
+Allyl bromide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+106-95-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H5Br
+
+> <STRUCTURE_MW>
+120.9758
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-bromoprop-1-ene
+
+> <STRUCTURE_SMILES>
+BrCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+BrCC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

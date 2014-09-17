@@ -1,0 +1,89 @@
+645-62-5
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3033   -0.6571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3033   -1.9851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -2.6560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4584    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6135   -0.6709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7616    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9167   -0.6709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  2  3  0  0  0
+  4  5  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4124
+
+> <Formula>
+C8H14O
+
+> <FW>
+126.1962
+
+> <DSSTox_CID>
+5295
+
+> <DSSTox_RID>
+77731
+
+> <DSSTox_GSID>
+25296
+
+> <DSSTox_FileID_Sort>
+2414
+
+> <TS_ChemName>
+2-Ethyl-2-hexenal
+
+> <TS_ChemName_Synonyms>
+2-Ethyl-2-hexenal (cis- and trans- mixture)
+
+> <TS_CASRN>
+645-62-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C8H14O
+
+> <STRUCTURE_MW>
+126.1962
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethylhex-2-enal
+
+> <STRUCTURE_SMILES>
+CCC(=CCCC)C=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(=CCCC)C=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

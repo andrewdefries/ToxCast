@@ -1,0 +1,83 @@
+558-37-2
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.4700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6742   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0060   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3378   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0060    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0060   -2.6636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+> <ID>
+4999
+
+> <Formula>
+C6H12
+
+> <FW>
+84.1595
+
+> <DSSTox_CID>
+7211
+
+> <DSSTox_RID>
+78351
+
+> <DSSTox_GSID>
+27211
+
+> <DSSTox_FileID_Sort>
+3034
+
+> <TS_ChemName>
+3,3-Dimethyl-1-butene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+558-37-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12
+
+> <STRUCTURE_MW>
+84.1595
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3-dimethylbut-1-ene
+
+> <STRUCTURE_SMILES>
+C=CC(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

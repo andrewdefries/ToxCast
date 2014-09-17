@@ -1,0 +1,107 @@
+91648-24-7
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    5.7394   -5.7624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9011   -5.0953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3950   -6.9011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6007   -6.4295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0838   -4.6237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4505   -5.7624    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7624   -3.4620    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7394   -8.0512    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0397   -5.7624    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2889   -6.4180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1502   -5.7624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.4180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1899   -5.0838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3516   -5.7624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5018   -5.0838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0838   -2.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7624   -1.1502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0838    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 16  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+10234
+
+> <Formula>
+C14H24O4
+
+> <FW>
+256.338
+
+> <DSSTox_CID>
+24580
+
+> <DSSTox_RID>
+80328
+
+> <DSSTox_GSID>
+44580
+
+> <DSSTox_FileID_Sort>
+5010
+
+> <TS_ChemName>
+Pentaerythritol allyl ether
+
+> <TS_ChemName_Synonyms>
+Pentaerythritol allyl ether (1,3-Propanediol, 2,2-bis(hydroxymethyl)-, allyl ether)
+
+> <TS_CASRN>
+91648-24-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of di- [2590-16-1] (4-16%) , tri- [1471-17-6] (75-84%) and tetra-allyl [1471-18-7] (5-12%) ethers; structure shown triallyl ether [1471-17-6]
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C14H24O4
+
+> <STRUCTURE_MW>
+256.338
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(prop-2-en-1-yloxy)-2,2-bis[(prop-2-en-1-yloxy)methyl]propan-1-ol
+
+> <STRUCTURE_SMILES>
+C=CCOCC(COCC=C)(CO)COCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+C=CCOCC(COCC=C)(CO)COCC=C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

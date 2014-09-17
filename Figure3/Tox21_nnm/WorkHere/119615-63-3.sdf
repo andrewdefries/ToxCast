@@ -1,0 +1,113 @@
+119615-63-3
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    5.0541   -5.9841    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7617    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6094   -0.6671    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6094   -1.9913    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570   -2.6585    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3047   -1.9913    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -2.6585    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3256    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3047   -0.6671    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7617   -2.6585    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9140   -1.9913    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0664   -2.6585    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3299   -2.2440    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.1082   -3.3256    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3299   -4.3971    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0664   -3.9928    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9140   -4.6498    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7617   -3.9928    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  3  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <ID>
+11218
+
+> <Formula>
+C14H11ClN4O
+
+> <FW>
+286.7163 (36.4609+250.2554)
+
+> <DSSTox_CID>
+25813
+
+> <DSSTox_RID>
+81150
+
+> <DSSTox_GSID>
+45813
+
+> <DSSTox_FileID_Sort>
+5831
+
+> <TS_ChemName>
+Olprinone hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+119615-63-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [106730-54-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H11ClN4O
+
+> <STRUCTURE_MW>
+286.7163
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+5-(imidazo[1,2-a]pyridin-6-yl)-6-methyl-2-oxo-1,2-dihydropyridine-3-carbonitrile hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.N#CC3=CC(c1ccc2nccn2c1)=C(C)NC3=O
+
+> <STRUCTURE_SMILES_Desalt>
+N#CC3=CC(c1ccc2nccn2c1)=C(C)NC3=O
+
+> <Substance_modify_yyyymmdd>
+20110909
+
+$$$$

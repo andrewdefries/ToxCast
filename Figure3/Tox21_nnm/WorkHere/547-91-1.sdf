@@ -1,0 +1,105 @@
+547-91-1
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    3.4584   -6.6507    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4584   -5.3205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3078   -4.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1506   -5.3205    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1506   -2.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3078   -3.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4584   -2.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6156   -3.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6156   -4.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7528   -5.3205    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4584   -1.3301    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1282   -1.3301    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4584    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7885   -1.3301    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 16  2  0  0  0  0
+M  END
+> <ID>
+11437
+
+> <Formula>
+C9H6INO4S
+
+> <FW>
+351.1177
+
+> <DSSTox_CID>
+26136
+
+> <DSSTox_RID>
+81369
+
+> <DSSTox_GSID>
+46136
+
+> <DSSTox_FileID_Sort>
+6050
+
+> <TS_ChemName>
+Loretin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+547-91-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H6INO4S
+
+> <STRUCTURE_MW>
+351.1177
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+8-hydroxy-7-iodoquinoline-5-sulfonic acid
+
+> <STRUCTURE_SMILES>
+O=S(=O)(O)c1cc(I)c(O)c2ncccc12
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)c1cc(I)c(O)c2ncccc12
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

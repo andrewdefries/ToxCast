@@ -1,0 +1,103 @@
+629-72-1
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -8.0601    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3306   -8.0601    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9883   -6.9130    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3189   -6.9130    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9918   -5.7507    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3224   -5.7507    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9801   -4.6036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3107   -4.6036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9836   -3.4565    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3143   -3.4565    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9719   -2.2942    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.3025   -2.2942    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.9755   -1.1471    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.3061   -1.1471    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.9637    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   15.2943    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+14203
+
+> <Formula>
+C15H31Br
+
+> <FW>
+291.3106
+
+> <DSSTox_CID>
+29296
+
+> <DSSTox_RID>
+83414
+
+> <DSSTox_GSID>
+49339
+
+> <DSSTox_FileID_Sort>
+8089
+
+> <TS_ChemName>
+Pentadecane,1-bromo-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+629-72-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H31Br
+
+> <STRUCTURE_MW>
+291.3106
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromopentadecane
+
+> <STRUCTURE_SMILES>
+BrCCCCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+BrCCCCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

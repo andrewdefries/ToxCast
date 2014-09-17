@@ -1,0 +1,91 @@
+673-84-7
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1422   -0.6757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3006    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4589   -0.6757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6173    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7595   -0.6757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9017    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0440   -0.6757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1422   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7595   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+5051
+
+> <Formula>
+C10H16
+
+> <FW>
+136.234
+
+> <DSSTox_CID>
+7288
+
+> <DSSTox_RID>
+78388
+
+> <DSSTox_GSID>
+27288
+
+> <DSSTox_FileID_Sort>
+3071
+
+> <TS_ChemName>
+2,6-Dimethyl-2,4,6-octatriene
+
+> <TS_ChemName_Synonyms>
+2,4,6-Octatriene, 2,6-dimethyl-
+
+> <TS_CASRN>
+673-84-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of Z,Z [17202-20-9]; E,E [3016-19-1]; Z,E [7216-56-0] isomers, structure shown E,E; stereochem
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C10H16
+
+> <STRUCTURE_MW>
+136.234
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(4E,6E)-2,6-dimethylocta-2,4,6-triene
+
+> <STRUCTURE_SMILES>
+C\C(C)=C\C=C\C(\C)=C\C
+
+> <STRUCTURE_SMILES_Desalt>
+C\C(C)=C\C=C\C(\C)=C\C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

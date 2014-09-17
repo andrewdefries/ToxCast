@@ -1,0 +1,101 @@
+101-55-3
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6721    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0486   -0.6680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0486   -1.9960    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8976    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8976   -2.6721    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7467   -0.6680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7467   -1.9960    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4367   -0.6680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4367   -1.9960    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -2.6721    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1509   -0.6680    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1509   -1.9960    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5957    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+3429
+
+> <Formula>
+C12H9BrO
+
+> <FW>
+249.1033
+
+> <DSSTox_CID>
+3927
+
+> <DSSTox_RID>
+77232
+
+> <DSSTox_GSID>
+23927
+
+> <DSSTox_FileID_Sort>
+1915
+
+> <TS_ChemName>
+p-Bromodiphenyl ether
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+101-55-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H9BrO
+
+> <STRUCTURE_MW>
+249.1033
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromo-4-phenoxybenzene
+
+> <STRUCTURE_SMILES>
+Brc2ccc(Oc1ccccc1)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Brc2ccc(Oc1ccccc1)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

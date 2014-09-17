@@ -1,0 +1,109 @@
+3615-24-5
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    6.1009   -3.1172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8426   -3.5176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8807   -1.3441    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0323   -2.4213    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1009   -1.7826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2353   -3.6701    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4136   -4.8140    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7264   -2.4213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5090    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1209   -1.0867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3602   -3.0314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0209   -1.2869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0400   -3.5748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5327   -3.6892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3602   -1.6873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6768   -3.5748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6864   -1.2869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 17  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+11286
+
+> <Formula>
+C14H19N3O
+
+> <FW>
+245.3202
+
+> <DSSTox_CID>
+25906
+
+> <DSSTox_RID>
+81218
+
+> <DSSTox_GSID>
+45906
+
+> <DSSTox_FileID_Sort>
+5899
+
+> <TS_ChemName>
+Ramifenazone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3615-24-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H19N3O
+
+> <STRUCTURE_MW>
+245.3202
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,5-dimethyl-2-phenyl-4-(propan-2-ylamino)-1,2-dihydro-3H-pyrazol-3-one
+
+> <STRUCTURE_SMILES>
+CC(C)NC=2C(=O)N(c1ccccc1)N(C)C=2C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)NC=2C(=O)N(c1ccccc1)N(C)C=2C
+
+> <Substance_modify_yyyymmdd>
+20110922
+
+$$$$

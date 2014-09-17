@@ -1,0 +1,104 @@
+7296-30-2
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    1.1539   -1.9839    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3057    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2876   -1.3057    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4719   -1.9839    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6258   -1.3057    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2876    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3325   -3.7249    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   10.1221   -2.6520    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3325   -1.5790    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0875   -1.9839    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0875   -3.2998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9235   -1.3057    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7696   -1.9839    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7696   -3.2998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9235   -3.9679    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9759   -3.2998    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+13829
+
+> <Formula>
+C11H17ClN2O2
+
+> <FW>
+244.7179 (208.2569+36.4609)
+
+> <DSSTox_CID>
+28766
+
+> <DSSTox_RID>
+83035
+
+> <DSSTox_GSID>
+48840
+
+> <DSSTox_FileID_Sort>
+7712
+
+> <TS_ChemName>
+Safrazine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7296-30-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H17ClN2O2
+
+> <STRUCTURE_MW>
+244.7179
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+[4-(1,3-benzodioxol-5-yl)butan-2-yl]hydrazine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CC(NN)CCc1ccc2OCOc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(NN)CCc1ccc2OCOc2c1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

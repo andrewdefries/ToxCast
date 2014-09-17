@@ -1,0 +1,116 @@
+63-56-9
+ChemmineR-0915142007XD
+
+ 22 22  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -5.7536    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6594   -4.6050    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9888   -4.6050    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -3.4458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -3.4458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6582   -4.6050    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -5.7536    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -5.7536    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9876   -4.6050    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6470   -3.4458    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9764   -3.4458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6464   -2.2972    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9652   -2.2972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6352   -3.4458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9652   -4.6050    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6464   -4.6050    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9876   -2.2972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6582   -2.2972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -1.1486    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -1.1486    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6582    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9876   -7.0830    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+M  END
+> <ID>
+4568
+
+> <Formula>
+C16H23ClN4O
+
+> <FW>
+322.8330 (286.3721+36.4609)
+
+> <DSSTox_CID>
+6147
+
+> <DSSTox_RID>
+78035
+
+> <DSSTox_GSID>
+26147
+
+> <DSSTox_FileID_Sort>
+2718
+
+> <TS_ChemName>
+Thonzylamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+63-56-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [91-85-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H23ClN4O
+
+> <STRUCTURE_MW>
+322.833
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-(4-methoxybenzyl)-N',N'-dimethyl-N-(pyrimidin-2-yl)ethane-1,2-diamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.COc1ccc(cc1)CN(CCN(C)C)c2ncccn2
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(cc1)CN(CCN(C)C)c2ncccn2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

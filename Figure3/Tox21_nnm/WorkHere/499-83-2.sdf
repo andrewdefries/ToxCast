@@ -1,0 +1,96 @@
+499-83-2
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    3.4541   -2.6597    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3004   -1.9896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -2.6597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -3.9861    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9896    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3004   -0.6632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4541    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6078   -0.6632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6078   -1.9896    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7546   -2.6597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7546   -3.9861    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9082   -1.9896    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+1889
+
+> <Formula>
+C7H5NO4
+
+> <FW>
+167.1189
+
+> <DSSTox_CID>
+2043
+
+> <DSSTox_RID>
+76466
+
+> <DSSTox_GSID>
+22043
+
+> <DSSTox_FileID_Sort>
+1150
+
+> <TS_ChemName>
+2,6-Pyridinedicarboxylic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+499-83-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H5NO4
+
+> <STRUCTURE_MW>
+167.1189
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pyridine-2,6-dicarboxylic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1cccc(n1)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1cccc(n1)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

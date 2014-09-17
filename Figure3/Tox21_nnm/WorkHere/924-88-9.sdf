@@ -1,0 +1,99 @@
+924-88-9
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    3.4385   -1.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5744   -2.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7102   -1.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8874   -2.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4385    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -2.0032    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8874   -3.2940    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0232   -1.3011    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1668   -1.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1668    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1900   -2.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3259   -1.3011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1900   -3.2940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+10392
+
+> <Formula>
+C10H18O4
+
+> <FW>
+202.2475
+
+> <DSSTox_CID>
+24740
+
+> <DSSTox_RID>
+80435
+
+> <DSSTox_GSID>
+44740
+
+> <DSSTox_FileID_Sort>
+5117
+
+> <TS_ChemName>
+Dipropan-2-yl butanedioate
+
+> <TS_ChemName_Synonyms>
+Dipropan-2-yl butanedioate (Butanedioic acid, bis(1-methylethyl) ester)
+
+> <TS_CASRN>
+924-88-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O4
+
+> <STRUCTURE_MW>
+202.2475
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dipropan-2-yl butanedioate
+
+> <STRUCTURE_SMILES>
+CC(C)OC(=O)CCC(=O)OC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)OC(=O)CCC(=O)OC(C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

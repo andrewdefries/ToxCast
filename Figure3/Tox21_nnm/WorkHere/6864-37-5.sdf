@@ -1,0 +1,107 @@
+6864-37-5
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    8.0604   -1.9990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9089   -2.6622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7667   -1.9990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7667   -0.6725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9089    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0604   -0.6725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2119   -2.6622    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9089   -3.9888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -1.9990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -0.6725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3030    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4637   -0.6725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4637   -1.9990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3030   -2.6622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6622    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6152    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+6119
+
+> <Formula>
+C15H30N2
+
+> <FW>
+238.4121
+
+> <DSSTox_CID>
+9670
+
+> <DSSTox_RID>
+78803
+
+> <DSSTox_GSID>
+29670
+
+> <DSSTox_FileID_Sort>
+3485
+
+> <TS_ChemName>
+4,4'-Methylenebis(2-methylcyclohexanamine)
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6864-37-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H30N2
+
+> <STRUCTURE_MW>
+238.4121
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-methanediylbis(2-methylcyclohexanamine)
+
+> <STRUCTURE_SMILES>
+CC2CC(CC1CCC(N)C(C)C1)CCC2N
+
+> <STRUCTURE_SMILES_Desalt>
+CC2CC(CC1CCC(N)C(C)C1)CCC2N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

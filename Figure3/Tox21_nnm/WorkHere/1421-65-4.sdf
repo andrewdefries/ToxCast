@@ -1,0 +1,103 @@
+1421-65-4
+ChemmineR-0915142007XD
+
+ 16 15  0  0  1  0  0  0  0  0  1 V2000
+    3.4646   -1.9956    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3190   -1.3396    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1641   -1.9956    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1641   -3.3260    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9912    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3005   -3.9912    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4646   -3.3168    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3396    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7651   -3.3260    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2390   -1.3396    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0841   -1.9956    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9385    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9200   -1.3396    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7651   -1.9956    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6195   -1.3396    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5456   -4.3331    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+ 14  9  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+11173
+
+> <Formula>
+C10H14ClNO4
+
+> <FW>
+247.6755 (211.2145+36.4609)
+
+> <DSSTox_CID>
+25763
+
+> <DSSTox_RID>
+81105
+
+> <DSSTox_GSID>
+45763
+
+> <DSSTox_FileID_Sort>
+5786
+
+> <TS_ChemName>
+Methyl L-DOPA hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1421-65-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [7101-51-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14ClNO4
+
+> <STRUCTURE_MW>
+247.6755
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+methyl 3-hydroxy-L-tyrosinate hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Oc1ccc(C[C@H](N)C(=O)OC)cc1O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(C[C@H](N)C(=O)OC)cc1O
+
+> <Substance_modify_yyyymmdd>
+20110826
+
+$$$$

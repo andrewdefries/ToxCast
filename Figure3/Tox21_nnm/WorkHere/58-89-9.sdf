@@ -1,0 +1,96 @@
+58-89-9
+ChemmineR-0915142007XD
+
+ 12 12  0  0  1  0  0  0  0  0  1 V2000
+    1.1740   -3.2945    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1740   -1.9830    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3215   -3.9555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9766    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3215   -1.3273    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3009    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4425   -3.2945    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3215   -5.2881    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4425   -1.9830    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3215    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6165   -3.9766    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6165   -1.3009    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  1  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  6  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  1  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  1  0  0  0
+  7 11  1  6  0  0  0
+  7  9  1  0  0  0  0
+  9 12  1  1  0  0  0
+M  END
+> <ID>
+657
+
+> <Formula>
+C6H6Cl6
+
+> <FW>
+290.8298
+
+> <DSSTox_CID>
+686
+
+> <DSSTox_RID>
+75734
+
+> <DSSTox_GSID>
+20686
+
+> <DSSTox_FileID_Sort>
+418
+
+> <TS_ChemName>
+Lindane
+
+> <TS_ChemName_Synonyms>
+gamma-1,2,3,4,5,6-Hexachlorocyclohexane; gamma-HCH; gamma-Hexachlorocyclohexane
+
+> <TS_CASRN>
+58-89-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+lindane (gamma-HCH); stereochem; same 2D structure alpha-HCH [319-84-6]; beta-HCH [319-85-7]; delta-HCH [319-86-8]; epsilon-HCH [6108-10-7]; zeta-HCH or iota-HCH [6108-11-8]; eta-HCH  [6108-12-9]; theta-HCH [6108-13-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6Cl6
+
+> <STRUCTURE_MW>
+290.8298
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1R,2S,3r,4R,5S,6r)-1,2,3,4,5,6-hexachlorocyclohexane
+
+> <STRUCTURE_SMILES>
+Cl[C@H]1[C@H](Cl)[C@H](Cl)[C@@H](Cl)[C@H](Cl)[C@@H]1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Cl[C@H]1[C@H](Cl)[C@H](Cl)[C@@H](Cl)[C@H](Cl)[C@@H]1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

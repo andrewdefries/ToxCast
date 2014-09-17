@@ -1,0 +1,111 @@
+651-06-9
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    5.9864   -5.7537    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6474   -4.6085    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5023   -3.9382    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8019   -5.2695    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3178   -3.4541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6491   -3.4541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3101   -2.2996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6491   -1.1451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3101    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3178   -1.1451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6474   -2.2996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6551   -5.7537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9940   -6.9081    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6627   -6.9081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9924   -5.7537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6610   -5.7537    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.9081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6627   -4.6085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9940   -4.6085    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+3232
+
+> <Formula>
+C11H12N4O3S
+
+> <FW>
+280.303
+
+> <DSSTox_CID>
+3613
+
+> <DSSTox_RID>
+77110
+
+> <DSSTox_GSID>
+23613
+
+> <DSSTox_FileID_Sort>
+1793
+
+> <TS_ChemName>
+Sulfameter
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+651-06-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H12N4O3S
+
+> <STRUCTURE_MW>
+280.303
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-N-(5-methoxypyrimidin-2-yl)benzenesulfonamide
+
+> <STRUCTURE_SMILES>
+O=S(=O)(Nc1ncc(cn1)OC)c2ccc(N)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(Nc1ncc(cn1)OC)c2ccc(N)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

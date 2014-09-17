@@ -1,0 +1,101 @@
+50940-49-3
+ChemmineR-0915142007XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    8.0421   -1.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1928   -1.9979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3435   -1.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4942   -1.9979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0421    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8914   -1.9979    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4942   -3.3256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6448   -1.3277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7534   -1.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6027   -1.9979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4520   -1.3277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3014   -1.9979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1507   -1.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3014   -3.3256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+10468
+
+> <Formula>
+C9H12O6
+
+> <FW>
+216.188
+
+> <DSSTox_CID>
+24820
+
+> <DSSTox_RID>
+80501
+
+> <DSSTox_GSID>
+44820
+
+> <DSSTox_FileID_Sort>
+5183
+
+> <TS_ChemName>
+4-[2-(Acryloyloxy)ethoxy]-4-oxobutanoic acid
+
+> <TS_ChemName_Synonyms>
+4-[2-(Acryloyloxy)ethoxy]-4-oxobutanoic acid (Butanedioic acid, mono[2-[(1-oxo-2-propenyl)oxy]ethyl] ester) (2-(Acryloyloxy)ethyl hydrogen succinate)
+
+> <TS_CASRN>
+50940-49-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12O6
+
+> <STRUCTURE_MW>
+216.188
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-[2-(acryloyloxy)ethoxy]-4-oxobutanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(CCC(=O)O)OCCOC(=O)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCC(=O)O)OCCOC(=O)C=C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

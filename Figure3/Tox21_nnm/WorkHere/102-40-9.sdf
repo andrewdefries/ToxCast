@@ -1,0 +1,100 @@
+102-40-9
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    1.1537    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3190   -0.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3837   -0.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2184   -0.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5374   -0.6692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9109   -0.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7687   -0.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6265   -0.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6265   -2.0075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7687   -2.6651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9224   -1.9960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0646   -0.0115    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4728    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5 13  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+10156
+
+> <Formula>
+C10H14O4
+
+> <FW>
+198.2158
+
+> <DSSTox_CID>
+24502
+
+> <DSSTox_RID>
+80273
+
+> <DSSTox_GSID>
+44502
+
+> <DSSTox_FileID_Sort>
+4955
+
+> <TS_ChemName>
+2,2'-[Benzene-1,3-diylbis(oxy)]diethanol
+
+> <TS_ChemName_Synonyms>
+2,2'-[Benzene-1,3-diylbis(oxy)]diethanol (Ethanol, 2,2'-[1,3-phenylenebis(oxy)]bis-)
+
+> <TS_CASRN>
+102-40-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14O4
+
+> <STRUCTURE_MW>
+198.2158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-[benzene-1,3-diylbis(oxy)]diethanol
+
+> <STRUCTURE_SMILES>
+OCCOc1cccc(OCCO)c1
+
+> <STRUCTURE_SMILES_Desalt>
+OCCOc1cccc(OCCO)c1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

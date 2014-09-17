@@ -1,0 +1,114 @@
+23505-41-1
+ChemmineR-0915142007XD
+
+ 21 21  0  0  0  0  0  0  0  0  1 V2000
+    3.4834   -2.0173    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3396   -2.6828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9356   -2.6828    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6168   -2.6828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3396   -4.0241    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7918   -1.9861    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6168   -4.0241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -1.9861    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2910   -3.8162    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4834   -4.6688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6011   -1.5077    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1003   -3.3170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -0.6759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4834   -5.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2441   -2.6828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9217   -1.5077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2980    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3983   -3.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5976   -0.3535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  2  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5 10  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 21  1  0  0  0  0
+M  END
+> <ID>
+9224
+
+> <Formula>
+C13H24N3O3PS
+
+> <FW>
+333.3867
+
+> <DSSTox_CID>
+22297
+
+> <DSSTox_RID>
+79990
+
+> <DSSTox_GSID>
+42297
+
+> <DSSTox_FileID_Sort>
+4672
+
+> <TS_ChemName>
+Pirimiphos-ethyl
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+23505-41-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H24N3O3PS
+
+> <STRUCTURE_MW>
+333.3867
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O-[2-(diethylamino)-6-methylpyrimidin-4-yl] O,O-diethyl phosphorothioate
+
+> <STRUCTURE_SMILES>
+CCN(CC)c1nc(C)cc(OP(=S)(OCC)OCC)n1
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)c1nc(C)cc(OP(=S)(OCC)OCC)n1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

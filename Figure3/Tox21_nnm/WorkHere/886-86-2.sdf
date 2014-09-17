@@ -1,0 +1,105 @@
+886-86-2
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+    4.6048   -3.9919    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6048   -2.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7581   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9113   -2.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0645   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4597   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3065   -2.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6613    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3065    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4597   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3226   -6.6532    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9919   -6.6532    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6613   -6.6532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9919   -5.3226    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9919   -7.9839    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  2  0  0  0  0
+M  END
+> <ID>
+1974
+
+> <Formula>
+C10H15NO5S
+
+> <FW>
+261.2948 (165.1891+96.1057)
+
+> <DSSTox_CID>
+2133
+
+> <DSSTox_RID>
+76502
+
+> <DSSTox_GSID>
+22133
+
+> <DSSTox_FileID_Sort>
+1186
+
+> <TS_ChemName>
+Ethyl 3-aminobenzoate methanesulfonic acid salt
+
+> <TS_ChemName_Synonyms>
+Ethyl 3-aminobenzoate methanesulfonic acid salt (MS-222)
+
+> <TS_CASRN>
+886-86-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [582-33-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H15NO5S
+
+> <STRUCTURE_MW>
+261.2948
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+ethyl 3-aminobenzoate methanesulfonate (1:1)
+
+> <STRUCTURE_SMILES>
+Nc1cc(ccc1)C(=O)OCC.CS(=O)(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1cc(ccc1)C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

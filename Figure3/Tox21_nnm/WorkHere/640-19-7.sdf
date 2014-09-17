@@ -1,0 +1,81 @@
+640-19-7
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    1.1461   -1.3360    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1461    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9988    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4522   -1.3360    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061   -1.9988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+6700
+
+> <Formula>
+C2H4FNO
+
+> <FW>
+77.0577
+
+> <DSSTox_CID>
+14255
+
+> <DSSTox_RID>
+79132
+
+> <DSSTox_GSID>
+34255
+
+> <DSSTox_FileID_Sort>
+3814
+
+> <TS_ChemName>
+2-Fluoroacetamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+640-19-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H4FNO
+
+> <STRUCTURE_MW>
+77.0577
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-fluoroacetamide
+
+> <STRUCTURE_SMILES>
+FCC(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+FCC(N)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

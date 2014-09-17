@@ -1,0 +1,108 @@
+3778-76-5
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    2.3117   -6.6580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4632   -6.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4632   -4.6667    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6147   -3.9913    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6147   -2.6580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7576   -2.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7576   -0.6753    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9091    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4632   -2.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6147   -6.6580    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6147   -7.9827    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4632   -8.6580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3117   -7.9827    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -8.6580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -7.9827    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -6.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.1861   -3.2900    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  1 17  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+10317
+
+> <Formula>
+C11H13ClN4O2
+
+> <FW>
+268.6995 (232.2386+36.4609)
+
+> <DSSTox_CID>
+24664
+
+> <DSSTox_RID>
+80385
+
+> <DSSTox_GSID>
+44664
+
+> <DSSTox_FileID_Sort>
+5067
+
+> <TS_ChemName>
+Todralazine hydrochloride
+
+> <TS_ChemName_Synonyms>
+Todralazine
+
+> <TS_CASRN>
+3778-76-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [14679-73-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H13ClN4O2
+
+> <STRUCTURE_MW>
+268.6995
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+ethyl 2-(phthalazin-1-yl)hydrazinecarboxylate hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C(OCC)NNc2nncc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)NNc2nncc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

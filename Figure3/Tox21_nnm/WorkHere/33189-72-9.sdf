@@ -1,0 +1,107 @@
+33189-72-9
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    3.5094   -1.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6177   -1.9579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7813   -1.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9634   -1.9579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1271   -1.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3092   -1.9579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3990   -1.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5811   -1.9579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7448   -1.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8530   -1.9579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0166   -1.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1988   -1.9579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3070   -1.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4707   -1.9579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3458   -1.9579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1637   -1.2929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1637    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+7019
+
+> <Formula>
+C16H30O2
+
+> <FW>
+254.4082
+
+> <DSSTox_CID>
+15286
+
+> <DSSTox_RID>
+79254
+
+> <DSSTox_GSID>
+35286
+
+> <DSSTox_FileID_Sort>
+3936
+
+> <TS_ChemName>
+(E)-11-Tetradecen-1-ol acetate
+
+> <TS_ChemName_Synonyms>
+(E)-11-Tetradecen-1-ol acetate (trans-11-Tetradecenyl acetate)
+
+> <TS_CASRN>
+33189-72-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H30O2
+
+> <STRUCTURE_MW>
+254.4082
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(11E)-tetradec-11-en-1-yl acetate
+
+> <STRUCTURE_SMILES>
+CC(=O)OCCCCCCCCCC\C=C\CC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)OCCCCCCCCCC\C=C\CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

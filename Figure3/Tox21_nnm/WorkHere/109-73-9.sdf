@@ -1,0 +1,81 @@
+109-73-9
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -0.6638    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+1779
+
+> <Formula>
+C4H11N
+
+> <FW>
+73.1368
+
+> <DSSTox_CID>
+1904
+
+> <DSSTox_RID>
+76395
+
+> <DSSTox_GSID>
+21904
+
+> <DSSTox_FileID_Sort>
+1079
+
+> <TS_ChemName>
+Butylamine
+
+> <TS_ChemName_Synonyms>
+n-Butylamine; 1-Butanamine
+
+> <TS_CASRN>
+109-73-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H11N
+
+> <STRUCTURE_MW>
+73.1368
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butan-1-amine
+
+> <STRUCTURE_SMILES>
+CCCCN
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

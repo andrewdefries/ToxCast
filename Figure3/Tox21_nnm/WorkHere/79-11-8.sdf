@@ -1,0 +1,81 @@
+79-11-8
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    3.4567   -1.9945    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.3308    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.9945    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3308    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+867
+
+> <Formula>
+C2H3ClO2
+
+> <FW>
+94.497
+
+> <DSSTox_CID>
+901
+
+> <DSSTox_RID>
+75855
+
+> <DSSTox_GSID>
+20901
+
+> <DSSTox_FileID_Sort>
+539
+
+> <TS_ChemName>
+Chloroacetic acid
+
+> <TS_ChemName_Synonyms>
+Chloroacetic acid (Monochloroacetic acid)
+
+> <TS_CASRN>
+79-11-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H3ClO2
+
+> <STRUCTURE_MW>
+94.497
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+chloroacetic acid
+
+> <STRUCTURE_SMILES>
+ClCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+ClCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

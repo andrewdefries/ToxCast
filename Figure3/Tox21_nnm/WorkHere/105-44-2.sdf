@@ -1,0 +1,87 @@
+105-44-2
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    2.3388    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3388   -1.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4937   -1.9848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6486   -1.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6486    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1839   -1.9848    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8035   -1.9848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6116    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+10422
+
+> <Formula>
+C6H13NO
+
+> <FW>
+115.1735
+
+> <DSSTox_CID>
+24771
+
+> <DSSTox_RID>
+80462
+
+> <DSSTox_GSID>
+44771
+
+> <DSSTox_FileID_Sort>
+5144
+
+> <TS_ChemName>
+N-Hydroxy-4-methylpentan-2-imine
+
+> <TS_ChemName_Synonyms>
+2-Pentanone, 4-methyl-, oxime
+
+> <TS_CASRN>
+105-44-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H13NO
+
+> <STRUCTURE_MW>
+115.1735
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-hydroxy-4-methylpentan-2-imine
+
+> <STRUCTURE_SMILES>
+CC(C)CC(\C)=N\O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CC(\C)=N\O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

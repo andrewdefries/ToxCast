@@ -1,0 +1,109 @@
+22494-42-4
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    1.9927   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3316   -1.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9927    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3243   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9947   -3.4546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3170   -3.4546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9874   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3170   -1.1546    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3190   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9801   -3.4546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3117   -3.4546    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3190   -4.6093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9874   -4.6093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3243   -4.6093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9927   -4.6093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3316   -3.4546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1 17  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+2640
+
+> <Formula>
+C13H8F2O3
+
+> <FW>
+250.1976
+
+> <DSSTox_CID>
+2932
+
+> <DSSTox_RID>
+76792
+
+> <DSSTox_GSID>
+22932
+
+> <DSSTox_FileID_Sort>
+1476
+
+> <TS_ChemName>
+Diflunisal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+22494-42-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H8F2O3
+
+> <STRUCTURE_MW>
+250.1976
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2',4'-difluoro-4-hydroxybiphenyl-3-carboxylic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1cc(ccc1O)c2ccc(F)cc2F
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1cc(ccc1O)c2ccc(F)cc2F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

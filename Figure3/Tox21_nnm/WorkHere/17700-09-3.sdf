@@ -1,0 +1,96 @@
+17700-09-3
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  2 V2000
+    5.3204   -2.3041    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    5.9847   -3.4532    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9847   -1.1491    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.9918   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3275   -3.4532    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9929   -3.4532    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3041    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9929   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3275   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9918    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+4589
+
+> <Formula>
+C6H2Cl3NO2
+
+> <FW>
+226.4446
+
+> <DSSTox_CID>
+6202
+
+> <DSSTox_RID>
+78054
+
+> <DSSTox_GSID>
+26202
+
+> <DSSTox_FileID_Sort>
+2737
+
+> <TS_ChemName>
+2,3,4-Trichloronitrobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+17700-09-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H2Cl3NO2
+
+> <STRUCTURE_MW>
+226.4446
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2,3-trichloro-4-nitrobenzene
+
+> <STRUCTURE_SMILES>
+Clc1ccc([N+]([O-])=O)c(Cl)c1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc([N+]([O-])=O)c(Cl)c1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

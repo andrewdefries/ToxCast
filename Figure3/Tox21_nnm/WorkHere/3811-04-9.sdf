@@ -1,0 +1,80 @@
+3811-04-9
+ChemmineR-0915142007XD
+
+  5  3  0  0  0  0  0  0  0  0  2 V2000
+    1.3300   -1.1394    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0044    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0044   -2.2927    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1394    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    4.6505   -1.1533    0.0000 K    0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+M  END
+> <ID>
+12588
+
+> <Formula>
+ClKO3
+
+> <FW>
+122.5495 (83.4517+39.0978)
+
+> <DSSTox_CID>
+27448
+
+> <DSSTox_RID>
+82354
+
+> <DSSTox_GSID>
+47448
+
+> <DSSTox_FileID_Sort>
+7035
+
+> <TS_ChemName>
+Potassium chlorate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3811-04-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [7790-93-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+ClKO3
+
+> <STRUCTURE_MW>
+122.5495
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+potassium chlorate
+
+> <STRUCTURE_SMILES>
+[K+].[O-]Cl(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=Cl(=O)O
+
+> <Substance_modify_yyyymmdd>
+20100620
+
+$$$$

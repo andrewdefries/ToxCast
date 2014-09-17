@@ -1,0 +1,92 @@
+105-11-3
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9961   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6614    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9921    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6575   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9882   -1.1511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6535   -2.3021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9921   -2.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6614   -2.3021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+1175
+
+> <Formula>
+C6H6N2O2
+
+> <FW>
+138.124
+
+> <DSSTox_CID>
+1222
+
+> <DSSTox_RID>
+76020
+
+> <DSSTox_GSID>
+21222
+
+> <DSSTox_FileID_Sort>
+704
+
+> <TS_ChemName>
+p-Benzoquinone dioxime
+
+> <TS_ChemName_Synonyms>
+p-Benzoquinone dioxime (p-Quinone dioxime)
+
+> <TS_CASRN>
+105-11-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6N2O2
+
+> <STRUCTURE_MW>
+138.124
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1Z,4Z)-N,N'-dihydroxycyclohexa-2,5-diene-1,4-diimine
+
+> <STRUCTURE_SMILES>
+O\N=C1/C=C/C(=N\O)C=C1
+
+> <STRUCTURE_SMILES_Desalt>
+O\N=C1/C=C/C(=N\O)C=C1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

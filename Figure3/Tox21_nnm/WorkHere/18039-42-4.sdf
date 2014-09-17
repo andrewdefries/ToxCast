@@ -1,0 +1,95 @@
+18039-42-4
+ChemmineR-0915142007XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    4.7741   -0.0604    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0431   -0.4774    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0431   -1.8069    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7741   -2.2239    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9885   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6587   -2.2904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6587    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9882    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6590   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9882   -2.2904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+10505
+
+> <Formula>
+C7H6N4
+
+> <FW>
+146.1493
+
+> <DSSTox_CID>
+24858
+
+> <DSSTox_RID>
+80536
+
+> <DSSTox_GSID>
+44858
+
+> <DSSTox_FileID_Sort>
+5218
+
+> <TS_ChemName>
+5-Phenyl-1H-tetrazole
+
+> <TS_ChemName_Synonyms>
+5-Phenyl-1H-tetrazole (1H-Tetrazole, 5-phenyl-)
+
+> <TS_CASRN>
+18039-42-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6N4
+
+> <STRUCTURE_MW>
+146.1493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-phenyl-1H-tetrazole
+
+> <STRUCTURE_SMILES>
+c1ccc(cc1)c2nnnn2
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccc(cc1)c2nnnn2
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

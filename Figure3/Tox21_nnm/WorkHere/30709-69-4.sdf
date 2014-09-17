@@ -1,0 +1,94 @@
+30709-69-4
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    5.6809   -6.6522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2685   -5.3883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9647   -5.1089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5589   -3.8450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3372   -2.7673    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5589   -1.6963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2883   -2.1021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2883   -3.4325    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2173   -1.3238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3570    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8626    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+16111
+
+> <Formula>
+C7H9NO2S
+
+> <FW>
+171.2169
+
+> <DSSTox_CID>
+31498
+
+> <DSSTox_RID>
+97383
+
+> <DSSTox_GSID>
+57709
+
+> <DSSTox_FileID_Sort>
+8450
+
+> <TS_ChemName>
+Tizoprolic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+30709-69-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H9NO2S
+
+> <STRUCTURE_MW>
+171.2169
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-propyl-1,3-thiazole-5-carboxylic acid
+
+> <STRUCTURE_SMILES>
+CCCc1ncc(s1)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCc1ncc(s1)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

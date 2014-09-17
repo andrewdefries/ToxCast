@@ -1,0 +1,86 @@
+108-31-6
+ChemmineR-0915142007XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    2.3465    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4277   -0.7885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2795   -0.7601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0075   -2.0302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6903   -2.0302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7214   -0.4060    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3305    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <ID>
+3540
+
+> <Formula>
+C4H2O3
+
+> <FW>
+98.0569
+
+> <DSSTox_CID>
+4166
+
+> <DSSTox_RID>
+77313
+
+> <DSSTox_GSID>
+24166
+
+> <DSSTox_FileID_Sort>
+1996
+
+> <TS_ChemName>
+2,5-Furandione
+
+> <TS_ChemName_Synonyms>
+2,5-Furandione (Maleic anhydride)
+
+> <TS_CASRN>
+108-31-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H2O3
+
+> <STRUCTURE_MW>
+98.0569
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+furan-2,5-dione
+
+> <STRUCTURE_SMILES>
+O=C1C=CC(=O)O1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C=CC(=O)O1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

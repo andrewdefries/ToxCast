@@ -1,0 +1,102 @@
+1049737-99-6
+ChemmineR-0915142007XD
+
+ 16 14  0  0  0  0  0  0  0  0  2 V2000
+   10.0736   -0.8764    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    4.6137   -3.9992    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6137   -2.6594    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7621   -2.0046    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9206   -2.6594    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0589   -2.0046    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2174   -2.6594    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    8.0589   -0.6649    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552   -2.0046    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2968   -2.6594    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1585   -2.0046    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1585   -0.6649    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2968    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552   -0.6649    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2731   -4.2208    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+11195
+
+> <Formula>
+C10H10ClNaO4
+
+> <FW>
+252.6268 (22.9892+211.6223+18.0153)
+
+> <DSSTox_CID>
+25786
+
+> <DSSTox_RID>
+81127
+
+> <DSSTox_GSID>
+45786
+
+> <DSSTox_FileID_Sort>
+5808
+
+> <TS_ChemName>
+Sodium (2E)-4-(4-chlorophenyl)-4-hydroxybut-2-enoate hydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1049737-99-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [99389-57-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H10ClNaO4
+
+> <STRUCTURE_MW>
+252.6268
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt complex
+
+> <STRUCTURE_IUPAC>
+sodium (2E)-4-(4-chlorophenyl)-4-hydroxybut-2-enoate hydrate (1:1:1)
+
+> <STRUCTURE_SMILES>
+[Na+].O.OC(/C=C/C([O-])=O)c1ccc(Cl)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(/C=C/C(=O)O)c1ccc(Cl)cc1
+
+> <Substance_modify_yyyymmdd>
+20110902
+
+$$$$

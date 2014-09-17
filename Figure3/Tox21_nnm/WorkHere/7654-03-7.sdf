@@ -1,0 +1,109 @@
+7654-03-7
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    1.9964    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6619   -1.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9928   -1.1494    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6496   -2.2989    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9805   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6460   -1.1494    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6460   -3.4570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9769   -3.4570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6424   -4.6064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9769   -5.7558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6460   -5.7558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9805   -4.6064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6619   -3.4570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -4.6064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655   -4.6064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+11514
+
+> <Formula>
+C15H16N2O
+
+> <FW>
+240.3003
+
+> <DSSTox_CID>
+26220
+
+> <DSSTox_RID>
+81447
+
+> <DSSTox_GSID>
+46220
+
+> <DSSTox_FileID_Sort>
+6128
+
+> <TS_ChemName>
+Benmoxin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7654-03-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H16N2O
+
+> <STRUCTURE_MW>
+240.3003
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N'-(1-phenylethyl)benzohydrazide
+
+> <STRUCTURE_SMILES>
+CC(NNC(=O)c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(NNC(=O)c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20110817
+
+$$$$

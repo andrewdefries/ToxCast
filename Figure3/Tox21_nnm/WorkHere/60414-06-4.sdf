@@ -1,0 +1,116 @@
+60414-06-4
+ChemmineR-0915142007XD
+
+ 22 22  0  0  1  0  0  0  0  0  1 V2000
+    9.3977   -5.8197    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3393   -3.0176    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6410   -1.7351    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5525   -1.0238    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5179   -1.8968    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0244   -3.1362    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.0097   -1.6274    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.4924   -3.7397    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.4947   -2.8667    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2247   -1.5950    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3132   -4.2247    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3471   -6.5310    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3086   -2.5326    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   10.7772   -2.4788    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.4647   -3.7828    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3409   -5.3778    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5757    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8475   -0.3018    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0153   -5.3778    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0091   -4.2247    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9830   -7.6949    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.5310    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  6  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  6  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  1  0  0  0
+  6 11  1  1  0  0  0
+  7  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 12 22  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+11266
+
+> <Formula>
+C14H28ClNO6
+
+> <FW>
+341.8282 (36.4609+305.3673)
+
+> <DSSTox_CID>
+25883
+
+> <DSSTox_RID>
+81198
+
+> <DSSTox_GSID>
+45883
+
+> <DSSTox_FileID_Sort>
+5879
+
+> <TS_ChemName>
+Amiprilose hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+60414-06-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent  [56824-20-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H28ClNO6
+
+> <STRUCTURE_MW>
+341.8282
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+3-O-(3-(dimethylamino)propyl)-1,2-O-(1-methylethylidene)-alpha-D-glucofuranose hydrochloride
+
+> <STRUCTURE_SMILES>
+Cl.CN(C)CCCO[C@@H]1[C@H]2OC(C)(C)O[C@H]2O[C@@H]1C(O)CO
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCCO[C@@H]1[C@H]2OC(C)(C)O[C@H]2O[C@@H]1C(O)CO
+
+> <Substance_modify_yyyymmdd>
+20110922
+
+$$$$

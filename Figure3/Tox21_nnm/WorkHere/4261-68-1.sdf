@@ -1,0 +1,92 @@
+4261-68-1
+ChemmineR-0915142007XD
+
+ 11  9  0  0  0  0  0  0  0  0  1 V2000
+    5.7511   -2.6669    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5976   -1.9961    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4523   -2.6669    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2988   -1.9961    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -2.6506    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9961    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -3.9922    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2988   -0.6708    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4523    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1808   -1.9961    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+13694
+
+> <Formula>
+C8H19Cl2N
+
+> <FW>
+200.1492 (163.6882+36.4609)
+
+> <DSSTox_CID>
+28627
+
+> <DSSTox_RID>
+82897
+
+> <DSSTox_GSID>
+48701
+
+> <DSSTox_FileID_Sort>
+7574
+
+> <TS_ChemName>
+N-(2-chloroethyl)-N-(propan-2-yl)propan-2-amine hydrochloride
+
+> <TS_ChemName_Synonyms>
+2-(Diisopropylamino)ethyl chloride hydrochloride
+
+> <TS_CASRN>
+4261-68-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H19Cl2N
+
+> <STRUCTURE_MW>
+200.1492
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-(2-chloroethyl)-N-(propan-2-yl)propan-2-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CC(C)N(CCCl)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)N(CCCl)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

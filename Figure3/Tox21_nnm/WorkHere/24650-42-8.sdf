@@ -1,0 +1,111 @@
+24650-42-8
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    3.4771   -1.7632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6991   -2.3700    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2229   -0.4428    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1086   -3.5100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7893   -4.5761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4371   -1.2629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1665    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1809   -4.4366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.7806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1563   -1.7796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3126   -2.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3044   -3.7888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0363   -5.0681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1926   -4.4038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2008   -3.0671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0445   -2.4028    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8882   -3.0671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8882   -4.3956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 18  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 19  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+7414
+
+> <Formula>
+C16H16O3
+
+> <FW>
+256.2964
+
+> <DSSTox_CID>
+17715
+
+> <DSSTox_RID>
+79363
+
+> <DSSTox_GSID>
+37715
+
+> <DSSTox_FileID_Sort>
+4045
+
+> <TS_ChemName>
+2,2-Dimethoxy-1,2-diphenylethanone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+24650-42-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H16O3
+
+> <STRUCTURE_MW>
+256.2964
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2-dimethoxy-1,2-diphenylethanone
+
+> <STRUCTURE_SMILES>
+COC(OC)(C(=O)c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+COC(OC)(C(=O)c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

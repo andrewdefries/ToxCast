@@ -1,0 +1,96 @@
+7152-80-9
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    5.9707   -2.2942    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6693   -1.1471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3531    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6398   -1.1765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9927   -2.2942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6398   -3.4707    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9633   -3.4707    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6472   -2.2942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9633   -1.1765    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6397   -2.2942    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1471    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4707    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  3  0  0  0  0
+  4  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+9181
+
+> <Formula>
+C9H10N2S
+
+> <FW>
+178.2541
+
+> <DSSTox_CID>
+22252
+
+> <DSSTox_RID>
+79974
+
+> <DSSTox_GSID>
+42252
+
+> <DSSTox_FileID_Sort>
+4656
+
+> <TS_ChemName>
+4-(Dimethylamino)phenylthiocyanate
+
+> <TS_ChemName_Synonyms>
+4-(Dimethylamino)phenylthiocyanate (p-(Dimethylamino)phenylthiocyanate)
+
+> <TS_CASRN>
+7152-80-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10N2S
+
+> <STRUCTURE_MW>
+178.2541
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(dimethylamino)phenyl thiocyanate
+
+> <STRUCTURE_SMILES>
+N#CSc1ccc(cc1)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+N#CSc1ccc(cc1)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

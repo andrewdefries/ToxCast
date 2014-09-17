@@ -1,0 +1,97 @@
+1189-09-9
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    8.0497   -0.0207    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0497   -1.3364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1996   -2.0098    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3599   -1.3364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8893   -2.0098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7290   -1.3364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6102   -2.0098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4499   -1.3364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2999   -2.0098    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1396   -1.3364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1396    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7290   -0.0207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  2  3  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+12279
+
+> <Formula>
+C11H18O2
+
+> <FW>
+182.2594
+
+> <DSSTox_CID>
+27129
+
+> <DSSTox_RID>
+82136
+
+> <DSSTox_GSID>
+47129
+
+> <DSSTox_FileID_Sort>
+6817
+
+> <TS_ChemName>
+Methyl geranate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1189-09-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E isomers; CASRN is for the E- isomer
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C11H18O2
+
+> <STRUCTURE_MW>
+182.2594
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 3,7-dimethylocta-2,6-dienoate
+
+> <STRUCTURE_SMILES>
+O=C(C=C(C)CC\C=C(/C)C)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C=C(C)CC\C=C(/C)C)OC
+
+> <Substance_modify_yyyymmdd>
+20100502
+
+$$$$

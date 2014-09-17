@@ -1,0 +1,85 @@
+140-87-4
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3309    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -1.9935    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3046   -1.3309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3046    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570   -1.9935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6093   -1.3309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7616   -0.6626    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  3  0  0  0  0
+M  END
+> <ID>
+11797
+
+> <Formula>
+C3H5N3O
+
+> <FW>
+99.0913
+
+> <DSSTox_CID>
+26572
+
+> <DSSTox_RID>
+81731
+
+> <DSSTox_GSID>
+46572
+
+> <DSSTox_FileID_Sort>
+6412
+
+> <TS_ChemName>
+Cyacetacide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+140-87-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H5N3O
+
+> <STRUCTURE_MW>
+99.0913
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-cyanoacetohydrazide
+
+> <STRUCTURE_SMILES>
+N#CCC(=O)NN
+
+> <STRUCTURE_SMILES_Desalt>
+N#CCC(=O)NN
+
+> <Substance_modify_yyyymmdd>
+20110810
+
+$$$$

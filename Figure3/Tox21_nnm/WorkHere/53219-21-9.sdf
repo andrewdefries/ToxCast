@@ -1,0 +1,93 @@
+53219-21-9
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1439   -0.6767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4638   -0.6767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5916    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7516   -0.6767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9116    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0554   -0.6767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1439   -1.9977    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7516   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+5942
+
+> <Formula>
+C10H20O
+
+> <FW>
+156.2652
+
+> <DSSTox_CID>
+9317
+
+> <DSSTox_RID>
+79776
+
+> <DSSTox_GSID>
+41557
+
+> <DSSTox_FileID_Sort>
+4458
+
+> <TS_ChemName>
+7-Octen-2-ol, 2-methyl-6-methylene-, dihydro deriv.
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+53219-21-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 2,6-dimethyloct-7-en-2-ol [18479-58-8] and 2-methyl-6-methylideneoctan-2-ol [18479-59-9]; structure shown 2,6-dimethyloct-7-en-2-ol
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C10H20O
+
+> <STRUCTURE_MW>
+156.2652
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,6-dimethyloct-7-en-2-ol
+
+> <STRUCTURE_SMILES>
+CC(C)(O)CCCC(C)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(O)CCCC(C)C=C
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

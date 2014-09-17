@@ -1,0 +1,89 @@
+87-56-9
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    3.9897   -2.3035    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582   -2.3035    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9948   -3.4552    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6634   -3.4552    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3035    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582   -4.6070    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9948   -1.1517    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6634   -1.1517    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+407
+
+> <Formula>
+C4H2Cl2O3
+
+> <FW>
+168.9629
+
+> <DSSTox_CID>
+423
+
+> <DSSTox_RID>
+75575
+
+> <DSSTox_GSID>
+20423
+
+> <DSSTox_FileID_Sort>
+259
+
+> <TS_ChemName>
+(2Z)-2,3-Dichloro-4-oxobut-2-enoic acid
+
+> <TS_ChemName_Synonyms>
+Mucochloric acid
+
+> <TS_CASRN>
+87-56-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H2Cl2O3
+
+> <STRUCTURE_MW>
+168.9629
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2Z)-2,3-dichloro-4-oxobut-2-enoic acid
+
+> <STRUCTURE_SMILES>
+O=CC(\Cl)=C(\Cl)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=CC(\Cl)=C(\Cl)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,107 @@
+97-24-5
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    4.6043   -3.9915    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7575   -3.3303    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7575   -1.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9106   -1.3305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9106    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0637   -1.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0637   -3.3303    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9106   -3.9915    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9106   -5.3220    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4593   -3.3303    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062   -3.9915    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531   -3.3303    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9915    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531   -1.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062   -1.3305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4593   -1.9998    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6043   -1.3305    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+4563
+
+> <Formula>
+C12H8Cl2O2S
+
+> <FW>
+287.1617
+
+> <DSSTox_CID>
+6137
+
+> <DSSTox_RID>
+78031
+
+> <DSSTox_GSID>
+26137
+
+> <DSSTox_FileID_Sort>
+2714
+
+> <TS_ChemName>
+Fenticlor
+
+> <TS_ChemName_Synonyms>
+Fenticlor (2,2'-Thiobis(4-chlorophenol))
+
+> <TS_CASRN>
+97-24-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H8Cl2O2S
+
+> <STRUCTURE_MW>
+287.1617
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-sulfanediylbis(4-chlorophenol)
+
+> <STRUCTURE_SMILES>
+Oc2ccc(Cl)cc2Sc1cc(Cl)ccc1O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccc(Cl)cc2Sc1cc(Cl)ccc1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

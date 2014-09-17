@@ -1,0 +1,82 @@
+106-88-7
+ChemmineR-0915142007XD
+
+  5  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -1.8168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -1.1519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9687    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6336   -1.1519    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+544
+
+> <Formula>
+C4H8O
+
+> <FW>
+72.1057
+
+> <DSSTox_CID>
+569
+
+> <DSSTox_RID>
+75663
+
+> <DSSTox_GSID>
+20569
+
+> <DSSTox_FileID_Sort>
+347
+
+> <TS_ChemName>
+1,2-Epoxybutane
+
+> <TS_ChemName_Synonyms>
+1,2-Epoxybutane (EBU) (Oxirane, ethyl-) (1,2-Butylene oxide)
+
+> <TS_CASRN>
+106-88-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8O
+
+> <STRUCTURE_MW>
+72.1057
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethyloxirane
+
+> <STRUCTURE_SMILES>
+CCC1CO1
+
+> <STRUCTURE_SMILES_Desalt>
+CCC1CO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

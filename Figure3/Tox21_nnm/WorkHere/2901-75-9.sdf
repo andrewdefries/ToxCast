@@ -1,0 +1,102 @@
+2901-75-9
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    6.8981   -3.3180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7461   -1.3313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6011   -2.0074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5873   -3.3180    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4491   -1.3313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7461    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8981   -1.9867    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7461   -3.9940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7461   -5.3254    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2971   -2.0074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2971   -3.3387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -3.9940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.3313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+11138
+
+> <Formula>
+C11H13NO3
+
+> <FW>
+207.2258
+
+> <DSSTox_CID>
+25697
+
+> <DSSTox_RID>
+81069
+
+> <DSSTox_GSID>
+45697
+
+> <DSSTox_FileID_Sort>
+5750
+
+> <TS_ChemName>
+Afalanine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2901-75-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H13NO3
+
+> <STRUCTURE_MW>
+207.2258
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-acetylphenylalanine
+
+> <STRUCTURE_SMILES>
+O=C(O)C(NC(C)=O)Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)C(NC(C)=O)Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20110819
+
+$$$$

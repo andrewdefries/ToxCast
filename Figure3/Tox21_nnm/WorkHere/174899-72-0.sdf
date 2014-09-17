@@ -1,0 +1,105 @@
+174899-72-0
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  2 V2000
+    5.2947   -5.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4721   -2.7499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5681    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1324   -4.4591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639   -1.0787    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0613   -2.3473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2111   -2.3473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7933   -1.0787    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.1324   -3.1373    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3370   -6.2746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.2746    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3370   -7.5963    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3370   -4.9376    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6587   -7.5963    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.6587   -4.9376    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9881   -6.2746    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6587   -6.2746    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+14096
+
+> <Formula>
+C8H13F3N2O3S
+
+> <FW>
+274.2606 (125.1910+149.0697)
+
+> <DSSTox_CID>
+29089
+
+> <DSSTox_RID>
+83308
+
+> <DSSTox_GSID>
+49233
+
+> <DSSTox_FileID_Sort>
+7983
+
+> <TS_ChemName>
+1-Ethyl-2,3-dimethylimidazolium trifluoromethanesulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+174899-72-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H13F3N2O3S
+
+> <STRUCTURE_MW>
+274.2606
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-ethyl-2,3-dimethyl-1H-imidazol-3-ium trifluoromethanesulfonate
+
+> <STRUCTURE_SMILES>
+C[n+]1ccn(CC)c1C.FC(F)(F)S([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+C[n+]1ccn(CC)c1C
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

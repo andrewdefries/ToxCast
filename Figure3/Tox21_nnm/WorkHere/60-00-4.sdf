@@ -1,0 +1,111 @@
+60-00-4
+ChemmineR-0915142007XD
+
+ 20 19  0  0  0  0  0  0  0  0  1 V2000
+    2.6619   -2.2989    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9928   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6496   -3.4570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9805   -3.4570    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6460   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9805   -1.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6460    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6496   -1.1494    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6460   -4.6064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9769   -4.6064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6424   -3.4570    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6424   -5.7558    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -3.4570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6619   -4.6064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9928   -4.6064    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -5.7558    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -1.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655   -1.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2989    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <ID>
+2680
+
+> <Formula>
+C10H16N2O8
+
+> <FW>
+292.2426
+
+> <DSSTox_CID>
+2977
+
+> <DSSTox_RID>
+76814
+
+> <DSSTox_GSID>
+22977
+
+> <DSSTox_FileID_Sort>
+1498
+
+> <TS_ChemName>
+Ethylenediaminetetraacetic acid
+
+> <TS_ChemName_Synonyms>
+Ethylenediaminetetraacetic acid (Edetic acid) (Glycine, N,N'-1,2-ethanediylbis[N-(carboxymethyl)-) (EDTA)
+
+> <TS_CASRN>
+60-00-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16N2O8
+
+> <STRUCTURE_MW>
+292.2426
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2',2'',2'''-(ethane-1,2-diyldinitrilo)tetraacetic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

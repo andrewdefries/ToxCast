@@ -1,0 +1,108 @@
+161735-79-1
+ChemmineR-0915142007XD
+
+ 18 18  0  0  1  0  0  0  0  0  1 V2000
+    2.2816   -1.9438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2816   -3.2572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1258   -1.2759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1258   -3.9102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.2572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5274   -1.5310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3079   -2.5968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5274   -3.6550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9252   -0.2852    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2236    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1092   -0.9907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9797   -1.9588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1917   -4.3380    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1917   -5.8390    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5051   -4.3380    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1917   -3.0171    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8108   -4.3380    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  6  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  3  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 18  1  0  0  0  0
+M  END
+> <ID>
+12925
+
+> <Formula>
+C13H17NO3S
+
+> <FW>
+267.3440 (171.2383+96.1057)
+
+> <DSSTox_CID>
+27826
+
+> <DSSTox_RID>
+82589
+
+> <DSSTox_GSID>
+47848
+
+> <DSSTox_FileID_Sort>
+7266
+
+> <TS_ChemName>
+Rasagiline mesylate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+161735-79-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [136236-51-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H17NO3S
+
+> <STRUCTURE_MW>
+267.344
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(1R)-N-(prop-2-yn-1-yl)-2,3-dihydro-1H-inden-1-amine methanesulfonate (1:1)
+
+> <STRUCTURE_SMILES>
+CS(=O)(=O)O.C#CCN[C@@H]2CCc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+C#CCN[C@@H]2CCc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20110801
+
+$$$$

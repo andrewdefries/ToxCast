@@ -1,0 +1,96 @@
+98-29-3
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3018    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3305   -2.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9957   -1.1509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3305    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3262   -1.1509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9915   -2.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3262   -3.4526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3220   -2.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3220   -3.6322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3220   -0.9713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6525   -2.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9957   -3.4526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+3809
+
+> <Formula>
+C10H14O2
+
+> <FW>
+166.217
+
+> <DSSTox_CID>
+4687
+
+> <DSSTox_RID>
+77499
+
+> <DSSTox_GSID>
+24687
+
+> <DSSTox_FileID_Sort>
+2182
+
+> <TS_ChemName>
+4-tert-Butylcatechol
+
+> <TS_ChemName_Synonyms>
+p-tert-Butylcatechol (1,2-Benzenediol, 4-(1,1-dimethylethyl)-)
+
+> <TS_CASRN>
+98-29-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14O2
+
+> <STRUCTURE_MW>
+166.217
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-tert-butylbenzene-1,2-diol
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1O)C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1O)C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

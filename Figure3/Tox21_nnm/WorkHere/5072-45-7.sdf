@@ -1,0 +1,89 @@
+5072-45-7
+ChemmineR-0915142007XD
+
+  9  8  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -2.6541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1501   -2.0022    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1501   -0.6565    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3048    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4549   -0.6565    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4549   -2.0022    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6097   -2.6541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3048   -2.6541    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8066   -4.6562    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+10915
+
+> <Formula>
+C7H16ClN
+
+> <FW>
+149.6616 (113.2007+36.4609)
+
+> <DSSTox_CID>
+25386
+
+> <DSSTox_RID>
+80844
+
+> <DSSTox_GSID>
+45386
+
+> <DSSTox_FileID_Sort>
+5525
+
+> <TS_ChemName>
+cis-Nanophine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5072-45-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [504-03-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H16ClN
+
+> <STRUCTURE_MW>
+149.6616
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(2R,6S)-2,6-dimethylpiperidine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.C[C@@H]1CCC[C@H](C)N1
+
+> <STRUCTURE_SMILES_Desalt>
+C[C@@H]1CCC[C@H](C)N1
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

@@ -1,0 +1,92 @@
+586-62-9
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1393   -1.3371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2965   -1.9907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2965   -3.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1393   -4.0054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1393    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1393   -5.3365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2965   -5.9961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+5004
+
+> <Formula>
+C10H16
+
+> <FW>
+136.234
+
+> <DSSTox_CID>
+7222
+
+> <DSSTox_RID>
+78355
+
+> <DSSTox_GSID>
+27222
+
+> <DSSTox_FileID_Sort>
+3038
+
+> <TS_ChemName>
+Terpinolene
+
+> <TS_ChemName_Synonyms>
+Cyclohexene, 1-methyl-4-(1-methylethylidene)-
+
+> <TS_CASRN>
+586-62-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16
+
+> <STRUCTURE_MW>
+136.234
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methyl-4-(propan-2-ylidene)cyclohexene
+
+> <STRUCTURE_SMILES>
+C/C(C)=C1\CC=C(C)CC1
+
+> <STRUCTURE_SMILES_Desalt>
+C/C(C)=C1\CC=C(C)CC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

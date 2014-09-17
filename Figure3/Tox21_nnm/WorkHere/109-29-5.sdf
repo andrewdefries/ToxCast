@@ -1,0 +1,108 @@
+109-29-5
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    2.2672   -1.3014    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1644   -1.9453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1644   -3.3357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.2468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1644   -5.8975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2672   -5.2468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4179   -5.8975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6166   -5.2468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6851   -5.8975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8496   -5.2468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8496   -3.9864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6851   -3.3357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6851   -1.9453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6166   -1.3014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1782    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6713    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0342   -1.2672    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 18  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+12744
+
+> <Formula>
+C16H30O2
+
+> <FW>
+254.4082
+
+> <DSSTox_CID>
+27622
+
+> <DSSTox_RID>
+82457
+
+> <DSSTox_GSID>
+47622
+
+> <DSSTox_FileID_Sort>
+7138
+
+> <TS_ChemName>
+Oxacycloheptadecan-2-one
+
+> <TS_ChemName_Synonyms>
+Oxacycloheptadecan-2-one (16-Hexadecanolide)
+
+> <TS_CASRN>
+109-29-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H30O2
+
+> <STRUCTURE_MW>
+254.4082
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+oxacycloheptadecan-2-one
+
+> <STRUCTURE_SMILES>
+O=C1CCCCCCCCCCCCCCCO1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCCCCCCCCCCCCCO1
+
+> <Substance_modify_yyyymmdd>
+20101021
+
+$$$$

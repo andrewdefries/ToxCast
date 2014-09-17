@@ -1,0 +1,85 @@
+55-18-5
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    3.4491    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2932   -0.6723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2932   -2.0031    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4675   -2.6616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6049   -1.9893    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1558   -2.6616    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0031    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+992
+
+> <Formula>
+C4H10N2O
+
+> <FW>
+102.135
+
+> <DSSTox_CID>
+1028
+
+> <DSSTox_RID>
+75913
+
+> <DSSTox_GSID>
+21028
+
+> <DSSTox_FileID_Sort>
+597
+
+> <TS_ChemName>
+N-Nitrosodiethylamine
+
+> <TS_ChemName_Synonyms>
+N-Nitrosodiethylamine (DEN) (diethylnitrosamine)
+
+> <TS_CASRN>
+55-18-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10N2O
+
+> <STRUCTURE_MW>
+102.135
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-ethyl-N-nitrosoethanamine
+
+> <STRUCTURE_SMILES>
+CCN(CC)N=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)N=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

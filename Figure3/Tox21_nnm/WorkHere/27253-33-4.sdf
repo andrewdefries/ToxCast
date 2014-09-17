@@ -1,0 +1,119 @@
+27253-33-4
+ChemmineR-0915142007XD
+
+ 25 22  0  0  0  0  0  0  0  0  2 V2000
+   13.5362   -1.1390    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   14.1800   -2.3111    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.0575   -2.9714    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.9020   -2.3111    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.7464   -2.9714    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.7464   -4.2920    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   14.1800    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   12.1991   -1.1390    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+   14.8568   -3.4666    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.5909   -2.3111    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   15.3520   -1.6342    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   16.5076   -2.3111    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5014   -0.2806    0.0000 Ca   0  2  0  0  0  0  0  0  0  0  0  0
+    2.9714   -1.1720    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3276   -2.3441    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4501   -3.0044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6056   -2.3441    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7611   -3.0044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7611   -4.3250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3276   -0.0330    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3085   -1.1720    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.6508   -3.4996    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9167   -2.3441    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1555   -1.6673    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3441    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 21  1  0  0  0  0
+ 14 20  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 15 24  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 23  1  0  0  0  0
+ 24 25  1  0  0  0  0
+M  END
+> <ID>
+10549
+
+> <Formula>
+C20H38CaO4
+
+> <FW>
+382.5913 (171.2572+40.0769+171.2572)
+
+> <DSSTox_CID>
+24902
+
+> <DSSTox_RID>
+80573
+
+> <DSSTox_GSID>
+44902
+
+> <DSSTox_FileID_Sort>
+5255
+
+> <TS_ChemName>
+Calcium neodecanoate
+
+> <TS_ChemName_Synonyms>
+Calcium neodecanoate (Neodecanoic acid, calcium salt)
+
+> <TS_CASRN>
+27253-33-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of tertiary decanyl isomers; structure shown 2-ethyl-2,5-dimethylhexanoic; parent [26896-20-8]
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C20H38CaO4
+
+> <STRUCTURE_MW>
+382.5913
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+calcium bis(2-ethyl-2,5-dimethylhexanoate)
+
+> <STRUCTURE_SMILES>
+[Ca+2].[O-]C(=O)C(C)(CC)CCC(C)C.CC(C)CCC(C)(CC)C([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CCC(C)(CC)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

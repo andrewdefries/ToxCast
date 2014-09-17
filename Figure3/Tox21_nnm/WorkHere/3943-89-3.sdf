@@ -1,0 +1,98 @@
+3943-89-3
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    1.9900   -8.0566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6587   -6.9045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9900   -5.7524    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6587   -4.6003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9880   -4.6003    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9900   -3.4563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6587   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9900   -1.1521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6606   -1.1521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6606   -3.4563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6587    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+16132
+
+> <Formula>
+C9H10O4
+
+> <FW>
+182.1733
+
+> <DSSTox_CID>
+31521
+
+> <DSSTox_RID>
+97406
+
+> <DSSTox_GSID>
+57732
+
+> <DSSTox_FileID_Sort>
+8473
+
+> <TS_ChemName>
+Ethyl protocatechuate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3943-89-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10O4
+
+> <STRUCTURE_MW>
+182.1733
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 3,4-dihydroxybenzoate
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1O)C(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1O)C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

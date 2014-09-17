@@ -1,0 +1,79 @@
+156-60-5
+ChemmineR-0915142007XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.2971    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6704   -1.1486    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0006   -1.1486    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6711    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+3472
+
+> <Formula>
+C2H2Cl2
+
+> <FW>
+96.9433
+
+> <DSSTox_CID>
+4031
+
+> <DSSTox_RID>
+77262
+
+> <DSSTox_GSID>
+24031
+
+> <DSSTox_FileID_Sort>
+1945
+
+> <TS_ChemName>
+(E)-1,2-Dichloroethylene
+
+> <TS_ChemName_Synonyms>
+(E)-1,2-Dichloroethylene Ethene, 1,2-dichloro-, (1E)-) (trans-1,2-Dichloroethylene)
+
+> <TS_CASRN>
+156-60-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H2Cl2
+
+> <STRUCTURE_MW>
+96.9433
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(E)-1,2-dichloroethene
+
+> <STRUCTURE_SMILES>
+Cl\C=C\Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Cl\C=C\Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

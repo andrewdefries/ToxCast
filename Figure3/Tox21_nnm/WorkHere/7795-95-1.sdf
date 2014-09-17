@@ -1,0 +1,95 @@
+7795-95-1
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+   10.3344   -0.4960    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0505   -1.8292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8930   -1.1574    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7459   -1.8292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5885   -1.1574    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4413   -1.8292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2839   -1.1574    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1368   -1.8292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1574    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1976   -1.1574    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    9.8590   -2.3046    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5258    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+5330
+
+> <Formula>
+C8H17ClO2S
+
+> <FW>
+212.7374
+
+> <DSSTox_CID>
+7658
+
+> <DSSTox_RID>
+78545
+
+> <DSSTox_GSID>
+27658
+
+> <DSSTox_FileID_Sort>
+3228
+
+> <TS_ChemName>
+1-Octanesulfonyl chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7795-95-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H17ClO2S
+
+> <STRUCTURE_MW>
+212.7374
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+octane-1-sulfonyl chloride
+
+> <STRUCTURE_SMILES>
+ClS(=O)(=O)CCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+ClS(=O)(=O)CCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

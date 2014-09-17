@@ -1,0 +1,109 @@
+39809-25-1
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    1.1429   -1.9953    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1429   -3.3255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3138   -3.9907    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3138   -1.3490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4473   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4473   -3.3255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7120   -3.7284    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5082   -2.6698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7120   -1.5925    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3138    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9907    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3958   -4.8900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7073   -4.8900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3911   -3.7284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7073   -2.5761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3911   -1.4333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6933   -3.7284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3677   -2.5761    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+11728
+
+> <Formula>
+C10H15N5O3
+
+> <FW>
+253.2578
+
+> <DSSTox_CID>
+26491
+
+> <DSSTox_RID>
+81662
+
+> <DSSTox_GSID>
+46491
+
+> <DSSTox_FileID_Sort>
+6343
+
+> <TS_ChemName>
+Penciclovir
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+39809-25-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H15N5O3
+
+> <STRUCTURE_MW>
+253.2578
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-amino-9-[4-hydroxy-3-(hydroxymethyl)butyl]-3,9-dihydro-6H-purin-6-one
+
+> <STRUCTURE_SMILES>
+OCC(CO)CCn2cnc1c2NC(N)=NC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+OCC(CO)CCn2cnc1c2NC(N)=NC1=O
+
+> <Substance_modify_yyyymmdd>
+20110812
+
+$$$$

@@ -1,0 +1,96 @@
+1338-24-5
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    7.2279   -1.1841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9616   -0.7812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9748   -1.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4992   -2.4833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2228   -0.3042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7085   -1.2499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6149   -2.0393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5377   -1.2499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9570    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2891    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2714   -1.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.9684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+5127
+
+> <Formula>
+C10H18O2
+
+> <FW>
+170.2487
+
+> <DSSTox_CID>
+7394
+
+> <DSSTox_RID>
+78434
+
+> <DSSTox_GSID>
+27394
+
+> <DSSTox_FileID_Sort>
+3117
+
+> <TS_ChemName>
+Naphthenic acids
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1338-24-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of carboxylic acid derivatives recovered from petroleum refining; most common class is derived from cyclopentane with various alkyl side chains; structure shown 3-(3-ethylcyclopentyl)propanoic acid
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C10H18O2
+
+> <STRUCTURE_MW>
+170.2487
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(3-ethylcyclopentyl)propanoic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)CCC1CCC(C1)CC
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)CCC1CCC(C1)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

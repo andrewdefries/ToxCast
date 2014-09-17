@@ -1,0 +1,92 @@
+95-93-2
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    2.0018   -1.1623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7029   -2.3062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0018   -3.4501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6826   -3.4501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6826   -1.1623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6383    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0323    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0323   -4.6124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6383   -4.6124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+5802
+
+> <Formula>
+C10H14
+
+> <FW>
+134.2182
+
+> <DSSTox_CID>
+9124
+
+> <DSSTox_RID>
+78675
+
+> <DSSTox_GSID>
+29124
+
+> <DSSTox_FileID_Sort>
+3357
+
+> <TS_ChemName>
+1,2,4,5-Tetramethylbenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+95-93-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14
+
+> <STRUCTURE_MW>
+134.2182
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2,4,5-tetramethylbenzene
+
+> <STRUCTURE_SMILES>
+Cc1cc(C)c(C)cc1C
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(C)c(C)cc1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

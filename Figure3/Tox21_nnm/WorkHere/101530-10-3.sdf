@@ -1,0 +1,114 @@
+101530-10-3
+ChemmineR-0915142007XD
+
+ 20 22  0  0  0  0  0  0  0  0  1 V2000
+    4.5374   -1.2100    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7749   -1.6500    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7749   -2.9516    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5374   -3.3916    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7399   -2.2916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7416   -3.4191    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1633   -4.7024    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0816   -5.4724    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.7024    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4217   -3.4191    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4199   -2.2916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7416   -1.1458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8748   -3.7491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8748   -5.0874    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0206   -5.7474    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1664   -5.0874    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1664   -3.7491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0206   -3.0891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7107   -5.7474    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0816    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 20  3  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+11672
+
+> <Formula>
+C14H10ClN3S2
+
+> <FW>
+319.8323
+
+> <DSSTox_CID>
+26428
+
+> <DSSTox_RID>
+81606
+
+> <DSSTox_GSID>
+46428
+
+> <DSSTox_FileID_Sort>
+6287
+
+> <TS_ChemName>
+Lanoconazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+101530-10-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H10ClN3S2
+
+> <STRUCTURE_MW>
+319.8323
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2Z)-[4-(2-chlorophenyl)-1,3-dithiolan-2-ylidene](1H-imidazol-1-yl)acetonitrile
+
+> <STRUCTURE_SMILES>
+N#C\C(=C1/SCC(S1)c2ccccc2Cl)n3ccnc3
+
+> <STRUCTURE_SMILES_Desalt>
+N#C\C(=C1/SCC(S1)c2ccccc2Cl)n3ccnc3
+
+> <Substance_modify_yyyymmdd>
+20110813
+
+$$$$

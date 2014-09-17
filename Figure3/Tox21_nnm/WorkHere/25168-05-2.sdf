@@ -1,0 +1,88 @@
+25168-05-2
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1521   -1.3275    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -1.9853    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -3.3129    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -3.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3129    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9853    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4564   -3.9866    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+5448
+
+> <Formula>
+C7H7Cl
+
+> <FW>
+126.5835
+
+> <DSSTox_CID>
+7852
+
+> <DSSTox_RID>
+78590
+
+> <DSSTox_GSID>
+27852
+
+> <DSSTox_FileID_Sort>
+3273
+
+> <TS_ChemName>
+Chlorotoluene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+25168-05-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 1-chloro-2-methyl [95-49-8]; -3-methyl [108-41-8] and 4-methyl [106-43-4]; structure shown 3-methyl
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C7H7Cl
+
+> <STRUCTURE_MW>
+126.5835
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-3-methylbenzene
+
+> <STRUCTURE_SMILES>
+Cc1cc(Cl)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(Cl)ccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

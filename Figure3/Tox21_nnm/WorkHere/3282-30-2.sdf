@@ -1,0 +1,85 @@
+3282-30-2
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    2.4844   -3.3347    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3306   -2.6778    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3306   -1.3472    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3306    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1934   -3.3347    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6611   -1.3472    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3306    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+M  END
+> <ID>
+5223
+
+> <Formula>
+C5H9ClO
+
+> <FW>
+120.5774
+
+> <DSSTox_CID>
+7529
+
+> <DSSTox_RID>
+78491
+
+> <DSSTox_GSID>
+27529
+
+> <DSSTox_FileID_Sort>
+3174
+
+> <TS_ChemName>
+2,2-Dimethylpropanoyl chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3282-30-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H9ClO
+
+> <STRUCTURE_MW>
+120.5774
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2-dimethylpropanoyl chloride
+
+> <STRUCTURE_SMILES>
+CC(C)(C)C(Cl)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)C(Cl)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,95 @@
+657-84-1
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  2 V2000
+    0.0000    0.0000    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    2.5431   -2.8305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2554   -3.9677    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5431   -5.1174    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2622   -5.1174    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5499   -3.9677    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2622   -2.8305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2054   -1.6808    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4863   -2.3931    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8177   -0.5499    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.0869   -1.0372    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5998   -6.2483    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+M  END
+> <ID>
+5354
+
+> <Formula>
+C7H7NaO3S
+
+> <FW>
+194.1834 (22.9892+171.1942)
+
+> <DSSTox_CID>
+7736
+
+> <DSSTox_RID>
+80016
+
+> <DSSTox_GSID>
+42415
+
+> <DSSTox_FileID_Sort>
+4698
+
+> <TS_ChemName>
+Sodium 4-methylbenzenesulfonate
+
+> <TS_ChemName_Synonyms>
+Sodium p-tolylsulfonate
+
+> <TS_CASRN>
+657-84-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7NaO3S
+
+> <STRUCTURE_MW>
+194.1834
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 4-methylbenzenesulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].Cc1ccc(cc1)S(=O)([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)S(O)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

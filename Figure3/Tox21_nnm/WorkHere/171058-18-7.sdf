@@ -1,0 +1,105 @@
+171058-18-7
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  2 V2000
+    1.8286   -7.3513    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+   12.2727   -8.0509    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5282   -4.4550    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0677    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1600   -2.1109    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7427   -3.3750    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1109    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0677   -1.3254    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.4173   -3.3750    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8413   -4.3200    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6268   -5.4000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9645   -5.2527    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7254   -6.3204    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0631   -6.1977    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.8486   -7.2654    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.1618   -7.1304    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.9472   -8.1981    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2 17  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+14091
+
+> <Formula>
+C14H27ClN2
+
+> <FW>
+258.8306 (35.4535+223.3770)
+
+> <DSSTox_CID>
+29084
+
+> <DSSTox_RID>
+83303
+
+> <DSSTox_GSID>
+49228
+
+> <DSSTox_FileID_Sort>
+7978
+
+> <TS_ChemName>
+1-Decyl-3-methylimidazolium chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+171058-18-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H27ClN2
+
+> <STRUCTURE_MW>
+258.8306
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+1-decyl-3-methyl-1H-imidazol-3-ium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C[n+]1ccn(CCCCCCCCCC)c1
+
+> <STRUCTURE_SMILES_Desalt>
+C[n+]1ccn(CCCCCCCCCC)c1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

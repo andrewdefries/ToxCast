@@ -1,0 +1,96 @@
+101-48-4
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.3108   -3.9990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1554   -3.3405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1554   -5.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3108   -5.3281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4662   -3.3226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4662   -1.9876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3108   -1.3350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2450    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6217   -1.3350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6695   -0.0180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+12157
+
+> <Formula>
+C10H14O2
+
+> <FW>
+166.217
+
+> <DSSTox_CID>
+27001
+
+> <DSSTox_RID>
+82045
+
+> <DSSTox_GSID>
+47001
+
+> <DSSTox_FileID_Sort>
+6726
+
+> <TS_ChemName>
+(2,2-Dimethoxyethyl)benzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+101-48-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14O2
+
+> <STRUCTURE_MW>
+166.217
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2,2-dimethoxyethyl)benzene
+
+> <STRUCTURE_SMILES>
+COC(OC)Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+COC(OC)Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20120115
+
+$$$$

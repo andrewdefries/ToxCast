@@ -1,0 +1,102 @@
+1907-65-9
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    3.4483   -0.6731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4483   -1.9985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2885   -2.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1391   -1.9985    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1391   -0.6731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2885    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5977   -2.6613    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9453   -3.8107    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2708   -1.5222    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7575   -3.3344    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9069   -2.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0667   -3.3344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2161   -2.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3552   -3.3344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+9128
+
+> <Formula>
+C11H17NO2S
+
+> <FW>
+227.3232
+
+> <DSSTox_CID>
+22198
+
+> <DSSTox_RID>
+79954
+
+> <DSSTox_GSID>
+42198
+
+> <DSSTox_FileID_Sort>
+4636
+
+> <TS_ChemName>
+N-Butyl-p-toluenesulfonamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1907-65-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H17NO2S
+
+> <STRUCTURE_MW>
+227.3232
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-butyl-4-methylbenzenesulfonamide
+
+> <STRUCTURE_SMILES>
+Cc1ccc(cc1)S(=O)(=O)NCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)S(=O)(=O)NCCCC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

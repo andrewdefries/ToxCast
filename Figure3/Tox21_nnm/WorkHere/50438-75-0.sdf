@@ -1,0 +1,96 @@
+50438-75-0
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    1.1516    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4467   -3.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4467   -1.3287    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3112   -3.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7417   -3.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9014   -3.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -3.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3112   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -1.3287    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0529   -3.9943    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  6  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+14173
+
+> <Formula>
+C10H15NO
+
+> <FW>
+165.2322
+
+> <DSSTox_CID>
+29265
+
+> <DSSTox_RID>
+83384
+
+> <DSSTox_GSID>
+49309
+
+> <DSSTox_FileID_Sort>
+8059
+
+> <TS_ChemName>
+p-N,N-Dimethylaminophenethanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+50438-75-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H15NO
+
+> <STRUCTURE_MW>
+165.2322
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[4-(dimethylamino)phenyl]ethanol
+
+> <STRUCTURE_SMILES>
+CN(C)c1ccc(CCO)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)c1ccc(CCO)cc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

@@ -1,0 +1,91 @@
+7360-53-4
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    4.6487   -3.4462    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9829   -3.4462    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9966   -2.2915    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6581   -3.4641    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6188    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9863   -3.4462    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6581   -1.1547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9863   -1.1547    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6624   -2.3094    0.0000 Al   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+10376
+
+> <Formula>
+C3H3AlO6
+
+> <FW>
+162.0339
+
+> <DSSTox_CID>
+24724
+
+> <DSSTox_RID>
+80424
+
+> <DSSTox_GSID>
+44724
+
+> <DSSTox_FileID_Sort>
+5106
+
+> <TS_ChemName>
+Aluminum triformate
+
+> <TS_ChemName_Synonyms>
+Aluminum triformate (Formic acid, aluminum salt)
+
+> <TS_CASRN>
+7360-53-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H3AlO6
+
+> <STRUCTURE_MW>
+162.0339
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+aluminium triformate
+
+> <STRUCTURE_SMILES>
+O=CO[Al](OC=O)OC=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=CO[Al](OC=O)OC=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

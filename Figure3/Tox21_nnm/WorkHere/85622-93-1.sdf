@@ -1,0 +1,101 @@
+85622-93-1
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    1.1570   -1.9926    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1570   -3.3231    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3140   -3.9852    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3140   -1.3177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4517   -1.9926    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4517   -3.3231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7243   -3.7280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5085   -2.6546    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7243   -1.5748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3140    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1421   -4.9943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4277   -5.2707    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2423   -5.9777    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+9558
+
+> <Formula>
+C6H6N6O2
+
+> <FW>
+194.1508
+
+> <DSSTox_CID>
+23714
+
+> <DSSTox_RID>
+80068
+
+> <DSSTox_GSID>
+43714
+
+> <DSSTox_FileID_Sort>
+4750
+
+> <TS_ChemName>
+Temozolomide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+85622-93-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6N6O2
+
+> <STRUCTURE_MW>
+194.1508
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methyl-4-oxo-3,4-dihydroimidazo[5,1-d][1,2,3,5]tetrazine-8-carboxamide
+
+> <STRUCTURE_SMILES>
+NC(=O)c1ncn2C(=O)N(C)N=Nc12
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)c1ncn2C(=O)N(C)N=Nc12
+
+> <Substance_modify_yyyymmdd>
+20081010
+
+$$$$

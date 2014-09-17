@@ -1,0 +1,103 @@
+84087-01-4
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    5.7219    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5706   -0.6894    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5844   -2.0199    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4331   -2.6955    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2750   -2.0406    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2750   -0.7101    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4124   -0.0345    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1375   -2.7093    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1375   -4.0398    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3094   -4.7016    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4469   -4.0260    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.7154    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7426   -2.6610    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8938   -1.9923    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7563   -3.9915    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+6559
+
+> <Formula>
+C10H5Cl2NO2
+
+> <FW>
+242.0582
+
+> <DSSTox_CID>
+12641
+
+> <DSSTox_RID>
+79020
+
+> <DSSTox_GSID>
+32641
+
+> <DSSTox_FileID_Sort>
+3702
+
+> <TS_ChemName>
+Quinclorac
+
+> <TS_ChemName_Synonyms>
+Quinclorac (3,7 dichloroquinoline-8-carboxylic acid)
+
+> <TS_CASRN>
+84087-01-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H5Cl2NO2
+
+> <STRUCTURE_MW>
+242.0582
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,7-dichloroquinoline-8-carboxylic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)c1c(Cl)ccc2cc(Cl)cnc12
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)c1c(Cl)ccc2cc(Cl)cnc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

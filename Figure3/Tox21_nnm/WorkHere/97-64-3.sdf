@@ -1,0 +1,87 @@
+97-64-3
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    3.4524   -1.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031   -1.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7539   -1.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4524    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3016   -1.9966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031   -3.3258    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1508   -1.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+5803
+
+> <Formula>
+C5H10O3
+
+> <FW>
+118.1311
+
+> <DSSTox_CID>
+9127
+
+> <DSSTox_RID>
+78676
+
+> <DSSTox_GSID>
+29127
+
+> <DSSTox_FileID_Sort>
+3358
+
+> <TS_ChemName>
+Ethyl lactate
+
+> <TS_ChemName_Synonyms>
+Ethyl lactate (Propanoic acid, 2-hydroxy-, ethyl ester)
+
+> <TS_CASRN>
+97-64-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10O3
+
+> <STRUCTURE_MW>
+118.1311
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 2-hydroxypropanoate
+
+> <STRUCTURE_SMILES>
+CC(O)C(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

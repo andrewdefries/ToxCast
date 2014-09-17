@@ -1,0 +1,90 @@
+1122-62-9
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9965   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6574    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9884    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6539   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9884   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6574   -2.3037    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+3661
+
+> <Formula>
+C7H7NO
+
+> <FW>
+121.1366
+
+> <DSSTox_CID>
+4409
+
+> <DSSTox_RID>
+77390
+
+> <DSSTox_GSID>
+24409
+
+> <DSSTox_FileID_Sort>
+2073
+
+> <TS_ChemName>
+2-Acetylpyridine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1122-62-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7NO
+
+> <STRUCTURE_MW>
+121.1366
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(pyridin-2-yl)ethanone
+
+> <STRUCTURE_SMILES>
+CC(=O)c1ccccn1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)c1ccccn1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

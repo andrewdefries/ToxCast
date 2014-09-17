@@ -1,0 +1,94 @@
+119-36-8
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.1516    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9992    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3032   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -3.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548   -3.9845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3032   -3.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+4327
+
+> <Formula>
+C8H8O3
+
+> <FW>
+152.1473
+
+> <DSSTox_CID>
+5659
+
+> <DSSTox_RID>
+77872
+
+> <DSSTox_GSID>
+25659
+
+> <DSSTox_FileID_Sort>
+2555
+
+> <TS_ChemName>
+Methyl salicylate
+
+> <TS_ChemName_Synonyms>
+Benzoic acid, 2-hydroxy-, methyl ester
+
+> <TS_CASRN>
+119-36-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8O3
+
+> <STRUCTURE_MW>
+152.1473
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 2-hydroxybenzoate
+
+> <STRUCTURE_SMILES>
+Oc1ccccc1C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccccc1C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

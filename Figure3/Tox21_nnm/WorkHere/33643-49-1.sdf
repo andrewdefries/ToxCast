@@ -1,0 +1,105 @@
+33643-49-1
+ChemmineR-0915142007XD
+
+ 16 17  0  0  1  0  0  0  0  0  1 V2000
+    2.3206   -2.0140    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3206   -3.3427    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3206   -0.6733    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1663   -4.0160    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4689   -1.3587    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4689    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3246    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1663   -2.6693    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4689   -4.0160    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1663   -0.0180    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1663   -5.3387    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6052   -2.0140    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0180   -2.0140    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4689   -5.3387    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0180   -0.6733    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3206   -6.0120    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  1  1  0  0  0
+  1  8  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  6  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <ID>
+13738
+
+> <Formula>
+C13H16ClNO
+
+> <FW>
+237.7252
+
+> <DSSTox_CID>
+28673
+
+> <DSSTox_RID>
+82943
+
+> <DSSTox_GSID>
+48747
+
+> <DSSTox_FileID_Sort>
+7620
+
+> <TS_ChemName>
+Cyclohexanone, 2-(2-chlorophenyl)-2-(methylamino)-, (2R)-
+
+> <TS_ChemName_Synonyms>
+(R)-(+)-Ketamine
+
+> <TS_CASRN>
+33643-49-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+absolute stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H16ClNO
+
+> <STRUCTURE_MW>
+237.7252
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2R)-2-(2-chlorophenyl)-2-(methylamino)cyclohexanone
+
+> <STRUCTURE_SMILES>
+CN[C@]1(CCCCC1=O)c2ccccc2Cl
+
+> <STRUCTURE_SMILES_Desalt>
+CN[C@]1(CCCCC1=O)c2ccccc2Cl
+
+> <Substance_modify_yyyymmdd>
+20111212
+
+$$$$

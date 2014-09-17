@@ -1,0 +1,104 @@
+1083-57-4
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    8.0640   -1.9929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0640   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9120    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7600   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7600   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -2.6611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -2.6611    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2159    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3679   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5199    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3679   -1.9929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <ID>
+691
+
+> <Formula>
+C12H17NO3
+
+> <FW>
+223.2683
+
+> <DSSTox_CID>
+721
+
+> <DSSTox_RID>
+75756
+
+> <DSSTox_GSID>
+20721
+
+> <DSSTox_FileID_Sort>
+440
+
+> <TS_ChemName>
+3-Hydroxy-4-butyrophenetidide
+
+> <TS_ChemName_Synonyms>
+3-Hydroxy-p-butyrophenetidide
+
+> <TS_CASRN>
+1083-57-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H17NO3
+
+> <STRUCTURE_MW>
+223.2683
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(4-ethoxyphenyl)-3-hydroxybutanamide
+
+> <STRUCTURE_SMILES>
+CCOc1ccc(cc1)NC(=O)CC(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+CCOc1ccc(cc1)NC(=O)CC(C)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

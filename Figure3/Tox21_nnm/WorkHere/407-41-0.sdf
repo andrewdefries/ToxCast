@@ -1,0 +1,93 @@
+407-41-0
+ChemmineR-0915142007XD
+
+ 11 10  0  0  1  0  0  0  0  0  1 V2000
+    2.3107   -2.0072    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4488   -1.3313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6007   -2.0072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7458   -1.3313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8977   -1.9934    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7458    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6007   -3.3385    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -1.3519    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6898    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4966   -2.5039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8141   -0.1931    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  7  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  5  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+11619
+
+> <Formula>
+C3H8NO6P
+
+> <FW>
+185.0725
+
+> <DSSTox_CID>
+26348
+
+> <DSSTox_RID>
+81552
+
+> <DSSTox_GSID>
+46348
+
+> <DSSTox_FileID_Sort>
+6233
+
+> <TS_ChemName>
+Dexfosfoserine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+407-41-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H8NO6P
+
+> <STRUCTURE_MW>
+185.0725
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O-phosphono-L-serine
+
+> <STRUCTURE_SMILES>
+O=P(O)(O)OC[C@H](N)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=P(O)(O)OC[C@H](N)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20110814
+
+$$$$

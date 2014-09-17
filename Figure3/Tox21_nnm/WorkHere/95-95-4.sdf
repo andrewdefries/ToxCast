@@ -1,0 +1,92 @@
+95-95-4
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6618    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1467   -1.9986    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1467   -0.6678    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2980    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4539   -0.6678    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4539   -1.9986    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2980   -2.6618    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6052   -2.6618    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6052    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+3641
+
+> <Formula>
+C6H3Cl3O
+
+> <FW>
+197.4464
+
+> <DSSTox_CID>
+4359
+
+> <DSSTox_RID>
+77378
+
+> <DSSTox_GSID>
+24359
+
+> <DSSTox_FileID_Sort>
+2061
+
+> <TS_ChemName>
+2,4,5-Trichlorophenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+95-95-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H3Cl3O
+
+> <STRUCTURE_MW>
+197.4464
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4,5-trichlorophenol
+
+> <STRUCTURE_SMILES>
+Oc1cc(Cl)c(Cl)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1cc(Cl)c(Cl)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

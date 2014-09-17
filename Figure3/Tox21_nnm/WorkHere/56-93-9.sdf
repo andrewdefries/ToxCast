@@ -1,0 +1,95 @@
+56-93-9
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  2 V2000
+    1.8141   -0.8408    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.9926    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.4895   -3.1444    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3303    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -2.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -1.9926    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -0.6623    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7591   -0.6623    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7591   -1.9926    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -2.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9256   -4.4748    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+3757
+
+> <Formula>
+C10H16ClN
+
+> <FW>
+185.6937 (150.2402+35.4535)
+
+> <DSSTox_CID>
+4600
+
+> <DSSTox_RID>
+77464
+
+> <DSSTox_GSID>
+24600
+
+> <DSSTox_FileID_Sort>
+2147
+
+> <TS_ChemName>
+Benzyltrimethylammonium chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+56-93-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [14800-24-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16ClN
+
+> <STRUCTURE_MW>
+185.6937
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+N,N,N-trimethyl(phenyl)methanaminium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C[N+](C)(C)Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(C)Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

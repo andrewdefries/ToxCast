@@ -1,0 +1,107 @@
+1143-72-2
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    5.9868   -4.6059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3243   -3.4564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9868   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3243   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9868    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3199    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9824   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3199   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -3.4564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3287   -4.6059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -4.6059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3331   -3.4564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4564    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3331   -1.1495    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3287   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -1.1495    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+7416
+
+> <Formula>
+C13H10O4
+
+> <FW>
+230.2161
+
+> <DSSTox_CID>
+17728
+
+> <DSSTox_RID>
+79365
+
+> <DSSTox_GSID>
+37728
+
+> <DSSTox_FileID_Sort>
+4047
+
+> <TS_ChemName>
+2,3,4-Trihydroxbenzophenone
+
+> <TS_ChemName_Synonyms>
+2,3,4-Trihydroxbenzophenone (methanone, phenyl(2,3,4-trihydroxyphenyl))
+
+> <TS_CASRN>
+1143-72-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H10O4
+
+> <STRUCTURE_MW>
+230.2161
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+phenyl(2,3,4-trihydroxyphenyl)methanone
+
+> <STRUCTURE_SMILES>
+Oc2ccc(C(=O)c1ccccc1)c(O)c2O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccc(C(=O)c1ccccc1)c(O)c2O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,98 @@
+2996-92-1
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    3.9834   -2.3112    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6748   -1.1526    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3112    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6748   -3.4638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9887   -3.4638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6695   -2.3112    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9887   -1.1526    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6582   -3.4638    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9721   -3.4638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6582   -1.1526    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9834    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3151   -2.3112    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9721   -1.1526    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+7896
+
+> <Formula>
+C9H14O3Si
+
+> <FW>
+198.2912
+
+> <DSSTox_CID>
+20700
+
+> <DSSTox_RID>
+79551
+
+> <DSSTox_GSID>
+40700
+
+> <DSSTox_FileID_Sort>
+4233
+
+> <TS_ChemName>
+Trimethoxyphenylsilane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2996-92-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H14O3Si
+
+> <STRUCTURE_MW>
+198.2912
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+trimethoxy(phenyl)silane
+
+> <STRUCTURE_SMILES>
+CO[Si](OC)(OC)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CO[Si](OC)(OC)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,89 @@
+26842-43-3
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1409   -0.6453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2990   -1.3195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4629   -0.6453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6210   -1.3195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7619   -0.6453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2990   -2.6389    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1409   -1.9936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6210   -2.6389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  3  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+M  END
+> <ID>
+10546
+
+> <Formula>
+C7H14N2
+
+> <FW>
+126.1995
+
+> <DSSTox_CID>
+24899
+
+> <DSSTox_RID>
+80570
+
+> <DSSTox_GSID>
+44899
+
+> <DSSTox_FileID_Sort>
+5252
+
+> <TS_ChemName>
+2-Amino-2,4-dimethylpentanenitrile
+
+> <TS_ChemName_Synonyms>
+Pentanenitrile, 2-amino-2,4-dimethyl-
+
+> <TS_CASRN>
+26842-43-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14N2
+
+> <STRUCTURE_MW>
+126.1995
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-amino-2,4-dimethylpentanenitrile
+
+> <STRUCTURE_SMILES>
+CC(C)CC(C)(N)C#N
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CC(C)(N)C#N
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

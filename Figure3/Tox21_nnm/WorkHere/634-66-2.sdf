@@ -1,0 +1,92 @@
+634-66-2
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.9887    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239   -1.1541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887   -2.3081    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3182   -2.3081    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239   -3.4568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -3.4568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -2.3081    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3081    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -1.1541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+4538
+
+> <Formula>
+C6H2Cl4
+
+> <FW>
+215.8921
+
+> <DSSTox_CID>
+6088
+
+> <DSSTox_RID>
+78012
+
+> <DSSTox_GSID>
+26088
+
+> <DSSTox_FileID_Sort>
+2695
+
+> <TS_ChemName>
+1,2,3,4-Tetrachlorobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+634-66-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H2Cl4
+
+> <STRUCTURE_MW>
+215.8921
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2,3,4-tetrachlorobenzene
+
+> <STRUCTURE_SMILES>
+Clc1ccc(Cl)c(Cl)c1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(Cl)c(Cl)c1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

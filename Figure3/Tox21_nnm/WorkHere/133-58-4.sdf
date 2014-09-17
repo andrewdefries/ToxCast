@@ -1,0 +1,97 @@
+133-58-4
+ChemmineR-0915142007XD
+
+ 12 13  0  0  0  0  0  0  0  0  2 V2000
+    1.1486   -5.9822    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1486   -4.6541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -3.9901    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6312   -3.9901    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6312   -2.6561    0.0000 Hg   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -2.6561    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1486   -1.9921    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6561    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9901    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1486   -0.6640    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    2.3031    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+16042
+
+> <Formula>
+C7H5HgNO3
+
+> <FW>
+351.7095
+
+> <DSSTox_CID>
+31427
+
+> <DSSTox_RID>
+97313
+
+> <DSSTox_GSID>
+57638
+
+> <DSSTox_FileID_Sort>
+8380
+
+> <TS_ChemName>
+Nitromersol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+133-58-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H5HgNO3
+
+> <STRUCTURE_MW>
+351.7095
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+Structure contains atom(s) in disallowed valence state!
+
+> <STRUCTURE_SMILES>
+Cc1ccc(c2[Hg]Oc12)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(c2[Hg]Oc12)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

@@ -1,0 +1,111 @@
+1491-59-4
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    2.3059   -1.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4588   -1.3345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6027   -3.3136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6027   -1.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3059   -3.3136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4588   -3.9944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9267   -3.3317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3352   -2.0789    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1620   -1.3345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7647   -3.9944    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9889   -4.1215    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4588    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7647   -1.3345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6697   -2.0789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4588   -5.3198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0782   -3.3317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4902   -2.4784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8156   -0.1725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <ID>
+7888
+
+> <Formula>
+C16H24N2O
+
+> <FW>
+260.3746
+
+> <DSSTox_CID>
+20691
+
+> <DSSTox_RID>
+79545
+
+> <DSSTox_GSID>
+40691
+
+> <DSSTox_FileID_Sort>
+4227
+
+> <TS_ChemName>
+Oxymetazoline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1491-59-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H24N2O
+
+> <STRUCTURE_MW>
+260.3746
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-tert-butyl-3-(4,5-dihydro-1H-imidazol-2-ylmethyl)-2,4-dimethylphenol
+
+> <STRUCTURE_SMILES>
+CC(C)(C)c2cc(C)c(CC1=NCCN1)c(C)c2O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c2cc(C)c(CC1=NCCN1)c(C)c2O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

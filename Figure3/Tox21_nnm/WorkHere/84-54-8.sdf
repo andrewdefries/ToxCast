@@ -1,0 +1,108 @@
+84-54-8
+ChemmineR-0915142007XD
+
+ 17 19  0  0  0  0  0  0  0  0  1 V2000
+    3.4162   -4.0257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4483   -1.3472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2935   -2.0209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2935   -3.3521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5710   -2.0209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5710   -3.3521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4483    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4162   -5.3408    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7258   -4.0257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7258   -1.3472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -4.0257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8805   -2.0209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8805   -3.3521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0193   -1.3472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  2  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3 12  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 16  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+8405
+
+> <Formula>
+C15H10O2
+
+> <FW>
+222.2387
+
+> <DSSTox_CID>
+21439
+
+> <DSSTox_RID>
+79734
+
+> <DSSTox_GSID>
+41439
+
+> <DSSTox_FileID_Sort>
+4416
+
+> <TS_ChemName>
+2-Methylanthraquinone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+84-54-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H10O2
+
+> <STRUCTURE_MW>
+222.2387
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylanthracene-9,10-dione
+
+> <STRUCTURE_SMILES>
+Cc2ccc3C(=O)c1ccccc1C(=O)c3c2
+
+> <STRUCTURE_SMILES_Desalt>
+Cc2ccc3C(=O)c1ccccc1C(=O)c3c2
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

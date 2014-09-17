@@ -1,0 +1,101 @@
+2107-69-9
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    1.1506   -5.0015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1506   -3.6713    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -3.0062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4518   -3.6713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6024   -3.0062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6024   -1.6760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4518   -1.0109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -1.6760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1506   -1.0109    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8727   -1.2637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2784    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6509   -2.3411    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8727   -3.4186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+16082
+
+> <Formula>
+C11H12O3
+
+> <FW>
+192.2112
+
+> <DSSTox_CID>
+31469
+
+> <DSSTox_RID>
+97354
+
+> <DSSTox_GSID>
+57680
+
+> <DSSTox_FileID_Sort>
+8421
+
+> <TS_ChemName>
+5,6-Dimethoxy-1-indanone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2107-69-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H12O3
+
+> <STRUCTURE_MW>
+192.2112
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5,6-dimethoxyindan-1-one
+
+> <STRUCTURE_SMILES>
+COc1cc2C(=O)CCc2cc1OC
+
+> <STRUCTURE_SMILES_Desalt>
+COc1cc2C(=O)CCc2cc1OC
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

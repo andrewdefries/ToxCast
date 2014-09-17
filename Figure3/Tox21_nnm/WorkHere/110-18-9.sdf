@@ -1,0 +1,87 @@
+110-18-9
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    4.6103   -1.3312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -1.9939    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -3.3252    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7628   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+M  END
+> <ID>
+4554
+
+> <Formula>
+C6H16N2
+
+> <FW>
+116.2046
+
+> <DSSTox_CID>
+6122
+
+> <DSSTox_RID>
+78026
+
+> <DSSTox_GSID>
+26122
+
+> <DSSTox_FileID_Sort>
+2709
+
+> <TS_ChemName>
+N,N,N',N'-Tetramethylethylenediamine
+
+> <TS_ChemName_Synonyms>
+N,N,N',N'-Tetramethylethylenediamine (1,2-Ethanediamine, N,N,N',N'-tetramethyl-)
+
+> <TS_CASRN>
+110-18-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H16N2
+
+> <STRUCTURE_MW>
+116.2046
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N,N',N'-tetramethylethane-1,2-diamine
+
+> <STRUCTURE_SMILES>
+CN(C)CCN(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCN(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

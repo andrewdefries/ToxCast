@@ -1,0 +1,113 @@
+3524-68-3
+ChemmineR-0915142007XD
+
+ 21 20  0  0  0  0  0  0  0  0  1 V2000
+    3.9912   -7.9825    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1407   -7.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1407   -5.9869    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -5.3243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -3.9912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3243   -3.9912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9869   -5.1407    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582   -3.9912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -5.1407    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6625   -5.1407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.2982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6625   -7.4476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -2.6582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8418   -1.9956    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8418   -0.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6843    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5348   -0.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2982   -7.9825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4476   -7.3199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 20 21  2  0  0  0  0
+M  END
+> <ID>
+4431
+
+> <Formula>
+C14H18O7
+
+> <FW>
+298.2885
+
+> <DSSTox_CID>
+5842
+
+> <DSSTox_RID>
+77943
+
+> <DSSTox_GSID>
+25842
+
+> <DSSTox_FileID_Sort>
+2626
+
+> <TS_ChemName>
+Pentaerythritol triacrylate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3524-68-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H18O7
+
+> <STRUCTURE_MW>
+298.2885
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(acryloyloxy)-2-[(acryloyloxy)methyl]-2-(hydroxymethyl)propyl prop-2-enoate
+
+> <STRUCTURE_SMILES>
+O=C(C=C)OCC(COC(=O)C=C)(CO)COC(=O)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C=C)OCC(COC(=O)C=C)(CO)COC(=O)C=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

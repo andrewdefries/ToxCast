@@ -1,0 +1,105 @@
+3696-28-4
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -2.0092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3077   -0.6778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3077   -2.0092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -2.6628    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.1539   -3.9942    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.4616   -2.6628    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6235   -2.0092    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7774   -2.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9152   -2.0092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0690   -2.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0690   -3.9942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9152   -4.6720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7774   -3.9942    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.6235   -4.6720    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+8843
+
+> <Formula>
+C10H8N2O2S2
+
+> <FW>
+252.3127
+
+> <DSSTox_CID>
+21897
+
+> <DSSTox_RID>
+79871
+
+> <DSSTox_GSID>
+41897
+
+> <DSSTox_FileID_Sort>
+4553
+
+> <TS_ChemName>
+Dipyrithione
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3696-28-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H8N2O2S2
+
+> <STRUCTURE_MW>
+252.3127
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-disulfanediylbis(pyridine) 1,1'-dioxide
+
+> <STRUCTURE_SMILES>
+[O-][n+]2ccccc2SSc1cccc[n+]1[O-]
+
+> <STRUCTURE_SMILES_Desalt>
+O[n+]2ccccc2SSc1cccc[n+]1O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

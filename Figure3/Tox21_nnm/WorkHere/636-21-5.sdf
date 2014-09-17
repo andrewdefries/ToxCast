@@ -1,0 +1,89 @@
+636-21-5
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.3321   -2.3024    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9940   -1.1512    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261   -1.1512    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9922   -2.3024    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261   -3.4536    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9940   -3.4536    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3321    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3024    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1717   -4.1114    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+1311
+
+> <Formula>
+C7H10ClN
+
+> <FW>
+143.6140 (107.1531+36.4609)
+
+> <DSSTox_CID>
+1364
+
+> <DSSTox_RID>
+76110
+
+> <DSSTox_GSID>
+21364
+
+> <DSSTox_FileID_Sort>
+794
+
+> <TS_ChemName>
+2-Methylaniline hydrochloride
+
+> <TS_ChemName_Synonyms>
+2-Methylaniline hydrochloride (o-Toluidine hydrochloride)
+
+> <TS_CASRN>
+636-21-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [95-53-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H10ClN
+
+> <STRUCTURE_MW>
+143.614
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-methylaniline hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Cc1ccccc1N
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccccc1N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

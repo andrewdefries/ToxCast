@@ -1,0 +1,111 @@
+574-06-1
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    5.7588   -5.9822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6023   -6.6442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6023   -7.9762    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4537   -5.9822    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4537   -4.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6023   -3.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7588   -4.6501    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6023   -2.6561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4537   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4537   -0.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6023    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7588   -0.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7588   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -3.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1486   -4.6501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1486   -1.9941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -2.6561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+3748
+
+> <Formula>
+C16H14O3
+
+> <FW>
+254.2806
+
+> <DSSTox_CID>
+4580
+
+> <DSSTox_RID>
+77456
+
+> <DSSTox_GSID>
+24580
+
+> <DSSTox_FileID_Sort>
+2139
+
+> <TS_ChemName>
+Benzoin acetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+574-06-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H14O3
+
+> <STRUCTURE_MW>
+254.2806
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-oxo-1,2-diphenylethyl acetate
+
+> <STRUCTURE_SMILES>
+CC(=O)OC(C(=O)c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)OC(C(=O)c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

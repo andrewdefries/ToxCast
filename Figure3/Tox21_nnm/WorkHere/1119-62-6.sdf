@@ -1,0 +1,95 @@
+1119-62-6
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    9.1983   -1.3332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1983    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3352   -2.0050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0511   -2.0050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8936   -1.3332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1369   -2.0050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1369   -3.3279    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3332    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2841   -1.3332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4416   -2.0050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5888   -1.3332    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7464   -2.0050    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+6592
+
+> <Formula>
+C6H10O4S2
+
+> <FW>
+210.2712
+
+> <DSSTox_CID>
+12998
+
+> <DSSTox_RID>
+79045
+
+> <DSSTox_GSID>
+32998
+
+> <DSSTox_FileID_Sort>
+3727
+
+> <TS_ChemName>
+3,3'-Dithiodipropionic acid
+
+> <TS_ChemName_Synonyms>
+3,3-Dithiodipropionic acid
+
+> <TS_CASRN>
+1119-62-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10O4S2
+
+> <STRUCTURE_MW>
+210.2712
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3'-disulfanediyldipropanoic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)CCSSCCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)CCSSCCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

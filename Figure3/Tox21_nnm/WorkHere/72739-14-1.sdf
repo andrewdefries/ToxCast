@@ -1,0 +1,95 @@
+72739-14-1
+ChemmineR-0915142007XD
+
+ 12 11  0  0  1  0  0  0  0  0  1 V2000
+    3.4642   -1.3443    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4642    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2922   -2.0222    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6074   -1.9877    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7449   -1.3443    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2922   -3.3493    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1375   -1.3443    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6074   -3.3378    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1375   -4.0099    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0222    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3493    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4986   -3.8318    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+13855
+
+> <Formula>
+C9H12ClNO
+
+> <FW>
+185.6507 (149.1897+36.4609)
+
+> <DSSTox_CID>
+28792
+
+> <DSSTox_RID>
+83061
+
+> <DSSTox_GSID>
+48866
+
+> <DSSTox_FileID_Sort>
+7738
+
+> <TS_ChemName>
+(S)-(-)-Cathinone hydrochloride
+
+> <TS_ChemName_Synonyms>
+Khat
+
+> <TS_CASRN>
+72739-14-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [71031-15-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12ClNO
+
+> <STRUCTURE_MW>
+185.6507
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(2S)-2-amino-1-phenylpropan-1-one hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C([C@H](C)N)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C([C@H](C)N)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

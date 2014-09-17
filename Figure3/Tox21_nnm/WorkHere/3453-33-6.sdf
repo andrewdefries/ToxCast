@@ -1,0 +1,101 @@
+3453-33-6
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -5.3222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9951    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543   -3.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3017   -3.9951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -3.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103   -3.9951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7577   -3.3246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7577   -1.9976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9119   -1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9119    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103   -1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -1.9976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3017   -1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543   -1.9976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+16122
+
+> <Formula>
+C12H10O2
+
+> <FW>
+186.2066
+
+> <DSSTox_CID>
+31510
+
+> <DSSTox_RID>
+97395
+
+> <DSSTox_GSID>
+57721
+
+> <DSSTox_FileID_Sort>
+8462
+
+> <TS_ChemName>
+6-Methoxy-2-naphthalaldehyde
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3453-33-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10O2
+
+> <STRUCTURE_MW>
+186.2066
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-methoxy-2-naphthaldehyde
+
+> <STRUCTURE_SMILES>
+O=Cc1ccc2cc(ccc2c1)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=Cc1ccc2cc(ccc2c1)OC
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

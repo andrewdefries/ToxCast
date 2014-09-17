@@ -1,0 +1,88 @@
+591-27-5
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -2.6588    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -2.6588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <ID>
+3713
+
+> <Formula>
+C6H7NO
+
+> <FW>
+109.1259
+
+> <DSSTox_CID>
+4497
+
+> <DSSTox_RID>
+77427
+
+> <DSSTox_GSID>
+24497
+
+> <DSSTox_FileID_Sort>
+2110
+
+> <TS_ChemName>
+3-Aminophenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+591-27-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H7NO
+
+> <STRUCTURE_MW>
+109.1259
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-aminophenol
+
+> <STRUCTURE_SMILES>
+Nc1cccc(O)c1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1cccc(O)c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

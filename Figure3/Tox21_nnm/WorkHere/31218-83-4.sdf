@@ -1,0 +1,107 @@
+31218-83-4
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    1.1539   -3.3245    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4778   -2.0173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6074   -1.3395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4778   -3.3245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3400   -3.9861    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6709    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4841   -4.4945    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6074    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7613   -2.0173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8236   -2.1625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6074   -3.9861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9313   -1.3395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -5.6483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -1.0248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0691   -2.0173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9313   -0.0161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5084   -6.7861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3239   -1.3233    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  8  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  7 13  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+M  END
+> <ID>
+6468
+
+> <Formula>
+C10H20NO4PS
+
+> <FW>
+281.3089
+
+> <DSSTox_CID>
+12470
+
+> <DSSTox_RID>
+78951
+
+> <DSSTox_GSID>
+32470
+
+> <DSSTox_FileID_Sort>
+3633
+
+> <TS_ChemName>
+Propetamphos
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+31218-83-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20NO4PS
+
+> <STRUCTURE_MW>
+281.3089
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+propan-2-yl (2E)-3-{[(ethylamino)(methoxy)phosphorothioyl]oxy}but-2-enoate
+
+> <STRUCTURE_SMILES>
+COP(=S)(NCC)OC(\C)=C\C(=O)OC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+COP(=S)(NCC)OC(\C)=C\C(=O)OC(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

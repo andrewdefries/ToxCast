@@ -1,0 +1,99 @@
+25498-49-1
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    1.1480   -1.3202    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6035   -1.9975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440   -1.3202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2960   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2960   -3.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1841   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3321   -1.3202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0361   -1.3202    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8996   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7515   -1.3202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7515    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4801   -1.9975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1841   -3.3178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+5952
+
+> <Formula>
+C10H22O4
+
+> <FW>
+206.2793
+
+> <DSSTox_CID>
+9329
+
+> <DSSTox_RID>
+78765
+
+> <DSSTox_GSID>
+29329
+
+> <DSSTox_FileID_Sort>
+3447
+
+> <TS_ChemName>
+Tripropylene glycol monomethyl ether
+
+> <TS_ChemName_Synonyms>
+Propanol, [2-(2-methoxymethylethoxy)methylethoxy]-
+
+> <TS_CASRN>
+25498-49-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of tripropylene glycol methyl ethers; structure shown 2-[2-(2-methoxypropoxy)propoxy]propan-1-ol
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C10H22O4
+
+> <STRUCTURE_MW>
+206.2793
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[2-(2-methoxypropoxy)propoxy]propan-1-ol
+
+> <STRUCTURE_SMILES>
+COC(C)COC(C)COC(C)CO
+
+> <STRUCTURE_SMILES_Desalt>
+COC(C)COC(C)COC(C)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

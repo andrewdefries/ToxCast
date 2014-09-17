@@ -1,0 +1,105 @@
+71-73-8
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  2 V2000
+    1.3280   -6.5355    0.0000 S    0  5  0  0  0  0  0  0  0  0  0  0
+    2.4821   -5.8681    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4821   -4.5401    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6363   -3.8727    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7904   -4.5401    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2423   -3.2886    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5494   -3.0592    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3872   -2.2735    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8391   -1.0220    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9839    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0975   -4.7696    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9527   -3.7545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7904   -5.8681    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6363   -6.5355    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9376   -6.5355    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6363   -2.5447    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.2121    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <ID>
+1662
+
+> <Formula>
+C11H17N2NaO2S
+
+> <FW>
+264.3196 (241.3304+22.9892)
+
+> <DSSTox_CID>
+1744
+
+> <DSSTox_RID>
+76302
+
+> <DSSTox_GSID>
+21744
+
+> <DSSTox_FileID_Sort>
+986
+
+> <TS_ChemName>
+Thiopental sodium
+
+> <TS_ChemName_Synonyms>
+Thiopental,sodium salt
+
+> <TS_CASRN>
+71-73-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H17N2NaO2S
+
+> <STRUCTURE_MW>
+264.3196
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 5-ethyl-4,6-dioxo-5-(pentan-2-yl)-1,4,5,6-tetrahydropyrimidine-2-thiolate
+
+> <STRUCTURE_SMILES>
+[Na+].O=C1NC([S-])=NC(=O)C1(CC)C(C)CCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1NC(S)=NC(=O)C1(CC)C(C)CCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

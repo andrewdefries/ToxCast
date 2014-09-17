@@ -1,0 +1,92 @@
+6168-86-1
+ChemmineR-0915142007XD
+
+ 11  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1638   -1.9963    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3196   -1.3336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3196   -0.0162    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4834   -1.9963    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6149   -1.3336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7787   -1.9963    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9345   -1.3336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0822   -1.9963    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9345    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2938   -2.5620    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+12039
+
+> <Formula>
+C9H20ClN
+
+> <FW>
+177.7148 (141.2539+36.4609)
+
+> <DSSTox_CID>
+26869
+
+> <DSSTox_RID>
+81976
+
+> <DSSTox_GSID>
+46869
+
+> <DSSTox_FileID_Sort>
+6657
+
+> <TS_ChemName>
+Isometheptene hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6168-86-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [503-01-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H20ClN
+
+> <STRUCTURE_MW>
+177.7148
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N,6-dimethylhept-5-en-2-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CC(CC\C=C(\C)C)NC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CC\C=C(\C)C)NC
+
+> <Substance_modify_yyyymmdd>
+20110728
+
+$$$$

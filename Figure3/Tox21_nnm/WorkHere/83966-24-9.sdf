@@ -1,0 +1,103 @@
+83966-24-9
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    3.3272   -2.3111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6488   -2.3111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0056   -2.3111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3272   -3.6659    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1982   -4.3167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3548   -1.1821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1821    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0056    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3195   -1.1821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6488    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6411   -1.1821    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3272   -0.9895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5093   -4.3167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1982   -5.6383    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3272   -6.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0360   -6.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1 12  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 13  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <ID>
+12290
+
+> <Formula>
+C9H14O7
+
+> <FW>
+234.2033
+
+> <DSSTox_CID>
+27140
+
+> <DSSTox_RID>
+82147
+
+> <DSSTox_GSID>
+47140
+
+> <DSSTox_FileID_Sort>
+6828
+
+> <TS_ChemName>
+Isopropyl citrate
+
+> <TS_ChemName_Synonyms>
+2-Isopropyl dihydrogen citrate
+
+> <TS_CASRN>
+83966-24-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of isopropyl ester; structure shown 3-hydroxy-3-[(propan-2-yloxy)carbonyl]pentanedioic acid
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C9H14O7
+
+> <STRUCTURE_MW>
+234.2033
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-hydroxy-3-[(propan-2-yloxy)carbonyl]pentanedioic acid
+
+> <STRUCTURE_SMILES>
+OC(CC(=O)O)(CC(=O)O)C(=O)OC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+OC(CC(=O)O)(CC(=O)O)C(=O)OC(C)C
+
+> <Substance_modify_yyyymmdd>
+20100502
+
+$$$$

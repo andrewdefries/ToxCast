@@ -1,0 +1,88 @@
+1679-51-2
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    2.6542   -1.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9860   -2.3062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6543   -2.3062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6543    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9860    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9859   -1.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6402    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+10254
+
+> <Formula>
+C7H12O
+
+> <FW>
+112.1696
+
+> <DSSTox_CID>
+24600
+
+> <DSSTox_RID>
+80343
+
+> <DSSTox_GSID>
+44600
+
+> <DSSTox_FileID_Sort>
+5025
+
+> <TS_ChemName>
+Cyclohex-3-en-1-ylmethanol
+
+> <TS_ChemName_Synonyms>
+Cyclohex-3-en-1-ylmethanol (3-Cyclohexene-1-methanol)
+
+> <TS_CASRN>
+1679-51-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H12O
+
+> <STRUCTURE_MW>
+112.1696
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+cyclohex-3-en-1-ylmethanol
+
+> <STRUCTURE_SMILES>
+OCC1CC=CCC1
+
+> <STRUCTURE_SMILES_Desalt>
+OCC1CC=CCC1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

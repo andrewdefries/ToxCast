@@ -1,0 +1,96 @@
+13014-18-1
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    5.3181   -1.3295    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6477   -1.3295    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3181   -2.6591    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3181    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9886   -1.3295    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3238   -2.4796    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -2.4796    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3295   -1.3295    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3295    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -0.1728    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3238   -0.1728    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9886   -3.6296    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+4429
+
+> <Formula>
+C7H3Cl5
+
+> <FW>
+264.3637
+
+> <DSSTox_CID>
+5839
+
+> <DSSTox_RID>
+77941
+
+> <DSSTox_GSID>
+25839
+
+> <DSSTox_FileID_Sort>
+2624
+
+> <TS_ChemName>
+2,4-Dichloro-1-(trichloromethyl)benzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13014-18-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H3Cl5
+
+> <STRUCTURE_MW>
+264.3637
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-dichloro-1-(trichloromethyl)benzene
+
+> <STRUCTURE_SMILES>
+ClC(Cl)(Cl)c1ccc(Cl)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)(Cl)c1ccc(Cl)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

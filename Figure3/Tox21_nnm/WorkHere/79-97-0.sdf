@@ -1,0 +1,111 @@
+79-97-0
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    3.5132    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4447   -0.9493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3851   -1.8897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6627   -1.5969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5764   -2.5639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1950   -3.8415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9174   -4.1431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9859   -3.1849    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1354   -4.7819    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5132   -1.8897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8503   -3.1672    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9099   -4.1076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6324   -3.7705    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2775   -2.4930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2179   -1.5348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6831   -4.7020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3851    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8717   -2.2445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 18  1  0  0  0  0
+M  END
+> <ID>
+12965
+
+> <Formula>
+C17H20O2
+
+> <FW>
+256.3395
+
+> <DSSTox_CID>
+27866
+
+> <DSSTox_RID>
+82619
+
+> <DSSTox_GSID>
+47890
+
+> <DSSTox_FileID_Sort>
+7296
+
+> <TS_ChemName>
+3,3'-Dimethylbisphenol A
+
+> <TS_ChemName_Synonyms>
+3,3'-Dimethylbisphenol A (Phenol, 4,4'-(1-methylethylidene)bis[2-methyl- )
+
+> <TS_CASRN>
+79-97-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H20O2
+
+> <STRUCTURE_MW>
+256.3395
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-propane-2,2-diylbis(2-methylphenol)
+
+> <STRUCTURE_SMILES>
+Cc1cc(ccc1O)C(C)(C)c2ccc(O)c(C)c2
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(ccc1O)C(C)(C)c2ccc(O)c(C)c2
+
+> <Substance_modify_yyyymmdd>
+
+
+$$$$

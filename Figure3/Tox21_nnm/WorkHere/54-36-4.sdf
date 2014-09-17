@@ -1,0 +1,107 @@
+54-36-4
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    0.6651   -1.1517    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6651   -3.4551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952   -3.4551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6603   -2.3034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9904   -2.3034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6555   -3.4551    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6555   -1.1517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3206    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5038   -0.4866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8072   -1.8168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9589   -1.1517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1106   -1.8168    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1106   -3.1469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9589   -3.8120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8072   -3.1469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952   -1.1517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 17  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+2974
+
+> <Formula>
+C14H14N2O
+
+> <FW>
+226.2738
+
+> <DSSTox_CID>
+3314
+
+> <DSSTox_RID>
+76971
+
+> <DSSTox_GSID>
+23314
+
+> <DSSTox_FileID_Sort>
+1655
+
+> <TS_ChemName>
+Metyrapone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+54-36-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H14N2O
+
+> <STRUCTURE_MW>
+226.2738
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-1,2-di(pyridin-3-yl)propan-1-one
+
+> <STRUCTURE_SMILES>
+CC(C)(c1cccnc1)C(=O)c2cccnc2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(c1cccnc1)C(=O)c2cccnc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

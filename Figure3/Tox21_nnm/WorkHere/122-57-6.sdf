@@ -1,0 +1,94 @@
+122-57-6
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3047    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6708   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9992   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6567   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9850   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6559   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9842   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6417   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9842   -3.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6559   -3.4537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  2  3  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+4330
+
+> <Formula>
+C10H10O
+
+> <FW>
+146.1858
+
+> <DSSTox_CID>
+5662
+
+> <DSSTox_RID>
+77874
+
+> <DSSTox_GSID>
+25662
+
+> <DSSTox_FileID_Sort>
+2557
+
+> <TS_ChemName>
+Methyl styryl ketone
+
+> <TS_ChemName_Synonyms>
+Methyl styryl ketone (Benzylideneacetone) (Methyl styryl acetone) (4-Phenyl-3-buten-2-one)
+
+> <TS_CASRN>
+122-57-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E [1896-62-4] isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C10H10O
+
+> <STRUCTURE_MW>
+146.1858
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-phenylbut-3-en-2-one
+
+> <STRUCTURE_SMILES>
+CC(=O)C=Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)C=Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

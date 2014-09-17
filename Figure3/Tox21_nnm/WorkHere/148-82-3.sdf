@@ -1,0 +1,110 @@
+148-82-3
+ChemmineR-0915142007XD
+
+ 19 19  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -2.3082    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6595   -1.1488    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9891   -1.1488    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6592    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6592   -2.3082    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9888   -2.3082    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6589   -1.1488    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9885   -1.1488    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6480   -2.3082    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9885   -3.4570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6589   -3.4570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9776   -2.3082    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6477   -1.1488    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9667   -1.1488    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6368    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6477   -3.4570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9667   -3.4570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6368   -2.3082    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+770
+
+> <Formula>
+C13H18Cl2N2O2
+
+> <FW>
+305.2002
+
+> <DSSTox_CID>
+804
+
+> <DSSTox_RID>
+75797
+
+> <DSSTox_GSID>
+20804
+
+> <DSSTox_FileID_Sort>
+481
+
+> <TS_ChemName>
+Melphalan
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+148-82-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+l form shown; d form [13045-94-8]; dl form [531-76-0]; stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H18Cl2N2O2
+
+> <STRUCTURE_MW>
+305.2002
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-[bis(2-chloroethyl)amino]-L-phenylalanine
+
+> <STRUCTURE_SMILES>
+O=C(O)[C@@H](N)Cc1ccc(cc1)N(CCCl)CCCl
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)[C@@H](N)Cc1ccc(cc1)N(CCCl)CCCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

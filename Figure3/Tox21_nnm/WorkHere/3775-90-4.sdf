@@ -1,0 +1,97 @@
+3775-90-4
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    6.9059   -1.3242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0369   -2.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1955   -1.3242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9059    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7288   -2.0046    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0369   -3.3288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5978   -1.3242    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4391   -2.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2897   -1.3517    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1311   -2.0046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1311   -3.3564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+M  END
+> <ID>
+10578
+
+> <Formula>
+C10H19NO2
+
+> <FW>
+185.2634
+
+> <DSSTox_CID>
+24931
+
+> <DSSTox_RID>
+80596
+
+> <DSSTox_GSID>
+44931
+
+> <DSSTox_FileID_Sort>
+5278
+
+> <TS_ChemName>
+2-(tert-Butylamino)ethyl 2-methylprop-2-enoate
+
+> <TS_ChemName_Synonyms>
+2-(tert-Butylamino)ethyl 2-methylprop-2-enoate (2-Propenoic acid, 2-methyl-, 2-[(1,1-dimethylethyl)amino]ethyl ester)
+
+> <TS_CASRN>
+3775-90-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H19NO2
+
+> <STRUCTURE_MW>
+185.2634
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(tert-butylamino)ethyl 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+CC(C)(C)NCCOC(=O)C(=C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)NCCOC(=O)C(=C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

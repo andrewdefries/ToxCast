@@ -1,0 +1,85 @@
+111-44-4
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1548    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -0.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6122   -0.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7601    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9149   -0.6638    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+165
+
+> <Formula>
+C4H8Cl2O
+
+> <FW>
+143.0117
+
+> <DSSTox_CID>
+168
+
+> <DSSTox_RID>
+75415
+
+> <DSSTox_GSID>
+20168
+
+> <DSSTox_FileID_Sort>
+99
+
+> <TS_ChemName>
+Bis(2-chloroethyl) ether
+
+> <TS_ChemName_Synonyms>
+BCEE; Ethane, 1,1'-oxybis[2-chloro-
+
+> <TS_CASRN>
+111-44-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8Cl2O
+
+> <STRUCTURE_MW>
+143.0117
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+bis(2-chloroethyl) ether
+
+> <STRUCTURE_SMILES>
+ClCCOCCCl
+
+> <STRUCTURE_SMILES_Desalt>
+ClCCOCCCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

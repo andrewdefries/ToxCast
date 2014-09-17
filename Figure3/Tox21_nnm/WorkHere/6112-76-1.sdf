@@ -1,0 +1,94 @@
+6112-76-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.1583    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1583   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9994    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1583   -3.9913    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3092   -3.3347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5782   -3.7479    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3455   -2.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5782   -1.6010    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3092   -1.9994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3777   -2.0215    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+4251
+
+> <Formula>
+C5H8N4OS
+
+> <FW>
+172.2082 (154.1929+18.0153)
+
+> <DSSTox_CID>
+5538
+
+> <DSSTox_RID>
+77822
+
+> <DSSTox_GSID>
+25538
+
+> <DSSTox_FileID_Sort>
+2505
+
+> <TS_ChemName>
+6-Mercaptopurine monohydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6112-76-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers; parent [50-44-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8N4OS
+
+> <STRUCTURE_MW>
+172.2082
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1,4,5,7-tetrahydro-6H-purine-6-thione hydrate (1:1)
+
+> <STRUCTURE_SMILES>
+O.S=C1NC=NC2N=CNC12
+
+> <STRUCTURE_SMILES_Desalt>
+S=C1NC=NC2N=CNC12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

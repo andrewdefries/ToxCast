@@ -1,0 +1,94 @@
+83-42-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  2 V2000
+    4.0140   -1.1764    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7058   -2.3058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0140   -3.4493    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6917   -3.4493    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -2.3058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6917   -1.1764    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6587    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0470    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6588   -2.3058    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4493    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1623    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+8235
+
+> <Formula>
+C7H6ClNO2
+
+> <FW>
+171.581
+
+> <DSSTox_CID>
+21263
+
+> <DSSTox_RID>
+79668
+
+> <DSSTox_GSID>
+41263
+
+> <DSSTox_FileID_Sort>
+4350
+
+> <TS_ChemName>
+1-Chloro-2-methyl-3-nitrobenzene
+
+> <TS_ChemName_Synonyms>
+1-Chloro-2-methyl-3-nitrobenzene (2-Chloro-6-nitrotoluene)
+
+> <TS_CASRN>
+83-42-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6ClNO2
+
+> <STRUCTURE_MW>
+171.581
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-2-methyl-3-nitrobenzene
+
+> <STRUCTURE_SMILES>
+Cc1c(cccc1Cl)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1c(cccc1Cl)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

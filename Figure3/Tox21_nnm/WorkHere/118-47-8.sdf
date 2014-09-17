@@ -1,0 +1,111 @@
+118-47-8
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    3.5601   -1.7031    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3402   -2.7689    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2855   -3.4282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5601   -3.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2855   -2.0987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2197   -1.3295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3625    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8570    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9776   -5.1094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6586   -1.6152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3288   -2.7689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6586   -3.9227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3290   -3.9227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6697   -2.7689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3290   -1.6152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6584   -2.7689    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6584   -4.0985    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6584   -1.4394    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9879   -2.7689    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 19  1  0  0  0  0
+M  END
+> <ID>
+8242
+
+> <Formula>
+C10H8N2O6S
+
+> <FW>
+284.2453
+
+> <DSSTox_CID>
+21273
+
+> <DSSTox_RID>
+79674
+
+> <DSSTox_GSID>
+41273
+
+> <DSSTox_FileID_Sort>
+4356
+
+> <TS_ChemName>
+1H-Pyrazole-3-carboxylic acid, 4,5-dihydro-5-oxo-1-(4-sulfophenyl)-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+118-47-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H8N2O6S
+
+> <STRUCTURE_MW>
+284.2453
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-oxo-1-(4-sulfophenyl)-4,5-dihydro-1H-pyrazole-3-carboxylic acid
+
+> <STRUCTURE_SMILES>
+O=S(=O)(O)c1ccc(cc1)N2N=C(CC2=O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)c1ccc(cc1)N2N=C(CC2=O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

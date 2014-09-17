@@ -1,0 +1,99 @@
+329-63-5
+ChemmineR-0915142007XD
+
+ 14 13  0  0  1  0  0  0  0  0  1 V2000
+    1.1532   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -0.6693    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4595   -0.6693    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4595   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063   -2.6612    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6046   -2.6612    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7578   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9110   -2.6612    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0642   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6046   -3.9918    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6612    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5160   -4.5562    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  6  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+543
+
+> <Formula>
+C9H14ClNO3
+
+> <FW>
+219.6654 (183.2044+36.4609)
+
+> <DSSTox_CID>
+568
+
+> <DSSTox_RID>
+97391
+
+> <DSSTox_GSID>
+57717
+
+> <DSSTox_FileID_Sort>
+8458
+
+> <TS_ChemName>
+(R,S)-Epinephrine hydrochloride
+
+> <TS_ChemName_Synonyms>
+Racepinephrine HCl
+
+> <TS_CASRN>
+329-63-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of isomers
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C9H14ClNO3
+
+> <STRUCTURE_MW>
+219.6654
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-[(1R)-1-hydroxy-2-(methylamino)ethyl]benzene-1,2-diol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Oc1ccc(cc1O)[C@@H](O)CNC
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1O)[C@@H](O)CNC
+
+> <Substance_modify_yyyymmdd>
+20131121
+
+$$$$

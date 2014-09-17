@@ -1,0 +1,99 @@
+5370-01-4
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    6.3340   -3.7011    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2951   -1.9919    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4461   -1.3233    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1510   -1.3371    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2951   -3.3289    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6109   -1.9919    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8922   -1.9919    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7619   -1.3233    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3496    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9919    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1510   -3.9837    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1510    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4461   -4.0182    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7619    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4 10  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+11193
+
+> <Formula>
+C11H18ClNO
+
+> <FW>
+215.7197 (36.4609+179.2588)
+
+> <DSSTox_CID>
+25783
+
+> <DSSTox_RID>
+81125
+
+> <DSSTox_GSID>
+45783
+
+> <DSSTox_FileID_Sort>
+5806
+
+> <TS_ChemName>
+Mexiletene hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5370-01-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [31828-71-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H18ClNO
+
+> <STRUCTURE_MW>
+215.7197
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-(2,6-dimethylphenoxy)propan-2-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CC(N)COc1c(C)cccc1C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(N)COc1c(C)cccc1C
+
+> <Substance_modify_yyyymmdd>
+20110902
+
+$$$$

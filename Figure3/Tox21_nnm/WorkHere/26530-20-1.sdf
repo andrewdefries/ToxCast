@@ -1,0 +1,100 @@
+26530-20-1
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+   10.6991    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4164   -1.3006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3099   -2.2846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6426   -3.4382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3420   -3.1668    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2062   -1.8435    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0526   -1.1762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9103   -1.8435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567   -1.1762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031   -1.8435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4495   -1.1762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -1.8435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -1.1762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+4412
+
+> <Formula>
+C11H19NOS
+
+> <FW>
+213.3397
+
+> <DSSTox_CID>
+5805
+
+> <DSSTox_RID>
+77928
+
+> <DSSTox_GSID>
+25805
+
+> <DSSTox_FileID_Sort>
+2611
+
+> <TS_ChemName>
+Octhilinone
+
+> <TS_ChemName_Synonyms>
+Octhilinone (2-Octyl-3-isothiazolone)
+
+> <TS_CASRN>
+26530-20-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H19NOS
+
+> <STRUCTURE_MW>
+213.3397
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-octyl-1,2-thiazol-3(2H)-one
+
+> <STRUCTURE_SMILES>
+O=C1C=CSN1CCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C=CSN1CCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,104 @@
+106797-53-9
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    8.0327   -1.3578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1832   -2.0108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3648   -1.3578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0327    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1832   -3.3375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5813   -2.0108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5813   -3.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7317   -3.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8822   -3.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8822   -2.0108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7317   -1.3371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4308   -3.9905    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2803   -3.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1298   -3.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3648   -2.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 16  1  0  0  0  0
+  6 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+10428
+
+> <Formula>
+C12H16O4
+
+> <FW>
+224.253
+
+> <DSSTox_CID>
+24777
+
+> <DSSTox_RID>
+80467
+
+> <DSSTox_GSID>
+44777
+
+> <DSSTox_FileID_Sort>
+5149
+
+> <TS_ChemName>
+2-Hydroxy-1-[4-(2-hydroxyethoxy)phenyl]-2-methylpropan-1-one
+
+> <TS_ChemName_Synonyms>
+2-Hydroxy-1-[4-(2-hydroxyethoxy)phenyl]-2-methylpropan-1-one (1-Propanone, 2-hydroxy-1-[4-(2-hydroxyethoxy)phenyl]-2-methyl-)
+
+> <TS_CASRN>
+106797-53-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H16O4
+
+> <STRUCTURE_MW>
+224.253
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-hydroxy-1-[4-(2-hydroxyethoxy)phenyl]-2-methylpropan-1-one
+
+> <STRUCTURE_SMILES>
+CC(C)(O)C(=O)c1ccc(OCCO)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(O)C(=O)c1ccc(OCCO)cc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

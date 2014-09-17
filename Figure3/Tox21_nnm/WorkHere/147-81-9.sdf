@@ -1,0 +1,91 @@
+147-81-9
+ChemmineR-0915142007XD
+
+ 10  9  0  0  1  0  0  0  0  0  1 V2000
+    5.9054   -1.3649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7394   -2.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5597   -1.3649    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3594   -2.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2003   -1.3306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8588   -1.9067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7120   -3.3814    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5597    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3594   -3.3814    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  1  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  1  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  6  0  0  0
+  5 10  1  0  0  0  0
+M  END
+> <ID>
+8570
+
+> <Formula>
+C5H10O5
+
+> <FW>
+150.1299
+
+> <DSSTox_CID>
+21610
+
+> <DSSTox_RID>
+79784
+
+> <DSSTox_GSID>
+41610
+
+> <DSSTox_FileID_Sort>
+4466
+
+> <TS_ChemName>
+Arabinose
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+147-81-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+racemic mixture; structure shown D-; tautomers; stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10O5
+
+> <STRUCTURE_MW>
+150.1299
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+D-arabinose
+
+> <STRUCTURE_SMILES>
+O[C@H](C=O)[C@H](O)[C@H](O)CO
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@H](C=O)[C@H](O)[C@H](O)CO
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

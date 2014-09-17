@@ -1,0 +1,89 @@
+921-20-0
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1611   -2.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2900   -1.9951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4465   -2.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6077   -1.9951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1611   -3.9948    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4465   -3.9948    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2900   -0.6773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1427    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+8336
+
+> <Formula>
+C6H14O3
+
+> <FW>
+134.1736
+
+> <DSSTox_CID>
+21370
+
+> <DSSTox_RID>
+79704
+
+> <DSSTox_GSID>
+41370
+
+> <DSSTox_FileID_Sort>
+4386
+
+> <TS_ChemName>
+3-(Hydroxymethyl)pentane-2,4-diol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+921-20-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O3
+
+> <STRUCTURE_MW>
+134.1736
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(hydroxymethyl)pentane-2,4-diol
+
+> <STRUCTURE_SMILES>
+CC(O)C(CO)C(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)C(CO)C(C)O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

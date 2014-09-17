@@ -1,0 +1,95 @@
+139-05-9
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  2 V2000
+    3.1463   -1.1494    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8170   -1.1494    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1494   -2.3046    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6370    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3046   -2.9663    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4876   -3.4540    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.8081   -2.3046    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1374   -2.3046    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8050   -1.1494    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1374    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8081    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9257   -4.7833    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+345
+
+> <Formula>
+C6H12NNaO3S
+
+> <FW>
+201.2191 (178.2299+22.9892)
+
+> <DSSTox_CID>
+355
+
+> <DSSTox_RID>
+75534
+
+> <DSSTox_GSID>
+20355
+
+> <DSSTox_FileID_Sort>
+218
+
+> <TS_ChemName>
+Sodium cyclamate
+
+> <TS_ChemName_Synonyms>
+Sodium cyclamate (Cyclamate, sodium)
+
+> <TS_CASRN>
+139-05-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [100-88-9 ]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12NNaO3S
+
+> <STRUCTURE_MW>
+201.2191
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium cyclohexylsulfamate
+
+> <STRUCTURE_SMILES>
+[Na+].O=S([O-])(=O)NC1CCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+OS(=O)(=O)NC1CCCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

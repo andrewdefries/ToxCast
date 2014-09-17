@@ -1,0 +1,99 @@
+6378-65-0
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    5.7121   -1.3424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7121    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8491   -2.0273    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5752   -2.0273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4108   -1.3424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1369   -1.3424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2739   -2.0273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9860   -1.3424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1229   -2.0273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2325   -1.3424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4242   -2.0273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5612   -1.3424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6981   -2.0273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+12675
+
+> <Formula>
+C12H24O2
+
+> <FW>
+200.3178
+
+> <DSSTox_CID>
+27552
+
+> <DSSTox_RID>
+82414
+
+> <DSSTox_GSID>
+47552
+
+> <DSSTox_FileID_Sort>
+7095
+
+> <TS_ChemName>
+Hexyl hexanoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6378-65-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H24O2
+
+> <STRUCTURE_MW>
+200.3178
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexyl hexanoate
+
+> <STRUCTURE_SMILES>
+O=C(CCCCC)OCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCC)OCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20100929
+
+$$$$

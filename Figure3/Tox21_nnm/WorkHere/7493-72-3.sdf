@@ -1,0 +1,99 @@
+7493-72-3
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+   13.8317   -1.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6836   -1.9918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5218   -1.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3738   -1.9918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2257   -1.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0639   -1.9918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9158   -1.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7678   -1.9918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6059   -1.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6059    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4579   -1.9918    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3099   -1.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1480   -1.9918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+3676
+
+> <Formula>
+C12H22O2
+
+> <FW>
+198.3019
+
+> <DSSTox_CID>
+4447
+
+> <DSSTox_RID>
+77399
+
+> <DSSTox_GSID>
+24447
+
+> <DSSTox_FileID_Sort>
+2082
+
+> <TS_ChemName>
+Allyl nonanoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7493-72-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H22O2
+
+> <STRUCTURE_MW>
+198.3019
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+prop-2-en-1-yl nonanoate
+
+> <STRUCTURE_SMILES>
+O=C(CCCCCCCC)OCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCCCCC)OCC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

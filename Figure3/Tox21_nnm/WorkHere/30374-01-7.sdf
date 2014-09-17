@@ -1,0 +1,99 @@
+30374-01-7
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    9.1983   -1.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3497   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5010   -1.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1983    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0469   -1.9991    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6524   -1.9864    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8956   -1.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7442   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6055   -1.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4541   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -1.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1514   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3412    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1514   -3.3276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+10558
+
+> <Formula>
+C11H22O2S
+
+> <FW>
+218.3562
+
+> <DSSTox_CID>
+24911
+
+> <DSSTox_RID>
+80580
+
+> <DSSTox_GSID>
+44911
+
+> <DSSTox_FileID_Sort>
+5262
+
+> <TS_ChemName>
+Isooctyl 3-mercaptopropionate
+
+> <TS_ChemName_Synonyms>
+Isooctyl 3-mercaptopropionate (6-Methylheptyl 3-sulfanylpropanoate) (Propanoic acid, 3-mercapto-, isooctyl ester)
+
+> <TS_CASRN>
+30374-01-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of isooctyl isomers; structure shown 6-methylheptyl
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C11H22O2S
+
+> <STRUCTURE_MW>
+218.3562
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-methylheptyl 3-sulfanylpropanoate
+
+> <STRUCTURE_SMILES>
+CC(C)CCCCCOC(=O)CCS
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CCCCCOC(=O)CCS
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

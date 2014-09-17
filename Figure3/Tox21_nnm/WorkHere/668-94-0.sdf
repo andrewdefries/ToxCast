@@ -1,0 +1,108 @@
+668-94-0
+ChemmineR-0915142007XD
+
+ 17 19  0  0  0  0  0  0  0  0  1 V2000
+    5.9407   -4.7695    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5241   -6.0373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1959   -6.0373    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7975   -4.7695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8661   -3.9846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8661   -2.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7129   -1.9863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7311   -0.6581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8842    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0373   -0.6701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0373   -2.0044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5296   -4.3529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5395   -5.2344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2717   -4.8178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.5258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9901   -2.6443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2580   -3.0609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+11141
+
+> <Formula>
+C15H12N2
+
+> <FW>
+220.2692
+
+> <DSSTox_CID>
+25700
+
+> <DSSTox_RID>
+81072
+
+> <DSSTox_GSID>
+45700
+
+> <DSSTox_FileID_Sort>
+5753
+
+> <TS_ChemName>
+4,5-Diphenylimidazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+668-94-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H12N2
+
+> <STRUCTURE_MW>
+220.2692
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,5-diphenyl-1H-imidazole
+
+> <STRUCTURE_SMILES>
+c1ccc(cc1)c2ncnc2c3ccccc3
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccc(cc1)c2ncnc2c3ccccc3
+
+> <Substance_modify_yyyymmdd>
+20110819
+
+$$$$

@@ -1,0 +1,112 @@
+132-60-5
+ChemmineR-0915142007XD
+
+ 19 21  0  0  0  0  0  0  0  0  1 V2000
+    3.4461   -2.0049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4461   -4.6619    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6056   -3.9856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6056   -2.6571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028   -2.6571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4461   -0.6763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028   -3.9856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7489   -4.6619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6056    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1433   -2.0049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1433   -4.6619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9083   -3.9856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7489   -5.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9856    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9083   -6.6507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0517   -4.6619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0517   -5.9905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  9  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+7901
+
+> <Formula>
+C16H11NO2
+
+> <FW>
+249.264
+
+> <DSSTox_CID>
+20705
+
+> <DSSTox_RID>
+79555
+
+> <DSSTox_GSID>
+40705
+
+> <DSSTox_FileID_Sort>
+4237
+
+> <TS_ChemName>
+Cinchophen
+
+> <TS_ChemName_Synonyms>
+2-Phenyl-4-quinolinecarboxylic acid (Cinchophen)
+
+> <TS_CASRN>
+132-60-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H11NO2
+
+> <STRUCTURE_MW>
+249.264
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-phenylquinoline-4-carboxylic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)c1cc(nc2ccccc12)c3ccccc3
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)c1cc(nc2ccccc12)c3ccccc3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

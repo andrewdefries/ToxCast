@@ -1,0 +1,105 @@
+67151-63-7
+ChemmineR-0915142007XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+    6.0048   -4.6321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6631   -5.7801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0530   -6.9521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0118   -5.7480    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6802   -4.6160    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0220   -3.4600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6963   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0209   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6952   -1.1640    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0279   -1.1640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0370    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0059   -5.7640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6733   -5.7640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9989   -4.6160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6743   -4.6000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0321   -3.4440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+10622
+
+> <Formula>
+C13H31N3O
+
+> <FW>
+245.4047
+
+> <DSSTox_CID>
+24975
+
+> <DSSTox_RID>
+80625
+
+> <DSSTox_GSID>
+44975
+
+> <DSSTox_FileID_Sort>
+5307
+
+> <TS_ChemName>
+1-{Bis[3-(dimethylamino)propyl]amino}propan-2-ol
+
+> <TS_ChemName_Synonyms>
+1-{Bis[3-(dimethylamino)propyl]amino}propan-2-ol (2-Propanol, 1-[bis[3-(dimethylamino)propyl]amino]-)
+
+> <TS_CASRN>
+67151-63-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H31N3O
+
+> <STRUCTURE_MW>
+245.4047
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-{bis[3-(dimethylamino)propyl]amino}propan-2-ol
+
+> <STRUCTURE_SMILES>
+CN(C)CCCN(CC(C)O)CCCN(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCCN(CC(C)O)CCCN(C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

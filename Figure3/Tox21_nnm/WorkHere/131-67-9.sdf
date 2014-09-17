@@ -1,0 +1,108 @@
+131-67-9
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    1.5070   -7.7528    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5070   -6.4230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6595   -5.7541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8119   -5.0933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9906   -4.6017    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6595   -3.4573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9892   -3.4573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9906   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6595   -1.1524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9906    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6608    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6608   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9892   -1.1524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6501   -2.3049    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6501    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3203   -6.9066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9892   -8.0590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 17  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 17 18  3  0  0  0  0
+M  END
+> <ID>
+16038
+
+> <Formula>
+C14H14O4
+
+> <FW>
+246.2586
+
+> <DSSTox_CID>
+31423
+
+> <DSSTox_RID>
+97309
+
+> <DSSTox_GSID>
+57634
+
+> <DSSTox_FileID_Sort>
+8376
+
+> <TS_ChemName>
+Phthalofyne
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+131-67-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H14O4
+
+> <STRUCTURE_MW>
+246.2586
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-{[(3-methylpent-1-yn-3-yl)oxy]carbonyl}benzoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)c1ccccc1C(=O)OC(C)(C#C)CC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)c1ccccc1C(=O)OC(C)(C#C)CC
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

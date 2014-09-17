@@ -1,0 +1,90 @@
+137-00-8
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    5.6569   -2.1213    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9372   -3.3715    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2722   -3.3885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5990   -1.3294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5355   -2.1326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2841   -2.6474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2684   -1.7310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2288    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5990    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+10039
+
+> <Formula>
+C6H9NOS
+
+> <FW>
+143.2068
+
+> <DSSTox_CID>
+24382
+
+> <DSSTox_RID>
+80186
+
+> <DSSTox_GSID>
+44382
+
+> <DSSTox_FileID_Sort>
+4868
+
+> <TS_ChemName>
+Thiamine thiozole
+
+> <TS_ChemName_Synonyms>
+Thiamine thiozole (5-Thiazoleethanol, 4-methyl-)
+
+> <TS_CASRN>
+137-00-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H9NOS
+
+> <STRUCTURE_MW>
+143.2068
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(4-methyl-1,3-thiazol-5-yl)ethanol
+
+> <STRUCTURE_SMILES>
+OCCc1scnc1C
+
+> <STRUCTURE_SMILES_Desalt>
+OCCc1scnc1C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

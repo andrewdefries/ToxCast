@@ -1,0 +1,80 @@
+506-61-6
+ChemmineR-0915142007XD
+
+  6  2  0  0  0  0  0  0  0  0  2 V2000
+    1.3885    0.0000    0.0000 K    0  3  0  0  0  0  0  0  0  0  0  0
+    1.3163   -0.8862    0.0000 Ag   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.8867    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6928   -1.6887    0.0000 C    0  5  0  0  0  0  0  0  0  0  0  0
+    2.7857   -2.7568    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1535   -1.6483    0.0000 C    0  5  0  0  0  0  0  0  0  0  0  0
+  3  4  3  0  0  0  0
+  5  6  3  0  0  0  0
+M  END
+> <ID>
+3594
+
+> <Formula>
+C2AgKN2
+
+> <FW>
+199.0013 (39.0978+107.8677+26.0179+26.0179)
+
+> <DSSTox_CID>
+4269
+
+> <DSSTox_RID>
+77348
+
+> <DSSTox_GSID>
+24269
+
+> <DSSTox_FileID_Sort>
+2031
+
+> <TS_ChemName>
+Potassium silver cyanide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+506-61-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2AgKN2
+
+> <STRUCTURE_MW>
+199.0013
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+potassium silver(1+) cyanide (1:1:2)
+
+> <STRUCTURE_SMILES>
+[Ag+].[K+].[C-]#N.[C-]#N
+
+> <STRUCTURE_SMILES_Desalt>
+C#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

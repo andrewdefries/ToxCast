@@ -1,0 +1,97 @@
+5467-78-7
+ChemmineR-0915142007XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    1.1517   -3.9677    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2371   -4.7696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8090   -6.0299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4884   -6.0299    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0784   -4.7696    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -2.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5094   -4.3596    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3155   -2.0019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3155   -0.6934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6934    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+13687
+
+> <Formula>
+C7H7N5
+
+> <FW>
+161.164
+
+> <DSSTox_CID>
+28620
+
+> <DSSTox_RID>
+82890
+
+> <DSSTox_GSID>
+48694
+
+> <DSSTox_FileID_Sort>
+7567
+
+> <TS_ChemName>
+Fenamol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5467-78-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7N5
+
+> <STRUCTURE_MW>
+161.164
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-phenyl-1H-tetrazol-5-amine
+
+> <STRUCTURE_SMILES>
+Nc2nnnn2c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc2nnnn2c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

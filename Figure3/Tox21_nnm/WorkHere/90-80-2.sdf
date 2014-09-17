@@ -1,0 +1,96 @@
+90-80-2
+ChemmineR-0915142007XD
+
+ 12 12  0  0  1  0  0  0  0  0  1 V2000
+    4.0017   -2.3925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3197   -3.5222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9929   -3.4902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3676   -1.2256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3534   -2.3446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0408   -1.1936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3285   -2.4085    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9591   -4.6891    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3108   -4.6411    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3854   -0.0320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0639    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  6  0  0  0
+  3  9  1  1  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  6  0  0  0
+  6 11  1  1  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+4721
+
+> <Formula>
+C6H10O6
+
+> <FW>
+178.14
+
+> <DSSTox_CID>
+6549
+
+> <DSSTox_RID>
+78147
+
+> <DSSTox_GSID>
+26549
+
+> <DSSTox_FileID_Sort>
+2830
+
+> <TS_ChemName>
+Gluconolactone
+
+> <TS_ChemName_Synonyms>
+Gluconolactone (Glucono delta lactone)
+
+> <TS_CASRN>
+90-80-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10O6
+
+> <STRUCTURE_MW>
+178.14
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)tetrahydro-2H-pyran-2-one
+
+> <STRUCTURE_SMILES>
+O[C@H]1[C@H](O)[C@@H](O)C(=O)O[C@@H]1CO
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@H]1[C@H](O)[C@@H](O)C(=O)O[C@@H]1CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

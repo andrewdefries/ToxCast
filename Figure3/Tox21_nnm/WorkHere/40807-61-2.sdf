@@ -1,0 +1,99 @@
+40807-61-2
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    1.9944   -3.6346    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9944   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6592   -1.1552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9944    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6648    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6648   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1442   -2.9698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1442   -4.2994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2994   -4.9642    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4491   -4.2994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4491   -2.9698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2994   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+16138
+
+> <Formula>
+C11H15NO
+
+> <FW>
+177.2429
+
+> <DSSTox_CID>
+31527
+
+> <DSSTox_RID>
+97412
+
+> <DSSTox_GSID>
+57738
+
+> <DSSTox_FileID_Sort>
+8479
+
+> <TS_ChemName>
+4-Phenylpiperidin-4-ol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+40807-61-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H15NO
+
+> <STRUCTURE_MW>
+177.2429
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-phenylpiperidin-4-ol
+
+> <STRUCTURE_SMILES>
+OC1(CCNCC1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+OC1(CCNCC1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

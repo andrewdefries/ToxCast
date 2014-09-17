@@ -1,0 +1,112 @@
+603-35-0
+ChemmineR-0915142007XD
+
+ 19 21  0  0  0  0  0  0  0  0  1 V2000
+    4.6569   -2.3008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9867   -3.4547    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6569   -4.6086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9836   -4.6086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6469   -5.7555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9836   -6.9094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6569   -6.9094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9867   -5.7555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6601   -3.4547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9968   -4.6086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6633   -4.6086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6633   -2.3008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9968   -2.3008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9867   -1.1539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6569    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9836    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6469   -1.1539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9836   -2.3008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  2  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+4619
+
+> <Formula>
+C18H15P
+
+> <FW>
+262.2855
+
+> <DSSTox_CID>
+6251
+
+> <DSSTox_RID>
+78074
+
+> <DSSTox_GSID>
+26251
+
+> <DSSTox_FileID_Sort>
+2757
+
+> <TS_ChemName>
+Triphenylphosphine
+
+> <TS_ChemName_Synonyms>
+Triphenyl phosphine
+
+> <TS_CASRN>
+603-35-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H15P
+
+> <STRUCTURE_MW>
+262.2855
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+triphenylphosphane
+
+> <STRUCTURE_SMILES>
+c1ccccc1P(c2ccccc2)c3ccccc3
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccccc1P(c2ccccc2)c3ccccc3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

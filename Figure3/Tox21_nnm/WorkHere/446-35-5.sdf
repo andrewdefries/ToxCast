@@ -1,0 +1,94 @@
+446-35-5
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  2 V2000
+    3.9861   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3277   -3.4594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9990   -3.4594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3287   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9990   -1.1551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3277   -1.1551    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9861    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3043    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3147   -2.3043    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.9851   -1.1551    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.9851   -3.4594    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+6588
+
+> <Formula>
+C6H3F2NO2
+
+> <FW>
+159.0903
+
+> <DSSTox_CID>
+12869
+
+> <DSSTox_RID>
+79041
+
+> <DSSTox_GSID>
+32869
+
+> <DSSTox_FileID_Sort>
+3723
+
+> <TS_ChemName>
+2,4-Difluoronitrobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+446-35-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H3F2NO2
+
+> <STRUCTURE_MW>
+159.0903
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-difluoro-1-nitrobenzene
+
+> <STRUCTURE_SMILES>
+Fc1cc(F)ccc1[N+](=O)[O-]
+
+> <STRUCTURE_SMILES_Desalt>
+Fc1cc(F)ccc1[N+](=O)[O-]
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

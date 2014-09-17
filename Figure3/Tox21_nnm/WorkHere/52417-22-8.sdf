@@ -1,0 +1,106 @@
+52417-22-8
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    3.4550    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550   -1.3336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3010   -1.9970    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -1.3336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9970    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3237    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -3.9940    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3010   -3.3237    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550   -3.9940    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6090   -3.3237    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6090   -1.9970    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7560   -1.3336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9100   -1.9970    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9100   -3.3237    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7560   -3.9940    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550   -5.3207    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3553   -5.3000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+3685
+
+> <Formula>
+C13H13ClN2O
+
+> <FW>
+248.7081 (194.2319+36.4609+18.0153)
+
+> <DSSTox_CID>
+4457
+
+> <DSSTox_RID>
+77405
+
+> <DSSTox_GSID>
+24457
+
+> <DSSTox_FileID_Sort>
+2088
+
+> <TS_ChemName>
+9-Aminoacridine, monohydrochloride, monohydrate
+
+> <TS_ChemName_Synonyms>
+9-Aminoacridine hydrochloride hydrate
+
+> <TS_CASRN>
+52417-22-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [90-45-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H13ClN2O
+
+> <STRUCTURE_MW>
+248.7081
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+acridin-9-amine hydrochloride hydrate
+
+> <STRUCTURE_SMILES>
+Cl.O.Nc1c3ccccc3nc2ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1c3ccccc3nc2ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,100 @@
+13255-50-0
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    3.3199   -8.0581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9888   -6.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3184   -6.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3199   -5.7535    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9888   -4.6092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3184   -4.6092    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3199   -3.4569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9888   -2.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3199   -1.1523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9904   -1.1523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -2.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9904   -3.4569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+16040
+
+> <Formula>
+C11H13NO2
+
+> <FW>
+191.2264
+
+> <DSSTox_CID>
+31425
+
+> <DSSTox_RID>
+97311
+
+> <DSSTox_GSID>
+57636
+
+> <DSSTox_FileID_Sort>
+8378
+
+> <TS_ChemName>
+N-isopropyl-4-formylbenzamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13255-50-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H13NO2
+
+> <STRUCTURE_MW>
+191.2264
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-formyl-N-isopropylbenzamide
+
+> <STRUCTURE_SMILES>
+O=C(NC(C)C)c1ccc(C=O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NC(C)C)c1ccc(C=O)cc1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

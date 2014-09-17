@@ -1,0 +1,107 @@
+607-88-5
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    2.2934   -2.6618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4723   -1.9895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4723   -0.6724    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2934   -3.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6052   -2.6618    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4723   -4.6697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1605   -1.9895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1605   -4.6697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0591   -1.9895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0591   -0.6724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9170    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7657   -0.6724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7657   -1.9895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9170   -2.6434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2105    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5 15  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+12635
+
+> <Formula>
+C14H12O3
+
+> <FW>
+228.2433
+
+> <DSSTox_CID>
+27508
+
+> <DSSTox_RID>
+82386
+
+> <DSSTox_GSID>
+47508
+
+> <DSSTox_FileID_Sort>
+7067
+
+> <TS_ChemName>
+Salicylic acid p-tolyl ester
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+607-88-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H12O3
+
+> <STRUCTURE_MW>
+228.2433
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methylphenyl 2-hydroxybenzoate
+
+> <STRUCTURE_SMILES>
+Oc2ccccc2C(=O)Oc1ccc(C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccccc2C(=O)Oc1ccc(C)cc1
+
+> <Substance_modify_yyyymmdd>
+20100704
+
+$$$$

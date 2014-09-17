@@ -1,0 +1,103 @@
+41663-84-7
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  2 V2000
+    4.5941   -2.0019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5941   -3.3339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6439   -2.6639    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8623   -1.5872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8623   -3.7487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4615   -1.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4615   -3.9879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -3.3339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -2.0019    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2770   -5.0168    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2770   -0.3270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9759   -2.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1565   -1.3320    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0019    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1565    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 10  2  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+M  END
+> <ID>
+5586
+
+> <Formula>
+C9H6N2O4
+
+> <FW>
+206.1549
+
+> <DSSTox_CID>
+8013
+
+> <DSSTox_RID>
+78639
+
+> <DSSTox_GSID>
+28013
+
+> <DSSTox_FileID_Sort>
+3321
+
+> <TS_ChemName>
+2-Methyl-5-nitro-1H-isoindole-1,3(2H)-dione
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+41663-84-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H6N2O4
+
+> <STRUCTURE_MW>
+206.1549
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-5-nitro-1H-isoindole-1,3(2H)-dione
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c1ccc2C(=O)N(C)C(=O)c2c1
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c1ccc2C(=O)N(C)C(=O)c2c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

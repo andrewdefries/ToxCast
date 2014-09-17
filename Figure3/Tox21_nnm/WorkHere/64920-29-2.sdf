@@ -1,0 +1,102 @@
+64920-29-2
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    0.6633   -6.9090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9967   -6.9090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -5.7552    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9865   -5.7552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6567   -6.9090    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6567   -4.6083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9832   -4.6083    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9865   -3.4545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -3.4545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9967   -2.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -1.1538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9967    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6633    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6633   -2.3007    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+16191
+
+> <Formula>
+C12H14O3
+
+> <FW>
+206.2378
+
+> <DSSTox_CID>
+31582
+
+> <DSSTox_RID>
+97466
+
+> <DSSTox_GSID>
+57793
+
+> <DSSTox_FileID_Sort>
+8533
+
+> <TS_ChemName>
+Ethyl 2-oxo-4-phenylbutyrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+64920-29-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H14O3
+
+> <STRUCTURE_MW>
+206.2378
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 2-oxo-4-phenylbutanoate
+
+> <STRUCTURE_SMILES>
+O=C(OCC)C(=O)CCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)C(=O)CCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

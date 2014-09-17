@@ -1,0 +1,100 @@
+121-61-9
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    1.9882    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313   -1.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1497    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9882   -2.3081    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3195   -2.3081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9938   -1.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3250   -1.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9820   -2.3081    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3250   -3.4492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9938   -3.4492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3132   -2.3081    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3132   -3.6393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3132   -0.9768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6445   -2.3081    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <ID>
+8495
+
+> <Formula>
+C8H10N2O3S
+
+> <FW>
+214.2416
+
+> <DSSTox_CID>
+21529
+
+> <DSSTox_RID>
+79768
+
+> <DSSTox_GSID>
+41529
+
+> <DSSTox_FileID_Sort>
+4450
+
+> <TS_ChemName>
+4'-Sulfamylacetanilide
+
+> <TS_ChemName_Synonyms>
+4'-Sulfamylacetanilide (4-Acetamidobenzenesulfonamide)
+
+> <TS_CASRN>
+121-61-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10N2O3S
+
+> <STRUCTURE_MW>
+214.2416
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(4-sulfamoylphenyl)acetamide
+
+> <STRUCTURE_SMILES>
+O=S(N)(=O)c1ccc(NC(C)=O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(N)(=O)c1ccc(NC(C)=O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

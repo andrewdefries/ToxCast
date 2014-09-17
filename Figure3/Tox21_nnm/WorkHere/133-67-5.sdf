@@ -1,0 +1,113 @@
+133-67-5
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    2.3026   -3.3250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -3.9881    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4882   -2.8368    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8145   -5.1394    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6513    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3026   -1.9895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -1.3263    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4539   -1.3263    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6052   -1.9895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6052   -3.3250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4539   -3.9881    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7565   -3.9881    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6131   -5.0105    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9000   -5.0105    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9079   -3.3250    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9079   -1.9895    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0592   -1.3263    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2105   -1.9895    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0592    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7565   -1.3263    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 20  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <ID>
+3304
+
+> <Formula>
+C8H8Cl3N3O4S2
+
+> <FW>
+380.6558
+
+> <DSSTox_CID>
+3699
+
+> <DSSTox_RID>
+77154
+
+> <DSSTox_GSID>
+23699
+
+> <DSSTox_FileID_Sort>
+1837
+
+> <TS_ChemName>
+Trichlormethiazide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+133-67-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8Cl3N3O4S2
+
+> <STRUCTURE_MW>
+380.6558
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-chloro-3-(dichloromethyl)-3,4-dihydro-2H-1,2,4-benzothiadiazine-7-sulfonamide 1,1-dioxide
+
+> <STRUCTURE_SMILES>
+NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)C(Cl)Cl)cc2Cl
+
+> <STRUCTURE_SMILES_Desalt>
+NS(=O)(=O)c2cc1c(NC(NS1(=O)=O)C(Cl)Cl)cc2Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

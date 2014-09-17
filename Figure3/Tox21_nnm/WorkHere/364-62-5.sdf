@@ -1,0 +1,112 @@
+364-62-5
+ChemmineR-0915142007XD
+
+ 20 20  0  0  0  0  0  0  0  0  1 V2000
+   11.5065   -3.9928    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3559   -3.3139    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2052   -3.9928    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2052   -5.3160    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3559   -5.9719    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0546   -3.3139    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8924   -3.9928    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7418   -3.3139    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5911   -3.9928    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5911   -5.3160    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4404   -3.3139    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3013   -3.9928    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1507   -3.3139    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1507   -1.9906    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3348    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3013   -1.3348    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4404   -1.9906    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5911   -1.3348    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5911    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9928    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+10788
+
+> <Formula>
+C14H22ClN3O2
+
+> <FW>
+299.7964
+
+> <DSSTox_CID>
+25169
+
+> <DSSTox_RID>
+80719
+
+> <DSSTox_GSID>
+45169
+
+> <DSSTox_FileID_Sort>
+5400
+
+> <TS_ChemName>
+Metoclopramide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+364-62-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H22ClN3O2
+
+> <STRUCTURE_MW>
+299.7964
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-5-chloro-N-[2-(diethylamino)ethyl]-2-methoxybenzamide
+
+> <STRUCTURE_SMILES>
+Nc1cc(OC)c(cc1Cl)C(=O)NCCN(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1cc(OC)c(cc1Cl)C(=O)NCCN(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

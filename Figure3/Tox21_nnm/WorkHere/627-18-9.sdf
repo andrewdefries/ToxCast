@@ -1,0 +1,81 @@
+627-18-9
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -0.6638    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+3792
+
+> <Formula>
+C3H7BrO
+
+> <FW>
+138.9911
+
+> <DSSTox_CID>
+4657
+
+> <DSSTox_RID>
+77485
+
+> <DSSTox_GSID>
+24657
+
+> <DSSTox_FileID_Sort>
+2168
+
+> <TS_ChemName>
+3-Bromo-1-propanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+627-18-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H7BrO
+
+> <STRUCTURE_MW>
+138.9911
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-bromopropan-1-ol
+
+> <STRUCTURE_SMILES>
+BrCCCO
+
+> <STRUCTURE_SMILES_Desalt>
+BrCCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,90 @@
+67952-65-2
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    2.2881    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2881   -2.6397    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639   -0.6455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1296   -0.6455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639   -1.9769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1296   -1.9769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6223   -2.6397    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7635   -1.9769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+12826
+
+> <Formula>
+C6H8N2S
+
+> <FW>
+140.2061
+
+> <DSSTox_CID>
+27705
+
+> <DSSTox_RID>
+82513
+
+> <DSSTox_GSID>
+47707
+
+> <DSSTox_FileID_Sort>
+7194
+
+> <TS_ChemName>
+(Methylthio)methylpyrazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+67952-65-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8N2S
+
+> <STRUCTURE_MW>
+140.2061
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-5-(methylsulfanyl)pyrazine
+
+> <STRUCTURE_SMILES>
+Cc1cnc(SC)cn1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cnc(SC)cn1
+
+> <Substance_modify_yyyymmdd>
+20101215
+
+$$$$

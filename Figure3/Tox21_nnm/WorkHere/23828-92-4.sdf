@@ -1,0 +1,110 @@
+23828-92-4
+ChemmineR-0915142007XD
+
+ 19 19  0  0  1  0  0  0  0  0  1 V2000
+    2.6770   -2.3274    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0277   -1.1787    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6992   -1.1787    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0499   -2.3274    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0077   -3.4760    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6992   -3.4760    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0254   -2.3274    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6747   -1.1787    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7169    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0300    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0200   -4.6547    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0132   -1.1787    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6601   -1.1787    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6724   -0.0300    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6824   -2.3274    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9909   -0.0300    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9909   -2.3274    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9886   -1.1787    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.2640   -3.3162    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 12  8  1  6  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 18  1  1  0  0  0
+ 13 16  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+10951
+
+> <Formula>
+C13H19Br2ClN2O
+
+> <FW>
+414.5638 (378.1028+36.4609)
+
+> <DSSTox_CID>
+25442
+
+> <DSSTox_RID>
+80883
+
+> <DSSTox_GSID>
+45442
+
+> <DSSTox_FileID_Sort>
+5564
+
+> <TS_ChemName>
+Ambroxolhydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+23828-92-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [18683-91-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H19Br2ClN2O
+
+> <STRUCTURE_MW>
+414.5638
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+trans-4-[(2-amino-3,5-dibromobenzyl)amino]cyclohexanol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O[C@@H]2CC[C@@H](NCc1cc(Br)cc(Br)c1N)CC2
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@@H]2CC[C@@H](NCc1cc(Br)cc(Br)c1N)CC2
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

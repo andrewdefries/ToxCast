@@ -1,0 +1,81 @@
+3018-12-0
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6633   -1.1503    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -2.3041    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6633   -3.4545    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+M  END
+> <ID>
+1501
+
+> <Formula>
+C2HCl2N
+
+> <FW>
+109.942
+
+> <DSSTox_CID>
+1562
+
+> <DSSTox_RID>
+76212
+
+> <DSSTox_GSID>
+21562
+
+> <DSSTox_FileID_Sort>
+896
+
+> <TS_ChemName>
+Dichloroacetonitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3018-12-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2HCl2N
+
+> <STRUCTURE_MW>
+109.942
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dichloroacetonitrile
+
+> <STRUCTURE_SMILES>
+ClC(Cl)C#N
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)C#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

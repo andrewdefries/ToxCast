@@ -1,0 +1,107 @@
+18694-40-1
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    4.1758    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5058   -1.1472    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1758   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5065   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1673   -3.4508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5065   -4.6071    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1758   -4.6071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5058   -3.4508    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5058   -5.7543    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0473   -6.9658    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0653   -7.8560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2030   -9.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9089   -7.1952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1843   -5.8920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3032   -4.9008    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.1853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4980   -3.4508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+10937
+
+> <Formula>
+C11H14N4O2
+
+> <FW>
+234.2545
+
+> <DSSTox_CID>
+25422
+
+> <DSSTox_RID>
+80869
+
+> <DSSTox_GSID>
+45422
+
+> <DSSTox_FileID_Sort>
+5550
+
+> <TS_ChemName>
+Epirizole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+18694-40-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H14N4O2
+
+> <STRUCTURE_MW>
+234.2545
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methoxy-2-(5-methoxy-3-methyl-1H-pyrazol-1-yl)-6-methylpyrimidine
+
+> <STRUCTURE_SMILES>
+Cc1cc(nc(n1)n2nc(C)cc2OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(nc(n1)n2nc(C)cc2OC)OC
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

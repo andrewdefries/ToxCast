@@ -1,0 +1,95 @@
+100-85-6
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  2 V2000
+    1.8141   -0.8408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.9926    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.4895   -3.1444    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -2.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -0.6623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7591   -0.6623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7591   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -2.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5476   -4.0947    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+9993
+
+> <Formula>
+C10H17NO
+
+> <FW>
+167.2481 (150.2402+17.0079)
+
+> <DSSTox_CID>
+24332
+
+> <DSSTox_RID>
+80155
+
+> <DSSTox_GSID>
+44332
+
+> <DSSTox_FileID_Sort>
+4837
+
+> <TS_ChemName>
+Benzyltrimethylammonium hydroxide
+
+> <TS_ChemName_Synonyms>
+Benzyltrimethylammonium  hydroxide
+
+> <TS_CASRN>
+100-85-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [14800-24-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H17NO
+
+> <STRUCTURE_MW>
+167.2481
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+N,N,N-trimethyl(phenyl)methanaminium hydroxide
+
+> <STRUCTURE_SMILES>
+[OH-].C[N+](C)(C)Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(C)Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20090602
+
+$$$$

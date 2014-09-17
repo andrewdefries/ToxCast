@@ -1,0 +1,94 @@
+88-16-4
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    3.9882   -3.6319    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -2.3025    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -0.9731    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3175   -2.3025    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -2.3025    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9941   -3.4564    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6647   -3.4564    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3025    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6647   -1.1486    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9941   -1.1486    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+3848
+
+> <Formula>
+C7H4ClF3
+
+> <FW>
+180.5549
+
+> <DSSTox_CID>
+4774
+
+> <DSSTox_RID>
+77527
+
+> <DSSTox_GSID>
+24774
+
+> <DSSTox_FileID_Sort>
+2210
+
+> <TS_ChemName>
+2-Chlorobenzotrifluoride
+
+> <TS_ChemName_Synonyms>
+2-Chlorobenzotrifluoride (o-Chlorobenzotrifluoride)
+
+> <TS_CASRN>
+88-16-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H4ClF3
+
+> <STRUCTURE_MW>
+180.5549
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-2-(trifluoromethyl)benzene
+
+> <STRUCTURE_SMILES>
+FC(F)(F)c1ccccc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)(F)c1ccccc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,101 @@
+537-17-7
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    8.0626   -2.6606    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9096   -1.9995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567   -2.6606    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6037   -1.9995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6037   -0.6692    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9096   -0.6692    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4588   -2.6606    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3059   -1.9995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1529   -2.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1529    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3059   -0.6692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+11488
+
+> <Formula>
+C9H9N5
+
+> <FW>
+187.2013
+
+> <DSSTox_CID>
+26190
+
+> <DSSTox_RID>
+81421
+
+> <DSSTox_GSID>
+46190
+
+> <DSSTox_FileID_Sort>
+6102
+
+> <TS_ChemName>
+Amanozine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+537-17-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H9N5
+
+> <STRUCTURE_MW>
+187.2013
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-phenyl-1,3,5-triazine-2,4-diamine
+
+> <STRUCTURE_SMILES>
+Nc2ncnc(Nc1ccccc1)n2
+
+> <STRUCTURE_SMILES_Desalt>
+Nc2ncnc(Nc1ccccc1)n2
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

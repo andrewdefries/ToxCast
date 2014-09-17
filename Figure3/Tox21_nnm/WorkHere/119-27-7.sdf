@@ -1,0 +1,100 @@
+119-27-7
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  2 V2000
+    2.3142   -1.9816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3142   -3.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4782   -3.9771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6146   -3.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6146   -1.9608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4782   -1.3234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1640   -1.3234    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1640    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1640   -3.9771    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.1640   -5.3005    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7786   -3.9771    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    6.9288   -3.3050    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.7786   -5.3005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <ID>
+8332
+
+> <Formula>
+C7H6N2O5
+
+> <FW>
+198.1329
+
+> <DSSTox_CID>
+21366
+
+> <DSSTox_RID>
+79701
+
+> <DSSTox_GSID>
+41366
+
+> <DSSTox_FileID_Sort>
+4383
+
+> <TS_ChemName>
+2,4-Dinitroanisole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+119-27-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6N2O5
+
+> <STRUCTURE_MW>
+198.1329
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-dinitrophenyl methyl ether
+
+> <STRUCTURE_SMILES>
+COc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(cc1[N+]([O-])=O)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

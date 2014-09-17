@@ -1,0 +1,99 @@
+101-84-8
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    1.1539   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3009   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3009   -1.9969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548   -2.6602    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6087   -1.9969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6087   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7557    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9096   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9096   -1.9969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7557   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+1735
+
+> <Formula>
+C12H10O
+
+> <FW>
+170.2072
+
+> <DSSTox_CID>
+1847
+
+> <DSSTox_RID>
+76363
+
+> <DSSTox_GSID>
+21847
+
+> <DSSTox_FileID_Sort>
+1047
+
+> <TS_ChemName>
+Diphenyl oxide
+
+> <TS_ChemName_Synonyms>
+Diphenyl oxide (Benzene, 1,1'-oxybis-) (Phenyl ether) (Phenoxybenzene)
+
+> <TS_CASRN>
+101-84-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10O
+
+> <STRUCTURE_MW>
+170.2072
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diphenyl ether
+
+> <STRUCTURE_SMILES>
+c1ccccc1Oc2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccccc1Oc2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

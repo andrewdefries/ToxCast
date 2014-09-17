@@ -1,0 +1,107 @@
+131-57-7
+ChemmineR-0915142007XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    3.4581   -3.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6028   -3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6028   -5.3202    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -3.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9082   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0609   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0609   -3.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9082   -3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -3.3291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4581   -1.9991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -5.3202    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 14  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+2206
+
+> <Formula>
+C14H12O3
+
+> <FW>
+228.2433
+
+> <DSSTox_CID>
+2405
+
+> <DSSTox_RID>
+76576
+
+> <DSSTox_GSID>
+22405
+
+> <DSSTox_FileID_Sort>
+1260
+
+> <TS_ChemName>
+2-Hydroxy-4-methoxybenzophenone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+131-57-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H12O3
+
+> <STRUCTURE_MW>
+228.2433
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2-hydroxy-4-methoxyphenyl)(phenyl)methanone
+
+> <STRUCTURE_SMILES>
+O=C(c1ccc(cc1O)OC)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(c1ccc(cc1O)OC)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

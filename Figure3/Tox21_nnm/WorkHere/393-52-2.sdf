@@ -1,0 +1,92 @@
+393-52-2
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    3.9896   -2.3044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6553   -3.4542    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6553   -1.1499    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582   -2.3044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -3.4542    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6657   -3.4542    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6657   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582    0.0000    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+4147
+
+> <Formula>
+C7H4ClFO
+
+> <FW>
+158.5575
+
+> <DSSTox_CID>
+5330
+
+> <DSSTox_RID>
+77752
+
+> <DSSTox_GSID>
+25330
+
+> <DSSTox_FileID_Sort>
+2435
+
+> <TS_ChemName>
+2-Fluorobenzoyl chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+393-52-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H4ClFO
+
+> <STRUCTURE_MW>
+158.5575
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-fluorobenzoyl chloride
+
+> <STRUCTURE_SMILES>
+O=C(Cl)c1ccccc1F
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Cl)c1ccccc1F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,89 @@
+13706-86-0
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    4.5915   -3.3272    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7465   -1.3274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2871   -1.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -1.3274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5915   -1.9998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4422   -1.3274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4422    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+14078
+
+> <Formula>
+C7H12O2
+
+> <FW>
+128.169
+
+> <DSSTox_CID>
+29071
+
+> <DSSTox_RID>
+83290
+
+> <DSSTox_GSID>
+49215
+
+> <DSSTox_FileID_Sort>
+7965
+
+> <TS_ChemName>
+5-Methyl-2,3-hexanedione
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13706-86-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H12O2
+
+> <STRUCTURE_MW>
+128.169
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-methylhexane-2,3-dione
+
+> <STRUCTURE_SMILES>
+CC(=O)C(=O)CC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)C(=O)CC(C)C
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

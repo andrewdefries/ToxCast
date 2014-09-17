@@ -1,0 +1,83 @@
+110-63-4
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    2.3060   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6630    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4590    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6119   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7649    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+3800
+
+> <Formula>
+C4H10O2
+
+> <FW>
+90.121
+
+> <DSSTox_CID>
+4666
+
+> <DSSTox_RID>
+77492
+
+> <DSSTox_GSID>
+24666
+
+> <DSSTox_FileID_Sort>
+2175
+
+> <TS_ChemName>
+1,4-Butanediol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+110-63-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10O2
+
+> <STRUCTURE_MW>
+90.121
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butane-1,4-diol
+
+> <STRUCTURE_SMILES>
+OCCCCO
+
+> <STRUCTURE_SMILES_Desalt>
+OCCCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

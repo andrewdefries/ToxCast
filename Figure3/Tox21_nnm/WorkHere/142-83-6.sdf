@@ -1,0 +1,85 @@
+142-83-6
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1578    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3156   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4595    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6173   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7750    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9328   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+4170
+
+> <Formula>
+C6H8O
+
+> <FW>
+96.1271
+
+> <DSSTox_CID>
+5391
+
+> <DSSTox_RID>
+77769
+
+> <DSSTox_GSID>
+25391
+
+> <DSSTox_FileID_Sort>
+2452
+
+> <TS_ChemName>
+(2E,4E)-2,4-Hexadienal
+
+> <TS_ChemName_Synonyms>
+2,4-Hexadienal
+
+> <TS_CASRN>
+142-83-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8O
+
+> <STRUCTURE_MW>
+96.1271
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E,4E)-hexa-2,4-dienal
+
+> <STRUCTURE_SMILES>
+C\C=C\C=C\C=O
+
+> <STRUCTURE_SMILES_Desalt>
+C\C=C\C=C\C=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

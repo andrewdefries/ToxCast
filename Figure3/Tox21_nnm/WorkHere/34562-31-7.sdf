@@ -1,0 +1,111 @@
+34562-31-7
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    3.9888   -4.6105    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3347   -5.7651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3347   -3.4639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0025   -3.4639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0025   -5.7651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3323   -4.6105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3323   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3323   -6.9198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0025   -8.0744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3235   -3.4639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9775   -4.6105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3235   -5.7651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9912   -5.7651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210   -4.6105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9912   -3.4639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9888   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3347   -1.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9888    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 16  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+10570
+
+> <Formula>
+C18H25N
+
+> <FW>
+255.3978
+
+> <DSSTox_CID>
+24923
+
+> <DSSTox_RID>
+80589
+
+> <DSSTox_GSID>
+44923
+
+> <DSSTox_FileID_Sort>
+5271
+
+> <TS_ChemName>
+3,5-Diethyl-1-phenyl-2-propyl-1,2-dihydropyridine
+
+> <TS_ChemName_Synonyms>
+3,5-Diethyl-1-phenyl-2-propyl-1,2-dihydropyridine (Pyridine, 3,5-diethyl-1,2-dihydro-1-phenyl-2-propyl-)
+
+> <TS_CASRN>
+34562-31-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H25N
+
+> <STRUCTURE_MW>
+255.3978
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5-diethyl-1-phenyl-2-propyl-1,2-dihydropyridine
+
+> <STRUCTURE_SMILES>
+CCC2=CN(c1ccccc1)C(CCC)C(=C2)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CCC2=CN(c1ccccc1)C(CCC)C(=C2)CC
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

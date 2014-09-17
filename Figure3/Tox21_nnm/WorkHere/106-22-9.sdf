@@ -1,0 +1,93 @@
+106-22-9
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1516   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3310   -1.9781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4640   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6155   -1.9781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7949   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9558   -1.9781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1074   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2868   -1.9781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9781    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4640    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1074    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+M  END
+> <ID>
+4784
+
+> <Formula>
+C10H20O
+
+> <FW>
+156.2652
+
+> <DSSTox_CID>
+6726
+
+> <DSSTox_RID>
+78201
+
+> <DSSTox_GSID>
+26726
+
+> <DSSTox_FileID_Sort>
+2884
+
+> <TS_ChemName>
+Citronellol
+
+> <TS_ChemName_Synonyms>
+beta-Citronellol; 6-Octen-1-ol, 3,7-dimethyl-; 3,7-Dimethyloct-6-en-1-ol
+
+> <TS_CASRN>
+106-22-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture of (3R) [1117-61-9]; (3S) [7540-51-4] isomers; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20O
+
+> <STRUCTURE_MW>
+156.2652
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,7-dimethyloct-6-en-1-ol
+
+> <STRUCTURE_SMILES>
+C\C(C)=C\CCC(C)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+C\C(C)=C\CCC(C)CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,87 @@
+3234-02-4
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    2.3078   -0.6554    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4617    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6554    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3078   -2.0032    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -2.6586    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4617   -2.6586    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6156   -2.0032    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  2  3  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+3928
+
+> <Formula>
+C4H6Br2O2
+
+> <FW>
+245.8972
+
+> <DSSTox_CID>
+4942
+
+> <DSSTox_RID>
+77592
+
+> <DSSTox_GSID>
+24942
+
+> <DSSTox_FileID_Sort>
+2275
+
+> <TS_ChemName>
+(2E)-2,3-Dibromo-2-butene-1,4-diol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3234-02-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6Br2O2
+
+> <STRUCTURE_MW>
+245.8972
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,3-dibromobut-2-ene-1,4-diol
+
+> <STRUCTURE_SMILES>
+BrC(CO)=C(Br)CO
+
+> <STRUCTURE_SMILES_Desalt>
+BrC(CO)=C(Br)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

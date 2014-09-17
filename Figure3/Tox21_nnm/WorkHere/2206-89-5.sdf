@@ -1,0 +1,87 @@
+2206-89-5
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    5.9872   -1.1555    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6581   -1.1555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9935   -2.3051    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6583   -2.3051    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9938   -1.1555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6583    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6646   -1.1555    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3051    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+3852
+
+> <Formula>
+C5H7ClO2
+
+> <FW>
+134.5609
+
+> <DSSTox_CID>
+4783
+
+> <DSSTox_RID>
+77530
+
+> <DSSTox_GSID>
+24783
+
+> <DSSTox_FileID_Sort>
+2213
+
+> <TS_ChemName>
+2-Chloroethyl acrylate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2206-89-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H7ClO2
+
+> <STRUCTURE_MW>
+134.5609
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloroethyl prop-2-enoate
+
+> <STRUCTURE_SMILES>
+C=CC(=O)OCCCl
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(=O)OCCCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,95 @@
+122-60-1
+ChemmineR-0915142007XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    3.9880   -1.1486    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6611   -1.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6635   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6635    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6515   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9856   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1342   -1.6409    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1342   -2.9678    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+1101
+
+> <Formula>
+C9H10O2
+
+> <FW>
+150.1745
+
+> <DSSTox_CID>
+1145
+
+> <DSSTox_RID>
+75974
+
+> <DSSTox_GSID>
+21145
+
+> <DSSTox_FileID_Sort>
+658
+
+> <TS_ChemName>
+Phenyl glycidyl ether
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+122-60-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10O2
+
+> <STRUCTURE_MW>
+150.1745
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(phenoxymethyl)oxirane
+
+> <STRUCTURE_SMILES>
+c2ccc(OCC1CO1)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+c2ccc(OCC1CO1)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

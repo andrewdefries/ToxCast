@@ -1,0 +1,93 @@
+94158-44-8
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -4.6038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3325   -4.6038    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9947   -3.4548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3272   -3.4548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9894   -2.2979    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3219   -2.2979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9841   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3166   -1.1490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9789    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3219    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9894    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+16254
+
+> <Formula>
+C7H16O4
+
+> <FW>
+164.1995
+
+> <DSSTox_CID>
+31645
+
+> <DSSTox_RID>
+97529
+
+> <DSSTox_GSID>
+57856
+
+> <DSSTox_FileID_Sort>
+8596
+
+> <TS_ChemName>
+1,1-Dimethoxy-2-(2-methoxyethoxy)ethane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+94158-44-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H16O4
+
+> <STRUCTURE_MW>
+164.1995
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1-dimethoxy-2-(2-methoxyethoxy)ethane
+
+> <STRUCTURE_SMILES>
+COC(COCCOC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+COC(COCCOC)OC
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

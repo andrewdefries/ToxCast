@@ -1,0 +1,107 @@
+105-99-7
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1608   -1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4650   -1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6258   -1.9924    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7692   -1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7692    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9300   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0908   -1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2342   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3950   -1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5558   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5558   -3.3264    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6992   -1.3340    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8600   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0208   -1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1643   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3250   -1.3340    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+1751
+
+> <Formula>
+C14H26O4
+
+> <FW>
+258.3538
+
+> <DSSTox_CID>
+1866
+
+> <DSSTox_RID>
+76372
+
+> <DSSTox_GSID>
+21866
+
+> <DSSTox_FileID_Sort>
+1056
+
+> <TS_ChemName>
+Dibutyl hexanedioate
+
+> <TS_ChemName_Synonyms>
+Dibutyl adipate; Adimoll DB
+
+> <TS_CASRN>
+105-99-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H26O4
+
+> <STRUCTURE_MW>
+258.3538
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dibutyl hexanedioate
+
+> <STRUCTURE_SMILES>
+O=C(CCCCC(=O)OCCCC)OCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCC(=O)OCCCC)OCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

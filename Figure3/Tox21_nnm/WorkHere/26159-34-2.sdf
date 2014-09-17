@@ -1,0 +1,108 @@
+26159-34-2
+ChemmineR-0915142007XD
+
+ 18 18  0  0  1  0  0  0  0  0  2 V2000
+    5.1787   -5.3133    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+   10.3573   -3.3247    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2077   -3.9876    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0580   -3.3247    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9083   -3.9876    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7587   -3.3247    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5986   -3.9876    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4490   -3.3247    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4490   -1.9886    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5986   -1.3257    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7587   -1.9886    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9083   -1.3257    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0580   -1.9886    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2993   -1.3257    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2993    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1497   -1.9886    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3257    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.1497   -3.3247    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  1  1  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+M  END
+> <ID>
+11041
+
+> <Formula>
+C14H13NaO3
+
+> <FW>
+252.2410 (22.9892+229.2518)
+
+> <DSSTox_CID>
+25576
+
+> <DSSTox_RID>
+80973
+
+> <DSSTox_GSID>
+45576
+
+> <DSSTox_FileID_Sort>
+5654
+
+> <TS_ChemName>
+Naproxen sodium
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+26159-34-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [22204-53-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H13NaO3
+
+> <STRUCTURE_MW>
+252.241
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium (2S)-2-(6-methoxynaphthalen-2-yl)propanoate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]C(=O)[C@@H](C)c1ccc2cc(ccc2c1)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)[C@@H](C)c1ccc2cc(ccc2c1)OC
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

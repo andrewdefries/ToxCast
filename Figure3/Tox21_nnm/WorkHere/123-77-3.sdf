@@ -1,0 +1,87 @@
+123-77-3
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    5.3095   -2.3096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6352   -1.1522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3025   -1.1522    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9911   -1.1522    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6584   -1.1522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3096    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3095    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+3738
+
+> <Formula>
+C2H4N4O2
+
+> <FW>
+116.0788
+
+> <DSSTox_CID>
+4553
+
+> <DSSTox_RID>
+77449
+
+> <DSSTox_GSID>
+24553
+
+> <DSSTox_FileID_Sort>
+2132
+
+> <TS_ChemName>
+Azodicarbonamide
+
+> <TS_ChemName_Synonyms>
+Azodicarbonamide (Diazenedicarboxamide)
+
+> <TS_CASRN>
+123-77-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H4N4O2
+
+> <STRUCTURE_MW>
+116.0788
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diazene-1,2-dicarboxamide
+
+> <STRUCTURE_SMILES>
+NC(=O)/N=N/C(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)/N=N/C(N)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

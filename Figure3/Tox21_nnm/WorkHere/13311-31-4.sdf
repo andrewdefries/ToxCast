@@ -1,0 +1,95 @@
+13311-31-4
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  2 V2000
+    6.9158   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4648    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7678   -2.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6129   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1480    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4648   -2.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1480   -2.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3030   -0.6570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3030   -1.9987    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.2753   -3.5617    0.0000 I   0  5  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+14077
+
+> <Formula>
+C10H16IN
+
+> <FW>
+277.1452 (150.2402+126.9050)
+
+> <DSSTox_CID>
+29070
+
+> <DSSTox_RID>
+83289
+
+> <DSSTox_GSID>
+49214
+
+> <DSSTox_FileID_Sort>
+7964
+
+> <TS_ChemName>
+1-Butyl-2-methylpyridinium iodide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13311-31-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16IN
+
+> <STRUCTURE_MW>
+277.1452
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+1-butyl-2-methylpyridinium iodide
+
+> <STRUCTURE_SMILES>
+[I-].Cc1cccc[n+]1CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cccc[n+]1CCCC
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

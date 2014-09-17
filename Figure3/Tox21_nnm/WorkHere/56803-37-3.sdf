@@ -1,0 +1,128 @@
+56803-37-3
+ChemmineR-0915142007XD
+
+ 27 29  0  0  0  0  0  0  0  0  1 V2000
+    2.2996   -4.6569    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4542   -5.3208    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6357   -5.8115    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -3.9930    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9731   -3.5023    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2996   -6.9661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6370   -6.9661    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6357   -8.1111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3009   -8.1111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2996   -9.2657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6370   -9.2657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3009   -3.5023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9648   -2.3573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9648   -4.6569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2926   -2.3573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2926   -4.6569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9565   -3.5023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -2.6652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2996   -1.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2996   -0.6639    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2939   -3.5023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2939   -2.1745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6217   -3.5023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2939   -4.8397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4 18  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 24  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 21 23  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 24 27  1  0  0  0  0
+M  END
+> <ID>
+3818
+
+> <Formula>
+C22H23O4P
+
+> <FW>
+382.3894
+
+> <DSSTox_CID>
+4701
+
+> <DSSTox_RID>
+77505
+
+> <DSSTox_GSID>
+24701
+
+> <DSSTox_FileID_Sort>
+2188
+
+> <TS_ChemName>
+tert-Butylphenyl diphenyl phosphate
+
+> <TS_ChemName_Synonyms>
+tert-Butylphenyl diphenyl phosphate (Phosphoric acid, (1,1-dimethylethyl)phenyl diphenyl ester)
+
+> <TS_CASRN>
+56803-37-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 2-; 3- and 4-tert-butylphenyl diphenyl phosphates; structure shown  4-tert-butylphenyl diphenyl phosphate [981-40-8]
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C22H23O4P
+
+> <STRUCTURE_MW>
+382.3894
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-tert-butylphenyl diphenyl phosphate
+
+> <STRUCTURE_SMILES>
+CC(C)(C)c3ccc(OP(=O)(Oc1ccccc1)Oc2ccccc2)cc3
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c3ccc(OP(=O)(Oc1ccccc1)Oc2ccccc2)cc3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

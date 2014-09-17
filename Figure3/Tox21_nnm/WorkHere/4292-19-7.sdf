@@ -1,0 +1,97 @@
+4292-19-7
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+   12.7988    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6391   -0.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4654    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3197   -0.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1460    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9862   -0.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8265    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6528   -0.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5071    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3334   -0.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1737    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9725   -0.6427    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+14165
+
+> <Formula>
+C12H25I
+
+> <FW>
+296.2314
+
+> <DSSTox_CID>
+29158
+
+> <DSSTox_RID>
+83377
+
+> <DSSTox_GSID>
+49302
+
+> <DSSTox_FileID_Sort>
+8052
+
+> <TS_ChemName>
+Dodecane,1-iodo-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4292-19-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H25I
+
+> <STRUCTURE_MW>
+296.2314
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-iodododecane
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCCCI
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCCCI
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

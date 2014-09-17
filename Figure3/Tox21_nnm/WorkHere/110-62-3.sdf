@@ -1,0 +1,83 @@
+110-62-3
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3060   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4590    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6119   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7649    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+1590
+
+> <Formula>
+C5H10O
+
+> <FW>
+86.1323
+
+> <DSSTox_CID>
+1653
+
+> <DSSTox_RID>
+76265
+
+> <DSSTox_GSID>
+21653
+
+> <DSSTox_FileID_Sort>
+949
+
+> <TS_ChemName>
+Pentanal
+
+> <TS_ChemName_Synonyms>
+Pentanal (n-Pentanal) (Valeraldehyde)
+
+> <TS_CASRN>
+110-62-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10O
+
+> <STRUCTURE_MW>
+86.1323
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pentanal
+
+> <STRUCTURE_SMILES>
+CCCCC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

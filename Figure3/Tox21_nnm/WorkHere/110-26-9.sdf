@@ -1,0 +1,93 @@
+110-26-9
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1538    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -1.3265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3007   -1.9967    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4545   -1.3265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6083   -1.9967    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552   -1.3265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9090   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9090   -3.3232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+4290
+
+> <Formula>
+C7H10N2O2
+
+> <FW>
+154.1665
+
+> <DSSTox_CID>
+5595
+
+> <DSSTox_RID>
+77846
+
+> <DSSTox_GSID>
+25595
+
+> <DSSTox_FileID_Sort>
+2529
+
+> <TS_ChemName>
+N,N'-Methylenebisacrylamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+110-26-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H10N2O2
+
+> <STRUCTURE_MW>
+154.1665
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N'-methanediylbisprop-2-enamide
+
+> <STRUCTURE_SMILES>
+C=CC(=O)NCNC(=O)C=C
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(=O)NCNC(=O)C=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

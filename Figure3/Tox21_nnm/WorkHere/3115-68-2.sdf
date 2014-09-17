@@ -1,0 +1,106 @@
+3115-68-2
+ChemmineR-0915142007XD
+
+ 18 16  0  0  0  0  0  0  0  0  2 V2000
+    4.4192   -4.4192    0.0000 P    0  3  0  0  0  0  0  0  0  0  0  0
+    5.3295   -5.3825    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6288   -5.0732    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5391   -6.0366    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.8383   -5.7361    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558   -5.3295    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7651   -6.6288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8018   -7.5391    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1023   -8.8383    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3825   -3.5088    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.0732   -2.2096    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0366   -1.2992    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7361    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5088   -3.4558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2096   -3.7651    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2992   -2.8018    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1023    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.2285   -2.7222    0.0000 Br   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+13020
+
+> <Formula>
+C16H36BrP
+
+> <FW>
+339.3348 (259.4303+79.9045)
+
+> <DSSTox_CID>
+27921
+
+> <DSSTox_RID>
+82674
+
+> <DSSTox_GSID>
+47945
+
+> <DSSTox_FileID_Sort>
+7351
+
+> <TS_ChemName>
+Tetrabutylphosphonium bromide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3115-68-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+phosphonium; parent [15853-37-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H36BrP
+
+> <STRUCTURE_MW>
+339.3348
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+tetrabutylphosphonium bromide
+
+> <STRUCTURE_SMILES>
+[Br-].CCCC[P+](CCCC)(CCCC)CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC[P+](CCCC)(CCCC)CCCC
+
+> <Substance_modify_yyyymmdd>
+20110419
+
+$$$$

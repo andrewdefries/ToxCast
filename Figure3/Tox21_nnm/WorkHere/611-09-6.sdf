@@ -1,0 +1,101 @@
+611-09-6
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  2 V2000
+    2.2986   -3.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4559   -3.9907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4559   -1.3329    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2986   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6052   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6052   -3.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8743   -1.5883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6485   -2.6578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8743   -3.7353    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1493   -1.3329    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    6.2813   -0.3193    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9814   -2.6578    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1493    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9953    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 14  2  0  0  0  0
+M  END
+> <ID>
+14195
+
+> <Formula>
+C8H4N2O4
+
+> <FW>
+192.1284
+
+> <DSSTox_CID>
+29287
+
+> <DSSTox_RID>
+83406
+
+> <DSSTox_GSID>
+49331
+
+> <DSSTox_FileID_Sort>
+8081
+
+> <TS_ChemName>
+5-Nitroisatin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+611-09-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H4N2O4
+
+> <STRUCTURE_MW>
+192.1284
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-nitro-1H-indole-2,3-dione
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c1cc2c(cc1)NC(=O)C2=O
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c1cc2c(cc1)NC(=O)C2=O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

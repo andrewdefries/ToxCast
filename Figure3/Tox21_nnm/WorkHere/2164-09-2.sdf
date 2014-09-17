@@ -1,0 +1,100 @@
+2164-09-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    1.1541   -1.9972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553   -1.9972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -2.6606    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6093   -2.6606    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7565   -1.9972    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7565   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9106    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6093    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9106   -2.6606    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6606    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+408
+
+> <Formula>
+C10H9Cl2NO
+
+> <FW>
+230.0906
+
+> <DSSTox_CID>
+424
+
+> <DSSTox_RID>
+75576
+
+> <DSSTox_GSID>
+20424
+
+> <DSSTox_FileID_Sort>
+260
+
+> <TS_ChemName>
+Chloranocryl
+
+> <TS_ChemName_Synonyms>
+Chloranocryl (3,4'-Dichloro-2-methylacrylanilide)
+
+> <TS_CASRN>
+2164-09-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H9Cl2NO
+
+> <STRUCTURE_MW>
+230.0906
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(3,4-dichlorophenyl)-2-methylprop-2-enamide
+
+> <STRUCTURE_SMILES>
+Clc1ccc(NC(=O)C(=C)C)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(NC(=O)C(=C)C)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

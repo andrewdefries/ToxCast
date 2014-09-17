@@ -1,0 +1,90 @@
+56-34-8
+ChemmineR-0915142007XD
+
+ 10  8  0  0  0  0  0  0  0  0  2 V2000
+    1.9835   -2.3064    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.6689   -2.3064    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4597    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6524   -3.4597    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9671   -3.4597    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6524   -1.1532    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9835    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3147   -3.4597    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0066   -4.6129    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9071   -1.8590    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+8132
+
+> <Formula>
+C8H20ClN
+
+> <FW>
+165.7041 (130.2506+35.4535)
+
+> <DSSTox_CID>
+21137
+
+> <DSSTox_RID>
+79633
+
+> <DSSTox_GSID>
+41137
+
+> <DSSTox_FileID_Sort>
+4315
+
+> <TS_ChemName>
+Tetraethylammonium chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+56-34-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H20ClN
+
+> <STRUCTURE_MW>
+165.7041
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+N,N,N-triethylethanaminium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].CC[N+](CC)(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CC[N+](CC)(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

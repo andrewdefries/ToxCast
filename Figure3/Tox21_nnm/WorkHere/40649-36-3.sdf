@@ -1,0 +1,92 @@
+40649-36-3
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1566   -0.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4628   -0.6718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4628   -1.9876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062   -2.6594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1566   -1.9876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6193   -2.6594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7690   -2.0015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9255   -2.6594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+13260
+
+> <Formula>
+C9H16O
+
+> <FW>
+140.2227
+
+> <DSSTox_CID>
+28173
+
+> <DSSTox_RID>
+82733
+
+> <DSSTox_GSID>
+48198
+
+> <DSSTox_FileID_Sort>
+7410
+
+> <TS_ChemName>
+4-Propylcyclohexanone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+40649-36-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H16O
+
+> <STRUCTURE_MW>
+140.2227
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-propylcyclohexanone
+
+> <STRUCTURE_SMILES>
+CCCC1CCC(=O)CC1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC1CCC(=O)CC1
+
+> <Substance_modify_yyyymmdd>
+20110901
+
+$$$$

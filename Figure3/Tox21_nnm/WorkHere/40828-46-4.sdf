@@ -1,0 +1,109 @@
+40828-46-4
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    7.8475   -5.3164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8475   -3.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0165   -3.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1652   -3.9949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0165   -1.9924    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6989   -3.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5502   -3.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4015   -3.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4015   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5502   -1.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6989   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2529   -1.3316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2529    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1042   -1.9924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9619   -3.3240    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6506   -3.5883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8945   -1.4536    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+10968
+
+> <Formula>
+C14H12O3S
+
+> <FW>
+260.3083
+
+> <DSSTox_CID>
+25469
+
+> <DSSTox_RID>
+80900
+
+> <DSSTox_GSID>
+45469
+
+> <DSSTox_FileID_Sort>
+5581
+
+> <TS_ChemName>
+Suprofen
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+40828-46-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H12O3S
+
+> <STRUCTURE_MW>
+260.3083
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[4-(thiophen-2-ylcarbonyl)phenyl]propanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(c1ccc(cc1)C(C)C(=O)O)c2cccs2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(c1ccc(cc1)C(C)C(=O)O)c2cccs2
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

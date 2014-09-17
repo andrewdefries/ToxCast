@@ -1,0 +1,105 @@
+134-81-6
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    3.4628   -1.9971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -2.6575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4628   -0.6603    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063   -3.9943    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -2.6736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7659   -1.9971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1596   -2.0132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7659   -0.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -4.0104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9094   -2.6575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1596   -4.6707    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9094    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0529   -1.9971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0529   -0.6603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7 11  2  0  0  0  0
+  8 13  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 16  2  0  0  0  0
+M  END
+> <ID>
+10037
+
+> <Formula>
+C14H10O2
+
+> <FW>
+210.228
+
+> <DSSTox_CID>
+24380
+
+> <DSSTox_RID>
+80184
+
+> <DSSTox_GSID>
+44380
+
+> <DSSTox_FileID_Sort>
+4866
+
+> <TS_ChemName>
+1,2-Diphenylethanedione
+
+> <TS_ChemName_Synonyms>
+1,2-Diphenylethanedione (Ethanedione, diphenyl-)
+
+> <TS_CASRN>
+134-81-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H10O2
+
+> <STRUCTURE_MW>
+210.228
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-diphenylethane-1,2-dione
+
+> <STRUCTURE_SMILES>
+O=C(C(=O)c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C(=O)c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

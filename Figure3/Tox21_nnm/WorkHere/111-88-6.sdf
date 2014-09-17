@@ -1,0 +1,89 @@
+111-88-6
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1261    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2889   -0.6775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4151    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5412   -0.6775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7040    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8667   -0.6775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9929    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1557   -0.6775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6775    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+4835
+
+> <Formula>
+C8H18S
+
+> <FW>
+146.2935
+
+> <DSSTox_CID>
+6894
+
+> <DSSTox_RID>
+78240
+
+> <DSSTox_GSID>
+26894
+
+> <DSSTox_FileID_Sort>
+2923
+
+> <TS_ChemName>
+1-Octanethiol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+111-88-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18S
+
+> <STRUCTURE_MW>
+146.2935
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+octane-1-thiol
+
+> <STRUCTURE_SMILES>
+CCCCCCCCS
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCS
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

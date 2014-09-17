@@ -1,0 +1,95 @@
+1071-93-8
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    2.2960   -1.3238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4441   -1.9961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5921   -1.3238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7505   -1.9961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8985   -1.3238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0465   -1.9961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2960    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0465   -3.3200    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1480   -1.9961    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3238    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1945   -1.3238    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3425   -1.9961    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+10019
+
+> <Formula>
+C6H14N4O2
+
+> <FW>
+174.201
+
+> <DSSTox_CID>
+24361
+
+> <DSSTox_RID>
+80169
+
+> <DSSTox_GSID>
+44361
+
+> <DSSTox_FileID_Sort>
+4851
+
+> <TS_ChemName>
+Hexanedihydrazide
+
+> <TS_ChemName_Synonyms>
+Hexanedioic acid, dihydrazide
+
+> <TS_CASRN>
+1071-93-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14N4O2
+
+> <STRUCTURE_MW>
+174.201
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexanedihydrazide
+
+> <STRUCTURE_SMILES>
+NNC(=O)CCCCC(=O)NN
+
+> <STRUCTURE_SMILES_Desalt>
+NNC(=O)CCCCC(=O)NN
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

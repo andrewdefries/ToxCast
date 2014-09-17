@@ -1,0 +1,88 @@
+1824-81-3
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    2.3070   -2.6576    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -2.0024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4604   -2.0024    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4604   -0.6690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -0.6690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3070    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6139   -2.6576    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+10507
+
+> <Formula>
+C6H8N2
+
+> <FW>
+108.1411
+
+> <DSSTox_CID>
+24860
+
+> <DSSTox_RID>
+80538
+
+> <DSSTox_GSID>
+44860
+
+> <DSSTox_FileID_Sort>
+5220
+
+> <TS_ChemName>
+6-Methylpyridin-2-amine
+
+> <TS_ChemName_Synonyms>
+6-Methylpyridin-2-amine (2-Pyridinamine, 6-methyl-)
+
+> <TS_CASRN>
+1824-81-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8N2
+
+> <STRUCTURE_MW>
+108.1411
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-methylpyridin-2-amine
+
+> <STRUCTURE_SMILES>
+Cc1cccc(N)n1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cccc(N)n1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

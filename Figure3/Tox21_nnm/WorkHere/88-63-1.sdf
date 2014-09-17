@@ -1,0 +1,96 @@
+88-63-1
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.0248   -2.2751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7017   -3.4127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0248   -4.5502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7110   -4.5502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7110   -2.2751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6391   -1.1376    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9359   -1.8485    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2705    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5300   -0.4721    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0455   -1.1376    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0455   -5.6878    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <ID>
+10122
+
+> <Formula>
+C6H8N2O3S
+
+> <FW>
+188.2043
+
+> <DSSTox_CID>
+24465
+
+> <DSSTox_RID>
+80249
+
+> <DSSTox_GSID>
+44465
+
+> <DSSTox_FileID_Sort>
+4931
+
+> <TS_ChemName>
+2,4-Diaminobenzenesulfonic acid
+
+> <TS_ChemName_Synonyms>
+2,4-Diaminobenzenesulfonic acid (Benzenesulfonic acid, 2,4-diamino-)
+
+> <TS_CASRN>
+88-63-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8N2O3S
+
+> <STRUCTURE_MW>
+188.2043
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-diaminobenzenesulfonic acid
+
+> <STRUCTURE_SMILES>
+Nc1cc(N)ccc1S(O)(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1cc(N)ccc1S(O)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

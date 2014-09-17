@@ -1,0 +1,86 @@
+7787-56-6
+ChemmineR-0915142007XD
+
+ 10  4  0  0  0  0  0  0  0  0  2 V2000
+     2.660    -2.660     0.000 O    0  0  0  0  0  0  0  0  0  0  0  0
+     2.660    -1.328     0.000 S    0  0  0  0  0  0  0  0  0  0  0  0
+     1.328    -1.328     0.000 O    0  5  0  0  0  0  0  0  0  0  0  0
+     3.988    -1.328     0.000 O    0  5  0  0  0  0  0  0  0  0  0  0
+     2.660     0.000     0.000 O    0  0  0  0  0  0  0  0  0  0  0  0
+     0.000    -1.328     0.000 Be   0  2  0  0  0  0  0  0  0  0  0  0
+     0.000    -2.660     0.000 O    0  0  0  0  0  0  0  0  0  0  0  0
+     0.000     0.000     0.000 O    0  0  0  0  0  0  0  0  0  0  0  0
+     1.994    -3.988     0.000 O    0  0  0  0  0  0  0  0  0  0  0  0
+     0.666    -3.988     0.000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+M  END
+> <ID>
+3759
+
+> <Formula>
+H8BeO8S
+
+> <FW>
+177.1359 (96.0637+9.0111+18.0153+18.0153+18.0153+18.0153)
+
+> <DSSTox_CID>
+4603
+
+> <DSSTox_RID>
+77466
+
+> <DSSTox_GSID>
+24603
+
+> <DSSTox_FileID_Sort>
+2149
+
+> <TS_ChemName>
+Beryllium sulfate tetrahydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7787-56-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+H8BeO8S
+
+> <STRUCTURE_MW>
+177.1359
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+beryllium sulfate hydrate (1:1:4)
+
+> <STRUCTURE_SMILES>
+O.O.O.O.[Be+2].[O-]S([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

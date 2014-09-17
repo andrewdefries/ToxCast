@@ -1,0 +1,94 @@
+2257-09-2
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    5.7578   -1.9999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6046   -2.6612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4595   -1.9999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063   -2.6612    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -1.9999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3306    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7578   -0.6693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9109    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0641   -0.6693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0641   -1.9999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9109   -2.6612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+1076
+
+> <Formula>
+C9H9NS
+
+> <FW>
+163.2395
+
+> <DSSTox_CID>
+1120
+
+> <DSSTox_RID>
+75951
+
+> <DSSTox_GSID>
+21120
+
+> <DSSTox_FileID_Sort>
+635
+
+> <TS_ChemName>
+Phenethyl isothiocyanate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2257-09-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H9NS
+
+> <STRUCTURE_MW>
+163.2395
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2-isothiocyanatoethyl)benzene
+
+> <STRUCTURE_SMILES>
+S=C=N\CCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+S=C=N\CCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

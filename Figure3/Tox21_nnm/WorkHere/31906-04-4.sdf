@@ -1,0 +1,102 @@
+31906-04-4
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    7.8038   -3.4466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1282   -4.6020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7966   -4.6020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1405   -3.4466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7966   -2.2912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1282   -2.2912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1355   -3.4466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7915   -2.2912    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8187   -3.4466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1431   -2.2912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8114   -2.2912    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1554   -1.1554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2912   -0.4798    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4798    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+M  END
+> <ID>
+5546
+
+> <Formula>
+C13H22O2
+
+> <FW>
+210.3126
+
+> <DSSTox_CID>
+7970
+
+> <DSSTox_RID>
+78626
+
+> <DSSTox_GSID>
+27970
+
+> <DSSTox_FileID_Sort>
+3308
+
+> <TS_ChemName>
+4-(4-Hydroxy-4-methylpentyl)cyclohex-3-ene-1-carbaldehyde
+
+> <TS_ChemName_Synonyms>
+4-(4-Hydroxy-4-methylpentyl)cyclohex-3-ene-1-carbaldehyde (3-Cyclohexene-1-carboxaldehyde, 4-(4-hydroxy-4-methylpentyl)-0
+
+> <TS_CASRN>
+31906-04-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H22O2
+
+> <STRUCTURE_MW>
+210.3126
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(4-hydroxy-4-methylpentyl)cyclohex-3-ene-1-carbaldehyde
+
+> <STRUCTURE_SMILES>
+O=CC1CC=C(CCCC(C)(C)O)CC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=CC1CC=C(CCCC(C)(C)O)CC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

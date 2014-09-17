@@ -1,0 +1,96 @@
+100-18-5
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    4.6578   -1.1461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9981   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6654   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9924   -1.1461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6654    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9981    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9905   -1.1461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6635    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6635   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6597   -1.1461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+4752
+
+> <Formula>
+C12H18
+
+> <FW>
+162.2713
+
+> <DSSTox_CID>
+6652
+
+> <DSSTox_RID>
+78174
+
+> <DSSTox_GSID>
+26652
+
+> <DSSTox_FileID_Sort>
+2857
+
+> <TS_ChemName>
+1,4-Diisopropylbenzene
+
+> <TS_ChemName_Synonyms>
+1,4-Diisopropylbenzene (p-Diisopropylbenzene) (Benzene, 1,4-bis(1-methylethyl)-)
+
+> <TS_CASRN>
+100-18-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H18
+
+> <STRUCTURE_MW>
+162.2713
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-di(propan-2-yl)benzene
+
+> <STRUCTURE_SMILES>
+CC(C)c1ccc(cc1)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)c1ccc(cc1)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

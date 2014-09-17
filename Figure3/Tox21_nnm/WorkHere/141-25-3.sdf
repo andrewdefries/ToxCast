@@ -1,0 +1,93 @@
+141-25-3
+ChemmineR-0915142007XD
+
+ 11 10  0  0  1  0  0  0  0  0  1 V2000
+    0.0000   -1.9781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2938   -1.9781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4640   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6155   -1.9781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7949   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9279   -1.9781    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1073   -1.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2868   -1.9781    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7949    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+12340
+
+> <Formula>
+C10H20O
+
+> <FW>
+156.2652
+
+> <DSSTox_CID>
+27193
+
+> <DSSTox_RID>
+82189
+
+> <DSSTox_GSID>
+47193
+
+> <DSSTox_FileID_Sort>
+6870
+
+> <TS_ChemName>
+Rhodinol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+141-25-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20O
+
+> <STRUCTURE_MW>
+156.2652
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3S)-3,7-dimethyloct-7-en-1-ol
+
+> <STRUCTURE_SMILES>
+CC(=C)CCC[C@H](C)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=C)CCC[C@H](C)CCO
+
+> <Substance_modify_yyyymmdd>
+20100503
+
+$$$$

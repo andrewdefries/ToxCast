@@ -1,0 +1,93 @@
+102-54-5
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  2 V2000
+    0.5342   -3.9198    0.0000 Fe   0  2  0  0  0  0  0  0  0  0  0  0
+    1.3768   -2.0464    0.0000 C    0  5  0  0  0  0  0  0  0  0  0  0
+    0.3009   -1.2640    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7147    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4527   -1.2640    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0464    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0759   -5.4772    0.0000 C    0  5  0  0  0  0  0  0  0  0  0  0
+    2.1518   -6.2597    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7455   -7.5237    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.2597    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4138   -7.5237    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+4144
+
+> <Formula>
+C10H10Fe
+
+> <FW>
+186.0314 (55.8439+65.0937+65.0937)
+
+> <DSSTox_CID>
+5326
+
+> <DSSTox_RID>
+77749
+
+> <DSSTox_GSID>
+25326
+
+> <DSSTox_FileID_Sort>
+2432
+
+> <TS_ChemName>
+Ferrocene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+102-54-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H10Fe
+
+> <STRUCTURE_MW>
+186.0314
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+iron(2+) dicyclopenta-2,4-dienide
+
+> <STRUCTURE_SMILES>
+[Fe+2].[c-]1cccc1.c1[c-]ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+C1=CC=CC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

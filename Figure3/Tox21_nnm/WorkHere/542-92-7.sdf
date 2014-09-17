@@ -1,0 +1,82 @@
+542-92-7
+ChemmineR-0915142007XD
+
+  5  5  0  0  0  0  0  0  0  0  1 V2000
+    2.1592   -0.7838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7273   -2.0318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3843   -2.0318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.7514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0882    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+4983
+
+> <Formula>
+C5H6
+
+> <FW>
+66.1011
+
+> <DSSTox_CID>
+7191
+
+> <DSSTox_RID>
+78342
+
+> <DSSTox_GSID>
+27191
+
+> <DSSTox_FileID_Sort>
+3025
+
+> <TS_ChemName>
+1,3-Cyclopentadiene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+542-92-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H6
+
+> <STRUCTURE_MW>
+66.1011
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+cyclopenta-1,3-diene
+
+> <STRUCTURE_SMILES>
+C1=CC=CC1
+
+> <STRUCTURE_SMILES_Desalt>
+C1=CC=CC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

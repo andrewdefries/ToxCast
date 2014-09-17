@@ -1,0 +1,86 @@
+872-50-4
+ChemmineR-0915142007XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3405    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3291   -2.3405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1116   -1.2642    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3758   -1.6742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3758   -3.0067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1116   -3.4168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7015    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+822
+
+> <Formula>
+C5H9NO
+
+> <FW>
+99.1311
+
+> <DSSTox_CID>
+856
+
+> <DSSTox_RID>
+75828
+
+> <DSSTox_GSID>
+20856
+
+> <DSSTox_FileID_Sort>
+512
+
+> <TS_ChemName>
+N-Methyl-2-pyrrolidone
+
+> <TS_ChemName_Synonyms>
+N-Methyl-2-pyrrolidone (2-Pyrrolidinone, 1-methyl-)
+
+> <TS_CASRN>
+872-50-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H9NO
+
+> <STRUCTURE_MW>
+99.1311
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methylpyrrolidin-2-one
+
+> <STRUCTURE_SMILES>
+O=C1CCCN1C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCN1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

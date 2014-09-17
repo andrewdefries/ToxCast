@@ -1,0 +1,94 @@
+14765-30-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.3076   -0.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3076   -2.0076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -2.6595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1538   -3.9921    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4614   -2.6595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4614   -3.9921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6152   -2.0076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7689   -2.6595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+8768
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+21818
+
+> <DSSTox_RID>
+79852
+
+> <DSSTox_GSID>
+41818
+
+> <DSSTox_FileID_Sort>
+4534
+
+> <TS_ChemName>
+2-sec-Butylcyclohexanone
+
+> <TS_ChemName_Synonyms>
+2-sec.-Butylcyclohexanone (Cyclohexanone, 2-(1-methylpropyl)-)
+
+> <TS_CASRN>
+14765-30-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(butan-2-yl)cyclohexanone
+
+> <STRUCTURE_SMILES>
+CCC(C)C1CCCCC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(C)C1CCCCC1=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

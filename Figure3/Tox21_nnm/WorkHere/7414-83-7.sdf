@@ -1,0 +1,95 @@
+7414-83-7
+ChemmineR-0915142007XD
+
+ 13 10  0  0  0  0  0  0  0  0  2 V2000
+    5.5257   -1.3300    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8557   -1.3300    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5257    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5257   -2.6600    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.8657   -1.3300    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8657    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8657   -2.6600    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5357   -1.3300    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    4.1957   -1.3300    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1957    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1957   -2.6600    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.7734   -2.5983    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3780    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+6120
+
+> <Formula>
+C2H6Na2O7P2
+
+> <FW>
+249.9919 (204.0135+22.9892+22.9892)
+
+> <DSSTox_CID>
+9671
+
+> <DSSTox_RID>
+78804
+
+> <DSSTox_GSID>
+29671
+
+> <DSSTox_FileID_Sort>
+3486
+
+> <TS_ChemName>
+Phosphonic acid, (1-hydroxyethylidene)bis-, disodium salt
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7414-83-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [2809-21-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H6Na2O7P2
+
+> <STRUCTURE_MW>
+249.9919
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+disodium (1-hydroxyethane-1,1-diyl)bis[hydrogen (phosphonate)]
+
+> <STRUCTURE_SMILES>
+[Na+].[Na+].CC(O)(P(O)([O-])=O)P([O-])(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)(P(O)(=O)O)P(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

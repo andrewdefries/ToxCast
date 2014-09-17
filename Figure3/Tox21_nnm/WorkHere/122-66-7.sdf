@@ -1,0 +1,101 @@
+122-66-7
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    3.9928   -1.1581    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6619   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -2.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655   -2.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6497   -2.3075    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9806   -2.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6461   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9770   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6425   -2.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9770   -3.4570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6461   -3.4570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+680
+
+> <Formula>
+C12H12N2
+
+> <FW>
+184.2371
+
+> <DSSTox_CID>
+710
+
+> <DSSTox_RID>
+75751
+
+> <DSSTox_GSID>
+20710
+
+> <DSSTox_FileID_Sort>
+435
+
+> <TS_ChemName>
+1,2-Diphenylhydrazine
+
+> <TS_ChemName_Synonyms>
+Hydrazobenzene
+
+> <TS_CASRN>
+122-66-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H12N2
+
+> <STRUCTURE_MW>
+184.2371
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-diphenylhydrazine
+
+> <STRUCTURE_SMILES>
+N(Nc1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+N(Nc1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

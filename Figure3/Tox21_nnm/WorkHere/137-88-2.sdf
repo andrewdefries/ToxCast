@@ -1,0 +1,111 @@
+137-88-2
+ChemmineR-0915142007XD
+
+ 20 19  0  0  0  0  0  0  0  0  2 V2000
+    6.9184   -3.9981    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    2.2939   -3.9981    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6061   -3.9981    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546   -4.6706    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7577   -4.6706    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546   -2.0083    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2939   -2.6624    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6061   -2.6624    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0608   -4.6706    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546   -5.9880    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9184   -2.6624    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1423   -2.0083    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0608   -5.9880    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2123   -3.9981    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1423   -0.6725    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0608   -2.0083    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2123   -2.6624    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5776   -5.3616    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+    0.7738   -5.5550    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 11  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4 10  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+M  END
+> <ID>
+11016
+
+> <Formula>
+C14H20Cl2N4
+
+> <FW>
+315.2414 (243.3269+35.4535+36.4609)
+
+> <DSSTox_CID>
+25547
+
+> <DSSTox_RID>
+80948
+
+> <DSSTox_GSID>
+45547
+
+> <DSSTox_FileID_Sort>
+5629
+
+> <TS_ChemName>
+Amprolium hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+137-88-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [13082-85-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20Cl2N4
+
+> <STRUCTURE_MW>
+315.2414
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt complex
+
+> <STRUCTURE_IUPAC>
+1-[(4-amino-2-propylpyrimidin-5-yl)methyl]-2-methylpyridinium chloride hydrochloride (1:1:1)
+
+> <STRUCTURE_SMILES>
+[Cl-].Cl.CCCc1nc(N)c(cn1)C[n+]2ccccc2C
+
+> <STRUCTURE_SMILES_Desalt>
+CCCc1nc(N)c(cn1)C[n+]2ccccc2C
+
+> <Substance_modify_yyyymmdd>
+20110719
+
+$$$$

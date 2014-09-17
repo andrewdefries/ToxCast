@@ -1,0 +1,83 @@
+3268-49-3
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.1480    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2960   -0.6716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6716    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5920   -0.6716    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7400    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+5222
+
+> <Formula>
+C4H8OS
+
+> <FW>
+104.1707
+
+> <DSSTox_CID>
+7528
+
+> <DSSTox_RID>
+78490
+
+> <DSSTox_GSID>
+27528
+
+> <DSSTox_FileID_Sort>
+3173
+
+> <TS_ChemName>
+3-(Methylthio)propanal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3268-49-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8OS
+
+> <STRUCTURE_MW>
+104.1707
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(methylsulfanyl)propanal
+
+> <STRUCTURE_SMILES>
+O=CCCSC
+
+> <STRUCTURE_SMILES_Desalt>
+O=CCCSC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

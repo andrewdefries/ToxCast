@@ -1,0 +1,112 @@
+96182-53-5
+ChemmineR-0915142007XD
+
+ 20 20  0  0  0  0  0  0  0  0  1 V2000
+    6.9054   -3.1576    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0649   -2.4847    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7562   -3.8202    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5680   -4.2964    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5967   -3.1576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2531   -1.9878    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4475   -3.8202    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3087   -3.1576    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3087   -1.8118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4475   -1.1595    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5967   -1.8118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1492   -1.1595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9054   -5.4560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2037   -3.1576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5680   -6.6051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5802   -5.4560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3529   -2.4847    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4762   -2.3087    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8118    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+M  END
+> <ID>
+6472
+
+> <Formula>
+C13H23N2O3PS
+
+> <FW>
+318.3721
+
+> <DSSTox_CID>
+12482
+
+> <DSSTox_RID>
+78953
+
+> <DSSTox_GSID>
+32482
+
+> <DSSTox_FileID_Sort>
+3635
+
+> <TS_ChemName>
+Tebupirimfos
+
+> <TS_ChemName_Synonyms>
+Tebupirimfos (Phostebupirim)
+
+> <TS_CASRN>
+96182-53-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H23N2O3PS
+
+> <STRUCTURE_MW>
+318.3721
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O-(2-tert-butylpyrimidin-5-yl) O-ethyl O-propan-2-yl phosphorothioate
+
+> <STRUCTURE_SMILES>
+CC(C)(C)c1ncc(OP(=S)(OCC)OC(C)C)cn1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c1ncc(OP(=S)(OCC)OC(C)C)cn1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

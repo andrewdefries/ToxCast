@@ -1,0 +1,93 @@
+1119-40-0
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6651   -2.3080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9954   -2.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6605   -1.1573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6605   -3.4587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9908   -3.4587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6559   -2.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9861   -2.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6513   -3.4587    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6513   -1.1573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9861    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+4028
+
+> <Formula>
+C7H12O4
+
+> <FW>
+160.1678
+
+> <DSSTox_CID>
+5122
+
+> <DSSTox_RID>
+77674
+
+> <DSSTox_GSID>
+25122
+
+> <DSSTox_FileID_Sort>
+2357
+
+> <TS_ChemName>
+Dimethyl glutarate
+
+> <TS_ChemName_Synonyms>
+Dimethyl glutarate (Pentanedioic acid, dimethyl ester) (DBE-5 dibasic ester)
+
+> <TS_CASRN>
+1119-40-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H12O4
+
+> <STRUCTURE_MW>
+160.1678
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dimethyl pentanedioate
+
+> <STRUCTURE_SMILES>
+O=C(CCCC(=O)OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCC(=O)OC)OC
+
+> <Substance_modify_yyyymmdd>
+20090304
+
+$$$$

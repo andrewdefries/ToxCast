@@ -1,0 +1,87 @@
+110-46-3
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    1.1585    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1585   -1.3309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3033   -1.9999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4481   -1.3309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5928   -1.9999    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7376   -1.3309    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8961   -1.9999    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+2361
+
+> <Formula>
+C5H11NO2
+
+> <FW>
+117.1463
+
+> <DSSTox_CID>
+2605
+
+> <DSSTox_RID>
+77794
+
+> <DSSTox_GSID>
+25455
+
+> <DSSTox_FileID_Sort>
+2477
+
+> <TS_ChemName>
+3-Methylbutyl nitrite
+
+> <TS_ChemName_Synonyms>
+3-Methylbutyl nitrite (Amyl nitrite I) (Isoamyl nitrite)
+
+> <TS_CASRN>
+110-46-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H11NO2
+
+> <STRUCTURE_MW>
+117.1463
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylbutyl nitrite
+
+> <STRUCTURE_SMILES>
+CC(C)CCON=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CCON=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

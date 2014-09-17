@@ -1,0 +1,99 @@
+526-99-8
+ChemmineR-0915142007XD
+
+ 14 13  0  0  1  0  0  0  0  0  1 V2000
+    2.2762   -1.3224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3902   -2.0117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5604   -1.3224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7225   -2.0117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8526   -1.3224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1141   -2.0117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3902   -3.3341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5604    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7225   -3.3341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0148   -2.0117    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3224    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2762    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1141   -3.3341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8526    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  6  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  1  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  1  0  0  0
+  5 10  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6 11  2  0  0  0  0
+  6 13  1  0  0  0  0
+M  END
+> <ID>
+13731
+
+> <Formula>
+C6H10O8
+
+> <FW>
+210.1388
+
+> <DSSTox_CID>
+28666
+
+> <DSSTox_RID>
+82936
+
+> <DSSTox_GSID>
+48740
+
+> <DSSTox_FileID_Sort>
+7613
+
+> <TS_ChemName>
+Mucic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+526-99-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10O8
+
+> <STRUCTURE_MW>
+210.1388
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+D-galactaric acid
+
+> <STRUCTURE_SMILES>
+O[C@@H]([C@H](O)[C@H](O)[C@@H](O)C(=O)O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@@H]([C@H](O)[C@H](O)[C@@H](O)C(=O)O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

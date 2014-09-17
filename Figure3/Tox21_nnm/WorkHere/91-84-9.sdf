@@ -1,0 +1,115 @@
+91-84-9
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  1 V2000
+    1.9888   -4.6050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6594   -4.6050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -3.4458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -3.4458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6582   -4.6050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9876   -4.6050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6470   -3.4458    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9876   -2.2972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6582   -2.2972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -1.1486    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -1.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6582    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9764   -3.4458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6464   -2.2972    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9652   -2.2972    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6352   -3.4458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9652   -4.6050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6464   -4.6050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -5.7536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -5.7536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1 21  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 20 21  2  0  0  0  0
+M  END
+> <ID>
+3170
+
+> <Formula>
+C17H23N3O
+
+> <FW>
+285.384
+
+> <DSSTox_CID>
+3542
+
+> <DSSTox_RID>
+77071
+
+> <DSSTox_GSID>
+23542
+
+> <DSSTox_FileID_Sort>
+1754
+
+> <TS_ChemName>
+Pyrilamine
+
+> <TS_ChemName_Synonyms>
+Pyrilamine (Mepyramine)
+
+> <TS_CASRN>
+91-84-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H23N3O
+
+> <STRUCTURE_MW>
+285.384
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(4-methoxybenzyl)-N',N'-dimethyl-N-(pyridin-2-yl)ethane-1,2-diamine
+
+> <STRUCTURE_SMILES>
+COc1ccc(cc1)CN(CCN(C)C)c2ccccn2
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(cc1)CN(CCN(C)C)c2ccccn2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

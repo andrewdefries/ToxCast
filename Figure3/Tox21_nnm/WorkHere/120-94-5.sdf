@@ -1,0 +1,84 @@
+120-94-5
+ChemmineR-0915142007XD
+
+  6  6  0  0  0  0  0  0  0  0  1 V2000
+    1.0761   -1.3324    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1521   -2.1049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7507   -3.3732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4183   -3.3732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0761    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+9140
+
+> <Formula>
+C5H11N
+
+> <FW>
+85.1475
+
+> <DSSTox_CID>
+22210
+
+> <DSSTox_RID>
+79960
+
+> <DSSTox_GSID>
+42210
+
+> <DSSTox_FileID_Sort>
+4642
+
+> <TS_ChemName>
+N-Methylpyrrolidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+120-94-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H11N
+
+> <STRUCTURE_MW>
+85.1475
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methylpyrrolidine
+
+> <STRUCTURE_SMILES>
+CN1CCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+CN1CCCC1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

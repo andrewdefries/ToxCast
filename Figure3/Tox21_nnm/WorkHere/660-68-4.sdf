@@ -1,0 +1,82 @@
+660-68-4
+ChemmineR-0915142007XD
+
+  6  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6638    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -0.6638    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8536   -2.1621    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+9984
+
+> <Formula>
+C4H12ClN
+
+> <FW>
+109.5978 (73.1368+36.4609)
+
+> <DSSTox_CID>
+24320
+
+> <DSSTox_RID>
+80152
+
+> <DSSTox_GSID>
+44320
+
+> <DSSTox_FileID_Sort>
+4834
+
+> <TS_ChemName>
+Diethylamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+660-68-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [109-89-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H12ClN
+
+> <STRUCTURE_MW>
+109.5978
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-ethylethanamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CCNCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCNCC
+
+> <Substance_modify_yyyymmdd>
+20090518
+
+$$$$

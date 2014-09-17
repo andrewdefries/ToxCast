@@ -1,0 +1,88 @@
+4016-14-2
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    2.4818   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6336   -1.9949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7855   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7855    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9373   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -3.1468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9949    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+4220
+
+> <Formula>
+C6H12O2
+
+> <FW>
+116.1583
+
+> <DSSTox_CID>
+5480
+
+> <DSSTox_RID>
+77803
+
+> <DSSTox_GSID>
+25480
+
+> <DSSTox_FileID_Sort>
+2486
+
+> <TS_ChemName>
+Isopropyl glycidyl ether
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4016-14-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O2
+
+> <STRUCTURE_MW>
+116.1583
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[(propan-2-yloxy)methyl]oxirane
+
+> <STRUCTURE_SMILES>
+CC(C)OCC1CO1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)OCC1CO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

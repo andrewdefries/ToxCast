@@ -1,0 +1,87 @@
+598-98-1
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    1.9934   -1.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3254   -1.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6574   -1.3320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3320   -0.1770    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3320   -2.4731    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3254    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3254   -2.6641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4731    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+> <ID>
+5014
+
+> <Formula>
+C6H12O2
+
+> <FW>
+116.1583
+
+> <DSSTox_CID>
+7234
+
+> <DSSTox_RID>
+78361
+
+> <DSSTox_GSID>
+27234
+
+> <DSSTox_FileID_Sort>
+3044
+
+> <TS_ChemName>
+Methyl pivalate
+
+> <TS_ChemName_Synonyms>
+Propanoic acid, 2,2-dimethyl-, methyl ester
+
+> <TS_CASRN>
+598-98-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O2
+
+> <STRUCTURE_MW>
+116.1583
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 2,2-dimethylpropanoate
+
+> <STRUCTURE_SMILES>
+CC(C)(C)C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

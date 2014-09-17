@@ -1,0 +1,107 @@
+87-44-5
+ChemmineR-0915142007XD
+
+ 17 18  0  0  1  0  0  0  0  0  1 V2000
+    3.3009   -2.7335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0188   -1.4589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3009   -1.4589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0188   -2.7335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1040   -3.7061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1040   -0.4863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4470   -0.8842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7692   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4556   -4.8482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3565   -0.2505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1126   -0.5526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4470   -3.3009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3565   -3.9272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3680    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6156   -0.3905    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6156   -3.7945    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1 17  1  6  0  0  0
+  2  4  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3 16  1  1  0  0  0
+  5  9  2  0  0  0  0
+  5 14  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+3836
+
+> <Formula>
+C15H24
+
+> <FW>
+204.3511
+
+> <DSSTox_CID>
+4739
+
+> <DSSTox_RID>
+77517
+
+> <DSSTox_GSID>
+24739
+
+> <DSSTox_FileID_Sort>
+2200
+
+> <TS_ChemName>
+beta-Caryophyllene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+87-44-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H24
+
+> <STRUCTURE_MW>
+204.3511
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene
+
+> <STRUCTURE_SMILES>
+C=C2CCC=C(C)CC[C@@H]1[C@@H]2CC1(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C=C2CCC=C(C)CC[C@@H]1[C@@H]2CC1(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

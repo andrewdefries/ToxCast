@@ -1,0 +1,99 @@
+24310-41-6
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    3.4562   -4.0023    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3018   -3.3318    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3018   -2.0046    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4562   -1.3479    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6106   -2.0046    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6106   -3.3318    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7581   -4.0023    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9125   -3.3318    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9125   -2.0046    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7581   -1.3479    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4562    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -1.3479    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0046    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+5435
+
+> <Formula>
+C8H6ClN3O
+
+> <FW>
+195.6057
+
+> <DSSTox_CID>
+7830
+
+> <DSSTox_RID>
+78581
+
+> <DSSTox_GSID>
+27830
+
+> <DSSTox_FileID_Sort>
+3264
+
+> <TS_ChemName>
+3-(Chloromethyl)-1,2,3-benzotriazin-4(3H)-one
+
+> <TS_ChemName_Synonyms>
+3-(Chloromethyl)-1,2,3-benzotriazin-4(3H)-one (3-Chloromethyl-3H-benzo[d][1,2,3]triazin-4-one)
+
+> <TS_CASRN>
+24310-41-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H6ClN3O
+
+> <STRUCTURE_MW>
+195.6057
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(chloromethyl)-1,2,3-benzotriazin-4(3H)-one
+
+> <STRUCTURE_SMILES>
+O=C1c2ccccc2N=NN1CCl
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1c2ccccc2N=NN1CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

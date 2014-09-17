@@ -1,0 +1,110 @@
+83-66-9
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  2 V2000
+    4.6483   -6.9068    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.3183   -5.7534    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    6.6513   -5.7534    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6483   -4.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3183   -3.4465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6483   -2.3069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3183   -1.1534    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    6.6513   -1.1534    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.6483    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3153   -2.3069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6591   -1.1534    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3330   -1.1534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6591   -3.4465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3330   -3.4465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3330   -2.1135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3330   -4.7726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3153   -4.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6513   -3.4465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 18  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+M  END
+> <ID>
+4349
+
+> <Formula>
+C12H16N2O5
+
+> <FW>
+268.2658
+
+> <DSSTox_CID>
+5689
+
+> <DSSTox_RID>
+77881
+
+> <DSSTox_GSID>
+25689
+
+> <DSSTox_FileID_Sort>
+2564
+
+> <TS_ChemName>
+Musk ambrette
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+83-66-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H16N2O5
+
+> <STRUCTURE_MW>
+268.2658
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-tert-butyl-2-methoxy-4-methyl-3,5-dinitrobenzene
+
+> <STRUCTURE_SMILES>
+COc1c(cc(c(C)c1[N+]([O-])=O)[N+]([O-])=O)C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+COc1c(cc(c(C)c1[N+]([O-])=O)[N+]([O-])=O)C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

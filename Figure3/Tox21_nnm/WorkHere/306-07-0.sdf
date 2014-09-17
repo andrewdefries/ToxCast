@@ -1,0 +1,97 @@
+306-07-0
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    6.9200    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0734   -0.6719    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0734   -2.0058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9200   -2.6577    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7667   -2.0058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6134   -2.6577    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4600   -2.0058    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4600   -0.6719    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3067   -2.6577    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1533   -2.0058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3238    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7667   -0.6719    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.0290   -0.5115    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  3  0  0  0  0
+M  END
+> <ID>
+10300
+
+> <Formula>
+C11H14ClN
+
+> <FW>
+195.6886 (159.2276+36.4609)
+
+> <DSSTox_CID>
+24647
+
+> <DSSTox_RID>
+80375
+
+> <DSSTox_GSID>
+44647
+
+> <DSSTox_FileID_Sort>
+5057
+
+> <TS_ChemName>
+Pargyline hydrochloride
+
+> <TS_ChemName_Synonyms>
+Pargyline hydrochloride (N-benzyl-N-methylprop-2-yn-1-amine hydrochloride (1:1))
+
+> <TS_CASRN>
+306-07-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [555-57-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H14ClN
+
+> <STRUCTURE_MW>
+195.6886
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-benzyl-N-methylprop-2-yn-1-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CN(Cc1ccccc1)CC#C
+
+> <STRUCTURE_SMILES_Desalt>
+CN(Cc1ccccc1)CC#C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

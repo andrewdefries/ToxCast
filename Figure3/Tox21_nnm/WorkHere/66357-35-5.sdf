@@ -1,0 +1,114 @@
+66357-35-5
+ChemmineR-0915142007XD
+
+ 21 21  0  0  0  0  0  0  0  0  2 V2000
+    4.6131   -0.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4519   -1.2726    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4519   -2.5929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6131   -3.2610    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7584   -2.5929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9196   -3.2610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0650   -2.5929    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2262   -3.2610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3715   -2.5929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5147   -1.2726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8191   -1.0022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4713   -2.1475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8075   -2.2906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5869   -1.2089    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9072   -1.3521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0461    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5805   -3.1337    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3065   -3.2610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1453   -2.5929    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.2610    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1453   -1.2726    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 18  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+M  END
+> <ID>
+10808
+
+> <Formula>
+C13H22N4O3S
+
+> <FW>
+314.4038
+
+> <DSSTox_CID>
+25191
+
+> <DSSTox_RID>
+80738
+
+> <DSSTox_GSID>
+45191
+
+> <DSSTox_FileID_Sort>
+5419
+
+> <TS_ChemName>
+Ranitidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+66357-35-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H22N4O3S
+
+> <STRUCTURE_MW>
+314.4038
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(E)-N-{2-[({5-[(dimethylamino)methyl]furan-2-yl}methyl)sulfanyl]ethyl}-N'-methyl-2-nitroethene-1,1-diamine
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)\C=C(/NC)NCCSCc1ccc(CN(C)C)o1
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)\C=C(/NC)NCCSCc1ccc(CN(C)C)o1
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

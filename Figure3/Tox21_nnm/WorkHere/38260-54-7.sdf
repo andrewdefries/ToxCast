@@ -1,0 +1,108 @@
+38260-54-7
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    5.7900   -2.3112    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6304   -4.3244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7900   -4.9767    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6304   -2.9876    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6304   -6.9899    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7900   -6.3135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4708   -6.3135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4708   -4.9767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4423   -3.4708    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1136   -1.1516    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9416   -1.6508    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3112   -6.9899    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9416   -6.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1596   -6.3135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7900    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0529   -2.4078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9885   -6.3940    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  9  2  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+M  END
+> <ID>
+8899
+
+> <Formula>
+C10H17N2O4PS
+
+> <FW>
+292.2917
+
+> <DSSTox_CID>
+21964
+
+> <DSSTox_RID>
+79888
+
+> <DSSTox_GSID>
+41964
+
+> <DSSTox_FileID_Sort>
+4570
+
+> <TS_ChemName>
+Etrimfos
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+38260-54-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H17N2O4PS
+
+> <STRUCTURE_MW>
+292.2917
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O-(6-ethoxy-2-ethylpyrimidin-4-yl) O,O-dimethyl phosphorothioate
+
+> <STRUCTURE_SMILES>
+CCc1nc(OCC)cc(OP(=S)(OC)OC)n1
+
+> <STRUCTURE_SMILES_Desalt>
+CCc1nc(OCC)cc(OP(=S)(OC)OC)n1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

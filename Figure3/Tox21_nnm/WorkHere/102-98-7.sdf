@@ -1,0 +1,94 @@
+102-98-7
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.6588   -1.1499    0.0000 Hg   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6595    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9889    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6469   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9889   -2.3065    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6595   -2.3065    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6713   -2.3065    0.0000 B    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0007   -2.3065    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1499    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4431    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+11596
+
+> <Formula>
+C6H7BHgO3
+
+> <FW>
+338.519
+
+> <DSSTox_CID>
+26308
+
+> <DSSTox_RID>
+81529
+
+> <DSSTox_GSID>
+46308
+
+> <DSSTox_FileID_Sort>
+6210
+
+> <TS_ChemName>
+Phenylmercuric borate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+102-98-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H7BHgO3
+
+> <STRUCTURE_MW>
+338.519
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+(borato-kappaO)(phenyl)mercury
+
+> <STRUCTURE_SMILES>
+OB(O)O[Hg]c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+OB(O)O[Hg]c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20110815
+
+$$$$

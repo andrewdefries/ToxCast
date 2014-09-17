@@ -1,0 +1,94 @@
+8000-41-7
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    3.9913   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3327   -2.4812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0023   -2.4812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0023   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3327   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217   -2.6609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6521   -1.3304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+M  END
+> <ID>
+4745
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+6625
+
+> <DSSTox_RID>
+79596
+
+> <DSSTox_GSID>
+40775
+
+> <DSSTox_FileID_Sort>
+4278
+
+> <TS_ChemName>
+Terpineol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+8000-41-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of alpha- [98-55-5]; beta [138-87-4] gamma- [586-81-2] terpineol; approx 65:10:20; structure shown is alpha-
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(4-methylcyclohex-3-en-1-yl)propan-2-ol
+
+> <STRUCTURE_SMILES>
+CC1=CCC(CC1)C(O)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC1=CCC(CC1)C(O)(C)C
+
+> <Substance_modify_yyyymmdd>
+20130901
+
+$$$$

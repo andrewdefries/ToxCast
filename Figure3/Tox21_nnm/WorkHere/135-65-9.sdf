@@ -1,0 +1,120 @@
+135-65-9
+ChemmineR-0915142007XD
+
+ 23 25  0  0  0  0  0  0  0  0  2 V2000
+    2.6569   -3.4588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9987   -4.6078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9987   -2.3099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6702   -4.6078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569   -5.7687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9854   -3.4588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6556   -4.6078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9854   -5.7687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6702   -2.3099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9841   -4.6078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6543   -5.7687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6543   -3.4588    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6556   -6.9176    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9695   -2.3099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6397   -3.4588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9695   -4.6078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6410   -4.6078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9828   -3.4588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6410   -2.3099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6397   -1.1609    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    9.9695    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   11.9682   -1.1609    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  9  2  0  0  0  0
+  5  8  2  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 15 20  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  2  0  0  0  0
+M  END
+> <ID>
+10198
+
+> <Formula>
+C17H12N2O4
+
+> <FW>
+308.2882
+
+> <DSSTox_CID>
+24544
+
+> <DSSTox_RID>
+80305
+
+> <DSSTox_GSID>
+44544
+
+> <DSSTox_FileID_Sort>
+4987
+
+> <TS_ChemName>
+3-Hydroxy-N-(3-nitrophenyl)naphthalene-2-carboxamide
+
+> <TS_ChemName_Synonyms>
+3-Hydroxy-N-(3-nitrophenyl)naphthalene-2-carboxamide (2-Naphthalenecarboxamide, 3-hydroxy-N-(3-nitrophenyl)-)
+
+> <TS_CASRN>
+135-65-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H12N2O4
+
+> <STRUCTURE_MW>
+308.2882
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-hydroxy-N-(3-nitrophenyl)naphthalene-2-carboxamide
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c1cccc(c1)NC(=O)c2cc3ccccc3cc2O
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c1cccc(c1)NC(=O)c2cc3ccccc3cc2O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,102 @@
+127-51-5
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3069   -1.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4638   -2.6463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1569   -3.9764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3069   -0.6581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6207   -1.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6207   -0.6581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7706    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9275   -0.6581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9275   -1.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7706   -2.6463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4638    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0987   -3.8032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4287   -3.8032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+M  END
+> <ID>
+4903
+
+> <Formula>
+C14H22O
+
+> <FW>
+206.3239
+
+> <DSSTox_CID>
+7047
+
+> <DSSTox_RID>
+78291
+
+> <DSSTox_GSID>
+27047
+
+> <DSSTox_FileID_Sort>
+2974
+
+> <TS_ChemName>
+3-Buten-2-one, 3-methyl-4-(2,6,6-trimethyl-2-cyclohexen-1-yl)-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+127-51-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H22O
+
+> <STRUCTURE_MW>
+206.3239
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3E)-3-methyl-4-(2,6,6-trimethylcyclohex-2-en-1-yl)but-3-en-2-one
+
+> <STRUCTURE_SMILES>
+CC1(C)CCC=C(C)C1\C=C(/C)C(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC1(C)CCC=C(C)C1\C=C(/C)C(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

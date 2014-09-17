@@ -1,0 +1,89 @@
+3391-86-4
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1382    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2926   -0.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4470    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6095   -0.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7639    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9183   -0.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0726    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2926   -1.9939    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+7005
+
+> <Formula>
+C8H16O
+
+> <FW>
+128.212
+
+> <DSSTox_CID>
+15214
+
+> <DSSTox_RID>
+79250
+
+> <DSSTox_GSID>
+35214
+
+> <DSSTox_FileID_Sort>
+3932
+
+> <TS_ChemName>
+1-Octen-3-ol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3391-86-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H16O
+
+> <STRUCTURE_MW>
+128.212
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+oct-1-en-3-ol
+
+> <STRUCTURE_SMILES>
+C=CC(O)CCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(O)CCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

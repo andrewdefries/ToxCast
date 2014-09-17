@@ -1,0 +1,116 @@
+152946-68-4
+ChemmineR-0915142007XD
+
+ 22 22  0  0  0  0  0  0  0  0  1 V2000
+    1.1456   -2.6624    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2993   -2.0089    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4611   -2.6624    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4450   -3.9855    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2993   -4.6551    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2993   -5.9944    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1456   -6.6479    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9783    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6551    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1456   -4.0016    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5906   -2.0089    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5906   -0.6535    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4450    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2993   -0.6696    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7362    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9222   -0.6696    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0678    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9061   -2.0089    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7362   -2.6624    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7362   -4.0016    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6402   -3.5095    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8165   -5.5507    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <ID>
+11987
+
+> <Formula>
+C14H14Cl2N4OS
+
+> <FW>
+357.2582 (284.3363+36.4609+36.4609)
+
+> <DSSTox_CID>
+26810
+
+> <DSSTox_RID>
+81923
+
+> <DSSTox_GSID>
+46810
+
+> <DSSTox_FileID_Sort>
+6604
+
+> <TS_ChemName>
+Nolatrexed dihydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+152946-68-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers; parent [147149-76-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H14Cl2N4OS
+
+> <STRUCTURE_MW>
+357.2582
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-amino-6-methyl-5-(pyridin-4-ylsulfanyl)quinazolin-4(3H)-one dihydrochloride
+
+> <STRUCTURE_SMILES>
+Cl.Cl.NC3=Nc2ccc(C)c(Sc1ccncc1)c2C(=O)N3
+
+> <STRUCTURE_SMILES_Desalt>
+NC3=Nc2ccc(C)c(Sc1ccncc1)c2C(=O)N3
+
+> <Substance_modify_yyyymmdd>
+20110801
+
+$$$$

@@ -1,0 +1,112 @@
+27503-81-7
+ChemmineR-0915142007XD
+
+ 19 21  0  0  0  0  0  0  0  0  1 V2000
+    5.8081   -1.5629    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8081   -3.7066    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5895   -2.6189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5514   -1.9536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5514   -3.3264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3793   -3.9601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2493   -3.3264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2493   -1.9536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3793   -1.3095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1194   -1.2778    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8691    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6442    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4963   -2.3972    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9265   -3.7805    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5602   -2.6189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9265   -1.4890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5960   -1.4890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9307   -2.6189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5960   -3.7805    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 14 19  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+7524
+
+> <Formula>
+C13H10N2O3S
+
+> <FW>
+274.2951
+
+> <DSSTox_CID>
+18852
+
+> <DSSTox_RID>
+79408
+
+> <DSSTox_GSID>
+38852
+
+> <DSSTox_FileID_Sort>
+4090
+
+> <TS_ChemName>
+Ensulizole
+
+> <TS_ChemName_Synonyms>
+2-Phenyl-1H-benzimidazole-5-sulfonic acid
+
+> <TS_CASRN>
+27503-81-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H10N2O3S
+
+> <STRUCTURE_MW>
+274.2951
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-phenyl-1H-benzimidazole-5-sulfonic acid
+
+> <STRUCTURE_SMILES>
+O=S(=O)(O)c1cc2nc(nc2cc1)c3ccccc3
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)c1cc2nc(nc2cc1)c3ccccc3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

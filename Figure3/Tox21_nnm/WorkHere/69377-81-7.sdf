@@ -1,0 +1,102 @@
+69377-81-7
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    3.4669   -1.9718    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1718   -3.3214    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3113   -3.9598    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1718   -1.9880    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4669   -3.2891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3113   -1.3334    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6144   -3.9598    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9257   -3.9437    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9598    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3011    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3113   -5.2933    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0813   -3.2729    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3113    0.0000    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7701   -3.2891    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9257   -5.2771    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 12  2  0  0  0  0
+  8 15  1  0  0  0  0
+M  END
+> <ID>
+6852
+
+> <Formula>
+C7H5Cl2FN2O3
+
+> <FW>
+255.0306
+
+> <DSSTox_CID>
+14627
+
+> <DSSTox_RID>
+79181
+
+> <DSSTox_GSID>
+34627
+
+> <DSSTox_FileID_Sort>
+3863
+
+> <TS_ChemName>
+Fluroxypyr
+
+> <TS_ChemName_Synonyms>
+Fluroxypyr (Acetic acid, ((4-amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy)-)
+
+> <TS_CASRN>
+69377-81-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H5Cl2FN2O3
+
+> <STRUCTURE_MW>
+255.0306
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+[(4-amino-3,5-dichloro-6-fluoropyridin-2-yl)oxy]acetic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)COc1nc(F)c(Cl)c(N)c1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)COc1nc(F)c(Cl)c(N)c1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

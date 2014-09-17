@@ -1,0 +1,92 @@
+122-00-9
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1582   -1.3368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1582    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6038   -1.9936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6038   -3.3247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4687   -3.9988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3105   -3.3247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3105   -1.9936    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4687   -1.3368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7620   -3.9988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+10032
+
+> <Formula>
+C9H10O
+
+> <FW>
+134.1751
+
+> <DSSTox_CID>
+24374
+
+> <DSSTox_RID>
+80180
+
+> <DSSTox_GSID>
+44374
+
+> <DSSTox_FileID_Sort>
+4862
+
+> <TS_ChemName>
+p-Methylacetophenone
+
+> <TS_ChemName_Synonyms>
+p-Methylacetophenone (Ethanone, 1-(4-methylphenyl)-)
+
+> <TS_CASRN>
+122-00-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10O
+
+> <STRUCTURE_MW>
+134.1751
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(4-methylphenyl)ethanone
+
+> <STRUCTURE_SMILES>
+Cc1ccc(cc1)C(=O)C
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)C(=O)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

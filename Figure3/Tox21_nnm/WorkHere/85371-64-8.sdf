@@ -1,0 +1,109 @@
+85371-64-8
+ChemmineR-0915142007XD
+
+ 19 18  0  0  0  0  0  0  0  0  1 V2000
+    2.2988   -1.3241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2988   -2.6666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4574   -3.3286    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6067   -2.6666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7561   -3.3286    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9055   -2.6666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9055   -1.3241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0457   -0.6712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1951   -1.3241    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1951   -2.6666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0457   -3.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6067   -1.3241    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4574   -0.6712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2988    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1494   -3.3286    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8114   -4.4780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4781   -2.1792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4848   -4.3493    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  3  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+M  END
+> <ID>
+11124
+
+> <Formula>
+C13H21N5O
+
+> <FW>
+263.3387 (245.3235+18.0153)
+
+> <DSSTox_CID>
+25682
+
+> <DSSTox_RID>
+81055
+
+> <DSSTox_GSID>
+45682
+
+> <DSSTox_FileID_Sort>
+5736
+
+> <TS_ChemName>
+Pinacidil monohydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+85371-64-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H21N5O
+
+> <STRUCTURE_MW>
+263.3387
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-cyano-1-(3,3-dimethylbutan-2-yl)-3-pyridin-4-ylguanidine hydrate (1:1)
+
+> <STRUCTURE_SMILES>
+O.CC(C)(C)C(C)N/C(Nc1ccncc1)=N\C#N
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)C(C)N/C(Nc1ccncc1)=N\C#N
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

@@ -1,0 +1,113 @@
+88671-89-0
+ChemmineR-0915142007XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    4.6312   -4.6401    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9062   -5.2903    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8667   -4.6312    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8667   -5.9315    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3259   -5.8069    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.0206   -6.9736    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1225   -6.3501    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1225   -4.2305    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7267   -3.9722    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4645   -5.3259    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3156   -4.6580    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4645   -6.6529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1667   -6.6529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3156   -7.3298    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1667   -5.3259    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -7.3387    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9455   -3.4645    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5956   -2.3067    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9187   -1.1667    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5689    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  8  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  3  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+3617
+
+> <Formula>
+C15H17ClN4
+
+> <FW>
+288.7753
+
+> <DSSTox_CID>
+4315
+
+> <DSSTox_RID>
+77364
+
+> <DSSTox_GSID>
+24315
+
+> <DSSTox_FileID_Sort>
+2047
+
+> <TS_ChemName>
+Myclobutanil
+
+> <TS_ChemName_Synonyms>
+Myclobutanil (Systhane) (MYC)
+
+> <TS_CASRN>
+88671-89-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H17ClN4
+
+> <STRUCTURE_MW>
+288.7753
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(4-chlorophenyl)-2-(1H-1,2,4-triazol-1-ylmethyl)hexanenitrile
+
+> <STRUCTURE_SMILES>
+Clc1ccc(cc1)C(CCCC)(Cn2cncn2)C#N
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(cc1)C(CCCC)(Cn2cncn2)C#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

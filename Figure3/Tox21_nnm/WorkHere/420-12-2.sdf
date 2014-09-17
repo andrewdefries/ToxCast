@@ -1,0 +1,78 @@
+420-12-2
+ChemmineR-0915142007XD
+
+  3  3  0  0  0  0  0  0  0  0  1 V2000
+    1.1518   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6650    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+> <ID>
+14275
+
+> <Formula>
+C2H4S
+
+> <FW>
+60.1182
+
+> <DSSTox_CID>
+29371
+
+> <DSSTox_RID>
+83486
+
+> <DSSTox_GSID>
+49411
+
+> <DSSTox_FileID_Sort>
+8161
+
+> <TS_ChemName>
+Ethylene sulfide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+420-12-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H4S
+
+> <STRUCTURE_MW>
+60.1182
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+thiirane
+
+> <STRUCTURE_SMILES>
+C1CS1
+
+> <STRUCTURE_SMILES_Desalt>
+C1CS1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

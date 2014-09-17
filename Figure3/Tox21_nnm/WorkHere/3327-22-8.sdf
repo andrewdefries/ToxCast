@@ -1,0 +1,90 @@
+3327-22-8
+ChemmineR-0915142007XD
+
+ 10  8  0  0  0  0  0  0  0  0  2 V2000
+    1.3400   -2.6801    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -3.3405    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6482   -2.6801    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3400   -1.3400    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    4.7639   -3.3084    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -4.6805    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3400    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6801   -1.3400    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3400    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4117   -2.3403    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+M  END
+> <ID>
+5226
+
+> <Formula>
+C6H15Cl2NO
+
+> <FW>
+188.0954 (152.6419+35.4535)
+
+> <DSSTox_CID>
+7534
+
+> <DSSTox_RID>
+78493
+
+> <DSSTox_GSID>
+27534
+
+> <DSSTox_FileID_Sort>
+3176
+
+> <TS_ChemName>
+1-Propanaminium, 3-chloro-2-hydroxy-N,N,N-trimethyl-, chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3327-22-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H15Cl2NO
+
+> <STRUCTURE_MW>
+188.0954
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+3-chloro-2-hydroxy-N,N,N-trimethylpropan-1-aminium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C[N+](C)(C)CC(O)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(C)CC(O)CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

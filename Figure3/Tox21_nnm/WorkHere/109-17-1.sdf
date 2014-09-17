@@ -1,0 +1,117 @@
+109-17-1
+ChemmineR-0915142007XD
+
+ 23 22  0  0  0  0  0  0  0  0  1 V2000
+   17.1957   -1.3196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3297   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4637   -1.3196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4637    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6184   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3297   -3.3196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0411   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9071   -1.3196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7524   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5978   -1.3196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4638   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3092   -1.3196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1546   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0205   -1.3196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8865   -2.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7319   -1.3196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5979   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4433   -1.3196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2886   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -1.3196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2886   -3.3196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 23  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+M  END
+> <ID>
+10169
+
+> <Formula>
+C16H26O7
+
+> <FW>
+330.3734
+
+> <DSSTox_CID>
+24515
+
+> <DSSTox_RID>
+80283
+
+> <DSSTox_GSID>
+44515
+
+> <DSSTox_FileID_Sort>
+4965
+
+> <TS_ChemName>
+Tetraethyleneglycol dimethacrylate
+
+> <TS_ChemName_Synonyms>
+Tetraethyleneglycol dimethacrylate (2-Propenoic acid, 2-methyl-, oxybis(2,1-ethanediyloxy-2,1-ethanediyl) ester)
+
+> <TS_CASRN>
+109-17-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H26O7
+
+> <STRUCTURE_MW>
+330.3734
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+oxybis(ethane-2,1-diyloxyethane-2,1-diyl) bis(2-methylprop-2-enoate)
+
+> <STRUCTURE_SMILES>
+O=C(OCCOCCOCCOCCOC(=O)C(=C)C)C(=C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCCOCCOCCOCCOC(=O)C(=C)C)C(=C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

@@ -1,0 +1,109 @@
+21721-92-6
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  2 V2000
+    2.1167   -8.0333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4281   -8.0333    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7776   -5.9785    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3320   -9.1072    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.7037   -6.7633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8515   -6.7633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7776   -0.6712    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.7776   -4.6465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7776   -2.0032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -8.9626    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.9237    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.8793  -10.3256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6211    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6211   -3.9960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9237   -3.9960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6211   -2.6640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9237   -2.6640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1112   -6.3502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 12  2  0  0  0  0
+  6 18  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  2  0  0  0  0
+  9 17  2  0  0  0  0
+  9 16  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+13815
+
+> <Formula>
+C10H8N4O4
+
+> <FW>
+248.1949
+
+> <DSSTox_CID>
+28752
+
+> <DSSTox_RID>
+83021
+
+> <DSSTox_GSID>
+48826
+
+> <DSSTox_FileID_Sort>
+7698
+
+> <TS_ChemName>
+Nitrefazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+21721-92-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H8N4O4
+
+> <STRUCTURE_MW>
+248.1949
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-4-nitro-1-(4-nitrophenyl)-1H-imidazole
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c1ccc(cc1)n2cc(nc2C)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c1ccc(cc1)n2cc(nc2C)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

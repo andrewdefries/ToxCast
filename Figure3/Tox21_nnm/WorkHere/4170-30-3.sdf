@@ -1,0 +1,81 @@
+4170-30-3
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1565    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3129   -0.6569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4694    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6259   -0.6569    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  3  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <ID>
+3888
+
+> <Formula>
+C4H6O
+
+> <FW>
+70.0898
+
+> <DSSTox_CID>
+4864
+
+> <DSSTox_RID>
+77557
+
+> <DSSTox_GSID>
+24864
+
+> <DSSTox_FileID_Sort>
+2240
+
+> <TS_ChemName>
+Crotonaldehyde
+
+> <TS_ChemName_Synonyms>
+Crotonaldehyde (2-Butenal)
+
+> <TS_CASRN>
+4170-30-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z [15798-64-8],E [123-73-9]  isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C4H6O
+
+> <STRUCTURE_MW>
+70.0898
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+but-2-enal
+
+> <STRUCTURE_SMILES>
+CC=CC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC=CC=O
+
+> <Substance_modify_yyyymmdd>
+20110516
+
+$$$$

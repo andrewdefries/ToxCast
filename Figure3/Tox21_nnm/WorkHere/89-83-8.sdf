@@ -1,0 +1,94 @@
+89-83-8
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.3101   -3.3181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1580   -3.9961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3101   -1.9921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1580   -5.3282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4681   -3.9961    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1580   -1.3140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2921   -5.9822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0180   -6.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1580    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+6970
+
+> <Formula>
+C10H14O
+
+> <FW>
+150.2176
+
+> <DSSTox_CID>
+14972
+
+> <DSSTox_RID>
+79231
+
+> <DSSTox_GSID>
+34972
+
+> <DSSTox_FileID_Sort>
+3913
+
+> <TS_ChemName>
+Thymol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+89-83-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14O
+
+> <STRUCTURE_MW>
+150.2176
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-methyl-2-(propan-2-yl)phenol
+
+> <STRUCTURE_SMILES>
+CC(C)c1ccc(C)cc1O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)c1ccc(C)cc1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

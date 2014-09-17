@@ -1,0 +1,82 @@
+137-40-6
+ChemmineR-0915142007XD
+
+  6  4  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -1.3308    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.9945    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.3308    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -1.9945    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.3056    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7284   -3.3254    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+M  END
+> <ID>
+1848
+
+> <Formula>
+C3H5NaO2
+
+> <FW>
+96.0604 (73.0711+22.9892)
+
+> <DSSTox_CID>
+1996
+
+> <DSSTox_RID>
+76449
+
+> <DSSTox_GSID>
+21996
+
+> <DSSTox_FileID_Sort>
+1133
+
+> <TS_ChemName>
+Sodium propionate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+137-40-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [79-09-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H5NaO2
+
+> <STRUCTURE_MW>
+96.0604
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium propanoate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]C(=O)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

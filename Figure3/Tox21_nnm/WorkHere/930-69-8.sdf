@@ -1,0 +1,87 @@
+930-69-8
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  2 V2000
+    1.1527   -1.3282    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -1.9863    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -3.3145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -3.9886    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3145    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9863    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527    0.0000    0.0000 S    0  5  0  0  0  0  0  0  0  0  0  0
+    2.4809   -0.0479    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+5091
+
+> <Formula>
+C6H5NaS
+
+> <FW>
+132.1587 (109.1694+22.9892)
+
+> <DSSTox_CID>
+7342
+
+> <DSSTox_RID>
+78415
+
+> <DSSTox_GSID>
+27342
+
+> <DSSTox_FileID_Sort>
+3098
+
+> <TS_ChemName>
+Sodium benzenethiolate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+930-69-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [108-98-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H5NaS
+
+> <STRUCTURE_MW>
+132.1587
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium benzenethiolate
+
+> <STRUCTURE_SMILES>
+[Na+].[S-]c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Sc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

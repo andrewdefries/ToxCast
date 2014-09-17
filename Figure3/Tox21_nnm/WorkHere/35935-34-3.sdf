@@ -1,0 +1,89 @@
+35935-34-3
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  2 V2000
+    2.5807    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1506   -5.3149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0446   -4.6698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3994   -1.4317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0768   -2.6421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6774   -1.4317    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.0446   -3.3917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8479   -6.1444    0.0000 I   0  5  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+14144
+
+> <Formula>
+C6H11IN2
+
+> <FW>
+238.0694 (111.1644+126.9050)
+
+> <DSSTox_CID>
+29137
+
+> <DSSTox_RID>
+83356
+
+> <DSSTox_GSID>
+49281
+
+> <DSSTox_FileID_Sort>
+8031
+
+> <TS_ChemName>
+1-Ethyl-3-methylimidazolium iodide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+35935-34-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H11IN2
+
+> <STRUCTURE_MW>
+238.0694
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+1-ethyl-3-methyl-1H-imidazol-3-ium iodide
+
+> <STRUCTURE_SMILES>
+[I-].C[n+]1ccn(CC)c1
+
+> <STRUCTURE_SMILES_Desalt>
+C[n+]1ccn(CC)c1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

@@ -1,0 +1,112 @@
+1034-01-1
+ChemmineR-0915142007XD
+
+ 20 20  0  0  0  0  0  0  0  0  1 V2000
+    1.1444   -3.2697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4629   -1.9767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1444   -1.9767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2740   -3.9534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5628   -1.2782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4629   -3.2697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2740   -1.2782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5628    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7518   -1.9767    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9534    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2782    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2740   -5.2464    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8813   -1.2782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0257   -1.9767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1701   -1.2782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2997   -1.9767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4441   -1.2782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5885   -1.9767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7180   -1.2782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8624   -1.9767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+7909
+
+> <Formula>
+C15H22O5
+
+> <FW>
+282.3322
+
+> <DSSTox_CID>
+20713
+
+> <DSSTox_RID>
+79561
+
+> <DSSTox_GSID>
+40713
+
+> <DSSTox_FileID_Sort>
+4243
+
+> <TS_ChemName>
+Octyl gallate
+
+> <TS_ChemName_Synonyms>
+Octyl gallate (Benzoic acid, 3,4,5-trihydroxy-, octyl ester)
+
+> <TS_CASRN>
+1034-01-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H22O5
+
+> <STRUCTURE_MW>
+282.3322
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+octyl 3,4,5-trihydroxybenzoate
+
+> <STRUCTURE_SMILES>
+Oc1cc(cc(O)c1O)C(=O)OCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1cc(cc(O)c1O)C(=O)OCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

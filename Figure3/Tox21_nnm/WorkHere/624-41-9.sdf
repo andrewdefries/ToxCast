@@ -1,0 +1,89 @@
+624-41-9
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    3.4526   -1.3293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6035   -1.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7544   -1.3293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7544    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3018   -1.9968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6035   -3.3260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1509   -1.3293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9968    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1509    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+5025
+
+> <Formula>
+C7H14O2
+
+> <FW>
+130.1849
+
+> <DSSTox_CID>
+7254
+
+> <DSSTox_RID>
+78371
+
+> <DSSTox_GSID>
+27254
+
+> <DSSTox_FileID_Sort>
+3054
+
+> <TS_ChemName>
+2-Methylbutyl acetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+624-41-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O2
+
+> <STRUCTURE_MW>
+130.1849
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylbutyl acetate
+
+> <STRUCTURE_SMILES>
+CC(=O)OCC(C)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)OCC(C)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

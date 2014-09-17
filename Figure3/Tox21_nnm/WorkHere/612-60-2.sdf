@@ -1,0 +1,95 @@
+612-60-2
+ChemmineR-0915142007XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    5.7586    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6011   -0.6738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6011   -2.0040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4494   -2.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3092   -2.0040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575   -2.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1575    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3092   -0.6738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4494    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+4326
+
+> <Formula>
+C10H9N
+
+> <FW>
+143.1852
+
+> <DSSTox_CID>
+5657
+
+> <DSSTox_RID>
+77871
+
+> <DSSTox_GSID>
+25657
+
+> <DSSTox_FileID_Sort>
+2554
+
+> <TS_ChemName>
+7-Methylquinoline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+612-60-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H9N
+
+> <STRUCTURE_MW>
+143.1852
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+7-methylquinoline
+
+> <STRUCTURE_SMILES>
+Cc1cc2ncccc2cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc2ncccc2cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

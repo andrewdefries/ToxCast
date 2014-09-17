@@ -1,0 +1,95 @@
+137-26-8
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    2.3008   -3.9867    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3008   -2.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -1.9899    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4547   -1.9899    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -2.6601    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9094   -2.6601    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7555   -0.6633    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9094    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+1279
+
+> <Formula>
+C6H12N2S4
+
+> <FW>
+240.4329
+
+> <DSSTox_CID>
+1332
+
+> <DSSTox_RID>
+76087
+
+> <DSSTox_GSID>
+21332
+
+> <DSSTox_FileID_Sort>
+771
+
+> <TS_ChemName>
+Thiram
+
+> <TS_ChemName_Synonyms>
+Thiram (Tetramethylthiouram disulfide) (Thioperoxydicarbonic diamide ([(H2N)C(S)]2S2), tetramethyl-)
+
+> <TS_CASRN>
+137-26-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12N2S4
+
+> <STRUCTURE_MW>
+240.4329
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+[disulfanediylbis(carbonothioylnitrilo)]tetramethane
+
+> <STRUCTURE_SMILES>
+CN(C)C(=S)SSC(=S)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)C(=S)SSC(=S)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

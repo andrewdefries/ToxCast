@@ -1,0 +1,98 @@
+15351-09-4
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    0.6636   -4.6104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976   -4.6104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6612   -5.7578    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976   -6.9121    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9883   -5.7578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6612   -3.4560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9883   -3.4560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976   -2.3017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6612   -1.1543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6636    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6636   -2.3017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+16054
+
+> <Formula>
+C11H15NO
+
+> <FW>
+177.2429
+
+> <DSSTox_CID>
+31439
+
+> <DSSTox_RID>
+97325
+
+> <DSSTox_GSID>
+57650
+
+> <DSSTox_FileID_Sort>
+8392
+
+> <TS_ChemName>
+Metamfepramone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+15351-09-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H15NO
+
+> <STRUCTURE_MW>
+177.2429
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(dimethylamino)-1-phenylpropan-1-one
+
+> <STRUCTURE_SMILES>
+O=C(C(C)N(C)C)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(C(C)N(C)C)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

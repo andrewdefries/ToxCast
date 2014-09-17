@@ -1,0 +1,93 @@
+21662-09-9
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    1.3264   -2.2838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0046   -1.1369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3310   -1.1469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0092    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3356   -0.0100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9938   -1.1668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3302   -1.1668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9884   -2.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3148   -2.3337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9730   -3.4906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2838    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+8480
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+21514
+
+> <DSSTox_RID>
+79759
+
+> <DSSTox_GSID>
+41514
+
+> <DSSTox_FileID_Sort>
+4441
+
+> <TS_ChemName>
+(4Z)-4-Decenal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+21662-09-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(4Z)-dec-4-enal
+
+> <STRUCTURE_SMILES>
+CCCCC\C=C/CCC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCC\C=C/CCC=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

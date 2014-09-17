@@ -1,0 +1,115 @@
+1584-62-9
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  1 V2000
+    1.1521   -2.6668    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -3.9962    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3123   -4.6568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3123   -5.9862    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -6.6629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9862    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4644   -3.9800    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4483   -2.6668    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -4.6407    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -5.9701    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7606   -6.6468    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9208   -5.9701    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9047   -4.6568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7445   -3.9800    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7445   -2.6668    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9047   -1.9900    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0568   -2.6668    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9047   -0.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0568    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7606   -7.9762    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+16060
+
+> <Formula>
+C15H10BrClFNO2
+
+> <FW>
+370.6008
+
+> <DSSTox_CID>
+31445
+
+> <DSSTox_RID>
+97331
+
+> <DSSTox_GSID>
+57656
+
+> <DSSTox_FileID_Sort>
+8398
+
+> <TS_ChemName>
+2-Bromo-4'-chloro-2'-(2-fluorobenzoyl)acetanilide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1584-62-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H10BrClFNO2
+
+> <STRUCTURE_MW>
+370.6008
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-bromo-N-[4-chloro-2-(2-fluorobenzoyl)phenyl]acetamide
+
+> <STRUCTURE_SMILES>
+Clc1cc(c(NC(=O)CBr)cc1)C(=O)c2ccccc2F
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(c(NC(=O)CBr)cc1)C(=O)c2ccccc2F
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

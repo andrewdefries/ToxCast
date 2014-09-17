@@ -1,0 +1,100 @@
+17243-57-1
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    4.6528   -6.9032    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9831   -5.7504    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6577   -5.7504    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -4.6044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6577   -3.4516    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -2.2988    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6627   -2.2988    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4516    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6627   -4.6044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6528   -4.6044    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9831   -3.4516    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6528   -2.2988    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9831   -1.1528    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6528    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+16068
+
+> <Formula>
+C12H18ClN
+
+> <FW>
+211.731
+
+> <DSSTox_CID>
+31454
+
+> <DSSTox_RID>
+97340
+
+> <DSSTox_GSID>
+57665
+
+> <DSSTox_FileID_Sort>
+8407
+
+> <TS_ChemName>
+Mefenorex
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+17243-57-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H18ClN
+
+> <STRUCTURE_MW>
+211.731
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-chloro-N-(1-phenylpropan-2-yl)propan-1-amine
+
+> <STRUCTURE_SMILES>
+CC(NCCCCl)Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(NCCCCl)Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

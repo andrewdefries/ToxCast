@@ -1,0 +1,88 @@
+95734-82-0
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.5596    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4401   -0.9916    0.0000 Pt   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3370    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5139   -1.7775    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1148   -3.0406    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.7859   -3.0406    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1145    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3662   -1.7775    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+12045
+
+> <Formula>
+C2H6N2O3Pt
+
+> <FW>
+301.1646
+
+> <DSSTox_CID>
+26878
+
+> <DSSTox_RID>
+81982
+
+> <DSSTox_GSID>
+46878
+
+> <DSSTox_FileID_Sort>
+6663
+
+> <TS_ChemName>
+Nedaplatin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+95734-82-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H6N2O3Pt
+
+> <STRUCTURE_MW>
+301.1646
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+diamino[(hydroxy-kappaO)acetato(2-)-kappaO]platinum
+
+> <STRUCTURE_SMILES>
+O=C1O[Pt](N)(N)OC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1O[Pt](N)(N)OC1
+
+> <Substance_modify_yyyymmdd>
+20110727
+
+$$$$

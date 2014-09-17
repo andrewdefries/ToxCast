@@ -1,0 +1,100 @@
+5579-81-7
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    4.4679   -8.4780    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0525   -7.2148    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9427   -6.2228    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7553   -6.9350    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3399   -5.6718    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1199   -4.5951    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3399   -3.5184    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0767   -3.9338    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0767   -5.2564    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.0448    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7553   -2.2551    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8652   -1.2632    0.0000 Al   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2721    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5595   -1.5430    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+16173
+
+> <Formula>
+C4H7AlN4O5
+
+> <FW>
+218.1037
+
+> <DSSTox_CID>
+31563
+
+> <DSSTox_RID>
+97448
+
+> <DSSTox_GSID>
+57774
+
+> <DSSTox_FileID_Sort>
+8515
+
+> <TS_ChemName>
+Isalon
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5579-81-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H7AlN4O5
+
+> <STRUCTURE_MW>
+218.1037
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+aluminum hydroxide 4-(carbamoylamino)-5-oxo-4,5-dihydro-1H-imidazol-2-olate (1:2:1)
+
+> <STRUCTURE_SMILES>
+O=C(N)NC1N=C(O[Al](O)O)NC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(N)NC1N=C(O[Al](O)O)NC1=O
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

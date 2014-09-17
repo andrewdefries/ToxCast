@@ -1,0 +1,106 @@
+37609-25-9
+ChemmineR-0915142007XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    3.4530   -0.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2721    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1809   -0.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1809   -2.0096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1809   -4.6132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2721   -3.9433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4530   -4.6132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6339   -3.9433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7250   -4.6132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9059   -3.9433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9059   -2.6035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7250   -2.0096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7250   -0.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6339    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4530   -2.0096    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 16  1  0  0  0  0
+  1 17  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  3  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+12289
+
+> <Formula>
+C16H28O
+
+> <FW>
+236.3929
+
+> <DSSTox_CID>
+27139
+
+> <DSSTox_RID>
+82146
+
+> <DSSTox_GSID>
+47139
+
+> <DSSTox_FileID_Sort>
+6827
+
+> <TS_ChemName>
+5-Cyclohexadecen-1-one
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+37609-25-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H28O
+
+> <STRUCTURE_MW>
+236.3929
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5Z)-cyclohexadec-5-en-1-one
+
+> <STRUCTURE_SMILES>
+O=C1CCCCCCCCCCC=CCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCCCCCCCCC=CCCC1
+
+> <Substance_modify_yyyymmdd>
+20100502
+
+$$$$

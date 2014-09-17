@@ -1,0 +1,115 @@
+131-08-8
+ChemmineR-0915142007XD
+
+ 21 22  0  0  0  0  0  0  0  0  2 V2000
+    3.4165   -1.3408    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4165   -4.0124    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2445   -3.3569    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5586   -2.0161    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5586   -3.3569    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2445   -2.0161    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0627   -4.0124    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0627   -1.3408    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7405   -4.0124    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7405   -1.3408    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0161    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8528   -3.3569    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8528   -2.0161    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3569    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0247   -3.9826    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3196   -5.2737    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1271   -4.6083    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    8.6107   -2.8404    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4165   -5.3531    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4165    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9316   -3.6449    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 20  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 19  2  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8 11  2  0  0  0  0
+  9 12  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+M  END
+> <ID>
+10189
+
+> <Formula>
+C14H7NaO5S
+
+> <FW>
+310.2571 (287.2679+22.9892)
+
+> <DSSTox_CID>
+24535
+
+> <DSSTox_RID>
+80298
+
+> <DSSTox_GSID>
+44535
+
+> <DSSTox_FileID_Sort>
+4980
+
+> <TS_ChemName>
+Sodium 9,10-dioxo-9,10-dihydroanthracene-2-sulfonate
+
+> <TS_ChemName_Synonyms>
+Sodium 9,10-dioxo-9,10-dihydroanthracene-2-sulfonate (2-Anthracenesulfonic acid, 9,10-dihydro-9,10-dioxo-, sodium salt)
+
+> <TS_CASRN>
+131-08-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [84-48-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H7NaO5S
+
+> <STRUCTURE_MW>
+310.2571
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 9,10-dioxo-9,10-dihydroanthracene-2-sulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]S(=O)(=O)c2ccc3C(=O)c1ccccc1C(=O)c3c2
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)c2ccc3C(=O)c1ccccc1C(=O)c3c2
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

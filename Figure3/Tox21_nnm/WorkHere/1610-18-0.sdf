@@ -1,0 +1,104 @@
+1610-18-0
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    4.6522   -3.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9899   -4.6043    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6573   -4.6043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9949   -5.7614    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6623   -5.7614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.9105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9949   -3.4552    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6573   -2.3061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9899   -2.3061    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9949   -1.1491    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6573    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9848   -3.4552    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6471   -4.6043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9797   -4.6043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9848   -5.7614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <ID>
+2163
+
+> <Formula>
+C10H19N5O
+
+> <FW>
+225.2908
+
+> <DSSTox_CID>
+2341
+
+> <DSSTox_RID>
+76553
+
+> <DSSTox_GSID>
+22341
+
+> <DSSTox_FileID_Sort>
+1237
+
+> <TS_ChemName>
+Prometon
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1610-18-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H19N5O
+
+> <STRUCTURE_MW>
+225.2908
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-methoxy-N,N'-di(propan-2-yl)-1,3,5-triazine-2,4-diamine
+
+> <STRUCTURE_SMILES>
+COc1nc(NC(C)C)nc(NC(C)C)n1
+
+> <STRUCTURE_SMILES_Desalt>
+COc1nc(NC(C)C)nc(NC(C)C)n1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

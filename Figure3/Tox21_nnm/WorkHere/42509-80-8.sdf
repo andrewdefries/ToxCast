@@ -1,0 +1,108 @@
+42509-80-8
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    5.4625   -4.6175    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2582   -5.6884    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5256   -5.2660    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.5256   -3.9593    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2582   -3.5565    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4779   -3.4582    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1558   -4.6175    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6372   -2.8098    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6260   -6.0421    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6456   -3.2814    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3284   -4.1361    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8295   -2.3088    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.8246   -3.9593    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6653   -1.9551    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4779   -1.1593    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1789   -3.4582    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8295    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1165    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+6866
+
+> <Formula>
+C9H17ClN3O3PS
+
+> <FW>
+313.7413
+
+> <DSSTox_CID>
+14676
+
+> <DSSTox_RID>
+79191
+
+> <DSSTox_GSID>
+34676
+
+> <DSSTox_FileID_Sort>
+3873
+
+> <TS_ChemName>
+Isazofos
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+42509-80-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H17ClN3O3PS
+
+> <STRUCTURE_MW>
+313.7413
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O-[5-chloro-1-(propan-2-yl)-1H-1,2,4-triazol-3-yl] O,O-diethyl phosphorothioate
+
+> <STRUCTURE_SMILES>
+CC(C)n1nc(OP(=S)(OCC)OCC)nc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)n1nc(OP(=S)(OCC)OCC)nc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

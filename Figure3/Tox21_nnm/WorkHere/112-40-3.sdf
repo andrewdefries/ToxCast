@@ -1,0 +1,95 @@
+112-40-3
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1501    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2876   -0.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4378    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5879   -0.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7381    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9008   -0.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0510    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2011   -0.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3512    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4887   -0.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6389    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+4845
+
+> <Formula>
+C12H26
+
+> <FW>
+170.3348
+
+> <DSSTox_CID>
+6913
+
+> <DSSTox_RID>
+78250
+
+> <DSSTox_GSID>
+26913
+
+> <DSSTox_FileID_Sort>
+2933
+
+> <TS_ChemName>
+Dodecane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+112-40-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H26
+
+> <STRUCTURE_MW>
+170.3348
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dodecane
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

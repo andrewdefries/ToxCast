@@ -1,0 +1,112 @@
+4376-20-9
+ChemmineR-0915142007XD
+
+ 20 20  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.4518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3268   -3.4518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9953   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3221   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -1.1473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3221    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9953    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3174   -1.1473    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9858   -2.3045    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3126   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9810   -1.1473    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9810   -3.4518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3079   -3.4518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9763   -4.6091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3079   -5.7563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9810   -5.7563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3126   -4.6091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9858   -4.6091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3174   -5.7563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3174   -3.4518    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <ID>
+4343
+
+> <Formula>
+C16H22O4
+
+> <FW>
+278.3435
+
+> <DSSTox_CID>
+5680
+
+> <DSSTox_RID>
+77879
+
+> <DSSTox_GSID>
+25680
+
+> <DSSTox_FileID_Sort>
+2562
+
+> <TS_ChemName>
+Mono(2-ethylhexyl) phthalate
+
+> <TS_ChemName_Synonyms>
+Mono(2-ethylhexyl) phthalate (MEHP)
+
+> <TS_CASRN>
+4376-20-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H22O4
+
+> <STRUCTURE_MW>
+278.3435
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-{[(2-ethylhexyl)oxy]carbonyl}benzoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)c1ccccc1C(=O)OCC(CC)CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)c1ccccc1C(=O)OCC(CC)CCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

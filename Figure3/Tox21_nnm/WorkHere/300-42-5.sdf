@@ -1,0 +1,95 @@
+300-42-5
+ChemmineR-0915142007XD
+
+ 12 11  0  0  1  0  0  0  0  0  1 V2000
+    5.7582    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -0.6705    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6107   -0.6705    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9125   -0.6705    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -1.9977    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1337    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6107   -1.9977    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6705    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1337   -2.6544    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9977    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4424   -3.5531    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  1  6  0  0  0
+  6 10  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+13854
+
+> <Formula>
+C10H16ClN
+
+> <FW>
+185.6937 (149.2328+36.4609)
+
+> <DSSTox_CID>
+28791
+
+> <DSSTox_RID>
+83060
+
+> <DSSTox_GSID>
+48865
+
+> <DSSTox_FileID_Sort>
+7737
+
+> <TS_ChemName>
+Methamphetamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+(?)-Methamphetamine hydrochloride
+
+> <TS_CASRN>
+300-42-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C10H16ClN
+
+> <STRUCTURE_MW>
+185.6937
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(2R)-N-methyl-1-phenylpropan-2-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.C[C@@H](NC)Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+C[C@@H](NC)Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

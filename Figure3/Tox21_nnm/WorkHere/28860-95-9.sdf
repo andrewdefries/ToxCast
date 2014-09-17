@@ -1,0 +1,104 @@
+28860-95-9
+ChemmineR-0915142007XD
+
+ 16 16  0  0  1  0  0  0  0  0  1 V2000
+    5.7690   -1.9876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9406   -1.3332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6136   -1.3332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3108   -3.9914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1716   -3.3370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4662   -3.3370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4662   -1.9876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9406    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1716   -1.9876    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0798   -1.9876    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3108   -1.3332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3108   -5.3246    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4315   -3.1431    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1145   -3.1431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7566   -3.1431    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1 14  1  1  0  0  0
+  1 15  1  6  0  0  0
+  2  8  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  9  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7 11  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <ID>
+2475
+
+> <Formula>
+C10H14N2O4
+
+> <FW>
+226.2292
+
+> <DSSTox_CID>
+2735
+
+> <DSSTox_RID>
+76707
+
+> <DSSTox_GSID>
+22735
+
+> <DSSTox_FileID_Sort>
+1391
+
+> <TS_ChemName>
+Carbidopa
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+28860-95-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14N2O4
+
+> <STRUCTURE_MW>
+226.2292
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2S)-3-(3,4-dihydroxyphenyl)-2-hydrazinyl-2-methylpropanoic acid
+
+> <STRUCTURE_SMILES>
+Oc1ccc(C[C@](C)(NN)C(=O)O)cc1O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(C[C@](C)(NN)C(=O)O)cc1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

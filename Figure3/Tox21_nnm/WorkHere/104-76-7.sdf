@@ -1,0 +1,89 @@
+104-76-7
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -4.6059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6657   -3.4484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -3.4484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6628   -2.3089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0001   -2.3089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6658   -3.4484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6658   -1.1515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0001    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9972   -3.4484    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+580
+
+> <Formula>
+C8H18O
+
+> <FW>
+130.2279
+
+> <DSSTox_CID>
+605
+
+> <DSSTox_RID>
+75686
+
+> <DSSTox_GSID>
+20605
+
+> <DSSTox_FileID_Sort>
+370
+
+> <TS_ChemName>
+2-Ethyl-1-hexanol
+
+> <TS_ChemName_Synonyms>
+2-Ethyl-1-hexanol (2-Ethylhexanol) (1-Hexanol, 2-ethyl-)
+
+> <TS_CASRN>
+104-76-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18O
+
+> <STRUCTURE_MW>
+130.2279
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethylhexan-1-ol
+
+> <STRUCTURE_SMILES>
+CCC(CCCC)CO
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(CCCC)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

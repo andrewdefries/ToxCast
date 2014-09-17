@@ -1,0 +1,97 @@
+550-44-7
+ChemmineR-0915142007XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    2.3069   -1.6154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3069   -3.0267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3417   -2.3182    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5539   -1.2470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5539   -3.3952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1223   -0.9919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1223   -3.6502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9733   -4.6421    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9733    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6681   -2.3182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 10  2  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4989
+
+> <Formula>
+C9H7NO2
+
+> <FW>
+161.1574
+
+> <DSSTox_CID>
+7198
+
+> <DSSTox_RID>
+78345
+
+> <DSSTox_GSID>
+27198
+
+> <DSSTox_FileID_Sort>
+3028
+
+> <TS_ChemName>
+N-Methylphthalimide
+
+> <TS_ChemName_Synonyms>
+1H-Isoindole-1,3(2H)-dione, 2-methyl-
+
+> <TS_CASRN>
+550-44-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H7NO2
+
+> <STRUCTURE_MW>
+161.1574
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-1H-isoindole-1,3(2H)-dione
+
+> <STRUCTURE_SMILES>
+O=C2c1ccccc1C(=O)N2C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2c1ccccc1C(=O)N2C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

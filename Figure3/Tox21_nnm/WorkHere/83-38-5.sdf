@@ -1,0 +1,92 @@
+83-38-5
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.9969    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6578   -1.1544    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9891   -1.1544    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6547   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9891   -3.4584    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6578   -3.4584    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9969   -4.6082    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9969   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6656   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4584    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+3943
+
+> <Formula>
+C7H4Cl2O
+
+> <FW>
+175.0121
+
+> <DSSTox_CID>
+4970
+
+> <DSSTox_RID>
+77603
+
+> <DSSTox_GSID>
+24970
+
+> <DSSTox_FileID_Sort>
+2286
+
+> <TS_ChemName>
+2,6-Dichlorobenzaldehyde
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+83-38-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H4Cl2O
+
+> <STRUCTURE_MW>
+175.0121
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,6-dichlorobenzaldehyde
+
+> <STRUCTURE_SMILES>
+O=Cc1c(Cl)cccc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+O=Cc1c(Cl)cccc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

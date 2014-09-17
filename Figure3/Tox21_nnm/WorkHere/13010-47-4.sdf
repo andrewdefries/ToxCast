@@ -1,0 +1,102 @@
+13010-47-4
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    8.6443   -2.3080    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9787   -3.4577    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6475   -3.4577    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9819   -2.3080    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6506   -2.3080    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9937   -1.1583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6506    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6625   -1.1583    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9968    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6656    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9968   -2.3080    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6656   -2.3080    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4577    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6475   -1.1583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9787   -1.1583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+2898
+
+> <Formula>
+C9H16ClN3O2
+
+> <FW>
+233.6952
+
+> <DSSTox_CID>
+3222
+
+> <DSSTox_RID>
+76930
+
+> <DSSTox_GSID>
+23222
+
+> <DSSTox_FileID_Sort>
+1614
+
+> <TS_ChemName>
+Lomustine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13010-47-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H16ClN3O2
+
+> <STRUCTURE_MW>
+233.6952
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(2-chloroethyl)-3-cyclohexyl-1-nitrosourea
+
+> <STRUCTURE_SMILES>
+O=C(NC1CCCCC1)N(CCCl)N=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NC1CCCCC1)N(CCCl)N=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

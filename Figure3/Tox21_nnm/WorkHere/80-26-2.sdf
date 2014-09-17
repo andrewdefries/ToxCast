@@ -1,0 +1,100 @@
+80-26-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    3.9873   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3142   -1.1479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9850   -1.1479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3291   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9850   -3.4609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3142   -3.4609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3165   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6456   -2.3044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3165   -0.9753    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3165   -3.6335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3015   -1.1479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6306   -1.1479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6456    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+4697
+
+> <Formula>
+C12H20O2
+
+> <FW>
+196.286
+
+> <DSSTox_CID>
+6496
+
+> <DSSTox_RID>
+78123
+
+> <DSSTox_GSID>
+26496
+
+> <DSSTox_FileID_Sort>
+2806
+
+> <TS_ChemName>
+alpha-Terpinyl acetate
+
+> <TS_ChemName_Synonyms>
+alpha-Terpinyl acetate; 3-Cyclohexene-1-methanol, .alpha.,.alpha.,4-trimethyl-, acetate
+
+> <TS_CASRN>
+80-26-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H20O2
+
+> <STRUCTURE_MW>
+196.286
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(4-methylcyclohex-3-en-1-yl)propan-2-yl acetate
+
+> <STRUCTURE_SMILES>
+CC(=O)OC(C)(C)C1CC=C(C)CC1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)OC(C)(C)C1CC=C(C)CC1
+
+> <Substance_modify_yyyymmdd>
+20130926
+
+$$$$

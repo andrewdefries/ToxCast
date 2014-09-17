@@ -1,0 +1,102 @@
+98-44-2
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    5.3213   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6431   -3.4624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3188   -3.4624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6566   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3188   -1.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6431   -1.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6456   -2.3056    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6456   -3.6379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6456   -0.9813    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9779   -2.3056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3323   -2.3056    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3323   -0.9813    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3323   -3.6379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3213    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+M  END
+> <ID>
+10402
+
+> <Formula>
+C6H7NO6S2
+
+> <FW>
+253.2529
+
+> <DSSTox_CID>
+24751
+
+> <DSSTox_RID>
+80444
+
+> <DSSTox_GSID>
+44751
+
+> <DSSTox_FileID_Sort>
+5126
+
+> <TS_ChemName>
+2-Aminobenzene-1,4-disulfonic acid
+
+> <TS_ChemName_Synonyms>
+1,4-Benzenedisulfonic acid, 2-amino-
+
+> <TS_CASRN>
+98-44-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H7NO6S2
+
+> <STRUCTURE_MW>
+253.2529
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-aminobenzene-1,4-disulfonic acid
+
+> <STRUCTURE_SMILES>
+Nc1cc(ccc1S(O)(=O)=O)S(=O)(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1cc(ccc1S(O)(=O)=O)S(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

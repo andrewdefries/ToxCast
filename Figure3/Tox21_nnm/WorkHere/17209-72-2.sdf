@@ -1,0 +1,93 @@
+17209-72-2
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1511   -0.6686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090   -0.0138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4601   -0.6686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4601   -1.9989    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3228   -2.6743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1717   -1.9989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0138   -2.6743    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5974   -2.6743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7416   -1.9989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8926   -2.6743    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+10257
+
+> <Formula>
+C7H14N2O2
+
+> <FW>
+158.1983
+
+> <DSSTox_CID>
+24603
+
+> <DSSTox_RID>
+80344
+
+> <DSSTox_GSID>
+44603
+
+> <DSSTox_FileID_Sort>
+5026
+
+> <TS_ChemName>
+3-[Bis(2-hydroxyethyl)amino]propanenitrile
+
+> <TS_ChemName_Synonyms>
+3-[Bis(2-hydroxyethyl)amino]propanenitrile (Propanenitrile, 3-[bis(2-hydroxyethyl)amino]-)
+
+> <TS_CASRN>
+17209-72-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14N2O2
+
+> <STRUCTURE_MW>
+158.1983
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-[bis(2-hydroxyethyl)amino]propanenitrile
+
+> <STRUCTURE_SMILES>
+OCCN(CCC#N)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+OCCN(CCC#N)CCO
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

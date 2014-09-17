@@ -1,0 +1,98 @@
+24544-04-5
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    3.4548   -3.9869    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3009   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -3.9869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3009   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4548    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6088   -0.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6088   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7558   -2.6602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9097   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7558   -3.9869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+2116
+
+> <Formula>
+C12H19N
+
+> <FW>
+177.286
+
+> <DSSTox_CID>
+2279
+
+> <DSSTox_RID>
+76534
+
+> <DSSTox_GSID>
+22279
+
+> <DSSTox_FileID_Sort>
+1218
+
+> <TS_ChemName>
+2,6-Diisopropylaniline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+24544-04-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H19N
+
+> <STRUCTURE_MW>
+177.286
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,6-di(propan-2-yl)aniline
+
+> <STRUCTURE_SMILES>
+CC(C)c1cccc(C(C)C)c1N
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)c1cccc(C(C)C)c1N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

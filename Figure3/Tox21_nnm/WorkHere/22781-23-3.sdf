@@ -1,0 +1,105 @@
+22781-23-3
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    4.7171   -2.4151    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5021   -1.3306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7171   -0.2528    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4530   -0.6720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4530   -1.9959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3020   -2.6679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1510   -1.9959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1510   -0.6720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3020    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3020   -3.9985    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6531   -0.6720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6531   -1.9959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1510   -4.6572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9985    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1510   -5.9811    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+6418
+
+> <Formula>
+C11H13NO4
+
+> <FW>
+223.2252
+
+> <DSSTox_CID>
+12327
+
+> <DSSTox_RID>
+78914
+
+> <DSSTox_GSID>
+32327
+
+> <DSSTox_FileID_Sort>
+3596
+
+> <TS_ChemName>
+Bendiocarb
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+22781-23-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H13NO4
+
+> <STRUCTURE_MW>
+223.2252
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2-dimethyl-1,3-benzodioxol-4-yl methylcarbamate
+
+> <STRUCTURE_SMILES>
+CNC(=O)Oc1cccc2OC(C)(C)Oc12
+
+> <STRUCTURE_SMILES_Desalt>
+CNC(=O)Oc1cccc2OC(C)(C)Oc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

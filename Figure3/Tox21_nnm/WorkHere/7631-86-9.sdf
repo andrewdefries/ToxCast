@@ -1,0 +1,77 @@
+7631-86-9
+ChemmineR-0915142007XD
+
+  3  2  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3353    0.0000    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+M  END
+> <ID>
+6125
+
+> <Formula>
+O2Si
+
+> <FW>
+60.0843
+
+> <DSSTox_CID>
+9677
+
+> <DSSTox_RID>
+78805
+
+> <DSSTox_GSID>
+29677
+
+> <DSSTox_FileID_Sort>
+3487
+
+> <TS_ChemName>
+Silica
+
+> <TS_ChemName_Synonyms>
+Silicon dioxide, SiO2
+
+> <TS_CASRN>
+7631-86-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+O2Si
+
+> <STRUCTURE_MW>
+60.0843
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+dioxosilane
+
+> <STRUCTURE_SMILES>
+O=[Si]=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[Si]=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

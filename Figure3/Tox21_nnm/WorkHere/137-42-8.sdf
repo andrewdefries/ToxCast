@@ -1,0 +1,82 @@
+137-42-8
+ChemmineR-0915142007XD
+
+  6  4  0  0  0  0  0  0  0  0  2 V2000
+    2.7807   -1.3294    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9331   -2.0019    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6322   -2.0019    0.0000 S    0  5  0  0  0  0  0  0  0  0  0  0
+    2.7807    0.0000    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9331   -3.3274    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8721    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <ID>
+5826
+
+> <Formula>
+C2H4NNaS2
+
+> <FW>
+129.1796 (106.1904+22.9892)
+
+> <DSSTox_CID>
+9167
+
+> <DSSTox_RID>
+78695
+
+> <DSSTox_GSID>
+29167
+
+> <DSSTox_FileID_Sort>
+3377
+
+> <TS_ChemName>
+Metam-sodium
+
+> <TS_ChemName_Synonyms>
+Metam-sodium (Carbamodithioic acid, methyl-, monosodium salt) (Sodium methyldithiocarbamate)
+
+> <TS_CASRN>
+137-42-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [144-54-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H4NNaS2
+
+> <STRUCTURE_MW>
+129.1796
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium methylcarbamodithioate
+
+> <STRUCTURE_SMILES>
+[Na+].[S-]C(=S)NC
+
+> <STRUCTURE_SMILES_Desalt>
+CNC(=S)S
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

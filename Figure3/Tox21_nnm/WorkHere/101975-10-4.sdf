@@ -1,0 +1,111 @@
+101975-10-4
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    5.9772   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3219   -3.4575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3219   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9886   -3.4575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9886   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3219   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3105   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9772   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9772   -3.4575    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3105   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3105   -3.4575    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9658   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3219   -4.6100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2991   -2.3050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9886   -5.7513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9886   -2.3050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3333   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1525    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9886    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <ID>
+9431
+
+> <Formula>
+C12H10F2N2O3
+
+> <FW>
+268.2162
+
+> <DSSTox_CID>
+22559
+
+> <DSSTox_RID>
+80048
+
+> <DSSTox_GSID>
+42559
+
+> <DSSTox_FileID_Sort>
+4730
+
+> <TS_ChemName>
+Zardaverine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+101975-10-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10F2N2O3
+
+> <STRUCTURE_MW>
+268.2162
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-[4-(difluoromethoxy)-3-methoxyphenyl]pyridazin-3(2H)-one
+
+> <STRUCTURE_SMILES>
+FC(F)Oc1ccc(cc1OC)C=2C=CC(=O)NN=2
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)Oc1ccc(cc1OC)C=2C=CC(=O)NN=2
+
+> <Substance_modify_yyyymmdd>
+20081003
+
+$$$$

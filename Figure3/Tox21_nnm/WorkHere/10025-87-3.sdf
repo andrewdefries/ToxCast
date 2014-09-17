@@ -1,0 +1,81 @@
+10025-87-3
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+      1.33     -1.33      0.00 P    0  0  0  0  0  0  0  0  0  0  0  0
+      0.00     -1.33      0.00 O    0  0  0  0  0  0  0  0  0  0  0  0
+      2.66     -1.33      0.00 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+      1.33      0.00      0.00 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+      1.33     -2.66      0.00 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  3  1  0  0  0  0
+M  END
+> <ID>
+6148
+
+> <Formula>
+Cl3OP
+
+> <FW>
+153.3322
+
+> <DSSTox_CID>
+9710
+
+> <DSSTox_RID>
+78816
+
+> <DSSTox_GSID>
+29710
+
+> <DSSTox_FileID_Sort>
+3498
+
+> <TS_ChemName>
+Phosphoric trichloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+10025-87-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+Cl3OP
+
+> <STRUCTURE_MW>
+153.3322
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+phosphoric trichloride
+
+> <STRUCTURE_SMILES>
+ClP(Cl)(Cl)=O
+
+> <STRUCTURE_SMILES_Desalt>
+ClP(Cl)(Cl)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

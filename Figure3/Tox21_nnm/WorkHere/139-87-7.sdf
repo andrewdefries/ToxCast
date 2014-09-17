@@ -1,0 +1,89 @@
+139-87-7
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1522   -1.9870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3044   -2.6563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4566   -1.9870    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6088   -2.6563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7610   -1.9870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8994   -2.6563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4566   -0.6554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6088    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  2  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+8890
+
+> <Formula>
+C6H15NO2
+
+> <FW>
+133.1888
+
+> <DSSTox_CID>
+21955
+
+> <DSSTox_RID>
+79884
+
+> <DSSTox_GSID>
+41955
+
+> <DSSTox_FileID_Sort>
+4566
+
+> <TS_ChemName>
+Ethyl diethanolamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+139-87-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H15NO2
+
+> <STRUCTURE_MW>
+133.1888
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-(ethylimino)diethanol
+
+> <STRUCTURE_SMILES>
+CCN(CCO)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CCO)CCO
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

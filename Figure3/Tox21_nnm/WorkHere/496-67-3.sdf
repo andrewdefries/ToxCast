@@ -1,0 +1,93 @@
+496-67-3
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    4.6035   -1.3390    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4509   -2.0015    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7492   -2.0015    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2983   -1.3390    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4509   -3.3336    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9018   -1.3390    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7492   -3.3336    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2983    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -2.0015    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3390    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -3.3336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+7858
+
+> <Formula>
+C6H11BrN2O2
+
+> <FW>
+223.0677
+
+> <DSSTox_CID>
+20656
+
+> <DSSTox_RID>
+79524
+
+> <DSSTox_GSID>
+40656
+
+> <DSSTox_FileID_Sort>
+4206
+
+> <TS_ChemName>
+Bromisovalum
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+496-67-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H11BrN2O2
+
+> <STRUCTURE_MW>
+223.0677
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-bromo-N-carbamoyl-3-methylbutanamide
+
+> <STRUCTURE_SMILES>
+CC(C)C(Br)C(=O)NC(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)C(Br)C(=O)NC(N)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

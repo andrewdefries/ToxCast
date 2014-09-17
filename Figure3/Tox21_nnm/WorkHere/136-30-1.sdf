@@ -1,0 +1,96 @@
+136-30-1
+ChemmineR-0915142007XD
+
+ 13 11  0  0  0  0  0  0  0  0  2 V2000
+    6.9972   -2.1831    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    5.9826   -3.4566    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3248   -2.3021    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9884   -2.3021    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3167   -3.4566    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9884   -4.5971    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3167   -5.7587    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9884   -6.8992    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3167   -1.1545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9942   -1.1545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3365    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9826   -1.1545    0.0000 S    0  5  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+10450
+
+> <Formula>
+C9H18NNaS2
+
+> <FW>
+227.3657 (22.9892+204.3765)
+
+> <DSSTox_CID>
+24800
+
+> <DSSTox_RID>
+80485
+
+> <DSSTox_GSID>
+44800
+
+> <DSSTox_FileID_Sort>
+5167
+
+> <TS_ChemName>
+Sodium dibutylcarbamodithioate
+
+> <TS_ChemName_Synonyms>
+Sodium dibutylcarbamodithioate (Carbamodithioic acid, dibutyl-, sodium salt)
+
+> <TS_CASRN>
+136-30-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [150-11-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18NNaS2
+
+> <STRUCTURE_MW>
+227.3657
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium dibutylcarbamodithioate
+
+> <STRUCTURE_SMILES>
+[Na+].[S-]C(=S)N(CCCC)CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCN(CCCC)C(=S)S
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

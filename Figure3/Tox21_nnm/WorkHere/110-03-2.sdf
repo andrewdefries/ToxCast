@@ -1,0 +1,91 @@
+110-03-2
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.4811    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -1.8248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3026   -1.1513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4539   -1.8248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6052   -1.1513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2615   -2.3026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4951   -0.6735    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9317    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8248   -2.9761    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7565   -0.4951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+M  END
+> <ID>
+4815
+
+> <Formula>
+C8H18O2
+
+> <FW>
+146.2273
+
+> <DSSTox_CID>
+6830
+
+> <DSSTox_RID>
+78222
+
+> <DSSTox_GSID>
+26830
+
+> <DSSTox_FileID_Sort>
+2905
+
+> <TS_ChemName>
+2,5-Dimethylhexane-2,5-diol
+
+> <TS_ChemName_Synonyms>
+2,5-Dimethylhexane-2,5-diol (2,5-Hexanediol, 2,5-dimethyl-)
+
+> <TS_CASRN>
+110-03-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18O2
+
+> <STRUCTURE_MW>
+146.2273
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,5-dimethylhexane-2,5-diol
+
+> <STRUCTURE_SMILES>
+CC(O)(C)CCC(C)(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)(C)CCC(C)(C)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,108 @@
+1085-98-9
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    4.6412   -2.3033    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9841   -3.4584    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6412   -4.6135    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9841   -5.7617    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3191   -1.1551    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7963   -2.9812    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4930   -1.6462    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6561   -3.4584    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1254   -6.4188    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8359   -5.0908    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3132   -6.9169    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6471   -1.1551    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6412    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9851   -4.6135    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9851   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6571   -2.3033    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6571   -4.6135    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4584    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  8 14  2  0  0  0  0
+  8 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+8800
+
+> <Formula>
+C9H11Cl2FN2O2S2
+
+> <FW>
+333.2302
+
+> <DSSTox_CID>
+21851
+
+> <DSSTox_RID>
+79858
+
+> <DSSTox_GSID>
+41851
+
+> <DSSTox_FileID_Sort>
+4540
+
+> <TS_ChemName>
+Dichlofluanid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1085-98-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11Cl2FN2O2S2
+
+> <STRUCTURE_MW>
+333.2302
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-{[dichloro(fluoro)methyl]sulfanyl}-N',N'-dimethyl-N-phenylsulfuric diamide
+
+> <STRUCTURE_SMILES>
+CN(C)S(=O)(=O)N(SC(Cl)(Cl)F)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)S(=O)(=O)N(SC(Cl)(Cl)F)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

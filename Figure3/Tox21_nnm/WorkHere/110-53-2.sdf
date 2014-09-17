@@ -1,0 +1,83 @@
+110-53-2
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.1745    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3141   -0.6454    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4712    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6283   -0.6454    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8144    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6454    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+13548
+
+> <Formula>
+C5H11Br
+
+> <FW>
+151.0448
+
+> <DSSTox_CID>
+28474
+
+> <DSSTox_RID>
+83278
+
+> <DSSTox_GSID>
+49203
+
+> <DSSTox_FileID_Sort>
+7953
+
+> <TS_ChemName>
+1-Bromopentane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+110-53-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H11Br
+
+> <STRUCTURE_MW>
+151.0448
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-bromopentane
+
+> <STRUCTURE_SMILES>
+BrCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+BrCCCCC
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

@@ -1,0 +1,107 @@
+637-32-1
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6729    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -1.9932    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -0.6798    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3158   -2.6729    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4449   -1.9932    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4449   -0.6798    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -2.6729    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7607   -1.9932    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7607   -0.6798    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9128   -2.6729    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0764   -1.9932    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0764   -0.6798    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2055    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3692   -0.6798    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5213    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3692   -1.9932    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2055   -2.6729    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1592   -4.0325    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+12877
+
+> <Formula>
+C11H17Cl2N5
+
+> <FW>
+290.1922 (253.7312+36.4609)
+
+> <DSSTox_CID>
+27756
+
+> <DSSTox_RID>
+82533
+
+> <DSSTox_GSID>
+47776
+
+> <DSSTox_FileID_Sort>
+7214
+
+> <TS_ChemName>
+Proguanil hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+637-32-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [500-92-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H17Cl2N5
+
+> <STRUCTURE_MW>
+290.1922
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-(4-chlorophenyl)-N'-propan-2-ylimidodicarbonimidic diamide hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Clc1ccc(NC(=N)NC(=N)NC(C)C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(NC(=N)NC(=N)NC(C)C)cc1
+
+> <Substance_modify_yyyymmdd>
+20110721
+
+$$$$

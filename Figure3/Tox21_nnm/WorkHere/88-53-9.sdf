@@ -1,0 +1,98 @@
+88-53-9
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    1.9990   -2.3043    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6557   -3.4565    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9990   -4.6087    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6740   -4.6087    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4565    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6740   -2.3043    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6557   -1.1522    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8079   -1.8262    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5036   -0.4954    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3298    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1522    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6557   -5.7608    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7608    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <ID>
+4713
+
+> <Formula>
+C7H8ClNO3S
+
+> <FW>
+221.6613
+
+> <DSSTox_CID>
+6528
+
+> <DSSTox_RID>
+78139
+
+> <DSSTox_GSID>
+26528
+
+> <DSSTox_FileID_Sort>
+2822
+
+> <TS_ChemName>
+2-Amino-5-chloro-4-methylbenzenesulfonic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+88-53-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H8ClNO3S
+
+> <STRUCTURE_MW>
+221.6613
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-amino-5-chloro-4-methylbenzenesulfonic acid
+
+> <STRUCTURE_SMILES>
+Nc1cc(C)c(Cl)cc1S(=O)(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1cc(C)c(Cl)cc1S(=O)(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

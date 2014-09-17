@@ -1,0 +1,83 @@
+25899-50-7
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.6708   -1.1552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3276   -2.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6552   -2.3058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3306   -1.1552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6582   -1.1552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  3  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+5473
+
+> <Formula>
+C5H7N
+
+> <FW>
+81.1158
+
+> <DSSTox_CID>
+7884
+
+> <DSSTox_RID>
+78602
+
+> <DSSTox_GSID>
+27884
+
+> <DSSTox_FileID_Sort>
+3284
+
+> <TS_ChemName>
+(2Z)-2-Pentenenitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+25899-50-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H7N
+
+> <STRUCTURE_MW>
+81.1158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2Z)-pent-2-enenitrile
+
+> <STRUCTURE_SMILES>
+CC\C=C/C#N
+
+> <STRUCTURE_SMILES_Desalt>
+CC\C=C/C#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

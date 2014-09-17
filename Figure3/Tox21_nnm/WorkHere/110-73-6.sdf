@@ -1,0 +1,83 @@
+110-73-6
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3060   -0.6630    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4590    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6119   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7649    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+1794
+
+> <Formula>
+C4H11NO
+
+> <FW>
+89.1362
+
+> <DSSTox_CID>
+1922
+
+> <DSSTox_RID>
+76403
+
+> <DSSTox_GSID>
+21922
+
+> <DSSTox_FileID_Sort>
+1087
+
+> <TS_ChemName>
+2-(Ethylamino)ethanol
+
+> <TS_ChemName_Synonyms>
+2-(Ethylamino)ethanol (N-Ethyl ethanolamine)
+
+> <TS_CASRN>
+110-73-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H11NO
+
+> <STRUCTURE_MW>
+89.1362
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(ethylamino)ethanol
+
+> <STRUCTURE_SMILES>
+CCNCCO
+
+> <STRUCTURE_SMILES_Desalt>
+CCNCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,92 @@
+88-73-3
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  2 V2000
+    2.6582    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582   -2.3044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -3.4542    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6657   -3.4542    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3044    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6657   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9896   -2.3044    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    4.6553   -1.1499    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6553   -3.4542    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+271
+
+> <Formula>
+C6H4ClNO2
+
+> <FW>
+157.5545
+
+> <DSSTox_CID>
+280
+
+> <DSSTox_RID>
+75483
+
+> <DSSTox_GSID>
+20280
+
+> <DSSTox_FileID_Sort>
+167
+
+> <TS_ChemName>
+1-Chloro-2-nitrobenzene
+
+> <TS_ChemName_Synonyms>
+1-Chloro-2-nitrobenzene (2-Chloronitrobenzene) (o-Chloronitrobenzene)
+
+> <TS_CASRN>
+88-73-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4ClNO2
+
+> <STRUCTURE_MW>
+157.5545
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-2-nitrobenzene
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccccc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccccc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

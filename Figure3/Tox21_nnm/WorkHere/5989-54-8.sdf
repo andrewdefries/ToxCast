@@ -1,0 +1,92 @@
+5989-54-8
+ChemmineR-0915142007XD
+
+ 10 10  0  0  1  0  0  0  0  0  1 V2000
+    1.1411   -5.3332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1411   -3.9999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1411   -1.3333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1411    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2943   -2.0060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2943   -3.3393    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.0059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2943   -6.0059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  1  9  1  0  0  0  0
+  1 10  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+12230
+
+> <Formula>
+C10H16
+
+> <FW>
+136.234
+
+> <DSSTox_CID>
+27078
+
+> <DSSTox_RID>
+82091
+
+> <DSSTox_GSID>
+47078
+
+> <DSSTox_FileID_Sort>
+6772
+
+> <TS_ChemName>
+(S)-Limonene
+
+> <TS_ChemName_Synonyms>
+(S)-(-)-Limonene
+
+> <TS_CASRN>
+5989-54-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16
+
+> <STRUCTURE_MW>
+136.234
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(4S)-1-methyl-4-(prop-1-en-2-yl)cyclohexene
+
+> <STRUCTURE_SMILES>
+CC1=CC[C@H](CC1)C(C)=C
+
+> <STRUCTURE_SMILES_Desalt>
+CC1=CC[C@H](CC1)C(C)=C
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

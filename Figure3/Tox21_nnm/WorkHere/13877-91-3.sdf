@@ -1,0 +1,91 @@
+13877-91-3
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1422   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3006   -1.3192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4589   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6173   -1.3192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7595   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9017   -1.3192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0440   -1.9949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3006    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9017    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  3  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+M  END
+> <ID>
+12205
+
+> <Formula>
+C10H16
+
+> <FW>
+136.234
+
+> <DSSTox_CID>
+27051
+
+> <DSSTox_RID>
+82069
+
+> <DSSTox_GSID>
+47051
+
+> <DSSTox_FileID_Sort>
+6750
+
+> <TS_ChemName>
+Ocimene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13877-91-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of ocimene [13877-91-3] (70-75%) and limonene [5989-27-5] (20-25%); structure shown ocimene a mixture of Z,E- isomers
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C10H16
+
+> <STRUCTURE_MW>
+136.234
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,7-dimethylocta-1,3,6-triene
+
+> <STRUCTURE_SMILES>
+C=CC(C)=CC\C=C(\C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(C)=CC\C=C(\C)C
+
+> <Substance_modify_yyyymmdd>
+20120529
+
+$$$$

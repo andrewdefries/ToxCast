@@ -1,0 +1,103 @@
+520-53-6
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    3.5432   -0.2405    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2772   -1.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5432   -2.3904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3282   -1.2942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2772   -0.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1386   -2.6591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9746   -3.6563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7709   -5.1910    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3112   -3.9251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1386   -3.9887    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1386    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0722   -5.4526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9081   -6.1881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 13  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+13888
+
+> <Formula>
+C12H16N2O
+
+> <FW>
+204.2682
+
+> <DSSTox_CID>
+28825
+
+> <DSSTox_RID>
+83094
+
+> <DSSTox_GSID>
+48899
+
+> <DSSTox_FileID_Sort>
+7771
+
+> <TS_ChemName>
+Psilocin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+520-53-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H16N2O
+
+> <STRUCTURE_MW>
+204.2682
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-[2-(dimethylamino)ethyl]-1H-indol-4-ol
+
+> <STRUCTURE_SMILES>
+CN(C)CCc2cnc1cccc(O)c12
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCc2cnc1cccc(O)c12
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

@@ -1,0 +1,77 @@
+75-07-0
+ChemmineR-0915142007XD
+
+  3  2  0  0  0  0  0  0  0  0  1 V2000
+    2.3030   -0.6656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6656    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+M  END
+> <ID>
+2
+
+> <Formula>
+C2H4O
+
+> <FW>
+44.0526
+
+> <DSSTox_CID>
+2
+
+> <DSSTox_RID>
+79423
+
+> <DSSTox_GSID>
+39224
+
+> <DSSTox_FileID_Sort>
+4105
+
+> <TS_ChemName>
+Acetaldehyde
+
+> <TS_ChemName_Synonyms>
+Acetaldehyde (Ethanal)
+
+> <TS_CASRN>
+75-07-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H4O
+
+> <STRUCTURE_MW>
+44.0526
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+acetaldehyde
+
+> <STRUCTURE_SMILES>
+CC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

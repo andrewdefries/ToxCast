@@ -1,0 +1,118 @@
+161326-34-7
+ChemmineR-0915142007XD
+
+ 22 24  0  0  1  0  0  0  0  0  1 V2000
+    5.9063   -4.3037    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1596   -5.5371    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4921   -5.5371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8439   -3.4844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7545   -4.2677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8619   -2.1698    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1758   -3.8985    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4639   -2.5840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4825   -1.7017    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7334   -2.1878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7706   -0.3872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0035   -0.9003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0401    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8721   -3.2773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2754   -6.6266    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7172   -7.8330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5030   -4.7178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2599   -6.0233    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5126   -3.8355    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0084   -6.4645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2431   -4.2857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.6002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5 14  1  0  0  0  0
+  5 17  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 22  2  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <ID>
+6840
+
+> <Formula>
+C17H17N3OS
+
+> <FW>
+311.4014
+
+> <DSSTox_CID>
+14590
+
+> <DSSTox_RID>
+79173
+
+> <DSSTox_GSID>
+34590
+
+> <DSSTox_FileID_Sort>
+3855
+
+> <TS_ChemName>
+Fenamidone
+
+> <TS_ChemName_Synonyms>
+Fenamidone (4H-Imidazol-4-one, 3,5-dihydro-5-methyl-2-(methylthio)-5-phenyl-3-(phenylamino)-, (5S)-)
+
+> <TS_CASRN>
+161326-34-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H17N3OS
+
+> <STRUCTURE_MW>
+311.4014
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5S)-5-methyl-2-(methylsulfanyl)-5-phenyl-3-(phenylamino)-3,5-dihydro-4H-imidazol-4-one
+
+> <STRUCTURE_SMILES>
+CSC2=N[C@](C)(C(=O)N2Nc1ccccc1)c3ccccc3
+
+> <STRUCTURE_SMILES_Desalt>
+CSC2=N[C@](C)(C(=O)N2Nc1ccccc1)c3ccccc3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

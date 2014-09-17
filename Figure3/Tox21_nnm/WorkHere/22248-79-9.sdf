@@ -1,0 +1,110 @@
+22248-79-9
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    9.2132   -4.6527    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0616   -3.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9099   -4.6527    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7583   -3.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066   -4.6527    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7583   -2.6534    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066   -1.9901    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550   -2.6534    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3033   -1.9901    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9667   -0.8384    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6400   -3.1417    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3040   -3.1417    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -1.3267    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9901    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6066   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0616   -2.6534    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2132   -1.9901    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9099   -1.9901    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+M  END
+> <ID>
+13219
+
+> <Formula>
+C10H9Cl4O4P
+
+> <FW>
+365.9618
+
+> <DSSTox_CID>
+28132
+
+> <DSSTox_RID>
+79024
+
+> <DSSTox_GSID>
+32648
+
+> <DSSTox_FileID_Sort>
+3706
+
+> <TS_ChemName>
+Z-Tetrachlorvinphos
+
+> <TS_ChemName_Synonyms>
+Tetrachlorvinphos; Gardona (cis-isomer)
+
+> <TS_CASRN>
+22248-79-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H9Cl4O4P
+
+> <STRUCTURE_MW>
+365.9618
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(Z)-2-chloro-1-(2,4,5-trichlorophenyl)ethenyl dimethyl phosphate
+
+> <STRUCTURE_SMILES>
+Clc1cc(C(=C\Cl)\OP(=O)(OC)OC)c(Cl)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(C(=C\Cl)\OP(=O)(OC)OC)c(Cl)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

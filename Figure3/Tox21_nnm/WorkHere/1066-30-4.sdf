@@ -1,0 +1,94 @@
+1066-30-4
+ChemmineR-0915142007XD
+
+ 13  9  0  0  0  0  0  0  0  0  2 V2000
+    5.1908    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5216   -1.1515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1908   -2.3030    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1953   -1.1515    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.9955    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.3324   -1.1515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9955   -2.3030    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5932   -3.7258    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    2.9240   -4.8773    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5932   -6.0288    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5976   -4.8773    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2653   -3.6354    0.0000 Cr   0  1  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+317
+
+> <Formula>
+C6H9CrO6
+
+> <FW>
+229.1282 (59.0446+59.0446+59.0446+51.9945)
+
+> <DSSTox_CID>
+327
+
+> <DSSTox_RID>
+75515
+
+> <DSSTox_GSID>
+20327
+
+> <DSSTox_FileID_Sort>
+199
+
+> <TS_ChemName>
+Chromium(III) acetate
+
+> <TS_ChemName_Synonyms>
+Chromium (III) acetate
+
+> <TS_CASRN>
+1066-30-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H9CrO6
+
+> <STRUCTURE_MW>
+229.1282
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+chromium(3+) triacetate
+
+> <STRUCTURE_SMILES>
+[Cr+3].O=C([O-])C.[O-]C(C)=O.[O-]C(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

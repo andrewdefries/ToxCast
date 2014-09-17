@@ -1,0 +1,81 @@
+352-93-2
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    3.4783   -0.7085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6009    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1686   -0.7867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2912   -0.0828    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+M  END
+> <ID>
+4954
+
+> <Formula>
+C4H10S
+
+> <FW>
+90.1872
+
+> <DSSTox_CID>
+7146
+
+> <DSSTox_RID>
+78324
+
+> <DSSTox_GSID>
+27146
+
+> <DSSTox_FileID_Sort>
+3007
+
+> <TS_ChemName>
+Diethyl sulfide
+
+> <TS_ChemName_Synonyms>
+Diethyl sulfide (Ethane, 1,1'-thiobis-)
+
+> <TS_CASRN>
+352-93-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10S
+
+> <STRUCTURE_MW>
+90.1872
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diethyl sulfide
+
+> <STRUCTURE_SMILES>
+CCSCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCSCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

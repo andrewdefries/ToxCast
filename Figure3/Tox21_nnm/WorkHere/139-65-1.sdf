@@ -1,0 +1,103 @@
+139-65-1
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    1.3265   -1.1560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9898   -2.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3258   -2.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9891   -1.1560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3258    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9898    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3156   -1.1560    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3200   -2.0277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1399   -3.3447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1917   -4.1596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4235   -3.6574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6035   -2.3404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5517   -1.5255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1560    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4752   -4.4723    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+1291
+
+> <Formula>
+C12H12N2S
+
+> <FW>
+216.3021
+
+> <DSSTox_CID>
+1344
+
+> <DSSTox_RID>
+76098
+
+> <DSSTox_GSID>
+21344
+
+> <DSSTox_FileID_Sort>
+782
+
+> <TS_ChemName>
+4,4'-Thiodianiline
+
+> <TS_ChemName_Synonyms>
+4,4'-Diaminodiphenyl sulfide (4,4'-Thiodianiline) (4-[(4-aminophenyl)sulfanyl]aniline)
+
+> <TS_CASRN>
+139-65-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H12N2S
+
+> <STRUCTURE_MW>
+216.3021
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-sulfanediyldianiline
+
+> <STRUCTURE_SMILES>
+Nc1ccc(cc1)Sc2ccc(N)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1)Sc2ccc(N)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

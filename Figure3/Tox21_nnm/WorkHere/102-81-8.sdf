@@ -1,0 +1,95 @@
+102-81-8
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    5.3208   -3.4534    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9851   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3208   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9921   -1.1491    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3277   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9930   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3287   -3.4534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3277    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9930    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3287   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+3934
+
+> <Formula>
+C10H23NO
+
+> <FW>
+173.2957
+
+> <DSSTox_CID>
+4953
+
+> <DSSTox_RID>
+77596
+
+> <DSSTox_GSID>
+24953
+
+> <DSSTox_FileID_Sort>
+2279
+
+> <TS_ChemName>
+2-(Dibutylamino)ethanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+102-81-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H23NO
+
+> <STRUCTURE_MW>
+173.2957
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(dibutylamino)ethanol
+
+> <STRUCTURE_SMILES>
+CCCCN(CCCC)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCN(CCCC)CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

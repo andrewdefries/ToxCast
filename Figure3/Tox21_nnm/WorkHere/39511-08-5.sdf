@@ -1,0 +1,90 @@
+39511-08-5
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    3.4500   -2.2687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023   -1.5975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1478   -2.2687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.5975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6045   -1.5975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7455   -0.2886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0409    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7122   -1.1478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8194   -2.1412    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  6  2  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+14158
+
+> <Formula>
+C7H6O2
+
+> <FW>
+122.1213
+
+> <DSSTox_CID>
+29151
+
+> <DSSTox_RID>
+83370
+
+> <DSSTox_GSID>
+49295
+
+> <DSSTox_FileID_Sort>
+8045
+
+> <TS_ChemName>
+(E)-3-(2-Furyl)acrolein
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+39511-08-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6O2
+
+> <STRUCTURE_MW>
+122.1213
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-3-(furan-2-yl)prop-2-enal
+
+> <STRUCTURE_SMILES>
+O=C\C=C\c1ccco1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C\C=C\c1ccco1
+
+> <Substance_modify_yyyymmdd>
+20120525
+
+$$$$

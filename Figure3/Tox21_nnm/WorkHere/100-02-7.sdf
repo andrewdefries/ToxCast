@@ -1,0 +1,92 @@
+100-02-7
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  2 V2000
+    5.9822   -1.1546    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6542   -1.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901   -2.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6561   -2.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9921   -1.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6640   -1.1546    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3031    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.6561    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+1725
+
+> <Formula>
+C6H5NO3
+
+> <FW>
+139.1088
+
+> <DSSTox_CID>
+1834
+
+> <DSSTox_RID>
+76356
+
+> <DSSTox_GSID>
+21834
+
+> <DSSTox_FileID_Sort>
+1040
+
+> <TS_ChemName>
+4-Nitrophenol
+
+> <TS_ChemName_Synonyms>
+4-Nitrophenol (p-Nitrophenol)
+
+> <TS_CASRN>
+100-02-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H5NO3
+
+> <STRUCTURE_MW>
+139.1088
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-nitrophenol
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccc(O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccc(O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,90 @@
+3699-54-5
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    2.1445   -2.1296    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1296    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0723   -1.3453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7474   -3.3955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4170   -3.3955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0723   -0.0149    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4104   -1.7126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6983   -0.4170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9641    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+5901
+
+> <Formula>
+C5H10N2O2
+
+> <FW>
+130.1451
+
+> <DSSTox_CID>
+9260
+
+> <DSSTox_RID>
+78737
+
+> <DSSTox_GSID>
+29260
+
+> <DSSTox_FileID_Sort>
+3419
+
+> <TS_ChemName>
+1-(2-Hydroxyethyl)-2-imidazolidinone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3699-54-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10N2O2
+
+> <STRUCTURE_MW>
+130.1451
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(2-hydroxyethyl)imidazolidin-2-one
+
+> <STRUCTURE_SMILES>
+O=C1NCCN1CCO
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1NCCN1CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,91 @@
+133-37-9
+ChemmineR-0915142007XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    2.3178   -1.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4768   -1.3328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6183   -1.9760    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1763   -1.3328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6183   -3.3145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1763    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3178   -3.3145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4768    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7946   -1.3328    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 10  1  0  0  0  0
+M  END
+> <ID>
+12142
+
+> <Formula>
+C4H6O6
+
+> <FW>
+150.0868
+
+> <DSSTox_CID>
+26986
+
+> <DSSTox_RID>
+82036
+
+> <DSSTox_GSID>
+46986
+
+> <DSSTox_FileID_Sort>
+6717
+
+> <TS_ChemName>
+dl-Tartaric acid
+
+> <TS_ChemName_Synonyms>
+DL-Tartaric
+
+> <TS_CASRN>
+133-37-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+racemic mixture; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6O6
+
+> <STRUCTURE_MW>
+150.0868
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,3-dihydroxybutanedioic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)C(O)C(O)C(O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)C(O)C(O)C(O)=O
+
+> <Substance_modify_yyyymmdd>
+20100308
+
+$$$$

@@ -1,0 +1,90 @@
+13494-07-0
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    3.0241   -2.0270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -2.0270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2686   -0.7724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3500    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4127   -0.7584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8106   -3.1225    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9175   -3.1225    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6813   -0.3371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  9  1  0  0  0  0
+M  END
+> <ID>
+12781
+
+> <Formula>
+C7H10O2
+
+> <FW>
+126.1531
+
+> <DSSTox_CID>
+27660
+
+> <DSSTox_RID>
+82483
+
+> <DSSTox_GSID>
+47660
+
+> <DSSTox_FileID_Sort>
+7164
+
+> <TS_ChemName>
+3,5-Dimethyl-1,2-cyclopentanedione
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13494-07-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H10O2
+
+> <STRUCTURE_MW>
+126.1531
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5-dimethylcyclopentane-1,2-dione
+
+> <STRUCTURE_SMILES>
+O=C1C(=O)C(C)CC1C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C(=O)C(C)CC1C
+
+> <Substance_modify_yyyymmdd>
+20101214
+
+$$$$

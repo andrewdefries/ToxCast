@@ -1,0 +1,114 @@
+76541-72-5
+ChemmineR-0915142007XD
+
+ 21 21  0  0  0  0  0  0  0  0  1 V2000
+    2.2579   -7.0478    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531   -6.3947    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531   -5.0641    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2579   -4.3868    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4110   -5.0641    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4110   -6.3947    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -7.0478    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5722   -4.3868    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7899   -5.1448    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1125   -6.2818    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5722   -3.0078    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3546   -2.2740    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4269   -4.0078    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6772   -3.4110    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2095   -1.6289    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9916   -1.1370    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9108   -5.7818    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0639   -5.1448    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7899   -7.4349    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3546    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0725   -2.2740    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 13  2  0  0  0  0
+  9 17  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+11154
+
+> <Formula>
+C11H17ClO7P2
+
+> <FW>
+358.649
+
+> <DSSTox_CID>
+25741
+
+> <DSSTox_RID>
+81086
+
+> <DSSTox_GSID>
+45741
+
+> <DSSTox_FileID_Sort>
+5767
+
+> <TS_ChemName>
+Mifobate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+76541-72-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H17ClO7P2
+
+> <STRUCTURE_MW>
+358.649
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dimethyl {(4-chlorophenyl)[(dimethoxyphosphoryl)oxy]methyl}phosphonate
+
+> <STRUCTURE_SMILES>
+Clc1ccc(cc1)C(OP(=O)(OC)OC)P(=O)(OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(cc1)C(OP(=O)(OC)OC)P(=O)(OC)OC
+
+> <Substance_modify_yyyymmdd>
+20110826
+
+$$$$

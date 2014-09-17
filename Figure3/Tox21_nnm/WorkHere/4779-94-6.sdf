@@ -1,0 +1,95 @@
+4779-94-6
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    5.7577   -1.3415    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6061   -1.9979    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546   -1.3300    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -1.9979    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -1.3415    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9979    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3279    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -3.9958    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -3.3452    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -5.3258    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0476   -3.1494    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+11907
+
+> <Formula>
+C8H12ClNO2
+
+> <FW>
+189.6394 (153.1784+36.4609)
+
+> <DSSTox_CID>
+26710
+
+> <DSSTox_RID>
+81843
+
+> <DSSTox_GSID>
+46710
+
+> <DSSTox_FileID_Sort>
+6524
+
+> <TS_ChemName>
+Norfenefrine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4779-94-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12ClNO2
+
+> <STRUCTURE_MW>
+189.6394
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+3-(2-amino-1-hydroxyethyl)phenol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.OC(CN)c1cc(O)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(CN)c1cc(O)ccc1
+
+> <Substance_modify_yyyymmdd>
+20110805
+
+$$$$

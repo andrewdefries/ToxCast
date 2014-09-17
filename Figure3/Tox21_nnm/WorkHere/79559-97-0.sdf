@@ -1,0 +1,115 @@
+79559-97-0
+ChemmineR-0915142007XD
+
+ 21 22  0  0  1  0  0  0  0  0  1 V2000
+    3.9906   -2.3049    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6557   -3.4631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9859   -3.4631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6509   -2.3049    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9811   -2.3049    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6462   -1.1582    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6462   -3.4631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9811   -4.6098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6509   -4.6098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9764   -3.4631    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9906   -4.6098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6604   -4.6098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9953   -3.4631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6604   -2.3049    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9953   -1.1582    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6604    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9906    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6557   -1.1582    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6651   -3.4631    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6098    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.4672   -1.1582    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 14  2  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  1  6  0  0  0
+  2 11  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 19  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+7628
+
+> <Formula>
+C17H18Cl3N
+
+> <FW>
+342.6905 (306.2296+36.4609)
+
+> <DSSTox_CID>
+20243
+
+> <DSSTox_RID>
+79456
+
+> <DSSTox_GSID>
+40243
+
+> <DSSTox_FileID_Sort>
+4138
+
+> <TS_ChemName>
+Sertraline hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+79559-97-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [79617-96-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H18Cl3N
+
+> <STRUCTURE_MW>
+342.6905
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(1S,4S)-4-(3,4-dichlorophenyl)-N-methyl-1,2,3,4-tetrahydronaphthalen-1-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Clc1ccc(cc1Cl)[C@@H]3CC[C@H](NC)c2ccccc23
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(cc1Cl)[C@@H]3CC[C@H](NC)c2ccccc23
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

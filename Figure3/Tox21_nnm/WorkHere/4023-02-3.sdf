@@ -1,0 +1,89 @@
+4023-02-3
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    4.0374   -2.3038    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3816   -1.1519    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.0374    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0529   -1.1519    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2659   -2.2240    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8248    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4790    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2659   -0.0798    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7025   -1.1690    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+11750
+
+> <Formula>
+C4H7ClN4
+
+> <FW>
+146.5782 (110.1172+36.4609)
+
+> <DSSTox_CID>
+26517
+
+> <DSSTox_RID>
+81684
+
+> <DSSTox_GSID>
+46517
+
+> <DSSTox_FileID_Sort>
+6365
+
+> <TS_ChemName>
+Praxadine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4023-02-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [4023-00-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H7ClN4
+
+> <STRUCTURE_MW>
+146.5782
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1H-pyrazole-1-carboximidamide hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.N=C(N)n1cccn1
+
+> <STRUCTURE_SMILES_Desalt>
+N=C(N)n1cccn1
+
+> <Substance_modify_yyyymmdd>
+20110811
+
+$$$$

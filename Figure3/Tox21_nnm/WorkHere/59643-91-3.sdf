@@ -1,0 +1,89 @@
+59643-91-3
+ChemmineR-0915142007XD
+
+  8  9  0  0  0  0  0  0  0  0  1 V2000
+    3.4184   -2.4243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3446   -3.1933    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2707   -2.4243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0010   -1.1535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6693   -1.1535    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3446    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.8228    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6891   -2.8228    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+12059
+
+> <Formula>
+C4H5N3O
+
+> <FW>
+111.102
+
+> <DSSTox_CID>
+26895
+
+> <DSSTox_RID>
+81997
+
+> <DSSTox_GSID>
+46895
+
+> <DSSTox_FileID_Sort>
+6678
+
+> <TS_ChemName>
+Imexon
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+59643-91-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H5N3O
+
+> <STRUCTURE_MW>
+111.102
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-1,3-diazabicyclo[3.1.0]hex-3-en-2-one
+
+> <STRUCTURE_SMILES>
+O=C1N=C(N)C2CN12
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1N=C(N)C2CN12
+
+> <Substance_modify_yyyymmdd>
+20110727
+
+$$$$

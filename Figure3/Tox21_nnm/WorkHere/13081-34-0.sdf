@@ -1,0 +1,109 @@
+13081-34-0
+ChemmineR-0915142007XD
+
+ 19 18  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1617    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4644    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6053   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7670    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9080   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0697    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2106   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3723    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5340   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6750    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8367   -0.6638    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9776    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1393   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2803    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4420   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5829    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7446   -0.6638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+11372
+
+> <Formula>
+C16H34O2S
+
+> <FW>
+290.505
+
+> <DSSTox_CID>
+26042
+
+> <DSSTox_RID>
+81304
+
+> <DSSTox_GSID>
+46042
+
+> <DSSTox_FileID_Sort>
+5985
+
+> <TS_ChemName>
+Laureth 10s
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13081-34-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+polymer
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+monomer of polymer
+
+> <STRUCTURE_Formula>
+C16H34O2S
+
+> <STRUCTURE_MW>
+290.505
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[2-(dodecylsulfanyl)ethoxy]ethanol
+
+> <STRUCTURE_SMILES>
+OCCOCCSCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+OCCOCCSCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20110805
+
+$$$$

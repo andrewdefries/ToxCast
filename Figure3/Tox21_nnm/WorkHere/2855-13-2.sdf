@@ -1,0 +1,96 @@
+2855-13-2
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    1.9870   -3.1357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9870   -1.8074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1357   -1.1541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2899   -1.8074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2899   -3.1357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1357   -3.8108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6587   -3.1357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9816    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4440   -3.8108    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283   -4.2899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7944    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4661    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+5201
+
+> <Formula>
+C10H22N2
+
+> <FW>
+170.2951
+
+> <DSSTox_CID>
+7503
+
+> <DSSTox_RID>
+78476
+
+> <DSSTox_GSID>
+27503
+
+> <DSSTox_FileID_Sort>
+3159
+
+> <TS_ChemName>
+Isophorone diamine
+
+> <TS_ChemName_Synonyms>
+Isophorone diamine (3-Aminomethyl-3,5,5-trimethyl-cyclohexylamine)
+
+> <TS_CASRN>
+2855-13-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H22N2
+
+> <STRUCTURE_MW>
+170.2951
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(aminomethyl)-3,5,5-trimethylcyclohexanamine
+
+> <STRUCTURE_SMILES>
+NCC1(C)CC(C)(C)CC(N)C1
+
+> <STRUCTURE_SMILES_Desalt>
+NCC1(C)CC(C)(C)CC(N)C1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

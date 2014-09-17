@@ -1,0 +1,95 @@
+62-31-7
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    6.9073   -2.6593    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7538   -1.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -2.6593    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4537   -1.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4537   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7538   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9073    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3001   -2.6593    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -1.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6593    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6279   -3.4744    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+529
+
+> <Formula>
+C8H12ClNO2
+
+> <FW>
+189.6394 (153.1784+36.4609)
+
+> <DSSTox_CID>
+550
+
+> <DSSTox_RID>
+75655
+
+> <DSSTox_GSID>
+20550
+
+> <DSSTox_FileID_Sort>
+339
+
+> <TS_ChemName>
+Dopamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+62-31-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [51-61-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12ClNO2
+
+> <STRUCTURE_MW>
+189.6394
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-(2-aminoethyl)benzene-1,2-diol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Oc1ccc(CCN)cc1O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(CCN)cc1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

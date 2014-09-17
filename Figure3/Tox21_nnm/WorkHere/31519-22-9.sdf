@@ -1,0 +1,103 @@
+31519-22-9
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.3236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -1.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1539   -3.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3010   -3.3236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3010   -1.9969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4549   -1.3336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6089   -1.9969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6089   -3.3236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4549   -3.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7559   -3.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7559   -5.3206    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9098   -3.3236    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4549   -5.3206    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4549    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <ID>
+7417
+
+> <Formula>
+C11H8O4
+
+> <FW>
+204.1788
+
+> <DSSTox_CID>
+17730
+
+> <DSSTox_RID>
+79366
+
+> <DSSTox_GSID>
+37730
+
+> <DSSTox_FileID_Sort>
+4048
+
+> <TS_ChemName>
+1,4-Dihydroxy-2-naphthoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+31519-22-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H8O4
+
+> <STRUCTURE_MW>
+204.1788
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-dihydroxynaphthalene-2-carboxylic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)c2cc(O)c1ccccc1c2O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)c2cc(O)c1ccccc1c2O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

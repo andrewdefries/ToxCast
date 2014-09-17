@@ -1,0 +1,96 @@
+609-54-1
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.3072   -2.6580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4608   -3.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4608   -4.6462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -5.3161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -4.6462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -3.3119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072   -1.3290    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6362   -1.3290    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9782   -1.3290    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3072    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6090   -5.3161    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+M  END
+> <ID>
+8601
+
+> <Formula>
+C8H10O3S
+
+> <FW>
+186.2282
+
+> <DSSTox_CID>
+21641
+
+> <DSSTox_RID>
+79800
+
+> <DSSTox_GSID>
+41641
+
+> <DSSTox_FileID_Sort>
+4482
+
+> <TS_ChemName>
+2,5-Dimethylbenzenesulfonic acid
+
+> <TS_ChemName_Synonyms>
+Benzenesulfonic acid, 2,5-dimethyl- (p-Xylene-2-sulfonic acid)
+
+> <TS_CASRN>
+609-54-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10O3S
+
+> <STRUCTURE_MW>
+186.2282
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,5-dimethylbenzenesulfonic acid
+
+> <STRUCTURE_SMILES>
+Cc1ccc(C)cc1S(O)(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(C)cc1S(O)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

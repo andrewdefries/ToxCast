@@ -1,0 +1,104 @@
+16969-10-1
+ChemmineR-0915142007XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    9.1850   -2.0347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3461   -2.7130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4957   -2.0347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1850   -0.7127    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0355   -2.7015    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8744   -2.0232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7363   -2.6785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5983   -2.0232    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7363   -4.0120    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4487   -2.6785    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2876   -2.0117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1381   -2.6670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3106   -0.6782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1496    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  4  2  0  0  0  0
+  2  3  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+10498
+
+> <Formula>
+C12H14O4
+
+> <FW>
+222.2372
+
+> <DSSTox_CID>
+24851
+
+> <DSSTox_RID>
+80530
+
+> <DSSTox_GSID>
+44851
+
+> <DSSTox_FileID_Sort>
+5212
+
+> <TS_ChemName>
+2-Hydroxy-3-phenoxypropyl prop-2-enoate
+
+> <TS_ChemName_Synonyms>
+2-Hydroxy-3-phenoxypropyl prop-2-enoate (2-Propenoic acid, 2-hydroxy-3-phenoxypropyl ester)
+
+> <TS_CASRN>
+16969-10-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H14O4
+
+> <STRUCTURE_MW>
+222.2372
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-hydroxy-3-phenoxypropyl prop-2-enoate
+
+> <STRUCTURE_SMILES>
+C=CC(=O)OCC(O)COc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(=O)OCC(O)COc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

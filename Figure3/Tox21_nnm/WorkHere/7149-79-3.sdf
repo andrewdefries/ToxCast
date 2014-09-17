@@ -1,0 +1,96 @@
+7149-79-3
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    5.7538   -3.3362    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3070   -1.3331    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4467   -1.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6003   -3.9924    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4467   -3.3155    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -1.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7676   -2.0031    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9073   -4.0062    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -3.3155    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3208    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2932   -3.9924    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3124    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  5  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 12  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+9111
+
+> <Formula>
+C9H10ClNO
+
+> <FW>
+183.6348
+
+> <DSSTox_CID>
+22181
+
+> <DSSTox_RID>
+79946
+
+> <DSSTox_GSID>
+42181
+
+> <DSSTox_FileID_Sort>
+4628
+
+> <TS_ChemName>
+N-(3-Chloro-4-methylphenyl)acetamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7149-79-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10ClNO
+
+> <STRUCTURE_MW>
+183.6348
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(3-chloro-4-methylphenyl)acetamide
+
+> <STRUCTURE_SMILES>
+Cc1ccc(NC(C)=O)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(NC(C)=O)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

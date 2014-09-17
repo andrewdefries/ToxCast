@@ -1,0 +1,88 @@
+108-44-1
+ChemmineR-0915142007XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    2.3043   -1.3275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4564   -1.9853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4564   -3.3129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -3.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -3.3129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -1.9853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+> <ID>
+4805
+
+> <Formula>
+C7H9N
+
+> <FW>
+107.1531
+
+> <DSSTox_CID>
+6792
+
+> <DSSTox_RID>
+78215
+
+> <DSSTox_GSID>
+26792
+
+> <DSSTox_FileID_Sort>
+2898
+
+> <TS_ChemName>
+3-Methylaniline
+
+> <TS_ChemName_Synonyms>
+Benzenamine, 3-methyl-; m-Toluidine
+
+> <TS_CASRN>
+108-44-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H9N
+
+> <STRUCTURE_MW>
+107.1531
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylaniline
+
+> <STRUCTURE_SMILES>
+Cc1cc(N)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(N)ccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

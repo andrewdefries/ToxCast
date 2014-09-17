@@ -1,0 +1,109 @@
+61570-90-9
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.9708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -3.6337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3079   -2.9708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4496   -3.6337    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6035   -2.9708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6035   -1.6450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7575   -0.9698    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9115   -1.6450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1759   -1.2276    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9493   -2.3079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2874   -2.3079    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9503   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2761   -1.1540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2874    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9493    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1759   -3.3759    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9115   -2.9708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7575   -3.6337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 18  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+11476
+
+> <Formula>
+C12H14N2O3S
+
+> <FW>
+266.3162
+
+> <DSSTox_CID>
+26178
+
+> <DSSTox_RID>
+81409
+
+> <DSSTox_GSID>
+46178
+
+> <DSSTox_FileID_Sort>
+6090
+
+> <TS_ChemName>
+Tioxidazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+61570-90-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H14N2O3S
+
+> <STRUCTURE_MW>
+266.3162
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl (6-propoxy-1,3-benzothiazol-2-yl)carbamate
+
+> <STRUCTURE_SMILES>
+O=C(OC)Nc1nc2ccc(cc2s1)OCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OC)Nc1nc2ccc(cc2s1)OCCC
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

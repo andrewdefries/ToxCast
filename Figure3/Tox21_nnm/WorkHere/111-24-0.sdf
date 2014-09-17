@@ -1,0 +1,85 @@
+111-24-0
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.1597    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3334   -0.6427    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4931    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6529   -0.6427    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8266    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6427    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9863   -0.6427    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+14259
+
+> <Formula>
+C5H10Br2
+
+> <FW>
+229.9409
+
+> <DSSTox_CID>
+29354
+
+> <DSSTox_RID>
+83470
+
+> <DSSTox_GSID>
+49395
+
+> <DSSTox_FileID_Sort>
+8145
+
+> <TS_ChemName>
+Pentane,1,5-dibromo-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+111-24-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10Br2
+
+> <STRUCTURE_MW>
+229.9409
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,5-dibromopentane
+
+> <STRUCTURE_SMILES>
+BrCCCCCBr
+
+> <STRUCTURE_SMILES_Desalt>
+BrCCCCCBr
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

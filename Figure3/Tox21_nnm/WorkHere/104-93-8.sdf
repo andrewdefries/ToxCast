@@ -1,0 +1,90 @@
+104-93-8
+ChemmineR-0915142007XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    3.9905   -1.1529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3155   -2.3059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9833   -2.3059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3322   -1.1529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9833    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3155    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3167   -1.1529    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9738    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+4771
+
+> <Formula>
+C8H10O
+
+> <FW>
+122.1644
+
+> <DSSTox_CID>
+6710
+
+> <DSSTox_RID>
+78191
+
+> <DSSTox_GSID>
+26710
+
+> <DSSTox_FileID_Sort>
+2874
+
+> <TS_ChemName>
+1-Methoxy-4-methylbenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+104-93-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10O
+
+> <STRUCTURE_MW>
+122.1644
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methoxy-4-methylbenzene
+
+> <STRUCTURE_SMILES>
+Cc1ccc(OC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(OC)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

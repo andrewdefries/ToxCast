@@ -1,0 +1,100 @@
+94-46-2
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    5.7683   -1.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9478   -1.9996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0811   -1.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2145   -1.9996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073   -1.9996    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0811    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4739   -1.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4739    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2944   -1.9996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1610   -1.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2944   -3.3172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1610   -3.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+12332
+
+> <Formula>
+C12H16O2
+
+> <FW>
+192.2542
+
+> <DSSTox_CID>
+27185
+
+> <DSSTox_RID>
+82181
+
+> <DSSTox_GSID>
+47185
+
+> <DSSTox_FileID_Sort>
+6862
+
+> <TS_ChemName>
+Isopentyl benzoate
+
+> <TS_ChemName_Synonyms>
+Isoamyl benzoate
+
+> <TS_CASRN>
+94-46-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H16O2
+
+> <STRUCTURE_MW>
+192.2542
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylbutyl benzoate
+
+> <STRUCTURE_SMILES>
+CC(C)CCOC(=O)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CCOC(=O)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20100503
+
+$$$$

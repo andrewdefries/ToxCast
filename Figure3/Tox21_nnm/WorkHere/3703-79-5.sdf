@@ -1,0 +1,102 @@
+3703-79-5
+ChemmineR-0915142007XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    6.8841   -2.0025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0422   -2.6539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7341   -2.6539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8841   -0.6514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8841   -4.6725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0422   -4.0050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7341   -4.0050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5921   -0.6514    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0422    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8841   -6.0075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7341    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4501    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3081   -0.6514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1581    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+11444
+
+> <Formula>
+C12H19NO2
+
+> <FW>
+209.2848
+
+> <DSSTox_CID>
+26144
+
+> <DSSTox_RID>
+81376
+
+> <DSSTox_GSID>
+46144
+
+> <DSSTox_FileID_Sort>
+6057
+
+> <TS_ChemName>
+Bamethan
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3703-79-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H19NO2
+
+> <STRUCTURE_MW>
+209.2848
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-[2-(butylamino)-1-hydroxyethyl]phenol
+
+> <STRUCTURE_SMILES>
+OC(CNCCCC)c1ccc(O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(CNCCCC)c1ccc(O)cc1
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

@@ -1,0 +1,87 @@
+111-77-3
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    4.6105   -0.6621    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7651    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9197   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0744    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+3988
+
+> <Formula>
+C5H12O3
+
+> <FW>
+120.147
+
+> <DSSTox_CID>
+5049
+
+> <DSSTox_RID>
+77640
+
+> <DSSTox_GSID>
+25049
+
+> <DSSTox_FileID_Sort>
+2323
+
+> <TS_ChemName>
+Diethylene glycol monomethyl ether
+
+> <TS_ChemName_Synonyms>
+Diethylene glycol monomethyl ether (Ethanol, 2-(2-methoxyethoxy)-)
+
+> <TS_CASRN>
+111-77-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H12O3
+
+> <STRUCTURE_MW>
+120.147
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(2-methoxyethoxy)ethanol
+
+> <STRUCTURE_SMILES>
+OCCOCCOC
+
+> <STRUCTURE_SMILES_Desalt>
+OCCOCCOC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

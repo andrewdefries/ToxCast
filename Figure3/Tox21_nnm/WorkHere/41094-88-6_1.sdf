@@ -1,0 +1,118 @@
+41094-88-6_1
+ChemmineR-0915142007XD
+
+ 23 23  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -7.9504    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1296   -8.6230    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023   -7.9676    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023   -6.6397    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4492   -5.9843    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4664   -4.6650    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6305   -4.0097    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7688   -4.6823    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7688   -6.0016    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9329   -4.0442    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0797   -4.6909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1315   -6.0188    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6305   -2.6817    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4837   -2.0092    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3454   -2.6645    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3454   -4.0097    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0520   -4.4408    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.2414   -3.3198    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0692   -2.2333    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6898   -0.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.5608    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7515   -1.9833    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1393   -0.0949    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 16  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <ID>
+10821
+
+> <Formula>
+C16H25ClN4O2
+
+> <FW>
+340.8483 (304.3874+36.4609)
+
+> <DSSTox_CID>
+25208
+
+> <DSSTox_RID>
+80751
+
+> <DSSTox_GSID>
+45208
+
+> <DSSTox_FileID_Sort>
+5432
+
+> <TS_ChemName>
+Tracazolate hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+41094-88-6_1
+
+> <CASRN_ChemName_Relationship>
+CAS for parent
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+CAS for Tracazolate
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H25ClN4O2
+
+> <STRUCTURE_MW>
+340.8483
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+ethyl 4-(butylamino)-1-ethyl-6-methyl-1H-pyrazolo[3,4-b]pyridine-5-carboxylate hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C(OCC)c1c(NCCCC)c2cnn(CC)c2nc1C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)c1c(NCCCC)c2cnn(CC)c2nc1C
+
+> <Substance_modify_yyyymmdd>
+20130911
+
+$$$$

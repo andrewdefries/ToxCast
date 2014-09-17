@@ -1,0 +1,97 @@
+1300-72-7
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -1.3347    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9873   -1.3347    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3200   -2.4858    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3200   -0.1752    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9937   -2.4858    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9937   -0.1752    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3263   -1.3347    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3263   -3.6370    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3136   -1.3347    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3136    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3136   -2.6610    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6400   -1.3347    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    8.3417   -1.5098    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+M  END
+> <ID>
+4641
+
+> <Formula>
+C8H9NaO3S
+
+> <FW>
+208.2100 (185.2208+22.9892)
+
+> <DSSTox_CID>
+6302
+
+> <DSSTox_RID>
+78092
+
+> <DSSTox_GSID>
+26302
+
+> <DSSTox_FileID_Sort>
+2775
+
+> <TS_ChemName>
+Sodium xylenesulfonate
+
+> <TS_ChemName_Synonyms>
+Sodium xylenesulfonate (Benzenesulfonic acid, dimethyl-, sodium salt)
+
+> <TS_CASRN>
+1300-72-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of dimethylbenzene sulfonates; structure shown 3,4-; parent [88-61-9]
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C8H9NaO3S
+
+> <STRUCTURE_MW>
+208.21
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 3,4-dimethylbenzenesulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].Cc1ccc(cc1C)S(=O)([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1C)S(O)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

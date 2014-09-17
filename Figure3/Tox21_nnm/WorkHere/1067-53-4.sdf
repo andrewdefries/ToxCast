@@ -1,0 +1,107 @@
+1067-53-4
+ChemmineR-0915142007XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.0131    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3309   -3.0131    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0016   -4.1630    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3325   -4.1630    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9926   -5.3235    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3235   -5.3235    0.0000 Si   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3235   -3.9926    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4734   -3.3112    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4734   -1.9803    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6339   -1.3309    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6339    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3235   -6.6543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4734   -7.3038    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6543   -5.3235    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3145   -6.4627    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6453   -6.4627    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3161   -7.6126    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6470   -7.6126    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+5104
+
+> <Formula>
+C11H24O6Si
+
+> <FW>
+280.3902
+
+> <DSSTox_CID>
+7356
+
+> <DSSTox_RID>
+78421
+
+> <DSSTox_GSID>
+27356
+
+> <DSSTox_FileID_Sort>
+3104
+
+> <TS_ChemName>
+Tris(2-methoxyethoxy)vinylsilane
+
+> <TS_ChemName_Synonyms>
+2,5,7,10-Tetraoxa-6-silaundecane, 6-ethenyl-6-(2-methoxyethoxy)-
+
+> <TS_CASRN>
+1067-53-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H24O6Si
+
+> <STRUCTURE_MW>
+280.3902
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+6-ethenyl-6-(2-methoxyethoxy)-2,5,7,10-tetraoxa-6-silaundecane
+
+> <STRUCTURE_SMILES>
+COCCO[Si](OCCOC)(C=C)OCCOC
+
+> <STRUCTURE_SMILES_Desalt>
+COCCO[Si](OCCOC)(C=C)OCCOC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

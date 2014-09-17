@@ -1,0 +1,85 @@
+111-48-8
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.1578    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3156   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7750    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6173   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9328   -0.6586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4595    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+4828
+
+> <Formula>
+C4H10O2S
+
+> <FW>
+122.186
+
+> <DSSTox_CID>
+6878
+
+> <DSSTox_RID>
+78233
+
+> <DSSTox_GSID>
+26878
+
+> <DSSTox_FileID_Sort>
+2916
+
+> <TS_ChemName>
+2,2'-Thiobisethanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+111-48-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10O2S
+
+> <STRUCTURE_MW>
+122.186
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-sulfanediyldiethanol
+
+> <STRUCTURE_SMILES>
+OCCSCCO
+
+> <STRUCTURE_SMILES_Desalt>
+OCCSCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

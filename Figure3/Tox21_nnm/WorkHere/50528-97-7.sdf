@@ -1,0 +1,109 @@
+50528-97-7
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    8.5936   -3.8092    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3268   -2.5302    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2009   -1.5181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5476   -0.3680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2319   -0.6441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0939   -1.9690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9622   -2.6591    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7937   -1.9690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7937   -0.6441    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6436   -2.6407    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4290   -2.1162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2818   -0.7821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3583    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0673   -0.2576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1472   -2.3554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3617   -2.8983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4997   -4.2048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+11463
+
+> <Formula>
+C14H19N3O
+
+> <FW>
+245.3202
+
+> <DSSTox_CID>
+26164
+
+> <DSSTox_RID>
+81395
+
+> <DSSTox_GSID>
+46164
+
+> <DSSTox_FileID_Sort>
+6076
+
+> <TS_ChemName>
+Xilobam
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+50528-97-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H19N3O
+
+> <STRUCTURE_MW>
+245.3202
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(2,6-dimethylphenyl)-3-(1-methyl-4,5-dihydro-1H-pyrrol-2-yl)urea
+
+> <STRUCTURE_SMILES>
+O=C(NC1=CCCN1C)Nc2c(C)cccc2C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(NC1=CCCN1C)Nc2c(C)cccc2C
+
+> <Substance_modify_yyyymmdd>
+20110818
+
+$$$$

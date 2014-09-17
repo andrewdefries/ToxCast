@@ -1,0 +1,98 @@
+7493-63-2
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    5.3212   -3.4544    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9834   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3212   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9834    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3156    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9778   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3156   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9889   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3267    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3267   -2.3056    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9945   -2.3056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3323   -3.4544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+3674
+
+> <Formula>
+C10H11NO2
+
+> <FW>
+177.1998
+
+> <DSSTox_CID>
+4441
+
+> <DSSTox_RID>
+77397
+
+> <DSSTox_GSID>
+24441
+
+> <DSSTox_FileID_Sort>
+2080
+
+> <TS_ChemName>
+Allyl anthranilate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7493-63-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H11NO2
+
+> <STRUCTURE_MW>
+177.1998
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+prop-2-en-1-yl 2-aminobenzoate
+
+> <STRUCTURE_SMILES>
+Nc1ccccc1C(=O)OCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccccc1C(=O)OCC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

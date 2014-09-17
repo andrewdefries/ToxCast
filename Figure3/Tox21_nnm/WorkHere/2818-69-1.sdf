@@ -1,0 +1,95 @@
+2818-69-1
+ChemmineR-0915142007XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3258    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3326   -1.3258    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1117   -0.2529    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3760   -0.6629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5309    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6790   -0.6629    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6790   -1.9955    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8340   -2.6584    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5309   -2.6584    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3760   -1.9955    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1117   -2.4056    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+3854
+
+> <Formula>
+C8H7ClN2
+
+> <FW>
+166.6076
+
+> <DSSTox_CID>
+4787
+
+> <DSSTox_RID>
+77532
+
+> <DSSTox_GSID>
+24787
+
+> <DSSTox_FileID_Sort>
+2215
+
+> <TS_ChemName>
+5-Chloro-2-methyl-1H-benzimidazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2818-69-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H7ClN2
+
+> <STRUCTURE_MW>
+166.6076
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-chloro-2-methyl-1H-benzimidazole
+
+> <STRUCTURE_SMILES>
+Clc1ccc2nc(C)nc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc2nc(C)nc2c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

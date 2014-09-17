@@ -1,0 +1,89 @@
+3211-76-5
+ChemmineR-0915142007XD
+
+  9  8  0  0  1  0  0  0  0  0  1 V2000
+    6.9045   -1.9954    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7514   -1.3257    0.0000 Se   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6053   -1.9954    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4522   -1.3257    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2992   -1.9954    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2992   -3.3210    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530   -1.3257    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9954    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+M  END
+> <ID>
+12000
+
+> <Formula>
+C5H11NO2Se
+
+> <FW>
+196.1063
+
+> <DSSTox_CID>
+26824
+
+> <DSSTox_RID>
+81936
+
+> <DSSTox_GSID>
+46824
+
+> <DSSTox_FileID_Sort>
+6617
+
+> <TS_ChemName>
+Selenium-L-methionine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3211-76-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H11NO2Se
+
+> <STRUCTURE_MW>
+196.1063
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+(2S)-2-amino-4-(methylselanyl)butanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)[C@@H](N)CC[Se]C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)[C@@H](N)CC[Se]C
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

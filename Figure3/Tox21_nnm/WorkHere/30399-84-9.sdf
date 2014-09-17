@@ -1,0 +1,111 @@
+30399-84-9
+ChemmineR-0915142007XD
+
+ 20 19  0  0  0  0  0  0  0  0  1 V2000
+    1.1624   -1.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3248   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4872   -1.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6496   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8121   -1.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9745   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1172   -1.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2796   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4223   -1.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5847   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7471   -1.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9095   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0720   -1.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2344   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3968   -1.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5592   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7019   -1.3397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1624    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9899    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5592   -3.3296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 19  1  0  0  0  0
+  1 18  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 20  1  0  0  0  0
+M  END
+> <ID>
+5539
+
+> <Formula>
+C18H36O2
+
+> <FW>
+284.4772
+
+> <DSSTox_CID>
+7963
+
+> <DSSTox_RID>
+78624
+
+> <DSSTox_GSID>
+27963
+
+> <DSSTox_FileID_Sort>
+3306
+
+> <TS_ChemName>
+Isooctadecanoic acid
+
+> <TS_ChemName_Synonyms>
+Isooctadecanoic acid (Isostearic acid)
+
+> <TS_CASRN>
+30399-84-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of isooctyldecanyl isomers; structure shown 16-methylheptadecanoid acid
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C18H36O2
+
+> <STRUCTURE_MW>
+284.4772
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+16-methylheptadecanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCCCCCCCCCCCCCC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCCCCCCCCCCCCCC(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

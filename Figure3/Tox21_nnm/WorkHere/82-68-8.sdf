@@ -1,0 +1,100 @@
+82-68-8
+ChemmineR-0915142007XD
+
+ 14 14  0  0  0  0  0  0  0  0  2 V2000
+    1.9924   -4.6070    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6565   -3.4582    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9924   -2.3035    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6565   -1.1547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9907   -1.1547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6549   -2.3035    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9907   -3.4582    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6549   -4.6070    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9831   -2.3035    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6549    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9924    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6641   -2.3035    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4582    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1547    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+1064
+
+> <Formula>
+C6Cl5NO2
+
+> <FW>
+295.3347
+
+> <DSSTox_CID>
+1105
+
+> <DSSTox_RID>
+75944
+
+> <DSSTox_GSID>
+21105
+
+> <DSSTox_FileID_Sort>
+628
+
+> <TS_ChemName>
+Pentachloronitrobenzene
+
+> <TS_ChemName_Synonyms>
+Pentachloronitrobenzene (PCNB) (Quintozene)
+
+> <TS_CASRN>
+82-68-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6Cl5NO2
+
+> <STRUCTURE_MW>
+295.3347
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2,3,4,5-pentachloro-6-nitrobenzene
+
+> <STRUCTURE_SMILES>
+Clc1c(c(Cl)c(Cl)c(Cl)c1Cl)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1c(c(Cl)c(Cl)c(Cl)c1Cl)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

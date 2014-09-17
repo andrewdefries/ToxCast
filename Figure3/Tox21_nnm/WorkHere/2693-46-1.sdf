@@ -1,0 +1,109 @@
+2693-46-1
+ChemmineR-0915142007XD
+
+ 17 20  0  0  0  0  0  0  0  0  1 V2000
+    0.7697    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4143   -1.6357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2707    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7697   -2.6171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3303   -1.0071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4143   -2.8865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1623   -4.7530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2463   -5.3880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0404   -1.3085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2707   -2.6171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2463   -1.6357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1623   -3.5086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3303   -3.5086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3303   -4.7530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2463   -2.8865    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4143   -5.3880    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5 11  2  0  0  0  0
+  6 12  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 15  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 16  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+14123
+
+> <Formula>
+C16H11N
+
+> <FW>
+217.2652
+
+> <DSSTox_CID>
+29116
+
+> <DSSTox_RID>
+83335
+
+> <DSSTox_GSID>
+49260
+
+> <DSSTox_FileID_Sort>
+8010
+
+> <TS_ChemName>
+3-Aminofluoranthene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2693-46-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H11N
+
+> <STRUCTURE_MW>
+217.2652
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+fluoranthen-3-amine
+
+> <STRUCTURE_SMILES>
+Nc4ccc2c1ccccc1c3cccc4c23
+
+> <STRUCTURE_SMILES_Desalt>
+Nc4ccc2c1ccccc1c3cccc4c23
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

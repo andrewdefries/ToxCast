@@ -1,0 +1,111 @@
+87-29-6
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    3.4437   -3.9735    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3150   -3.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3150   -1.9810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -1.3130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -3.9735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4437   -1.3130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4437    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6069   -1.9810    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7587   -1.3130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9104   -1.9810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0736   -1.3130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2023   -1.9810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2023   -3.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3656   -3.9735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5173   -3.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5173   -1.9810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3656   -1.3130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  3  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+320
+
+> <Formula>
+C16H15NO2
+
+> <FW>
+253.2958
+
+> <DSSTox_CID>
+330
+
+> <DSSTox_RID>
+75518
+
+> <DSSTox_GSID>
+20330
+
+> <DSSTox_FileID_Sort>
+202
+
+> <TS_ChemName>
+Cinnamyl anthranilate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+87-29-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C16H15NO2
+
+> <STRUCTURE_MW>
+253.2958
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-phenylprop-2-en-1-yl 2-aminobenzoate
+
+> <STRUCTURE_SMILES>
+Nc2ccccc2C(=O)OCC=Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc2ccccc2C(=O)OCC=Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20110518
+
+$$$$

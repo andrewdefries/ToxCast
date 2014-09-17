@@ -1,0 +1,97 @@
+509-14-8
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  2 V2000
+    0.8414    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9939   -0.6660    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.9939   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3218   -1.9939    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.9878   -3.1463    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9878   -0.8414    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.9939   -3.3218    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.1463   -3.9878    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8414   -3.9878    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    0.6660   -1.9939    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1463    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8414    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.1463    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+1281
+
+> <Formula>
+CN4O8
+
+> <FW>
+196.0327
+
+> <DSSTox_CID>
+1334
+
+> <DSSTox_RID>
+76089
+
+> <DSSTox_GSID>
+21334
+
+> <DSSTox_FileID_Sort>
+773
+
+> <TS_ChemName>
+Tetranitromethane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+509-14-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CN4O8
+
+> <STRUCTURE_MW>
+196.0327
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tetranitromethane
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])C([N+]([O-])=O)([N+](=O)[O-])[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])C([N+]([O-])=O)([N+](=O)[O-])[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

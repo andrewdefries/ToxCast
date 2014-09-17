@@ -1,0 +1,81 @@
+79-10-7
+ChemmineR-0915142007XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    3.4567   -1.9945    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <ID>
+28
+
+> <Formula>
+C3H4O2
+
+> <FW>
+72.0627
+
+> <DSSTox_CID>
+28
+
+> <DSSTox_RID>
+79425
+
+> <DSSTox_GSID>
+39229
+
+> <DSSTox_FileID_Sort>
+4107
+
+> <TS_ChemName>
+Acrylic acid
+
+> <TS_ChemName_Synonyms>
+Acrylic acid (2-Propenoic acid)
+
+> <TS_CASRN>
+79-10-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H4O2
+
+> <STRUCTURE_MW>
+72.0627
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+prop-2-enoic acid
+
+> <STRUCTURE_SMILES>
+C=CC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

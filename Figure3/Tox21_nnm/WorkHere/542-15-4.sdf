@@ -1,0 +1,93 @@
+542-15-4
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  2 V2000
+    2.3102   -2.1935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3102   -3.5236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -1.5226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -4.1828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.5236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1551   -0.1925    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.1629   -1.1376    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.8163   -2.2927    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.8338    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8328   -1.1084    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+14066
+
+> <Formula>
+C6H9N2O3
+
+> <FW>
+157.1467 (94.1339+63.0128)
+
+> <DSSTox_CID>
+29009
+
+> <DSSTox_RID>
+83273
+
+> <DSSTox_GSID>
+49083
+
+> <DSSTox_FileID_Sort>
+7948
+
+> <TS_ChemName>
+Anilinium nitrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+542-15-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H9N2O3
+
+> <STRUCTURE_MW>
+157.1467
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+aniline nitrate
+
+> <STRUCTURE_SMILES>
+O[N+]([O-])=O.[NH3+]c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

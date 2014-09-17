@@ -1,0 +1,111 @@
+22071-15-4
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    1.9969    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6625   -1.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9937   -1.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6507    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9819    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6475   -1.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9819   -2.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6507   -2.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6475   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9788   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6444   -4.6075    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6444   -2.3080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9819   -4.6075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9969   -2.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6625   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9969   -4.6075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6656   -4.6075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6656   -2.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+741
+
+> <Formula>
+C16H14O3
+
+> <FW>
+254.2806
+
+> <DSSTox_CID>
+771
+
+> <DSSTox_RID>
+75783
+
+> <DSSTox_GSID>
+20771
+
+> <DSSTox_FileID_Sort>
+467
+
+> <TS_ChemName>
+Ketoprofen
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+22071-15-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H14O3
+
+> <STRUCTURE_MW>
+254.2806
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(3-benzoylphenyl)propanoic acid
+
+> <STRUCTURE_SMILES>
+CC(C(=O)O)c1cccc(c1)C(=O)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C(=O)O)c1cccc(c1)C(=O)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

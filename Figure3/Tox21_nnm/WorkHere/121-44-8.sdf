@@ -1,0 +1,85 @@
+121-44-8
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    3.9878   -3.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6558   -3.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6620   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9939    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6558   -1.1525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9939   -2.3049    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+3644
+
+> <Formula>
+C6H15N
+
+> <FW>
+101.19
+
+> <DSSTox_CID>
+4366
+
+> <DSSTox_RID>
+77381
+
+> <DSSTox_GSID>
+24366
+
+> <DSSTox_FileID_Sort>
+2064
+
+> <TS_ChemName>
+Triethylamine
+
+> <TS_ChemName_Synonyms>
+Triethylamine (Ethanamine, N,N-diethyl-)
+
+> <TS_CASRN>
+121-44-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H15N
+
+> <STRUCTURE_MW>
+101.19
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-diethylethanamine
+
+> <STRUCTURE_SMILES>
+CCN(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

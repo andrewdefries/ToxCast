@@ -1,0 +1,99 @@
+39512-50-0
+ChemmineR-0915142007XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    2.6582   -3.4557    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9937   -2.3060    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582   -1.1563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9937    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6646    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1563    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6646   -2.3060    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9873   -1.1563    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6519   -2.3060    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9810   -2.3060    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6456   -1.1563    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9810    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6519    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+16134
+
+> <Formula>
+C10H13ClN2
+
+> <FW>
+196.6766
+
+> <DSSTox_CID>
+31523
+
+> <DSSTox_RID>
+97408
+
+> <DSSTox_GSID>
+57734
+
+> <DSSTox_FileID_Sort>
+8475
+
+> <TS_ChemName>
+1-(2-Chlorophenyl)piperazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+39512-50-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13ClN2
+
+> <STRUCTURE_MW>
+196.6766
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(2-chlorophenyl)piperazine
+
+> <STRUCTURE_SMILES>
+Clc1ccccc1N2CCNCC2
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccccc1N2CCNCC2
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

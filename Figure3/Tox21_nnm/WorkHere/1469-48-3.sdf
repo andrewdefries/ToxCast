@@ -1,0 +1,99 @@
+1469-48-3
+ChemmineR-0915142007XD
+
+ 13 14  0  0  1  0  0  0  0  0  1 V2000
+    2.2844   -1.6171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2844   -3.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3324   -2.3168    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5540   -1.2557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5540   -3.3779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1121   -0.9823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1121   -3.6513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6171    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9664   -4.6336    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9664    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3029   -0.2548    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2705   -4.3324    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  6  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 13  1  6  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 10  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+8193
+
+> <Formula>
+C8H9NO2
+
+> <FW>
+151.1626
+
+> <DSSTox_CID>
+21220
+
+> <DSSTox_RID>
+79652
+
+> <DSSTox_GSID>
+41220
+
+> <DSSTox_FileID_Sort>
+4334
+
+> <TS_ChemName>
+cis-1,2,3,6-Tetrahydrophthalimide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1469-48-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H9NO2
+
+> <STRUCTURE_MW>
+151.1626
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3aR,7aS)-3a,4,7,7a-tetrahydro-1H-isoindole-1,3(2H)-dione
+
+> <STRUCTURE_SMILES>
+O=C1NC(=O)[C@@H]2CC=CC[C@H]12
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1NC(=O)[C@@H]2CC=CC[C@H]12
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

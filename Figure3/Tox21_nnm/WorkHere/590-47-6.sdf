@@ -1,0 +1,88 @@
+590-47-6
+ChemmineR-0915142007XD
+
+  9  7  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -2.3032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3241   -3.6274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3241   -0.9744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6669   -2.3032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3383   -1.1516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3241   -2.3032    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.6624   -1.1516    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6669    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.7066   -4.3454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+> <ID>
+14285
+
+> <Formula>
+C5H13NO3
+
+> <FW>
+135.1616 (117.1463+18.0153)
+
+> <DSSTox_CID>
+29381
+
+> <DSSTox_RID>
+83496
+
+> <DSSTox_GSID>
+49421
+
+> <DSSTox_FileID_Sort>
+8171
+
+> <TS_ChemName>
+Betaine monohydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+590-47-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H13NO3
+
+> <STRUCTURE_MW>
+135.1616
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(trimethylammonio)acetate hydrate (1:1)
+
+> <STRUCTURE_SMILES>
+O.C[N+](C)(C)CC([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(C)CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

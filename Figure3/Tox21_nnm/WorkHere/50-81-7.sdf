@@ -1,0 +1,96 @@
+50-81-7
+ChemmineR-0915142007XD
+
+ 12 12  0  0  1  0  0  0  0  0  1 V2000
+    3.5286   -1.7157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5913   -0.9308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9175   -2.9798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6610   -1.7157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2442   -2.9798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1465   -4.0565    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0291   -4.0565    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9460   -1.2989    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2436   -1.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2503   -2.1810    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9727    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.7643    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  1  0  0  0
+  1  3  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  7  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  6  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+104
+
+> <Formula>
+C6H8O6
+
+> <FW>
+176.1241
+
+> <DSSTox_CID>
+106
+
+> <DSSTox_RID>
+75370
+
+> <DSSTox_GSID>
+20106
+
+> <DSSTox_FileID_Sort>
+54
+
+> <TS_ChemName>
+L-Ascorbic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+50-81-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H8O6
+
+> <STRUCTURE_MW>
+176.1241
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5R)-5-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxyfuran-2(5H)-one
+
+> <STRUCTURE_SMILES>
+OC=1C(=O)O[C@H]([C@@H](O)CO)C=1O
+
+> <STRUCTURE_SMILES_Desalt>
+OC=1C(=O)O[C@H]([C@@H](O)CO)C=1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

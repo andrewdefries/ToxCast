@@ -1,0 +1,98 @@
+4342-03-4
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.4374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9946   -1.5409    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7074   -0.2451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2623   -1.9612    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5091   -2.3604    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7768   -2.7736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8695   -1.9892    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9411   -2.7736    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5209   -4.0414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1901   -4.0414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8695   -0.6584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7138    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0042    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <ID>
+359
+
+> <Formula>
+C6H10N6O
+
+> <FW>
+182.1832
+
+> <DSSTox_CID>
+369
+
+> <DSSTox_RID>
+75545
+
+> <DSSTox_GSID>
+20369
+
+> <DSSTox_FileID_Sort>
+229
+
+> <TS_ChemName>
+Dacarbazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4342-03-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10N6O
+
+> <STRUCTURE_MW>
+182.1832
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(3,3-dimethyltriaz-1-en-1-yl)-1H-imidazole-5-carboxamide
+
+> <STRUCTURE_SMILES>
+CN(C)/N=N/c1ncnc1C(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)/N=N/c1ncnc1C(N)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

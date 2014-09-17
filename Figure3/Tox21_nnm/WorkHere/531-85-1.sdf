@@ -1,0 +1,103 @@
+531-85-1
+ChemmineR-0915142007XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    3.9963   -1.1458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3190   -1.1458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9897    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3218    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9832   -1.1458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3218   -2.3009    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9897   -2.3009    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3153   -1.1458    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3256   -2.3009    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9935   -2.3009    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3321   -1.1458    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9935    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3256    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1458    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7541   -3.3628    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5519   -3.3628    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+135
+
+> <Formula>
+C12H14Cl2N2
+
+> <FW>
+257.1590 (184.2371+36.4609+36.4609)
+
+> <DSSTox_CID>
+138
+
+> <DSSTox_RID>
+75391
+
+> <DSSTox_GSID>
+20138
+
+> <DSSTox_FileID_Sort>
+75
+
+> <TS_ChemName>
+Benzidine dihydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+531-85-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [92-87-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H14Cl2N2
+
+> <STRUCTURE_MW>
+257.159
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+biphenyl-4,4'-diamine dihydrochloride
+
+> <STRUCTURE_SMILES>
+Cl.Cl.Nc1ccc(cc1)c2ccc(N)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1)c2ccc(N)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

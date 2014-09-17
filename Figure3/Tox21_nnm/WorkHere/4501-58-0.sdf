@@ -1,0 +1,94 @@
+4501-58-0
+ChemmineR-0915142007XD
+
+ 11 11  0  0  1  0  0  0  0  0  1 V2000
+    3.4124   -1.2667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3395   -2.0488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2528   -1.2805    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6473   -0.0138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9832    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6550   -0.7683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9216   -1.1698    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6790   -1.6681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0109   -3.2047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6820   -3.2047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+10407
+
+> <Formula>
+C10H16O
+
+> <FW>
+152.2334
+
+> <DSSTox_CID>
+24756
+
+> <DSSTox_RID>
+80449
+
+> <DSSTox_GSID>
+44756
+
+> <DSSTox_FileID_Sort>
+5131
+
+> <TS_ChemName>
+[(1R)-2,2,3-Trimethylcyclopent-3-en-1-yl]acetaldehyde
+
+> <TS_ChemName_Synonyms>
+[(1R)-2,2,3-Trimethylcyclopent-3-en-1-yl]acetaldehyde (3-Cyclopentene-1-acetaldehyde, 2,2,3-trimethyl-, (1R)-)
+
+> <TS_CASRN>
+4501-58-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16O
+
+> <STRUCTURE_MW>
+152.2334
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+[(1R)-2,2,3-trimethylcyclopent-3-en-1-yl]acetaldehyde
+
+> <STRUCTURE_SMILES>
+CC1(C)C(C)=CC[C@@H]1CC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC1(C)C(C)=CC[C@@H]1CC=O
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

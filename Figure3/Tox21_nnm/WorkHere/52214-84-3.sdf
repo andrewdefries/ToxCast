@@ -1,0 +1,109 @@
+52214-84-3
+ChemmineR-0915142007XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+   10.7602   -3.1958    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4474   -2.9698    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.2961   -2.3027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9618   -2.3027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2947   -3.4540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9712   -3.4540    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3041   -2.3027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9712   -1.1513    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2947   -1.1513    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9698   -2.3027    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -1.1513    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -1.8185    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -3.1420    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1513    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6355    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540   -0.4842    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.4474   -1.6355    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9955   -4.2180    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 17  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+321
+
+> <Formula>
+C13H14Cl2O3
+
+> <FW>
+289.1545
+
+> <DSSTox_CID>
+331
+
+> <DSSTox_RID>
+75519
+
+> <DSSTox_GSID>
+20331
+
+> <DSSTox_FileID_Sort>
+203
+
+> <TS_ChemName>
+Ciprofibrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+52214-84-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H14Cl2O3
+
+> <STRUCTURE_MW>
+289.1545
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[4-(2,2-dichlorocyclopropyl)phenoxy]-2-methylpropanoic acid
+
+> <STRUCTURE_SMILES>
+ClC2(Cl)CC2c1ccc(OC(C)(C)C(=O)O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+ClC2(Cl)CC2c1ccc(OC(C)(C)C(=O)O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

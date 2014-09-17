@@ -1,0 +1,93 @@
+78-69-3
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.1362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8099    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -1.1536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3004   -0.4836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540   -1.1536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6077   -0.4836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7544   -1.1536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7544   -2.4800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4974    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8237   -2.3073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9080   -0.4836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+M  END
+> <ID>
+5798
+
+> <Formula>
+C10H22O
+
+> <FW>
+158.2811
+
+> <DSSTox_CID>
+9110
+
+> <DSSTox_RID>
+78670
+
+> <DSSTox_GSID>
+29110
+
+> <DSSTox_FileID_Sort>
+3352
+
+> <TS_ChemName>
+3,7-Dimethyl-3-octanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+78-69-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H22O
+
+> <STRUCTURE_MW>
+158.2811
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,7-dimethyloctan-3-ol
+
+> <STRUCTURE_SMILES>
+CCC(C)(O)CCCC(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(C)(O)CCCC(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

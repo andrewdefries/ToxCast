@@ -1,0 +1,87 @@
+142-62-1
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -1.3339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3015   -1.9974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558   -1.3339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6100   -1.9974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7573   -1.3339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9115   -1.9974    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7573    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <ID>
+1544
+
+> <Formula>
+C6H12O2
+
+> <FW>
+116.1583
+
+> <DSSTox_CID>
+1607
+
+> <DSSTox_RID>
+76233
+
+> <DSSTox_GSID>
+21607
+
+> <DSSTox_FileID_Sort>
+917
+
+> <TS_ChemName>
+Hexanoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+142-62-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O2
+
+> <STRUCTURE_MW>
+116.1583
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexanoic acid
+
+> <STRUCTURE_SMILES>
+CCCCCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

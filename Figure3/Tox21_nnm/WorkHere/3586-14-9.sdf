@@ -1,0 +1,101 @@
+3586-14-9
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    6.9103   -0.6693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9103   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7572   -2.6609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6041   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6041   -0.6693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7572    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0633    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4430    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2900   -0.6693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2900   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531   -2.6609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+5229
+
+> <Formula>
+C13H12O
+
+> <FW>
+184.2338
+
+> <DSSTox_CID>
+7537
+
+> <DSSTox_RID>
+78495
+
+> <DSSTox_GSID>
+27537
+
+> <DSSTox_FileID_Sort>
+3178
+
+> <TS_ChemName>
+1-Methyl-3-phenoxybenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3586-14-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H12O
+
+> <STRUCTURE_MW>
+184.2338
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methyl-3-phenoxybenzene
+
+> <STRUCTURE_SMILES>
+Cc2cc(Oc1ccccc1)ccc2
+
+> <STRUCTURE_SMILES_Desalt>
+Cc2cc(Oc1ccccc1)ccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

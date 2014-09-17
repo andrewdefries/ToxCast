@@ -1,0 +1,95 @@
+470-82-6
+ChemmineR-0915142007XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    1.5616    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1703   -2.4213    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0134   -2.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0825    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6322   -4.1531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9893   -2.2842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5616   -1.6114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1730   -2.1472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3308   -2.9529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9893   -0.4818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4818   -1.0300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+591
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+616
+
+> <DSSTox_RID>
+75692
+
+> <DSSTox_GSID>
+20616
+
+> <DSSTox_FileID_Sort>
+376
+
+> <TS_ChemName>
+1,8-Cineol
+
+> <TS_ChemName_Synonyms>
+1,8-Cineol (Eucalyptol) (Cineole)
+
+> <TS_CASRN>
+470-82-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+Cineole; stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane
+
+> <STRUCTURE_SMILES>
+CC2(C)OC1(C)CCC2CC1
+
+> <STRUCTURE_SMILES_Desalt>
+CC2(C)OC1(C)CCC2CC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

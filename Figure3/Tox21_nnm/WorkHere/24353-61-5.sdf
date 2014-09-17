@@ -1,0 +1,108 @@
+24353-61-5
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    4.6016   -3.9880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6016   -2.6560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4714   -4.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7883   -4.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3169   -3.9880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4714   -5.9821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -4.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3169   -6.6440    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -5.9821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3169   -2.6560    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -1.9940    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4844   -3.1081    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8164   -0.8234    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3078    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9508   -3.9880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9508   -2.6560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0730   -4.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+8995
+
+> <Formula>
+C11H16NO4PS
+
+> <FW>
+289.2878
+
+> <DSSTox_CID>
+22063
+
+> <DSSTox_RID>
+79913
+
+> <DSSTox_GSID>
+42063
+
+> <DSSTox_FileID_Sort>
+4595
+
+> <TS_ChemName>
+Isocarbophos
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+24353-61-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H16NO4PS
+
+> <STRUCTURE_MW>
+289.2878
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+propan-2-yl 2-{[amino(methoxy)phosphorothioyl]oxy}benzoate
+
+> <STRUCTURE_SMILES>
+S=P(N)(Oc1ccccc1C(=O)OC(C)C)OC
+
+> <STRUCTURE_SMILES_Desalt>
+S=P(N)(Oc1ccccc1C(=O)OC(C)C)OC
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,95 @@
+19525-59-8
+ChemmineR-0915142007XD
+
+ 12 11  0  0  0  0  0  0  0  0  2 V2000
+    5.9734   -2.3051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6426   -3.4618    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6426   -1.1567    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.9905   -1.1567    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6432   -2.3051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6603   -1.1567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9829   -2.3051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9829    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6527   -2.3051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6527    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2620   -1.9416    0.0000 K   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+5413
+
+> <Formula>
+C8H8KNO2
+
+> <FW>
+189.2529 (150.1552+39.0978)
+
+> <DSSTox_CID>
+7806
+
+> <DSSTox_RID>
+78576
+
+> <DSSTox_GSID>
+27806
+
+> <DSSTox_FileID_Sort>
+3259
+
+> <TS_ChemName>
+Glycine, N-phenyl-, monopotassium salt
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+19525-59-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [103-01-5]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8KNO2
+
+> <STRUCTURE_MW>
+189.2529
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+potassium (phenylamino)acetate
+
+> <STRUCTURE_SMILES>
+[K+].[O-]C(=O)CNc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CNc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

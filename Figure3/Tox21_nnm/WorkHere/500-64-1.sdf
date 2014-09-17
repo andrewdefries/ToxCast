@@ -1,0 +1,107 @@
+500-64-1
+ChemmineR-0915142007XD
+
+ 17 18  0  0  1  0  0  0  0  0  1 V2000
+    1.1292   -3.9843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1292   -2.6623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2951   -4.6361    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2951   -1.9738    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5902   -1.9738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4243   -2.6623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7194   -2.6623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4243   -3.9843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9738    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2951   -5.9581    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8853   -1.9738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8853   -0.6518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0328   -2.6623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1292   -6.6282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1804   -1.9738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0328    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1804   -0.6518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  8  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  5  1  1  0  0  0
+  5  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+6638
+
+> <Formula>
+C14H14O3
+
+> <FW>
+230.2592
+
+> <DSSTox_CID>
+13595
+
+> <DSSTox_RID>
+79087
+
+> <DSSTox_GSID>
+33595
+
+> <DSSTox_FileID_Sort>
+3769
+
+> <TS_ChemName>
+Kavain
+
+> <TS_ChemName_Synonyms>
+Kavain (Kawain)
+
+> <TS_CASRN>
+500-64-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H14O3
+
+> <STRUCTURE_MW>
+230.2592
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(6R)-4-methoxy-6-[(E)-2-phenylethenyl]-5,6-dihydro-2H-pyran-2-one
+
+> <STRUCTURE_SMILES>
+O=C2C=C(C[C@H](/C=C/c1ccccc1)O2)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2C=C(C[C@H](/C=C/c1ccccc1)O2)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

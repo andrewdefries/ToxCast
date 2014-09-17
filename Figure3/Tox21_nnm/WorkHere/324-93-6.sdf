@@ -1,0 +1,101 @@
+324-93-6
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    9.3153   -1.1458    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9832   -1.1458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3218   -2.3009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9897   -2.3009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3190   -1.1458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9897    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3218    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9963   -1.1458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3256   -2.3009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9935   -2.3009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3321   -1.1458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9935    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3256    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1458    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+606
+
+> <Formula>
+C12H10FN
+
+> <FW>
+187.2129
+
+> <DSSTox_CID>
+631
+
+> <DSSTox_RID>
+75704
+
+> <DSSTox_GSID>
+20631
+
+> <DSSTox_FileID_Sort>
+388
+
+> <TS_ChemName>
+4'-Fluoro-4-aminodiphenyl
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+324-93-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10FN
+
+> <STRUCTURE_MW>
+187.2129
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4'-fluorobiphenyl-4-amine
+
+> <STRUCTURE_SMILES>
+Nc1ccc(cc1)c2ccc(F)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1)c2ccc(F)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,96 @@
+160415-07-6
+ChemmineR-0915142007XD
+
+ 12 12  0  0  1  0  0  0  0  0  1 V2000
+    0.6735   -3.1548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3257   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3257   -0.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4813    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6298   -0.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6298   -1.9992    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4813   -2.6586    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7854    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9339   -0.6735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9339   -1.9992    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0895    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  1  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+11113
+
+> <Formula>
+C8H15NO3
+
+> <FW>
+173.2096
+
+> <DSSTox_CID>
+25670
+
+> <DSSTox_RID>
+81045
+
+> <DSSTox_GSID>
+45670
+
+> <DSSTox_FileID_Sort>
+5726
+
+> <TS_ChemName>
+SCH 50911
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+160415-07-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H15NO3
+
+> <STRUCTURE_MW>
+173.2096
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+[(2S)-5,5-dimethylmorpholin-2-yl]acetic acid
+
+> <STRUCTURE_SMILES>
+CC1(C)NC[C@H](CC(=O)O)OC1
+
+> <STRUCTURE_SMILES_Desalt>
+CC1(C)NC[C@H](CC(=O)O)OC1
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

@@ -1,0 +1,94 @@
+98-51-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    3.9913   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261   -2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6521   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217   -2.6609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <ID>
+3821
+
+> <Formula>
+C11H16
+
+> <FW>
+148.2447
+
+> <DSSTox_CID>
+4704
+
+> <DSSTox_RID>
+77507
+
+> <DSSTox_GSID>
+24704
+
+> <DSSTox_FileID_Sort>
+2190
+
+> <TS_ChemName>
+4-tert-Butyltoluene
+
+> <TS_ChemName_Synonyms>
+4-tert-Butyltoluene (Benzene, 1-(1,1-dimethylethyl)-4-methyl-)
+
+> <TS_CASRN>
+98-51-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H16
+
+> <STRUCTURE_MW>
+148.2447
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-tert-butyl-4-methylbenzene
+
+> <STRUCTURE_SMILES>
+Cc1ccc(cc1)C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

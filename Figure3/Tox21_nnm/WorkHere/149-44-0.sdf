@@ -1,0 +1,82 @@
+149-44-0
+ChemmineR-0915142007XD
+
+  6  4  0  0  0  0  0  0  0  0  2 V2000
+    4.4882   -1.1504    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1572   -1.1504    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4969    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4969   -2.3060    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    5.1588    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3060    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+M  END
+> <ID>
+4942
+
+> <Formula>
+CH3NaO3S
+
+> <FW>
+118.0875 (95.0983+22.9892)
+
+> <DSSTox_CID>
+7120
+
+> <DSSTox_RID>
+78316
+
+> <DSSTox_GSID>
+27120
+
+> <DSSTox_FileID_Sort>
+2999
+
+> <TS_ChemName>
+Sodium hydroxymethanesulfinate
+
+> <TS_ChemName_Synonyms>
+Methanesulfinic acid, hydroxy-, monosodium salt
+
+> <TS_CASRN>
+149-44-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [79-25-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH3NaO3S
+
+> <STRUCTURE_MW>
+118.0875
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium hydroxymethanesulfinate
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]S(=O)CO
+
+> <STRUCTURE_SMILES_Desalt>
+OCS(=O)O
+
+> <Substance_modify_yyyymmdd>
+20110415
+
+$$$$

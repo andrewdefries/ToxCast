@@ -1,0 +1,118 @@
+53786-46-2
+ChemmineR-0915142007XD
+
+ 22 24  0  0  0  0  0  0  0  0  1 V2000
+    9.3766    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0733   -0.2813    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6607   -1.5378    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3667   -1.8191    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4760   -0.8345    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9542   -3.0849    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6508   -3.3568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2382   -4.6227    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1290   -5.6166    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.4324   -5.3353    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8449   -4.0695    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7164   -6.8731    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5041   -7.9514    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8356   -7.9514    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7164   -9.0297    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4600   -8.6171    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4600   -7.2856    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3067   -6.6199    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1533   -7.2856    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1533   -8.6171    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3067   -9.2829    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -9.2829    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+M  END
+> <ID>
+16165
+
+> <Formula>
+C15H18ClN3O3
+
+> <FW>
+323.7747
+
+> <DSSTox_CID>
+31555
+
+> <DSSTox_RID>
+97440
+
+> <DSSTox_GSID>
+57766
+
+> <DSSTox_FileID_Sort>
+8507
+
+> <TS_ChemName>
+Ethyl 4-(5-chloro-2,3-dihydro-2-oxo-1h-benzimidazol-2-yl)piperidine-1-carboxylate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+53786-46-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H18ClN3O3
+
+> <STRUCTURE_MW>
+323.7747
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 4-(5-chloro-2-oxo-2,3-dihydro-1H-benzimidazol-1-yl)piperidine-1-carboxylate
+
+> <STRUCTURE_SMILES>
+Clc2cc3NC(=O)N(C1CCN(CC1)C(=O)OCC)c3cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2cc3NC(=O)N(C1CCN(CC1)C(=O)OCC)c3cc2
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

@@ -1,0 +1,111 @@
+732-11-6
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    5.3390   -2.4857    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1127   -3.5593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1127   -1.4218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0021   -1.3251    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3701   -3.1531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3701   -1.8183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0042   -2.4664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3465   -1.3251    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0021    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6872   -0.1354    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6872   -4.8360    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6674   -1.3251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0021   -2.6598    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5211   -3.8205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5211   -1.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.1741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8608   -3.3175    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6720   -1.8377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6720   -3.1531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 15  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 19  2  0  0  0  0
+ 15 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+3589
+
+> <Formula>
+C11H12NO4PS2
+
+> <FW>
+317.321
+
+> <DSSTox_CID>
+4261
+
+> <DSSTox_RID>
+77345
+
+> <DSSTox_GSID>
+24261
+
+> <DSSTox_FileID_Sort>
+2028
+
+> <TS_ChemName>
+Phosmet
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+732-11-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H12NO4PS2
+
+> <STRUCTURE_MW>
+317.321
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+S-[(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl)methyl] O,O-dimethyl phosphorodithioate
+
+> <STRUCTURE_SMILES>
+COP(=S)(OC)SCN2C(=O)c1ccccc1C2=O
+
+> <STRUCTURE_SMILES_Desalt>
+COP(=S)(OC)SCN2C(=O)c1ccccc1C2=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,105 @@
+70-07-5
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1480    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -0.6704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4531   -2.6633    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7583   -2.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9705   -2.1215    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8614   -3.1133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1838   -2.9664    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2001   -4.2613    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8960   -3.9858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1480   -2.6633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1480   -3.9950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+2923
+
+> <Formula>
+C11H13NO4
+
+> <FW>
+223.2252
+
+> <DSSTox_CID>
+3255
+
+> <DSSTox_RID>
+76943
+
+> <DSSTox_GSID>
+23255
+
+> <DSSTox_FileID_Sort>
+1627
+
+> <TS_ChemName>
+Mephenoxalone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+70-07-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H13NO4
+
+> <STRUCTURE_MW>
+223.2252
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-[(2-methoxyphenoxy)methyl]-1,3-oxazolidin-2-one
+
+> <STRUCTURE_SMILES>
+COc2ccccc2OCC1CNC(=O)O1
+
+> <STRUCTURE_SMILES_Desalt>
+COc2ccccc2OCC1CNC(=O)O1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

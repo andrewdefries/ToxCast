@@ -1,0 +1,120 @@
+84-75-3
+ChemmineR-0915142007XD
+
+ 24 24  0  0  0  0  0  0  0  0  1 V2000
+    5.9936   -8.0589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6536   -9.2193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9936  -10.3690    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6629  -10.3690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9922   -9.2193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6614   -9.2193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9908   -8.0589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6600   -8.0589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.9091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9843   -9.2193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6550   -8.0589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9751   -8.0589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6458   -9.2193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9751  -10.3690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9843   -6.9091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6550   -5.7594    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6536   -6.9091    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9936   -5.7594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6536   -4.6096    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9936   -3.4492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6536   -2.2995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9936   -1.1497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6536    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6550  -10.3690    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 24  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 24  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+M  END
+> <ID>
+3999
+
+> <Formula>
+C20H30O4
+
+> <FW>
+334.4498
+
+> <DSSTox_CID>
+5068
+
+> <DSSTox_RID>
+77649
+
+> <DSSTox_GSID>
+25068
+
+> <DSSTox_FileID_Sort>
+2332
+
+> <TS_ChemName>
+Dihexyl phthalate
+
+> <TS_ChemName_Synonyms>
+Dihexyl phthalate (Di(n-hexyl)phthalate) (1,2-Benzenedicarboxylic acid, dihexyl ester)
+
+> <TS_CASRN>
+84-75-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C20H30O4
+
+> <STRUCTURE_MW>
+334.4498
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dihexyl benzene-1,2-dicarboxylate
+
+> <STRUCTURE_SMILES>
+O=C(OCCCCCC)c1ccccc1C(=O)OCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCCCCCC)c1ccccc1C(=O)OCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

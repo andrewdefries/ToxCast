@@ -1,0 +1,89 @@
+77-99-6
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.6330    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064   -1.1532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4597   -0.4982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3045    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6129   -1.1532    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1532   -1.8267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9615   -2.3064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3064   -3.4597    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+4688
+
+> <Formula>
+C6H14O3
+
+> <FW>
+134.1736
+
+> <DSSTox_CID>
+6448
+
+> <DSSTox_RID>
+78116
+
+> <DSSTox_GSID>
+26448
+
+> <DSSTox_FileID_Sort>
+2799
+
+> <TS_ChemName>
+2-Ethyl-2-(hydroxymethyl)-1,3-propanediol
+
+> <TS_ChemName_Synonyms>
+2-Ethyl-2-(hydroxymethyl)-1,3-propanediol  (Trimethylolpropane)
+
+> <TS_CASRN>
+77-99-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O3
+
+> <STRUCTURE_MW>
+134.1736
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethyl-2-(hydroxymethyl)propane-1,3-diol
+
+> <STRUCTURE_SMILES>
+CCC(CO)(CO)CO
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(CO)(CO)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

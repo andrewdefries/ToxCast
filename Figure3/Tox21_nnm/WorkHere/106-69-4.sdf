@@ -1,0 +1,89 @@
+106-69-4
+ChemmineR-0915142007XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.1574    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3149   -0.6556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4723    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6216   -0.6556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7791    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9365   -0.6556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6556    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3149   -1.9911    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0940    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <ID>
+8197
+
+> <Formula>
+C6H14O3
+
+> <FW>
+134.1736
+
+> <DSSTox_CID>
+21224
+
+> <DSSTox_RID>
+79653
+
+> <DSSTox_GSID>
+41224
+
+> <DSSTox_FileID_Sort>
+4335
+
+> <TS_ChemName>
+1,2,6-Hexanetriol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+106-69-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O3
+
+> <STRUCTURE_MW>
+134.1736
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexane-1,2,6-triol
+
+> <STRUCTURE_SMILES>
+OCCCCC(O)CO
+
+> <STRUCTURE_SMILES_Desalt>
+OCCCCC(O)CO
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

@@ -1,0 +1,91 @@
+51-17-2
+ChemmineR-0915142007XD
+
+  9 10  0  0  0  0  0  0  0  0  1 V2000
+    2.0448   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7831   -2.4059    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7831   -0.2523    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0448   -0.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1977    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3506   -0.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3506   -1.9926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1977   -2.6582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+3746
+
+> <Formula>
+C7H6N2
+
+> <FW>
+118.1359
+
+> <DSSTox_CID>
+4573
+
+> <DSSTox_RID>
+77454
+
+> <DSSTox_GSID>
+24573
+
+> <DSSTox_FileID_Sort>
+2137
+
+> <TS_ChemName>
+Benzimidazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+51-17-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6N2
+
+> <STRUCTURE_MW>
+118.1359
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1H-benzimidazole
+
+> <STRUCTURE_SMILES>
+c1cccc2ncnc12
+
+> <STRUCTURE_SMILES_Desalt>
+c1cccc2ncnc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

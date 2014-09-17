@@ -1,0 +1,123 @@
+68515-75-3
+ChemmineR-0915142007XD
+
+ 26 25  0  0  0  0  0  0  0  0  1 V2000
+   11.5383   -1.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2941   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5383    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2941   -3.3156    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3977   -1.9894    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4612   -1.3262    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1270   -1.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7054   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8194   -1.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9865   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2306   -1.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0635   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9230   -1.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7559   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6153   -1.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4482   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3077   -1.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1406   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6018   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7689   -1.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9094   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.0765   -1.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.2171   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3842   -1.3262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.5247   -1.9894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 20  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <ID>
+12642
+
+> <Formula>
+C22H42O4
+
+> <FW>
+370.5665
+
+> <DSSTox_CID>
+27517
+
+> <DSSTox_RID>
+82390
+
+> <DSSTox_GSID>
+47517
+
+> <DSSTox_FileID_Sort>
+7071
+
+> <TS_ChemName>
+Hexanedioic acid, di-C7-9-branched and linear alkyl esters
+
+> <TS_ChemName_Synonyms>
+Adipic acid heptylnonyl ester
+
+> <TS_CASRN>
+68515-75-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of heptylnonyl adipate, diheptyl adipate, dinonyl adipate; structure shown heptylnonyl adipate [86248-24-0]
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C22H42O4
+
+> <STRUCTURE_MW>
+370.5665
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+heptyl nonyl hexanedioate
+
+> <STRUCTURE_SMILES>
+O=C(OCCCCCCC)CCCCC(=O)OCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCCCCCCC)CCCCC(=O)OCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20100809
+
+$$$$

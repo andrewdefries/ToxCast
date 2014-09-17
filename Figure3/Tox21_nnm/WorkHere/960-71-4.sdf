@@ -1,0 +1,112 @@
+960-71-4
+ChemmineR-0915142007XD
+
+ 19 21  0  0  0  0  0  0  0  0  1 V2000
+    4.0035   -3.4572    0.0000 B   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6759   -3.4572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9983   -4.6120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9983   -2.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6707   -4.6120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6707   -2.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6604   -4.6120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9880   -4.6120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0035   -5.7598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6587   -5.7598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6604   -6.9145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9880   -6.9145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6604   -2.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0035   -1.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9880   -2.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6604    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6587   -1.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9880    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+5094
+
+> <Formula>
+C18H15B
+
+> <FW>
+242.1227
+
+> <DSSTox_CID>
+7345
+
+> <DSSTox_RID>
+78418
+
+> <DSSTox_GSID>
+27345
+
+> <DSSTox_FileID_Sort>
+3101
+
+> <TS_ChemName>
+Triphenylborane
+
+> <TS_ChemName_Synonyms>
+Borane, triphenyl-
+
+> <TS_CASRN>
+960-71-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H15B
+
+> <STRUCTURE_MW>
+242.1227
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+triphenylborane
+
+> <STRUCTURE_SMILES>
+c1ccccc1B(c2ccccc2)c3ccccc3
+
+> <STRUCTURE_SMILES_Desalt>
+c1ccccc1B(c2ccccc2)c3ccccc3
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

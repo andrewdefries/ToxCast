@@ -1,0 +1,96 @@
+33089-74-6
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.3045   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1523   -1.3295    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4568   -1.3295    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9054   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9054   -3.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7532   -3.9886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6009   -3.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6009   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7532   -1.3295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7532    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0577   -3.9886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+7401
+
+> <Formula>
+C10H14N2
+
+> <FW>
+162.2316
+
+> <DSSTox_CID>
+17696
+
+> <DSSTox_RID>
+79355
+
+> <DSSTox_GSID>
+37696
+
+> <DSSTox_FileID_Sort>
+4037
+
+> <TS_ChemName>
+N'-(2,4-Dimethylphenyl)-N-methylformamidine
+
+> <TS_ChemName_Synonyms>
+N'-(2,4-Dimethylphenyl)-N-methylformamidine (CL697925)
+
+> <TS_CASRN>
+33089-74-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14N2
+
+> <STRUCTURE_MW>
+162.2316
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N'-(2,4-dimethylphenyl)-N-methylimidoformamide
+
+> <STRUCTURE_SMILES>
+Cc1ccc(\N=C\NC)c(C)c1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(\N=C\NC)c(C)c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,84 @@
+96-45-7
+ChemmineR-0915142007XD
+
+  6  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.0738    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.0738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1104    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3767   -0.4086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3767   -1.7390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1104   -2.1509    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+576
+
+> <Formula>
+C3H6N2S
+
+> <FW>
+102.1581
+
+> <DSSTox_CID>
+601
+
+> <DSSTox_RID>
+75682
+
+> <DSSTox_GSID>
+20601
+
+> <DSSTox_FileID_Sort>
+366
+
+> <TS_ChemName>
+Ethylene thiourea
+
+> <TS_ChemName_Synonyms>
+Ethylene thiourea (ETU)
+
+> <TS_CASRN>
+96-45-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H6N2S
+
+> <STRUCTURE_MW>
+102.1581
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+imidazolidine-2-thione
+
+> <STRUCTURE_SMILES>
+S=C1NCCN1
+
+> <STRUCTURE_SMILES_Desalt>
+S=C1NCCN1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,96 @@
+61516-73-2
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    7.2690    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7727   -1.8428    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1577   -1.8428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3075   -1.1734    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4652   -1.8428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4652   -3.1738    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6229   -1.1734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9934   -1.2994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9223   -3.1580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8754   -2.2917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2139   -3.4337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+16184
+
+> <Formula>
+C8H13NO3
+
+> <FW>
+171.1937
+
+> <DSSTox_CID>
+31574
+
+> <DSSTox_RID>
+97459
+
+> <DSSTox_GSID>
+57785
+
+> <DSSTox_FileID_Sort>
+8526
+
+> <TS_ChemName>
+Ethyl 2-oxopyrrolidin-2-ylacetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+61516-73-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H13NO3
+
+> <STRUCTURE_MW>
+171.1937
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl (2-oxopyrrolidin-1-yl)acetate
+
+> <STRUCTURE_SMILES>
+O=C(OCC)CN1CCCC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)CN1CCCC1=O
+
+> <Substance_modify_yyyymmdd>
+20131018
+
+$$$$

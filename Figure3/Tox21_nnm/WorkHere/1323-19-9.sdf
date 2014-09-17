@@ -1,0 +1,120 @@
+1323-19-9
+ChemmineR-0915142007XD
+
+ 24 24  0  0  0  0  0  0  0  0  2 V2000
+    1.2995   -0.1567    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    4.5991   -3.3180    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5991   -4.6452    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4470   -2.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4470   -5.3180    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7511   -5.3180    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7511   -2.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9124   -3.3180    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9124   -4.6452    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2949   -4.6452    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2949   -3.3180    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7511   -1.3272    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    7.0875   -1.3272    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4240   -1.3272    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    5.7511    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0645   -2.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0645   -1.3272    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2166   -3.3180    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7511   -6.6544    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9124   -7.3087    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5991   -7.3087    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1336   -2.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1336   -1.3272    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3180    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 10  2  0  0  0  0
+  6  9  2  0  0  0  0
+  6 19  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+M  END
+> <ID>
+10191
+
+> <Formula>
+C19H25NaO3S
+
+> <FW>
+356.4548 (22.9892+333.4655)
+
+> <DSSTox_CID>
+24537
+
+> <DSSTox_RID>
+80300
+
+> <DSSTox_GSID>
+44537
+
+> <DSSTox_FileID_Sort>
+4982
+
+> <TS_ChemName>
+Sodium 2,4,7-tri(propan-2-yl)naphthalene-1-sulfonate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1323-19-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+location of substituents unknown; mixture of isomers and other synthetic byproducts; structure shown sodium 2,4,7-tri(propan-2-yl)naphthalene-1-sulfonate
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C19H25NaO3S
+
+> <STRUCTURE_MW>
+356.4548
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 2,4,7-tri(propan-2-yl)naphthalene-1-sulfonate
+
+> <STRUCTURE_SMILES>
+[Na+].CC(C)c1cc2c(cc1)c(cc(C(C)C)c2S([O-])(=O)=O)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)c1cc2c(cc1)c(cc(C(C)C)c2S(=O)(=O)O)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

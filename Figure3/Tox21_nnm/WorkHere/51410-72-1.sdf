@@ -1,0 +1,98 @@
+51410-72-1
+ChemmineR-0915142007XD
+
+ 14 12  0  0  0  0  0  0  0  0  2 V2000
+    4.3301   -1.9907    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4772   -1.3271    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6357   -1.9907    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1716   -1.3271    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    2.4968   -2.4856    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8239   -0.1800    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0132   -0.6748    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.7716   -1.3271    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9188   -1.9907    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.0885   -1.3271    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.0885    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.2469   -1.9907    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9188   -3.3178    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8548    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+10334
+
+> <Formula>
+C10H21ClN2O
+
+> <FW>
+220.7395 (185.2860+35.4535)
+
+> <DSSTox_CID>
+24682
+
+> <DSSTox_RID>
+80394
+
+> <DSSTox_GSID>
+44682
+
+> <DSSTox_FileID_Sort>
+5076
+
+> <TS_ChemName>
+N,N,N-Trimethyl-3-[(2-methylacryloyl)amino]propan-1-aminium chloride
+
+> <TS_ChemName_Synonyms>
+N,N,N-Trimethyl-3-[(2-methylacryloyl)amino]propan-1-aminium chloride (1-Propanaminium, N,N,N-trimethyl-3-[(2-methyl-1-oxo-2-propenyl)amino]-, chloride)
+
+> <TS_CASRN>
+51410-72-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [51441-64-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H21ClN2O
+
+> <STRUCTURE_MW>
+220.7395
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+N,N,N-trimethyl-3-[(2-methylacryloyl)amino]propan-1-aminium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C[N+](C)(C)CCCNC(=O)C(=C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(C)CCCNC(=O)C(=C)C
+
+> <Substance_modify_yyyymmdd>
+20091116
+
+$$$$

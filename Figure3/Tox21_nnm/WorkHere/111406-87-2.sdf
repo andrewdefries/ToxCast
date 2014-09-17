@@ -1,0 +1,105 @@
+111406-87-2
+ChemmineR-0915142007XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    4.3522   -3.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6802   -3.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3480   -4.6055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3480   -2.3028    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6759   -2.3028    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6802   -1.1514    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3522   -1.1514    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3480    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5693   -2.3795    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028   -2.7864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3028   -4.1143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5693   -4.5288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1514   -4.7821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7864    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1514   -2.1185    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 12  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+3352
+
+> <Formula>
+C11H12N2O2S
+
+> <FW>
+236.2902
+
+> <DSSTox_CID>
+3752
+
+> <DSSTox_RID>
+77185
+
+> <DSSTox_GSID>
+23752
+
+> <DSSTox_FileID_Sort>
+1868
+
+> <TS_ChemName>
+Zileuton
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+111406-87-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H12N2O2S
+
+> <STRUCTURE_MW>
+236.2902
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-[1-(1-benzothiophen-2-yl)ethyl]-1-hydroxyurea
+
+> <STRUCTURE_SMILES>
+NC(=O)N(O)C(C)c1cc2ccccc2s1
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)N(O)C(C)c1cc2ccccc2s1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

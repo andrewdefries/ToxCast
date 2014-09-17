@@ -1,0 +1,83 @@
+2941-64-2
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    3.4563    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -1.3318    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042   -1.9954    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -1.3318    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9954    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6084   -1.9954    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+4116
+
+> <Formula>
+C3H5ClOS
+
+> <FW>
+124.5892
+
+> <DSSTox_CID>
+5278
+
+> <DSSTox_RID>
+77724
+
+> <DSSTox_GSID>
+25278
+
+> <DSSTox_FileID_Sort>
+2407
+
+> <TS_ChemName>
+S-Ethyl chlorothioformic acid
+
+> <TS_ChemName_Synonyms>
+S-(ethyl)chlorothioformic acid
+
+> <TS_CASRN>
+2941-64-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H5ClOS
+
+> <STRUCTURE_MW>
+124.5892
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+S-ethyl carbonochloridothioate
+
+> <STRUCTURE_SMILES>
+ClC(=O)SCC
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(=O)SCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,83 @@
+75-86-5
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.3284   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6608   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3284   -3.9892    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3284   -1.3284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3284    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  3  0  0  0  0
+M  END
+> <ID>
+4189
+
+> <Formula>
+C4H7NO
+
+> <FW>
+85.1045
+
+> <DSSTox_CID>
+5427
+
+> <DSSTox_RID>
+77782
+
+> <DSSTox_GSID>
+25427
+
+> <DSSTox_FileID_Sort>
+2465
+
+> <TS_ChemName>
+2-Hydroxy-2-methylpropanenitrile
+
+> <TS_ChemName_Synonyms>
+2-Hydroxy-2-methylpropanenitrile (Acetone cyanohydrin)
+
+> <TS_CASRN>
+75-86-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H7NO
+
+> <STRUCTURE_MW>
+85.1045
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-hydroxy-2-methylpropanenitrile
+
+> <STRUCTURE_SMILES>
+N#CC(C)(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+N#CC(C)(C)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,92 @@
+874-23-7
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    1.9951   -4.6076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9951    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6635    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6586   -1.1519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6586   -3.4557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9951   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6635   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9902   -3.4557    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4557    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <ID>
+14229
+
+> <Formula>
+C8H12O2
+
+> <FW>
+140.1797
+
+> <DSSTox_CID>
+29324
+
+> <DSSTox_RID>
+83440
+
+> <DSSTox_GSID>
+49365
+
+> <DSSTox_FileID_Sort>
+8115
+
+> <TS_ChemName>
+Cyclohexanone,2-acetyl-
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+874-23-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12O2
+
+> <STRUCTURE_MW>
+140.1797
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-acetylcyclohexanone
+
+> <STRUCTURE_SMILES>
+O=C1CCCCC1C(=O)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCCCC1C(=O)C
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

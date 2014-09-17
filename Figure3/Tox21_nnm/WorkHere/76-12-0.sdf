@@ -1,0 +1,87 @@
+76-12-0
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3283    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283   -1.3283    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283   -2.6606    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6606   -2.6606    0.0000 F    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283   -3.9889    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6606    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6606   -1.3283    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+> <ID>
+4540
+
+> <Formula>
+C2Cl4F2
+
+> <FW>
+203.8302
+
+> <DSSTox_CID>
+6091
+
+> <DSSTox_RID>
+78014
+
+> <DSSTox_GSID>
+26091
+
+> <DSSTox_FileID_Sort>
+2697
+
+> <TS_ChemName>
+1,2-Difluoro-1,1,2,2-tetrachloroethane
+
+> <TS_ChemName_Synonyms>
+1,2-Difluoro-1,1,2,2-tetrachloroethane (1,1,2,2-Tetrachloro-1,2-difluoroethane)
+
+> <TS_CASRN>
+76-12-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2Cl4F2
+
+> <STRUCTURE_MW>
+203.8302
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1,2,2-tetrachloro-1,2-difluoroethane
+
+> <STRUCTURE_SMILES>
+ClC(Cl)(F)C(Cl)(Cl)F
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)(F)C(Cl)(Cl)F
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

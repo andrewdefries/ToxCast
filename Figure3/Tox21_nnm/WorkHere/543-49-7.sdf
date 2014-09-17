@@ -1,0 +1,87 @@
+543-49-7
+ChemmineR-0915142007XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1774   -0.6816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2928    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4427   -0.6816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6063    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7561   -0.6816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8853    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1774   -1.9830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+12306
+
+> <Formula>
+C7H16O
+
+> <FW>
+116.2013
+
+> <DSSTox_CID>
+27158
+
+> <DSSTox_RID>
+82159
+
+> <DSSTox_GSID>
+47158
+
+> <DSSTox_FileID_Sort>
+6840
+
+> <TS_ChemName>
+2-Heptanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+543-49-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H16O
+
+> <STRUCTURE_MW>
+116.2013
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+heptan-2-ol
+
+> <STRUCTURE_SMILES>
+CC(O)CCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)CCCCC
+
+> <Substance_modify_yyyymmdd>
+20100502
+
+$$$$

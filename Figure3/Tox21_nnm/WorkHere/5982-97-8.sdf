@@ -1,0 +1,93 @@
+5982-97-8
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    3.4446   -1.3349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6135   -1.9920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7410   -1.3349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9168   -1.9920    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4446    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3033   -1.9920    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1274   -1.3349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1274    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9920    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6135   -3.3270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7617   -4.0048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  2  3  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+14008
+
+> <Formula>
+C7H12N2O2
+
+> <FW>
+156.1824
+
+> <DSSTox_CID>
+28950
+
+> <DSSTox_RID>
+83215
+
+> <DSSTox_GSID>
+49024
+
+> <DSSTox_FileID_Sort>
+7891
+
+> <TS_ChemName>
+1-(2-Ethylcrotonoyl)urea
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5982-97-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C7H12N2O2
+
+> <STRUCTURE_MW>
+156.1824
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-carbamoyl-2-ethylbut-2-enamide
+
+> <STRUCTURE_SMILES>
+CCC(=CC)C(=O)NC(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(=CC)C(=O)NC(N)=O
+
+> <Substance_modify_yyyymmdd>
+20111204
+
+$$$$

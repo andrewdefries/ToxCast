@@ -1,0 +1,99 @@
+1118-39-4
+ChemmineR-0915142007XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    6.2338   -0.1867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9080   -1.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6157   -1.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4644   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3130   -1.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0593   -0.6638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5718   -2.4790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3130    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2107   -1.3277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2107   -2.6657    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3724   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7  8  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+12558
+
+> <Formula>
+C12H20O2
+
+> <FW>
+196.286
+
+> <DSSTox_CID>
+27416
+
+> <DSSTox_RID>
+82330
+
+> <DSSTox_GSID>
+47416
+
+> <DSSTox_FileID_Sort>
+7011
+
+> <TS_ChemName>
+2-methyl-6-methylideneoct-7-en-2-yl acetate
+
+> <TS_ChemName_Synonyms>
+2-methyl-6-methylideneoct-7-en-2-yl acetate (Pseudo linalyl acetate)
+
+> <TS_CASRN>
+1118-39-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H20O2
+
+> <STRUCTURE_MW>
+196.286
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-6-methylideneoct-7-en-2-yl acetate
+
+> <STRUCTURE_SMILES>
+C=CC(=C)CCCC(C)(C)OC(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(=C)CCCC(C)(C)OC(C)=O
+
+> <Substance_modify_yyyymmdd>
+20100618
+
+$$$$

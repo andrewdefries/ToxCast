@@ -1,0 +1,93 @@
+10042-59-8
+ChemmineR-0915142007XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    1.1576    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3153   -0.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4729    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6225   -0.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7801    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9378   -0.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0954    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6557    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3153   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4729   -2.6634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4729   -3.9829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+5932
+
+> <Formula>
+C10H22O
+
+> <FW>
+158.2811
+
+> <DSSTox_CID>
+9302
+
+> <DSSTox_RID>
+78756
+
+> <DSSTox_GSID>
+29302
+
+> <DSSTox_FileID_Sort>
+3438
+
+> <TS_ChemName>
+2-Propyl-1-heptanol
+
+> <TS_ChemName_Synonyms>
+2-Propylheptan-1-ol
+
+> <TS_CASRN>
+10042-59-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H22O
+
+> <STRUCTURE_MW>
+158.2811
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-propylheptan-1-ol
+
+> <STRUCTURE_SMILES>
+CCCCCC(CCC)CO
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCC(CCC)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

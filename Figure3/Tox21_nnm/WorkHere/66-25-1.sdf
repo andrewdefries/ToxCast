@@ -1,0 +1,85 @@
+66-25-1
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1548    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6122   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7601    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9149   -0.6638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+1541
+
+> <Formula>
+C6H12O
+
+> <FW>
+100.1589
+
+> <DSSTox_CID>
+1604
+
+> <DSSTox_RID>
+76231
+
+> <DSSTox_GSID>
+21604
+
+> <DSSTox_FileID_Sort>
+915
+
+> <TS_ChemName>
+Hexanal
+
+> <TS_ChemName_Synonyms>
+Hexanal (Hexaldehyde)
+
+> <TS_CASRN>
+66-25-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O
+
+> <STRUCTURE_MW>
+100.1589
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexanal
+
+> <STRUCTURE_SMILES>
+CCCCCC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

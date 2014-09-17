@@ -1,0 +1,114 @@
+98717-15-8
+ChemmineR-0915142007XD
+
+ 21 21  0  0  1  0  0  0  0  0  1 V2000
+    6.1331   -5.8671    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7543   -2.6596    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6018   -1.9906    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9068   -1.9906    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0592   -2.6596    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0592   -3.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9068   -4.6502    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7543   -3.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9068   -0.6609    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4574   -2.6596    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4574   -3.9893    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6018   -4.6502    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -1.9906    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -2.6596    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9906    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6609    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -0.6609    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -3.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -4.6502    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3049   -5.9800    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  4  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8 12  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 13 10  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <ID>
+13435
+
+> <Formula>
+C17H27ClN2O
+
+> <FW>
+310.8621 (36.4609+274.4011)
+
+> <DSSTox_CID>
+28353
+
+> <DSSTox_RID>
+82753
+
+> <DSSTox_GSID>
+48379
+
+> <DSSTox_FileID_Sort>
+7430
+
+> <TS_ChemName>
+Ropivacaine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+98717-15-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [84057-95-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H27ClN2O
+
+> <STRUCTURE_MW>
+310.8621
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(2S)-N-(2,6-dimethylphenyl)-1-propylpiperidine-2-carboxamide hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CCCN2CCCC[C@H]2C(=O)Nc1c(C)cccc1C
+
+> <STRUCTURE_SMILES_Desalt>
+CCCN2CCCC[C@H]2C(=O)Nc1c(C)cccc1C
+
+> <Substance_modify_yyyymmdd>
+20110812
+
+$$$$

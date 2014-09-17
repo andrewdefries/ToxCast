@@ -1,0 +1,101 @@
+645-49-8
+ChemmineR-0915142007XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    0.6650   -1.1571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -1.1571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6551   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9851   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6501   -2.3076    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9851   -1.1571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6551   -1.1571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+4516
+
+> <Formula>
+C14H12
+
+> <FW>
+180.2451
+
+> <DSSTox_CID>
+6049
+
+> <DSSTox_RID>
+77994
+
+> <DSSTox_GSID>
+26049
+
+> <DSSTox_FileID_Sort>
+2677
+
+> <TS_ChemName>
+cis-Stilbene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+645-49-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H12
+
+> <STRUCTURE_MW>
+180.2451
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1'-(Z)-ethene-1,2-diyldibenzene
+
+> <STRUCTURE_SMILES>
+C(=C\c1ccccc1)\c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+C(=C\c1ccccc1)\c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,83 @@
+4403-61-6
+ChemmineR-0915142007XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.9938   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3241   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3303   -3.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3303   -1.1506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6634    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  3  0  0  0  0
+M  END
+> <ID>
+4277
+
+> <Formula>
+C5H7N
+
+> <FW>
+81.1158
+
+> <DSSTox_CID>
+5577
+
+> <DSSTox_RID>
+77838
+
+> <DSSTox_GSID>
+25577
+
+> <DSSTox_FileID_Sort>
+2521
+
+> <TS_ChemName>
+2-Methyl-2-butenenitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+4403-61-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of Z [20068-02-4], E [30574-97-1] isomers; structure shown Z; stereochem
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C5H7N
+
+> <STRUCTURE_MW>
+81.1158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2Z)-2-methylbut-2-enenitrile
+
+> <STRUCTURE_SMILES>
+C\C=C(\C)C#N
+
+> <STRUCTURE_SMILES_Desalt>
+C\C=C(\C)C#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

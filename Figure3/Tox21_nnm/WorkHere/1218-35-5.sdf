@@ -1,0 +1,110 @@
+1218-35-5
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    4.6149   -1.9765    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3522   -3.3270    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9134   -1.9408    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6149   -3.3091    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4701   -1.3326    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9134   -3.3002    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3522   -1.9586    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4701   -3.9709    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7775   -1.3058    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1565   -1.5472    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -4.0514    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.1565   -3.7026    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4701    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7775   -3.9709    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.9436   -2.6652    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8513   -5.1783    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4651   -2.8977    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.7311    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.6378   -5.0978    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6 12  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 15  1  0  0  0  0
+M  END
+> <ID>
+10830
+
+> <Formula>
+C16H25ClN2
+
+> <FW>
+280.8361 (244.3752+36.4609)
+
+> <DSSTox_CID>
+25223
+
+> <DSSTox_RID>
+80760
+
+> <DSSTox_GSID>
+45223
+
+> <DSSTox_FileID_Sort>
+5441
+
+> <TS_ChemName>
+Xylometazoline hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1218-35-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [526-36-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H25ClN2
+
+> <STRUCTURE_MW>
+280.8361
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2-(4-tert-butyl-2,6-dimethylbenzyl)-4,5-dihydro-1H-imidazole hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CC(C)(C)c2cc(C)c(CC1=NCCN1)c(C)c2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c2cc(C)c(CC1=NCCN1)c(C)c2
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

@@ -1,0 +1,86 @@
+109-09-1
+ChemmineR-0915142007XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    1.9958   -2.3032    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3292   -1.1496    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9958    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9916   -1.1496    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1496    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -2.3032    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <ID>
+3862
+
+> <Formula>
+C5H4ClN
+
+> <FW>
+113.545
+
+> <DSSTox_CID>
+4810
+
+> <DSSTox_RID>
+77539
+
+> <DSSTox_GSID>
+24810
+
+> <DSSTox_FileID_Sort>
+2222
+
+> <TS_ChemName>
+2-Chloropyridine
+
+> <TS_ChemName_Synonyms>
+2-Chloropyridine (o-Chloropyridine)
+
+> <TS_CASRN>
+109-09-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H4ClN
+
+> <STRUCTURE_MW>
+113.545
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloropyridine
+
+> <STRUCTURE_SMILES>
+Clc1ccccn1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccccn1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

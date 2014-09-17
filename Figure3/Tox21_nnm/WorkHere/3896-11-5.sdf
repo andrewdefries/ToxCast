@@ -1,0 +1,118 @@
+3896-11-5
+ChemmineR-0915142007XD
+
+ 22 24  0  0  0  0  0  0  0  0  1 V2000
+    5.5102   -3.4466    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8399   -3.4466    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7231   -2.3722    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7231   -4.5210    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4995   -2.2871    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4995   -4.5954    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4466   -2.7870    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4466   -4.1167    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.8292   -2.2871    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8399   -1.1382    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.8292   -4.5954    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083   -2.1169    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083   -4.7763    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.4993   -3.4466    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.4993   -1.1382    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.4993   -5.7336    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1382   -2.7870    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1382   -4.1167    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6375   -1.8084    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.3292   -0.4787    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.1588    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.7763    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 17  2  0  0  0  0
+ 13 18  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 15 21  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 22  1  0  0  0  0
+M  END
+> <ID>
+7117
+
+> <Formula>
+C17H18ClN3O
+
+> <FW>
+315.7973
+
+> <DSSTox_CID>
+16438
+
+> <DSSTox_RID>
+79281
+
+> <DSSTox_GSID>
+36438
+
+> <DSSTox_FileID_Sort>
+3963
+
+> <TS_ChemName>
+Bumetrizole
+
+> <TS_ChemName_Synonyms>
+2-tert-butyl-6-(5-chloro-2H-benzotriazol-2-yl)-4-methylphenol (2-tert-Butyl-6-(5-chloro-2H-benzotriazol-2-yl)-p-cresol)
+
+> <TS_CASRN>
+3896-11-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H18ClN3O
+
+> <STRUCTURE_MW>
+315.7973
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-tert-butyl-6-(5-chloro-2H-benzotriazol-2-yl)-4-methylphenol
+
+> <STRUCTURE_SMILES>
+CC(C)(C)c1cc(C)cc(c1O)n2nc3ccc(Cl)cc3n2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c1cc(C)cc(c1O)n2nc3ccc(Cl)cc3n2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

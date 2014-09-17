@@ -1,0 +1,108 @@
+26750-81-2
+ChemmineR-0915142007XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    4.6242   -1.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7602   -2.6666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6242   -0.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7602   -3.9636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4480   -2.6666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6242   -4.6404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7924    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4480   -3.9636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4480    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1681   -3.9636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0161   -4.6404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9041   -1.9738    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9202   -4.6565    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3282   -4.6404    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2960   -0.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0562   -3.9959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  8  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+11727
+
+> <Formula>
+C13H17NO4
+
+> <FW>
+251.2784
+
+> <DSSTox_CID>
+26490
+
+> <DSSTox_RID>
+81661
+
+> <DSSTox_GSID>
+46490
+
+> <DSSTox_FileID_Sort>
+6342
+
+> <TS_ChemName>
+Alibendol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+26750-81-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H17NO4
+
+> <STRUCTURE_MW>
+251.2784
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-hydroxy-N-(2-hydroxyethyl)-3-methoxy-5-(prop-2-en-1-yl)benzamide
+
+> <STRUCTURE_SMILES>
+Oc1c(cc(cc1OC)CC=C)C(=O)NCCO
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1c(cc(cc1OC)CC=C)C(=O)NCCO
+
+> <Substance_modify_yyyymmdd>
+20110812
+
+$$$$

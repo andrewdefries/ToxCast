@@ -1,0 +1,87 @@
+1600-27-7
+ChemmineR-0915142007XD
+
+  9  6  0  0  0  0  0  0  0  0  2 V2000
+    3.7543   -1.7439    0.0000 Hg   0  2  0  0  0  0  0  0  0  0  0  0
+    6.9193   -1.4371    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9193   -0.1050    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7647   -2.0992    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    8.0738   -2.0992    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546   -1.3322    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3091   -1.9862    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9862    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <ID>
+9054
+
+> <Formula>
+C4H6HgO4
+
+> <FW>
+318.6780 (200.5889+59.0446+59.0446)
+
+> <DSSTox_CID>
+22123
+
+> <DSSTox_RID>
+79929
+
+> <DSSTox_GSID>
+42123
+
+> <DSSTox_FileID_Sort>
+4611
+
+> <TS_ChemName>
+Mercury(II) acetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1600-27-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6HgO4
+
+> <STRUCTURE_MW>
+318.678
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+mercury diacetate
+
+> <STRUCTURE_SMILES>
+[Hg+2].[O-]C(C)=O.[O-]C(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080825
+
+$$$$

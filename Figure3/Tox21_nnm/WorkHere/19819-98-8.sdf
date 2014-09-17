@@ -1,0 +1,92 @@
+19819-98-8
+ChemmineR-0915142007XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.7577   -1.3300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -2.0037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -3.9843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -3.3279    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6061   -2.0037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+12224
+
+> <Formula>
+C9H12O
+
+> <FW>
+136.191
+
+> <DSSTox_CID>
+27071
+
+> <DSSTox_RID>
+82086
+
+> <DSSTox_GSID>
+47071
+
+> <DSSTox_FileID_Sort>
+6767
+
+> <TS_ChemName>
+2-Methylphenethyl alcohol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+19819-98-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12O
+
+> <STRUCTURE_MW>
+136.191
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(2-methylphenyl)ethanol
+
+> <STRUCTURE_SMILES>
+OCCc1ccccc1C
+
+> <STRUCTURE_SMILES_Desalt>
+OCCc1ccccc1C
+
+> <Substance_modify_yyyymmdd>
+20100429
+
+$$$$

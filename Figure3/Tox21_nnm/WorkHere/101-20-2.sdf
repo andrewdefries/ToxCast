@@ -1,0 +1,111 @@
+101-20-2
+ChemmineR-0915142007XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    5.7600   -0.6682    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7600   -1.9929    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -2.6611    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -1.9929    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -2.6611    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9929    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6682    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -0.6682    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9120   -2.6611    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0640   -1.9929    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0640   -0.6682    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2159    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3679   -0.6682    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3679   -1.9929    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5199   -2.6611    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5199    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2159   -2.6611    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 19  2  0  0  0  0
+M  END
+> <ID>
+4598
+
+> <Formula>
+C13H9Cl3N2O
+
+> <FW>
+315.5824
+
+> <DSSTox_CID>
+6214
+
+> <DSSTox_RID>
+78062
+
+> <DSSTox_GSID>
+26214
+
+> <DSSTox_FileID_Sort>
+2745
+
+> <TS_ChemName>
+Triclocarban
+
+> <TS_ChemName_Synonyms>
+Triclocarban (Urea, N-(4-chlorophenyl)-N'-(3,4-dichlorophenyl)-)
+
+> <TS_CASRN>
+101-20-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H9Cl3N2O
+
+> <STRUCTURE_MW>
+315.5824
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(4-chlorophenyl)-3-(3,4-dichlorophenyl)urea
+
+> <STRUCTURE_SMILES>
+Clc2ccc(NC(=O)Nc1ccc(Cl)cc1)cc2Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2ccc(NC(=O)Nc1ccc(Cl)cc1)cc2Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

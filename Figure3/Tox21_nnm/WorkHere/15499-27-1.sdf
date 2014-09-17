@@ -1,0 +1,94 @@
+15499-27-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.1370   -0.6693    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2902    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4434   -0.6693    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4434   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2902   -2.6611    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1370   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6046   -2.6611    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7577   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9109   -2.6611    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0641   -1.9999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+13254
+
+> <Formula>
+C10H13Cl
+
+> <FW>
+168.6632
+
+> <DSSTox_CID>
+28167
+
+> <DSSTox_RID>
+82728
+
+> <DSSTox_GSID>
+48192
+
+> <DSSTox_FileID_Sort>
+7405
+
+> <TS_ChemName>
+4-Butylchlorobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+15499-27-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13Cl
+
+> <STRUCTURE_MW>
+168.6632
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-butyl-4-chlorobenzene
+
+> <STRUCTURE_SMILES>
+Clc1ccc(CCCC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(CCCC)cc1
+
+> <Substance_modify_yyyymmdd>
+20110831
+
+$$$$

@@ -1,0 +1,97 @@
+1646-87-3
+ChemmineR-0915142007XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    7.0040   -1.1814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6506   -1.1814    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5067   -0.5063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0040   -2.5597    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3159   -1.1814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8413   -0.5438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1947   -0.5063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1158   -1.8565    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6596    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9910   -2.3815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3761   -1.1814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1064   -2.9254    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  2  0  0  0  0
+M  END
+> <ID>
+6601
+
+> <Formula>
+C7H14N2O3S
+
+> <FW>
+206.2627
+
+> <DSSTox_CID>
+13161
+
+> <DSSTox_RID>
+79052
+
+> <DSSTox_GSID>
+33161
+
+> <DSSTox_FileID_Sort>
+3734
+
+> <TS_ChemName>
+Aldicarb sulfoxide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1646-87-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14N2O3S
+
+> <STRUCTURE_MW>
+206.2627
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5E)-7,7-dimethyl-4-oxa-8-thia-2,5-diazanon-5-en-3-one 8-oxide
+
+> <STRUCTURE_SMILES>
+CC(C)(\C=N\OC(=O)NC)S(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(\C=N\OC(=O)NC)S(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

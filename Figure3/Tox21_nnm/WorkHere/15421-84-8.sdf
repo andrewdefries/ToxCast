@@ -1,0 +1,103 @@
+15421-84-8
+ChemmineR-0915142007XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    5.9842   -2.0466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6557   -2.0466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9915   -3.1956    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6557   -4.3505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9842   -4.3505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6570   -3.1956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9928   -4.3505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6643   -4.3505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1956    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6643   -2.0466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2513   -0.7780    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3285    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4057   -0.7780    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9928   -2.0466    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.4995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+10933
+
+> <Formula>
+C10H15N5
+
+> <FW>
+205.2596
+
+> <DSSTox_CID>
+25416
+
+> <DSSTox_RID>
+80865
+
+> <DSSTox_GSID>
+45416
+
+> <DSSTox_FileID_Sort>
+5546
+
+> <TS_ChemName>
+Trapidil
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+15421-84-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H15N5
+
+> <STRUCTURE_MW>
+205.2596
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-diethyl-5-methyl[1,2,4]triazolo[1,5-a]pyrimidin-7-amine
+
+> <STRUCTURE_SMILES>
+CCN(CC)c1cc(C)nc2ncnn12
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)c1cc(C)nc2ncnn12
+
+> <Substance_modify_yyyymmdd>
+20100107
+
+$$$$

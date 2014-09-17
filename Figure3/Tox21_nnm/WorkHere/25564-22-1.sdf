@@ -1,0 +1,94 @@
+25564-22-1
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.2757   -1.2610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0426   -2.3302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2757   -3.4142    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7108    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3700   -2.3302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0558   -3.4953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3757   -3.4953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0468   -4.6457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3741   -4.6457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+5954
+
+> <Formula>
+C10H16O
+
+> <FW>
+152.2334
+
+> <DSSTox_CID>
+9331
+
+> <DSSTox_RID>
+78766
+
+> <DSSTox_GSID>
+29331
+
+> <DSSTox_FileID_Sort>
+3448
+
+> <TS_ChemName>
+2-Pentyl-2-cyclopenten-1-one
+
+> <TS_ChemName_Synonyms>
+2-Pentyl-2-cyclopenten-1-one (2-Pentyl-cyclopent-2-enone)
+
+> <TS_CASRN>
+25564-22-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16O
+
+> <STRUCTURE_MW>
+152.2334
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-pentylcyclopent-2-en-1-one
+
+> <STRUCTURE_SMILES>
+O=C1CCC=C1CCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCC=C1CCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

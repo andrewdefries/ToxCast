@@ -1,0 +1,96 @@
+2409-55-4
+ChemmineR-0915142007XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    1.8146   -3.8135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -2.6614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042   -1.9989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -1.9989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -2.6614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7606   -2.6614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4896   -1.5093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+208
+
+> <Formula>
+C11H16O
+
+> <FW>
+164.2441
+
+> <DSSTox_CID>
+212
+
+> <DSSTox_RID>
+75437
+
+> <DSSTox_GSID>
+20212
+
+> <DSSTox_FileID_Sort>
+121
+
+> <TS_ChemName>
+2-tert-Butyl-4-methylphenol
+
+> <TS_ChemName_Synonyms>
+2-tert-Butyl-4-methylphenol (2-(1,1-Dimethylethyl)-4-methyl-phenol) (Phenol, 2-(1,1-dimethylethyl)-4-methyl-)
+
+> <TS_CASRN>
+2409-55-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H16O
+
+> <STRUCTURE_MW>
+164.2441
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-tert-butyl-4-methylphenol
+
+> <STRUCTURE_SMILES>
+CC(C)(C)c1cc(C)ccc1O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c1cc(C)ccc1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

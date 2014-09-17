@@ -1,0 +1,94 @@
+2550-26-7
+ChemmineR-0915142007XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    5.7582    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7582   -1.3272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6107   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -1.3272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9126   -1.9977    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -1.3272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -3.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -3.9817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+6605
+
+> <Formula>
+C10H12O
+
+> <FW>
+148.2017
+
+> <DSSTox_CID>
+13241
+
+> <DSSTox_RID>
+79056
+
+> <DSSTox_GSID>
+33241
+
+> <DSSTox_FileID_Sort>
+3738
+
+> <TS_ChemName>
+Benzylacetone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2550-26-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12O
+
+> <STRUCTURE_MW>
+148.2017
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-phenylbutan-2-one
+
+> <STRUCTURE_SMILES>
+CC(=O)CCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)CCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

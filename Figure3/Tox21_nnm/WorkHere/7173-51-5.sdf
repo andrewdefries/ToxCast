@@ -1,0 +1,118 @@
+7173-51-5
+ChemmineR-0915142007XD
+
+ 24 22  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -5.7620    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3382   -5.7620    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    1.3382   -7.0844    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4874   -7.7614    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4874   -9.0838    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6367   -9.7450    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6367  -11.0832    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7859  -11.7444    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7859  -13.0825    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9352  -13.7437    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9352  -15.0662    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.0844  -15.7431    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6606   -5.7620    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3218   -4.5970    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6442   -4.5970    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3212   -3.4635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6593   -3.4635    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3048   -2.3142    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6430   -2.3142    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3199   -1.1492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6424   -1.1492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.3036    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3382   -4.4238    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1637   -7.0057    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 23  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <ID>
+6504
+
+> <Formula>
+C22H48ClN
+
+> <FW>
+362.0762 (326.6227+35.4535)
+
+> <DSSTox_CID>
+12537
+
+> <DSSTox_RID>
+78974
+
+> <DSSTox_GSID>
+32537
+
+> <DSSTox_FileID_Sort>
+3656
+
+> <TS_ChemName>
+Didecyldimethylammonium chloride
+
+> <TS_ChemName_Synonyms>
+Didecyl dimethyl ammonium chloride (1-Decanaminium, N-decyl-N,N-dimethyl-, chloride) (DDAC)
+
+> <TS_CASRN>
+7173-51-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [20256-56-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C22H48ClN
+
+> <STRUCTURE_MW>
+362.0762
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+N-decyl-N,N-dimethyldecan-1-aminium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C[N+](C)(CCCCCCCCCC)CCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(CCCCCCCCCC)CCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

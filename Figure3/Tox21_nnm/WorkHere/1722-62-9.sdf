@@ -1,0 +1,110 @@
+1722-62-9
+ChemmineR-0915142007XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    3.4333   -2.6515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5938   -2.0068    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7463   -2.6515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3130   -0.6609    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3130   -2.0068    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4333   -3.9974    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9230   -2.0068    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7463   -3.9974    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4333    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0594   -3.9974    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -2.6515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9230   -4.6583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0594   -2.6515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9230   -0.6609    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5938   -4.6583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6609    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0068    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4587   -3.7234    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 12  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 13  2  0  0  0  0
+  8 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+6341
+
+> <Formula>
+C15H23ClN2O
+
+> <FW>
+282.8089 (246.3480+36.4609)
+
+> <DSSTox_CID>
+11566
+
+> <DSSTox_RID>
+78885
+
+> <DSSTox_GSID>
+31566
+
+> <DSSTox_FileID_Sort>
+3567
+
+> <TS_ChemName>
+Mepivicaine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1722-62-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [96-88-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H23ClN2O
+
+> <STRUCTURE_MW>
+282.8089
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-(2,6-dimethylphenyl)-1-methylpiperidine-2-carboxamide hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.O=C(Nc1c(C)cccc1C)C2CCCCN2C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Nc1c(C)cccc1C)C2CCCCN2C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

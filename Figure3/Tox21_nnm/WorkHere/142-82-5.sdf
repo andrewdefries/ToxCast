@@ -1,0 +1,85 @@
+142-82-5
+ChemmineR-0915142007XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.1578    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7751    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6242   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3086   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4664    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9328   -0.6586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+3519
+
+> <Formula>
+C7H16
+
+> <FW>
+100.2019
+
+> <DSSTox_CID>
+4127
+
+> <DSSTox_RID>
+77301
+
+> <DSSTox_GSID>
+24127
+
+> <DSSTox_FileID_Sort>
+1984
+
+> <TS_ChemName>
+Heptane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+142-82-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H16
+
+> <STRUCTURE_MW>
+100.2019
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+heptane
+
+> <STRUCTURE_SMILES>
+CCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

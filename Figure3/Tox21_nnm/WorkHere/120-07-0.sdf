@@ -1,0 +1,98 @@
+120-07-0
+ChemmineR-0915142007XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    1.9954   -3.4587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6651   -3.4587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6651   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9954   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6606   -2.3080    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9909   -2.3080    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6560   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9863   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6514    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6560   -3.4587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9863   -3.4587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6514   -2.3080    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+1825
+
+> <Formula>
+C10H15NO2
+
+> <FW>
+181.2316
+
+> <DSSTox_CID>
+1962
+
+> <DSSTox_RID>
+76430
+
+> <DSSTox_GSID>
+21962
+
+> <DSSTox_FileID_Sort>
+1114
+
+> <TS_ChemName>
+N-Phenyldiethanolamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+120-07-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H15NO2
+
+> <STRUCTURE_MW>
+181.2316
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-(phenylimino)diethanol
+
+> <STRUCTURE_SMILES>
+OCCN(CCO)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+OCCN(CCO)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$
