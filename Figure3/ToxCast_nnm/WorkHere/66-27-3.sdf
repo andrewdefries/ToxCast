@@ -1,0 +1,83 @@
+66-27-3
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.8169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -1.1537    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8169   -2.3040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4870    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -0.4870    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4542   -1.1537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+811
+
+> <Formula>
+C2H6O3S
+
+> <FW>
+110.1322
+
+> <DSSTox_CID>
+845
+
+> <DSSTox_RID>
+75824
+
+> <DSSTox_GSID>
+20845
+
+> <DSSTox_FileID_Sort>
+508
+
+> <TS_ChemName>
+Methyl methanesulfonate
+
+> <TS_ChemName_Synonyms>
+Methyl methanesulfonate (MMS)
+
+> <TS_CASRN>
+66-27-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H6O3S
+
+> <STRUCTURE_MW>
+110.1322
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl methanesulfonate
+
+> <STRUCTURE_SMILES>
+CS(=O)(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CS(=O)(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

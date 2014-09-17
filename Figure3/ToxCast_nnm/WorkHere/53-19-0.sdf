@@ -1,0 +1,109 @@
+53-19-0
+ChemmineR-0914142331XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    3.4589    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6038   -0.6611    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6038   -1.9915    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567   -2.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9097   -1.9915    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0626   -2.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0626   -3.9910    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9097   -4.6521    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567   -3.9910    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9097   -0.6611    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4589   -2.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4589   -3.9910    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3059   -4.6521    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530   -3.9910    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530   -2.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3059   -1.9915    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6521    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+362
+
+> <Formula>
+C14H10Cl4
+
+> <FW>
+320.0412
+
+> <DSSTox_CID>
+372
+
+> <DSSTox_RID>
+75548
+
+> <DSSTox_GSID>
+20372
+
+> <DSSTox_FileID_Sort>
+232
+
+> <TS_ChemName>
+o,p'-DDD
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+53-19-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H10Cl4
+
+> <STRUCTURE_MW>
+320.0412
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-2-[2,2-dichloro-1-(4-chlorophenyl)ethyl]benzene
+
+> <STRUCTURE_SMILES>
+Clc2ccccc2C(C(Cl)Cl)c1ccc(Cl)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2ccccc2C(C(Cl)Cl)c1ccc(Cl)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

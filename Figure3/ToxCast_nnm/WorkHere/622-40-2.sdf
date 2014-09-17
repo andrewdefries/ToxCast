@@ -1,0 +1,90 @@
+622-40-2
+ChemmineR-0914142331XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -1.1548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -1.1548    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3194    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9836   -1.1548    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3194   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+1933
+
+> <Formula>
+C6H13NO2
+
+> <FW>
+131.1729
+
+> <DSSTox_CID>
+2090
+
+> <DSSTox_RID>
+76485
+
+> <DSSTox_GSID>
+22090
+
+> <DSSTox_FileID_Sort>
+1169
+
+> <TS_ChemName>
+4-(2-Hydroxyethyl)morpholine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+622-40-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H13NO2
+
+> <STRUCTURE_MW>
+131.1729
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(morpholin-4-yl)ethanol
+
+> <STRUCTURE_SMILES>
+OCCN1CCOCC1
+
+> <STRUCTURE_SMILES_Desalt>
+OCCN1CCOCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

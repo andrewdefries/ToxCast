@@ -1,0 +1,100 @@
+39905-57-2
+ChemmineR-0914142331XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+   11.3055   -3.4482    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9714   -3.4482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3044   -4.6013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9704   -4.6013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3146   -3.4482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9919   -3.4482    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3136   -2.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9908   -2.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3351   -1.1419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0011   -1.1419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3340    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9704   -2.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3044   -2.2950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+2123
+
+> <Formula>
+C12H19NO
+
+> <FW>
+193.2854
+
+> <DSSTox_CID>
+2288
+
+> <DSSTox_RID>
+76536
+
+> <DSSTox_GSID>
+22288
+
+> <DSSTox_FileID_Sort>
+1220
+
+> <TS_ChemName>
+4-Hexyloxyaniline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+39905-57-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H19NO
+
+> <STRUCTURE_MW>
+193.2854
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(hexyloxy)aniline
+
+> <STRUCTURE_SMILES>
+Nc1ccc(OCCCCCC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(OCCCCCC)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

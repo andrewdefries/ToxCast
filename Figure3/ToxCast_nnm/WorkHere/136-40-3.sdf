@@ -1,0 +1,106 @@
+136-40-3
+ChemmineR-0914142331XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    3.9867   -1.1482    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3169   -2.3070    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9880   -2.3070    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3289   -1.1482    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1482    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9880    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3169    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9867   -3.4552    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3156   -1.1482    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6445   -1.1482    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9734   -1.1482    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6326    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9615    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6312   -1.1482    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9615   -2.3070    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6326   -2.3070    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3043   -2.7535    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+1074
+
+> <Formula>
+C11H12ClN5
+
+> <FW>
+249.6995 (213.2385+36.4609)
+
+> <DSSTox_CID>
+1118
+
+> <DSSTox_RID>
+75950
+
+> <DSSTox_GSID>
+21118
+
+> <DSSTox_FileID_Sort>
+634
+
+> <TS_ChemName>
+Phenazopyridine hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+136-40-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [94-78-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H12ClN5
+
+> <STRUCTURE_MW>
+249.6995
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+3-(phenyldiazenyl)pyridine-2,6-diamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Nc2nc(N)ccc2/N=N/c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc2nc(N)ccc2/N=N/c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

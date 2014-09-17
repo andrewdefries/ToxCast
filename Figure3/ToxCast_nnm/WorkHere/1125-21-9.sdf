@@ -1,0 +1,94 @@
+1125-21-9
+ChemmineR-0914142331XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.4631   -5.3199    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4631   -3.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3087   -3.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8565   -4.5751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0962    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3087   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6122   -3.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7667   -3.9899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6122   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4631   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4631    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+1622
+
+> <Formula>
+C9H12O2
+
+> <FW>
+152.1904
+
+> <DSSTox_CID>
+1685
+
+> <DSSTox_RID>
+76283
+
+> <DSSTox_GSID>
+21685
+
+> <DSSTox_FileID_Sort>
+967
+
+> <TS_ChemName>
+2,6,6-Trimethyl-2-cyclohexene-1,4-dione
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1125-21-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12O2
+
+> <STRUCTURE_MW>
+152.1904
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,6,6-trimethylcyclohex-2-ene-1,4-dione
+
+> <STRUCTURE_SMILES>
+O=C1C=C(C)C(=O)C(C)(C)C1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C=C(C)C(=O)C(C)(C)C1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

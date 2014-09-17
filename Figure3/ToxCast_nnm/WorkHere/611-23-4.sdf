@@ -1,0 +1,90 @@
+611-23-4
+ChemmineR-0914142331XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    2.6588    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976   -1.1501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976   -3.4550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6659   -3.4550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6659   -1.1501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -2.3049    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6563   -3.4550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+1029
+
+> <Formula>
+C7H7NO
+
+> <FW>
+121.1366
+
+> <DSSTox_CID>
+1065
+
+> <DSSTox_RID>
+75926
+
+> <DSSTox_GSID>
+21065
+
+> <DSSTox_FileID_Sort>
+610
+
+> <TS_ChemName>
+2-Nitrosotoluene
+
+> <TS_ChemName_Synonyms>
+o-Nitrosotoluene
+
+> <TS_CASRN>
+611-23-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H7NO
+
+> <STRUCTURE_MW>
+121.1366
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methyl-2-nitrosobenzene
+
+> <STRUCTURE_SMILES>
+Cc1ccccc1N=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccccc1N=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

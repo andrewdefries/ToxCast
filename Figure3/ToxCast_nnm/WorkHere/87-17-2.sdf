@@ -1,0 +1,105 @@
+87-17-2
+ChemmineR-0914142331XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    6.6418    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9719    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6369   -1.1487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9719   -2.3061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6418   -2.3061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9767   -1.1487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6467   -1.1487    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9903   -2.3061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6467   -3.4548    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6602   -2.3061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9951   -3.4548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6602   -4.6035    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -3.4548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -1.1487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9951   -1.1487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+1688
+
+> <Formula>
+C13H11NO2
+
+> <FW>
+213.2319
+
+> <DSSTox_CID>
+1784
+
+> <DSSTox_RID>
+76325
+
+> <DSSTox_GSID>
+21784
+
+> <DSSTox_FileID_Sort>
+1009
+
+> <TS_ChemName>
+Salicylanilide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+87-17-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H11NO2
+
+> <STRUCTURE_MW>
+213.2319
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-hydroxy-N-phenylbenzamide
+
+> <STRUCTURE_SMILES>
+O=C(Nc1ccccc1)c2ccccc2O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Nc1ccccc1)c2ccccc2O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

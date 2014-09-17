@@ -1,0 +1,94 @@
+536-33-4
+ChemmineR-0914142331XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    6.9065   -1.9891    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7531   -2.6590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7531   -3.9851    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6067   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4533   -2.6590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2999   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2999   -0.6630    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4533    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6067   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534   -2.6590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+552
+
+> <Formula>
+C8H10N2S
+
+> <FW>
+166.2434
+
+> <DSSTox_CID>
+577
+
+> <DSSTox_RID>
+75669
+
+> <DSSTox_GSID>
+20577
+
+> <DSSTox_FileID_Sort>
+353
+
+> <TS_ChemName>
+Ethionamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+536-33-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10N2S
+
+> <STRUCTURE_MW>
+166.2434
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethylpyridine-4-carbothioamide
+
+> <STRUCTURE_SMILES>
+CCc1cc(ccn1)C(N)=S
+
+> <STRUCTURE_SMILES_Desalt>
+CCc1cc(ccn1)C(N)=S
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

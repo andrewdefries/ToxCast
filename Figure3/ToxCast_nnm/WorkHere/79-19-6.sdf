@@ -1,0 +1,81 @@
+79-19-6
+ChemmineR-0914142331XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9945    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.9945    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -1.3308    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+1293
+
+> <Formula>
+CH5N3S
+
+> <FW>
+91.1355
+
+> <DSSTox_CID>
+1346
+
+> <DSSTox_RID>
+76099
+
+> <DSSTox_GSID>
+21346
+
+> <DSSTox_FileID_Sort>
+783
+
+> <TS_ChemName>
+Thiosemicarbazide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+79-19-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH5N3S
+
+> <STRUCTURE_MW>
+91.1355
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hydrazinecarbothioamide
+
+> <STRUCTURE_SMILES>
+NC(=S)NN
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=S)NN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

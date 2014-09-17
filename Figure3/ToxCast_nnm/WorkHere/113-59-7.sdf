@@ -1,0 +1,116 @@
+113-59-7
+ChemmineR-0914142331XD
+
+ 21 23  0  0  0  0  0  0  0  0  1 V2000
+    4.6107   -0.6547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7633    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9160   -0.6547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9160   -1.9826    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7633   -2.6557    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6107   -1.9826    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7633   -3.9836    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6107   -4.6475    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580   -3.9836    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3053   -4.6475    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -3.9836    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6475    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -2.6557    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9160   -4.6475    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0687   -3.9836    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0687   -2.6557    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2213   -4.6475    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2213   -5.9754    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0687   -6.6486    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0687   -7.9764    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9160   -5.9754    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 21  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+M  END
+> <ID>
+2541
+
+> <Formula>
+C18H18ClNS
+
+> <FW>
+315.8602
+
+> <DSSTox_CID>
+2810
+
+> <DSSTox_RID>
+76737
+
+> <DSSTox_GSID>
+22810
+
+> <DSSTox_FileID_Sort>
+1421
+
+> <TS_ChemName>
+Chlorprothixene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+113-59-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H18ClNS
+
+> <STRUCTURE_MW>
+315.8602
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3E)-3-(2-chloro-9H-thioxanthen-9-ylidene)-N,N-dimethylpropan-1-amine
+
+> <STRUCTURE_SMILES>
+CN(C)CC\C=C1/c3ccccc3Sc2ccc(Cl)cc12
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CC\C=C1/c3ccccc3Sc2ccc(Cl)cc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

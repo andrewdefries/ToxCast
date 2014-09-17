@@ -1,0 +1,95 @@
+91-64-5
+ChemmineR-0914142331XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -2.6606    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -0.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6071    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7589   -0.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7589   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6071   -2.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -0.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+338
+
+> <Formula>
+C9H6O2
+
+> <FW>
+146.1427
+
+> <DSSTox_CID>
+348
+
+> <DSSTox_RID>
+75529
+
+> <DSSTox_GSID>
+20348
+
+> <DSSTox_FileID_Sort>
+213
+
+> <TS_ChemName>
+Coumarin
+
+> <TS_ChemName_Synonyms>
+Coumarin (2H-1-Benzopyran-2-one) (Chromen-2-one)
+
+> <TS_CASRN>
+91-64-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H6O2
+
+> <STRUCTURE_MW>
+146.1427
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2H-chromen-2-one
+
+> <STRUCTURE_SMILES>
+O=C1C=Cc2ccccc2O1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C=Cc2ccccc2O1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,83 @@
+1634-04-4
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.8169   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -1.1537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -0.4870    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4542   -1.1537    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4870    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+799
+
+> <Formula>
+C5H12O
+
+> <FW>
+88.1482
+
+> <DSSTox_CID>
+833
+
+> <DSSTox_RID>
+75817
+
+> <DSSTox_GSID>
+20833
+
+> <DSSTox_FileID_Sort>
+501
+
+> <TS_ChemName>
+Methyl tert-butyl ether
+
+> <TS_ChemName_Synonyms>
+Methyl tert-butyl ether (MTBE) (t-Butyl methyl ether) (Propane, 2-methoxy-2-methyl-)
+
+> <TS_CASRN>
+1634-04-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H12O
+
+> <STRUCTURE_MW>
+88.1482
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tert-butyl methyl ether
+
+> <STRUCTURE_SMILES>
+CC(C)(C)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

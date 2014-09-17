@@ -1,0 +1,91 @@
+1953-02-2
+ChemmineR-0914142331XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    5.7535   -3.3223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7535   -1.9961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9070   -1.3261    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6069   -1.3261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6069    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4535   -1.9961    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3000   -1.3261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -1.9961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3261    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -3.3223    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <ID>
+3286
+
+> <Formula>
+C5H9NO3S
+
+> <FW>
+163.1949
+
+> <DSSTox_CID>
+3678
+
+> <DSSTox_RID>
+77142
+
+> <DSSTox_GSID>
+23678
+
+> <DSSTox_FileID_Sort>
+1825
+
+> <TS_ChemName>
+Tiopronin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1953-02-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H9NO3S
+
+> <STRUCTURE_MW>
+163.1949
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(2-sulfanylpropanoyl)glycine
+
+> <STRUCTURE_SMILES>
+OC(=O)CNC(=O)C(C)S
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)CNC(=O)C(C)S
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

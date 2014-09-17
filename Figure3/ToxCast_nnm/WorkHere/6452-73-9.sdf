@@ -1,0 +1,111 @@
+6452-73-9
+ChemmineR-0914142331XD
+
+ 20 19  0  0  0  0  0  0  0  0  1 V2000
+    5.3143   -2.2981    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9857   -2.2981    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3274   -1.1490    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9857    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3143    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9845   -1.1490    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3274   -3.4471    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9988   -3.4471    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286   -4.5961    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.5961    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9845   -3.4471    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3131   -3.4471    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9834   -4.5961    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3120   -4.5961    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9703   -5.7571    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   11.2988   -5.7571    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.9691   -4.5961    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.9691   -6.9062    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3131   -5.7571    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.7344   -5.6733    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <ID>
+1052
+
+> <Formula>
+C15H24ClNO3
+
+> <FW>
+301.8090 (265.3480+36.4609)
+
+> <DSSTox_CID>
+1093
+
+> <DSSTox_RID>
+75936
+
+> <DSSTox_GSID>
+21093
+
+> <DSSTox_FileID_Sort>
+620
+
+> <TS_ChemName>
+Oxprenolol hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6452-73-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [6452-71-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H24ClNO3
+
+> <STRUCTURE_MW>
+301.809
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-(propan-2-ylamino)-3-[2-(prop-2-en-1-yloxy)phenoxy]propan-2-ol hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CC(C)NCC(O)COc1ccccc1OCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)NCC(O)COc1ccccc1OCC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

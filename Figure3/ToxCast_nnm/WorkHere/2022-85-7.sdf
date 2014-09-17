@@ -1,0 +1,90 @@
+2022-85-7
+ChemmineR-0914142331XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    2.3041    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -0.6636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082   -2.6589    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -2.6589    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6636    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+2751
+
+> <Formula>
+C4H4FN3O
+
+> <FW>
+129.0925
+
+> <DSSTox_CID>
+3059
+
+> <DSSTox_RID>
+76856
+
+> <DSSTox_GSID>
+23059
+
+> <DSSTox_FileID_Sort>
+1540
+
+> <TS_ChemName>
+Flucytosine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2022-85-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H4FN3O
+
+> <STRUCTURE_MW>
+129.0925
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-5-fluoropyrimidin-2(1H)-one
+
+> <STRUCTURE_SMILES>
+FC1=CNC(=O)N=C1N
+
+> <STRUCTURE_SMILES_Desalt>
+FC1=CNC(=O)N=C1N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

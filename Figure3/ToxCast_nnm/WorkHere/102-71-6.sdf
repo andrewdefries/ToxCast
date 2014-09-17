@@ -1,0 +1,91 @@
+102-71-6
+ChemmineR-0914142331XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.4540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6645   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9934   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6578   -1.1493    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1493    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9928   -1.1493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6572   -2.3047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9861   -2.3047    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+1337
+
+> <Formula>
+C6H15NO3
+
+> <FW>
+149.1882
+
+> <DSSTox_CID>
+1392
+
+> <DSSTox_RID>
+76134
+
+> <DSSTox_GSID>
+21392
+
+> <DSSTox_FileID_Sort>
+818
+
+> <TS_ChemName>
+Triethanolamine
+
+> <TS_ChemName_Synonyms>
+Triethanolamine (Trolamine) (Ethanol, 2,2',2''-nitrilotris-)
+
+> <TS_CASRN>
+102-71-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H15NO3
+
+> <STRUCTURE_MW>
+149.1882
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2',2''-nitrilotriethanol
+
+> <STRUCTURE_SMILES>
+OCCN(CCO)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+OCCN(CCO)CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

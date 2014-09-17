@@ -1,0 +1,103 @@
+92-13-7
+ChemmineR-0914142331XD
+
+ 15 16  0  0  1  0  0  0  0  0  1 V2000
+    5.6673   -2.2872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9405   -0.9836    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2675   -0.8431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8061   -2.0608    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8148   -2.9507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0506    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4495   -2.8258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3723   -2.0452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1077   -2.4589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3270   -1.3817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3817    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1077   -0.3044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3723   -0.7182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7017   -3.7235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3981   -3.9967    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  8  7  1  6  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  6  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+1118
+
+> <Formula>
+C11H16N2O2
+
+> <FW>
+208.2569
+
+> <DSSTox_CID>
+1162
+
+> <DSSTox_RID>
+75984
+
+> <DSSTox_GSID>
+21162
+
+> <DSSTox_FileID_Sort>
+668
+
+> <TS_ChemName>
+Pilocarpine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+92-13-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H16N2O2
+
+> <STRUCTURE_MW>
+208.2569
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3S,4R)-3-ethyl-4-[(1-methyl-1H-imidazol-5-yl)methyl]dihydrofuran-2(3H)-one
+
+> <STRUCTURE_SMILES>
+Cn2cncc2C[C@H]1COC(=O)[C@H]1CC
+
+> <STRUCTURE_SMILES_Desalt>
+Cn2cncc2C[C@H]1COC(=O)[C@H]1CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

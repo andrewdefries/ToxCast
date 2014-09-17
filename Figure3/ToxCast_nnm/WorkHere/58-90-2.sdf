@@ -1,0 +1,94 @@
+58-90-2
+ChemmineR-0914142331XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    1.3317   -4.6078    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952   -3.4558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3317   -2.3039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3039    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952   -1.1519    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3317    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3268   -1.1519    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9904    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9904   -2.3039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3268   -3.4558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9904   -4.6078    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+1647
+
+> <Formula>
+C6H2Cl4O
+
+> <FW>
+231.8915
+
+> <DSSTox_CID>
+1716
+
+> <DSSTox_RID>
+76290
+
+> <DSSTox_GSID>
+21716
+
+> <DSSTox_FileID_Sort>
+974
+
+> <TS_ChemName>
+2,3,4,6-Tetrachlorophenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+58-90-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H2Cl4O
+
+> <STRUCTURE_MW>
+231.8915
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,3,4,6-tetrachlorophenol
+
+> <STRUCTURE_SMILES>
+Clc1cc(Cl)c(Cl)c(Cl)c1O
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(Cl)c(Cl)c(Cl)c1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

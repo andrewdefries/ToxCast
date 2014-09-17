@@ -1,0 +1,107 @@
+389-08-2
+ChemmineR-0914142331XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    1.1543   -3.9880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3016   -3.3245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558   -3.9880    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6101   -3.3245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7574   -3.9880    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7574   -5.3220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6101   -5.9855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558   -5.3220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9117   -5.9855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6101   -1.9975    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558   -1.3270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3016   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543   -1.3270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1543    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7574   -1.3270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7574    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+878
+
+> <Formula>
+C12H12N2O3
+
+> <FW>
+232.2353
+
+> <DSSTox_CID>
+912
+
+> <DSSTox_RID>
+75859
+
+> <DSSTox_GSID>
+20912
+
+> <DSSTox_FileID_Sort>
+543
+
+> <TS_ChemName>
+Nalidixic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+389-08-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H12N2O3
+
+> <STRUCTURE_MW>
+232.2353
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-ethyl-7-methyl-4-oxo-1,4-dihydro-1,8-naphthyridine-3-carboxylic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)C2=CN(CC)c1nc(C)ccc1C2=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)C2=CN(CC)c1nc(C)ccc1C2=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

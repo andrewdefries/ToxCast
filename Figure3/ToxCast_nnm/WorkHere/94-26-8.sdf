@@ -1,0 +1,100 @@
+94-26-8
+ChemmineR-0914142331XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    3.9910    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6595   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9865   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6549    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9819    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6504   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9819   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6549   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9774   -1.1574    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910   -2.3048    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6640   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9955   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6685   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+205
+
+> <Formula>
+C11H14O3
+
+> <FW>
+194.2271
+
+> <DSSTox_CID>
+209
+
+> <DSSTox_RID>
+75434
+
+> <DSSTox_GSID>
+20209
+
+> <DSSTox_FileID_Sort>
+118
+
+> <TS_ChemName>
+Butylparaben
+
+> <TS_ChemName_Synonyms>
+Butylparaben (Butyl 4-hydroxybenzoate) (Butyl p-hydroxybenzoate) (n-Butyl-p-hydroxybenzoate)
+
+> <TS_CASRN>
+94-26-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H14O3
+
+> <STRUCTURE_MW>
+194.2271
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butyl 4-hydroxybenzoate
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1)C(=O)OCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1)C(=O)OCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

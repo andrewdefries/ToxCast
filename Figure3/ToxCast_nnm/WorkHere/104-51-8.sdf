@@ -1,0 +1,92 @@
+104-51-8
+ChemmineR-0914142331XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    4.6098   -1.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4556   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3014   -1.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1542   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6098   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7570    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9112   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9112   -1.9973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7570   -2.6608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+2250
+
+> <Formula>
+C10H14
+
+> <FW>
+134.2182
+
+> <DSSTox_CID>
+2472
+
+> <DSSTox_RID>
+76597
+
+> <DSSTox_GSID>
+22472
+
+> <DSSTox_FileID_Sort>
+1281
+
+> <TS_ChemName>
+Butylbenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+104-51-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14
+
+> <STRUCTURE_MW>
+134.2182
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butylbenzene
+
+> <STRUCTURE_SMILES>
+CCCCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,87 @@
+1821-02-9
+ChemmineR-0914142331XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6657   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9972   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6583   -1.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9898   -1.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6555   -2.3045    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6555    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9972    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <ID>
+1584
+
+> <Formula>
+C5H8O3
+
+> <FW>
+116.1152
+
+> <DSSTox_CID>
+1647
+
+> <DSSTox_RID>
+76261
+
+> <DSSTox_GSID>
+21647
+
+> <DSSTox_FileID_Sort>
+945
+
+> <TS_ChemName>
+2-Oxopentanoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1821-02-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8O3
+
+> <STRUCTURE_MW>
+116.1152
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-oxopentanoic acid
+
+> <STRUCTURE_SMILES>
+CCCC(=O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC(=O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

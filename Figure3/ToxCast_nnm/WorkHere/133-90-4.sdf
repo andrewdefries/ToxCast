@@ -1,0 +1,96 @@
+133-90-4
+ChemmineR-0914142331XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.6580   -4.6084    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9970   -3.4586    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6657   -3.4586    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3042    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6657   -1.1544    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9970   -1.1544    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6580   -2.3042    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9893   -2.3042    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6549   -1.1544    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6549   -3.4586    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6084    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <ID>
+255
+
+> <Formula>
+C7H5Cl2NO2
+
+> <FW>
+206.0261
+
+> <DSSTox_CID>
+262
+
+> <DSSTox_RID>
+75471
+
+> <DSSTox_GSID>
+20262
+
+> <DSSTox_FileID_Sort>
+155
+
+> <TS_ChemName>
+Chloramben
+
+> <TS_ChemName_Synonyms>
+Chloramben (Amiben)
+
+> <TS_CASRN>
+133-90-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H5Cl2NO2
+
+> <STRUCTURE_MW>
+206.0261
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-amino-2,5-dichlorobenzoic acid
+
+> <STRUCTURE_SMILES>
+Clc1cc(C(=O)O)c(Cl)c(N)c1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(C(=O)O)c(Cl)c(N)c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

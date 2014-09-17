@@ -1,0 +1,89 @@
+10026-24-1
+ChemmineR-0914142331XD
+
+ 13  4  0  0  0  0  0  0  0  0  2 V2000
+    4.5939   -3.9656    0.0000 Co   0  2  0  0  0  0  0  0  0  0  0  0
+    3.4140   -3.9516    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.4140   -2.6321    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7475   -2.6321    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    3.4140   -1.2986    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0805   -2.6321    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3254   -1.3544    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9816   -4.0214    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6025   -5.1455    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1939   -4.1750    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3388    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1450   -0.6563    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9516    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  2  0  0  0  0
+M  END
+> <ID>
+330
+
+> <Formula>
+H14CoO11S
+
+> <FW>
+281.1028 (58.9321+96.0637+18.0153+18.0153+18.0153+18.0153+18.0153+18.0153+18.0153)
+
+> <DSSTox_CID>
+340
+
+> <DSSTox_RID>
+75523
+
+> <DSSTox_GSID>
+20340
+
+> <DSSTox_FileID_Sort>
+207
+
+> <TS_ChemName>
+Cobalt sulfate heptahydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+10026-24-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+H14CoO11S
+
+> <STRUCTURE_MW>
+281.1028
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+cobalt(2+) sulfate hydrate (1:1:7)
+
+> <STRUCTURE_SMILES>
+O.O.O.O.[Co+2].O.O.O.[O-]S([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,111 @@
+789-02-6
+ChemmineR-0914142331XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    6.9074   -2.6598    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0600   -3.3288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0600   -4.6587    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9074   -5.3196    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7549   -4.6587    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7549   -3.3288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6023   -2.6598    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6023   -1.3299    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6023    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9322   -1.3299    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2724   -1.3299    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577   -3.3288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577   -4.6587    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3052   -5.3196    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -4.6587    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -3.3288    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3052   -2.6598    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3196    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6023   -5.3196    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+2166
+
+> <Formula>
+C14H9Cl5
+
+> <FW>
+354.4863
+
+> <DSSTox_CID>
+2345
+
+> <DSSTox_RID>
+76554
+
+> <DSSTox_GSID>
+22345
+
+> <DSSTox_FileID_Sort>
+1238
+
+> <TS_ChemName>
+o,p'-DDT
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+789-02-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H9Cl5
+
+> <STRUCTURE_MW>
+354.4863
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-2-[2,2,2-trichloro-1-(4-chlorophenyl)ethyl]benzene
+
+> <STRUCTURE_SMILES>
+Clc2ccccc2C(c1ccc(Cl)cc1)C(Cl)(Cl)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2ccccc2C(c1ccc(Cl)cc1)C(Cl)(Cl)Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

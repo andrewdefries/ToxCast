@@ -1,0 +1,110 @@
+732-26-3
+ChemmineR-0914142331XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    2.6612   -5.7579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3248   -4.6105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6612   -3.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3248   -2.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6589   -2.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3225   -3.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6589   -4.6105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3225   -5.7579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9860   -6.9123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1681   -6.4284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4699   -5.0943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3225   -1.1544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4699   -1.8179    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1681   -0.4839    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9860    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3272   -3.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3272   -4.7833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3272   -2.1290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+M  END
+> <ID>
+1258
+
+> <Formula>
+C18H30O
+
+> <FW>
+262.4302
+
+> <DSSTox_CID>
+1311
+
+> <DSSTox_RID>
+76072
+
+> <DSSTox_GSID>
+21311
+
+> <DSSTox_FileID_Sort>
+756
+
+> <TS_ChemName>
+2,4,6-Tris(tert-butyl)phenol
+
+> <TS_ChemName_Synonyms>
+2,4,6-Tris(tert-butyl)phenol (Phenol, 2,4,6-tris(1,1-dimethylethyl)-) (2,4,6-tri-tert-Butylphenol)
+
+> <TS_CASRN>
+732-26-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H30O
+
+> <STRUCTURE_MW>
+262.4302
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4,6-tri-tert-butylphenol
+
+> <STRUCTURE_SMILES>
+CC(C)(C)c1cc(cc(c1O)C(C)(C)C)C(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c1cc(cc(c1O)C(C)(C)C)C(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

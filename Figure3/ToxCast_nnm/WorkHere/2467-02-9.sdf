@@ -1,0 +1,103 @@
+2467-02-9
+ChemmineR-0914142331XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    3.4552   -1.3268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6092   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7563   -1.3268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7563    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9104   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9104   -3.3239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7563   -3.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6092   -3.3239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3012   -3.3239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552   -3.9873    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -3.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3239    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -1.3268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+2231
+
+> <Formula>
+C13H12O2
+
+> <FW>
+200.2332
+
+> <DSSTox_CID>
+2446
+
+> <DSSTox_RID>
+76594
+
+> <DSSTox_GSID>
+22446
+
+> <DSSTox_FileID_Sort>
+1278
+
+> <TS_ChemName>
+Bisphenol F
+
+> <TS_ChemName_Synonyms>
+bis(2-Hydroxyphenyl)methane
+
+> <TS_CASRN>
+2467-02-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H12O2
+
+> <STRUCTURE_MW>
+200.2332
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-methanediyldiphenol
+
+> <STRUCTURE_SMILES>
+Oc2ccccc2Cc1ccccc1O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccccc2Cc1ccccc1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

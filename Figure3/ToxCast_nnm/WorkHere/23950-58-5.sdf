@@ -1,0 +1,104 @@
+23950-58-5
+ChemmineR-0914142331XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    8.0620   -4.6575    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9162   -3.9980    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7621   -3.3303    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6081   -3.9980    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6081   -5.3252    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540   -3.3303    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3081   -3.9980    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -3.3303    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -2.0031    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3081   -1.3354    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540   -2.0031    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3081    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9980    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5757   -2.8440    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.2434   -1.6899    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2485   -5.1439    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 14 15  3  0  0  0  0
+M  END
+> <ID>
+404
+
+> <Formula>
+C12H11Cl2NO
+
+> <FW>
+256.1278
+
+> <DSSTox_CID>
+420
+
+> <DSSTox_RID>
+75573
+
+> <DSSTox_GSID>
+20420
+
+> <DSSTox_FileID_Sort>
+257
+
+> <TS_ChemName>
+Propyzamide
+
+> <TS_ChemName_Synonyms>
+3,5-Dichloro(N-1,1-dimethyl-2-propynyl)benzamide (Pronamide) (Propyzamide)
+
+> <TS_CASRN>
+23950-58-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H11Cl2NO
+
+> <STRUCTURE_MW>
+256.1278
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5-dichloro-N-(2-methylbut-3-yn-2-yl)benzamide
+
+> <STRUCTURE_SMILES>
+Clc1cc(cc(Cl)c1)C(=O)NC(C)(C)C#C
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(cc(Cl)c1)C(=O)NC(C)(C)C#C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

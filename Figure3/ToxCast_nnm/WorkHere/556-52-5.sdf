@@ -1,0 +1,82 @@
+556-52-5
+ChemmineR-0914142331XD
+
+  5  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1519    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -1.8168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -1.1519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9687    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6336   -1.1519    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+639
+
+> <Formula>
+C3H6O2
+
+> <FW>
+74.0785
+
+> <DSSTox_CID>
+666
+
+> <DSSTox_RID>
+75719
+
+> <DSSTox_GSID>
+20666
+
+> <DSSTox_FileID_Sort>
+403
+
+> <TS_ChemName>
+Glycidol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+556-52-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H6O2
+
+> <STRUCTURE_MW>
+74.0785
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+oxiran-2-ylmethanol
+
+> <STRUCTURE_SMILES>
+OCC1CO1
+
+> <STRUCTURE_SMILES_Desalt>
+OCC1CO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

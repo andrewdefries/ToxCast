@@ -1,0 +1,87 @@
+107-43-7
+ChemmineR-0914142331XD
+
+  8  7  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -1.9956    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1522   -1.3319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1522    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3044   -1.9956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4566   -1.3319    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.7929   -0.1797    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6088   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1203   -2.4842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+> <ID>
+2412
+
+> <Formula>
+C5H11NO2
+
+> <FW>
+117.1463
+
+> <DSSTox_CID>
+2666
+
+> <DSSTox_RID>
+76680
+
+> <DSSTox_GSID>
+22666
+
+> <DSSTox_FileID_Sort>
+1364
+
+> <TS_ChemName>
+Betaine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+107-43-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; zwitterion
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H11NO2
+
+> <STRUCTURE_MW>
+117.1463
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(trimethylammonio)acetate
+
+> <STRUCTURE_SMILES>
+C[N+](C)(C)CC([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(C)CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

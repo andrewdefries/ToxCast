@@ -1,0 +1,107 @@
+80-05-7
+ChemmineR-0914142331XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    2.8233    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7620   -0.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7006   -1.8773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9744   -1.5867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8907   -2.5477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5108   -3.8364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2295   -4.1419    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3058   -3.1735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4494   -4.7751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8233   -1.8773    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1660   -3.1660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2274   -4.1046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9386   -3.7620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5960   -2.4807    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5346   -1.5346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.7006    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7006    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+179
+
+> <Formula>
+C15H16O2
+
+> <FW>
+228.2863
+
+> <DSSTox_CID>
+182
+
+> <DSSTox_RID>
+75420
+
+> <DSSTox_GSID>
+20182
+
+> <DSSTox_FileID_Sort>
+104
+
+> <TS_ChemName>
+Bisphenol A
+
+> <TS_ChemName_Synonyms>
+Bisphenol A (BPA) (4,4’-Propane-2,2-diyldiphenol) (Phenol, 4,4'-(1-methylethylidene)bis-)
+
+> <TS_CASRN>
+80-05-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H16O2
+
+> <STRUCTURE_MW>
+228.2863
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-propane-2,2-diyldiphenol
+
+> <STRUCTURE_SMILES>
+CC(C)(c1ccc(O)cc1)c2ccc(O)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(c1ccc(O)cc1)c2ccc(O)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

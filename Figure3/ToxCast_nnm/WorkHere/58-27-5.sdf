@@ -1,0 +1,99 @@
+58-27-5
+ChemmineR-0914142331XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    2.3040   -5.3201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1490   -5.9843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1490   -3.3273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1490   -1.9928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3285    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -1.3285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4530   -1.9928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4530   -3.3273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6079   -3.9916    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -3.9916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+1646
+
+> <Formula>
+C11H8O2
+
+> <FW>
+172.18
+
+> <DSSTox_CID>
+1715
+
+> <DSSTox_RID>
+76289
+
+> <DSSTox_GSID>
+21715
+
+> <DSSTox_FileID_Sort>
+973
+
+> <TS_ChemName>
+Menadione
+
+> <TS_ChemName_Synonyms>
+Menadione (2-methyl-1,4-naphthoquinone)
+
+> <TS_CASRN>
+58-27-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H8O2
+
+> <STRUCTURE_MW>
+172.18
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylnaphthalene-1,4-dione
+
+> <STRUCTURE_SMILES>
+O=C2C=C(C)C(=O)c1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2C=C(C)C(=O)c1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

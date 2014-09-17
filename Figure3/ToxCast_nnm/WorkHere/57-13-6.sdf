@@ -1,0 +1,79 @@
+57-13-6
+ChemmineR-0914142331XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    1.3292   -1.1518    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -2.3037    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1518    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+M  END
+> <ID>
+1370
+
+> <Formula>
+CH4N2O
+
+> <FW>
+60.0553
+
+> <DSSTox_CID>
+1426
+
+> <DSSTox_RID>
+76155
+
+> <DSSTox_GSID>
+21426
+
+> <DSSTox_FileID_Sort>
+839
+
+> <TS_ChemName>
+Urea
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+57-13-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH4N2O
+
+> <STRUCTURE_MW>
+60.0553
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+urea
+
+> <STRUCTURE_SMILES>
+NC(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+NC(N)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

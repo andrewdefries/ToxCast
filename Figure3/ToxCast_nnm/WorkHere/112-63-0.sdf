@@ -1,0 +1,113 @@
+112-63-0
+ChemmineR-0914142331XD
+
+ 21 20  0  0  0  0  0  0  0  0  1 V2000
+   11.2936    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9636   -1.1605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2936   -2.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9636   -3.4575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2936   -4.6060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9636   -5.7665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2936   -6.9150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9657   -6.9150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3077   -8.0635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9797   -8.0635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3098   -6.9150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9818   -6.9150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3118   -5.7665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9839   -5.7665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3259   -4.6060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9979   -4.6060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3280   -3.4575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9979   -2.3090    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3280   -1.1605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3259   -2.3090    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 21  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+809
+
+> <Formula>
+C19H34O2
+
+> <FW>
+294.4721
+
+> <DSSTox_CID>
+843
+
+> <DSSTox_RID>
+75822
+
+> <DSSTox_GSID>
+20843
+
+> <DSSTox_FileID_Sort>
+506
+
+> <TS_ChemName>
+Methyl linoleate
+
+> <TS_ChemName_Synonyms>
+Methyl linoleate, native
+
+> <TS_CASRN>
+112-63-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C19H34O2
+
+> <STRUCTURE_MW>
+294.4721
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl (9Z,12Z)-octadeca-9,12-dienoate
+
+> <STRUCTURE_SMILES>
+O=C(CCCCCCC/C=C\C/C=C\CCCCC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCCCC/C=C\C/C=C\CCCCC)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

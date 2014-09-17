@@ -1,0 +1,87 @@
+592-31-4
+ChemmineR-0914142331XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    3.9913    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6555   -1.1549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9839   -1.1549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9913   -2.3038    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9926   -1.1549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6642   -1.1549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+218
+
+> <Formula>
+C5H12N2O
+
+> <FW>
+116.1616
+
+> <DSSTox_CID>
+222
+
+> <DSSTox_RID>
+75443
+
+> <DSSTox_GSID>
+20222
+
+> <DSSTox_FileID_Sort>
+127
+
+> <TS_ChemName>
+N-Butylurea
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+592-31-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H12N2O
+
+> <STRUCTURE_MW>
+116.1616
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-butylurea
+
+> <STRUCTURE_SMILES>
+NC(=O)NCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)NCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

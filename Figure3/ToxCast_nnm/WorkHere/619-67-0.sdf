@@ -1,0 +1,94 @@
+619-67-0
+ChemmineR-0914142331XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3022    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9961   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6615    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9923    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6576   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9923   -2.3022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6615   -2.3022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9884   -1.1511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6538    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+678
+
+> <Formula>
+C7H8N2O2
+
+> <FW>
+152.1506
+
+> <DSSTox_CID>
+708
+
+> <DSSTox_RID>
+75749
+
+> <DSSTox_GSID>
+20708
+
+> <DSSTox_FileID_Sort>
+433
+
+> <TS_ChemName>
+4-Hydrazinobenzoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+619-67-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H8N2O2
+
+> <STRUCTURE_MW>
+152.1506
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-hydrazinylbenzoic acid
+
+> <STRUCTURE_SMILES>
+NNc1ccc(cc1)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+NNc1ccc(cc1)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

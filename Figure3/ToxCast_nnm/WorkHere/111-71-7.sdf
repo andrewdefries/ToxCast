@@ -1,0 +1,87 @@
+111-71-7
+ChemmineR-0914142331XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    8.0744    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9197   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7651    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6105   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4639    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1546    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6621    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+1534
+
+> <Formula>
+C7H14O
+
+> <FW>
+114.1855
+
+> <DSSTox_CID>
+1597
+
+> <DSSTox_RID>
+76224
+
+> <DSSTox_GSID>
+21597
+
+> <DSSTox_FileID_Sort>
+908
+
+> <TS_ChemName>
+Heptanal
+
+> <TS_ChemName_Synonyms>
+Heptanal (n-Heptanal) (heptaldehyde)
+
+> <TS_CASRN>
+111-71-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O
+
+> <STRUCTURE_MW>
+114.1855
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+heptanal
+
+> <STRUCTURE_SMILES>
+CCCCCCC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

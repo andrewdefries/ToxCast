@@ -1,0 +1,101 @@
+103-33-3
+ChemmineR-0914142331XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    5.1483   -1.1655    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0287   -1.1655    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6889   -1.1655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0098   -2.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6607   -2.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6607    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0098    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4882   -1.1655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1673    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5163    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1770   -1.1655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5163   -2.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1673   -2.3310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+120
+
+> <Formula>
+C12H10N2
+
+> <FW>
+182.2212
+
+> <DSSTox_CID>
+123
+
+> <DSSTox_RID>
+75385
+
+> <DSSTox_GSID>
+20123
+
+> <DSSTox_FileID_Sort>
+69
+
+> <TS_ChemName>
+Azobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+103-33-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10N2
+
+> <STRUCTURE_MW>
+182.2212
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diphenyldiazene
+
+> <STRUCTURE_SMILES>
+N(=N/c1ccccc1)\c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+N(=N/c1ccccc1)\c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20110513
+
+$$$$

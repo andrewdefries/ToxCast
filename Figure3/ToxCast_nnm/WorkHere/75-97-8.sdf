@@ -1,0 +1,85 @@
+75-97-8
+ChemmineR-0914142331XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.1796    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -0.6652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4812    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.9956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6608   -1.9956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -3.3260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+M  END
+> <ID>
+1665
+
+> <Formula>
+C6H12O
+
+> <FW>
+100.1589
+
+> <DSSTox_CID>
+1752
+
+> <DSSTox_RID>
+76305
+
+> <DSSTox_GSID>
+21752
+
+> <DSSTox_FileID_Sort>
+989
+
+> <TS_ChemName>
+3,3-Dimethyl-2-butanone
+
+> <TS_ChemName_Synonyms>
+3,3-Dimethyl-2-butanone (Pinacolone)
+
+> <TS_CASRN>
+75-97-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O
+
+> <STRUCTURE_MW>
+100.1589
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3-dimethylbutan-2-one
+
+> <STRUCTURE_SMILES>
+CC(C)(C)C(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)C(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

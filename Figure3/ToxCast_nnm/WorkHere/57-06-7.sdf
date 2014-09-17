@@ -1,0 +1,83 @@
+57-06-7
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525   -1.3311    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575   -1.3311    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -0.6684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7624    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+46
+
+> <Formula>
+C4H5NS
+
+> <FW>
+99.1542
+
+> <DSSTox_CID>
+47
+
+> <DSSTox_RID>
+75336
+
+> <DSSTox_GSID>
+20047
+
+> <DSSTox_FileID_Sort>
+20
+
+> <TS_ChemName>
+Allyl isothiocyanate
+
+> <TS_ChemName_Synonyms>
+Oil of mustard
+
+> <TS_CASRN>
+57-06-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H5NS
+
+> <STRUCTURE_MW>
+99.1542
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-isothiocyanatoprop-1-ene
+
+> <STRUCTURE_SMILES>
+C=CC\N=C=S
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC\N=C=S
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

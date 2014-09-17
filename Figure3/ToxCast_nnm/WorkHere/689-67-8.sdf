@@ -1,0 +1,99 @@
+689-67-8
+ChemmineR-0914142331XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503   -1.3113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3121   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4394   -1.3113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6012   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7515   -1.3113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9018   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0636   -1.3113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1909   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3527   -1.3113    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5030   -1.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1503    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7515    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3527    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  3  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+M  END
+> <ID>
+1523
+
+> <Formula>
+C13H22O
+
+> <FW>
+194.3132
+
+> <DSSTox_CID>
+1586
+
+> <DSSTox_RID>
+76222
+
+> <DSSTox_GSID>
+21586
+
+> <DSSTox_FileID_Sort>
+906
+
+> <TS_ChemName>
+6,10-Dimethyl-5,9-undecadiene-2-one
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+689-67-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C13H22O
+
+> <STRUCTURE_MW>
+194.3132
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6,10-dimethylundeca-5,9-dien-2-one
+
+> <STRUCTURE_SMILES>
+C/C(C)=C\CCC(C)=CCCC(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+C/C(C)=C\CCC(C)=CCCC(C)=O
+
+> <Substance_modify_yyyymmdd>
+20110527
+
+$$$$

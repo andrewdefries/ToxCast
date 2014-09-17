@@ -1,0 +1,94 @@
+140-10-3
+ChemmineR-0914142331XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.3029   -1.9848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4578   -1.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6127   -1.9848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7607   -1.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9157   -1.9848    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7607    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3029   -3.3126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549   -4.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3126    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549   -1.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1 11  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+2263
+
+> <Formula>
+C9H8O2
+
+> <FW>
+148.1586
+
+> <DSSTox_CID>
+2489
+
+> <DSSTox_RID>
+76603
+
+> <DSSTox_GSID>
+22489
+
+> <DSSTox_FileID_Sort>
+1287
+
+> <TS_ChemName>
+Cinnamic acid
+
+> <TS_ChemName_Synonyms>
+E-Cinnamic acid; trans-Cinnamic acid
+
+> <TS_CASRN>
+140-10-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+name and CAS are for E isomer (STN)
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H8O2
+
+> <STRUCTURE_MW>
+148.1586
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-3-phenylprop-2-enoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)/C=C/c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)/C=C/c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20131003
+
+$$$$

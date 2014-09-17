@@ -1,0 +1,93 @@
+135-20-6
+ChemmineR-0914142331XD
+
+ 11 10  0  0  0  0  0  0  0  0  2 V2000
+    2.9266   -3.6328    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.3276   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9930   -1.1491    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286   -2.3042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3286    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.9919    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3206    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9849   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3206   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9919   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+342
+
+> <Formula>
+C6H9N3O2
+
+> <FW>
+155.1546 (18.0379+137.1166)
+
+> <DSSTox_CID>
+352
+
+> <DSSTox_RID>
+75532
+
+> <DSSTox_GSID>
+20352
+
+> <DSSTox_FileID_Sort>
+216
+
+> <TS_ChemName>
+Cupferron
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+135-20-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [148-97-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H9N3O2
+
+> <STRUCTURE_MW>
+155.1546
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+ammonium 2-oxo-1-phenylhydrazinolate
+
+> <STRUCTURE_SMILES>
+[NH4+].O=NN([O-])c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+ON(N=O)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

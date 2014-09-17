@@ -1,0 +1,95 @@
+137-30-4
+ChemmineR-0914142331XD
+
+ 13 10  0  0  0  0  0  0  0  0  2 V2000
+    2.3018   -3.3238    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3018   -1.9980    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1509   -1.3258    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9980    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1509    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4527   -1.3258    0.0000 S    0  5  0  0  0  0  0  0  0  0  0  0
+    5.7545   -1.3258    0.0000 S    0  5  0  0  0  0  0  0  0  0  0  0
+    6.9054   -1.9980    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9054   -3.3238    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0563   -1.3258    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0563    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2071   -1.9980    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5207   -0.9483    0.0000 Zn   0  2  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+1405
+
+> <Formula>
+C6H12N2S4Zn
+
+> <FW>
+305.8419 (120.2170+120.2170+65.4079)
+
+> <DSSTox_CID>
+1464
+
+> <DSSTox_RID>
+76171
+
+> <DSSTox_GSID>
+21464
+
+> <DSSTox_FileID_Sort>
+855
+
+> <TS_ChemName>
+Ziram
+
+> <TS_ChemName_Synonyms>
+Ziram (Zinc dimethyldithiocarbamate)
+
+> <TS_CASRN>
+137-30-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12N2S4Zn
+
+> <STRUCTURE_MW>
+305.8419
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+zinc bis(dimethylcarbamodithioate)
+
+> <STRUCTURE_SMILES>
+[Zn+2].S=C([S-])N(C)C.CN(C)C([S-])=S
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)C(=S)S
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

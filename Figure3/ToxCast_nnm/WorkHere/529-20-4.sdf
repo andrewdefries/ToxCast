@@ -1,0 +1,90 @@
+529-20-4
+ChemmineR-0914142331XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    1.9976   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6659   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4550    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -1.1501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -1.1501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6563   -2.3049    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -3.4550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -3.4550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+1897
+
+> <Formula>
+C8H8O
+
+> <FW>
+120.1485
+
+> <DSSTox_CID>
+2051
+
+> <DSSTox_RID>
+76470
+
+> <DSSTox_GSID>
+22051
+
+> <DSSTox_FileID_Sort>
+1154
+
+> <TS_ChemName>
+2-Tolualdehyde
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+529-20-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8O
+
+> <STRUCTURE_MW>
+120.1485
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylbenzaldehyde
+
+> <STRUCTURE_SMILES>
+Cc1ccccc1C=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccccc1C=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

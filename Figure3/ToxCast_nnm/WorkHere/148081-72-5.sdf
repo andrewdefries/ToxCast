@@ -1,0 +1,106 @@
+148081-72-5
+ChemmineR-0914142331XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    6.6542   -3.4618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9858   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6542   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9811   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6495   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9811   -3.4618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6495   -4.6091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9764   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6495    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9858    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9858   -4.6091    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6590   -4.6091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -3.4618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6637   -3.4618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9953   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6684   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+668
+
+> <Formula>
+C15H24O2
+
+> <FW>
+236.3499
+
+> <DSSTox_CID>
+697
+
+> <DSSTox_RID>
+75742
+
+> <DSSTox_GSID>
+20697
+
+> <DSSTox_FileID_Sort>
+426
+
+> <TS_ChemName>
+1-O-Hexyl-2,3,5-trimethylhydroquinone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+148081-72-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H24O2
+
+> <STRUCTURE_MW>
+236.3499
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(hexyloxy)-2,3,6-trimethylphenol
+
+> <STRUCTURE_SMILES>
+Cc1cc(OCCCCCC)c(C)c(C)c1O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(OCCCCCC)c(C)c(C)c1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

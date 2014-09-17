@@ -1,0 +1,102 @@
+93-72-1
+ChemmineR-0914142331XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    3.9868    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3285   -1.1485    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9868   -2.3043    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3285   -3.4528    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -3.4528    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3314   -2.3043    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -1.1485    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3043    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3314   -4.6086    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3182   -2.3043    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9839   -3.4528    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3182   -4.6086    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9839   -5.7571    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9868   -4.6086    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3153   -3.4528    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+1332
+
+> <Formula>
+C9H7Cl3O3
+
+> <FW>
+269.5091
+
+> <DSSTox_CID>
+1387
+
+> <DSSTox_RID>
+76129
+
+> <DSSTox_GSID>
+21387
+
+> <DSSTox_FileID_Sort>
+813
+
+> <TS_ChemName>
+2-(2,4,5-Trichlorophenoxy)propionic acid
+
+> <TS_ChemName_Synonyms>
+Silvex; 2,4,5-TP
+
+> <TS_CASRN>
+93-72-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H7Cl3O3
+
+> <STRUCTURE_MW>
+269.5091
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(2,4,5-trichlorophenoxy)propanoic acid
+
+> <STRUCTURE_SMILES>
+Clc1cc(OC(C)C(=O)O)c(Cl)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(OC(C)C(=O)O)c(Cl)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

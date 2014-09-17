@@ -1,0 +1,95 @@
+134-32-7
+ChemmineR-0914142331XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    2.3209   -3.1982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3209   -1.8521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1604   -1.1790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1604   -3.8759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4813   -3.8759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4813   -1.1790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6418   -3.1982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6418   -1.8521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8521    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5370    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4  7  2  0  0  0  0
+  5  8  2  0  0  0  0
+  6  9  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+886
+
+> <Formula>
+C10H9N
+
+> <FW>
+143.1852
+
+> <DSSTox_CID>
+920
+
+> <DSSTox_RID>
+75867
+
+> <DSSTox_GSID>
+20920
+
+> <DSSTox_FileID_Sort>
+551
+
+> <TS_ChemName>
+1-Naphthylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+134-32-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H9N
+
+> <STRUCTURE_MW>
+143.1852
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+naphthalen-1-amine
+
+> <STRUCTURE_SMILES>
+Nc2cccc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+Nc2cccc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,103 @@
+120-32-1
+ChemmineR-0914142331XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.9892    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1502   -4.6541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3004   -3.9892    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4573   -4.6541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4573   -5.9838    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3004   -6.6487    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1502   -5.9838    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6075   -6.6487    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3004   -2.6595    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4573   -1.9946    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4573   -0.6649    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6075    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7577   -0.6649    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7577   -1.9946    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6075   -2.6595    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+151
+
+> <Formula>
+C13H11ClO
+
+> <FW>
+218.6788
+
+> <DSSTox_CID>
+154
+
+> <DSSTox_RID>
+75406
+
+> <DSSTox_GSID>
+20154
+
+> <DSSTox_FileID_Sort>
+90
+
+> <TS_ChemName>
+Clorophene
+
+> <TS_ChemName_Synonyms>
+Clorophene (o-Benzyl-p-chlorophenol) (2-Benzyl-4-chlorophenol)
+
+> <TS_CASRN>
+120-32-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H11ClO
+
+> <STRUCTURE_MW>
+218.6788
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-benzyl-4-chlorophenol
+
+> <STRUCTURE_SMILES>
+Oc2ccc(Cl)cc2Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccc(Cl)cc2Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

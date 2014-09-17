@@ -1,0 +1,90 @@
+120-83-2
+ChemmineR-0914142331XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6589    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -0.6636    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -1.9953    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -2.6589    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082   -2.6589    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+423
+
+> <Formula>
+C6H4Cl2O
+
+> <FW>
+163.0014
+
+> <DSSTox_CID>
+439
+
+> <DSSTox_RID>
+75588
+
+> <DSSTox_GSID>
+20439
+
+> <DSSTox_FileID_Sort>
+272
+
+> <TS_ChemName>
+2,4-Dichlorophenol
+
+> <TS_ChemName_Synonyms>
+2,4-Dichlorophenol (DCP) (Phenol, 2,4-dichloro-)
+
+> <TS_CASRN>
+120-83-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4Cl2O
+
+> <STRUCTURE_MW>
+163.0014
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4-dichlorophenol
+
+> <STRUCTURE_SMILES>
+Clc1cc(Cl)c(O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(Cl)c(O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,95 @@
+91-62-3
+ChemmineR-0914142331XD
+
+ 11 12  0  0  0  0  0  0  0  0  1 V2000
+    5.7589   -2.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6071   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -2.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -2.6606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -0.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6071   -0.6680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+853
+
+> <Formula>
+C10H9N
+
+> <FW>
+143.1852
+
+> <DSSTox_CID>
+887
+
+> <DSSTox_RID>
+75844
+
+> <DSSTox_GSID>
+20887
+
+> <DSSTox_FileID_Sort>
+528
+
+> <TS_ChemName>
+6-Methylquinoline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+91-62-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H9N
+
+> <STRUCTURE_MW>
+143.1852
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-methylquinoline
+
+> <STRUCTURE_SMILES>
+Cc1ccc2ncccc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc2ncccc2c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

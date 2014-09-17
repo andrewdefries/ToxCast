@@ -1,0 +1,95 @@
+112-44-7
+ChemmineR-0914142331XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+   12.6993    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5436   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3880    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2324   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0767    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9211   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7782    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6225   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4669    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3113   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1556    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6604    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+1625
+
+> <Formula>
+C11H22O
+
+> <FW>
+170.2918
+
+> <DSSTox_CID>
+1688
+
+> <DSSTox_RID>
+76284
+
+> <DSSTox_GSID>
+21688
+
+> <DSSTox_FileID_Sort>
+968
+
+> <TS_ChemName>
+Undecanal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+112-44-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H22O
+
+> <STRUCTURE_MW>
+170.2918
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+undecanal
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,85 @@
+140-88-5
+ChemmineR-0914142331XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    2.6592    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9979   -1.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6592   -2.3053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6571   -1.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6660   -1.1550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+558
+
+> <Formula>
+C5H8O2
+
+> <FW>
+100.1158
+
+> <DSSTox_CID>
+583
+
+> <DSSTox_RID>
+75673
+
+> <DSSTox_GSID>
+20583
+
+> <DSSTox_FileID_Sort>
+357
+
+> <TS_ChemName>
+Ethyl acrylate
+
+> <TS_ChemName_Synonyms>
+Ethyl acrylate (2-Propenoic acid, ethyl ester)
+
+> <TS_CASRN>
+140-88-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8O2
+
+> <STRUCTURE_MW>
+100.1158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl prop-2-enoate
+
+> <STRUCTURE_SMILES>
+C=CC(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

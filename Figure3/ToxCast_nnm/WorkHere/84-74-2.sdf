@@ -1,0 +1,112 @@
+84-74-2
+ChemmineR-0914142331XD
+
+ 20 20  0  0  0  0  0  0  0  0  1 V2000
+    8.6524   -6.9219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9862   -8.0727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6537   -8.0727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9875   -6.9219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6550   -6.9219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9974   -5.7712    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9974   -8.0727    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6649   -8.0727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9987   -6.9219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6662   -6.9219    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9862   -5.7712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6537   -5.7712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9875   -4.6117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6537   -3.4610    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6550   -4.6117    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9974   -3.4610    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6550   -2.3102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9974   -1.1594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6550    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+1686
+
+> <Formula>
+C16H22O4
+
+> <FW>
+278.3435
+
+> <DSSTox_CID>
+1781
+
+> <DSSTox_RID>
+76324
+
+> <DSSTox_GSID>
+21781
+
+> <DSSTox_FileID_Sort>
+1008
+
+> <TS_ChemName>
+Dibutyl phthalate
+
+> <TS_ChemName_Synonyms>
+DBP; 1,2-Benzenedicarboxylic acid, dibutyl ester; Di-n-butylorthophthalate
+
+> <TS_CASRN>
+84-74-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H22O4
+
+> <STRUCTURE_MW>
+278.3435
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dibutyl benzene-1,2-dicarboxylate
+
+> <STRUCTURE_SMILES>
+O=C(OCCCC)c1ccccc1C(=O)OCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCCCC)c1ccccc1C(=O)OCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

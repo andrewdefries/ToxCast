@@ -1,0 +1,109 @@
+121-75-5
+ChemmineR-0914142331XD
+
+ 19 18  0  0  0  0  0  0  0  0  1 V2000
+    2.3016   -3.3167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4562   -3.9832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031   -3.3167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7578   -3.9832    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7578   -5.3161    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4249   -5.3161    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0829   -5.3161    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7494   -4.1614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7578   -6.6412    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031   -7.3077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6031   -1.9916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4562   -1.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4562    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3016   -1.9916    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1547   -1.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4562   -5.3161    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3016   -5.9748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3016   -7.3077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+758
+
+> <Formula>
+C10H19O6PS2
+
+> <FW>
+330.358
+
+> <DSSTox_CID>
+791
+
+> <DSSTox_RID>
+75791
+
+> <DSSTox_GSID>
+20791
+
+> <DSSTox_FileID_Sort>
+475
+
+> <TS_ChemName>
+Malathion
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+121-75-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H19O6PS2
+
+> <STRUCTURE_MW>
+330.358
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diethyl 2-[(dimethoxyphosphorothioyl)sulfanyl]butanedioate
+
+> <STRUCTURE_SMILES>
+CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

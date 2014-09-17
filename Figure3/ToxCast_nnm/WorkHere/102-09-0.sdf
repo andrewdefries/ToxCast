@@ -1,0 +1,105 @@
+102-09-0
+ChemmineR-0914142331XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    4.6029   -0.6628    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6029   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7537   -2.6605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9044   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9044   -0.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0551    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2059   -0.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2059   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0551   -2.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4522   -2.6605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3015   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1507   -2.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1507    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3015   -0.6628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+519
+
+> <Formula>
+C13H10O3
+
+> <FW>
+214.2167
+
+> <DSSTox_CID>
+540
+
+> <DSSTox_RID>
+75649
+
+> <DSSTox_GSID>
+20540
+
+> <DSSTox_FileID_Sort>
+333
+
+> <TS_ChemName>
+Diphenylcarbonate
+
+> <TS_ChemName_Synonyms>
+Diphenylcarbonate (Carbonic acid, diphenyl ester)
+
+> <TS_CASRN>
+102-09-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H10O3
+
+> <STRUCTURE_MW>
+214.2167
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diphenyl carbonate
+
+> <STRUCTURE_SMILES>
+O=C(Oc1ccccc1)Oc2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Oc1ccccc1)Oc2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

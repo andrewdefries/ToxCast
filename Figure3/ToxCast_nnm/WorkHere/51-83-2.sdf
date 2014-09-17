@@ -1,0 +1,92 @@
+51-83-2
+ChemmineR-0914142331XD
+
+ 11  9  0  0  0  0  0  0  0  0  2 V2000
+    0.0000    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6676   -1.1553    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3047    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9970   -1.1553    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6588   -2.3047    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -2.3047    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6558   -1.1553    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    3.5006   -0.4876    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3176    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8053   -1.8171    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9259   -3.6341    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+M  END
+> <ID>
+2470
+
+> <Formula>
+C6H15ClN2O2
+
+> <FW>
+182.6485 (147.1950+35.4535)
+
+> <DSSTox_CID>
+2730
+
+> <DSSTox_RID>
+76703
+
+> <DSSTox_GSID>
+22730
+
+> <DSSTox_FileID_Sort>
+1387
+
+> <TS_ChemName>
+Carbachol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+51-83-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H15ClN2O2
+
+> <STRUCTURE_MW>
+182.6485
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+2-(carbamoyloxy)-N,N,N-trimethylethanaminium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C[N+](C)(C)CCOC(=O)N
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(C)CCOC(=O)N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

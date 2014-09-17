@@ -1,0 +1,98 @@
+83-32-9
+ChemmineR-0914142331XD
+
+ 12 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4556    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6074   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6074   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4556   -2.6585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -2.6585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6402   -3.8979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9672   -3.8979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+1681
+
+> <Formula>
+C12H10
+
+> <FW>
+154.2078
+
+> <DSSTox_CID>
+1774
+
+> <DSSTox_RID>
+76319
+
+> <DSSTox_GSID>
+21774
+
+> <DSSTox_FileID_Sort>
+1003
+
+> <TS_ChemName>
+Acenaphthene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+83-32-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10
+
+> <STRUCTURE_MW>
+154.2078
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-dihydroacenaphthylene
+
+> <STRUCTURE_SMILES>
+c1cc2cccc3CCc(c1)c23
+
+> <STRUCTURE_SMILES_Desalt>
+c1cc2cccc3CCc(c1)c23
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

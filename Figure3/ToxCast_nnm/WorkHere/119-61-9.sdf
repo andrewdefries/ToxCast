@@ -1,0 +1,101 @@
+119-61-9
+ChemmineR-0914142331XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    5.7567   -1.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9108   -1.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9108   -3.3241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567   -3.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6095   -3.3241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6095   -1.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -1.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3013   -1.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3013   -3.3241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -3.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -1.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+1824
+
+> <Formula>
+C13H10O
+
+> <FW>
+182.2179
+
+> <DSSTox_CID>
+1961
+
+> <DSSTox_RID>
+76429
+
+> <DSSTox_GSID>
+21961
+
+> <DSSTox_FileID_Sort>
+1113
+
+> <TS_ChemName>
+Benzophenone
+
+> <TS_ChemName_Synonyms>
+Benzophenone (Methanone, diphenyl-)
+
+> <TS_CASRN>
+119-61-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H10O
+
+> <STRUCTURE_MW>
+182.2179
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diphenylmethanone
+
+> <STRUCTURE_SMILES>
+O=C(c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

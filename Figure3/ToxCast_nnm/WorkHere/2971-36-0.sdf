@@ -1,0 +1,111 @@
+2971-36-0
+ChemmineR-0914142331XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    4.6068   -1.3268    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6068   -2.6535    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7585   -3.3169    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9102   -2.6535    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0619   -3.3169    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0619   -4.6529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9102   -5.3162    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7585   -4.6529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2136   -5.3162    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4551   -3.3169    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4551   -4.6529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3034   -5.3162    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -4.6529    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -3.3169    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3034   -2.6535    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3162    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2800   -1.3268    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6068    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9336   -1.3268    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 17  1  0  0  0  0
+  1 18  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 16  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+2155
+
+> <Formula>
+C14H11Cl3O2
+
+> <FW>
+317.5949
+
+> <DSSTox_CID>
+2325
+
+> <DSSTox_RID>
+76548
+
+> <DSSTox_GSID>
+22325
+
+> <DSSTox_FileID_Sort>
+1232
+
+> <TS_ChemName>
+2,2-Bis(4-hydroxyphenyl)-1,1,1-trichloroethane
+
+> <TS_ChemName_Synonyms>
+HPTE
+
+> <TS_CASRN>
+2971-36-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H11Cl3O2
+
+> <STRUCTURE_MW>
+317.5949
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-(2,2,2-trichloroethane-1,1-diyl)diphenol
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1)C(c2ccc(O)cc2)C(Cl)(Cl)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1)C(c2ccc(O)cc2)C(Cl)(Cl)Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

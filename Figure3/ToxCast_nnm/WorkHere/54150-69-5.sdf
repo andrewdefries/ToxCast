@@ -1,0 +1,95 @@
+54150-69-5
+ChemmineR-0914142331XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    3.6471   -3.6471    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -1.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4537   -2.6593    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3001   -1.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3001   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4537    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7538    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -2.6593    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7538   -2.6593    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9073   -1.9893    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+466
+
+> <Formula>
+C8H12ClNO2
+
+> <FW>
+189.6394 (36.4609+153.1784)
+
+> <DSSTox_CID>
+483
+
+> <DSSTox_RID>
+75617
+
+> <DSSTox_GSID>
+20483
+
+> <DSSTox_FileID_Sort>
+301
+
+> <TS_ChemName>
+2,4-Dimethoxyaniline hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+54150-69-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [2735-04-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12ClNO2
+
+> <STRUCTURE_MW>
+189.6394
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+2,4-dimethoxyaniline hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Nc1ccc(cc1OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1OC)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

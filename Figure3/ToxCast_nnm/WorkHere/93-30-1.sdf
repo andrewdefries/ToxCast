@@ -1,0 +1,98 @@
+93-30-1
+ChemmineR-0914142331XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    0.6650   -4.6082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650   -2.3008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9949   -2.3008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6599   -1.1504    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9949    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6599   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9898   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6548   -4.6082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9898   -5.7586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9847   -4.6082    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6497   -3.4578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9949   -4.6082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+2955
+
+> <Formula>
+C11H17NO
+
+> <FW>
+179.2588
+
+> <DSSTox_CID>
+3292
+
+> <DSSTox_RID>
+76959
+
+> <DSSTox_GSID>
+23292
+
+> <DSSTox_FileID_Sort>
+1643
+
+> <TS_ChemName>
+Methoxyphenamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+93-30-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H17NO
+
+> <STRUCTURE_MW>
+179.2588
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(2-methoxyphenyl)-N-methylpropan-2-amine
+
+> <STRUCTURE_SMILES>
+COc1ccccc1CC(C)NC
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccccc1CC(C)NC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

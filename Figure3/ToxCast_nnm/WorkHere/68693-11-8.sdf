@@ -1,0 +1,111 @@
+68693-11-8
+ChemmineR-0914142331XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    2.3063   -0.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6047   -0.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6047   -1.9951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -2.6575    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -3.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063   -4.6526    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1492   -3.9902    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063   -5.9853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1492   -6.6477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9853    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1492   -7.9804    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6047   -4.6526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7618   -3.9902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9110   -4.6526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9110   -5.9853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7618   -6.6477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6047   -5.9853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3063   -1.9951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 19  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+2986
+
+> <Formula>
+C15H15NO2S
+
+> <FW>
+273.3501
+
+> <DSSTox_CID>
+3329
+
+> <DSSTox_RID>
+76980
+
+> <DSSTox_GSID>
+23329
+
+> <DSSTox_FileID_Sort>
+1664
+
+> <TS_ChemName>
+Modafinil
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+68693-11-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H15NO2S
+
+> <STRUCTURE_MW>
+273.3501
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[(diphenylmethyl)sulfinyl]acetamide
+
+> <STRUCTURE_SMILES>
+O=S(CC(N)=O)C(c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(CC(N)=O)C(c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

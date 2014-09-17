@@ -1,0 +1,95 @@
+464-45-9
+ChemmineR-0914142331XD
+
+ 11 12  0  0  1  0  0  0  0  0  1 V2000
+    2.0645   -2.0108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4663   -2.8348    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1125   -3.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7107   -2.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8496   -0.6538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4299   -2.6557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4784   -2.8348    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7229   -1.4689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7613   -0.1254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8617    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  1  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  6  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+1882
+
+> <Formula>
+C10H18O
+
+> <FW>
+154.2493
+
+> <DSSTox_CID>
+2035
+
+> <DSSTox_RID>
+76465
+
+> <DSSTox_GSID>
+22035
+
+> <DSSTox_FileID_Sort>
+1149
+
+> <TS_ChemName>
+[(1S)-endo]-(-)-Borneol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+464-45-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H18O
+
+> <STRUCTURE_MW>
+154.2493
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1S,2R,4S)-1,7,7-trimethylbicyclo[2.2.1]heptan-2-ol
+
+> <STRUCTURE_SMILES>
+C[C@@]12CC[C@@H](C[C@H]1O)C2(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+C[C@@]12CC[C@@H](C[C@H]1O)C2(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

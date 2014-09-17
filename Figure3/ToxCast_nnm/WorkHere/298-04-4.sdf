@@ -1,0 +1,99 @@
+298-04-4
+ChemmineR-0914142331XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    1.1516    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9973    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -2.6576    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4832   -3.8093    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -4.9609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4805   -4.9609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8120   -1.5060    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3033   -3.3261    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4549   -2.6576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5985   -3.3261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7502   -2.6576    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9018   -3.3261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0535   -2.6576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+1867
+
+> <Formula>
+C8H19O2PS3
+
+> <FW>
+274.404
+
+> <DSSTox_CID>
+2018
+
+> <DSSTox_RID>
+76462
+
+> <DSSTox_GSID>
+22018
+
+> <DSSTox_FileID_Sort>
+1146
+
+> <TS_ChemName>
+Disulfoton
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+298-04-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H19O2PS3
+
+> <STRUCTURE_MW>
+274.404
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O,O-diethyl S-[2-(ethylsulfanyl)ethyl] phosphorodithioate
+
+> <STRUCTURE_SMILES>
+CCSCCSP(=S)(OCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCSCCSP(=S)(OCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,113 @@
+791-35-5
+ChemmineR-0914142331XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.9909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6625   -2.8415    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9954   -2.8415    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6579   -3.9909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9909   -3.9909    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3238   -3.9909    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9909   -2.6579    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1403   -1.9954    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1403   -0.6625    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9909    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2976    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9909   -5.3238    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8415   -5.9863    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8415   -7.3193    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9909   -7.9818    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1403   -7.3193    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1403   -5.9863    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2976   -5.3238    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9954   -5.1403    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6625   -5.1403    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 20  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 19  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <ID>
+2527
+
+> <Formula>
+C17H20ClNO
+
+> <FW>
+289.7998
+
+> <DSSTox_CID>
+2789
+
+> <DSSTox_RID>
+76730
+
+> <DSSTox_GSID>
+22789
+
+> <DSSTox_FileID_Sort>
+1414
+
+> <TS_ChemName>
+Chlophedianol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+791-35-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H20ClNO
+
+> <STRUCTURE_MW>
+289.7998
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(2-chlorophenyl)-3-(dimethylamino)-1-phenylpropan-1-ol
+
+> <STRUCTURE_SMILES>
+OC(CCN(C)C)(c1ccccc1Cl)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+OC(CCN(C)C)(c1ccccc1Cl)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

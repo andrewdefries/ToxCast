@@ -1,0 +1,83 @@
+96-12-8
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    2.6616    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952   -1.1492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6616   -2.3025    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -2.3025    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6664   -1.1492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3025    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+398
+
+> <Formula>
+C3H5Br2Cl
+
+> <FW>
+236.3328
+
+> <DSSTox_CID>
+413
+
+> <DSSTox_RID>
+75570
+
+> <DSSTox_GSID>
+20413
+
+> <DSSTox_FileID_Sort>
+254
+
+> <TS_ChemName>
+1,2-Dibromo-3-chloropropane
+
+> <TS_ChemName_Synonyms>
+DBCP
+
+> <TS_CASRN>
+96-12-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H5Br2Cl
+
+> <STRUCTURE_MW>
+236.3328
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-dibromo-3-chloropropane
+
+> <STRUCTURE_SMILES>
+BrC(CBr)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+BrC(CBr)CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

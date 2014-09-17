@@ -1,0 +1,117 @@
+971-15-3
+ChemmineR-0914142331XD
+
+ 22 23  0  0  0  0  0  0  0  0  1 V2000
+    3.4610   -5.9839    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4610   -4.6527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3073   -3.9935    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -4.6527    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -1.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3073   -2.6623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6147   -3.9935    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7684   -4.6527    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9094   -3.9935    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0630   -4.6527    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2167   -3.9935    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3704   -4.6527    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5241   -3.9935    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6777   -4.6527    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5241   -2.6623    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3704   -1.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3704   -0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5241    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6777   -0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6777   -1.9904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <ID>
+514
+
+> <Formula>
+C12H20N2S8
+
+> <FW>
+448.8206
+
+> <DSSTox_CID>
+535
+
+> <DSSTox_RID>
+75645
+
+> <DSSTox_GSID>
+20535
+
+> <DSSTox_FileID_Sort>
+329
+
+> <TS_ChemName>
+Bis(1-piperidinylthioxomethyl)hexasulfide
+
+> <TS_ChemName_Synonyms>
+Dipentamethylenethiuram hexasulfide (Piperidine, 1,1'-(hexathiodicarbonothioyl)bis-)
+
+> <TS_CASRN>
+971-15-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H20N2S8
+
+> <STRUCTURE_MW>
+448.8206
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexasulfane-1,6-diylbis(piperidin-1-ylmethanethione)
+
+> <STRUCTURE_SMILES>
+S=C(SSSSSSC(=S)N1CCCCC1)N2CCCCC2
+
+> <STRUCTURE_SMILES_Desalt>
+S=C(SSSSSSC(=S)N1CCCCC1)N2CCCCC2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

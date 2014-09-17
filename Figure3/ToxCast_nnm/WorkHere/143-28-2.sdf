@@ -1,0 +1,109 @@
+143-28-2
+ChemmineR-0914142331XD
+
+ 19 18  0  0  0  0  0  0  0  0  1 V2000
+    0.6640   -4.6119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9919   -4.6119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6559   -3.4634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9838   -3.4634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6478   -2.3149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9757   -2.3149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6397   -1.1485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9676   -1.1485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6316    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9775    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6415   -1.1485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9694   -1.1485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6334   -2.3149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9613   -2.3149    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6253   -3.4634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9532   -3.4634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6172   -4.6119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9451   -4.6119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7604    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+1861
+
+> <Formula>
+C18H36O
+
+> <FW>
+268.4778
+
+> <DSSTox_CID>
+2010
+
+> <DSSTox_RID>
+76459
+
+> <DSSTox_GSID>
+22010
+
+> <DSSTox_FileID_Sort>
+1143
+
+> <TS_ChemName>
+(9Z)-Octadec-9-en-1-ol
+
+> <TS_ChemName_Synonyms>
+cis-Octadecen-1-ol
+
+> <TS_CASRN>
+143-28-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H36O
+
+> <STRUCTURE_MW>
+268.4778
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(9Z)-octadec-9-en-1-ol
+
+> <STRUCTURE_SMILES>
+CCCCCCCC\C=C/CCCCCCCCO
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCC\C=C/CCCCCCCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

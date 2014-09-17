@@ -1,0 +1,90 @@
+620-17-7
+ChemmineR-0914142331XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    2.3042   -2.6614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -1.9989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6614    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -1.9989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6084   -2.6614    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7605   -1.9989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+2255
+
+> <Formula>
+C8H10O
+
+> <FW>
+122.1644
+
+> <DSSTox_CID>
+2480
+
+> <DSSTox_RID>
+76600
+
+> <DSSTox_GSID>
+22480
+
+> <DSSTox_FileID_Sort>
+1284
+
+> <TS_ChemName>
+3-Ethylphenol
+
+> <TS_ChemName_Synonyms>
+3-Ethylphenol (m-ethylphenol)
+
+> <TS_CASRN>
+620-17-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10O
+
+> <STRUCTURE_MW>
+122.1644
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-ethylphenol
+
+> <STRUCTURE_SMILES>
+CCc1cc(O)ccc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCc1cc(O)ccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,101 @@
+124-25-4
+ChemmineR-0914142331XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1466    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3093   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6185   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7651    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9278   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0743    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2209   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3836    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5302   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6929    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8394   -0.6621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0021    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1487   -0.6621    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+1602
+
+> <Formula>
+C14H28O
+
+> <FW>
+212.3715
+
+> <DSSTox_CID>
+1665
+
+> <DSSTox_RID>
+76273
+
+> <DSSTox_GSID>
+21665
+
+> <DSSTox_FileID_Sort>
+957
+
+> <TS_ChemName>
+Tetradecanal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+124-25-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H28O
+
+> <STRUCTURE_MW>
+212.3715
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tetradecanal
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCCCCC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCCCCC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

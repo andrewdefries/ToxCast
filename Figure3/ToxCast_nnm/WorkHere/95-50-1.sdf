@@ -1,0 +1,88 @@
+95-50-1
+ChemmineR-0914142331XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3027    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3289   -2.3027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9954   -1.1533    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3243   -1.1533    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9907   -2.3027    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3243   -3.4560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9954   -3.4560    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3289    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+414
+
+> <Formula>
+C6H4Cl2
+
+> <FW>
+147.002
+
+> <DSSTox_CID>
+430
+
+> <DSSTox_RID>
+75581
+
+> <DSSTox_GSID>
+20430
+
+> <DSSTox_FileID_Sort>
+265
+
+> <TS_ChemName>
+1,2-Dichlorobenzene
+
+> <TS_ChemName_Synonyms>
+1,2-Dichlorobenzene (o-dichlorobenzene) (Benzene, 1,2-dichloro-)
+
+> <TS_CASRN>
+95-50-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4Cl2
+
+> <STRUCTURE_MW>
+147.002
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2-dichlorobenzene
+
+> <STRUCTURE_SMILES>
+Clc1ccccc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccccc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

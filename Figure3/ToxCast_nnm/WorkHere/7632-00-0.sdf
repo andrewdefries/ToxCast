@@ -1,0 +1,78 @@
+7632-00-0
+ChemmineR-0914142331XD
+
+  4  2  0  0  0  0  0  0  0  0  2 V2000
+    2.3030   -0.6656    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6656    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    1.1975   -1.9944    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+> <ID>
+905
+
+> <Formula>
+NNaO2
+
+> <FW>
+68.9953 (46.0060+22.9892)
+
+> <DSSTox_CID>
+941
+
+> <DSSTox_RID>
+75879
+
+> <DSSTox_GSID>
+20941
+
+> <DSSTox_FileID_Sort>
+563
+
+> <TS_ChemName>
+Sodium nitrite
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7632-00-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+NNaO2
+
+> <STRUCTURE_MW>
+68.9953
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+sodium nitrite
+
+> <STRUCTURE_SMILES>
+[Na+].[O-]N=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=NO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

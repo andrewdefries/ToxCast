@@ -1,0 +1,109 @@
+115-38-8
+ChemmineR-0914142331XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    5.0820   -3.9888    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0820   -2.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9223   -2.0018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6296   -1.7580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7654   -2.7848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4654   -2.5632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8642   -0.2881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1643   -0.5097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9223   -0.6722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7700    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0820    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2343   -0.6722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3866    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2343   -2.0018    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4791   -3.2354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1643   -3.4791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3866   -2.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+2926
+
+> <Formula>
+C13H14N2O3
+
+> <FW>
+246.2619
+
+> <DSSTox_CID>
+3258
+
+> <DSSTox_RID>
+76944
+
+> <DSSTox_GSID>
+23258
+
+> <DSSTox_FileID_Sort>
+1628
+
+> <TS_ChemName>
+Mephobarbital
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+115-38-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H14N2O3
+
+> <STRUCTURE_MW>
+246.2619
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-ethyl-1-methyl-5-phenylpyrimidine-2,4,6(1H,3H,5H)-trione
+
+> <STRUCTURE_SMILES>
+O=C1NC(=O)N(C)C(=O)C1(CC)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1NC(=O)N(C)C(=O)C1(CC)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

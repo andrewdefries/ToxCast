@@ -1,0 +1,99 @@
+81-13-0
+ChemmineR-0914142331XD
+
+ 14 13  0  0  1  0  0  0  0  0  1 V2000
+    2.2960   -1.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4530   -0.4753    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6413    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9776   -2.2960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2960   -3.4530    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3050   -2.2960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9687   -3.4530    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9687   -1.1570    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3050   -1.1570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9777   -2.2960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3141   -2.2960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9688   -3.4530    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1570   -1.8117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1570    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 13  1  0  0  0  0
+  4  5  1  6  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+2620
+
+> <Formula>
+C9H19NO4
+
+> <FW>
+205.2515
+
+> <DSSTox_CID>
+2906
+
+> <DSSTox_RID>
+76783
+
+> <DSSTox_GSID>
+22906
+
+> <DSSTox_FileID_Sort>
+1467
+
+> <TS_ChemName>
+Dexpanthenol
+
+> <TS_ChemName_Synonyms>
+Dexpanthenol ((+)-Panthenol)
+
+> <TS_CASRN>
+81-13-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H19NO4
+
+> <STRUCTURE_MW>
+205.2515
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2R)-2,4-dihydroxy-N-(3-hydroxypropyl)-3,3-dimethylbutanamide
+
+> <STRUCTURE_SMILES>
+CC(C)(CO)[C@@H](O)C(=O)NCCCO
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(CO)[C@@H](O)C(=O)NCCCO
+
+> <Substance_modify_yyyymmdd>
+20091124
+
+$$$$

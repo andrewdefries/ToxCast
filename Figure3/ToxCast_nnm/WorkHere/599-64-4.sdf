@@ -1,0 +1,105 @@
+599-64-4
+ChemmineR-0914142331XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    2.6600   -1.1556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8155   -1.8169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9638   -1.1556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1194   -1.8169    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1194   -3.1469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9638   -3.8155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8155   -3.1469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2677   -3.8155    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9986   -2.3039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -3.4594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9986   -4.6077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6686   -4.6077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6686   -2.3039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5117   -0.4869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3286    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 15  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+2301
+
+> <Formula>
+C15H16O
+
+> <FW>
+212.2869
+
+> <DSSTox_CID>
+2536
+
+> <DSSTox_RID>
+76617
+
+> <DSSTox_GSID>
+22536
+
+> <DSSTox_FileID_Sort>
+1301
+
+> <TS_ChemName>
+4-Cumylphenol
+
+> <TS_ChemName_Synonyms>
+4-Cumylphenol (Phenol, 4-(1-methyl-1-phenylethyl)-
+
+> <TS_CASRN>
+599-64-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H16O
+
+> <STRUCTURE_MW>
+212.2869
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(2-phenylpropan-2-yl)phenol
+
+> <STRUCTURE_SMILES>
+CC(C)(c1ccc(O)cc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(c1ccc(O)cc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,98 @@
+63-98-9
+ChemmineR-0914142331XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    6.9121    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0654   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0654   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9121   -2.6616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7587   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6054   -2.6616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4601   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4601   -0.6694    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3067   -2.6616    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534   -2.0002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6616    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1534   -0.6694    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7587   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 13  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+3088
+
+> <Formula>
+C9H10N2O2
+
+> <FW>
+178.1879
+
+> <DSSTox_CID>
+3442
+
+> <DSSTox_RID>
+77032
+
+> <DSSTox_GSID>
+23442
+
+> <DSSTox_FileID_Sort>
+1716
+
+> <TS_ChemName>
+Phenacemide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+63-98-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10N2O2
+
+> <STRUCTURE_MW>
+178.1879
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-carbamoyl-2-phenylacetamide
+
+> <STRUCTURE_SMILES>
+O=C(Cc1ccccc1)NC(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(Cc1ccccc1)NC(N)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

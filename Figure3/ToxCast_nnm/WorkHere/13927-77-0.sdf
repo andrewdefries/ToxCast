@@ -1,0 +1,121 @@
+13927-77-0
+ChemmineR-0914142331XD
+
+ 25 24  0  0  0  0  0  0  0  0  1 V2000
+    4.6026   -5.9848    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6026   -4.6441    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -3.9806    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3082   -4.6441    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3082   -5.9848    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -6.6482    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -7.9751    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -2.6538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3082   -1.9903    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1472   -2.6538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9903    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7636   -3.9806    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9108   -4.6441    0.0000 Ni   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0580   -3.9806    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2191   -4.6441    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2191   -5.9848    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3663   -3.9806    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3663   -2.6538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5135   -1.9903    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5135   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6745    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5135   -4.6441    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6745   -3.9806    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   12.6745   -2.6538    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   13.8217   -1.9903    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+M  END
+> <ID>
+892
+
+> <Formula>
+C18H36N2NiS4
+
+> <FW>
+467.4452
+
+> <DSSTox_CID>
+927
+
+> <DSSTox_RID>
+75871
+
+> <DSSTox_GSID>
+20927
+
+> <DSSTox_FileID_Sort>
+555
+
+> <TS_ChemName>
+Nickel dibutyldithiocarbamate
+
+> <TS_ChemName_Synonyms>
+Nickel dibutyldithiocarbamate (Nickel, bis(dibutylcarbamodithioato-.kappa.S,.kappa.S')-, (SP-4-1)-)
+
+> <TS_CASRN>
+13927-77-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H36N2NiS4
+
+> <STRUCTURE_MW>
+467.4452
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+nickel(2+) bis(dibutylcarbamodithioate)
+
+> <STRUCTURE_SMILES>
+S=C(S[Ni]SC(=S)N(CCCC)CCCC)N(CCCC)CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+S=C(S[Ni]SC(=S)N(CCCC)CCCC)N(CCCC)CCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

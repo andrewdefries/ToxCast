@@ -1,0 +1,107 @@
+952-23-8
+ChemmineR-0914142331XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6614    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -2.0076    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4626   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6138    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7649   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9253    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0580   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0580   -2.0076    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9253   -2.6614    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7649   -2.0076    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6138   -2.6614    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4626   -2.0076    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023   -2.6614    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2092   -2.6614    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2877   -3.5547    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+1145
+
+> <Formula>
+C13H12ClN3
+
+> <FW>
+245.7075 (209.2465+36.4609)
+
+> <DSSTox_CID>
+1191
+
+> <DSSTox_RID>
+76001
+
+> <DSSTox_GSID>
+21191
+
+> <DSSTox_FileID_Sort>
+685
+
+> <TS_ChemName>
+Proflavin hydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+952-23-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [92-62-6]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H12ClN3
+
+> <STRUCTURE_MW>
+245.7075
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+acridine-3,6-diamine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Nc1cc2nc3cc(N)ccc3cc2cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1cc2nc3cc(N)ccc3cc2cc1
+
+> <Substance_modify_yyyymmdd>
+20110419
+
+$$$$

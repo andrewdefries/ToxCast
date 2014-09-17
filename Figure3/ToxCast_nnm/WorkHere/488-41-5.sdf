@@ -1,0 +1,95 @@
+488-41-5
+ChemmineR-0914142331XD
+
+ 12 11  0  0  1  0  0  0  0  0  1 V2000
+    3.3334   -3.4541    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0048   -3.4541    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3446   -4.5975    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0048   -5.7488    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3446   -6.9002    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0048   -8.0516    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3334   -5.7488    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.5975    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3446   -2.3028    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.0048   -1.1514    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3446    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3028    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  1  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  6  0  0  0
+  5  6  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  6  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+2630
+
+> <Formula>
+C6H12Br2O4
+
+> <FW>
+307.9651
+
+> <DSSTox_CID>
+2918
+
+> <DSSTox_RID>
+76788
+
+> <DSSTox_GSID>
+22918
+
+> <DSSTox_FileID_Sort>
+1472
+
+> <TS_ChemName>
+Dibromomannitol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+488-41-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12Br2O4
+
+> <STRUCTURE_MW>
+307.9651
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,6-dibromo-1,6-dideoxy-D-mannitol
+
+> <STRUCTURE_SMILES>
+O[C@H]([C@H](O)CBr)[C@H](O)[C@H](O)CBr
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@H]([C@H](O)CBr)[C@H](O)[C@H](O)CBr
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,99 @@
+112-70-9
+ChemmineR-0914142331XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1556    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3113   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4669    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6225   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7782    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9338   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0744    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2301   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3857    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5413   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6969    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8526   -0.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0082    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+1814
+
+> <Formula>
+C13H28O
+
+> <FW>
+200.3608
+
+> <DSSTox_CID>
+1947
+
+> <DSSTox_RID>
+76420
+
+> <DSSTox_GSID>
+21947
+
+> <DSSTox_FileID_Sort>
+1104
+
+> <TS_ChemName>
+1-Tridecanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+112-70-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H28O
+
+> <STRUCTURE_MW>
+200.3608
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tridecan-1-ol
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCCCCCO
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCCCCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

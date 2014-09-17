@@ -1,0 +1,92 @@
+634-93-5
+ChemmineR-0914142331XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.3182   -2.3028    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887   -2.3028    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239   -3.4568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -3.4568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -2.3028    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -1.1487    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239   -1.1487    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3028    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887   -4.6056    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+1325
+
+> <Formula>
+C6H4Cl3N
+
+> <FW>
+196.4617
+
+> <DSSTox_CID>
+1379
+
+> <DSSTox_RID>
+76122
+
+> <DSSTox_GSID>
+21379
+
+> <DSSTox_FileID_Sort>
+806
+
+> <TS_ChemName>
+2,4,6-Trichloroaniline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+634-93-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4Cl3N
+
+> <STRUCTURE_MW>
+196.4617
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4,6-trichloroaniline
+
+> <STRUCTURE_SMILES>
+Clc1cc(Cl)cc(Cl)c1N
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(Cl)cc(Cl)c1N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

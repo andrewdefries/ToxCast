@@ -1,0 +1,83 @@
+108-05-4
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    4.6084   -1.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042   -1.9954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+1374
+
+> <Formula>
+C4H6O2
+
+> <FW>
+86.0892
+
+> <DSSTox_CID>
+1431
+
+> <DSSTox_RID>
+76157
+
+> <DSSTox_GSID>
+21431
+
+> <DSSTox_FileID_Sort>
+841
+
+> <TS_ChemName>
+Vinyl acetate
+
+> <TS_ChemName_Synonyms>
+Vinyl acetate (Acetic acid ethenyl ester)
+
+> <TS_CASRN>
+108-05-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6O2
+
+> <STRUCTURE_MW>
+86.0892
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethenyl acetate
+
+> <STRUCTURE_SMILES>
+CC(=O)OC=C
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)OC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,94 @@
+4180-23-8
+ChemmineR-0914142331XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3316    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9934   -1.1561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3249   -1.1561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9867    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3183    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9801   -1.1561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3183   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9867   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3116   -1.1561    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9734   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+85
+
+> <Formula>
+C10H12O
+
+> <FW>
+148.2017
+
+> <DSSTox_CID>
+87
+
+> <DSSTox_RID>
+75356
+
+> <DSSTox_GSID>
+20087
+
+> <DSSTox_FileID_Sort>
+40
+
+> <TS_ChemName>
+(E)-Anethole
+
+> <TS_ChemName_Synonyms>
+trans-Anethole; Benzene, 1-methoxy-4-(1E)-1-propenyl-
+
+> <TS_CASRN>
+4180-23-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12O
+
+> <STRUCTURE_MW>
+148.2017
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-methoxy-4-[(1E)-prop-1-en-1-yl]benzene
+
+> <STRUCTURE_SMILES>
+COc1ccc(/C=C/C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(/C=C/C)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

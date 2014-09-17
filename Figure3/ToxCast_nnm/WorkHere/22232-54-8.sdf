@@ -1,0 +1,96 @@
+22232-54-8
+ChemmineR-0914142331XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    5.8256   -1.4544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0989   -0.1527    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7095   -2.4428    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0354   -2.2981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0506   -3.5918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7489   -3.3186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6043   -1.9928    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552   -1.3258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4552    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3062   -1.9928    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1491   -1.3258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+2476
+
+> <Formula>
+C7H10N2O2S
+
+> <FW>
+186.2315
+
+> <DSSTox_CID>
+2736
+
+> <DSSTox_RID>
+76708
+
+> <DSSTox_GSID>
+22736
+
+> <DSSTox_FileID_Sort>
+1392
+
+> <TS_ChemName>
+Carbimazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+22232-54-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H10N2O2S
+
+> <STRUCTURE_MW>
+186.2315
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 3-methyl-2-thioxo-2,3-dihydro-1H-imidazole-1-carboxylate
+
+> <STRUCTURE_SMILES>
+S=C1N(C=CN1C)C(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+S=C1N(C=CN1C)C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

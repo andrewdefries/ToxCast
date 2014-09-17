@@ -1,0 +1,102 @@
+114-26-1
+ChemmineR-0914142331XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    5.3224   -1.1543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9884   -1.1543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3248    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3248   -2.3018    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9884   -3.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3224   -3.4561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9860   -4.6105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3224   -5.7579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9884   -5.7579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3248   -4.6105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976   -4.6105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3272   -5.7579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7579    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9976   -6.9123    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3248   -6.9123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+1815
+
+> <Formula>
+C11H15NO3
+
+> <FW>
+209.2417
+
+> <DSSTox_CID>
+1948
+
+> <DSSTox_RID>
+76421
+
+> <DSSTox_GSID>
+21948
+
+> <DSSTox_FileID_Sort>
+1105
+
+> <TS_ChemName>
+Propoxur
+
+> <TS_ChemName_Synonyms>
+Propoxur (Baygon) (Isopropoxyphenyl methylcarbamate)
+
+> <TS_CASRN>
+114-26-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H15NO3
+
+> <STRUCTURE_MW>
+209.2417
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(propan-2-yloxy)phenyl methylcarbamate
+
+> <STRUCTURE_SMILES>
+CC(C)Oc1ccccc1OC(=O)NC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)Oc1ccccc1OC(=O)NC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

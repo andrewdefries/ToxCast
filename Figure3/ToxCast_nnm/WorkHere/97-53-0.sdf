@@ -1,0 +1,96 @@
+97-53-0
+ChemmineR-0914142331XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    6.9143    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7605   -0.6696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7605   -2.0009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6068   -2.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4612   -2.0009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4612   -0.6696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6068    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3074   -2.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -2.0009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9143   -2.6624    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0680   -2.0009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+592
+
+> <Formula>
+C10H12O2
+
+> <FW>
+164.2011
+
+> <DSSTox_CID>
+617
+
+> <DSSTox_RID>
+75693
+
+> <DSSTox_GSID>
+20617
+
+> <DSSTox_FileID_Sort>
+377
+
+> <TS_ChemName>
+Eugenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+97-53-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12O2
+
+> <STRUCTURE_MW>
+164.2011
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methoxy-4-(prop-2-en-1-yl)phenol
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1OC)CC=C
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1OC)CC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

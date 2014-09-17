@@ -1,0 +1,103 @@
+1465-25-4
+ChemmineR-0914142331XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    2.3045   -1.9902    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1522   -2.6590    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1522   -3.9886    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3045   -4.6493    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -3.9886    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4567   -2.6590    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6009   -1.9902    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7532   -2.6590    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9054   -1.9902    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0577   -2.6590    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9902    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1522    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3045   -0.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1031   -5.7371    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4640   -5.7371    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1 14  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+883
+
+> <Formula>
+C12H16Cl2N2
+
+> <FW>
+259.1748 (186.2530+36.4609+36.4609)
+
+> <DSSTox_CID>
+917
+
+> <DSSTox_RID>
+75864
+
+> <DSSTox_GSID>
+20917
+
+> <DSSTox_FileID_Sort>
+548
+
+> <TS_ChemName>
+N-(1-Naphthyl)ethylenediamine dihydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1465-25-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [551-09-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H16Cl2N2
+
+> <STRUCTURE_MW>
+259.1748
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+N-(naphthalen-1-yl)ethane-1,2-diamine dihydrochloride
+
+> <STRUCTURE_SMILES>
+Cl.Cl.NCCNc2cccc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+NCCNc2cccc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

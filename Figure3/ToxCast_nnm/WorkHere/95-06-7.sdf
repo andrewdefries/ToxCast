@@ -1,0 +1,95 @@
+95-06-7
+ChemmineR-0914142331XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    2.3006   -3.9862    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3006   -2.6598    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -1.9897    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1537   -0.6632    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6598    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9862    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4543   -1.9897    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -2.6598    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7548   -1.9897    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7548   -0.6632    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9086   -2.6598    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+1239
+
+> <Formula>
+C8H14ClNS2
+
+> <FW>
+223.7865
+
+> <DSSTox_CID>
+1289
+
+> <DSSTox_RID>
+76061
+
+> <DSSTox_GSID>
+21289
+
+> <DSSTox_FileID_Sort>
+745
+
+> <TS_ChemName>
+Sulfallate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+95-06-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14ClNS2
+
+> <STRUCTURE_MW>
+223.7865
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloroprop-2-en-1-yl diethylcarbamodithioate
+
+> <STRUCTURE_SMILES>
+C=C(Cl)CSC(=S)N(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+C=C(Cl)CSC(=S)N(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

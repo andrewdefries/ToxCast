@@ -1,0 +1,89 @@
+3054-95-3
+ChemmineR-0914142331XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -2.6588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -0.6635    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -2.6588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+24
+
+> <Formula>
+C7H14O2
+
+> <FW>
+130.1849
+
+> <DSSTox_CID>
+24
+
+> <DSSTox_RID>
+75327
+
+> <DSSTox_GSID>
+20024
+
+> <DSSTox_FileID_Sort>
+11
+
+> <TS_ChemName>
+Acrolein diethylacetal
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3054-95-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O2
+
+> <STRUCTURE_MW>
+130.1849
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3-diethoxyprop-1-ene
+
+> <STRUCTURE_SMILES>
+C=CC(OCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC(OCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,93 @@
+924-16-3
+ChemmineR-0914142331XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9901    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -2.6604    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3080   -1.9901    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4620   -2.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3080   -0.6565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4620    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6022   -0.6565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7562    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6022   -1.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7562   -2.6604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9102   -1.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+990
+
+> <Formula>
+C8H18N2O
+
+> <FW>
+158.2413
+
+> <DSSTox_CID>
+1026
+
+> <DSSTox_RID>
+75911
+
+> <DSSTox_GSID>
+21026
+
+> <DSSTox_FileID_Sort>
+595
+
+> <TS_ChemName>
+N-Nitrosodibutylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+924-16-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18N2O
+
+> <STRUCTURE_MW>
+158.2413
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-butyl-N-nitrosobutan-1-amine
+
+> <STRUCTURE_SMILES>
+CCCCN(CCCC)N=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCN(CCCC)N=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

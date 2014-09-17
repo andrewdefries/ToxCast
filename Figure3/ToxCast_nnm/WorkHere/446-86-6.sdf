@@ -1,0 +1,112 @@
+446-86-6
+ChemmineR-0914142331XD
+
+ 19 21  0  0  0  0  0  0  0  0  2 V2000
+    3.2901   -4.0583    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1377   -4.7263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9853   -4.0583    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9853   -2.7306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1377   -2.0626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2901   -2.7306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4424   -2.0626    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5948   -2.7306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7367   -4.0500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7430   -4.9434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0310   -4.3339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6991   -3.1815    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8056   -2.1878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0895   -0.8935    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    6.0958    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    8.3504   -0.4760    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8621   -0.7682    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5428   -0.6263    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8454    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 19  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 17  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <ID>
+116
+
+> <Formula>
+C9H7N7O2S
+
+> <FW>
+277.2626
+
+> <DSSTox_CID>
+119
+
+> <DSSTox_RID>
+75381
+
+> <DSSTox_GSID>
+20119
+
+> <DSSTox_FileID_Sort>
+65
+
+> <TS_ChemName>
+Azathioprine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+446-86-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H7N7O2S
+
+> <STRUCTURE_MW>
+277.2626
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-[(1-methyl-4-nitro-1H-imidazol-5-yl)sulfanyl]-7H-purine
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c3ncn(C)c3Sc2ncnc1ncnc12
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c3ncn(C)c3Sc2ncnc1ncnc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

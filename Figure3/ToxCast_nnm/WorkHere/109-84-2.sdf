@@ -1,0 +1,81 @@
+109-84-2
+ChemmineR-0914142331XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -0.6638    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+698
+
+> <Formula>
+C2H8N2O
+
+> <FW>
+76.0977
+
+> <DSSTox_CID>
+728
+
+> <DSSTox_RID>
+75757
+
+> <DSSTox_GSID>
+20728
+
+> <DSSTox_FileID_Sort>
+441
+
+> <TS_ChemName>
+2-Hydroxyethylhydrazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+109-84-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H8N2O
+
+> <STRUCTURE_MW>
+76.0977
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-hydrazinylethanol
+
+> <STRUCTURE_SMILES>
+NNCCO
+
+> <STRUCTURE_SMILES_Desalt>
+NNCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

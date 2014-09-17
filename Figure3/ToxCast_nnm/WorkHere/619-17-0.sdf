@@ -1,0 +1,98 @@
+619-17-0
+ChemmineR-0914142331XD
+
+ 13 13  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -3.4590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6652   -2.3082    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.9956   -2.3082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6607   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9911   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6563   -2.3082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9911   -3.4590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6607   -3.4590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9867   -2.3082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6519   -3.4590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6519   -1.1574    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6563    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1574    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+927
+
+> <Formula>
+C7H6N2O4
+
+> <FW>
+182.1335
+
+> <DSSTox_CID>
+963
+
+> <DSSTox_RID>
+75891
+
+> <DSSTox_GSID>
+20963
+
+> <DSSTox_FileID_Sort>
+575
+
+> <TS_ChemName>
+4-Nitroanthranilic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+619-17-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H6N2O4
+
+> <STRUCTURE_MW>
+182.1335
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-amino-4-nitrobenzoic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1ccc(cc1N)[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1ccc(cc1N)[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,120 @@
+1095-90-5
+ChemmineR-0914142331XD
+
+ 24 24  0  0  0  0  0  0  0  0  1 V2000
+    3.4815   -5.7994    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7965   -6.9537    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7965   -4.6358    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4639   -6.9537    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4639   -4.6358    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8070   -5.7994    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4815   -3.4815    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.1384   -2.3367    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4710   -2.3367    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1467   -1.1730    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4886   -1.1730    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3437   -3.1062    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.4710    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3179   -2.8153    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1449   -3.4815    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3179   -1.4827    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.8153    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1449   -0.8070    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4827    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6170   -4.1572    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6170   -5.4898    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7807   -6.1467    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7807   -3.4815    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.3842   -1.4827    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 23  2  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <ID>
+484
+
+> <Formula>
+C21H28ClNO
+
+> <FW>
+345.9061 (309.4452+36.4609)
+
+> <DSSTox_CID>
+501
+
+> <DSSTox_RID>
+75626
+
+> <DSSTox_GSID>
+20501
+
+> <DSSTox_FileID_Sort>
+310
+
+> <TS_ChemName>
+Methadone hydrochloride
+
+> <TS_ChemName_Synonyms>
+Methadone hydrochloride (6-Dimethylamino-4,4-diphenyl-3-heptanone.HCl)
+
+> <TS_CASRN>
+1095-90-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+racemic mixture of d- [15284-15-8], l- [5967-73-7]; structure shown without stereochem; parent [76-99-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C21H28ClNO
+
+> <STRUCTURE_MW>
+345.9061
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+6-(dimethylamino)-4,4-diphenylheptan-3-one hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

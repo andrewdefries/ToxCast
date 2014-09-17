@@ -1,0 +1,96 @@
+59-23-4
+ChemmineR-0914142331XD
+
+ 12 12  0  0  1  0  0  0  0  0  1 V2000
+    1.3304   -5.7594    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9927   -4.6075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -3.4556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4556    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9927   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.1519    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9927    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3231   -2.3037    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -3.4556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3216   -3.4556    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3231   -4.6075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9912   -5.7594    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  6  0  0  0
+M  END
+> <ID>
+2775
+
+> <Formula>
+C6H12O6
+
+> <FW>
+180.1559
+
+> <DSSTox_CID>
+3088
+
+> <DSSTox_RID>
+76869
+
+> <DSSTox_GSID>
+23088
+
+> <DSSTox_FileID_Sort>
+1553
+
+> <TS_ChemName>
+Galactose
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+59-23-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O6
+
+> <STRUCTURE_MW>
+180.1559
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+D-galactopyranose
+
+> <STRUCTURE_SMILES>
+O[C@H]1[C@@H](O)[C@@H](CO)OC(O)[C@@H]1O
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@H]1[C@@H](O)[C@@H](CO)OC(O)[C@@H]1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

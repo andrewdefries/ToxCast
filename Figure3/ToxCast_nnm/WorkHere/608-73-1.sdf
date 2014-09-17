@@ -1,0 +1,96 @@
+608-73-1
+ChemmineR-0914142331XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3036    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -2.3036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901   -2.3036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -2.3036    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -3.4581    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -3.4581    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -4.6072    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901   -4.6072    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+658
+
+> <Formula>
+C6H6Cl6
+
+> <FW>
+290.8298
+
+> <DSSTox_CID>
+687
+
+> <DSSTox_RID>
+75735
+
+> <DSSTox_GSID>
+20687
+
+> <DSSTox_FileID_Sort>
+419
+
+> <TS_ChemName>
+1,2,3,4,5,6-Hexachlorocyclohexane (mixed isomers)
+
+> <TS_ChemName_Synonyms>
+Hexachlorocyclohexane, technical grade; BHC; t-HCH; Benzene hexachloride
+
+> <TS_CASRN>
+608-73-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of isomers and related compounds
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C6H6Cl6
+
+> <STRUCTURE_MW>
+290.8298
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2,3,4,5,6-hexachlorocyclohexane
+
+> <STRUCTURE_SMILES>
+ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

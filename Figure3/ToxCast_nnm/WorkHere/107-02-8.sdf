@@ -1,0 +1,79 @@
+107-02-8
+ChemmineR-0914142331XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575   -0.6638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+M  END
+> <ID>
+23
+
+> <Formula>
+C3H4O
+
+> <FW>
+56.0633
+
+> <DSSTox_CID>
+23
+
+> <DSSTox_RID>
+75326
+
+> <DSSTox_GSID>
+20023
+
+> <DSSTox_FileID_Sort>
+10
+
+> <TS_ChemName>
+Acrolein
+
+> <TS_ChemName_Synonyms>
+2-Propenal
+
+> <TS_CASRN>
+107-02-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H4O
+
+> <STRUCTURE_MW>
+56.0633
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+prop-2-enal
+
+> <STRUCTURE_SMILES>
+C=CC=O
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

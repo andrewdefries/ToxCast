@@ -1,0 +1,90 @@
+78-27-3
+ChemmineR-0914142331XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    4.9239   -1.2507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9239   -2.5801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7717   -3.2449    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6195   -2.5801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6195   -1.2507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3098   -1.4821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.7135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1665    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7717   -0.5859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  3  0  0  0  0
+M  END
+> <ID>
+1669
+
+> <Formula>
+C8H12O
+
+> <FW>
+124.1803
+
+> <DSSTox_CID>
+1757
+
+> <DSSTox_RID>
+76308
+
+> <DSSTox_GSID>
+21757
+
+> <DSSTox_FileID_Sort>
+992
+
+> <TS_ChemName>
+1-Ethynylcyclohexanol
+
+> <TS_ChemName_Synonyms>
+1-Ethynyl-cyclohexanol
+
+> <TS_CASRN>
+78-27-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12O
+
+> <STRUCTURE_MW>
+124.1803
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-ethynylcyclohexanol
+
+> <STRUCTURE_SMILES>
+C#CC1(O)CCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+C#CC1(O)CCCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,113 @@
+56-53-1
+ChemmineR-0914142331XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    6.0553   -3.7463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3988   -2.6032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8482   -2.5919    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1691   -3.7237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9807   -3.7011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3129   -2.5692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9581   -1.4261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2031   -1.4374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.5806    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9874   -1.1431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3309    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3682   -3.7463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0360   -2.6032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3489   -2.6145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0053   -3.7463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3376   -4.8895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0246   -4.8895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3183   -3.7577    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3988   -4.8782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0553   -6.0213    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 12  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+449
+
+> <Formula>
+C18H20O2
+
+> <FW>
+268.3502
+
+> <DSSTox_CID>
+465
+
+> <DSSTox_RID>
+75608
+
+> <DSSTox_GSID>
+20465
+
+> <DSSTox_FileID_Sort>
+292
+
+> <TS_ChemName>
+Diethylstilbestrol
+
+> <TS_ChemName_Synonyms>
+Diethylstilbestrol (DES)
+
+> <TS_CASRN>
+56-53-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H20O2
+
+> <STRUCTURE_MW>
+268.3502
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-(3E)-hex-3-ene-3,4-diyldiphenol
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1)C(\CC)=C(/CC)c2ccc(O)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1)C(\CC)=C(/CC)c2ccc(O)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

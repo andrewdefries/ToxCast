@@ -1,0 +1,113 @@
+530-78-9
+ChemmineR-0914142331XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    7.7951   -3.4594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1379   -4.6095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8052   -4.6095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1389   -3.4594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8052   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1389   -1.1592    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8063   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1491   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8164   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1501   -3.4594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4838   -4.6095    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7931    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3002   -4.1257    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1501   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8164    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1491    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1379   -2.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7951   -1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1379    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1277   -1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 17  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 17  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 16  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <ID>
+2755
+
+> <Formula>
+C14H10F3NO2
+
+> <FW>
+281.2299
+
+> <DSSTox_CID>
+3063
+
+> <DSSTox_RID>
+76859
+
+> <DSSTox_GSID>
+23063
+
+> <DSSTox_FileID_Sort>
+1543
+
+> <TS_ChemName>
+Flufenamic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+530-78-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H10F3NO2
+
+> <STRUCTURE_MW>
+281.2299
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-{[3-(trifluoromethyl)phenyl]amino}benzoic acid
+
+> <STRUCTURE_SMILES>
+FC(F)(F)c1cc(ccc1)Nc2ccccc2C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)(F)c1cc(ccc1)Nc2ccccc2C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

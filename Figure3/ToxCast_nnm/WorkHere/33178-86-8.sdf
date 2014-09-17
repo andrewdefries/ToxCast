@@ -1,0 +1,107 @@
+33178-86-8
+ChemmineR-0914142331XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    1.1508   -0.6652    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3015    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4589   -0.6652    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4589   -1.9955    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6097   -2.6607    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3015   -2.6607    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3015   -3.9911    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1508   -4.6562    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1508   -5.9866    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3015   -6.6518    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4589   -4.6562    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6695   -4.1174    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5609   -5.1019    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8957   -6.2526    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5986   -5.9799    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1508   -1.9955    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6607    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 16  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+2330
+
+> <Formula>
+C12H13Cl2N3
+
+> <FW>
+270.1577
+
+> <DSSTox_CID>
+2571
+
+> <DSSTox_RID>
+76635
+
+> <DSSTox_GSID>
+22571
+
+> <DSSTox_FileID_Sort>
+1319
+
+> <TS_ChemName>
+Alinidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+33178-86-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H13Cl2N3
+
+> <STRUCTURE_MW>
+270.1577
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(2,6-dichlorophenyl)-N-(prop-2-en-1-yl)-4,5-dihydro-1H-imidazol-2-amine
+
+> <STRUCTURE_SMILES>
+C=CCN(C1=NCCN1)c2c(Cl)cccc2Cl
+
+> <STRUCTURE_SMILES_Desalt>
+C=CCN(C1=NCCN1)c2c(Cl)cccc2Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,88 @@
+1330-20-7
+ChemmineR-0914142331XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.9784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1591   -3.9768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2982   -3.3173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2982   -1.9784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1391   -1.3189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1591    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4572   -3.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+1388
+
+> <Formula>
+C8H10
+
+> <FW>
+106.165
+
+> <DSSTox_CID>
+1446
+
+> <DSSTox_RID>
+76162
+
+> <DSSTox_GSID>
+21446
+
+> <DSSTox_FileID_Sort>
+846
+
+> <TS_ChemName>
+Xylenes
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1330-20-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of isomers; m-xylene [108-38-3]; o-xylene [95-47-6]; p-xylene [106-42-3]; structure shown m-
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C8H10
+
+> <STRUCTURE_MW>
+106.165
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,3-dimethylbenzene
+
+> <STRUCTURE_SMILES>
+Cc1cccc(C)c1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cccc(C)c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

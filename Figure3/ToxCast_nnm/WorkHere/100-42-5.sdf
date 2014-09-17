@@ -1,0 +1,88 @@
+100-42-5
+ChemmineR-0914142331XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6531   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+1234
+
+> <Formula>
+C8H8
+
+> <FW>
+104.1491
+
+> <DSSTox_CID>
+1284
+
+> <DSSTox_RID>
+76057
+
+> <DSSTox_GSID>
+21284
+
+> <DSSTox_FileID_Sort>
+741
+
+> <TS_ChemName>
+Styrene
+
+> <TS_ChemName_Synonyms>
+Styrene (Benzene, ethenyl-)
+
+> <TS_CASRN>
+100-42-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8
+
+> <STRUCTURE_MW>
+104.1491
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethenylbenzene
+
+> <STRUCTURE_SMILES>
+C=Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+C=Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

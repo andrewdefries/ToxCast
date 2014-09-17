@@ -1,0 +1,106 @@
+96-83-3
+ChemmineR-0914142331XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    1.1531   -3.3302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1531   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3305    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061   -1.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4592   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6042   -1.3305    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4592   -3.3302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6042   -3.9914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7573   -3.3302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9103   -3.9914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9103   -5.3218    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0634   -3.3302    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7573   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9103   -1.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061   -3.9914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061   -5.3218    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+2836
+
+> <Formula>
+C11H12I3NO2
+
+> <FW>
+570.9319
+
+> <DSSTox_CID>
+3159
+
+> <DSSTox_RID>
+76897
+
+> <DSSTox_GSID>
+23159
+
+> <DSSTox_FileID_Sort>
+1581
+
+> <TS_ChemName>
+Iopanoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+96-83-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H12I3NO2
+
+> <STRUCTURE_MW>
+570.9319
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(3-amino-2,4,6-triiodobenzyl)butanoic acid
+
+> <STRUCTURE_SMILES>
+Ic1cc(I)c(N)c(I)c1CC(CC)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Ic1cc(I)c(N)c(I)c1CC(CC)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,107 @@
+80-09-1
+ChemmineR-0914142331XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    5.3218   -1.3304    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9913   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3208   -0.1809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9903   -0.1809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9903   -2.4799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3208   -2.4799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6522   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3121   -0.1809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6532   -0.1809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3131   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6532   -2.4799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3121   -2.4799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6435   -1.3304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3218   -2.6609    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3218    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 16  2  0  0  0  0
+  1 17  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+2209
+
+> <Formula>
+C12H10O4S
+
+> <FW>
+250.2704
+
+> <DSSTox_CID>
+2409
+
+> <DSSTox_RID>
+76579
+
+> <DSSTox_GSID>
+22409
+
+> <DSSTox_FileID_Sort>
+1263
+
+> <TS_ChemName>
+4,4'-Sulfonyldiphenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+80-09-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10O4S
+
+> <STRUCTURE_MW>
+250.2704
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-sulfonyldiphenol
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1)S(=O)(=O)c2ccc(O)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1)S(=O)(=O)c2ccc(O)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

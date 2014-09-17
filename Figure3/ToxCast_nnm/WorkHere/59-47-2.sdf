@@ -1,0 +1,98 @@
+59-47-2
+ChemmineR-0914142331XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    5.9807   -1.1496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6452   -2.3059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9807   -3.4555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6517   -3.4555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9871   -4.6051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9871   -2.3059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6581   -2.3059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9936   -1.1496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6645   -1.1496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3059    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6645   -3.4555    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6517   -1.1496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 13  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+2922
+
+> <Formula>
+C10H14O3
+
+> <FW>
+182.2164
+
+> <DSSTox_CID>
+3254
+
+> <DSSTox_RID>
+76942
+
+> <DSSTox_GSID>
+23254
+
+> <DSSTox_FileID_Sort>
+1626
+
+> <TS_ChemName>
+Mephenesin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+59-47-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14O3
+
+> <STRUCTURE_MW>
+182.2164
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(2-methylphenoxy)propane-1,2-diol
+
+> <STRUCTURE_SMILES>
+OCC(O)COc1ccccc1C
+
+> <STRUCTURE_SMILES_Desalt>
+OCC(O)COc1ccccc1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

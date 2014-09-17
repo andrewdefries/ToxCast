@@ -1,0 +1,83 @@
+10595-95-6
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    2.3042    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042   -1.3318    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -1.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6084   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -1.9954    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3318    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+1000
+
+> <Formula>
+C3H8N2O
+
+> <FW>
+88.1084
+
+> <DSSTox_CID>
+1036
+
+> <DSSTox_RID>
+75918
+
+> <DSSTox_GSID>
+21036
+
+> <DSSTox_FileID_Sort>
+602
+
+> <TS_ChemName>
+N-Nitroso-N-methylethylamine
+
+> <TS_ChemName_Synonyms>
+N-Nitroso-N-methylethylamine (Nitrosoethylmethylamine)
+
+> <TS_CASRN>
+10595-95-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H8N2O
+
+> <STRUCTURE_MW>
+88.1084
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-methyl-N-nitrosoethanamine
+
+> <STRUCTURE_SMILES>
+CCN(C)N=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(C)N=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

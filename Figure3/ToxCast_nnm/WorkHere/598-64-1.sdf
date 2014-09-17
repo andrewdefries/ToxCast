@@ -1,0 +1,88 @@
+598-64-1
+ChemmineR-0914142331XD
+
+  9  7  0  0  0  0  0  0  0  0  1 V2000
+    5.7176   -1.1492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0501   -1.1492    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0549    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0549   -2.3054    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7176   -3.4546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7225   -2.3054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1492   -1.3254    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3054   -1.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+496
+
+> <Formula>
+C5H14N2S2
+
+> <FW>
+166.3081 (121.2244+45.0837)
+
+> <DSSTox_CID>
+513
+
+> <DSSTox_RID>
+75635
+
+> <DSSTox_GSID>
+20513
+
+> <DSSTox_FileID_Sort>
+319
+
+> <TS_ChemName>
+Dimethyldithiocarbamic acid, dimethylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+598-64-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [79-45-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H14N2S2
+
+> <STRUCTURE_MW>
+166.3081
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+dimethylcarbamodithioic acid - N-methylmethanamine (1:1)
+
+> <STRUCTURE_SMILES>
+CNC.CN(C)C(=S)S
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)C(=S)S
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

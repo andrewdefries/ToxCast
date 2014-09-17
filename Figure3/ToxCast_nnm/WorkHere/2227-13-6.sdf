@@ -1,0 +1,107 @@
+2227-13-6
+ChemmineR-0914142331XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    4.6047   -2.6615    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4535   -1.9984    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023   -2.6615    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1512   -1.9984    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1512   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3023    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4535   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6047    0.0000    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7558   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9070    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0581   -0.6631    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0581   -1.9984    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9070   -2.6615    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7558   -1.9984    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2093   -2.6615    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6615    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 16  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+305
+
+> <Formula>
+C12H6Cl4S
+
+> <FW>
+324.053
+
+> <DSSTox_CID>
+314
+
+> <DSSTox_RID>
+75508
+
+> <DSSTox_GSID>
+20314
+
+> <DSSTox_FileID_Sort>
+192
+
+> <TS_ChemName>
+Tetrasul
+
+> <TS_ChemName_Synonyms>
+Tetrasul (p-Chlorophenyl-2,4,5-trichlorophenyl sulfide)
+
+> <TS_CASRN>
+2227-13-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H6Cl4S
+
+> <STRUCTURE_MW>
+324.053
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-chlorophenyl 2,4,5-trichlorophenyl sulfide
+
+> <STRUCTURE_SMILES>
+Clc2cc(Sc1ccc(Cl)cc1)c(Cl)cc2Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc2cc(Sc1ccc(Cl)cc1)c(Cl)cc2Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

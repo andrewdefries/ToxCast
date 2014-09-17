@@ -1,0 +1,100 @@
+120-61-6
+ChemmineR-0914142331XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    6.6460   -3.4559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9814   -2.3062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6522   -2.3062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9876   -3.4559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6584   -3.4559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9938   -2.3062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6584   -1.1498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9876   -1.1498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6646   -2.3062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1498    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6646   -4.6057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6460   -1.1498    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9814    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+481
+
+> <Formula>
+C10H10O4
+
+> <FW>
+194.184
+
+> <DSSTox_CID>
+498
+
+> <DSSTox_RID>
+75624
+
+> <DSSTox_GSID>
+20498
+
+> <DSSTox_FileID_Sort>
+308
+
+> <TS_ChemName>
+Dimethyl terephthalate
+
+> <TS_ChemName_Synonyms>
+Dimethyl terephthalate (DMT) (1,4-Benzenedicarboxylic acid, dimethyl ester)
+
+> <TS_CASRN>
+120-61-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H10O4
+
+> <STRUCTURE_MW>
+194.184
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dimethyl benzene-1,4-dicarboxylate
+
+> <STRUCTURE_SMILES>
+COC(=O)c1ccc(cc1)C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+COC(=O)c1ccc(cc1)C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,111 @@
+3575-80-2
+ChemmineR-0914142331XD
+
+ 19 20  0  0  0  0  0  0  0  0  1 V2000
+    1.9955   -2.3015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.1441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9955    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3259    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9911   -1.1441    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3214   -1.1441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9866   -2.3015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3170   -2.3015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9822   -1.1441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3170    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3125   -1.1441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9777    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3081    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9732   -1.1441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3036   -1.1441    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3081   -2.3015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9777   -2.3015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3259   -2.3015    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 19  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+2960
+
+> <Formula>
+C16H22FNO
+
+> <FW>
+263.3504
+
+> <DSSTox_CID>
+3298
+
+> <DSSTox_RID>
+76964
+
+> <DSSTox_GSID>
+23298
+
+> <DSSTox_FileID_Sort>
+1648
+
+> <TS_ChemName>
+Methylperone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3575-80-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H22FNO
+
+> <STRUCTURE_MW>
+263.3504
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(4-fluorophenyl)-4-(4-methylpiperidin-1-yl)butan-1-one
+
+> <STRUCTURE_SMILES>
+Fc1ccc(cc1)C(=O)CCCN2CCC(C)CC2
+
+> <STRUCTURE_SMILES_Desalt>
+Fc1ccc(cc1)C(=O)CCCN2CCC(C)CC2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

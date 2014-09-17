@@ -1,0 +1,105 @@
+21739-91-3
+ChemmineR-0914142331XD
+
+ 17 16  0  0  0  0  0  0  0  0  2 V2000
+    9.9713   -2.3034    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6451   -2.3034    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9770   -3.4600    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    7.9770   -1.1567    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6508   -1.1567    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9828    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9828   -2.3034    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6566   -2.3034    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9885   -3.4600    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6623   -3.4600    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -2.3034    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6681   -2.3034    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4600    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6623   -1.1567    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9885   -1.1567    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6508   -3.4600    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9158   -4.7862    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 16  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+358
+
+> <Formula>
+C11H8BrNaO4
+
+> <FW>
+307.0726 (284.0834+22.9892)
+
+> <DSSTox_CID>
+368
+
+> <DSSTox_RID>
+75544
+
+> <DSSTox_GSID>
+20368
+
+> <DSSTox_FileID_Sort>
+228
+
+> <TS_ChemName>
+Cytembena
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+21739-91-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; parent [5711-40-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H8BrNaO4
+
+> <STRUCTURE_MW>
+307.0726
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium (2E)-3-bromo-4-(4-methoxyphenyl)-4-oxobut-2-enoate
+
+> <STRUCTURE_SMILES>
+[Na+].COc1ccc(cc1)C(=O)C(/Br)=C\C([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+COc1ccc(cc1)C(=O)C(/Br)=C\C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

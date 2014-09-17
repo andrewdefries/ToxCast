@@ -1,0 +1,114 @@
+446-72-0
+ChemmineR-0914142331XD
+
+ 20 22  0  0  0  0  0  0  0  0  1 V2000
+    5.3203   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9874   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3209   -3.4565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9880   -3.4565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3329   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9880   -1.1522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3209   -1.1522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9874    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3043    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9874   -4.6086    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3203   -4.6086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9754   -3.4565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3083   -3.4565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9748   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3077   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9628   -3.4565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3077   -4.6086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9748   -4.6086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2957   -3.4565    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9754   -1.1522    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  1 20  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+2142
+
+> <Formula>
+C15H10O5
+
+> <FW>
+270.2369
+
+> <DSSTox_CID>
+2308
+
+> <DSSTox_RID>
+76542
+
+> <DSSTox_GSID>
+22308
+
+> <DSSTox_FileID_Sort>
+1226
+
+> <TS_ChemName>
+Genistein
+
+> <TS_ChemName_Synonyms>
+Genistein (GEN) (4',5,7-Trihydroxyisoflavone)
+
+> <TS_CASRN>
+446-72-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H10O5
+
+> <STRUCTURE_MW>
+270.2369
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5,7-dihydroxy-3-(4-hydroxyphenyl)-4H-chromen-4-one
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1)C3=COc2cc(O)cc(O)c2C3=O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1)C3=COc2cc(O)cc(O)c2C3=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

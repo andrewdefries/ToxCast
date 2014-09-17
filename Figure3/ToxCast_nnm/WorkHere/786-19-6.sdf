@@ -1,0 +1,108 @@
+786-19-6
+ChemmineR-0914142331XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1496    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3305   -1.1496    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9905    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3210    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9916   -1.1496    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3222   -1.1496    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9821   -2.2992    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3127   -2.2992    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9833   -3.4594    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    6.8337   -4.1194    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1329   -2.7888    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.1329   -1.4583    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.2931   -0.7983    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6539   -4.6090    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9844   -4.6090    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6444   -3.4594    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9905   -2.2992    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3210   -2.2992    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+1961
+
+> <Formula>
+C11H16ClO2PS3
+
+> <FW>
+342.8653
+
+> <DSSTox_CID>
+2120
+
+> <DSSTox_RID>
+76494
+
+> <DSSTox_GSID>
+22120
+
+> <DSSTox_FileID_Sort>
+1178
+
+> <TS_ChemName>
+Carbophenothion
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+786-19-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H16ClO2PS3
+
+> <STRUCTURE_MW>
+342.8653
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+S-{[(4-chlorophenyl)sulfanyl]methyl} O,O-diethyl phosphorodithioate
+
+> <STRUCTURE_SMILES>
+Clc1ccc(SCSP(=S)(OCC)OCC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(SCSP(=S)(OCC)OCC)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

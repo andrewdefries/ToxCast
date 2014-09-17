@@ -1,0 +1,110 @@
+57-66-9
+ChemmineR-0914142331XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    3.6323   -3.9915    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -3.9915    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9779   -3.9915    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -5.3187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1476   -5.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1476   -7.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -7.9831    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4527   -7.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4527   -5.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -9.3103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4527   -9.9788    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1476   -9.9788    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -2.6644    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1476   -1.9958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1476   -0.6686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4527   -1.9958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6102   -2.6644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7578   -1.9958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2 13  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+1142
+
+> <Formula>
+C13H19NO4S
+
+> <FW>
+285.3593
+
+> <DSSTox_CID>
+1188
+
+> <DSSTox_RID>
+75998
+
+> <DSSTox_GSID>
+21188
+
+> <DSSTox_FileID_Sort>
+682
+
+> <TS_ChemName>
+Probenecid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+57-66-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H19NO4S
+
+> <STRUCTURE_MW>
+285.3593
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(dipropylsulfamoyl)benzoic acid
+
+> <STRUCTURE_SMILES>
+O=S(=O)(N(CCC)CCC)c1ccc(cc1)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(N(CCC)CCC)c1ccc(cc1)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

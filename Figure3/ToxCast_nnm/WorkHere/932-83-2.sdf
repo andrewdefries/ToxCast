@@ -1,0 +1,90 @@
+932-83-2
+ChemmineR-0914142331XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.0295    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1032   -2.7684    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2897   -2.1752    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2897   -0.8638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2992    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6106   -0.2862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2038   -1.4883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6418   -2.6904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3461   -2.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+1004
+
+> <Formula>
+C6H12N2O
+
+> <FW>
+128.1723
+
+> <DSSTox_CID>
+1040
+
+> <DSSTox_RID>
+75920
+
+> <DSSTox_GSID>
+21040
+
+> <DSSTox_FileID_Sort>
+604
+
+> <TS_ChemName>
+N-Nitrosohexamethyleneimine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+932-83-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12N2O
+
+> <STRUCTURE_MW>
+128.1723
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-nitrosoazepane
+
+> <STRUCTURE_SMILES>
+O=NN1CCCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=NN1CCCCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

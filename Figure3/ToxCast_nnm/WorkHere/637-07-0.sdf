@@ -1,0 +1,104 @@
+637-07-0
+ChemmineR-0914142331XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    4.6068   -5.3201    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6068   -3.9880    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6068   -2.6644    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4551   -1.9940    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3034   -2.6644    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -1.9940    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -0.6704    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3034    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4551   -0.6704    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9390   -3.9880    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6008   -5.1397    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6008   -2.8363    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9329   -2.8363    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5947   -1.6846    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.2746   -3.9880    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+326
+
+> <Formula>
+C12H15ClO3
+
+> <FW>
+242.6987
+
+> <DSSTox_CID>
+336
+
+> <DSSTox_RID>
+75521
+
+> <DSSTox_GSID>
+20336
+
+> <DSSTox_FileID_Sort>
+205
+
+> <TS_ChemName>
+Clofibrate
+
+> <TS_ChemName_Synonyms>
+Clofibrate (ethyl-p-chlorophenoxyisobutyrate)
+
+> <TS_CASRN>
+637-07-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H15ClO3
+
+> <STRUCTURE_MW>
+242.6987
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl 2-(4-chlorophenoxy)-2-methylpropanoate
+
+> <STRUCTURE_SMILES>
+Clc1ccc(OC(C)(C)C(=O)OCC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(OC(C)(C)C(=O)OCC)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

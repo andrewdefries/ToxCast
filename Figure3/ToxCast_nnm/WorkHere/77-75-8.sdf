@@ -1,0 +1,85 @@
+77-75-8
+ChemmineR-0914142331XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    4.2985   -2.4802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1465   -1.8140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9945   -1.1520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6608    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8425   -0.4857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3282   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+1668
+
+> <Formula>
+C6H10O
+
+> <FW>
+98.143
+
+> <DSSTox_CID>
+1756
+
+> <DSSTox_RID>
+76307
+
+> <DSSTox_GSID>
+21756
+
+> <DSSTox_FileID_Sort>
+991
+
+> <TS_ChemName>
+3-Methyl-1-pentyn-3-ol
+
+> <TS_ChemName_Synonyms>
+Methylpentynol (3-methyl-1-pentyn-3-ol) (Meparfynol)
+
+> <TS_CASRN>
+77-75-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10O
+
+> <STRUCTURE_MW>
+98.143
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylpent-1-yn-3-ol
+
+> <STRUCTURE_SMILES>
+C#CC(C)(O)CC
+
+> <STRUCTURE_SMILES_Desalt>
+C#CC(C)(O)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

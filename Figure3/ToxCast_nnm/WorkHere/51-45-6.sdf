@@ -1,0 +1,88 @@
+51-45-6
+ChemmineR-0914142331XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    3.5913   -0.2780    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8921    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5592   -1.1508    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6698   -2.1403    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4523   -1.5955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3015   -2.2626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1508   -1.5955    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2626    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+2806
+
+> <Formula>
+C5H9N3
+
+> <FW>
+111.1451
+
+> <DSSTox_CID>
+3125
+
+> <DSSTox_RID>
+76884
+
+> <DSSTox_GSID>
+23125
+
+> <DSSTox_FileID_Sort>
+1568
+
+> <TS_ChemName>
+Histamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+51-45-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H9N3
+
+> <STRUCTURE_MW>
+111.1451
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(1H-imidazol-5-yl)ethanamine
+
+> <STRUCTURE_SMILES>
+NCCc1cncn1
+
+> <STRUCTURE_SMILES_Desalt>
+NCCc1cncn1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

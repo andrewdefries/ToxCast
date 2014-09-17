@@ -1,0 +1,87 @@
+629-08-3
+ChemmineR-0914142331XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    8.0709   -0.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9167   -1.3317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7626   -0.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -1.3317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4624   -0.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3083   -1.3317    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -0.6699    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  3  0  0  0  0
+M  END
+> <ID>
+1536
+
+> <Formula>
+C7H13N
+
+> <FW>
+111.1848
+
+> <DSSTox_CID>
+1599
+
+> <DSSTox_RID>
+76226
+
+> <DSSTox_GSID>
+21599
+
+> <DSSTox_FileID_Sort>
+910
+
+> <TS_ChemName>
+Heptanenitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+629-08-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H13N
+
+> <STRUCTURE_MW>
+111.1848
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+heptanenitrile
+
+> <STRUCTURE_SMILES>
+CCCCCCC#N
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCC#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

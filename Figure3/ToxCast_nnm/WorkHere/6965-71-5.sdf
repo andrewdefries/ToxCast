@@ -1,0 +1,100 @@
+6965-71-5
+ChemmineR-0914142331XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    1.1528    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -1.3254    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -2.0019    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -3.3273    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -3.9831    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3273    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0019    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4447   -1.3254    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5975   -2.0019    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7503   -1.3254    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7503    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9031   -2.0019    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5975   -3.3273    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1528   -5.3154    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+425
+
+> <Formula>
+C9H8Cl2O3
+
+> <FW>
+235.064
+
+> <DSSTox_CID>
+441
+
+> <DSSTox_RID>
+75590
+
+> <DSSTox_GSID>
+20441
+
+> <DSSTox_FileID_Sort>
+274
+
+> <TS_ChemName>
+alpha-(2,5-Dichlorophenoxy)propionic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6965-71-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H8Cl2O3
+
+> <STRUCTURE_MW>
+235.064
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(2,5-dichlorophenoxy)propanoic acid
+
+> <STRUCTURE_SMILES>
+Clc1ccc(Cl)cc1OC(C)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(Cl)cc1OC(C)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

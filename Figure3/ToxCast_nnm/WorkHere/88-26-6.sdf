@@ -1,0 +1,106 @@
+88-26-6
+ChemmineR-0914142331XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    3.9901   -1.1505    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -2.3009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -4.6085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -4.6085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -2.3009    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -1.1505    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6650    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4805   -0.4855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1796   -1.8155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -5.7590    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -2.1280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6501   -3.4580    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -4.7881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+M  END
+> <ID>
+207
+
+> <Formula>
+C15H24O2
+
+> <FW>
+236.3499
+
+> <DSSTox_CID>
+211
+
+> <DSSTox_RID>
+75436
+
+> <DSSTox_GSID>
+20211
+
+> <DSSTox_FileID_Sort>
+120
+
+> <TS_ChemName>
+di-tert-Butyl-4-hydroxymethyl phenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+88-26-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H24O2
+
+> <STRUCTURE_MW>
+236.3499
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,6-di-tert-butyl-4-(hydroxymethyl)phenol
+
+> <STRUCTURE_SMILES>
+CC(C)(C)c1cc(cc(c1O)C(C)(C)C)CO
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c1cc(cc(c1O)C(C)(C)C)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,86 @@
+108-30-5
+ChemmineR-0914142331XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    4.4520   -2.5243    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3746   -1.7407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1102   -2.1548    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3311   -1.0774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0774    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1102    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3746   -0.4140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+1237
+
+> <Formula>
+C4H4O3
+
+> <FW>
+100.0728
+
+> <DSSTox_CID>
+1287
+
+> <DSSTox_RID>
+76059
+
+> <DSSTox_GSID>
+21287
+
+> <DSSTox_FileID_Sort>
+743
+
+> <TS_ChemName>
+Succinic anhydride
+
+> <TS_ChemName_Synonyms>
+Succinic anhydride (2,5-Furandione, dihydro-)
+
+> <TS_CASRN>
+108-30-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H4O3
+
+> <STRUCTURE_MW>
+100.0728
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dihydrofuran-2,5-dione
+
+> <STRUCTURE_SMILES>
+O=C1CCC(=O)O1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1CCC(=O)O1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

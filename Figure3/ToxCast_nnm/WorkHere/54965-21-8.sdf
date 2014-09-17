@@ -1,0 +1,109 @@
+54965-21-8
+ChemmineR-0914142331XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+   10.9629   -4.7809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2992   -3.6379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6211   -1.9910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6211   -0.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4536    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3106   -0.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1676    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9317   -0.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9317   -1.9910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7641   -2.6547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1853   -2.4089    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9596   -1.3273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2992   -1.3273    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9629   -2.4703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2902   -2.4703    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1853   -0.2458    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 18  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+2325
+
+> <Formula>
+C12H15N3O2S
+
+> <FW>
+265.3314
+
+> <DSSTox_CID>
+2563
+
+> <DSSTox_RID>
+76632
+
+> <DSSTox_GSID>
+22563
+
+> <DSSTox_FileID_Sort>
+1316
+
+> <TS_ChemName>
+Albendazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+54965-21-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H15N3O2S
+
+> <STRUCTURE_MW>
+265.3314
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl [5-(propylsulfanyl)-1H-benzimidazol-2-yl]carbamate
+
+> <STRUCTURE_SMILES>
+O=C(OC)Nc1nc2cc(ccc2n1)SCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OC)Nc1nc2cc(ccc2n1)SCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,95 @@
+52-68-6
+ChemmineR-0914142331XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    1.3266   -1.9854    0.0000 P    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6577   -1.9854    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3299   -3.1372    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9854    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4817   -2.4649    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0022   -4.2890    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1781   -3.8095    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3266   -3.3120    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3266   -0.6543    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3120   -0.8336    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4829    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1748   -3.9708    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+1334
+
+> <Formula>
+C4H8Cl3O4P
+
+> <FW>
+257.4367
+
+> <DSSTox_CID>
+1389
+
+> <DSSTox_RID>
+76131
+
+> <DSSTox_GSID>
+21389
+
+> <DSSTox_FileID_Sort>
+815
+
+> <TS_ChemName>
+Trichlorfon
+
+> <TS_ChemName_Synonyms>
+Trichlorfon (Trichlorophone)
+
+> <TS_CASRN>
+52-68-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8Cl3O4P
+
+> <STRUCTURE_MW>
+257.4367
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dimethyl (2,2,2-trichloro-1-hydroxyethyl)phosphonate
+
+> <STRUCTURE_SMILES>
+OC(C(Cl)(Cl)Cl)P(=O)(OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+OC(C(Cl)(Cl)Cl)P(=O)(OC)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

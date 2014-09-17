@@ -1,0 +1,101 @@
+882-33-7
+ChemmineR-0914142331XD
+
+ 14 15  0  0  0  0  0  0  0  0  1 V2000
+    1.9964   -3.4570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655   -3.4570    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6619   -2.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9928   -2.3075    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6497   -1.1581    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9806   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6461    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9770    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6425   -1.1581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9770   -2.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6461   -2.3075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+1972
+
+> <Formula>
+C12H10S2
+
+> <FW>
+218.3378
+
+> <DSSTox_CID>
+2131
+
+> <DSSTox_RID>
+76501
+
+> <DSSTox_GSID>
+22131
+
+> <DSSTox_FileID_Sort>
+1185
+
+> <TS_ChemName>
+Diphenyl disulfide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+882-33-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10S2
+
+> <STRUCTURE_MW>
+218.3378
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diphenyl disulfide
+
+> <STRUCTURE_SMILES>
+S(Sc1ccccc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+S(Sc1ccccc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

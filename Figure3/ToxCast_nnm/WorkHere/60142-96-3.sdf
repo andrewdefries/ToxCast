@@ -1,0 +1,96 @@
+60142-96-3
+ChemmineR-0914142331XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    4.0663   -4.2139    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6134   -2.9635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -2.7322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7568   -1.4818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0663   -1.2504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9228   -2.2694    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5241    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -4.0613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -4.7259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.0613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7322    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -2.0676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+73
+
+> <Formula>
+C9H17NO2
+
+> <FW>
+171.2368
+
+> <DSSTox_CID>
+74
+
+> <DSSTox_RID>
+75350
+
+> <DSSTox_GSID>
+20074
+
+> <DSSTox_FileID_Sort>
+34
+
+> <TS_ChemName>
+Gabapentin
+
+> <TS_ChemName_Synonyms>
+1-(Aminomethyl)cyclohexaneacetic acid; GBP
+
+> <TS_CASRN>
+60142-96-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H17NO2
+
+> <STRUCTURE_MW>
+171.2368
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+[1-(aminomethyl)cyclohexyl]acetic acid
+
+> <STRUCTURE_SMILES>
+NCC1(CC(=O)O)CCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+NCC1(CC(=O)O)CCCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,109 @@
+2425-06-1
+ChemmineR-0914142331XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    2.3001   -1.6689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3001   -3.0006    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5713   -3.4156    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9777   -4.6781    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.3495   -2.3347    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5713   -1.2625    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9777    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    5.6812   -2.3347    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    6.3470   -3.4935    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4971   -2.8276    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4971   -1.4960    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6472   -3.4935    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0128   -4.6435    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1883   -4.1506    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1501   -3.6664    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0006    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6689    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1501   -1.0117    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+238
+
+> <Formula>
+C10H9Cl4NO2S
+
+> <FW>
+349.061
+
+> <DSSTox_CID>
+242
+
+> <DSSTox_RID>
+75456
+
+> <DSSTox_GSID>
+20242
+
+> <DSSTox_FileID_Sort>
+140
+
+> <TS_ChemName>
+Captafol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2425-06-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture Z- [2939-80-2]; E-isomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H9Cl4NO2S
+
+> <STRUCTURE_MW>
+349.061
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-[(1,1,2,2-tetrachloroethyl)sulfanyl]-3a,4,7,7a-tetrahydro-1H-isoindole-1,3(2H)-dione
+
+> <STRUCTURE_SMILES>
+ClC(Cl)C(Cl)(Cl)SN2C(=O)C1CC=CCC1C2=O
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)C(Cl)(Cl)SN2C(=O)C1CC=CCC1C2=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

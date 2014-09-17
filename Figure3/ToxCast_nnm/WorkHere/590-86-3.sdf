@@ -1,0 +1,83 @@
+590-86-3
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    3.4563    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6084   -1.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042   -1.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+M  END
+> <ID>
+1556
+
+> <Formula>
+C5H10O
+
+> <FW>
+86.1323
+
+> <DSSTox_CID>
+1619
+
+> <DSSTox_RID>
+76239
+
+> <DSSTox_GSID>
+21619
+
+> <DSSTox_FileID_Sort>
+923
+
+> <TS_ChemName>
+3-Methylbutanal
+
+> <TS_ChemName_Synonyms>
+3-Methylbutanal (Isovaleraldehyde)
+
+> <TS_CASRN>
+590-86-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10O
+
+> <STRUCTURE_MW>
+86.1323
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylbutanal
+
+> <STRUCTURE_SMILES>
+CC(C)CC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

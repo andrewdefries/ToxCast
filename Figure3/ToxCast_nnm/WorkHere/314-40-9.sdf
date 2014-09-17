@@ -1,0 +1,100 @@
+314-40-9
+ChemmineR-0914142331XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    4.6549    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9907   -1.1547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6549   -2.3035    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9831   -2.3035    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9907   -3.4582    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6565   -3.4582    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9924   -4.6070    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9924   -2.3035    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6641   -2.3035    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4582    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6641   -4.6070    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6565   -1.1547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9924    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <ID>
+1869
+
+> <Formula>
+C9H13BrN2O2
+
+> <FW>
+261.1157
+
+> <DSSTox_CID>
+2020
+
+> <DSSTox_RID>
+76463
+
+> <DSSTox_GSID>
+22020
+
+> <DSSTox_FileID_Sort>
+1147
+
+> <TS_ChemName>
+Bromacil
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+314-40-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H13BrN2O2
+
+> <STRUCTURE_MW>
+261.1157
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-bromo-3-(butan-2-yl)-6-methylpyrimidine-2,4(1H,3H)-dione
+
+> <STRUCTURE_SMILES>
+CCC(C)N1C(=O)C(Br)=C(C)NC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(C)N1C(=O)C(Br)=C(C)NC1=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

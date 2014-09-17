@@ -1,0 +1,108 @@
+131-17-9
+ChemmineR-0914142331XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    4.6498   -3.4535    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9878   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6559   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9939   -3.4535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6620   -3.4535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6620   -1.1485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9939   -1.1485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6559   -4.6020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9939   -5.7585    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9878   -4.6020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6498   -5.7585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9818   -5.7585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6438   -6.9069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6498   -1.1485    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9818   -1.1485    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6438    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9757    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+377
+
+> <Formula>
+C14H14O4
+
+> <FW>
+246.2586
+
+> <DSSTox_CID>
+392
+
+> <DSSTox_RID>
+75560
+
+> <DSSTox_GSID>
+20392
+
+> <DSSTox_FileID_Sort>
+244
+
+> <TS_ChemName>
+Diallyl phthalate
+
+> <TS_ChemName_Synonyms>
+Diallyl phthalate (1,2-Benzenedicarboxylic acid, di-2-propenyl ester)
+
+> <TS_CASRN>
+131-17-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H14O4
+
+> <STRUCTURE_MW>
+246.2586
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diprop-2-en-1-yl benzene-1,2-dicarboxylate
+
+> <STRUCTURE_SMILES>
+O=C(OCC=C)c1ccccc1C(=O)OCC=C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC=C)c1ccccc1C(=O)OCC=C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

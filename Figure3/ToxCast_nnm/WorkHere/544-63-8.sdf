@@ -1,0 +1,103 @@
+544-63-8
+ChemmineR-0914142331XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+   12.6831    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8375   -0.6746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9919    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8375   -2.0089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6831   -2.6686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5287   -2.0089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3744   -2.6686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2200   -2.0089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0656   -2.6686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9262   -2.0089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7719   -2.6686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6175   -2.0089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4631   -2.6686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3087   -2.0089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -2.6686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+1603
+
+> <Formula>
+C14H28O2
+
+> <FW>
+228.3709
+
+> <DSSTox_CID>
+1666
+
+> <DSSTox_RID>
+76274
+
+> <DSSTox_GSID>
+21666
+
+> <DSSTox_FileID_Sort>
+958
+
+> <TS_ChemName>
+Tetradecanoic acid
+
+> <TS_ChemName_Synonyms>
+Myristic acid
+
+> <TS_CASRN>
+544-63-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H28O2
+
+> <STRUCTURE_MW>
+228.3709
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tetradecanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

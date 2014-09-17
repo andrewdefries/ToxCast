@@ -1,0 +1,100 @@
+7209-38-3
+ChemmineR-0914142331XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+   11.5135   -0.6678    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3621    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2108   -0.6678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0594    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9081   -0.6678    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9081   -1.9918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567   -2.6596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6054   -1.9918    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540   -2.6596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -1.9918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -2.6596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9918    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6054   -0.6678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7567    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+2084
+
+> <Formula>
+C10H24N4
+
+> <FW>
+200.3244
+
+> <DSSTox_CID>
+2246
+
+> <DSSTox_RID>
+76527
+
+> <DSSTox_GSID>
+22246
+
+> <DSSTox_FileID_Sort>
+1211
+
+> <TS_ChemName>
+1,4-bis(3-Aminopropyl)piperazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7209-38-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H24N4
+
+> <STRUCTURE_MW>
+200.3244
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,3'-piperazine-1,4-diyldipropan-1-amine
+
+> <STRUCTURE_SMILES>
+NCCCN1CCN(CCCN)CC1
+
+> <STRUCTURE_SMILES_Desalt>
+NCCCN1CCN(CCCN)CC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

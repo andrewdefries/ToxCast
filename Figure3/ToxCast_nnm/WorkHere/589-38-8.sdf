@@ -1,0 +1,85 @@
+589-38-8
+ChemmineR-0914142331XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6073    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+1545
+
+> <Formula>
+C6H12O
+
+> <FW>
+100.1589
+
+> <DSSTox_CID>
+1608
+
+> <DSSTox_RID>
+76234
+
+> <DSSTox_GSID>
+21608
+
+> <DSSTox_FileID_Sort>
+918
+
+> <TS_ChemName>
+3-Hexanone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+589-38-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O
+
+> <STRUCTURE_MW>
+100.1589
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexan-3-one
+
+> <STRUCTURE_SMILES>
+CCC(=O)CCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(=O)CCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

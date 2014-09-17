@@ -1,0 +1,81 @@
+123-72-8
+ChemmineR-0914142331XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -0.6638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <ID>
+1453
+
+> <Formula>
+C4H8O
+
+> <FW>
+72.1057
+
+> <DSSTox_CID>
+1513
+
+> <DSSTox_RID>
+76191
+
+> <DSSTox_GSID>
+21513
+
+> <DSSTox_FileID_Sort>
+875
+
+> <TS_ChemName>
+Butyraldehyde
+
+> <TS_ChemName_Synonyms>
+Butyraldehyde (Butanal)
+
+> <TS_CASRN>
+123-72-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8O
+
+> <STRUCTURE_MW>
+72.1057
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butanal
+
+> <STRUCTURE_SMILES>
+CCCC=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

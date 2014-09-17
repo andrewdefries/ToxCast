@@ -1,0 +1,81 @@
+124-63-0
+ChemmineR-0914142331XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+      2.66     -1.33      0.00 C    0  0  0  0  0  0  0  0  0  0  0  0
+      1.33     -1.33      0.00 S    0  0  0  0  0  0  0  0  0  0  0  0
+      0.00     -1.33      0.00 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+      1.33      0.00      0.00 O    0  0  0  0  0  0  0  0  0  0  0  0
+      1.33     -2.66      0.00 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+M  END
+> <ID>
+1552
+
+> <Formula>
+CH3ClO2S
+
+> <FW>
+114.5513
+
+> <DSSTox_CID>
+1615
+
+> <DSSTox_RID>
+76236
+
+> <DSSTox_GSID>
+21615
+
+> <DSSTox_FileID_Sort>
+920
+
+> <TS_ChemName>
+Methanesulfonyl chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+124-63-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+CH3ClO2S
+
+> <STRUCTURE_MW>
+114.5513
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methanesulfonyl chloride
+
+> <STRUCTURE_SMILES>
+CS(Cl)(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CS(Cl)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

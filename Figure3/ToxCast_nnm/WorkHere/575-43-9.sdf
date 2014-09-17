@@ -1,0 +1,97 @@
+575-43-9
+ChemmineR-0914142331XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    3.9921   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3277   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9931   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3287   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9931   -3.4534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3277   -3.4534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9921    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3208    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9852   -1.1491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3208   -2.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9852   -3.4534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+2213
+
+> <Formula>
+C12H12
+
+> <FW>
+156.2237
+
+> <DSSTox_CID>
+2415
+
+> <DSSTox_RID>
+76582
+
+> <DSSTox_GSID>
+22415
+
+> <DSSTox_FileID_Sort>
+1266
+
+> <TS_ChemName>
+1,6-Dimethylnaphthalene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+575-43-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H12
+
+> <STRUCTURE_MW>
+156.2237
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,6-dimethylnaphthalene
+
+> <STRUCTURE_SMILES>
+Cc2cccc1cc(C)ccc12
+
+> <STRUCTURE_SMILES_Desalt>
+Cc2cccc1cc(C)ccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,104 @@
+671-16-9
+ChemmineR-0914142331XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1499   -1.9994    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1499   -0.6630    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2998    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4497   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5996    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7599   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7599   -1.9994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5996   -2.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4497   -1.9994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9098   -2.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9098   -3.9884    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0597   -1.9994    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2096   -2.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3595   -1.9994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2096   -3.9884    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <ID>
+1143
+
+> <Formula>
+C12H19N3O
+
+> <FW>
+221.2988
+
+> <DSSTox_CID>
+1189
+
+> <DSSTox_RID>
+75999
+
+> <DSSTox_GSID>
+21189
+
+> <DSSTox_FileID_Sort>
+683
+
+> <TS_ChemName>
+Procarbazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+671-16-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H19N3O
+
+> <STRUCTURE_MW>
+221.2988
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-[(2-methylhydrazinyl)methyl]-N-(propan-2-yl)benzamide
+
+> <STRUCTURE_SMILES>
+CC(C)NC(=O)c1ccc(CNNC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)NC(=O)c1ccc(CNNC)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

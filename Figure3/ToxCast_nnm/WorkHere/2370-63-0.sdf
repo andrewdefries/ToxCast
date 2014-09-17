@@ -1,0 +1,93 @@
+2370-63-0
+ChemmineR-0914142331XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    7.9743   -2.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3125   -1.1563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9743    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9808   -1.1563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3189    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3189   -2.3046    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9872   -2.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3253   -1.1563    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9936   -1.1563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3317    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+2025
+
+> <Formula>
+C8H14O3
+
+> <FW>
+158.195
+
+> <DSSTox_CID>
+2186
+
+> <DSSTox_RID>
+76517
+
+> <DSSTox_GSID>
+22186
+
+> <DSSTox_FileID_Sort>
+1201
+
+> <TS_ChemName>
+2-Ethoxyethyl methacrylate
+
+> <TS_ChemName_Synonyms>
+2-Ethoxyethyl methacrylate (2-Propenoic acid, 2-methyl-, 2-ethoxyethyl ester)
+
+> <TS_CASRN>
+2370-63-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14O3
+
+> <STRUCTURE_MW>
+158.195
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethoxyethyl 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+CCOCCOC(=O)C(=C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CCOCCOC(=O)C(=C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,92 @@
+103-82-2
+ChemmineR-0914142331XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6612    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -2.6612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -1.9988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7602   -0.6682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7602   -1.9988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082   -2.6612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6682    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+1593
+
+> <Formula>
+C8H8O2
+
+> <FW>
+136.1479
+
+> <DSSTox_CID>
+1656
+
+> <DSSTox_RID>
+76268
+
+> <DSSTox_GSID>
+21656
+
+> <DSSTox_FileID_Sort>
+952
+
+> <TS_ChemName>
+Phenylacetic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+103-82-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8O2
+
+> <STRUCTURE_MW>
+136.1479
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+phenylacetic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)Cc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)Cc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

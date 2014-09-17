@@ -1,0 +1,112 @@
+4291-63-8
+ChemmineR-0914142331XD
+
+ 19 21  0  0  1  0  0  0  0  0  1 V2000
+    4.6288   -3.6687    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3955   -3.2550    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6288   -5.5030    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3937   -2.5993    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3955   -1.9514    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2558   -3.9028    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5672   -4.7459    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2385   -6.7597    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6288   -1.5377    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2558   -1.3035    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1240   -3.2550    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5212   -5.5030    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9349   -6.7597    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1240   -1.9514    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2558    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9028    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2879   -5.1049    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1544   -7.8057    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.3200   -5.9635    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  1  1  1  0  0  0
+  1  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 17  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 18  1  6  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <ID>
+2555
+
+> <Formula>
+C10H12ClN5O3
+
+> <FW>
+285.687
+
+> <DSSTox_CID>
+2828
+
+> <DSSTox_RID>
+76747
+
+> <DSSTox_GSID>
+22828
+
+> <DSSTox_FileID_Sort>
+1431
+
+> <TS_ChemName>
+Cladribine
+
+> <TS_ChemName_Synonyms>
+Cladribine (2-chloro-2'-deoxyadenosine) (2CdA)
+
+> <TS_CASRN>
+4291-63-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12ClN5O3
+
+> <STRUCTURE_MW>
+285.687
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-chloro-2'-deoxyadenosine
+
+> <STRUCTURE_SMILES>
+Nc3nc(Cl)nc2c3ncn2[C@H]1C[C@H](O)[C@@H](CO)O1
+
+> <STRUCTURE_SMILES_Desalt>
+Nc3nc(Cl)nc2c3ncn2[C@H]1C[C@H](O)[C@@H](CO)O1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

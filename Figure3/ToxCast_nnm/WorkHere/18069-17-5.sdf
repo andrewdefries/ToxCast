@@ -1,0 +1,91 @@
+18069-17-5
+ChemmineR-0914142331XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    5.7535   -3.3223    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7535   -1.9961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9070   -1.3261    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6069   -1.3261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6069    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4535   -1.9961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3000   -1.3261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -1.9961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3261    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1535   -3.3223    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <ID>
+1569
+
+> <Formula>
+C6H10O4
+
+> <FW>
+146.1412
+
+> <DSSTox_CID>
+1632
+
+> <DSSTox_RID>
+76246
+
+> <DSSTox_GSID>
+21632
+
+> <DSSTox_FileID_Sort>
+930
+
+> <TS_ChemName>
+2-Methylpentanedioic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+18069-17-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H10O4
+
+> <STRUCTURE_MW>
+146.1412
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylpentanedioic acid
+
+> <STRUCTURE_SMILES>
+CC(CCC(O)=O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(CCC(O)=O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

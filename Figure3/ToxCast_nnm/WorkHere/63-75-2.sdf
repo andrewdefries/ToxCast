@@ -1,0 +1,94 @@
+63-75-2
+ChemmineR-0914142331XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655   -1.1541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -1.1541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6573   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6537   -3.4577    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6537   -1.1541    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9882    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -3.4577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6655   -3.4577    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6072    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+2372
+
+> <Formula>
+C8H13NO2
+
+> <FW>
+155.1943
+
+> <DSSTox_CID>
+2617
+
+> <DSSTox_RID>
+76661
+
+> <DSSTox_GSID>
+22617
+
+> <DSSTox_FileID_Sort>
+1345
+
+> <TS_ChemName>
+Arecoline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+63-75-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H13NO2
+
+> <STRUCTURE_MW>
+155.1943
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl 1-methyl-1,2,5,6-tetrahydropyridine-3-carboxylate
+
+> <STRUCTURE_SMILES>
+CN1CC(=CCC1)C(=O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CN1CC(=CCC1)C(=O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

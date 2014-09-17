@@ -1,0 +1,84 @@
+120-93-4
+ChemmineR-0914142331XD
+
+  6  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.0738    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.0738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1104    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3767   -0.4086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3767   -1.7390    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1104   -2.1509    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+577
+
+> <Formula>
+C3H6N2O
+
+> <FW>
+86.0925
+
+> <DSSTox_CID>
+602
+
+> <DSSTox_RID>
+75683
+
+> <DSSTox_GSID>
+20602
+
+> <DSSTox_FileID_Sort>
+367
+
+> <TS_ChemName>
+Ethylene urea
+
+> <TS_ChemName_Synonyms>
+2-Imidazolidinone (Ethylene urea)
+
+> <TS_CASRN>
+120-93-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H6N2O
+
+> <STRUCTURE_MW>
+86.0925
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+imidazolidin-2-one
+
+> <STRUCTURE_SMILES>
+O=C1NCCN1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1NCCN1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

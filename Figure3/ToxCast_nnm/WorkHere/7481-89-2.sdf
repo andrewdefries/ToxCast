@@ -1,0 +1,103 @@
+7481-89-2
+ChemmineR-0914142331XD
+
+ 15 16  0  0  1  0  0  0  0  0  1 V2000
+    4.4026   -3.7892    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2781   -3.1691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2781   -1.9014    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5067   -3.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5067   -1.9014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4026   -1.2608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2081   -3.8233    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4026    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4026   -5.5544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2422   -5.5544    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3258   -4.7502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6716   -6.8152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0005   -6.8152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9746   -5.1182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.0314    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  9  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  6  2  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+3349
+
+> <Formula>
+C9H13N3O3
+
+> <FW>
+211.2178
+
+> <DSSTox_CID>
+3747
+
+> <DSSTox_RID>
+77182
+
+> <DSSTox_GSID>
+23747
+
+> <DSSTox_FileID_Sort>
+1865
+
+> <TS_ChemName>
+2',3'-Dideoxycytidine
+
+> <TS_ChemName_Synonyms>
+Zalcitibine; ddC
+
+> <TS_CASRN>
+7481-89-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H13N3O3
+
+> <STRUCTURE_MW>
+211.2178
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-amino-1-[(2R,5S)-5-(hydroxymethyl)tetrahydrofuran-2-yl]pyrimidin-2(1H)-one
+
+> <STRUCTURE_SMILES>
+NC1=NC(=O)N(C=C1)[C@H]2CC[C@@H](CO)O2
+
+> <STRUCTURE_SMILES_Desalt>
+NC1=NC(=O)N(C=C1)[C@H]2CC[C@@H](CO)O2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,114 @@
+363-17-7
+ChemmineR-0914142331XD
+
+ 20 22  0  0  0  0  0  0  0  0  1 V2000
+    0.1772    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3289   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4807    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6324   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6324   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7842   -2.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9359   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1959   -2.4118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9834   -1.3289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3025   -1.4667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8439   -2.6874    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0663   -3.7604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7373   -3.6226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1959   -0.2559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9359   -0.6694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7842    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3289   -1.9983    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6579   -1.9983    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3289   -3.3272    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9983    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  2  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 20  1  0  0  0  0
+M  END
+> <ID>
+604
+
+> <Formula>
+C15H10F3NO
+
+> <FW>
+277.2412
+
+> <DSSTox_CID>
+629
+
+> <DSSTox_RID>
+75703
+
+> <DSSTox_GSID>
+20629
+
+> <DSSTox_FileID_Sort>
+387
+
+> <TS_ChemName>
+N-(2-Fluorenyl)-2,2,2-trifluoroacetamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+363-17-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H10F3NO
+
+> <STRUCTURE_MW>
+277.2412
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-(9H-fluoren-2-yl)-2,2,2-trifluoroacetamide
+
+> <STRUCTURE_SMILES>
+FC(F)(F)C(=O)Nc1ccc2c3ccccc3Cc2c1
+
+> <STRUCTURE_SMILES_Desalt>
+FC(F)(F)C(=O)Nc1ccc2c3ccccc3Cc2c1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

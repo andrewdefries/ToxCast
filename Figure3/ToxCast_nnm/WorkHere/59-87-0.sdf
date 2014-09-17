@@ -1,0 +1,100 @@
+59-87-0
+ChemmineR-0914142331XD
+
+ 14 14  0  0  0  0  0  0  0  0  2 V2000
+    0.2393   -2.5025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7777   -1.2861    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.1037   -1.1466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7717    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0678   -0.2692    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2074   -1.5952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9910   -2.1336    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3639   -2.2632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5105   -1.5952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6670   -2.2632    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8136   -1.5952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8136   -0.2692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9701   -2.2632    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2094    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+908
+
+> <Formula>
+C6H6N4O4
+
+> <FW>
+198.1362
+
+> <DSSTox_CID>
+944
+
+> <DSSTox_RID>
+75881
+
+> <DSSTox_GSID>
+20944
+
+> <DSSTox_FileID_Sort>
+565
+
+> <TS_ChemName>
+Nitrofurazone
+
+> <TS_ChemName_Synonyms>
+Nitrofurazone (5-Nitro-2-furaldehyde semicarbazone)
+
+> <TS_CASRN>
+59-87-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H6N4O4
+
+> <STRUCTURE_MW>
+198.1362
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-2-[(5-nitrofuran-2-yl)methylidene]hydrazinecarboxamide
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccc(/C=N/NC(N)=O)o1
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccc(/C=N/NC(N)=O)o1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

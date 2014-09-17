@@ -1,0 +1,94 @@
+97-59-6
+ChemmineR-0914142331XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    4.2744    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2901   -0.8879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4278   -2.2095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2095   -2.7532    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3216   -1.7621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9066    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9892   -0.6126    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5773   -2.8771    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7336   -2.2095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7336   -0.8810    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8831   -2.8771    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+42
+
+> <Formula>
+C4H6N4O3
+
+> <FW>
+158.1154
+
+> <DSSTox_CID>
+43
+
+> <DSSTox_RID>
+75334
+
+> <DSSTox_GSID>
+20043
+
+> <DSSTox_FileID_Sort>
+18
+
+> <TS_ChemName>
+Allantoin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+97-59-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6N4O3
+
+> <STRUCTURE_MW>
+158.1154
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(2,5-dioxoimidazolidin-4-yl)urea
+
+> <STRUCTURE_SMILES>
+O=C1NC(=O)NC1NC(=O)N
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1NC(=O)NC1NC(=O)N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

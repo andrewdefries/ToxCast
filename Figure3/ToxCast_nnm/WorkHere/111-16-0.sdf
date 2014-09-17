@@ -1,0 +1,93 @@
+111-16-0
+ChemmineR-0914142331XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    7.9743   -2.3046    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6426   -2.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9808   -3.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6490   -3.4529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9872   -2.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6555   -2.3046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9936   -1.1483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6619   -1.1483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3046    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9808   -1.1483    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <ID>
+1535
+
+> <Formula>
+C7H12O4
+
+> <FW>
+160.1678
+
+> <DSSTox_CID>
+1598
+
+> <DSSTox_RID>
+76225
+
+> <DSSTox_GSID>
+21598
+
+> <DSSTox_FileID_Sort>
+909
+
+> <TS_ChemName>
+Heptanedioic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+111-16-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H12O4
+
+> <STRUCTURE_MW>
+160.1678
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+heptanedioic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCCCCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCCCCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

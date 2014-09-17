@@ -1,0 +1,107 @@
+50-91-9
+ChemmineR-0914142331XD
+
+ 17 18  0  0  1  0  0  0  0  0  1 V2000
+    4.3230   -3.9653    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4893   -3.3122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4893   -1.9982    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3697   -5.4426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1801   -3.3122    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1801   -1.9982    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3230   -1.3296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3122   -4.6729    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9653   -6.7022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2393   -5.4426    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6591   -6.7022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6245   -3.9653    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3230    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0604   -1.3296    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8738   -7.7752    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9797   -5.0228    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.9169    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  4  1  1  1  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 13  2  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 16  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 11 15  1  6  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+2749
+
+> <Formula>
+C9H11FN2O5
+
+> <FW>
+246.1924
+
+> <DSSTox_CID>
+3057
+
+> <DSSTox_RID>
+76855
+
+> <DSSTox_GSID>
+23057
+
+> <DSSTox_FileID_Sort>
+1539
+
+> <TS_ChemName>
+Floxuridine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+50-91-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11FN2O5
+
+> <STRUCTURE_MW>
+246.1924
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2'-deoxy-5-fluorouridine
+
+> <STRUCTURE_SMILES>
+FC1=CN(C(=O)NC1=O)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+> <STRUCTURE_SMILES_Desalt>
+FC1=CN(C(=O)NC1=O)[C@H]2C[C@H](O)[C@@H](CO)O2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

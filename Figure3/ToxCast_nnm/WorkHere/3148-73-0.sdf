@@ -1,0 +1,87 @@
+3148-73-0
+ChemmineR-0914142331XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    5.7628   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6103    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4577   -1.9939    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3051   -1.3312    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -1.9939    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1526   -3.3252    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+375
+
+> <Formula>
+C4H8N2O2
+
+> <FW>
+116.1185
+
+> <DSSTox_CID>
+390
+
+> <DSSTox_RID>
+75558
+
+> <DSSTox_GSID>
+20390
+
+> <DSSTox_FileID_Sort>
+242
+
+> <TS_ChemName>
+Diacetyl hydrazine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+3148-73-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8N2O2
+
+> <STRUCTURE_MW>
+116.1185
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N'-acetylacetohydrazide
+
+> <STRUCTURE_SMILES>
+CC(=O)NNC(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)NNC(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

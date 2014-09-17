@@ -1,0 +1,95 @@
+141-05-9
+ChemmineR-0914142331XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    1.1545   -5.3201    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1545   -3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1491   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1491    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -1.9950    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4527   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -3.3251    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4581   -3.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -3.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+448
+
+> <Formula>
+C8H12O4
+
+> <FW>
+172.1785
+
+> <DSSTox_CID>
+464
+
+> <DSSTox_RID>
+75607
+
+> <DSSTox_GSID>
+20464
+
+> <DSSTox_FileID_Sort>
+291
+
+> <TS_ChemName>
+Diethyl maleate
+
+> <TS_ChemName_Synonyms>
+Diethyl maleate (2-Butenedioic acid (2Z)-, diethyl ester)
+
+> <TS_CASRN>
+141-05-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12O4
+
+> <STRUCTURE_MW>
+172.1785
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diethyl (2Z)-but-2-enedioate
+
+> <STRUCTURE_SMILES>
+O=C(\C=C/C(=O)OCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(\C=C/C(=O)OCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

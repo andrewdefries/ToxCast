@@ -1,0 +1,83 @@
+127-17-3
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    1.3307    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -1.1509    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -3.4563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -1.1509    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+M  END
+> <ID>
+1587
+
+> <Formula>
+C3H4O3
+
+> <FW>
+88.0621
+
+> <DSSTox_CID>
+1650
+
+> <DSSTox_RID>
+76263
+
+> <DSSTox_GSID>
+21650
+
+> <DSSTox_FileID_Sort>
+947
+
+> <TS_ChemName>
+2-Oxopropanoic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+127-17-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H4O3
+
+> <STRUCTURE_MW>
+88.0621
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-oxopropanoic acid
+
+> <STRUCTURE_SMILES>
+CC(=O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

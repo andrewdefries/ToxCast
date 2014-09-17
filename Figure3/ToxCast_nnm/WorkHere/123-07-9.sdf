@@ -1,0 +1,90 @@
+123-07-9
+ChemmineR-0914142331XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    5.9806   -1.1542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6529   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9890   -2.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6554   -2.3025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9915   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6638   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6554    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9890    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+1835
+
+> <Formula>
+C8H10O
+
+> <FW>
+122.1644
+
+> <DSSTox_CID>
+1977
+
+> <DSSTox_RID>
+76438
+
+> <DSSTox_GSID>
+21977
+
+> <DSSTox_FileID_Sort>
+1122
+
+> <TS_ChemName>
+4-Ethylphenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+123-07-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10O
+
+> <STRUCTURE_MW>
+122.1644
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-ethylphenol
+
+> <STRUCTURE_SMILES>
+CCc1ccc(O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CCc1ccc(O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

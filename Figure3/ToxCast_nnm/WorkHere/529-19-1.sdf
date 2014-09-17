@@ -1,0 +1,90 @@
+529-19-1
+ChemmineR-0914142331XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    2.6595   -2.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9893   -2.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3190   -2.3031    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9946   -3.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6649   -3.4574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6649   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9946   -1.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6595    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  3  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+1896
+
+> <Formula>
+C8H7N
+
+> <FW>
+117.1479
+
+> <DSSTox_CID>
+2050
+
+> <DSSTox_RID>
+76469
+
+> <DSSTox_GSID>
+22050
+
+> <DSSTox_FileID_Sort>
+1153
+
+> <TS_ChemName>
+2-Tolunitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+529-19-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H7N
+
+> <STRUCTURE_MW>
+117.1479
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methylbenzonitrile
+
+> <STRUCTURE_SMILES>
+N#Cc1ccccc1C
+
+> <STRUCTURE_SMILES_Desalt>
+N#Cc1ccccc1C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

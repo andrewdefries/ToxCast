@@ -1,0 +1,89 @@
+5970-45-6
+ChemmineR-0914142331XD
+
+ 11  6  0  0  0  0  0  0  0  0  2 V2000
+    4.3440   -2.1847    0.0000 Zn   0  2  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2016    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -1.5411    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1516   -0.2032    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2948   -2.2016    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    8.4678   -2.0069    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3162   -1.3379    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3162    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1731   -2.0069    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    4.4625   -3.8867    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7251   -0.2625    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <ID>
+1402
+
+> <Formula>
+C4H10O6Zn
+
+> <FW>
+219.5276 (65.4079+59.0446+59.0446+18.0153+18.0153)
+
+> <DSSTox_CID>
+1461
+
+> <DSSTox_RID>
+76168
+
+> <DSSTox_GSID>
+21461
+
+> <DSSTox_FileID_Sort>
+852
+
+> <TS_ChemName>
+Zinc(II) acetate dihydrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+5970-45-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10O6Zn
+
+> <STRUCTURE_MW>
+219.5276
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+zinc acetate hydrate (1:2:2)
+
+> <STRUCTURE_SMILES>
+O.[Zn+2].O.[O-]C(C)=O.[O-]C(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,112 @@
+486-66-8
+ChemmineR-0914142331XD
+
+ 19 21  0  0  0  0  0  0  0  0  1 V2000
+    5.3205   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9756   -1.1522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3086   -1.1522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9751    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3080    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9632   -1.1522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3080   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9751   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3086   -3.4566    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9756   -3.4566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2961   -1.1522    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3205    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9875   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3211   -3.4566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9881   -3.4566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3329   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9881   -1.1522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3211   -1.1522    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  2  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+2144
+
+> <Formula>
+C15H10O4
+
+> <FW>
+254.2375
+
+> <DSSTox_CID>
+2310
+
+> <DSSTox_RID>
+76543
+
+> <DSSTox_GSID>
+22310
+
+> <DSSTox_FileID_Sort>
+1227
+
+> <TS_ChemName>
+Daidzein
+
+> <TS_ChemName_Synonyms>
+Daidzein (4',7-Dihydroxyisoflavone)
+
+> <TS_CASRN>
+486-66-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H10O4
+
+> <STRUCTURE_MW>
+254.2375
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+7-hydroxy-3-(4-hydroxyphenyl)-4H-chromen-4-one
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1)C3=COc2cc(O)ccc2C3=O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1)C3=COc2cc(O)ccc2C3=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

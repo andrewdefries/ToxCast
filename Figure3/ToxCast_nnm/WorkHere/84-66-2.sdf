@@ -1,0 +1,104 @@
+84-66-2
+ChemmineR-0914142331XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    6.6518   -5.7598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9880   -4.6120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6604   -4.6120    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9897   -5.7598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6604   -6.9146    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6621   -5.7598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9983   -6.9146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6638   -6.9146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.7598    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6638   -4.6120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9983   -4.6120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6621   -3.4573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9897   -3.4573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9983   -2.3025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6621   -1.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9983    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+1685
+
+> <Formula>
+C12H14O4
+
+> <FW>
+222.2372
+
+> <DSSTox_CID>
+1780
+
+> <DSSTox_RID>
+76323
+
+> <DSSTox_GSID>
+21780
+
+> <DSSTox_FileID_Sort>
+1007
+
+> <TS_ChemName>
+Diethyl phthalate
+
+> <TS_ChemName_Synonyms>
+1,2-Benzenedicarboxylic acid, diethyl ester
+
+> <TS_CASRN>
+84-66-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H14O4
+
+> <STRUCTURE_MW>
+222.2372
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+diethyl benzene-1,2-dicarboxylate
+
+> <STRUCTURE_SMILES>
+O=C(OCC)c1ccccc1C(=O)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC)c1ccccc1C(=O)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

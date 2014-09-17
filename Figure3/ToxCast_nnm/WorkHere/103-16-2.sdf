@@ -1,0 +1,103 @@
+103-16-2
+ChemmineR-0914142331XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    9.9758   -2.3044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6490   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9806   -3.4516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6538   -3.4516    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9855   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6538   -1.1472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9806   -1.1472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6587   -2.3044    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9903   -1.1472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6635   -1.1472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6684   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6684    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+687
+
+> <Formula>
+C13H12O2
+
+> <FW>
+200.2332
+
+> <DSSTox_CID>
+717
+
+> <DSSTox_RID>
+75755
+
+> <DSSTox_GSID>
+20717
+
+> <DSSTox_FileID_Sort>
+439
+
+> <TS_ChemName>
+4-(Benzyloxyl)phenol
+
+> <TS_ChemName_Synonyms>
+4-(Benzyloxyl)phenol (Hydroquinone monobenzyl ether)
+
+> <TS_CASRN>
+103-16-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H12O2
+
+> <STRUCTURE_MW>
+200.2332
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(benzyloxy)phenol
+
+> <STRUCTURE_SMILES>
+Oc2ccc(OCc1ccccc1)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccc(OCc1ccccc1)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

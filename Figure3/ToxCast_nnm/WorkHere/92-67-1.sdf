@@ -1,0 +1,99 @@
+92-67-1
+ChemmineR-0914142331XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1562    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3316   -1.1562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9935    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3251    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9869   -1.1562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3251   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9935   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3186   -1.1562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9804    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3120    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9739   -1.1562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3120   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9804   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+70
+
+> <Formula>
+C12H11N
+
+> <FW>
+169.2224
+
+> <DSSTox_CID>
+71
+
+> <DSSTox_RID>
+75348
+
+> <DSSTox_GSID>
+20071
+
+> <DSSTox_FileID_Sort>
+32
+
+> <TS_ChemName>
+4-Biphenylamine
+
+> <TS_ChemName_Synonyms>
+4-Aminodiphenyl; 4-Aminobiphenyl
+
+> <TS_CASRN>
+92-67-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H11N
+
+> <STRUCTURE_MW>
+169.2224
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+biphenyl-4-amine
+
+> <STRUCTURE_SMILES>
+Nc1ccc(cc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

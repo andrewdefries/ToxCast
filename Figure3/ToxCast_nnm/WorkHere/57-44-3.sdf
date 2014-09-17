@@ -1,0 +1,98 @@
+57-44-3
+ChemmineR-0914142331XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    2.0075   -2.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6764   -2.0021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3311   -3.1422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0075   -0.6710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8510    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1422    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2987   -0.6710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4552    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2987   -2.0021    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1422   -2.6622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1422   -3.9932    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1422    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+2392
+
+> <Formula>
+C8H12N2O3
+
+> <FW>
+184.1925
+
+> <DSSTox_CID>
+2643
+
+> <DSSTox_RID>
+76671
+
+> <DSSTox_GSID>
+22643
+
+> <DSSTox_FileID_Sort>
+1355
+
+> <TS_ChemName>
+Barbital
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+57-44-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12N2O3
+
+> <STRUCTURE_MW>
+184.1925
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5,5-diethylpyrimidine-2,4,6(1H,3H,5H)-trione
+
+> <STRUCTURE_SMILES>
+O=C1NC(=O)NC(=O)C1(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1NC(=O)NC(=O)C1(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

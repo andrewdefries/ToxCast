@@ -1,0 +1,85 @@
+756-79-6
+ChemmineR-0914142331XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    1.6373    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3034   -1.1517    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550   -0.4856    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9694   -2.3034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2973   -2.3034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -1.8178    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+477
+
+> <Formula>
+C3H9O3P
+
+> <FW>
+124.0755
+
+> <DSSTox_CID>
+494
+
+> <DSSTox_RID>
+75622
+
+> <DSSTox_GSID>
+20494
+
+> <DSSTox_FileID_Sort>
+306
+
+> <TS_ChemName>
+Dimethyl methylphosphonate
+
+> <TS_ChemName_Synonyms>
+Dimethyl methylphosphonate (Phosphonic acid, methyl-, dimethyl ester)
+
+> <TS_CASRN>
+756-79-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H9O3P
+
+> <STRUCTURE_MW>
+124.0755
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+dimethyl methylphosphonate
+
+> <STRUCTURE_SMILES>
+CP(=O)(OC)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CP(=O)(OC)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

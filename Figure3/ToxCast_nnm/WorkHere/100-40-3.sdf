@@ -1,0 +1,88 @@
+100-40-3
+ChemmineR-0914142331XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6531   -1.1540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+1380
+
+> <Formula>
+C8H12
+
+> <FW>
+108.1809
+
+> <DSSTox_CID>
+1437
+
+> <DSSTox_RID>
+76158
+
+> <DSSTox_GSID>
+21437
+
+> <DSSTox_FileID_Sort>
+842
+
+> <TS_ChemName>
+4-Vinylcyclohexene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+100-40-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H12
+
+> <STRUCTURE_MW>
+108.1809
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-ethenylcyclohexene
+
+> <STRUCTURE_SMILES>
+C=CC1CC=CCC1
+
+> <STRUCTURE_SMILES_Desalt>
+C=CC1CC=CCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

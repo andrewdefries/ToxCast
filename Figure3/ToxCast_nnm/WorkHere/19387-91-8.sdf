@@ -1,0 +1,104 @@
+19387-91-8
+ChemmineR-0914142331XD
+
+ 16 16  0  0  0  0  0  0  0  0  2 V2000
+    7.3695   -1.6729    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3695   -3.0068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1020   -3.4195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6966   -4.6797    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.3922   -4.9597    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.6326   -5.6230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3208   -2.3435    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9943   -2.3435    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3237   -3.4932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -3.4932    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -2.1593    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -4.8197    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6633   -3.4932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6428    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1020   -1.2676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6966    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+3284
+
+> <Formula>
+C8H13N3O4S
+
+> <FW>
+247.2715
+
+> <DSSTox_CID>
+3676
+
+> <DSSTox_RID>
+77141
+
+> <DSSTox_GSID>
+23676
+
+> <DSSTox_FileID_Sort>
+1824
+
+> <TS_ChemName>
+Tinidazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+19387-91-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H13N3O4S
+
+> <STRUCTURE_MW>
+247.2715
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-[2-(ethylsulfonyl)ethyl]-2-methyl-5-nitro-1H-imidazole
+
+> <STRUCTURE_SMILES>
+O=S(=O)(CCn1c(cnc1C)[N+]([O-])=O)CC
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(CCn1c(cnc1C)[N+]([O-])=O)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

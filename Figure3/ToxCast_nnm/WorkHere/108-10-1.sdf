@@ -1,0 +1,85 @@
+108-10-1
+ChemmineR-0914142331XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    4.6073   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+1768
+
+> <Formula>
+C6H12O
+
+> <FW>
+100.1589
+
+> <DSSTox_CID>
+1889
+
+> <DSSTox_RID>
+76387
+
+> <DSSTox_GSID>
+21889
+
+> <DSSTox_FileID_Sort>
+1071
+
+> <TS_ChemName>
+4-Methyl-2-pentanone
+
+> <TS_ChemName_Synonyms>
+Methyl isobutyl ketone; MIBK
+
+> <TS_CASRN>
+108-10-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O
+
+> <STRUCTURE_MW>
+100.1589
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methylpentan-2-one
+
+> <STRUCTURE_SMILES>
+CC(C)CC(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CC(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

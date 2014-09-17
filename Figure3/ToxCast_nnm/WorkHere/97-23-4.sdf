@@ -1,0 +1,107 @@
+97-23-4
+ChemmineR-0914142331XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    4.6095   -6.6481    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -5.9847    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3013   -6.6481    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -5.9847    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1541   -4.6509    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9875    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3013   -3.9875    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -4.6509    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6095   -3.9875    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6095   -2.6606    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -1.9903    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4554   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3013    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6095    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7566   -0.6634    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7566   -1.9903    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9107   -2.6606    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+1718
+
+> <Formula>
+C13H10Cl2O2
+
+> <FW>
+269.1233
+
+> <DSSTox_CID>
+1824
+
+> <DSSTox_RID>
+76351
+
+> <DSSTox_GSID>
+21824
+
+> <DSSTox_FileID_Sort>
+1035
+
+> <TS_ChemName>
+Dichlorophen
+
+> <TS_ChemName_Synonyms>
+Dichlorophen (2,2'-Methylene-bis (4-chlorophenol))
+
+> <TS_CASRN>
+97-23-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H10Cl2O2
+
+> <STRUCTURE_MW>
+269.1233
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,2'-methanediylbis(4-chlorophenol)
+
+> <STRUCTURE_SMILES>
+Oc2ccc(Cl)cc2Cc1cc(Cl)ccc1O
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccc(Cl)cc2Cc1cc(Cl)ccc1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

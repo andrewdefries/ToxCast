@@ -1,0 +1,108 @@
+115-90-2
+ChemmineR-0914142331XD
+
+ 18 18  0  0  0  0  0  0  0  0  1 V2000
+    0.6613   -1.5089    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3539    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9932   -1.5089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6638   -0.3539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9957   -0.3539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6570   -1.5089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9889   -1.5089    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6502   -2.6545    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5046   -3.3251    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8051   -1.9932    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8051   -0.6613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9601    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3208   -3.8094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6527   -3.8094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3140   -2.6545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6638   -2.6545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9957   -2.6545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 17  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+1819
+
+> <Formula>
+C11H17O4PS2
+
+> <FW>
+308.354
+
+> <DSSTox_CID>
+1953
+
+> <DSSTox_RID>
+76424
+
+> <DSSTox_GSID>
+21953
+
+> <DSSTox_FileID_Sort>
+1108
+
+> <TS_ChemName>
+Fensulfothion
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+115-90-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C11H17O4PS2
+
+> <STRUCTURE_MW>
+308.354
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O,O-diethyl O-[4-(methylsulfinyl)phenyl] phosphorothioate
+
+> <STRUCTURE_SMILES>
+O=S(C)c1ccc(OP(=S)(OCC)OCC)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(C)c1ccc(OP(=S)(OCC)OCC)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

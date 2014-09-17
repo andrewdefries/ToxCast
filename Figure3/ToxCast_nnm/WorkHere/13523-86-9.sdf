@@ -1,0 +1,109 @@
+13523-86-9
+ChemmineR-0914142331XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+   10.3799   -3.4334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2316   -4.1042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0720   -3.4334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0720   -2.1033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9237   -1.4439    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7641   -2.1033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6158   -1.4439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6158   -0.1137    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4562   -2.1033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3079   -1.4439    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1483   -2.1033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1483   -3.4334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2316   -1.4439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3799   -2.1033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3690   -1.2165    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8233    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5045   -0.1364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  2  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+3115
+
+> <Formula>
+C14H20N2O2
+
+> <FW>
+248.3208
+
+> <DSSTox_CID>
+3476
+
+> <DSSTox_RID>
+77043
+
+> <DSSTox_GSID>
+23476
+
+> <DSSTox_FileID_Sort>
+1726
+
+> <TS_ChemName>
+Pindolol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13523-86-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20N2O2
+
+> <STRUCTURE_MW>
+248.3208
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(1H-indol-4-yloxy)-3-(propan-2-ylamino)propan-2-ol
+
+> <STRUCTURE_SMILES>
+CC(C)NCC(O)COc2cccc1nccc12
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)NCC(O)COc2cccc1nccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

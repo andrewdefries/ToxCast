@@ -1,0 +1,101 @@
+13071-79-9
+ChemmineR-0914142331XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -4.4794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3294   -4.4794    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9984   -3.3278    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3278   -3.3278    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6572   -3.3278    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3278   -1.9984    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4794   -1.3294    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4794    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3278   -4.6572    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4794   -5.3177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4794   -6.6471    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6310   -7.3160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2915   -6.1644    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7826   -7.9850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9620   -8.4676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+M  END
+> <ID>
+2092
+
+> <Formula>
+C9H21O2PS3
+
+> <FW>
+288.4306
+
+> <DSSTox_CID>
+2254
+
+> <DSSTox_RID>
+76530
+
+> <DSSTox_GSID>
+22254
+
+> <DSSTox_FileID_Sort>
+1214
+
+> <TS_ChemName>
+Terbufos
+
+> <TS_ChemName_Synonyms>
+Terbufos (O,O-diethyl S-(((1,1-dimethylethyl)thio)methyl)phoshorodithioate) (Counter 15G)
+
+> <TS_CASRN>
+13071-79-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H21O2PS3
+
+> <STRUCTURE_MW>
+288.4306
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+S-[(tert-butylsulfanyl)methyl] O,O-diethyl phosphorodithioate
+
+> <STRUCTURE_SMILES>
+CC(C)(C)SCSP(=S)(OCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)SCSP(=S)(OCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

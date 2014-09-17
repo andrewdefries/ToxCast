@@ -1,0 +1,111 @@
+30516-87-1
+ChemmineR-0914142331XD
+
+ 19 20  0  0  1  0  0  0  0  0  2 V2000
+    5.0571   -3.7722    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9617   -3.1133    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9617   -1.8779    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1525   -3.0968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1525   -1.8779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0571   -1.2437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8745   -3.7969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0571    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3138   -1.2107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0571   -5.9301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9568   -5.9301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0193   -5.1477    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3522   -7.1738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6617   -7.1738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3013   -8.2198    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -8.2198    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+    2.5944   -8.2363    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7296   -5.5183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4496   -4.2582    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+ 10  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  8  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 18  1  1  0  0  0
+ 13 14  1  0  0  0  0
+ 13 17  1  6  0  0  0
+ 15 17  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+124
+
+> <Formula>
+C10H13N5O4
+
+> <FW>
+267.2413
+
+> <DSSTox_CID>
+127
+
+> <DSSTox_RID>
+75386
+
+> <DSSTox_GSID>
+20127
+
+> <DSSTox_FileID_Sort>
+70
+
+> <TS_ChemName>
+3'-Azido-3'-deoxythymidine
+
+> <TS_ChemName_Synonyms>
+AZT; Zidovudine
+
+> <TS_CASRN>
+30516-87-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem; AZT
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H13N5O4
+
+> <STRUCTURE_MW>
+267.2413
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3'-azido-2',3'-dideoxy-3,4-dihydrothymidine
+
+> <STRUCTURE_SMILES>
+CC1=CN(C(=O)NC1=O)[C@H]2C[C@H](\N=[N+]=[N-])[C@@H](CO)O2
+
+> <STRUCTURE_SMILES_Desalt>
+CC1=CN(C(=O)NC1=O)[C@H]2C[C@H](\N=[N+]=[N-])[C@@H](CO)O2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

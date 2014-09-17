@@ -1,0 +1,94 @@
+98-54-4
+ChemmineR-0914142331XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    5.3217   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9913   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261   -2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -2.4813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3304   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3304    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3261   -0.1796    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6521   -1.3304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3217   -2.6609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+217
+
+> <Formula>
+C10H14O
+
+> <FW>
+150.2176
+
+> <DSSTox_CID>
+221
+
+> <DSSTox_RID>
+75442
+
+> <DSSTox_GSID>
+20221
+
+> <DSSTox_FileID_Sort>
+126
+
+> <TS_ChemName>
+4-tert-Butylphenol
+
+> <TS_ChemName_Synonyms>
+4-tert-Butylphenol (Phenol, 4-(1,1-dimethylethyl)-) (p-tert-Butylphenol)
+
+> <TS_CASRN>
+98-54-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H14O
+
+> <STRUCTURE_MW>
+150.2176
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-tert-butylphenol
+
+> <STRUCTURE_SMILES>
+CC(C)(C)c1ccc(O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c1ccc(O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

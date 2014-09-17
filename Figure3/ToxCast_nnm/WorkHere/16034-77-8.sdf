@@ -1,0 +1,112 @@
+16034-77-8
+ChemmineR-0914142331XD
+
+ 20 20  0  0  0  0  0  0  0  0  1 V2000
+    7.9750   -3.4617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3143   -2.3078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9836   -2.3078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3136   -3.4617    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9836   -4.6063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3136   -5.7603    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3143   -4.6063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9922   -3.4617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3222   -4.6063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9922   -5.7603    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9914   -4.6063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307   -3.4617    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4617    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9914   -2.3078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307   -1.1539    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3222   -2.3078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9922   -1.1539    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9750   -1.1539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3143    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3058   -1.1539    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+M  END
+> <ID>
+2827
+
+> <Formula>
+C12H13I3N2O3
+
+> <FW>
+613.9566
+
+> <DSSTox_CID>
+3149
+
+> <DSSTox_RID>
+76891
+
+> <DSSTox_GSID>
+23149
+
+> <DSSTox_FileID_Sort>
+1575
+
+> <TS_ChemName>
+Iocetamic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+16034-77-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H13I3N2O3
+
+> <STRUCTURE_MW>
+613.9566
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-[acetyl(3-amino-2,4,6-triiodophenyl)amino]-2-methylpropanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)C(C)CN(C(C)=O)c1c(I)cc(I)c(N)c1I
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)C(C)CN(C(C)=O)c1c(I)cc(I)c(N)c1I
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

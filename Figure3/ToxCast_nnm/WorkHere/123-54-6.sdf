@@ -1,0 +1,85 @@
+123-54-6
+ChemmineR-0914142331XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    4.6073   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4555    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.3315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9950    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <ID>
+1837
+
+> <Formula>
+C5H8O2
+
+> <FW>
+100.1158
+
+> <DSSTox_CID>
+1979
+
+> <DSSTox_RID>
+76439
+
+> <DSSTox_GSID>
+21979
+
+> <DSSTox_FileID_Sort>
+1123
+
+> <TS_ChemName>
+2,4-Pentanedione
+
+> <TS_ChemName_Synonyms>
+2,4-Pentanedione (Acetylacetone)
+
+> <TS_CASRN>
+123-54-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8O2
+
+> <STRUCTURE_MW>
+100.1158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pentane-2,4-dione
+
+> <STRUCTURE_SMILES>
+CC(=O)CC(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)CC(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

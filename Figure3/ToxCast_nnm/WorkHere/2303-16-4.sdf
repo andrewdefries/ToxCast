@@ -1,0 +1,101 @@
+2303-16-4
+ChemmineR-0914142331XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    3.4646   -3.9896    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4646   -2.6570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3097   -2.0029    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549   -2.6570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0029    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549   -3.9896    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3097   -0.6703    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1549    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4646    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6114   -2.0029    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7663   -2.6570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9212   -2.0029    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9212   -0.6703    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0760    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0760   -2.6570    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  3  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+376
+
+> <Formula>
+C10H17Cl2NOS
+
+> <FW>
+270.2191
+
+> <DSSTox_CID>
+391
+
+> <DSSTox_RID>
+75559
+
+> <DSSTox_GSID>
+20391
+
+> <DSSTox_FileID_Sort>
+243
+
+> <TS_ChemName>
+Diallate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2303-16-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of Z,E isomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C10H17Cl2NOS
+
+> <STRUCTURE_MW>
+270.2191
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+S-(2,3-dichloroprop-2-en-1-yl) dipropan-2-ylcarbamothioate
+
+> <STRUCTURE_SMILES>
+ClC=C(Cl)CSC(=O)N(C(C)C)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+ClC=C(Cl)CSC(=O)N(C(C)C)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20110517
+
+$$$$

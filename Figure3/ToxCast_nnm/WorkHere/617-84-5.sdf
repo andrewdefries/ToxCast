@@ -1,0 +1,85 @@
+617-84-5
+ChemmineR-0914142331XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    3.9928    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6632    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -1.1499    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6632   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9928   -2.3038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6668   -1.1499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+447
+
+> <Formula>
+C5H11NO
+
+> <FW>
+101.1469
+
+> <DSSTox_CID>
+463
+
+> <DSSTox_RID>
+75606
+
+> <DSSTox_GSID>
+20463
+
+> <DSSTox_FileID_Sort>
+290
+
+> <TS_ChemName>
+Diethylformamide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+617-84-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H11NO
+
+> <STRUCTURE_MW>
+101.1469
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-diethylformamide
+
+> <STRUCTURE_SMILES>
+CCN(CC)C=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)C=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

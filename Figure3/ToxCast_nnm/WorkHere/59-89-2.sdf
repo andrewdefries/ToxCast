@@ -1,0 +1,88 @@
+59-89-2
+ChemmineR-0914142331XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1540    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -1.1540    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6531   -1.1540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9877   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6569   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+1020
+
+> <Formula>
+C4H8N2O2
+
+> <FW>
+116.1185
+
+> <DSSTox_CID>
+1056
+
+> <DSSTox_RID>
+75922
+
+> <DSSTox_GSID>
+21056
+
+> <DSSTox_FileID_Sort>
+606
+
+> <TS_ChemName>
+N-Nitrosomorpholine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+59-89-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H8N2O2
+
+> <STRUCTURE_MW>
+116.1185
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-nitrosomorpholine
+
+> <STRUCTURE_SMILES>
+O=NN1CCOCC1
+
+> <STRUCTURE_SMILES_Desalt>
+O=NN1CCOCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

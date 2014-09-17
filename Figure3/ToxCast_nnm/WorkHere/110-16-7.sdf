@@ -1,0 +1,87 @@
+110-16-7
+ChemmineR-0914142331XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    3.4445   -0.6530    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4445   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5989   -2.6581    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2902   -2.6581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1359   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1359   -0.6530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2902    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <ID>
+1457
+
+> <Formula>
+C4H4O4
+
+> <FW>
+116.0722
+
+> <DSSTox_CID>
+1517
+
+> <DSSTox_RID>
+76194
+
+> <DSSTox_GSID>
+21517
+
+> <DSSTox_FileID_Sort>
+878
+
+> <TS_ChemName>
+Maleic acid
+
+> <TS_ChemName_Synonyms>
+Maleic acid ((2Z)-2-Butenedioic acid) (cis-Butenedioic acid)
+
+> <TS_CASRN>
+110-16-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H4O4
+
+> <STRUCTURE_MW>
+116.0722
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2Z)-but-2-enedioic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)/C=C\C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)/C=C\C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

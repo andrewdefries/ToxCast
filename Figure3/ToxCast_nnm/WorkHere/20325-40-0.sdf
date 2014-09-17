@@ -1,0 +1,111 @@
+20325-40-0
+ChemmineR-0914142331XD
+
+ 20 19  0  0  0  0  0  0  0  0  1 V2000
+    9.9205   -2.2976    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5892   -2.2976    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9235   -3.4464    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5922   -3.4464    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9265   -2.2976    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5922   -1.1488    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9235   -1.1488    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.5892    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9205    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.5952   -2.2976    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9188   -3.4464    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5875   -3.4464    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9218   -2.2976    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.5875   -1.1488    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9188   -1.1488    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9218    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5905    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.5905   -2.2976    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+   10.7365   -4.0584    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.8651    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+468
+
+> <Formula>
+C14H18Cl2N2O2
+
+> <FW>
+317.2109 (244.2890+36.4609+36.4609)
+
+> <DSSTox_CID>
+485
+
+> <DSSTox_RID>
+75619
+
+> <DSSTox_GSID>
+20485
+
+> <DSSTox_FileID_Sort>
+303
+
+> <TS_ChemName>
+3,3'-Dimethoxybenzidine dihydrochloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+20325-40-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [119-90-4]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H18Cl2N2O2
+
+> <STRUCTURE_MW>
+317.2109
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+3,3'-dimethoxybiphenyl-4,4'-diamine dihydrochloride
+
+> <STRUCTURE_SMILES>
+Cl.Cl.Nc1ccc(cc1OC)c2ccc(N)c(OC)c2
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1OC)c2ccc(N)c(OC)c2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

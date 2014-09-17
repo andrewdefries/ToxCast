@@ -1,0 +1,94 @@
+2176-62-7
+ChemmineR-0914142331XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    3.9904   -2.3039    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3268   -3.4558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9904   -4.6078    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952   -3.4558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3317   -4.6078    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3317   -2.3039    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3039    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952   -1.1519    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3317    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3268   -1.1519    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9904    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+2018
+
+> <Formula>
+C5Cl5N
+
+> <FW>
+251.3252
+
+> <DSSTox_CID>
+2179
+
+> <DSSTox_RID>
+76515
+
+> <DSSTox_GSID>
+22179
+
+> <DSSTox_FileID_Sort>
+1199
+
+> <TS_ChemName>
+Pentachloropyridine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2176-62-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5Cl5N
+
+> <STRUCTURE_MW>
+251.3252
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pentachloropyridine
+
+> <STRUCTURE_SMILES>
+Clc1c(Cl)c(Cl)nc(Cl)c1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1c(Cl)c(Cl)nc(Cl)c1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

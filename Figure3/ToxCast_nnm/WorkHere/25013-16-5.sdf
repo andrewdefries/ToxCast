@@ -1,0 +1,98 @@
+25013-16-5
+ChemmineR-0914142331XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    1.1553    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2968   -0.6711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4522    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6075   -0.6711    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6075   -2.0063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4522   -2.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2968   -2.0063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553   -2.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4843   -1.5220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8126   -3.8188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7628   -2.6635    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9181   -2.0063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+211
+
+> <Formula>
+C11H16O2
+
+> <FW>
+180.2435
+
+> <DSSTox_CID>
+215
+
+> <DSSTox_RID>
+75439
+
+> <DSSTox_GSID>
+20215
+
+> <DSSTox_FileID_Sort>
+123
+
+> <TS_ChemName>
+Butylated hydroxyanisole
+
+> <TS_ChemName_Synonyms>
+Butylated hydroxyanisole (BHA) (Phenol, (1,1-dimethylethyl)-4-methoxy-)
+
+> <TS_CASRN>
+25013-16-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of 2- and 3-tert-butyl-4-methoxyphenol; structure shown 2-
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C11H16O2
+
+> <STRUCTURE_MW>
+180.2435
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-tert-butyl-4-methoxyphenol
+
+> <STRUCTURE_SMILES>
+CC(C)(C)c1cc(ccc1O)OC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)(C)c1cc(ccc1O)OC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,89 @@
+111-15-9
+ChemmineR-0914142331XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.9962   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3308   -1.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3271    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9852   -1.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3160   -1.1553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9814   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3122   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+1799
+
+> <Formula>
+C6H12O3
+
+> <FW>
+132.1577
+
+> <DSSTox_CID>
+1928
+
+> <DSSTox_RID>
+76407
+
+> <DSSTox_GSID>
+21928
+
+> <DSSTox_FileID_Sort>
+1091
+
+> <TS_ChemName>
+2-Ethoxyethyl acetate
+
+> <TS_ChemName_Synonyms>
+2-Ethoxyethyl acetate (Ethylene glycol monoethyl ether acetate) (2-Ethoxyethanol, Acetate)
+
+> <TS_CASRN>
+111-15-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O3
+
+> <STRUCTURE_MW>
+132.1577
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-ethoxyethyl acetate
+
+> <STRUCTURE_SMILES>
+CC(=O)OCCOCC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(=O)OCCOCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

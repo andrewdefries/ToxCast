@@ -1,0 +1,81 @@
+78-92-2
+ChemmineR-0914142331XD
+
+  5  4  0  0  0  0  0  0  0  0  1 V2000
+    3.4567   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3056    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1511   -1.9945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+1673
+
+> <Formula>
+C4H10O
+
+> <FW>
+74.1216
+
+> <DSSTox_CID>
+1762
+
+> <DSSTox_RID>
+76312
+
+> <DSSTox_GSID>
+21762
+
+> <DSSTox_FileID_Sort>
+996
+
+> <TS_ChemName>
+2-Butanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+78-92-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H10O
+
+> <STRUCTURE_MW>
+74.1216
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butan-2-ol
+
+> <STRUCTURE_SMILES>
+CC(O)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CC(O)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

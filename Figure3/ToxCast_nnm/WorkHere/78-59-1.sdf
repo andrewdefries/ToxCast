@@ -1,0 +1,92 @@
+78-59-1
+ChemmineR-0914142331XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    0.8533   -4.5763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3109   -3.3274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3109   -1.9974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4645   -1.3300    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6134   -1.9974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6134   -3.3274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7670   -3.9900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4645   -3.9900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+729
+
+> <Formula>
+C9H14O
+
+> <FW>
+138.2069
+
+> <DSSTox_CID>
+759
+
+> <DSSTox_RID>
+75774
+
+> <DSSTox_GSID>
+20759
+
+> <DSSTox_FileID_Sort>
+458
+
+> <TS_ChemName>
+Isophorone
+
+> <TS_ChemName_Synonyms>
+Isophorone (3,5,5-Trimethyl-cyclohex-2-enone)
+
+> <TS_CASRN>
+78-59-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H14O
+
+> <STRUCTURE_MW>
+138.2069
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5,5-trimethylcyclohex-2-en-1-one
+
+> <STRUCTURE_SMILES>
+O=C1C=C(C)CC(C)(C)C1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C=C(C)CC(C)(C)C1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,89 @@
+540-23-8
+ChemmineR-0914142331XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.3300   -1.1545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -1.1545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -1.1545    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -2.3036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -2.3036    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1545    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6600   -3.1069    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <ID>
+1312
+
+> <Formula>
+C7H10ClN
+
+> <FW>
+143.6140 (107.1531+36.4609)
+
+> <DSSTox_CID>
+1365
+
+> <DSSTox_RID>
+76111
+
+> <DSSTox_GSID>
+21365
+
+> <DSSTox_FileID_Sort>
+795
+
+> <TS_ChemName>
+4-Methylaniline hydrochloride
+
+> <TS_ChemName_Synonyms>
+p-Toluidinium chloride (p-Toluidine HCl)
+
+> <TS_CASRN>
+540-23-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [106-49-0]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H10ClN
+
+> <STRUCTURE_MW>
+143.614
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+4-methylaniline hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Cc1ccc(N)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(N)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

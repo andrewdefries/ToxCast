@@ -1,0 +1,88 @@
+106-42-3
+ChemmineR-0914142331XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+1753
+
+> <Formula>
+C8H10
+
+> <FW>
+106.165
+
+> <DSSTox_CID>
+1868
+
+> <DSSTox_RID>
+76374
+
+> <DSSTox_GSID>
+21868
+
+> <DSSTox_FileID_Sort>
+1058
+
+> <TS_ChemName>
+p-Xylene
+
+> <TS_ChemName_Synonyms>
+p-Xylene (1,4-Dimethyl-benzene)
+
+> <TS_CASRN>
+106-42-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H10
+
+> <STRUCTURE_MW>
+106.165
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-dimethylbenzene
+
+> <STRUCTURE_SMILES>
+Cc1ccc(C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(C)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

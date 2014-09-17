@@ -1,0 +1,104 @@
+54-91-1
+ChemmineR-0914142331XD
+
+ 16 16  0  0  0  0  0  0  0  0  1 V2000
+    4.6573   -3.4558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9874   -2.2968    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6583   -2.2968    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9884   -1.1484    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9884   -3.4558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6593   -3.4558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6042    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6573   -1.1484    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9865   -1.1484    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6457   -2.2968    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9749   -2.2968    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6448   -3.4558    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    8.6448   -1.1484    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.9633   -1.1484    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.6332    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9865   -3.4558    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+3123
+
+> <Formula>
+C10H16Br2N2O2
+
+> <FW>
+356.0542
+
+> <DSSTox_CID>
+3485
+
+> <DSSTox_RID>
+77048
+
+> <DSSTox_GSID>
+23485
+
+> <DSSTox_FileID_Sort>
+1731
+
+> <TS_ChemName>
+Pipobroman
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+54-91-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16Br2N2O2
+
+> <STRUCTURE_MW>
+356.0542
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1'-piperazine-1,4-diylbis(3-bromopropan-1-one)
+
+> <STRUCTURE_SMILES>
+O=C(CCBr)N1CCN(CC1)C(=O)CCBr
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCBr)N1CCN(CC1)C(=O)CCBr
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

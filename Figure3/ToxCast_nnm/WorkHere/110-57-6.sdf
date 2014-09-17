@@ -1,0 +1,83 @@
+110-57-6
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6630    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3060   -0.6630    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4590    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6119   -0.6630    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7649    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+418
+
+> <Formula>
+C4H6Cl2
+
+> <FW>
+124.9964
+
+> <DSSTox_CID>
+434
+
+> <DSSTox_RID>
+75585
+
+> <DSSTox_GSID>
+20434
+
+> <DSSTox_FileID_Sort>
+269
+
+> <TS_ChemName>
+(2E)-1,4-Dichlorobut-2-ene
+
+> <TS_ChemName_Synonyms>
+2-Butene, 1,4-dichloro-, (2E)-
+
+> <TS_CASRN>
+110-57-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6Cl2
+
+> <STRUCTURE_MW>
+124.9964
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2E)-1,4-dichlorobut-2-ene
+
+> <STRUCTURE_SMILES>
+ClC\C=C\CCl
+
+> <STRUCTURE_SMILES_Desalt>
+ClC\C=C\CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

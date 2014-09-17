@@ -1,0 +1,101 @@
+156-51-4
+ChemmineR-0914142331XD
+
+ 15 14  0  0  0  0  0  0  0  0  1 V2000
+    4.6076   -1.9895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6076   -0.6632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7544    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9080   -0.6632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9080   -1.9895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7544   -2.6596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540   -2.6596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3004   -1.9895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1536   -2.6596    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9895    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540   -5.3192    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7873   -5.3192    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1277   -5.3192    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540   -3.9859    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540   -6.6455    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 11 15  2  0  0  0  0
+M  END
+> <ID>
+1100
+
+> <Formula>
+C8H14N2O4S
+
+> <FW>
+234.2728 (136.1943+98.0785)
+
+> <DSSTox_CID>
+1144
+
+> <DSSTox_RID>
+75973
+
+> <DSSTox_GSID>
+21144
+
+> <DSSTox_FileID_Sort>
+657
+
+> <TS_ChemName>
+Phenylethylhydrazine sulfate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+156-51-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [51-71-8]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14N2O4S
+
+> <STRUCTURE_MW>
+234.2728
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+(2-phenylethyl)hydrazine sulfate (1:1)
+
+> <STRUCTURE_SMILES>
+O=S(=O)(O)O.NNCCc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+NNCCc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

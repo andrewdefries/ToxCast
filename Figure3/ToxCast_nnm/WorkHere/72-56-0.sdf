@@ -1,0 +1,113 @@
+72-56-0
+ChemmineR-0914142331XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    6.9143    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7619   -0.6684    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7619   -1.9936    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6095   -2.6735    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4571   -1.9936    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3048   -2.6735    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3048   -3.9987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4571   -4.6556    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6095   -3.9987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1524   -4.6556    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9143   -2.6735    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9143   -3.9987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0666   -4.6556    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2190   -3.9987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    9.2190   -2.6735    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0666   -1.9936    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   10.3714   -4.6556    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+   11.5238   -3.9987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6095    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9987    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+564
+
+> <Formula>
+C18H20Cl2
+
+> <FW>
+307.2574
+
+> <DSSTox_CID>
+589
+
+> <DSSTox_RID>
+75676
+
+> <DSSTox_GSID>
+20589
+
+> <DSSTox_FileID_Sort>
+360
+
+> <TS_ChemName>
+p,p'-Ethyl-DDD
+
+> <TS_ChemName_Synonyms>
+p,p'-Ethyl-DDD (Di(p-ethylphenyl)dichloroethane) (Perthane) (Ethylan)
+
+> <TS_CASRN>
+72-56-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C18H20Cl2
+
+> <STRUCTURE_MW>
+307.2574
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1'-(2,2-dichloroethane-1,1-diyl)bis(4-ethylbenzene)
+
+> <STRUCTURE_SMILES>
+ClC(Cl)C(c1ccc(CC)cc1)c2ccc(cc2)CC
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)C(c1ccc(CC)cc1)c2ccc(cc2)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,105 @@
+1461-25-2
+ChemmineR-0914142331XD
+
+ 17 16  0  0  0  0  0  0  0  0  1 V2000
+    0.5360   -1.4591    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6825   -2.1217    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8364   -1.4591    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9903   -2.1217    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9903   -3.4543    0.0000 Sn   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3228   -3.4543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9854   -2.3004    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3228   -1.1539    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9854    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9903   -4.7868    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.1442   -5.4494    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.2906   -4.7868    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.4445   -5.4494    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6577   -3.4543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9951   -4.6082    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6626   -4.6082    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+1994
+
+> <Formula>
+C16H36Sn
+
+> <FW>
+347.167
+
+> <DSSTox_CID>
+2153
+
+> <DSSTox_RID>
+76505
+
+> <DSSTox_GSID>
+22153
+
+> <DSSTox_FileID_Sort>
+1189
+
+> <TS_ChemName>
+Tetrabutyltin
+
+> <TS_ChemName_Synonyms>
+Tetrabutyltin (stannane, tetrabutyl-)
+
+> <TS_CASRN>
+1461-25-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H36Sn
+
+> <STRUCTURE_MW>
+347.167
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+tetrabutylstannane
+
+> <STRUCTURE_SMILES>
+CCCC[Sn](CCCC)(CCCC)CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCC[Sn](CCCC)(CCCC)CCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

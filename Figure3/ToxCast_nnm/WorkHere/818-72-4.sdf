@@ -1,0 +1,89 @@
+818-72-4
+ChemmineR-0914142331XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6579    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1518   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3035   -1.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3035    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4553   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5990   -1.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7508   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9026   -1.3290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0543   -1.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+1965
+
+> <Formula>
+C8H14O
+
+> <FW>
+126.1962
+
+> <DSSTox_CID>
+2124
+
+> <DSSTox_RID>
+76497
+
+> <DSSTox_GSID>
+22124
+
+> <DSSTox_FileID_Sort>
+1181
+
+> <TS_ChemName>
+1-Octyn-3-ol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+818-72-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14O
+
+> <STRUCTURE_MW>
+126.1962
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+oct-1-yn-3-ol
+
+> <STRUCTURE_SMILES>
+C#CC(O)CCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+C#CC(O)CCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

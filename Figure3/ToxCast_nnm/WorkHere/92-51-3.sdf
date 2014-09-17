@@ -1,0 +1,97 @@
+92-51-3
+ChemmineR-0914142331XD
+
+ 12 13  0  0  0  0  0  0  0  0  1 V2000
+    1.9961   -2.3022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -2.3022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9961    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6615   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9922   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6575    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9883    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6536   -1.1511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9883   -2.3022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6575   -2.3022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+1700
+
+> <Formula>
+C12H22
+
+> <FW>
+166.3031
+
+> <DSSTox_CID>
+1802
+
+> <DSSTox_RID>
+76336
+
+> <DSSTox_GSID>
+21802
+
+> <DSSTox_FileID_Sort>
+1020
+
+> <TS_ChemName>
+Dicyclohexyl
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+92-51-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H22
+
+> <STRUCTURE_MW>
+166.3031
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1'-bi(cyclohexyl)
+
+> <STRUCTURE_SMILES>
+C1CC(CCC1)C2CCCCC2
+
+> <STRUCTURE_SMILES_Desalt>
+C1CC(CCC1)C2CCCCC2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

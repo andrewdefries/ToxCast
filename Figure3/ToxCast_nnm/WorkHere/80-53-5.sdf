@@ -1,0 +1,96 @@
+80-53-5
+ChemmineR-0914142331XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    4.6511   -2.4840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3267   -2.4840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6614   -1.3307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307   -1.3307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3307   -2.6614    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3267   -0.1774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6511   -0.1774    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3164   -1.3307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3366   -0.4752    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3366   -2.1861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <ID>
+3256
+
+> <Formula>
+C10H20O2
+
+> <FW>
+172.2646
+
+> <DSSTox_CID>
+3643
+
+> <DSSTox_RID>
+77125
+
+> <DSSTox_GSID>
+23643
+
+> <DSSTox_FileID_Sort>
+1808
+
+> <TS_ChemName>
+Terpin
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+80-53-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+anhydrous form shown
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20O2
+
+> <STRUCTURE_MW>
+172.2646
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(2-hydroxypropan-2-yl)-1-methylcyclohexanol
+
+> <STRUCTURE_SMILES>
+CC1(O)CCC(CC1)C(C)(C)O
+
+> <STRUCTURE_SMILES_Desalt>
+CC1(O)CCC(CC1)C(C)(C)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,105 @@
+59277-89-3
+ChemmineR-0914142331XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    9.5765   -2.2533    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6913   -1.2675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1037    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3836   -1.5391    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9812   -2.8066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8664   -3.7924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1641   -3.5208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0594   -4.5066    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2025   -4.9492    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9048   -4.6675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7640   -3.3498    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6072   -2.6858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4604   -3.3498    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3036   -2.6858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1568   -3.3498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6858    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+2318
+
+> <Formula>
+C8H11N5O3
+
+> <FW>
+225.2046
+
+> <DSSTox_CID>
+2556
+
+> <DSSTox_RID>
+76626
+
+> <DSSTox_GSID>
+22556
+
+> <DSSTox_FileID_Sort>
+1310
+
+> <TS_ChemName>
+Acyclovir
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+59277-89-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H11N5O3
+
+> <STRUCTURE_MW>
+225.2046
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-amino-9-[(2-hydroxyethoxy)methyl]-1,9-dihydro-6H-purin-6-one
+
+> <STRUCTURE_SMILES>
+NC2=Nc1c(ncn1COCCO)C(=O)N2
+
+> <STRUCTURE_SMILES_Desalt>
+NC2=Nc1c(ncn1COCCO)C(=O)N2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

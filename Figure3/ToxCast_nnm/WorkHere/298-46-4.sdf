@@ -1,0 +1,110 @@
+298-46-4
+ChemmineR-0914142331XD
+
+ 18 20  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7501    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0782   -0.0984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6501   -1.2974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9061   -2.3980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5780   -2.2996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2811   -3.6523    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3404   -4.5930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6171   -5.8719    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0492   -4.1811    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5355   -4.1565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6853   -3.4863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9005   -2.1582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9597   -1.2174    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8351   -4.1565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8351   -5.4846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6853   -6.1486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5355   -5.4846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+M  END
+> <ID>
+2471
+
+> <Formula>
+C15H12N2O
+
+> <FW>
+236.2686
+
+> <DSSTox_CID>
+2731
+
+> <DSSTox_RID>
+76704
+
+> <DSSTox_GSID>
+22731
+
+> <DSSTox_FileID_Sort>
+1388
+
+> <TS_ChemName>
+Carbamazepine
+
+> <TS_ChemName_Synonyms>
+Carbamazepine (Carbazepine)
+
+> <TS_CASRN>
+298-46-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H12N2O
+
+> <STRUCTURE_MW>
+236.2686
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5H-dibenzo[b,f]azepine-5-carboxamide
+
+> <STRUCTURE_SMILES>
+NC(=O)N2c3ccccc3C=Cc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+NC(=O)N2c3ccccc3C=Cc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

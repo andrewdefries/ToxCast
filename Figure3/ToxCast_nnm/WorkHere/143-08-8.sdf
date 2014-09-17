@@ -1,0 +1,91 @@
+143-08-8
+ChemmineR-0914142331XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3027   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4540    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6053   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7670    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9184   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0697    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2210   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3724    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+1859
+
+> <Formula>
+C9H20O
+
+> <FW>
+144.2545
+
+> <DSSTox_CID>
+2008
+
+> <DSSTox_RID>
+76457
+
+> <DSSTox_GSID>
+22008
+
+> <DSSTox_FileID_Sort>
+1141
+
+> <TS_ChemName>
+1-Nonanol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+143-08-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H20O
+
+> <STRUCTURE_MW>
+144.2545
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+nonan-1-ol
+
+> <STRUCTURE_SMILES>
+CCCCCCCCCO
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCCCCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

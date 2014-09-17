@@ -1,0 +1,83 @@
+96-13-9
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    3.3247    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9948    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3299   -1.1537    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1537    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9948   -2.3040    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3247   -2.3040    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+1712
+
+> <Formula>
+C3H6Br2O
+
+> <FW>
+217.8871
+
+> <DSSTox_CID>
+1817
+
+> <DSSTox_RID>
+76345
+
+> <DSSTox_GSID>
+21817
+
+> <DSSTox_FileID_Sort>
+1029
+
+> <TS_ChemName>
+2,3-Dibromopropanol
+
+> <TS_ChemName_Synonyms>
+2,3-Dibromo-1-propanol
+
+> <TS_CASRN>
+96-13-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H6Br2O
+
+> <STRUCTURE_MW>
+217.8871
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,3-dibromopropan-1-ol
+
+> <STRUCTURE_SMILES>
+BrC(CBr)CO
+
+> <STRUCTURE_SMILES_Desalt>
+BrC(CBr)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

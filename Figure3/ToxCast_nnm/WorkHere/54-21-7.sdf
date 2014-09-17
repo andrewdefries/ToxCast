@@ -1,0 +1,93 @@
+54-21-7
+ChemmineR-0914142331XD
+
+ 11 10  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -1.9963    0.0000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+    4.9762   -1.9963    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1419   -1.3406    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.1419    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.9762   -3.3296    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.2858   -1.9963    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+    6.1419   -3.9853    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8105   -1.3406    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.8105   -3.9853    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6739   -1.9963    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6739   -3.3296    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+1642
+
+> <Formula>
+C7H5NaO3
+
+> <FW>
+160.1026 (22.9892+137.1133)
+
+> <DSSTox_CID>
+1708
+
+> <DSSTox_RID>
+76287
+
+> <DSSTox_GSID>
+21708
+
+> <DSSTox_FileID_Sort>
+971
+
+> <TS_ChemName>
+Sodium salicylate
+
+> <TS_ChemName_Synonyms>
+Sodium salicylate (Benzoic acid, 2-hydroxy-, monosodium salt)
+
+> <TS_CASRN>
+54-21-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [69-72-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H5NaO3
+
+> <STRUCTURE_MW>
+160.1026
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+sodium 2-hydroxybenzoate
+
+> <STRUCTURE_SMILES>
+[Na+].O=C([O-])c1ccccc1O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1ccccc1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

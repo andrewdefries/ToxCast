@@ -1,0 +1,90 @@
+77-71-4
+ChemmineR-0914142331XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    1.3208   -4.6181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3208   -3.2881    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0483   -1.9858    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1982   -1.3208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3368    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1865   -2.2121    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6462   -3.4266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3112   -4.5811    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <ID>
+1666
+
+> <Formula>
+C5H8N2O2
+
+> <FW>
+128.1292
+
+> <DSSTox_CID>
+1754
+
+> <DSSTox_RID>
+76306
+
+> <DSSTox_GSID>
+21754
+
+> <DSSTox_FileID_Sort>
+990
+
+> <TS_ChemName>
+5,5-Dimethylhydantoin
+
+> <TS_ChemName_Synonyms>
+5,5-Dimethylhydantoin (2,4-imidazolidinedione, 5,5-dimethyl-)
+
+> <TS_CASRN>
+77-71-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H8N2O2
+
+> <STRUCTURE_MW>
+128.1292
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5,5-dimethylimidazolidine-2,4-dione
+
+> <STRUCTURE_SMILES>
+O=C1NC(=O)C(C)(C)N1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1NC(=O)C(C)(C)N1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

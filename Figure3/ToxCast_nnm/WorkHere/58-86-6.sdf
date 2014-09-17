@@ -1,0 +1,92 @@
+58-86-6
+ChemmineR-0914142331XD
+
+ 10 10  0  0  1  0  0  0  0  0  1 V2000
+    4.0041   -1.1448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3447   -2.3001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0100   -2.3160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3347   -1.1606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9941    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3505   -3.4924    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0199   -3.4607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2755   -1.1764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  6  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  1  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  6  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+3347
+
+> <Formula>
+C5H10O5
+
+> <FW>
+150.1299
+
+> <DSSTox_CID>
+3745
+
+> <DSSTox_RID>
+77180
+
+> <DSSTox_GSID>
+23745
+
+> <DSSTox_FileID_Sort>
+1863
+
+> <TS_ChemName>
+D-Xylose
+
+> <TS_ChemName_Synonyms>
+D-Xylose; (+)-Xylose
+
+> <TS_CASRN>
+58-86-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10O5
+
+> <STRUCTURE_MW>
+150.1299
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+D-xylopyranose
+
+> <STRUCTURE_SMILES>
+O[C@H]1[C@H](O)COC(O)[C@@H]1O
+
+> <STRUCTURE_SMILES_Desalt>
+O[C@H]1[C@H](O)COC(O)[C@@H]1O
+
+> <Substance_modify_yyyymmdd>
+20131003
+
+$$$$

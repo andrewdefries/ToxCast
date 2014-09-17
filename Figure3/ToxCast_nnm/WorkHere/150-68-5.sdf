@@ -1,0 +1,98 @@
+150-68-5
+ChemmineR-0914142331XD
+
+ 13 13  0  0  0  0  0  0  0  0  1 V2000
+    2.6555    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9937   -1.1483    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6619   -1.1483    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3047    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6555   -2.3047    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9873   -2.3047    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6492   -1.1483    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9810   -1.1483    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6429   -2.3047    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9810   -3.4530    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6492   -3.4530    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9746   -2.3047    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+302
+
+> <Formula>
+C9H11ClN2O
+
+> <FW>
+198.6494
+
+> <DSSTox_CID>
+311
+
+> <DSSTox_RID>
+75506
+
+> <DSSTox_GSID>
+20311
+
+> <DSSTox_FileID_Sort>
+190
+
+> <TS_ChemName>
+Monuron
+
+> <TS_ChemName_Synonyms>
+Monuron (3-(p-Chlorophenyl)-1,1-dimethylurea)
+
+> <TS_CASRN>
+150-68-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H11ClN2O
+
+> <STRUCTURE_MW>
+198.6494
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-(4-chlorophenyl)-1,1-dimethylurea
+
+> <STRUCTURE_SMILES>
+Clc1ccc(NC(=O)N(C)C)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(NC(=O)N(C)C)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

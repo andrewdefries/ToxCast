@@ -1,0 +1,103 @@
+81-16-3
+ChemmineR-0914142331XD
+
+ 15 16  0  0  0  0  0  0  0  0  1 V2000
+    2.3040   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -2.6611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -1.9929    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -0.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -0.6624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7600   -2.6611    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7600   -3.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -4.6541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -3.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -2.6611    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8144   -3.8131    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3235    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4896   -1.5091    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+M  END
+> <ID>
+888
+
+> <Formula>
+C10H9NO3S
+
+> <FW>
+223.2484
+
+> <DSSTox_CID>
+922
+
+> <DSSTox_RID>
+75869
+
+> <DSSTox_GSID>
+20922
+
+> <DSSTox_FileID_Sort>
+553
+
+> <TS_ChemName>
+2-Amino-1-naphthalenesulfonic acid
+
+> <TS_ChemName_Synonyms>
+2-Naphthylamino,1-sulfonic acid
+
+> <TS_CASRN>
+81-16-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H9NO3S
+
+> <STRUCTURE_MW>
+223.2484
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-aminonaphthalene-1-sulfonic acid
+
+> <STRUCTURE_SMILES>
+O=S(=O)(O)c2c(N)ccc1ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)c2c(N)ccc1ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

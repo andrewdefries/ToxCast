@@ -1,0 +1,107 @@
+57-10-3
+ChemmineR-0914142331XD
+
+ 18 17  0  0  0  0  0  0  0  0  1 V2000
+   15.0190    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1623   -0.6756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3229    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1623   -2.0095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0190   -2.6677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8583   -2.0095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6977   -2.6677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5544   -2.0095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3937   -2.6677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2331   -2.0095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0898   -2.6677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9292   -2.0095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7685   -2.6677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6252   -2.0095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4646   -2.6677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -2.0095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1606   -2.6677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+1539
+
+> <Formula>
+C16H32O2
+
+> <FW>
+256.4241
+
+> <DSSTox_CID>
+1602
+
+> <DSSTox_RID>
+76229
+
+> <DSSTox_GSID>
+21602
+
+> <DSSTox_FileID_Sort>
+913
+
+> <TS_ChemName>
+Hexadecanoic acid
+
+> <TS_ChemName_Synonyms>
+Hexadecanoic acid (Palmitic acid)
+
+> <TS_CASRN>
+57-10-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H32O2
+
+> <STRUCTURE_MW>
+256.4241
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+hexadecanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCCCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCCCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

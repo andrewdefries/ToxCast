@@ -1,0 +1,82 @@
+106-89-8
+ChemmineR-0914142331XD
+
+  5  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1519    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -1.8168    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3037   -1.1519    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.9687    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6336   -1.1519    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+541
+
+> <Formula>
+C3H5ClO
+
+> <FW>
+92.5242
+
+> <DSSTox_CID>
+566
+
+> <DSSTox_RID>
+75662
+
+> <DSSTox_GSID>
+20566
+
+> <DSSTox_FileID_Sort>
+346
+
+> <TS_ChemName>
+Epichlorohydrin
+
+> <TS_ChemName_Synonyms>
+Epichlorohydrin (Epichlorhydrin) (1,2-Epoxy-3-chloropropane) (Oxirane, (chloromethyl)-)
+
+> <TS_CASRN>
+106-89-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H5ClO
+
+> <STRUCTURE_MW>
+92.5242
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(chloromethyl)oxirane
+
+> <STRUCTURE_SMILES>
+ClCC1CO1
+
+> <STRUCTURE_SMILES_Desalt>
+ClCC1CO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

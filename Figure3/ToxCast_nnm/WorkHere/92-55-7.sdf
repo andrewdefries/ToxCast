@@ -1,0 +1,106 @@
+92-55-7
+ChemmineR-0914142331XD
+
+ 17 17  0  0  0  0  0  0  0  0  2 V2000
+    3.0574   -1.9913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2028   -1.3305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2028    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3571   -1.9913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3571   -3.3217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2028   -3.9914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0707   -5.3130    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7666   -5.5862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1058   -4.4319    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9957   -3.4451    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7842   -4.2998    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3747    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2379   -3.0838    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    6.5113   -3.9914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6567   -3.3217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6567   -1.9913    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8110   -3.9914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+M  END
+> <ID>
+910
+
+> <Formula>
+C9H9NO7
+
+> <FW>
+243.1703
+
+> <DSSTox_CID>
+946
+
+> <DSSTox_RID>
+75882
+
+> <DSSTox_GSID>
+20946
+
+> <DSSTox_FileID_Sort>
+566
+
+> <TS_ChemName>
+5-Nitro-2-furanmethanediol diacetate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+92-55-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H9NO7
+
+> <STRUCTURE_MW>
+243.1703
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(5-nitrofuran-2-yl)methanediyl diacetate
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccc(o1)C(OC(C)=O)OC(C)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccc(o1)C(OC(C)=O)OC(C)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,84 @@
+10034-93-2
+ChemmineR-0914142331XD
+
+  7  5  0  0  0  0  0  0  0  0  1 V2000
+      3.99     -2.66      0.00 O   0  0  0  0  0  0  0  0  0  0  0  0
+      3.99     -1.33      0.00 S   0  0  0  0  0  0  0  0  0  0  0  0
+      2.66     -1.33      0.00 O   0  0  0  0  0  0  0  0  0  0  0  0
+      5.32     -1.33      0.00 O   0  0  0  0  0  0  0  0  0  0  0  0
+      3.99      0.00      0.00 O   0  0  0  0  0  0  0  0  0  0  0  0
+      0.00     -1.33      0.00 N   0  0  0  0  0  0  0  0  0  0  0  0
+      1.33     -1.33      0.00 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+673
+
+> <Formula>
+H6N2O4S
+
+> <FW>
+130.1236 (98.0785+32.0452)
+
+> <DSSTox_CID>
+703
+
+> <DSSTox_RID>
+75745
+
+> <DSSTox_GSID>
+20703
+
+> <DSSTox_FileID_Sort>
+429
+
+> <TS_ChemName>
+Hydrazine sulfate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+10034-93-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [302-01-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+H6N2O4S
+
+> <STRUCTURE_MW>
+130.1236
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+hydrazine sulfate (1:1)
+
+> <STRUCTURE_SMILES>
+NN.O=S(=O)(O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

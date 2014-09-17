@@ -1,0 +1,91 @@
+87-69-4
+ChemmineR-0914142331XD
+
+ 10  9  0  0  1  0  0  0  0  0  1 V2000
+    3.4710   -1.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3044   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1609   -1.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6145   -1.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1609    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6145   -3.3209    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4710    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3044   -3.3209    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9867    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7754   -1.3341    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  7  1  1  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  1  0  0  0
+  3  5  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 10  1  0  0  0  0
+M  END
+> <ID>
+3248
+
+> <Formula>
+C4H6O6
+
+> <FW>
+150.0868
+
+> <DSSTox_CID>
+3632
+
+> <DSSTox_RID>
+77120
+
+> <DSSTox_GSID>
+23632
+
+> <DSSTox_FileID_Sort>
+1803
+
+> <TS_ChemName>
+L-Tartaric acid
+
+> <TS_ChemName_Synonyms>
+L-(+)-Tartaric acid
+
+> <TS_CASRN>
+87-69-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H6O6
+
+> <STRUCTURE_MW>
+150.0868
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2R,3R)-2,3-dihydroxybutanedioic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)[C@H](O)[C@@H](O)C(O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)[C@H](O)[C@@H](O)C(O)=O
+
+> <Substance_modify_yyyymmdd>
+20090326
+
+$$$$

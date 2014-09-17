@@ -1,0 +1,94 @@
+101-40-6
+ChemmineR-0914142331XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    5.9860   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6511   -2.3079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9860   -3.4586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6558   -3.4586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9907   -2.3079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6605   -2.3079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9953   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6605    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6651   -1.1573    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6558   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+3158
+
+> <Formula>
+C10H21N
+
+> <FW>
+155.2804
+
+> <DSSTox_CID>
+3526
+
+> <DSSTox_RID>
+77064
+
+> <DSSTox_GSID>
+23526
+
+> <DSSTox_FileID_Sort>
+1747
+
+> <TS_ChemName>
+Propylhexedrine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+101-40-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H21N
+
+> <STRUCTURE_MW>
+155.2804
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-cyclohexyl-N-methylpropan-2-amine
+
+> <STRUCTURE_SMILES>
+CC(NC)CC1CCCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+CC(NC)CC1CCCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,91 @@
+123-66-0
+ChemmineR-0914142331XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6620   -1.1565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9940   -1.1565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6560    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9879    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6499   -1.1565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9879   -2.3050    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9819   -1.1565    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6439   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9759   -2.3050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+1838
+
+> <Formula>
+C8H16O2
+
+> <FW>
+144.2114
+
+> <DSSTox_CID>
+1980
+
+> <DSSTox_RID>
+76440
+
+> <DSSTox_GSID>
+21980
+
+> <DSSTox_FileID_Sort>
+1124
+
+> <TS_ChemName>
+Ethyl hexanoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+123-66-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H16O2
+
+> <STRUCTURE_MW>
+144.2114
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethyl hexanoate
+
+> <STRUCTURE_SMILES>
+O=C(CCCCC)OCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(CCCCC)OCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

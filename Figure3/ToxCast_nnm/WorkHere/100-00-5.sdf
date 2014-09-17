@@ -1,0 +1,92 @@
+100-00-5
+ChemmineR-0914142331XD
+
+ 10 10  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -2.3031    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6640   -1.1546    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    1.9921   -1.1546    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6561    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6542   -1.1546    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901   -2.3031    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6561   -2.3031    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9822   -1.1546    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O    0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+272
+
+> <Formula>
+C6H4ClNO2
+
+> <FW>
+157.5545
+
+> <DSSTox_CID>
+281
+
+> <DSSTox_RID>
+75484
+
+> <DSSTox_GSID>
+20281
+
+> <DSSTox_FileID_Sort>
+168
+
+> <TS_ChemName>
+1-Chloro-4-nitrobenzene
+
+> <TS_ChemName_Synonyms>
+4-Chloronitrobenzene; Benzene, 1-chloro-4-nitro-; p-Chloronitrobenzene
+
+> <TS_CASRN>
+100-00-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H4ClNO2
+
+> <STRUCTURE_MW>
+157.5545
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-chloro-4-nitrobenzene
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccc(Cl)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccc(Cl)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

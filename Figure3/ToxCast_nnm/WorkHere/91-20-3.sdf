@@ -1,0 +1,93 @@
+91-20-3
+ChemmineR-0914142331XD
+
+ 10 11  0  0  0  0  0  0  0  0  1 V2000
+    3.4558    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -1.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558   -2.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6078   -1.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6078   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -2.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+879
+
+> <Formula>
+C10H8
+
+> <FW>
+128.1705
+
+> <DSSTox_CID>
+913
+
+> <DSSTox_RID>
+75860
+
+> <DSSTox_GSID>
+20913
+
+> <DSSTox_FileID_Sort>
+544
+
+> <TS_ChemName>
+Naphthalene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+91-20-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H8
+
+> <STRUCTURE_MW>
+128.1705
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+naphthalene
+
+> <STRUCTURE_SMILES>
+c1cccc2ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+c1cccc2ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

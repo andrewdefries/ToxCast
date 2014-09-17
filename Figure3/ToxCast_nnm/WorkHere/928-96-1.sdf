@@ -1,0 +1,85 @@
+928-96-1
+ChemmineR-0914142331XD
+
+  7  6  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3288   -1.1552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9932   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3280   -2.3045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9924   -1.1552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3212   -1.1552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9856    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+1978
+
+> <Formula>
+C6H12O
+
+> <FW>
+100.1589
+
+> <DSSTox_CID>
+2137
+
+> <DSSTox_RID>
+76503
+
+> <DSSTox_GSID>
+22137
+
+> <DSSTox_FileID_Sort>
+1187
+
+> <TS_ChemName>
+(Z)-3-Hexen-1-ol
+
+> <TS_ChemName_Synonyms>
+(Z)-3-Hexen-1-ol (cis-3-hexen-1-ol)
+
+> <TS_CASRN>
+928-96-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12O
+
+> <STRUCTURE_MW>
+100.1589
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(3Z)-hex-3-en-1-ol
+
+> <STRUCTURE_SMILES>
+CC\C=C/CCO
+
+> <STRUCTURE_SMILES_Desalt>
+CC\C=C/CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

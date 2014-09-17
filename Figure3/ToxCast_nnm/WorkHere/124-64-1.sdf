@@ -1,0 +1,90 @@
+124-64-1
+ChemmineR-0914142331XD
+
+ 10  8  0  0  0  0  0  0  0  0  2 V2000
+    3.3250   -1.9950    0.0000 P    0  3  0  0  0  0  0  0  0  0  0  0
+    3.3250   -3.3250    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.4742   -3.9900    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -1.9950    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -3.1495    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -0.6650    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1759    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6551   -1.9950    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -3.1495    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9950    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+1277
+
+> <Formula>
+C4H12ClO4P
+
+> <FW>
+190.5624 (155.1089+35.4535)
+
+> <DSSTox_CID>
+1330
+
+> <DSSTox_RID>
+76085
+
+> <DSSTox_GSID>
+21330
+
+> <DSSTox_FileID_Sort>
+769
+
+> <TS_ChemName>
+Tetrakis(hydroxymethyl)phosphonium chloride
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+124-64-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+phosphonium
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H12ClO4P
+
+> <STRUCTURE_MW>
+190.5624
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+tetrakis(hydroxymethyl)phosphonium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].OC[P+](CO)(CO)CO
+
+> <STRUCTURE_SMILES_Desalt>
+OC[P+](CO)(CO)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

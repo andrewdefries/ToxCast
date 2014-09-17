@@ -1,0 +1,93 @@
+2387-59-9
+ChemmineR-0914142331XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3023    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6654   -1.1512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962   -1.1512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6617   -2.3023    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9925   -2.3023    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6579   -1.1512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9925    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9887   -1.1512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6541    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6541   -2.3023    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+2478
+
+> <Formula>
+C5H9NO4S
+
+> <FW>
+179.1943
+
+> <DSSTox_CID>
+2738
+
+> <DSSTox_RID>
+76709
+
+> <DSSTox_GSID>
+22738
+
+> <DSSTox_FileID_Sort>
+1393
+
+> <TS_ChemName>
+Carbocysteine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2387-59-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+mixture of d,l [638-23-3] isomers; structure shown without stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H9NO4S
+
+> <STRUCTURE_MW>
+179.1943
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+S-(carboxymethyl)cysteine
+
+> <STRUCTURE_SMILES>
+OC(=O)C(N)CSCC(O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)C(N)CSCC(O)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,86 @@
+67-48-1
+ChemmineR-0914142331XD
+
+  8  6  0  0  0  0  0  0  0  0  2 V2000
+    2.3030   -1.8194    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.4545   -1.1515    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    4.1177   -2.3030    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.7912    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6060   -0.4882    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -1.1515    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8194    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2615   -3.6341    0.0000 Cl   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+315
+
+> <Formula>
+C5H14ClNO
+
+> <FW>
+139.6238 (104.1702+35.4535)
+
+> <DSSTox_CID>
+325
+
+> <DSSTox_RID>
+75513
+
+> <DSSTox_GSID>
+20325
+
+> <DSSTox_FileID_Sort>
+197
+
+> <TS_ChemName>
+Choline chloride
+
+> <TS_ChemName_Synonyms>
+Choline chloride (Ethanaminium, 2-hydroxy-N,N,N-trimethyl-, chloride)
+
+> <TS_CASRN>
+67-48-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; parent [62-49-7]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H14ClNO
+
+> <STRUCTURE_MW>
+139.6238
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+2-hydroxy-N,N,N-trimethylethanaminium chloride
+
+> <STRUCTURE_SMILES>
+[Cl-].C[N+](C)(C)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+](C)(C)CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

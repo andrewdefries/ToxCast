@@ -1,0 +1,105 @@
+78415-72-2
+ChemmineR-0914142331XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    4.6039   -3.9911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7569   -4.6523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4590   -4.6523    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3060   -3.9911    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530   -4.6523    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3060   -2.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1530   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.3304    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4590   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6039   -2.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7569   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7569   -0.6612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9099    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0629   -0.6612    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0629   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9099   -2.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1 10  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  7  8  3  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+2984
+
+> <Formula>
+C12H9N3O
+
+> <FW>
+211.2194
+
+> <DSSTox_CID>
+3324
+
+> <DSSTox_RID>
+76978
+
+> <DSSTox_GSID>
+23324
+
+> <DSSTox_FileID_Sort>
+1662
+
+> <TS_ChemName>
+Milrinone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+78415-72-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H9N3O
+
+> <STRUCTURE_MW>
+211.2194
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-methyl-6-oxo-1,6-dihydro-3,4'-bipyridine-5-carbonitrile
+
+> <STRUCTURE_SMILES>
+N#CC1=CC(=C(C)NC1=O)c2ccncc2
+
+> <STRUCTURE_SMILES_Desalt>
+N#CC1=CC(=C(C)NC1=O)c2ccncc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

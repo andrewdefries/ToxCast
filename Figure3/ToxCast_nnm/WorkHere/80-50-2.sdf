@@ -1,0 +1,114 @@
+80-50-2
+ChemmineR-0914142331XD
+
+ 21 21  0  0  1  0  0  0  0  0  2 V2000
+    4.3986   -1.1141    0.0000 Br   0  5  0  0  0  0  0  0  0  0  0  0
+    4.7947   -5.2238    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.7947   -6.5690    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9501   -4.5884    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6559   -7.2457    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.4675   -6.5690    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9393   -2.0384    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6559   -3.3175    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.8224   -2.6326    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.2626   -2.6326    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.0398   -1.3287    0.0000 N    0  3  0  0  0  0  0  0  0  0  0  0
+    3.4331   -2.0054    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.4291   -3.7797    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4277   -3.1772    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2888    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6559   -4.3243    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.8568    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9501   -7.2292    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.0972   -6.5608    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.2525   -7.2210    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3204   -7.2457    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2 16  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 18  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7 11  1  1  0  0  0
+  7 12  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 16  1  6  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 13  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <ID>
+2367
+
+> <Formula>
+C17H32BrNO2
+
+> <FW>
+362.3455 (79.9045+282.4409)
+
+> <DSSTox_CID>
+2612
+
+> <DSSTox_RID>
+76659
+
+> <DSSTox_GSID>
+22612
+
+> <DSSTox_FileID_Sort>
+1343
+
+> <TS_ChemName>
+Anisotropine methylbromide
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+80-50-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+ammonium; stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H32BrNO2
+
+> <STRUCTURE_MW>
+362.3455
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+salt
+
+> <STRUCTURE_IUPAC>
+(3-endo)-8,8-dimethyl-3-[(2-propylpentanoyl)oxy]-8-azoniabicyclo[3.2.1]octane bromide
+
+> <STRUCTURE_SMILES>
+[Br-].C[N+]2(C)[C@H]1C[C@@H](C[C@@H]2CC1)OC(=O)C(CCC)CCC
+
+> <STRUCTURE_SMILES_Desalt>
+C[N+]2(C)[C@H]1C[C@@H](C[C@@H]2CC1)OC(=O)C(CCC)CCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,79 @@
+590-17-0
+ChemmineR-0914142331XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6652   -1.1508    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9956   -1.1508    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3260   -1.1508    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  3  0  0  0  0
+M  END
+> <ID>
+1436
+
+> <Formula>
+C2H2BrN
+
+> <FW>
+119.948
+
+> <DSSTox_CID>
+1496
+
+> <DSSTox_RID>
+76187
+
+> <DSSTox_GSID>
+21496
+
+> <DSSTox_FileID_Sort>
+871
+
+> <TS_ChemName>
+Bromoacetonitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+590-17-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H2BrN
+
+> <STRUCTURE_MW>
+119.948
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+bromoacetonitrile
+
+> <STRUCTURE_SMILES>
+BrCC#N
+
+> <STRUCTURE_SMILES_Desalt>
+BrCC#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,94 @@
+51-52-5
+ChemmineR-0914142331XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    2.3019    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -1.3272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -1.9908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -3.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3019   -3.9886    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -3.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9886    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1544   -1.9908    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6107   -3.9886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7582   -3.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9126   -3.9886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <ID>
+1163
+
+> <Formula>
+C7H10N2OS
+
+> <FW>
+170.2321
+
+> <DSSTox_CID>
+1209
+
+> <DSSTox_RID>
+76011
+
+> <DSSTox_GSID>
+21209
+
+> <DSSTox_FileID_Sort>
+695
+
+> <TS_ChemName>
+6-Propyl-2-thiouracil
+
+> <TS_ChemName_Synonyms>
+6-Propyl-2 thiouracil (PTU)
+
+> <TS_CASRN>
+51-52-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H10N2OS
+
+> <STRUCTURE_MW>
+170.2321
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+6-propyl-2-thioxo-2,3-dihydropyrimidin-4(1H)-one
+
+> <STRUCTURE_SMILES>
+S=C1NC(CCC)=CC(=O)N1
+
+> <STRUCTURE_SMILES_Desalt>
+S=C1NC(CCC)=CC(=O)N1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

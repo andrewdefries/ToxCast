@@ -1,0 +1,83 @@
+108-03-2
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  2 V2000
+    3.4563    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -1.3318    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.3042   -1.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6084   -1.9954    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+944
+
+> <Formula>
+C3H7NO2
+
+> <FW>
+89.0932
+
+> <DSSTox_CID>
+980
+
+> <DSSTox_RID>
+75902
+
+> <DSSTox_GSID>
+20980
+
+> <DSSTox_FileID_Sort>
+586
+
+> <TS_ChemName>
+1-Nitropropane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+108-03-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H7NO2
+
+> <STRUCTURE_MW>
+89.0932
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-nitropropane
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)CCC
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)CCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

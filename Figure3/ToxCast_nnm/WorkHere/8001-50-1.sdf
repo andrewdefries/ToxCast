@@ -1,0 +1,107 @@
+8001-50-1
+ChemmineR-0914142331XD
+
+ 17 18  0  0  1  0  0  0  0  0  1 V2000
+    3.2940   -1.0779    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4517   -1.9002    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5948   -2.5620    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5948   -3.8756    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2516   -5.0137    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9084   -3.8756    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4517   -3.3892    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9804   -1.0278    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1358    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5971   -4.7580    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3136   -3.8756    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.1755   -4.5323    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3136   -2.5620    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.5620    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6618   -1.4189    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2516   -1.4189    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9084   -2.5620    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 16  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  1  0  0  0
+  7 11  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+M  END
+> <ID>
+1233
+
+> <Formula>
+C10H9Cl7
+
+> <FW>
+377.3495
+
+> <DSSTox_CID>
+1283
+
+> <DSSTox_RID>
+76056
+
+> <DSSTox_GSID>
+21283
+
+> <DSSTox_FileID_Sort>
+740
+
+> <TS_ChemName>
+Strobane
+
+> <TS_ChemName_Synonyms>
+Strobane (Terpene polychlorinate.)
+
+> <TS_CASRN>
+8001-50-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture or formulation
+
+> <ChemNote>
+mixture of polychlorinated terpenes; structure shown heptachlorocamphene; stereochem
+
+> <STRUCTURE_Shown>
+representative component
+
+> <STRUCTURE_Formula>
+C10H9Cl7
+
+> <STRUCTURE_MW>
+377.3495
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(1S,4R)-1,2,2,3,3,4,7-heptachloro-5,5-dimethyl-6-methylidenebicyclo[2.2.1]heptane
+
+> <STRUCTURE_SMILES>
+ClC2(Cl)[C@]1(Cl)C(Cl)[C@@](Cl)(C(=C)C1(C)C)C2(Cl)Cl
+
+> <STRUCTURE_SMILES_Desalt>
+ClC2(Cl)[C@]1(Cl)C(Cl)[C@@](Cl)(C(=C)C1(C)C)C2(Cl)Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

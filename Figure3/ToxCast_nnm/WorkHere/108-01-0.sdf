@@ -1,0 +1,83 @@
+108-01-0
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    4.6084   -1.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563   -1.3318    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3042   -1.9954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -1.3318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9954    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4563    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <ID>
+488
+
+> <Formula>
+C4H11NO
+
+> <FW>
+89.1362
+
+> <DSSTox_CID>
+505
+
+> <DSSTox_RID>
+75628
+
+> <DSSTox_GSID>
+20505
+
+> <DSSTox_FileID_Sort>
+312
+
+> <TS_ChemName>
+Dimethylaminoethanol
+
+> <TS_ChemName_Synonyms>
+2-Dimethylaminoethanol (Deanol) (Dimethylaminoethanol) (Ethanol, 2-(dimethylamino)-)
+
+> <TS_CASRN>
+108-01-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H11NO
+
+> <STRUCTURE_MW>
+89.1362
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(dimethylamino)ethanol
+
+> <STRUCTURE_SMILES>
+CN(C)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,106 @@
+18559-94-9
+ChemmineR-0914142331XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    3.1480    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8049   -1.1588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1371   -1.1588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8032    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1354    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7924   -1.1588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1354   -2.3085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8032   -2.3085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7924   -3.4582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1246   -3.4582    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1246   -1.1588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1480   -2.3085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8158   -2.3085    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1497   -3.4582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2994   -4.1243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4836   -4.6079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7921    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+M  END
+> <ID>
+1207
+
+> <Formula>
+C13H21NO3
+
+> <FW>
+239.3107
+
+> <DSSTox_CID>
+1255
+
+> <DSSTox_RID>
+76042
+
+> <DSSTox_GSID>
+21255
+
+> <DSSTox_FileID_Sort>
+726
+
+> <TS_ChemName>
+Albuterol
+
+> <TS_ChemName_Synonyms>
+Albuterol (Salbutamol)
+
+> <TS_CASRN>
+18559-94-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+racemic mixture of (1R,S); structure shown without stereochem; (R) form [34391-04-3]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H21NO3
+
+> <STRUCTURE_MW>
+239.3107
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-[2-(tert-butylamino)-1-hydroxyethyl]-2-(hydroxymethyl)phenol
+
+> <STRUCTURE_SMILES>
+OCc1cc(ccc1O)C(O)CNC(C)(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+OCc1cc(ccc1O)C(O)CNC(C)(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

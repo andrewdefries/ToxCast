@@ -1,0 +1,95 @@
+505-48-6
+ChemmineR-0914142331XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    9.2170    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0649   -0.6728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0649   -2.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9128   -2.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7606   -2.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6085   -2.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4564   -2.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3043   -2.6637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -2.0001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6637    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1521   -0.6728    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9128    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+1581
+
+> <Formula>
+C8H14O4
+
+> <FW>
+174.1944
+
+> <DSSTox_CID>
+1644
+
+> <DSSTox_RID>
+76258
+
+> <DSSTox_GSID>
+21644
+
+> <DSSTox_FileID_Sort>
+942
+
+> <TS_ChemName>
+Octanedioic acid
+
+> <TS_ChemName_Synonyms>
+Octanedioic acid (Suberic acid)
+
+> <TS_CASRN>
+505-48-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H14O4
+
+> <STRUCTURE_MW>
+174.1944
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+octanedioic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCCCCCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCCCCCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

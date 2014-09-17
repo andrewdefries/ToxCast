@@ -1,0 +1,88 @@
+66-22-8
+ChemmineR-0914142331XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    4.6080   -2.6588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -2.6588    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6588    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6635    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4560   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+1368
+
+> <Formula>
+C4H4N2O2
+
+> <FW>
+112.0868
+
+> <DSSTox_CID>
+1424
+
+> <DSSTox_RID>
+76153
+
+> <DSSTox_GSID>
+21424
+
+> <DSSTox_FileID_Sort>
+837
+
+> <TS_ChemName>
+Uracil
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+66-22-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H4N2O2
+
+> <STRUCTURE_MW>
+112.0868
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+pyrimidine-2,4(1H,3H)-dione
+
+> <STRUCTURE_SMILES>
+O=C1C=CNC(=O)N1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1C=CNC(=O)N1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

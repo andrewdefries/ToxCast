@@ -1,0 +1,83 @@
+545-06-2
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6608    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3284   -2.6608    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6608   -2.6608    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3284   -3.9892    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3284   -1.3284    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3284    0.0000    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  3  0  0  0  0
+M  END
+> <ID>
+1609
+
+> <Formula>
+C2Cl3N
+
+> <FW>
+144.3871
+
+> <DSSTox_CID>
+1672
+
+> <DSSTox_RID>
+76278
+
+> <DSSTox_GSID>
+21672
+
+> <DSSTox_FileID_Sort>
+962
+
+> <TS_ChemName>
+Trichloroacetonitrile
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+545-06-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2Cl3N
+
+> <STRUCTURE_MW>
+144.3871
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+trichloroacetonitrile
+
+> <STRUCTURE_SMILES>
+ClC(Cl)(Cl)C#N
+
+> <STRUCTURE_SMILES_Desalt>
+ClC(Cl)(Cl)C#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

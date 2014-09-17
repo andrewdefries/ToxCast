@@ -1,0 +1,109 @@
+55-80-1
+ChemmineR-0914142331XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -3.5097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6637   -2.3510    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9911   -2.3510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6660   -1.1924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0046   -1.1924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6796   -2.3510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0046   -3.5097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6660   -3.5097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0182   -2.3510    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2443   -2.3060    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5830   -2.3060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2579   -1.1474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5740   -1.1474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2490   -2.3060    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5740   -3.4647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2579   -3.4647    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2490    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 16  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+804
+
+> <Formula>
+C15H17N3
+
+> <FW>
+239.3156
+
+> <DSSTox_CID>
+838
+
+> <DSSTox_RID>
+75820
+
+> <DSSTox_GSID>
+20838
+
+> <DSSTox_FileID_Sort>
+504
+
+> <TS_ChemName>
+3'-Methyl-4-dimethylaminoazobenzene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+55-80-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H17N3
+
+> <STRUCTURE_MW>
+239.3156
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N-dimethyl-4-[(3-methylphenyl)diazenyl]aniline
+
+> <STRUCTURE_SMILES>
+CN(C)c2ccc(/N=N/c1cc(C)ccc1)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)c2ccc(/N=N/c1cc(C)ccc1)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

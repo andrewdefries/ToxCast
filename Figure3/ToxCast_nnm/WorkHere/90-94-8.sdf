@@ -1,0 +1,113 @@
+90-94-8
+ChemmineR-0914142331XD
+
+ 20 21  0  0  0  0  0  0  0  0  1 V2000
+    5.7577    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7577   -1.3358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9092   -1.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0608   -1.3358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2123   -1.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2123   -3.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0608   -3.9958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9092   -3.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3639   -3.9958    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3639   -5.3201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5154   -3.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6062   -1.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6062   -3.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546   -3.9958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -3.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3031   -1.9922    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4546   -1.3358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -3.9958    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1515   -5.3201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 17  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <ID>
+860
+
+> <Formula>
+C17H20N2O
+
+> <FW>
+268.3535
+
+> <DSSTox_CID>
+894
+
+> <DSSTox_RID>
+75850
+
+> <DSSTox_GSID>
+20894
+
+> <DSSTox_FileID_Sort>
+534
+
+> <TS_ChemName>
+Michler's ketone
+
+> <TS_ChemName_Synonyms>
+Michler's ketone (4,4’-Bis(dimethylamino)benzophenone)
+
+> <TS_CASRN>
+90-94-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+Michler's ketone
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C17H20N2O
+
+> <STRUCTURE_MW>
+268.3535
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+bis[4-(dimethylamino)phenyl]methanone
+
+> <STRUCTURE_SMILES>
+CN(C)c1ccc(cc1)C(=O)c2ccc(cc2)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)c1ccc(cc1)C(=O)c2ccc(cc2)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

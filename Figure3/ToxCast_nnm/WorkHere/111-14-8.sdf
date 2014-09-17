@@ -1,0 +1,89 @@
+111-14-8
+ChemmineR-0914142331XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    1.9962   -2.3033    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3308   -1.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1553    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9962    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3271    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9852   -1.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3160   -1.1553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9814   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3122   -2.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+1537
+
+> <Formula>
+C7H14O2
+
+> <FW>
+130.1849
+
+> <DSSTox_CID>
+1600
+
+> <DSSTox_RID>
+76227
+
+> <DSSTox_GSID>
+21600
+
+> <DSSTox_FileID_Sort>
+911
+
+> <TS_ChemName>
+Heptanoic acid
+
+> <TS_ChemName_Synonyms>
+n-Heptanoic acid
+
+> <TS_CASRN>
+111-14-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H14O2
+
+> <STRUCTURE_MW>
+130.1849
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+heptanoic acid
+
+> <STRUCTURE_SMILES>
+CCCCCCC(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCC(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

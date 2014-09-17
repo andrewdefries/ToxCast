@@ -1,0 +1,97 @@
+94-52-0
+ChemmineR-0914142331XD
+
+ 12 13  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -3.2909    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6643   -2.1391    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.9928   -2.1391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6571   -0.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9918   -0.9873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6561   -2.1391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9918   -3.2909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6571   -3.2909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9542   -1.8649    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0943   -0.5424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8816    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.9873    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <ID>
+929
+
+> <Formula>
+C7H5N3O2
+
+> <FW>
+163.1335
+
+> <DSSTox_CID>
+965
+
+> <DSSTox_RID>
+75893
+
+> <DSSTox_GSID>
+20965
+
+> <DSSTox_FileID_Sort>
+577
+
+> <TS_ChemName>
+6-Nitrobenzimidazole
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+94-52-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+tautomers
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H5N3O2
+
+> <STRUCTURE_MW>
+163.1335
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-nitro-1H-benzimidazole
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c1cc2ncnc2cc1
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c1cc2ncnc2cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,83 @@
+625-28-5
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    3.4551    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4551   -1.3314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6068   -1.9947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3034   -1.9947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1517   -1.3314    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6634    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  3  0  0  0  0
+M  END
+> <ID>
+1557
+
+> <Formula>
+C5H9N
+
+> <FW>
+83.1317
+
+> <DSSTox_CID>
+1620
+
+> <DSSTox_RID>
+76240
+
+> <DSSTox_GSID>
+21620
+
+> <DSSTox_FileID_Sort>
+924
+
+> <TS_ChemName>
+Isovaleronitrile
+
+> <TS_ChemName_Synonyms>
+3-Methylbutanenitrile
+
+> <TS_CASRN>
+625-28-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H9N
+
+> <STRUCTURE_MW>
+83.1317
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3-methylbutanenitrile
+
+> <STRUCTURE_SMILES>
+CC(C)CC#N
+
+> <STRUCTURE_SMILES_Desalt>
+CC(C)CC#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,110 @@
+333-41-5
+ChemmineR-0914142331XD
+
+ 19 19  0  0  0  0  0  0  0  0  1 V2000
+    4.8313   -4.1140    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9808   -3.4571    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3153   -2.2990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9930   -2.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3275   -3.4571    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9965   -3.4571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3310   -2.2990    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9965   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3275   -1.1495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3310    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3310   -4.6066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9965   -5.7561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1389   -2.7916    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1389   -1.4606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2884   -0.7951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6463   -4.6066    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9773   -4.6066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6428   -3.4571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <ID>
+392
+
+> <Formula>
+C12H21N2O3PS
+
+> <FW>
+304.3455
+
+> <DSSTox_CID>
+407
+
+> <DSSTox_RID>
+75567
+
+> <DSSTox_GSID>
+20407
+
+> <DSSTox_FileID_Sort>
+251
+
+> <TS_ChemName>
+Diazinon
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+333-41-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H21N2O3PS
+
+> <STRUCTURE_MW>
+304.3455
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O,O-diethyl O-[6-methyl-2-(propan-2-yl)pyrimidin-4-yl] phosphorothioate
+
+> <STRUCTURE_SMILES>
+Cc1cc(OP(=S)(OCC)OCC)nc(n1)C(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1cc(OP(=S)(OCC)OCC)nc(n1)C(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

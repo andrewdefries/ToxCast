@@ -1,0 +1,89 @@
+280-57-9
+ChemmineR-0914142331XD
+
+  8  9  0  0  0  0  0  0  0  0  1 V2000
+    1.2604    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2604   -2.9042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5179   -0.7173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5179   -2.1868    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.7173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8383   -0.9264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8383   -1.9777    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+1865
+
+> <Formula>
+C6H12N2
+
+> <FW>
+112.1729
+
+> <DSSTox_CID>
+2016
+
+> <DSSTox_RID>
+76461
+
+> <DSSTox_GSID>
+22016
+
+> <DSSTox_FileID_Sort>
+1145
+
+> <TS_ChemName>
+1,4-Diazabicyclo[2.2.2]octane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+280-57-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12N2
+
+> <STRUCTURE_MW>
+112.1729
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,4-diazabicyclo[2.2.2]octane
+
+> <STRUCTURE_SMILES>
+C1CN2CCN1CC2
+
+> <STRUCTURE_SMILES_Desalt>
+C1CN2CCN1CC2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

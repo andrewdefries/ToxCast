@@ -1,0 +1,93 @@
+112-05-0
+ChemmineR-0914142331XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3038   -2.6632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4557   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6076   -2.6632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7595   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9113   -2.6632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0632   -1.9997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0632   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9113    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2151    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <ID>
+1578
+
+> <Formula>
+C9H18O2
+
+> <FW>
+158.238
+
+> <DSSTox_CID>
+1641
+
+> <DSSTox_RID>
+76255
+
+> <DSSTox_GSID>
+21641
+
+> <DSSTox_FileID_Sort>
+939
+
+> <TS_ChemName>
+Nonanoic acid
+
+> <TS_ChemName_Synonyms>
+Nonanoic acid (1-Octanecarboxylic acid)
+
+> <TS_CASRN>
+112-05-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18O2
+
+> <STRUCTURE_MW>
+158.238
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+nonanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(O)CCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(O)CCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

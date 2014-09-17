@@ -1,0 +1,106 @@
+1085-12-7
+ChemmineR-0914142331XD
+
+ 17 17  0  0  0  0  0  0  0  0  1 V2000
+    7.9817   -2.3014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3120   -2.3014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9771   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3074   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9726   -2.3014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3074   -3.4587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9771   -3.4587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3028   -2.3014    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3166   -1.1573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3166   -3.4587    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9863   -3.4587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3211   -2.3014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9909   -2.3014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3257   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9954   -1.1573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3303    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+2290
+
+> <Formula>
+C14H20O3
+
+> <FW>
+236.3068
+
+> <DSSTox_CID>
+2523
+
+> <DSSTox_RID>
+76610
+
+> <DSSTox_GSID>
+22523
+
+> <DSSTox_FileID_Sort>
+1294
+
+> <TS_ChemName>
+Heptylparaben
+
+> <TS_ChemName_Synonyms>
+Heptylparaben (n-heptyl 4-hydroxybenzoate)
+
+> <TS_CASRN>
+1085-12-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H20O3
+
+> <STRUCTURE_MW>
+236.3068
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+heptyl 4-hydroxybenzoate
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1)C(=O)OCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1)C(=O)OCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

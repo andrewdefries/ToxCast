@@ -1,0 +1,105 @@
+58-85-5
+ChemmineR-0914142331XD
+
+ 16 17  0  0  1  0  0  0  0  0  1 V2000
+   11.2967   -3.0614    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1105   -2.4627    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9244   -3.0614    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9868   -2.1238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6763   -1.9091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7387   -2.8581    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4509   -2.5079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5133   -3.4455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2254   -3.1066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2878   -4.0442    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6945   -5.3094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.7053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4617   -0.5987    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6479    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5855   -0.9376    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9072   -1.1410    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 16  1  0  0  0  0
+  4  3  1  6  0  0  0
+  4  5  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  6  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  6  0  0  0
+M  END
+> <ID>
+2425
+
+> <Formula>
+C10H16N2O3S
+
+> <FW>
+244.3106
+
+> <DSSTox_CID>
+2679
+
+> <DSSTox_RID>
+76688
+
+> <DSSTox_GSID>
+22679
+
+> <DSSTox_FileID_Sort>
+1372
+
+> <TS_ChemName>
+Biotin
+
+> <TS_ChemName_Synonyms>
+D-Biotin; D-(+)-Biotin
+
+> <TS_CASRN>
+58-85-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H16N2O3S
+
+> <STRUCTURE_MW>
+244.3106
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-[(3aS,4S,6aR)-2-oxohexahydro-1H-thieno[3,4-d]imidazol-4-yl]pentanoic acid
+
+> <STRUCTURE_SMILES>
+O=C1N[C@@H]2[C@H](CCCCC(=O)O)SC[C@@H]2N1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1N[C@@H]2[C@H](CCCCC(=O)O)SC[C@@H]2N1
+
+> <Substance_modify_yyyymmdd>
+20130913
+
+$$$$

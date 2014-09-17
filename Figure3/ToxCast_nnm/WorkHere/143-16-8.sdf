@@ -1,0 +1,97 @@
+143-16-8
+ChemmineR-0914142331XD
+
+ 13 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1479    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3096   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6053   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7670    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9149   -0.6638    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0628    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2245   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3724    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5202   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6819    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8298   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <ID>
+1860
+
+> <Formula>
+C12H27N
+
+> <FW>
+185.3495
+
+> <DSSTox_CID>
+2009
+
+> <DSSTox_RID>
+76458
+
+> <DSSTox_GSID>
+22009
+
+> <DSSTox_FileID_Sort>
+1142
+
+> <TS_ChemName>
+Dihexylamine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+143-16-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H27N
+
+> <STRUCTURE_MW>
+185.3495
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-hexylhexan-1-amine
+
+> <STRUCTURE_SMILES>
+CCCCCCNCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCCCNCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

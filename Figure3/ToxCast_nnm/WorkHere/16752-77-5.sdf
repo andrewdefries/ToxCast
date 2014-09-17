@@ -1,0 +1,91 @@
+16752-77-5
+ChemmineR-0914142331XD
+
+ 10  9  0  0  0  0  0  0  0  0  1 V2000
+    6.6944    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3689   -0.0201    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7262   -1.1715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4024   -2.3029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4007   -1.1849    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9949   -1.1514    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6694   -1.1715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0335    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0335   -2.3230    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7029   -3.4543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+2105
+
+> <Formula>
+C5H10N2O2S
+
+> <FW>
+162.2101
+
+> <DSSTox_CID>
+2267
+
+> <DSSTox_RID>
+76533
+
+> <DSSTox_GSID>
+22267
+
+> <DSSTox_FileID_Sort>
+1217
+
+> <TS_ChemName>
+Methomyl
+
+> <TS_ChemName_Synonyms>
+Methomyl (lannate)
+
+> <TS_CASRN>
+16752-77-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H10N2O2S
+
+> <STRUCTURE_MW>
+162.2101
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methyl N-[(methylcarbamoyl)oxy]ethanimidothioate
+
+> <STRUCTURE_SMILES>
+C\C(=N\OC(=O)NC)SC
+
+> <STRUCTURE_SMILES_Desalt>
+C\C(=N\OC(=O)NC)SC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

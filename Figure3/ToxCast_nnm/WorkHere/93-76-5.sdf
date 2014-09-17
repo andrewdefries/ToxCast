@@ -1,0 +1,100 @@
+93-76-5
+ChemmineR-0914142331XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    3.4580   -3.9899    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6025   -3.3290    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6025   -1.9990    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552   -1.3300    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9078   -1.9990    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.9078   -3.3290    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.7552   -3.9899    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    8.0605   -3.9899    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0605   -1.3300    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4580   -1.3300    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    2.3053   -1.9990    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527   -1.3300    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1527    0.0000    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9990    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <ID>
+1333
+
+> <Formula>
+C8H5Cl3O3
+
+> <FW>
+255.4825
+
+> <DSSTox_CID>
+1388
+
+> <DSSTox_RID>
+76130
+
+> <DSSTox_GSID>
+21388
+
+> <DSSTox_FileID_Sort>
+814
+
+> <TS_ChemName>
+2,4,5-Trichlorophenoxyacetic acid
+
+> <TS_ChemName_Synonyms>
+2,4,5-Trichlorophenoxyacetic acid (2,4,5-T)
+
+> <TS_CASRN>
+93-76-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H5Cl3O3
+
+> <STRUCTURE_MW>
+255.4825
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+(2,4,5-trichlorophenoxy)acetic acid
+
+> <STRUCTURE_SMILES>
+Clc1cc(OCC(=O)O)c(Cl)cc1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1cc(OCC(=O)O)c(Cl)cc1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

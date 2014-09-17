@@ -1,0 +1,87 @@
+100-37-8
+ChemmineR-0914142331XD
+
+  8  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3303   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9955   -1.1547    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3259   -1.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910   -2.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3214   -2.3042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3303    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <ID>
+1728
+
+> <Formula>
+C6H15NO
+
+> <FW>
+117.1894
+
+> <DSSTox_CID>
+1837
+
+> <DSSTox_RID>
+76358
+
+> <DSSTox_GSID>
+21837
+
+> <DSSTox_FileID_Sort>
+1042
+
+> <TS_ChemName>
+N,N-Diethylethanolamine
+
+> <TS_ChemName_Synonyms>
+N,N-Diethylethanolamine ((Diethylamino)ethanol)
+
+> <TS_CASRN>
+100-37-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H15NO
+
+> <STRUCTURE_MW>
+117.1894
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(diethylamino)ethanol
+
+> <STRUCTURE_SMILES>
+CCN(CC)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

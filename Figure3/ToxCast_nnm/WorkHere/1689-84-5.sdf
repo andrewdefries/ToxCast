@@ -1,0 +1,94 @@
+1689-84-5
+ChemmineR-0914142331XD
+
+ 11 11  0  0  0  0  0  0  0  0  1 V2000
+    3.3240   -3.4570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9944   -3.4570    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -4.6071    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -2.3069    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3069    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9944   -1.1501    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3240   -1.1501    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9888   -2.3069    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3184   -2.3069    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.6480   -2.3069    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  9  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  3  0  0  0  0
+M  END
+> <ID>
+2001
+
+> <Formula>
+C7H3Br2NO
+
+> <FW>
+276.9128
+
+> <DSSTox_CID>
+2162
+
+> <DSSTox_RID>
+76509
+
+> <DSSTox_GSID>
+22162
+
+> <DSSTox_FileID_Sort>
+1193
+
+> <TS_ChemName>
+Bromoxynil
+
+> <TS_ChemName_Synonyms>
+Bromoxynil (3,5-dibromo-4-hydroxybenzonitrile)
+
+> <TS_CASRN>
+1689-84-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H3Br2NO
+
+> <STRUCTURE_MW>
+276.9128
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+3,5-dibromo-4-hydroxybenzonitrile
+
+> <STRUCTURE_SMILES>
+Brc1cc(cc(Br)c1O)C#N
+
+> <STRUCTURE_SMILES_Desalt>
+Brc1cc(cc(Br)c1O)C#N
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

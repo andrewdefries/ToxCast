@@ -1,0 +1,105 @@
+519-37-9
+ChemmineR-0914142331XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    2.2254   -1.2875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8843    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2875   -2.2254    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8843    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6285   -3.5128    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6906   -4.4507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9160   -3.8539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8539   -2.9160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5128   -1.6285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4507   -0.6906    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0390   -3.5128    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2242   -2.9160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3411   -3.6407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5263   -3.0354    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8344   -4.8344    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5214   -5.0390    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  9  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 16  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  2  0  0  0  0
+M  END
+> <ID>
+2724
+
+> <Formula>
+C9H12N4O3
+
+> <FW>
+224.2166
+
+> <DSSTox_CID>
+3031
+
+> <DSSTox_RID>
+76839
+
+> <DSSTox_GSID>
+23031
+
+> <DSSTox_FileID_Sort>
+1523
+
+> <TS_ChemName>
+Etofylline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+519-37-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H12N4O3
+
+> <STRUCTURE_MW>
+224.2166
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+7-(2-hydroxyethyl)-1,3-dimethyl-3,7-dihydro-1H-purine-2,6-dione
+
+> <STRUCTURE_SMILES>
+O=C2c1n(cnc1N(C)C(=O)N2C)CCO
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2c1n(cnc1N(C)C(=O)N2C)CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

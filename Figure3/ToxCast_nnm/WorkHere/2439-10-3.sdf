@@ -1,0 +1,110 @@
+2439-10-3
+ChemmineR-0914142331XD
+
+ 20 18  0  0  0  0  0  0  0  0  1 V2000
+    9.2122   -2.0005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0667   -1.3391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9212   -2.0005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7596   -1.3391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6142   -2.0005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4525   -1.3391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3071   -2.0005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1455   -1.3391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3738   -1.3391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5193   -2.0005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6809   -1.3391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8263   -2.0005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9879   -1.3391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1334   -2.0005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9879    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0508   -3.4203    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3894   -4.5819    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0508   -5.7274    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0503   -4.5819    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 18 20  1  0  0  0  0
+M  END
+> <ID>
+527
+
+> <Formula>
+C15H33N3O2
+
+> <FW>
+287.4414 (227.3895+60.0520)
+
+> <DSSTox_CID>
+548
+
+> <DSSTox_RID>
+75654
+
+> <DSSTox_GSID>
+20548
+
+> <DSSTox_FileID_Sort>
+338
+
+> <TS_ChemName>
+Dodine
+
+> <TS_ChemName_Synonyms>
+Dodine (n-Dodecylguanidine acetate)  (1-dodecylguanidinium acetate)
+
+> <TS_CASRN>
+2439-10-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [112-65-2]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H33N3O2
+
+> <STRUCTURE_MW>
+287.4414
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+1-dodecylguanidine acetate (1:1)
+
+> <STRUCTURE_SMILES>
+CC(=O)O.N=C(N)NCCCCCCCCCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+N=C(N)NCCCCCCCCCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

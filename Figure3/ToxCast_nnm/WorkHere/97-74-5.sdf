@@ -1,0 +1,93 @@
+97-74-5
+ChemmineR-0914142331XD
+
+ 11 10  0  0  0  0  0  0  0  0  1 V2000
+    3.3279   -3.4536    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9923   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3211   -2.3044    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9855   -1.1492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9855   -3.4536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3279   -1.1492    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9932   -1.1492    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3288    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3288   -2.3044    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9932   -3.4536    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <ID>
+1280
+
+> <Formula>
+C6H12N2S3
+
+> <FW>
+208.3679
+
+> <DSSTox_CID>
+1333
+
+> <DSSTox_RID>
+76088
+
+> <DSSTox_GSID>
+21333
+
+> <DSSTox_FileID_Sort>
+772
+
+> <TS_ChemName>
+Tetramethylthiuram monosulfide
+
+> <TS_ChemName_Synonyms>
+Tetramethylthiuram monosulfide (Thiodicarbonic diamide ([(H2N)C(S)]2S), tetramethyl-) (Bis(dimethylthiocarbamoyl) sulfide)
+
+> <TS_CASRN>
+97-74-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12N2S3
+
+> <STRUCTURE_MW>
+208.3679
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N,N,N',N'-tetramethyldicarbonotrithioic diamide
+
+> <STRUCTURE_SMILES>
+CN(C)C(=S)SC(=S)N(C)C
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)C(=S)SC(=S)N(C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

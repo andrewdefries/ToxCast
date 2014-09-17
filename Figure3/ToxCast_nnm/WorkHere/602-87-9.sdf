@@ -1,0 +1,104 @@
+602-87-9
+ChemmineR-0914142331XD
+
+ 15 17  0  0  0  0  0  0  0  0  2 V2000
+    4.2842    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2842   -1.3283    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.1294   -1.9925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9805   -1.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8257   -1.9925    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8257   -3.3268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9805   -3.9910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1294   -3.3268    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2842   -3.9910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2842   -5.3193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1294   -5.9835    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9805   -5.3193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6642   -5.5168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.3620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4330   -1.9925    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <ID>
+924
+
+> <Formula>
+C12H9NO2
+
+> <FW>
+199.2054
+
+> <DSSTox_CID>
+960
+
+> <DSSTox_RID>
+75888
+
+> <DSSTox_GSID>
+20960
+
+> <DSSTox_FileID_Sort>
+572
+
+> <TS_ChemName>
+5-Nitroacenaphthene
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+602-87-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H9NO2
+
+> <STRUCTURE_MW>
+199.2054
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-nitro-1,2-dihydroacenaphthylene
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c1ccc2CCc3cccc1c23
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c1ccc2CCc3cccc1c23
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

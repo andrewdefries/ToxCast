@@ -1,0 +1,109 @@
+7077-34-1
+ChemmineR-0914142331XD
+
+ 19 18  0  0  0  0  0  0  0  0  2 V2000
+    7.9821    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3136   -1.1474    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    5.9866   -1.1474    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    7.9821   -2.3048    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3136   -3.4523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9866   -3.4523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3181   -4.6097    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9866   -5.7571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3136   -5.7571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9821   -4.6097    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3092   -4.6097    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    9.9777   -3.4523    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    9.9777   -5.7571    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9911   -4.6097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3226   -3.4523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9955   -3.4523    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3270   -2.3048    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3048    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.9955   -1.1474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+M  END
+> <ID>
+3325
+
+> <Formula>
+C6H12N4O9
+
+> <FW>
+284.1809
+
+> <DSSTox_CID>
+3722
+
+> <DSSTox_RID>
+77164
+
+> <DSSTox_GSID>
+23722
+
+> <DSSTox_FileID_Sort>
+1847
+
+> <TS_ChemName>
+Trolnitrate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+7077-34-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H12N4O9
+
+> <STRUCTURE_MW>
+284.1809
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+nitrilotriethane-2,1-diyl trinitrate
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])OCCN(CCO[N+]([O-])=O)CCO[N+]([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])OCCN(CCO[N+]([O-])=O)CCO[N+]([O-])=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

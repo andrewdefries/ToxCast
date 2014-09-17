@@ -1,0 +1,95 @@
+60-51-5
+ChemmineR-0914142331XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    3.3242   -1.9909    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9909   -1.9909    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9909   -3.3242    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1448   -3.9878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1448   -5.3151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9909   -5.9788    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2928   -5.9788    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4467   -5.3151    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6636   -1.9909    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9909   -0.6636    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1448    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+463
+
+> <Formula>
+C5H12NO3PS2
+
+> <FW>
+229.2574
+
+> <DSSTox_CID>
+479
+
+> <DSSTox_RID>
+75615
+
+> <DSSTox_GSID>
+20479
+
+> <DSSTox_FileID_Sort>
+299
+
+> <TS_ChemName>
+Dimethoate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+60-51-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H12NO3PS2
+
+> <STRUCTURE_MW>
+229.2574
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O,O-dimethyl S-[2-(methylamino)-2-oxoethyl] phosphorodithioate
+
+> <STRUCTURE_SMILES>
+COP(=S)(OC)SCC(=O)NC
+
+> <STRUCTURE_SMILES_Desalt>
+COP(=S)(OC)SCC(=O)NC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

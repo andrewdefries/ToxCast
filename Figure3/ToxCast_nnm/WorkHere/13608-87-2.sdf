@@ -1,0 +1,96 @@
+13608-87-2
+ChemmineR-0914142331XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    2.6572   -3.4532    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9929   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6643   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1491    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4532    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6572   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9929    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9918   -1.1491    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.6561    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6561   -2.3041    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9847   -2.3041    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9918   -3.4532    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+2094
+
+> <Formula>
+C8H5Cl3O
+
+> <FW>
+223.4837
+
+> <DSSTox_CID>
+2256
+
+> <DSSTox_RID>
+76531
+
+> <DSSTox_GSID>
+22256
+
+> <DSSTox_FileID_Sort>
+1215
+
+> <TS_ChemName>
+2',3',4'-Trichloroacetophenone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+13608-87-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H5Cl3O
+
+> <STRUCTURE_MW>
+223.4837
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-(2,3,4-trichlorophenyl)ethanone
+
+> <STRUCTURE_SMILES>
+Clc1ccc(C(C)=O)c(Cl)c1Cl
+
+> <STRUCTURE_SMILES_Desalt>
+Clc1ccc(C(C)=O)c(Cl)c1Cl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

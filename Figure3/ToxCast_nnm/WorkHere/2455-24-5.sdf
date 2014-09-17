@@ -1,0 +1,96 @@
+2455-24-5
+ChemmineR-0914142331XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3331   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9960   -3.4543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9960   -1.1490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3331    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3217   -1.1490    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9919   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3177   -2.3053    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0984   -1.2300    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3652   -1.6351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3652   -2.9682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0984   -3.3806    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+2030
+
+> <Formula>
+C9H14O3
+
+> <FW>
+170.2057
+
+> <DSSTox_CID>
+2191
+
+> <DSSTox_RID>
+76520
+
+> <DSSTox_GSID>
+22191
+
+> <DSSTox_FileID_Sort>
+1204
+
+> <TS_ChemName>
+Tetrahydrofurfuryl methacrylate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+2455-24-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H14O3
+
+> <STRUCTURE_MW>
+170.2057
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+tetrahydrofuran-2-ylmethyl 2-methylprop-2-enoate
+
+> <STRUCTURE_SMILES>
+O=C(OCC1CCCO1)C(=C)C
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(OCC1CCCO1)C(=C)C
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

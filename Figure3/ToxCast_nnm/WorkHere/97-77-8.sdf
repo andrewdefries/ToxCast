@@ -1,0 +1,103 @@
+97-77-8
+ChemmineR-0914142331XD
+
+ 16 15  0  0  0  0  0  0  0  0  1 V2000
+    1.9952   -4.6036    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6603   -3.4549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952   -2.2975    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6651   -2.2975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.4549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6603   -1.1487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9904   -3.4549    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6468   -4.6036    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9769   -4.6036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6420   -5.7524    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6420   -3.4549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9769   -2.2975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6468   -2.2975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9721   -3.4549    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6372   -2.2975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+1269
+
+> <Formula>
+C10H20N2S4
+
+> <FW>
+296.5392
+
+> <DSSTox_CID>
+1322
+
+> <DSSTox_RID>
+76082
+
+> <DSSTox_GSID>
+21322
+
+> <DSSTox_FileID_Sort>
+766
+
+> <TS_ChemName>
+Disulfiram
+
+> <TS_ChemName_Synonyms>
+Disulfiram (Tetraethylthiuram disulfide) (Thioperoxydicarbonic diamide ([(H2N)C(S)]2S2), tetraethyl-)
+
+> <TS_CASRN>
+97-77-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H20N2S4
+
+> <STRUCTURE_MW>
+296.5392
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,1',1'',1'''-[disulfanediylbis(carbonothioylnitrilo)]tetraethane
+
+> <STRUCTURE_SMILES>
+CCN(CC)C(=S)SSC(=S)N(CC)CC
+
+> <STRUCTURE_SMILES_Desalt>
+CCN(CC)C(=S)SSC(=S)N(CC)CC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,114 @@
+76963-41-2
+ChemmineR-0914142331XD
+
+ 21 21  0  0  0  0  0  0  0  0  2 V2000
+   10.9616   -0.6654    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    9.8001    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1536   -1.9237    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0889   -2.6980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7301   -0.6654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9237    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6507   -0.6654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3993   -0.6654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0988    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   10.9616   -1.9963    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0889   -4.0289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6507   -1.9963    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4892    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2262   -4.7065    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0410   -0.6654    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9037    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3519   -0.6654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2025    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3877   -4.0289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2262   -6.0373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4892   -2.6496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  2  0  0  0  0
+  2  7  2  3  0  0  0
+  3  5  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4 11  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 21  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <ID>
+3028
+
+> <Formula>
+C12H21N5O2S2
+
+> <FW>
+331.4574
+
+> <DSSTox_CID>
+3376
+
+> <DSSTox_RID>
+77002
+
+> <DSSTox_GSID>
+23376
+
+> <DSSTox_FileID_Sort>
+1686
+
+> <TS_ChemName>
+Nizatidine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+76963-41-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+mixture of Z,E isomers
+
+> <ChemNote>
+mixture of Z,E isomers; tautomers
+
+> <STRUCTURE_Shown>
+representative isomer in mixture
+
+> <STRUCTURE_Formula>
+C12H21N5O2S2
+
+> <STRUCTURE_MW>
+331.4574
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-{2-[({2-[(dimethylamino)methyl]-1,3-thiazol-4-yl}methyl)sulfanyl]ethyl}-N'-methyl-2-nitroethene-1,1-diamine
+
+> <STRUCTURE_SMILES>
+CN(C)Cc1nc(CSCCNC(=C[N+]([O-])=O)NC)cs1
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)Cc1nc(CSCCNC(=C[N+]([O-])=O)NC)cs1
+
+> <Substance_modify_yyyymmdd>
+20110522
+
+$$$$

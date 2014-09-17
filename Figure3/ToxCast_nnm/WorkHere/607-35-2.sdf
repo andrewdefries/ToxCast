@@ -1,0 +1,99 @@
+607-35-2
+ChemmineR-0914142331XD
+
+ 13 14  0  0  0  0  0  0  0  0  2 V2000
+    2.3040    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4536   -0.6656    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.4536   -1.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -2.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080   -3.9889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4536   -4.6545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -3.9889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1497   -4.6545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.9889    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1497   -1.9968    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3040   -2.6577    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6080    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+949
+
+> <Formula>
+C9H6N2O2
+
+> <FW>
+174.1561
+
+> <DSSTox_CID>
+985
+
+> <DSSTox_RID>
+75907
+
+> <DSSTox_GSID>
+20985
+
+> <DSSTox_FileID_Sort>
+591
+
+> <TS_ChemName>
+8-Nitroquinoline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+607-35-2
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H6N2O2
+
+> <STRUCTURE_MW>
+174.1561
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+8-nitroquinoline
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)c1cccc2cccnc12
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)c1cccc2cccnc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

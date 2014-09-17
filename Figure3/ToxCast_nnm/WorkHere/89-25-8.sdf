@@ -1,0 +1,99 @@
+89-25-8
+ChemmineR-0914142331XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    3.7994    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0136   -1.0742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4317   -2.3503    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6789   -2.7540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6738   -1.8745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9355   -2.2926    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2095   -3.5903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2290   -4.4843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9673   -4.0517    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3359   -3.1217    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2689   -2.3359    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6798   -1.0742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <ID>
+1086
+
+> <Formula>
+C10H10N2O
+
+> <FW>
+174.1992
+
+> <DSSTox_CID>
+1130
+
+> <DSSTox_RID>
+75961
+
+> <DSSTox_GSID>
+21130
+
+> <DSSTox_FileID_Sort>
+645
+
+> <TS_ChemName>
+1-Phenyl-3-methyl-5-pyrazolone
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+89-25-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H10N2O
+
+> <STRUCTURE_MW>
+174.1992
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-methyl-2-phenyl-2,4-dihydro-3H-pyrazol-3-one
+
+> <STRUCTURE_SMILES>
+O=C2CC(C)=NN2c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+O=C2CC(C)=NN2c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

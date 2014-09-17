@@ -1,0 +1,90 @@
+51-21-8
+ChemmineR-0914142331XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.6589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1520   -0.6636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -0.6636    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4561   -1.9953    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6082   -2.6589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3041   -2.6589    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  9  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <ID>
+609
+
+> <Formula>
+C4H3FN2O2
+
+> <FW>
+130.0772
+
+> <DSSTox_CID>
+634
+
+> <DSSTox_RID>
+75705
+
+> <DSSTox_GSID>
+20634
+
+> <DSSTox_FileID_Sort>
+389
+
+> <TS_ChemName>
+5-Fluorouracil
+
+> <TS_ChemName_Synonyms>
+5-Fluorouracil (5-FU) (Fluorouracil, 5-)
+
+> <TS_CASRN>
+51-21-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H3FN2O2
+
+> <STRUCTURE_MW>
+130.0772
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+5-fluoropyrimidine-2,4(1H,3H)-dione
+
+> <STRUCTURE_SMILES>
+FC1=CNC(=O)NC1=O
+
+> <STRUCTURE_SMILES_Desalt>
+FC1=CNC(=O)NC1=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

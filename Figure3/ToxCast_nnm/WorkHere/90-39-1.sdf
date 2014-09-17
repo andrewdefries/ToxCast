@@ -1,0 +1,109 @@
+90-39-1
+ChemmineR-0914142331XD
+
+ 17 20  0  0  1  0  0  0  0  0  1 V2000
+    2.2149   -0.9235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1308    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2149   -2.1848    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1308   -3.0858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3771    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3771   -3.0858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2931   -0.9235    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2931   -2.1848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1187   -0.2628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.9235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1187   -2.8230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3893   -0.2628    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5080   -0.9235    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3893   -2.8230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5080   -2.1848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3771   -1.1863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  6  0  0  0
+  1  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 17  1  1  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 17  1  1  0  0  0
+  7 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 15  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+3211
+
+> <Formula>
+C15H26N2
+
+> <FW>
+234.3803
+
+> <DSSTox_CID>
+3591
+
+> <DSSTox_RID>
+77098
+
+> <DSSTox_GSID>
+23591
+
+> <DSSTox_FileID_Sort>
+1781
+
+> <TS_ChemName>
+Sparteine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+90-39-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C15H26N2
+
+> <STRUCTURE_MW>
+234.3803
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+sparteine
+
+> <STRUCTURE_SMILES>
+C3CCCN4C[C@@H]2C[C@@H](CN1CCCC[C@H]12)[C@@H]34
+
+> <STRUCTURE_SMILES_Desalt>
+C3CCCN4C[C@@H]2C[C@@H](CN1CCCC[C@H]12)[C@@H]34
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

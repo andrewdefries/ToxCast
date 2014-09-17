@@ -1,0 +1,86 @@
+1192-28-5
+ChemmineR-0914142331XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.2427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2194   -1.7157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1462   -3.5737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1003   -2.6927    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4425   -3.8468    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4887   -0.4001    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7581    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+353
+
+> <Formula>
+C5H9NO
+
+> <FW>
+99.1311
+
+> <DSSTox_CID>
+363
+
+> <DSSTox_RID>
+75540
+
+> <DSSTox_GSID>
+20363
+
+> <DSSTox_FileID_Sort>
+224
+
+> <TS_ChemName>
+Cyclopentanone oxime
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1192-28-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H9NO
+
+> <STRUCTURE_MW>
+99.1311
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+N-hydroxycyclopentanimine
+
+> <STRUCTURE_SMILES>
+O\N=C1\CCCC1
+
+> <STRUCTURE_SMILES_Desalt>
+O\N=C1\CCCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,85 @@
+627-05-4
+ChemmineR-0914142331XD
+
+  7  6  0  0  0  0  0  0  0  0  2 V2000
+    0.0000   -1.9878    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1466   -1.3194    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.1466    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3046   -1.9878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4570   -1.3194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6150   -1.9878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7616   -1.3194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <ID>
+931
+
+> <Formula>
+C4H9NO2
+
+> <FW>
+103.1198
+
+> <DSSTox_CID>
+967
+
+> <DSSTox_RID>
+75895
+
+> <DSSTox_GSID>
+20967
+
+> <DSSTox_FileID_Sort>
+579
+
+> <TS_ChemName>
+1-Nitrobutane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+627-05-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C4H9NO2
+
+> <STRUCTURE_MW>
+103.1198
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-nitrobutane
+
+> <STRUCTURE_SMILES>
+[O-][N+](=O)CCCC
+
+> <STRUCTURE_SMILES_Desalt>
+[O-][N+](=O)CCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,95 @@
+115-02-6
+ChemmineR-0914142331XD
+
+ 12 11  0  0  1  0  0  0  0  0  2 V2000
+    2.6605    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3256   -1.1488    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6472   -1.1488    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3123   -2.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6426   -2.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3077   -3.4552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6426   -4.6040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6380   -3.4552    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3077   -1.1488    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6605   -2.3063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3302   -2.3063    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3063    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  6  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+115
+
+> <Formula>
+C5H7N3O4
+
+> <FW>
+173.1268
+
+> <DSSTox_CID>
+118
+
+> <DSSTox_RID>
+75380
+
+> <DSSTox_GSID>
+20118
+
+> <DSSTox_FileID_Sort>
+64
+
+> <TS_ChemName>
+Azaserine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+115-02-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H7N3O4
+
+> <STRUCTURE_MW>
+173.1268
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+O-(diazoacetyl)-L-serine
+
+> <STRUCTURE_SMILES>
+OC(=O)[C@@H](N)COC(=O)/C=[N+]=[N-]
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)[C@@H](N)COC(=O)/C=[N+]=[N-]
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

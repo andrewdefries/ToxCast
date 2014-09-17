@@ -1,0 +1,107 @@
+133-11-9
+ChemmineR-0914142331XD
+
+ 17 18  0  0  0  0  0  0  0  0  1 V2000
+    7.9821    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3092    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9777   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3092   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9821   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3136   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9866   -1.1574    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3181   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9866   -3.4623    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9911   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3226   -3.4623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9911   -4.6097    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9955   -3.4623    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3270   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3048    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9955   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3226   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+M  END
+> <ID>
+1846
+
+> <Formula>
+C13H11NO3
+
+> <FW>
+229.2313
+
+> <DSSTox_CID>
+1994
+
+> <DSSTox_RID>
+76447
+
+> <DSSTox_GSID>
+21994
+
+> <DSSTox_FileID_Sort>
+1131
+
+> <TS_ChemName>
+Phenyl 4-aminosalicylate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+133-11-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H11NO3
+
+> <STRUCTURE_MW>
+229.2313
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+phenyl 4-amino-2-hydroxybenzoate
+
+> <STRUCTURE_SMILES>
+Oc2cc(N)ccc2C(=O)Oc1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2cc(N)ccc2C(=O)Oc1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

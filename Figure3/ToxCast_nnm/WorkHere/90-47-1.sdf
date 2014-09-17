@@ -1,0 +1,104 @@
+90-47-1
+ChemmineR-0914142331XD
+
+ 15 17  0  0  0  0  0  0  0  0  1 V2000
+    2.3010   -1.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550   -1.3267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6090   -1.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6090   -3.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4550   -3.9871    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3010   -3.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -3.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1540   -1.3267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7561   -3.9871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9100   -3.3237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9100   -1.9901    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7561   -1.3267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <ID>
+1694
+
+> <Formula>
+C13H8O2
+
+> <FW>
+196.2014
+
+> <DSSTox_CID>
+1795
+
+> <DSSTox_RID>
+76331
+
+> <DSSTox_GSID>
+21795
+
+> <DSSTox_FileID_Sort>
+1015
+
+> <TS_ChemName>
+Xanthone
+
+> <TS_ChemName_Synonyms>
+Xanthone (9H-Xanthen-9-one)
+
+> <TS_CASRN>
+90-47-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C13H8O2
+
+> <STRUCTURE_MW>
+196.2014
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+9H-xanthen-9-one
+
+> <STRUCTURE_SMILES>
+O=C1c3ccccc3Oc2ccccc12
+
+> <STRUCTURE_SMILES_Desalt>
+O=C1c3ccccc3Oc2ccccc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

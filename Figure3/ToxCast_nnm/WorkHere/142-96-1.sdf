@@ -1,0 +1,89 @@
+142-96-1
+ChemmineR-0914142331XD
+
+  9  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1525    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3050   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6099   -0.6638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7624    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9149   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0674    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2199   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+1858
+
+> <Formula>
+C8H18O
+
+> <FW>
+130.2279
+
+> <DSSTox_CID>
+2007
+
+> <DSSTox_RID>
+76456
+
+> <DSSTox_GSID>
+22007
+
+> <DSSTox_FileID_Sort>
+1140
+
+> <TS_ChemName>
+Butyl ether
+
+> <TS_ChemName_Synonyms>
+Butyl ether (Di-n-butyl ether) (Butane, 1,1'-oxybis-)
+
+> <TS_CASRN>
+142-96-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H18O
+
+> <STRUCTURE_MW>
+130.2279
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1-butoxybutane
+
+> <STRUCTURE_SMILES>
+CCCCOCCCC
+
+> <STRUCTURE_SMILES_Desalt>
+CCCCOCCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

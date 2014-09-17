@@ -1,0 +1,109 @@
+33005-95-7
+ChemmineR-0914142331XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    8.7479    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8958   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8958   -1.9890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7479   -2.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5901   -1.9890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4421   -2.6620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4421   -3.9880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2942   -1.9890    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0771   -2.5333    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1864   -1.5437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8604   -1.6823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0786   -0.6135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3260   -2.8995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0380    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1078   -3.9781    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8495   -0.3958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1557   -0.6729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5901   -0.6630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 18  2  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 17  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+3273
+
+> <Formula>
+C14H12O3S
+
+> <FW>
+260.3083
+
+> <DSSTox_CID>
+3665
+
+> <DSSTox_RID>
+77134
+
+> <DSSTox_GSID>
+23665
+
+> <DSSTox_FileID_Sort>
+1817
+
+> <TS_ChemName>
+Tiaprofenic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+33005-95-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C14H12O3S
+
+> <STRUCTURE_MW>
+260.3083
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(5-benzoylthiophen-2-yl)propanoic acid
+
+> <STRUCTURE_SMILES>
+O=C(c1ccc(s1)C(C)C(=O)O)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+O=C(c1ccc(s1)C(C)C(=O)O)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,83 @@
+7757-82-6
+ChemmineR-0914142331XD
+
+  7  4  0  0  0  0  0  0  0  0  2 V2000
+     2.660    -2.660     0.000 O    0  0  0  0  0  0  0  0  0  0  0  0
+     2.660    -1.332     0.000 S    0  0  0  0  0  0  0  0  0  0  0  0
+     2.660     0.000     0.000 O    0  0  0  0  0  0  0  0  0  0  0  0
+     1.328    -1.332     0.000 O    0  5  0  0  0  0  0  0  0  0  0  0
+     3.988    -1.332     0.000 O    0  5  0  0  0  0  0  0  0  0  0  0
+     0.000    -1.332     0.000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+     0.000    -2.660     0.000 Na   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <ID>
+1241
+
+> <Formula>
+Na2O4S
+
+> <FW>
+142.0421 (96.0637+22.9892+22.9892)
+
+> <DSSTox_CID>
+1291
+
+> <DSSTox_RID>
+76063
+
+> <DSSTox_GSID>
+21291
+
+> <DSSTox_FileID_Sort>
+747
+
+> <TS_ChemName>
+Sodium sulfate anyhdrous
+
+> <TS_ChemName_Synonyms>
+Sulfuric acid disodium salt, dried; Sodium sulfate, dried
+
+> <TS_CASRN>
+7757-82-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+Na2O4S
+
+> <STRUCTURE_MW>
+142.0421
+
+> <STRUCTURE_ChemType>
+inorganic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+disodium sulfate
+
+> <STRUCTURE_SMILES>
+[Na+].[Na+].[O-]S([O-])(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(=O)(O)O
+
+> <Substance_modify_yyyymmdd>
+20130929
+
+$$$$

@@ -1,0 +1,105 @@
+6264-66-0
+ChemmineR-0914142331XD
+
+ 16 17  0  0  0  0  0  0  0  0  1 V2000
+    8.0361   -2.0205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8881   -2.7093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7400   -2.0205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7400   -0.6888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8881    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0361   -0.6888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1841   -2.6634    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1841   -0.0459    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5920   -0.0459    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440   -0.7347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2501   -0.0459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4440   -2.0205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1021   -0.7347    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2960   -2.7093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1021   -2.0664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.7093    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 13 15  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <ID>
+1318
+
+> <Formula>
+C12H13N3O
+
+> <FW>
+215.2511
+
+> <DSSTox_CID>
+1372
+
+> <DSSTox_RID>
+76116
+
+> <DSSTox_GSID>
+21372
+
+> <DSSTox_FileID_Sort>
+800
+
+> <TS_ChemName>
+3,4,4'-Triaminodiphenyl ether
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+6264-66-0
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H13N3O
+
+> <STRUCTURE_MW>
+215.2511
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-(4-aminophenoxy)benzene-1,2-diamine
+
+> <STRUCTURE_SMILES>
+Nc1ccc(cc1)Oc2ccc(N)c(N)c2
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1)Oc2ccc(N)c(N)c2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

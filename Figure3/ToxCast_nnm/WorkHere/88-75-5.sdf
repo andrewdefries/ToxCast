@@ -1,0 +1,92 @@
+88-75-5
+ChemmineR-0914142331XD
+
+ 10 10  0  0  0  0  0  0  0  0  2 V2000
+    2.6582    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -1.1499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6582   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9896   -2.3044    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    4.6553   -1.1499    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.6553   -3.4542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9971   -3.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6657   -3.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3044    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6657   -1.1499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+1691
+
+> <Formula>
+C6H5NO3
+
+> <FW>
+139.1088
+
+> <DSSTox_CID>
+1790
+
+> <DSSTox_RID>
+76328
+
+> <DSSTox_GSID>
+21790
+
+> <DSSTox_FileID_Sort>
+1012
+
+> <TS_ChemName>
+2-Nitrophenol
+
+> <TS_ChemName_Synonyms>
+2-Nitrophenol (o-Nitrophenol)
+
+> <TS_CASRN>
+88-75-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H5NO3
+
+> <STRUCTURE_MW>
+139.1088
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-nitrophenol
+
+> <STRUCTURE_SMILES>
+O=[N+]([O-])c1ccccc1O
+
+> <STRUCTURE_SMILES_Desalt>
+O=[N+]([O-])c1ccccc1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

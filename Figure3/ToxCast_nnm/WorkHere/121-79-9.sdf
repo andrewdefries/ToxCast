@@ -1,0 +1,102 @@
+121-79-9
+ChemmineR-0914142331XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    3.3244   -1.1547    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9948   -2.3094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3172   -2.3094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9876   -1.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3192   -1.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9804   -2.3094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3192   -3.4548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9876   -3.4548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9804   -4.6094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3120   -2.3094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9804    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3244   -3.4548    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9928   -3.4548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3316   -4.6094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.6094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <ID>
+1155
+
+> <Formula>
+C10H12O5
+
+> <FW>
+212.1993
+
+> <DSSTox_CID>
+1201
+
+> <DSSTox_RID>
+76009
+
+> <DSSTox_GSID>
+21201
+
+> <DSSTox_FileID_Sort>
+693
+
+> <TS_ChemName>
+Propyl gallate
+
+> <TS_ChemName_Synonyms>
+Propyl gallate (PG) (Benzoic acid, 3,4,5-trihydroxy-, propyl ester)
+
+> <TS_CASRN>
+121-79-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C10H12O5
+
+> <STRUCTURE_MW>
+212.1993
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+propyl 3,4,5-trihydroxybenzoate
+
+> <STRUCTURE_SMILES>
+Oc1cc(cc(O)c1O)C(=O)OCCC
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1cc(cc(O)c1O)C(=O)OCCC
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

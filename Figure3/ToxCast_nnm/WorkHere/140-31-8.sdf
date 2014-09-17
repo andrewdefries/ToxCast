@@ -1,0 +1,90 @@
+140-31-8
+ChemmineR-0914142331XD
+
+  9  9  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3283    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9925   -1.1548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3269   -1.1548    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3194    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9836   -1.1548    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3194   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910   -2.3037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <ID>
+1849
+
+> <Formula>
+C6H15N3
+
+> <FW>
+129.2034
+
+> <DSSTox_CID>
+1997
+
+> <DSSTox_RID>
+76450
+
+> <DSSTox_GSID>
+21997
+
+> <DSSTox_FileID_Sort>
+1134
+
+> <TS_ChemName>
+1-(2-Aminoethyl)piperazine
+
+> <TS_ChemName_Synonyms>
+1-Piperazineethanamine
+
+> <TS_CASRN>
+140-31-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H15N3
+
+> <STRUCTURE_MW>
+129.2034
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(piperazin-1-yl)ethanamine
+
+> <STRUCTURE_SMILES>
+NCCN1CCNCC1
+
+> <STRUCTURE_SMILES_Desalt>
+NCCN1CCNCC1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,93 @@
+91-22-5
+ChemmineR-0914142331XD
+
+ 10 11  0  0  0  0  0  0  0  0  1 V2000
+    3.4558   -2.6587    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6078   -1.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6078   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4558    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3039   -1.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519   -2.6587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.6635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1519    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+1696
+
+> <Formula>
+C9H7N
+
+> <FW>
+129.1586
+
+> <DSSTox_CID>
+1798
+
+> <DSSTox_RID>
+76332
+
+> <DSSTox_GSID>
+21798
+
+> <DSSTox_FileID_Sort>
+1016
+
+> <TS_ChemName>
+Quinoline
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+91-22-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H7N
+
+> <STRUCTURE_MW>
+129.1586
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+quinoline
+
+> <STRUCTURE_SMILES>
+c1cccc2cccnc12
+
+> <STRUCTURE_SMILES_Desalt>
+c1cccc2cccnc12
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

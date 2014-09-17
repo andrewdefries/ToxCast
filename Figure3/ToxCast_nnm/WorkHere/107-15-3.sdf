@@ -1,0 +1,79 @@
+107-15-3
+ChemmineR-0914142331XD
+
+  4  3  0  0  0  0  0  0  0  0  1 V2000
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1513   -0.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3061    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4575   -0.6638    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+M  END
+> <ID>
+1762
+
+> <Formula>
+C2H8N2
+
+> <FW>
+60.0983
+
+> <DSSTox_CID>
+1881
+
+> <DSSTox_RID>
+76382
+
+> <DSSTox_GSID>
+21881
+
+> <DSSTox_FileID_Sort>
+1066
+
+> <TS_ChemName>
+Ethylenediamine
+
+> <TS_ChemName_Synonyms>
+1,2-Ethanediamine
+
+> <TS_CASRN>
+107-15-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H8N2
+
+> <STRUCTURE_MW>
+60.0983
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+ethane-1,2-diamine
+
+> <STRUCTURE_SMILES>
+NCCN
+
+> <STRUCTURE_SMILES_Desalt>
+NCCN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

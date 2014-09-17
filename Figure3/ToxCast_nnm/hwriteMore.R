@@ -1,0 +1,64 @@
+###############
+library(ChemmineR)
+library(hwriter)
+library(parallel)
+###############
+#data(apset)
+#data(sdfsample)
+#sdfset<-sdfsample
+#smiset<-sdf2smiles(sdfset)
+apset<-sdf2ap(sdfset)
+#fpset<-desc2fp(apset)
+##
+naebors<-8
+nnm <- nearestNeighbors(apset,numNbrs=naebors)
+###############
+png<-list.files(pattern="smi.png",recursive=F)
+###############
+#himg=hwriteImage(sort(png), table=FALSE)
+#DrawList<-matrix(paste(nnm$names, ".smi.png", sep="")[matrix(nnm$index, byrow=T)])
+#himg=hwriteImage(matrix(paste(nnm$names, ".smi.png", sep="")[matrix(nnm$index, byrow=T)]), table=FALSE)
+
+#himg=hwriteImage(matrix(paste(nnm$names[matrix(nnm$index, byrow=F)], ".smi.png", sep="")), table=FALSE)
+
+Draw<-cbind(paste(nnm$names[nnm$index[,1]], ".smi.png", sep=""), paste(nnm$names[nnm$index[,2]], ".smi.png", sep=""), paste(nnm$names[nnm$index[,3]], ".smi.png", sep=""), paste(nnm$names[nnm$index[,4]], ".smi.png", sep=""),paste(nnm$names[nnm$index[,5]], ".smi.png", sep=""),paste(nnm$names[nnm$index[,6]], ".smi.png", sep=""),paste(nnm$names[nnm$index[,7]], ".smi.png", sep=""),paste(nnm$names[nnm$index[,8]], ".smi.png", sep=""))
+
+###################################
+himg=hwriteImage(Draw, link=paste("file:///home/debisbad/Desktop/NewGit/hwriter4ChemmineR/DataBlockDump/WorkHere/", Draw, ".html", sep=""), table=FALSE)
+###################################
+
+#mat=cbind(1:length(png), substring(sort(names(as.list(as.character(smiset)))),1,25), himg, himg)# as.character(smiset))
+
+mat=cbind(1:length(png), nnm$names, himg)
+##
+colnames(mat)=c('#', 'name', 'Query compound', 'nnm1', 'nnm2','nnm3', 'nnm4','nnm5', 'nnm6','nnm7')
+##
+hwrite(mat, 'test.html', br=TRUE, center=TRUE, row.bgcolor=list(Species=c('#ffaacc', '#ff88aa', '#ff6688')), col.bgcolor='#ffffaa', row.style=list(Species='text-align:center'))
+##############
+#Look at the html
+##############
+##############
+##############
+
+#######################
+homepage<-paste(nnm$names[nnm$index[,1]], ".smi.png", sep="")
+name<-nnm$names[nnm$index[,1]]
+
+WriteIt<-function(a){
+#######################
+p=openPage(paste(homepage[a], ".html", sep=""))
+hwrite(paste("ID", name[a], sep=""), p, br=TRUE)
+hwriteImage(homepage[a], p, br=TRUE)
+hwrite('',p, br=TRUE)
+hwrite(blockmatrix <-gsub("\\__", "", datablock2ma(datablocklist=datablock(sdfset[a]))), p)
+closePage(p)
+#######################
+}
+a<-1:length(name)
+mclapply(a, WriteIt, mc.cores=4)
+
+
+
+#img=hwriteImage('iris3.jpg', center=TRUE)
+#cap=hwrite(c('Plantae', hwrite('Monocots', link='http://mc.org'), 'Iris'))
+#hwrite(c(img, cap), 'test.html', dim=c(2,1), center=TRUE)

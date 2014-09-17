@@ -1,0 +1,88 @@
+106-44-5
+ChemmineR-0914142331XD
+
+  8  8  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1545    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3300   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9900   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3201   -1.1545    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3250   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9950   -2.3036    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <ID>
+1754
+
+> <Formula>
+C7H8O
+
+> <FW>
+108.1378
+
+> <DSSTox_CID>
+1869
+
+> <DSSTox_RID>
+76375
+
+> <DSSTox_GSID>
+21869
+
+> <DSSTox_FileID_Sort>
+1059
+
+> <TS_ChemName>
+p-Cresol
+
+> <TS_ChemName_Synonyms>
+4-Methylphenol
+
+> <TS_CASRN>
+106-44-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H8O
+
+> <STRUCTURE_MW>
+108.1378
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methylphenol
+
+> <STRUCTURE_SMILES>
+Cc1ccc(O)cc1
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(O)cc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

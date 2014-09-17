@@ -1,0 +1,100 @@
+2113-61-3
+ChemmineR-0914142331XD
+
+ 14 14  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -1.1499    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3336   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3300    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9929   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3300   -2.2999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9964   -2.2999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3265   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9893    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3229    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9857   -1.1499    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3229   -2.2999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9893   -2.2999    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.8154   -3.4578    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+71
+
+> <Formula>
+C12H12ClN
+
+> <FW>
+205.6834 (169.2224+36.4609)
+
+> <DSSTox_CID>
+72
+
+> <DSSTox_RID>
+75349
+
+> <DSSTox_GSID>
+20072
+
+> <DSSTox_FileID_Sort>
+33
+
+> <TS_ChemName>
+4-Biphenylamine hydrochloride
+
+> <TS_ChemName_Synonyms>
+4-Aminodiphenyl hydrochloride; 4-phenylaniline hydrochloride
+
+> <TS_CASRN>
+2113-61-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent  [92-67-1]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H12ClN
+
+> <STRUCTURE_MW>
+205.6834
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+biphenyl-4-amine hydrochloride (1:1)
+
+> <STRUCTURE_SMILES>
+Cl.Nc1ccc(cc1)c2ccccc2
+
+> <STRUCTURE_SMILES_Desalt>
+Nc1ccc(cc1)c2ccccc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

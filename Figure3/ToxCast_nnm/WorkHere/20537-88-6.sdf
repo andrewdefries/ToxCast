@@ -1,0 +1,95 @@
+20537-88-6
+ChemmineR-0914142331XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    8.0591   -1.3338    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7347   -1.3338    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0591    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3929   -1.3338    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0591   -2.6582    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9132   -3.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7579   -2.6582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6119   -3.3251    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4566   -2.6582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3013   -3.3251    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1553   -2.6582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3251    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+2342
+
+> <Formula>
+C5H15N2O3PS
+
+> <FW>
+214.223
+
+> <DSSTox_CID>
+2585
+
+> <DSSTox_RID>
+76644
+
+> <DSSTox_GSID>
+22585
+
+> <DSSTox_FileID_Sort>
+1328
+
+> <TS_ChemName>
+Amifostine
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+20537-88-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+stereochem
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C5H15N2O3PS
+
+> <STRUCTURE_MW>
+214.223
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+S-{2-[(3-aminopropyl)amino]ethyl} dihydrogen phosphorothioate
+
+> <STRUCTURE_SMILES>
+OP(=O)(O)SCCNCCCN
+
+> <STRUCTURE_SMILES_Desalt>
+OP(=O)(O)SCCNCCCN
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

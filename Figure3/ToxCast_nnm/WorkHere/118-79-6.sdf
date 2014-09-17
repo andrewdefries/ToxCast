@@ -1,0 +1,92 @@
+118-79-6
+ChemmineR-0914142331XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.3182   -2.3028    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887   -2.3028    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239   -3.4568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887   -4.6056    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -3.4568    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3296   -2.3028    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3028    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9943   -1.1487    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3239   -1.1487    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9887    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <ID>
+1823
+
+> <Formula>
+C6H3Br3O
+
+> <FW>
+330.7994
+
+> <DSSTox_CID>
+1959
+
+> <DSSTox_RID>
+76428
+
+> <DSSTox_GSID>
+21959
+
+> <DSSTox_FileID_Sort>
+1112
+
+> <TS_ChemName>
+2,4,6-Tribromophenol
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+118-79-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H3Br3O
+
+> <STRUCTURE_MW>
+330.7994
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,4,6-tribromophenol
+
+> <STRUCTURE_SMILES>
+Brc1cc(Br)cc(Br)c1O
+
+> <STRUCTURE_SMILES_Desalt>
+Brc1cc(Br)cc(Br)c1O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,83 @@
+96-18-4
+ChemmineR-0914142331XD
+
+  6  5  0  0  0  0  0  0  0  0  1 V2000
+    2.6616    0.0000    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9952   -1.1492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.6616   -2.3025    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.9905   -2.3025    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6664   -1.1492    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3025    0.0000 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <ID>
+1335
+
+> <Formula>
+C3H5Cl3
+
+> <FW>
+147.4308
+
+> <DSSTox_CID>
+1390
+
+> <DSSTox_RID>
+76132
+
+> <DSSTox_GSID>
+21390
+
+> <DSSTox_FileID_Sort>
+816
+
+> <TS_ChemName>
+1,2,3-Trichloropropane
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+96-18-4
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C3H5Cl3
+
+> <STRUCTURE_MW>
+147.4308
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,2,3-trichloropropane
+
+> <STRUCTURE_SMILES>
+ClCC(Cl)CCl
+
+> <STRUCTURE_SMILES_Desalt>
+ClCC(Cl)CCl
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

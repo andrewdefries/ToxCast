@@ -1,0 +1,109 @@
+77-40-7
+ChemmineR-0914142331XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    1.3313   -5.3180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313   -3.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1756   -3.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1756   -1.9970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313   -1.3313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4798   -1.9970    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4798   -3.3283    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6627   -5.3180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3283   -4.1696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6524   -4.1696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3180   -5.3180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6524   -6.4738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3283   -6.4738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6494   -5.3180    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3313   -6.6494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1756   -7.3150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -5.3180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
+  1 16  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <ID>
+2229
+
+> <Formula>
+C16H18O2
+
+> <FW>
+242.3129
+
+> <DSSTox_CID>
+2442
+
+> <DSSTox_RID>
+76592
+
+> <DSSTox_GSID>
+22442
+
+> <DSSTox_FileID_Sort>
+1276
+
+> <TS_ChemName>
+Bisphenol B
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+77-40-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C16H18O2
+
+> <STRUCTURE_MW>
+242.3129
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4,4'-butane-2,2-diyldiphenol
+
+> <STRUCTURE_SMILES>
+Oc1ccc(cc1)C(C)(CC)c2ccc(O)cc2
+
+> <STRUCTURE_SMILES_Desalt>
+Oc1ccc(cc1)C(C)(CC)c2ccc(O)cc2
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

@@ -1,0 +1,86 @@
+1072-53-3
+ChemmineR-0914142331XD
+
+  7  7  0  0  0  0  0  0  0  0  1 V2000
+    2.4049    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2944   -0.9883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6290   -2.1414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3310   -1.8647    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1893   -0.5403    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1893   -3.1857    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.8647    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+M  END
+> <ID>
+573
+
+> <Formula>
+C2H4O4S
+
+> <FW>
+124.1158
+
+> <DSSTox_CID>
+598
+
+> <DSSTox_RID>
+75681
+
+> <DSSTox_GSID>
+20598
+
+> <DSSTox_FileID_Sort>
+365
+
+> <TS_ChemName>
+Ethylene glycol, cyclic sulfate
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1072-53-3
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C2H4O4S
+
+> <STRUCTURE_MW>
+124.1158
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+1,3,2-dioxathiolane 2,2-dioxide
+
+> <STRUCTURE_SMILES>
+O=S1(=O)OCCO1
+
+> <STRUCTURE_SMILES_Desalt>
+O=S1(=O)OCCO1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

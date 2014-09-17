@@ -1,0 +1,106 @@
+14484-64-1
+ChemmineR-0914142331XD
+
+ 19 15  0  0  0  0  0  0  0  0  2 V2000
+    6.5219   -1.1543    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    7.8494   -1.1543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8541    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.8541   -2.3004    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    6.5219   -3.4547    0.0000 S    0  5  0  0  0  0  0  0  0  0  0  0
+    4.5266   -2.3004    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    0.9317   -4.7904    0.0000 Fe   0  1  0  0  0  0  0  0  0  0  0  0
+    3.3228   -1.1543    0.0000 S    0  5  0  0  0  0  0  0  0  0  0  0
+    1.9953   -1.1543    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3275    0.0000    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3275   -2.3004    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9953   -3.4547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3004    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.5902   -5.9448    0.0000 S    0  5  0  0  0  0  0  0  0  0  0  0
+    4.2545   -5.9448    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5949   -4.7904    0.0000 S    0  0  0  0  0  0  0  0  0  0  0  0
+    3.5949   -7.0908    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2545   -8.2452    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2592   -7.0908    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <ID>
+599
+
+> <Formula>
+C9H18FeN3S6
+
+> <FW>
+416.4943 (120.2170+55.8434+120.2170+120.2170)
+
+> <DSSTox_CID>
+624
+
+> <DSSTox_RID>
+75698
+
+> <DSSTox_GSID>
+20624
+
+> <DSSTox_FileID_Sort>
+382
+
+> <TS_ChemName>
+Ferbam
+
+> <TS_ChemName_Synonyms>
+Ferbam (Ferric dimethyldithiocarbamate)
+
+> <TS_CASRN>
+14484-64-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H18FeN3S6
+
+> <STRUCTURE_MW>
+416.4943
+
+> <STRUCTURE_ChemType>
+organometallic
+
+> <STRUCTURE_DefinedOrganicForm>
+
+
+> <STRUCTURE_IUPAC>
+iron(3+) tris(dimethylcarbamodithioate)
+
+> <STRUCTURE_SMILES>
+[Fe+3].S=C([S-])N(C)C.CN(C)C([S-])=S.CN(C)C([S-])=S
+
+> <STRUCTURE_SMILES_Desalt>
+CN(C)C(=S)S
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

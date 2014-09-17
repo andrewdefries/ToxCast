@@ -1,0 +1,109 @@
+59536-65-1
+ChemmineR-0914142331XD
+
+ 18 19  0  0  0  0  0  0  0  0  1 V2000
+    3.9949   -2.3094    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3244   -3.4548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.3244   -1.1547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9928   -3.4548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9928   -1.1547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3316   -2.3094    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.3172   -2.3094    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9876   -1.1547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    5.9876   -3.4548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3193   -1.1547    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.3193   -3.4548    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    7.9804   -2.3094    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.3316    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3094    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3316   -4.6095    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3172    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9804    0.0000    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3120   -2.3094    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  8 16  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 18  1  0  0  0  0
+M  END
+> <ID>
+1128
+
+> <Formula>
+C12H4Br6
+
+> <FW>
+627.5842
+
+> <DSSTox_CID>
+1174
+
+> <DSSTox_RID>
+75991
+
+> <DSSTox_GSID>
+21174
+
+> <DSSTox_FileID_Sort>
+675
+
+> <TS_ChemName>
+Polybrominated biphenyls
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+59536-65-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+polymer
+
+> <ChemNote>
+mixture of hexabromobiphenyls; structure shown 2,3,3',4,4',5'-hexabromobiphenyl
+
+> <STRUCTURE_Shown>
+monomer of polymer
+
+> <STRUCTURE_Formula>
+C12H4Br6
+
+> <STRUCTURE_MW>
+627.5842
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2,3,3',4,4',5'-hexabromobiphenyl
+
+> <STRUCTURE_SMILES>
+Brc2ccc(c1cc(Br)c(Br)c(Br)c1)c(Br)c2Br
+
+> <STRUCTURE_SMILES_Desalt>
+Brc2ccc(c1cc(Br)c(Br)c(Br)c1)c(Br)c2Br
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

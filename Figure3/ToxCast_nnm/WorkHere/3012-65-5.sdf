@@ -1,0 +1,99 @@
+3012-65-5
+ChemmineR-0914142331XD
+
+ 15 12  0  0  0  0  0  0  0  0  2 V2000
+    2.3011   -1.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3011   -3.3253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1505   -3.9903    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.3253    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1505   -5.3204    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6312   -1.9952    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2963   -3.1457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6312   -4.2963    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6264   -3.1457    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3011   -0.6651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4583    0.0000    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.1505    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9710   -1.9952    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7932   -6.6506    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.4631   -6.6506    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <ID>
+78
+
+> <Formula>
+C6H14N2O7
+
+> <FW>
+226.1846 (190.1087+18.0379+18.0379)
+
+> <DSSTox_CID>
+79
+
+> <DSSTox_RID>
+75352
+
+> <DSSTox_GSID>
+20079
+
+> <DSSTox_FileID_Sort>
+36
+
+> <TS_ChemName>
+Ammonium citrate (2:1)
+
+> <TS_ChemName_Synonyms>
+Ammonium citrate
+
+> <TS_CASRN>
+3012-65-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+parent [77-92-9]
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14N2O7
+
+> <STRUCTURE_MW>
+226.1846
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+diammonium 2-(carboxymethyl)-2-hydroxybutanedioate
+
+> <STRUCTURE_SMILES>
+[NH4+].[NH4+].O=C([O-])CC(O)(CC(O)=O)C([O-])=O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)CC(O)(CC(O)=O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20120525
+
+$$$$

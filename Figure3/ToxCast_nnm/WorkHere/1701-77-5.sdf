@@ -1,0 +1,96 @@
+1701-77-5
+ChemmineR-0914142331XD
+
+ 12 12  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6645   -1.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9935   -1.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6580   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9929   -2.3048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6574   -3.4542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9864   -3.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6574   -1.1494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9929    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9864   -1.1494    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6645   -3.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9935   -3.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <ID>
+795
+
+> <Formula>
+C9H10O3
+
+> <FW>
+166.1739
+
+> <DSSTox_CID>
+829
+
+> <DSSTox_RID>
+75815
+
+> <DSSTox_GSID>
+20829
+
+> <DSSTox_FileID_Sort>
+499
+
+> <TS_ChemName>
+Methoxyphenylacetic acid
+
+> <TS_ChemName_Synonyms>
+
+
+> <TS_CASRN>
+1701-77-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H10O3
+
+> <STRUCTURE_MW>
+166.1739
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+methoxy(phenyl)acetic acid
+
+> <STRUCTURE_SMILES>
+COC(C(=O)O)c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+COC(C(=O)O)c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

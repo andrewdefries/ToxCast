@@ -1,0 +1,99 @@
+90-43-7
+ChemmineR-0914142331XD
+
+ 13 14  0  0  0  0  0  0  0  0  1 V2000
+    2.6607    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9955   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6607   -2.3082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9955   -3.4589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6652   -3.4589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6652   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9910   -2.3082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6562   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9866   -1.1574    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6517   -2.3082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9866   -3.4589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6562   -3.4589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <ID>
+1107
+
+> <Formula>
+C12H10O
+
+> <FW>
+170.2072
+
+> <DSSTox_CID>
+1151
+
+> <DSSTox_RID>
+75978
+
+> <DSSTox_GSID>
+21151
+
+> <DSSTox_FileID_Sort>
+662
+
+> <TS_ChemName>
+2-Phenylphenol
+
+> <TS_ChemName_Synonyms>
+2-Phenylphenol (o-Phenylphenol) ([1,1'-Biphenyl]-2-ol) (2-hydroxybiphenyl)
+
+> <TS_CASRN>
+90-43-7
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C12H10O
+
+> <STRUCTURE_MW>
+170.2072
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+biphenyl-2-ol
+
+> <STRUCTURE_SMILES>
+Oc2ccccc2c1ccccc1
+
+> <STRUCTURE_SMILES_Desalt>
+Oc2ccccc2c1ccccc1
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

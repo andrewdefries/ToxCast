@@ -1,0 +1,99 @@
+55-98-1
+ChemmineR-0914142331XD
+
+ 14 13  0  0  0  0  0  0  0  0  1 V2000
+    8.0636   -2.6597    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0636   -1.3345    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7384   -1.3345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3981   -1.3345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0636    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9170   -3.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7610   -2.6597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6145   -3.3269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4585   -2.6597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3025   -3.3269    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1560   -2.6597    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4887   -3.8156    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.0018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8138   -1.5131    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+M  END
+> <ID>
+876
+
+> <Formula>
+C6H14O6S2
+
+> <FW>
+246.3018
+
+> <DSSTox_CID>
+910
+
+> <DSSTox_RID>
+75857
+
+> <DSSTox_GSID>
+20910
+
+> <DSSTox_FileID_Sort>
+541
+
+> <TS_ChemName>
+Busulfan
+
+> <TS_ChemName_Synonyms>
+Busulfan (Myleran)
+
+> <TS_CASRN>
+55-98-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H14O6S2
+
+> <STRUCTURE_MW>
+246.3018
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+butane-1,4-diyl dimethanesulfonate
+
+> <STRUCTURE_SMILES>
+O=S(C)(=O)OCCCCOS(C)(=O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+O=S(C)(=O)OCCCCOS(C)(=O)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

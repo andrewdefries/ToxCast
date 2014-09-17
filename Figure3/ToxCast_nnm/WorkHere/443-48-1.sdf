@@ -1,0 +1,96 @@
+443-48-1
+ChemmineR-0914142331XD
+
+ 12 12  0  0  0  0  0  0  0  0  2 V2000
+    2.0462   -2.3385    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2648   -3.4178    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.0075    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6752    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2648   -1.2648    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6752    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6752   -4.6826    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.9625   -5.0256    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7364   -5.6214    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    3.3785   -2.3385    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0418   -3.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3685   -3.4909    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  5  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+858
+
+> <Formula>
+C6H9N3O3
+
+> <FW>
+171.154
+
+> <DSSTox_CID>
+892
+
+> <DSSTox_RID>
+75848
+
+> <DSSTox_GSID>
+20892
+
+> <DSSTox_FileID_Sort>
+532
+
+> <TS_ChemName>
+Metronidazole
+
+> <TS_ChemName_Synonyms>
+Metronidazole (2-(2-Methyl-5-nitro-imidazol-1-yl)-ethanol)
+
+> <TS_CASRN>
+443-48-1
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C6H9N3O3
+
+> <STRUCTURE_MW>
+171.154
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-(2-methyl-5-nitro-1H-imidazol-1-yl)ethanol
+
+> <STRUCTURE_SMILES>
+Cc1ncc([N+]([O-])=O)n1CCO
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ncc([N+]([O-])=O)n1CCO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

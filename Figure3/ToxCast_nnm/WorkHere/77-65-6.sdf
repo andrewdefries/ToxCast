@@ -1,0 +1,95 @@
+77-65-6
+ChemmineR-0914142331XD
+
+ 12 11  0  0  0  0  0  0  0  0  1 V2000
+    3.3254   -1.9916    0.0000 Br   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9916   -1.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9916   -3.3254    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.8433   -3.9892    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1459   -3.9892    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1459   -5.3170    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    4.2943   -5.9809    0.0000 O    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9916   -5.9809    0.0000 N    0  0  0  0  0  0  0  0  0  0  0  0
+    0.6639   -1.9916    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1459    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.9916   -0.6639    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+    3.1459    0.0000    0.0000 C    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <ID>
+248
+
+> <Formula>
+C7H13BrN2O2
+
+> <FW>
+237.0943
+
+> <DSSTox_CID>
+252
+
+> <DSSTox_RID>
+75465
+
+> <DSSTox_GSID>
+20252
+
+> <DSSTox_FileID_Sort>
+149
+
+> <TS_ChemName>
+Carbromal
+
+> <TS_ChemName_Synonyms>
+Carbromal (alpha-Bromo-alpha-ethylbutyrylurea)
+
+> <TS_CASRN>
+77-65-6
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C7H13BrN2O2
+
+> <STRUCTURE_MW>
+237.0943
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+2-bromo-N-carbamoyl-2-ethylbutanamide
+
+> <STRUCTURE_SMILES>
+CCC(Br)(CC)C(=O)NC(N)=O
+
+> <STRUCTURE_SMILES_Desalt>
+CCC(Br)(CC)C(=O)NC(N)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

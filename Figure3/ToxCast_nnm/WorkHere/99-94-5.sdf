@@ -1,0 +1,92 @@
+99-94-5
+ChemmineR-0914142331XD
+
+ 10 10  0  0  0  0  0  0  0  0  1 V2000
+    5.9822   -1.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6542   -1.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901   -2.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6561   -2.3031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9921   -1.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6640   -1.1546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3031    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6561    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9901    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <ID>
+1555
+
+> <Formula>
+C8H8O2
+
+> <FW>
+136.1479
+
+> <DSSTox_CID>
+1618
+
+> <DSSTox_RID>
+76238
+
+> <DSSTox_GSID>
+21618
+
+> <DSSTox_FileID_Sort>
+922
+
+> <TS_ChemName>
+4-Methylbenzoic acid
+
+> <TS_ChemName_Synonyms>
+4-Methylbenzoic acid (p-Toluic acid)
+
+> <TS_CASRN>
+99-94-5
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H8O2
+
+> <STRUCTURE_MW>
+136.1479
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+4-methylbenzoic acid
+
+> <STRUCTURE_SMILES>
+Cc1ccc(cc1)C(O)=O
+
+> <STRUCTURE_SMILES_Desalt>
+Cc1ccc(cc1)C(O)=O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

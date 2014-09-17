@@ -1,0 +1,115 @@
+55566-30-8
+ChemmineR-0914142331XD
+
+ 23 20  0  0  0  0  0  0  0  0  2 V2000
+    7.3145   -1.9915    0.0000 P   0  3  0  0  0  0  0  0  0  0  0  0
+    7.3145   -3.3222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4592   -3.9830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9838   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3137   -3.1454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3145   -0.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1606    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6453   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3060   -3.1454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6530   -6.6445    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6530   -7.9752    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6530   -5.3137    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3222   -6.6445    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    5.9838   -6.6445    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    1.9915   -1.9915    0.0000 P   0  3  0  0  0  0  0  0  0  0  0  0
+    1.9915   -3.3222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1454   -3.9830    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6607   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -3.1454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9915   -0.6607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8468    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3222   -1.9915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9923   -3.1454    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  4  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 15 22  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 22 23  1  0  0  0  0
+M  END
+> <ID>
+1278
+
+> <Formula>
+C8H24O12P2S
+
+> <FW>
+406.2815 (155.1089+96.0637+155.1089)
+
+> <DSSTox_CID>
+1331
+
+> <DSSTox_RID>
+76086
+
+> <DSSTox_GSID>
+21331
+
+> <DSSTox_FileID_Sort>
+770
+
+> <TS_ChemName>
+Tetrakis(hydroxymethyl)phosphonium sulfate
+
+> <TS_ChemName_Synonyms>
+Tetrakis(hydroxymethyl)phosphonium sulfate (THPS)
+
+> <TS_CASRN>
+55566-30-8
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C8H24O12P2S
+
+> <STRUCTURE_MW>
+406.2815
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+complex
+
+> <STRUCTURE_IUPAC>
+bis[tetrakis(hydroxymethyl)phosphonium] sulfate
+
+> <STRUCTURE_SMILES>
+OC[P+](CO)(CO)CO.[O-]S([O-])(=O)=O.OC[P+](CO)(CO)CO
+
+> <STRUCTURE_SMILES_Desalt>
+OC[P+](CO)(CO)CO
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$

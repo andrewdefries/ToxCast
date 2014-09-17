@@ -1,0 +1,102 @@
+528-44-9
+ChemmineR-0914142331XD
+
+ 15 15  0  0  0  0  0  0  0  0  1 V2000
+    0.0000   -4.6067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6630   -3.4533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9960   -3.4533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6590   -2.2999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9851   -2.2999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6551   -1.1534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9811   -1.1534    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9851    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6551   -3.4533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9851   -4.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6590   -4.6067    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9960   -5.7532    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6630   -5.7532    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6590   -6.9066    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.2999    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 15  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <ID>
+1428
+
+> <Formula>
+C9H6O6
+
+> <FW>
+210.1403
+
+> <DSSTox_CID>
+1487
+
+> <DSSTox_RID>
+76181
+
+> <DSSTox_GSID>
+21487
+
+> <DSSTox_FileID_Sort>
+865
+
+> <TS_ChemName>
+1,2,4-Benzenetricarboxylic acid
+
+> <TS_ChemName_Synonyms>
+1,2,4-Benzenetricarboxylic acid (Trimellitic acid)
+
+> <TS_CASRN>
+528-44-9
+
+> <CASRN_ChemName_Relationship>
+primary
+
+> <TS_Description>
+single chemical compound
+
+> <ChemNote>
+
+
+> <STRUCTURE_Shown>
+tested chemical
+
+> <STRUCTURE_Formula>
+C9H6O6
+
+> <STRUCTURE_MW>
+210.1403
+
+> <STRUCTURE_ChemType>
+defined organic
+
+> <STRUCTURE_DefinedOrganicForm>
+parent
+
+> <STRUCTURE_IUPAC>
+benzene-1,2,4-tricarboxylic acid
+
+> <STRUCTURE_SMILES>
+OC(=O)c1cc(ccc1C(=O)O)C(=O)O
+
+> <STRUCTURE_SMILES_Desalt>
+OC(=O)c1cc(ccc1C(=O)O)C(=O)O
+
+> <Substance_modify_yyyymmdd>
+20080429
+
+$$$$
