@@ -1,0 +1,1 @@
+(Rattus_norvegicus,Homo_sapiens,Oryctolagus_cuniculus,Saccharomyces_cerevisiae_S288c,Cavia_porcellus,Bos_taurus);

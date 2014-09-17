@@ -1,0 +1,1 @@
+(Bacillus_subtilis,Homo_sapiens,Human_immunodeficiency_virus_1,Photinus_pyralis,Mus_musculus,Escherichia_coli_O157:H7,Rattus_norvegicus,Saccharomyces_cerevisiae);

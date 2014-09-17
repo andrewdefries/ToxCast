@@ -1,0 +1,1 @@
+(Homo_sapiens,Canis_lupus_familiaris,Mus_musculus,Vaccinia_virus,Human_herpesvirus_4,Marburg_marburgvirus,Rattus_norvegicus,Human_herpesvirus_1);

@@ -1,0 +1,1 @@
+(Enterobacter_cloacae,Bacillus_cereus,Staphylococcus_aureus,Pseudomonas_aeruginosa_PAO1,Acinetobacter_pittii,Homo_sapiens,Escherichia_coli,Serratia_fonticola);

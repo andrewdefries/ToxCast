@@ -1,0 +1,1 @@
+(Homo_sapiens,Plasmodium_falciparum,Hepatitis_C_virus,Schistosoma_mansoni,Arabidopsis_thaliana,Mus_musculus,Vaccinia_virus,Plasmodium_falciparum_3D7,Sus_scrofa,Bos_taurus,Trypanosoma_cruzi,Bacillus_subtilis,SARS_coronavirus,Rattus_norvegicus,Marburg_marburgvirus,Pseudomonas_aeruginosa,Escherichia_coli_K-12);

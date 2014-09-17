@@ -1,0 +1,1 @@
+(Homo_sapiens,Mycobacterium_tuberculosis_H37Rv,Rattus_norvegicus,Vaccinia_virus,Mus_musculus,Gallus_gallus);

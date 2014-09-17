@@ -1,0 +1,1 @@
+(Homo_sapiens,Mus_musculus,Bos_taurus,Saccharomyces_cerevisiae_S288c,Ovis_aries,Rattus_norvegicus,Mycobacterium_tuberculosis,Staphylococcus_aureus,Methanosarcina_thermophila,Candida_albicans_SC5314);

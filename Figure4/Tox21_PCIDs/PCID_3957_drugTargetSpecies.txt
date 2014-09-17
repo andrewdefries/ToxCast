@@ -1,0 +1,1 @@
+(Rattus_norvegicus,Homo_sapiens,Saccharomyces_cerevisiae_S288c,Mus_musculus,Marburg_marburgvirus,Bos_taurus);

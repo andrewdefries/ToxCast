@@ -1,0 +1,38 @@
+
+R version 3.0.3 (2014-03-06) -- "Warm Puppy"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(ape)
+> library(parallel)
+> 
+> files<-list.files(pattern="drugTargetSpecies.txt")
+> 
+> 
+> ploTrees<-function(u){
++ png(gsub(".txt", ".png", files[u]))
++ tree<-read.tree(files[u])
++ plot(tree,main=files[u])
++ dev.off()
++ }
+> u<-1:length(files)
+> lapply(u, ploTrees) ##, mc.cores=4)
+Error in if (sum(obj[[i]]$edge[, 1] == ROOT) == 1 && dim(obj[[i]]$edge)[1] >  : 
+  missing value where TRUE/FALSE needed
+Calls: lapply -> FUN -> read.tree
+In addition: There were 50 or more warnings (use warnings() to see the first 50)
+Execution halted

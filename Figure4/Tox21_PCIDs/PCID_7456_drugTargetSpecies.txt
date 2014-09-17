@@ -1,0 +1,1 @@
+(Spinacia_oleracea,Homo_sapiens,Bos_taurus);

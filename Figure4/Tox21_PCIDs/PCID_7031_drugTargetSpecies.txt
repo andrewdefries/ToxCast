@@ -1,0 +1,1 @@
+(Homo_sapiens,Photinus_pyralis,Caenorhabditis_elegans,Saccharomyces_cerevisiae_S288c,Escherichia_coli_O157:H7,Rattus_norvegicus,Bos_taurus);

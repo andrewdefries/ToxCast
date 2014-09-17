@@ -1,0 +1,67 @@
+
+R version 3.0.3 (2014-03-06) -- "Warm Puppy"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> ##################
+> library(bioassayR)
+Loading required package: DBI
+Loading required package: RSQLite
+> library(ChemmineR)
+> library(RSQLite)
+> library(ape)
+> library(parallel)
+> ##################
+> 
+> #FiveWay <-read.table("5Way_PCIDs_fromChris")
+> #DrugBank4Now <-read.table("DrugBank_PCID_fromChrisFinal")
+> #DrugBank4Now <-read.table("LATCA_PCIDs_fromJan")
+> 
+> #OverLap<-FiveWay[,1]%in%DrugBank4Now[,1]
+> 
+> db <-dbConnect(SQLite(), dbname="bioassayDatabaseWithSpecies.sqlite")
+> 
+> sampleDatabasePath <- file.path(getwd(), "bioassayDatabaseWithSpecies.sqlite")
+> 
+> pubChemDatabase <- connectBioassayDB(sampleDatabasePath)
+> 
+> ############
+> ##query<-DrugBank4Now[,1]
+> #query<-"2244"
+> #query<-"132970"
+> ############
+> ############
+> DoTheQuery<-function(a){
++ drugTargets <- activeTargets(pubChemDatabase, "7847")
++ targetSequences <- read.GenBank(row.names(drugTargets), species.names = TRUE)
++ drugTargetSpecies<-cbind(attr(targetSequences, "species"), names(targetSequences))
++ ############
++ write.table(drugTargets, file=paste("PCID_", "7847", "_drugTargets", sep=""), col.names=F, row.names=F, quote=F)
++ write.table(unique(drugTargetSpecies[,1]), file=paste("PCID_", "7847", "_drugTargetSpecies", sep=""), col.names=F, row.names=F, quote=F)
++ write.table(targetSequences, file=paste("PCID_", "7847", "_drugTargetSequences", sep=""), col.names=F, row.names=F, quote=F)
++ ############
++ }
+> ############
+> a<-1#:length(query)
+> #mclapply(a,DoTheQuery, mc.cores=1)
+> lapply(a,DoTheQuery) ##, mc.cores=1)
+Error in as.data.frame.default(x[[i]], optional = TRUE, stringsAsFactors = stringsAsFactors) : 
+  cannot coerce class ""DNAbin"" to a data.frame
+Calls: lapply ... data.frame -> as.data.frame -> as.data.frame.default
+Execution halted

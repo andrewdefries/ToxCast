@@ -1,0 +1,1 @@
+(Bacillus_subtilis,Homo_sapiens,Mus_musculus,Bacillus_anthracis_str._A2012,Rattus_norvegicus);

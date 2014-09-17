@@ -1,0 +1,1 @@
+(Homo_sapiens,Dicentrarchus_labrax,Saccharomyces_cerevisiae_S288c,Brucella_suis_1330,Mus_musculus,Mycobacterium_tuberculosis,Bos_taurus,Helicobacter_pylori_26695,Methanosarcina_thermophila,Candida_glabrata,Candida_albicans_SC5314);

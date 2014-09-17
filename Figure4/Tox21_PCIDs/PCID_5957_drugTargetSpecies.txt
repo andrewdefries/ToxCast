@@ -1,0 +1,1 @@
+(Homo_sapiens,Rattus_norvegicus,Escherichia_coli_K-12,Canis_lupus_familiaris);

@@ -1,0 +1,1 @@
+(Homo_sapiens,Bacillus_subtilis,Plasmodium_falciparum_3D7,Photinus_pyralis,Saccharomyces_cerevisiae_S288c,Mus_musculus,Escherichia_coli_O157:H7,Rattus_norvegicus,Caenorhabditis_elegans,Plasmodium_falciparum);

@@ -1,0 +1,1 @@
+(Influenza_A_virus_(A/chicken/Yogjakarta/BBVet-IX/2004(H5N1)),Influenza_B_virus_(STRAIN_B/VICTORIA/3/85),Influenza_A_virus_(A/Puerto_Rico/8/1934(H1N1)),Homo_sapiens,Influenza_A_virus_(A/Singapore/1/1957(H2N2)),Influenza_B_virus,Influenza_A_virus_(A/Shangdong/9/1993(H3N2)),Influenza_A_virus_(A/Thailand/1(KAN-1)/2004(H5N1)));

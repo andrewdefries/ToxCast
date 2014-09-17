@@ -1,0 +1,1 @@
+(Bacillus_subtilis,Homo_sapiens,Giardia_intestinalis,Schistosoma_mansoni,Helicobacter_pylori_26695,Escherichia_coli_str._K-12_substr._MG1655,Vibrio_harveyi,Marburg_marburgvirus);

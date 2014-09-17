@@ -1,0 +1,1 @@
+(Bos_taurus,Homo_sapiens,Rattus_norvegicus,Plasmodium_falciparum_3D7);

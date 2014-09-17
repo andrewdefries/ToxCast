@@ -1,0 +1,1 @@
+(Homo_sapiens,Mus_musculus,Schistosoma_mansoni,Photinus_pyralis,Rattus_norvegicus,Gallus_gallus,Human_immunodeficiency_virus_1,Human_herpesvirus_1);

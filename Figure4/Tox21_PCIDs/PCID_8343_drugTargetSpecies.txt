@@ -1,0 +1,1 @@
+(Yersinia_pestis_CO92,Homo_sapiens,Rattus_norvegicus);

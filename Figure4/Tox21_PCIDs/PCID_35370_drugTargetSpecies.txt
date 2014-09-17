@@ -1,0 +1,1 @@
+(Homo_sapiens,Staphylococcus_aureus,Human_herpesvirus_8,Helicobacter_pylori_26695,Escherichia_coli_str._K-12_substr._MG1655,Ureaplasma_parvum_serovar_3_str._ATCC_700970,Mycobacterium_tuberculosis,Human_immunodeficiency_virus_1,Vibrio_cholerae_O1_biovar_El_Tor_str._N16961);

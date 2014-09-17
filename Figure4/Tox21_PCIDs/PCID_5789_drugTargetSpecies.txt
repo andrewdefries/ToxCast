@@ -1,0 +1,1 @@
+(Staphylococcus_aureus,Homo_sapiens,Ureaplasma_parvum_serovar_3_str._ATCC_700970,Mycobacterium_tuberculosis);

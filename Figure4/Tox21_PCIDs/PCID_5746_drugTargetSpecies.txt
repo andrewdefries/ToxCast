@@ -1,0 +1,1 @@
+(Homo_sapiens,Helicobacter_pylori_26695,Staphylococcus_aureus_subsp._aureus_Mu50,Escherichia_coli_str._K-12_substr._MG1655,Rattus_norvegicus);

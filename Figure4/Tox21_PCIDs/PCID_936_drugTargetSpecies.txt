@@ -1,0 +1,1 @@
+(Escherichia_coli_O157:H7,Homo_sapiens,Rattus_norvegicus);

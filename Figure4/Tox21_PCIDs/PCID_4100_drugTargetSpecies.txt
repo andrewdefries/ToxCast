@@ -1,0 +1,1 @@
+(Bacillus_subtilis,Homo_sapiens,Human_immunodeficiency_virus_1,Saccharomyces_cerevisiae_S288c,Mus_musculus,Mycobacterium_tuberculosis,Bos_taurus,Helicobacter_pylori_26695,Methanosarcina_thermophila,Candida_albicans_SC5314);

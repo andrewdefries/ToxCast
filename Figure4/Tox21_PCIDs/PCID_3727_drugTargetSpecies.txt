@@ -1,0 +1,1 @@
+(Escherichia_coli_K-12,Homo_sapiens,Rattus_norvegicus,Mus_musculus,Trypanosoma_brucei_brucei_TREU927);
